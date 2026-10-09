@@ -481,3 +481,11 @@ pre.code { font-size: 0.85rem; }
 .usage-bars i:nth-child(3) { height: 11px; }
 .usage-bars i:nth-child(4) { height: 14px; }
 .usage-bars i.on { background: var(--accent); }
+
+/* ── search: translations first, then related words ── */
+.results-sub { font-family: var(--serif); font-size: 1.3rem; font-weight: 600; margin: 8px 0 12px; }
+.results-sub small { font-family: var(--sans); font-size: 0.85rem; font-weight: 400; margin-left: 6px; }
+.word-grid.direct a { border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); background: linear-gradient(160deg, var(--surface) 60%, var(--accent-soft)); }
+.word-grid.direct .wc-word { font-size: 1.3rem; }
+.direct-tag { color: var(--ok); }
+.also { color: var(--text); font-weight: 600; }

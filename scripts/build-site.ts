@@ -595,7 +595,7 @@ function searchPage(): string {
 <div class="search-page">
   ${searchBox({ size: "big" })}
   <h1 class="search-title"></h1>
-  <ul class="word-grid search-results"></ul>
+  <div class="search-results"></div>
 </div>`;
   return layout({ title: "Kërko — FjaloriShqip", description: "Kërko në fjalorin shqip.", body, headerSearch: false });
 }
@@ -609,6 +609,30 @@ function notFoundPage(): string {
   ${searchBox({ size: "big", chips: true })}
 </div>`;
   return layout({ title: "404 — FjaloriShqip", description: "Faqja nuk u gjet.", body, headerSearch: false });
+}
+
+/**
+ * Short English meanings as search keys, so "food" finds ushqim ("food") before words that only
+ * mention food. Must match normEnglish() in public/app.js.
+ */
+export function normEnglish(s: string): string {
+  return s
+    .toLowerCase()
+    .replace(/\([^)]*\)/g, " ")
+    .replace(/^\s*(to|a|an|the)\s+/, "")
+    .replace(/[^a-z' -]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function englishKeys(glosses: string[]): string[] {
+  const keys = new Set<string>();
+  for (const g of glosses)
+    for (const part of g.replace(/\([^)]*\)/g, " ").split(/[;,]/)) {
+      const k = normEnglish(part);
+      if (k.length >= 2 && k.length <= 30 && k.split(" ").length <= 3) keys.add(k);
+    }
+  return [...keys];
 }
 
 // ── API files ────────────────────────────────────────────────────────────────
@@ -641,8 +665,19 @@ function apiWord(w: Word): object {
     write(`api/v1/fjala/${slug(w.word)}.json`, JSON.stringify(apiWord(w)));
   }
 
-  // search index: [word, folded key, pos (sq), short English gloss, Wikipedia count]
-  write("api/v1/kerko.json", JSON.stringify(words.map((w) => [w.word, foldKey(w.word), w.entries[0] ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0])));
+  // search index: [word, folded key, pos (sq), short English gloss, Wikipedia count,
+  //                English keys of the first meaning, English keys of the other meanings]
+  write(
+    "api/v1/kerko.json",
+    JSON.stringify(
+      words.map((w) => {
+        const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en").map((s) => s.gloss);
+        const first = englishKeys(glosses.slice(0, 1));
+        const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
+        return [w.word, foldKey(w.word), w.entries[0] ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|")];
+      }),
+    ),
+  );
   write("api/v1/fjalet.json", JSON.stringify(words.map((w) => w.word)));
   write("api/v1/statistika.json", JSON.stringify({ ...stats, licence: "CC BY-SA 4.0; words marked unverified: GPL-2.0-or-later" }, null, 2));
 

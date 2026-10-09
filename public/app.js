@@ -80,27 +80,40 @@
   var shardCache = {};
   function loadShard(c) { return shardCache[c] || (shardCache[c] = getJson("/api/v1/format/" + c + ".json").catch(function () { return {}; })); }
 
-  /** Rank: exact > Albanian prefix > English meaning word match > contains. */
+  /** Same as normEnglish() in scripts/build-site.ts: "to work (hard)" → "work". */
+  function normEnglish(s) {
+    return s.toLowerCase().replace(/\([^)]*\)/g, " ").replace(/^\s*(to|a|an|the)\s+/, "").replace(/[^a-z' -]/g, " ").replace(/\s+/g, " ").trim();
+  }
+
+  /**
+   * Rank: Albanian word > English translation (the meaning IS the query) > Albanian prefix
+   * > English meaning that only mentions the query > contains. Returns [{ row, direct }].
+   */
   function searchIndex(index, q) {
     var k = fold(q);
     var ql = q.toLowerCase().trim();
     if (!k && !ql) return [];
     var eng = ql.replace(/[^a-z ]/g, "");
+    var en = normEnglish(q);
+    var key = "|" + en + "|";
     var re = eng.length >= 3 ? new RegExp("(^|[^a-z])" + eng + "([^a-z]|$)") : null;
     var res = [];
     for (var i = 0; i < index.length; i++) {
-      var row = index[i]; // [word, fold, pos, gloss, Wikipedia count]
+      var row = index[i]; // [word, fold, pos, gloss, Wikipedia count, English keys (1st meaning), English keys (others)]
       var score = 0;
+      var direct = false;
       if (row[1] === k) score = 100 - (row[0].toLowerCase() === ql ? 0 : 1);
+      else if (en.length >= 2 && row[5] && ("|" + row[5] + "|").indexOf(key) >= 0) { score = 86; direct = true; }
+      else if (en.length >= 2 && row[6] && ("|" + row[6] + "|").indexOf(key) >= 0) { score = 80; direct = true; }
       else if (k && row[1].indexOf(k) === 0) score = 60 - Math.min(20, row[1].length - k.length);
       else if (re && re.test(row[3].toLowerCase())) score = 35 - Math.min(15, row[3].length / 10);
       else if (k.length >= 3 && row[1].indexOf(k) > 0) score = 15;
-      // common words and words with a meaning first
+      // common words and words with a meaning first (at most +12: never above an exact Albanian match)
       if (score && score < 99) score += Math.min(8, Math.log(1 + (row[4] || 0)) / Math.LN10 * 2) + (row[3] ? 4 : 0);
-      if (score) res.push([score, row]);
+      if (score) res.push([score, row, direct]);
     }
     res.sort(function (a, b) { return b[0] - a[0] || a[1][0].length - b[1][0].length; });
-    return res.map(function (r) { return r[1]; });
+    return res.map(function (r) { return { row: r[1], direct: r[2] }; });
   }
 
   function formMatches(q) {
@@ -115,8 +128,8 @@
       var index = r[0], forms = r[1], seen = {}, out = [];
       var byWord = null;
       if (forms.length) { byWord = {}; for (var i = 0; i < index.length; i++) byWord[index[i][0]] = index[i]; }
-      forms.forEach(function (w) { var row = byWord[w]; if (row && !seen[w]) { seen[w] = 1; out.push({ row: row, form: true }); } });
-      searchIndex(index, q).forEach(function (row) { if (!seen[row[0]] && out.length < limit) { seen[row[0]] = 1; out.push({ row: row, form: false }); } });
+      forms.forEach(function (w) { var row = byWord[w]; if (row && !seen[w]) { seen[w] = 1; out.push({ row: row, form: true, direct: false }); } });
+      searchIndex(index, q).forEach(function (x) { if (!seen[x.row[0]] && out.length < limit) { seen[x.row[0]] = 1; out.push({ row: x.row, form: false, direct: x.direct }); } });
       return out.slice(0, limit);
     });
   }
@@ -136,7 +149,7 @@
         active = -1;
         list.innerHTML = rows.map(function (x, i) {
           var r = x.row;
-          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
+          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("") + (rows.length ? '<li class="sugg-foot"><a href="' + BASE + "/kerko/?q=" + encodeURIComponent(q.trim()) + '">' + bi("Shiko të gjitha rezultatet për", "See all results for") + " “" + esc(q.trim()) + "” →</a></li>" : "");
         list.hidden = rows.length === 0;
         input.setAttribute("aria-expanded", String(!list.hidden));
@@ -207,12 +220,21 @@
         title.innerHTML = rows.length
           ? bi("Rezultatet për", "Results for") + " “" + esc(q) + '”<span class="search-count">' + rows.length + (rows.length >= 120 ? "+" : "") + "</span>"
           : bi("Asnjë rezultat për", "No results for") + " “" + esc(q) + "”";
-        results.innerHTML = rows.map(function (x) {
+        var card = function (x) {
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
             (x.form ? '<span class="wc-form">' + bi("formë e kërkuar", "matching form") + "</span>" : "") +
-            '</span><span class="wc-pos">' + esc(r[2]) + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
-        }).join("");
+            '</span><span class="wc-pos">' + esc(r[2]) + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
+            // "food" is another meaning of this word (bukë: bread; also food)
+            (x.direct && ("|" + r[5] + "|").indexOf("|" + normEnglish(q) + "|") < 0 ? ' · <b class="also">' + bi("edhe", "also") + " “" + esc(q) + "”</b>" : "") + "</span></a></li>";
+        };
+        // English query: the Albanian words for it first, then words whose meaning only mentions it
+        var direct = rows.filter(function (x) { return x.direct; });
+        var rest = rows.filter(function (x) { return !x.direct; });
+        results.innerHTML = direct.length
+          ? '<h2 class="results-sub">“' + esc(q) + "” " + bi("në shqip", "in Albanian") + '</h2><ul class="word-grid direct">' + direct.map(card).join("") + "</ul>" +
+            (rest.length ? '<h2 class="results-sub">' + bi("Fjalë të lidhura", "Related words") + ' <small class="muted">' + bi("kuptimi i tyre përmend", "their meaning mentions") + " “" + esc(q) + "”</small></h2>" + '<ul class="word-grid">' + rest.map(card).join("") + "</ul>" : "")
+          : '<ul class="word-grid">' + rows.map(card).join("") + "</ul>";
         if (!rows.length) {
           results.outerHTML = '<p class="empty">' + bi("Provoni një drejtshkrim tjetër, një fjalë anglisht ose shfletoni sipas shkronjës.", "Try another spelling, an English word, or browse by letter.") +
             ' <a href="' + BASE + '/shkronja/a/">' + bi("Shfleto", "Browse") + " →</a></p>";
