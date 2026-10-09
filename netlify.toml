@@ -1,0 +1,21 @@
+# Netlify hosting (free tier) until the official launch with our own domain.
+# Netlify runs this on every push to main: fetch the open sources, merge them, generate the site.
+[build]
+  command = "npm test && npm run sources && npm run data && npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # test phase: keep the site out of search engines until the official launch
+  NOINDEX = "1"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=3600"

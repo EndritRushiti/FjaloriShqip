@@ -1,0 +1,48 @@
+# Builds the dictionary from the open sources and publishes it on GitHub Pages (free).
+# Manual for now: the site is hosted on Netlify (netlify.toml) until the official launch.
+# To switch to GitHub Pages: Settings > Pages > Source: GitHub Actions, then add the
+# push/schedule triggers below back.
+name: Deploy to GitHub Pages
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+  # schedule:
+  #   - cron: "0 3 * * 1" # every Monday: refresh data from the sources
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run sources
+      - run: npm run data
+      - run: npm run build
+        env:
+          # project site: https://<user>.github.io/<repo>/ — use "" with a custom domain
+          BASE_PATH: ${{ vars.BASE_PATH || format('/{0}', github.event.repository.name) }}
+          SITE_URL: ${{ vars.SITE_URL }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,24 @@
+{
+  "name": "fjalorishqip",
+  "version": "0.1.0",
+  "private": true,
+  "description": "FjaloriShqip — an open Albanian dictionary built only from openly licensed sources, with a static JSON API.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "sources": "tsx scripts/fetch-sources.ts",
+    "data": "tsx scripts/build-data.ts",
+    "build": "tsx scripts/build-site.ts",
+    "all": "npm run sources && npm run data && npm run build",
+    "serve": "tsx scripts/serve.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "5.9",
+    "unbzip2-stream": "^1.4.3",
+    "vitest": "^5.0.3"
+  }
+}
