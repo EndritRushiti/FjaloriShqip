@@ -113,7 +113,7 @@ ${opts.canonical && SITE_URL ? `<link rel="canonical" href="${h(SITE_URL + url(o
   </div>
   <div class="wrap footer-bottom">
     <p>${t("licenceNote")}</p>
-    <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor.")}</p>
+    <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor, Hunspell sq_AL, Wikipedia.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor, Hunspell sq_AL, Wikipedia.")}</p>
   </div>
 </footer>
 <script src="${url("/app.js")}" defer></script>
@@ -185,7 +185,28 @@ function sourceLink(w: Word, id: SourceId): string {
     ? `https://en.wiktionary.org/wiki/${encodeURIComponent(w.word)}#Albanian`
     : id === "sq-wiktionary"
       ? `https://sq.wiktionary.org/wiki/${encodeURIComponent(w.word)}`
-      : `https://www.wikidata.org/w/index.php?search=${encodeURIComponent(w.word)}&ns146=1`;
+      : id === "hunspell-sq"
+        ? SOURCES[id].url
+        : id === "wikipedia-sq"
+          ? `https://sq.wikipedia.org/w/index.php?search=${encodeURIComponent(w.word)}&fulltext=1`
+          : `https://www.wikidata.org/w/index.php?search=${encodeURIComponent(w.word)}&ns146=1`;
+}
+
+/** Licence of one word's data: words found only in the Hunspell list keep its GPL licence. */
+const wordLicence = (w: Word) => (w.sources.includes("hunspell-sq") ? "GPL-2.0-or-later" : "CC BY-SA 4.0");
+
+/** How common a word is, from its Wikipedia count (word + forms). */
+function usage(n = 0): { level: number; sq: string; en: string } {
+  if (n >= 1000) return { level: 4, sq: "Shumë e zakonshme", en: "Very common" };
+  if (n >= 100) return { level: 3, sq: "E zakonshme", en: "Common" };
+  if (n >= 10) return { level: 2, sq: "E përdorur", en: "In use" };
+  if (n >= 1) return { level: 1, sq: "E rrallë", en: "Rare" };
+  return { level: 0, sq: "Shumë e rrallë", en: "Very rare" };
+}
+
+function usageHtml(n?: number): string {
+  const u = usage(n);
+  return `<span class="usage" title="${h(`Wikipedia: ${num(n ?? 0)}`)}"><span class="usage-bars" aria-hidden="true">${[1, 2, 3, 4].map((i) => `<i${i <= u.level ? ' class="on"' : ""}></i>`).join("")}</span>${bi(u.sq, u.en)}</span>`;
 }
 
 function attribution(w: Word): string {
@@ -241,6 +262,18 @@ function wordPage(w: Word): string {
   if (ipa.length) facts.push([t("pronunciation"), `<span class="ipa">${ipa.map(h).join(" · ")}</span>`]);
   if (gheg.length) facts.push([`<span class="dialect-dot gheg"></span>${t("gheg")}`, uniq(gheg).map(link).join(", ")]);
   if (tosk.length) facts.push([`<span class="dialect-dot tosk"></span>${t("tosk")}`, uniq(tosk).map(link).join(", ")]);
+  facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
+
+  const unverified = w.unverified
+    ? `<section class="card unverified">
+      <h2>${icon.sparkle(18)} ${bi("Fjalë e re, ende pa kuptim", "New word, no meaning yet")}</h2>
+      <p>${bi(
+        "Kjo fjalë u gjet automatikisht në fjalorin drejtshkrimor shqip (Hunspell) dhe përdoret në Wikipedia shqip. Kuptimi do të shtohet më vonë.",
+        "This word was found automatically in the Albanian spell-checking dictionary (Hunspell) and is used in Albanian Wikipedia. Its meaning will be added later.",
+      )}${pos.length ? ` ${bi("Lloji i fjalës është përcaktuar automatikisht nga mbaresa.", "The word class was guessed from its ending.")}` : ""}</p>
+      <p class="muted small">${bi("Licenca e kësaj fjale: GPL-2.0 ose më e re (nga lista e Luan Kelmendit).", "Licence of this word: GPL-2.0-or-later (from Luan Kelmendi's list).")}</p>
+    </section>`
+    : "";
 
   const body = `
 ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())}`, letterUrl(letter)], [h(w.word), null]])}
@@ -255,7 +288,8 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span> ${h(firstGloss)}</p>` : ""}
       ${variant}
     </header>
-    ${w.entries.map(entryHtml).join("")}
+    ${unverified}
+    ${w.unverified ? "" : w.entries.map(entryHtml).join("")}
     ${borrowed}
     ${attribution(w)}
   </article>
@@ -301,7 +335,8 @@ function shortGloss(w: Word): string {
 function wordCard(w: Word): string {
   const e = w.entries[0];
   const dialect = w.variantOf?.[0]?.kind;
-  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${h(shortGloss(w))}</span></a></li>`;
+  const gloss = shortGloss(w);
+  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${gloss ? h(gloss) : `<i class="no-meaning">${bi("ende pa kuptim", "no meaning yet")}</i>`}</span></a></li>`;
 }
 
 function letterPages(): number {
@@ -458,9 +493,13 @@ ${rows}
     "Për shkak se përmbajtja e Wiktionary përdoret me licencën CC BY-SA 4.0, i gjithë fjalori publikohet me të njëjtën licencë. Mund ta kopjoni, ndryshoni dhe përdorni edhe për qëllime tregtare, me kusht që të përmendni FjaloriShqip dhe burimet origjinale dhe të ndani punën tuaj me të njëjtën licencë.",
     "Because Wiktionary content is used under CC BY-SA 4.0, the whole dictionary is published under the same licence. You may copy, change and use it, even commercially, as long as you credit FjaloriShqip and the original sources and share your work under the same licence.",
   )}</p>
+  <p>${bi(
+    "Përjashtim: fjalët e shënuara si \"ende pa kuptim\", të marra nga lista drejtshkrimore Hunspell e Luan Kelmendit, mbeten me licencën e saj GPL-2.0 ose më të re. Çdo fjalë e tillë e tregon këtë në faqen e saj dhe në API (fusha \"licence\").",
+    "Exception: the words marked \"no meaning yet\", taken from Luan Kelmendi's Hunspell spell-checking list, keep its GPL-2.0-or-later licence. Every such word says so on its page and in the API (the \"licence\" field).",
+  )}</p>
   <p>${bi("Kodi i faqes është me licencën MIT.", "The website's code is MIT-licensed.")}</p>
   <h3>${bi("Si të citoni", "How to cite")}</h3>
-  <pre>FjaloriShqip — open Albanian dictionary (CC BY-SA 4.0), built from Wiktionary (CC BY-SA 4.0), Wikidata (CC0) and Wikifjalor (CC BY-SA 4.0). Data version ${h(stats.built)}.</pre>
+  <pre>FjaloriShqip — open Albanian dictionary (CC BY-SA 4.0), built from Wiktionary (CC BY-SA 4.0), Wikidata (CC0) and Wikifjalor (CC BY-SA 4.0); additional headwords from the Albanian Hunspell list by Luan Kelmendi (GPL-2.0-or-later); word frequencies from Albanian Wikipedia. Data version ${h(stats.built)}.</pre>
 </section>
 <section class="card card-warn">
   <h2>${bi("Çfarë nuk përdorim kurrë", "What we never use")}</h2>
@@ -577,7 +616,7 @@ function apiWord(w: Word): object {
   return {
     ...w,
     url: SITE_URL ? `${SITE_URL}${url(`/fjala/${encodeURIComponent(slug(w.word))}/`)}` : undefined,
-    licence: "CC BY-SA 4.0",
+    licence: wordLicence(w),
     attribution: w.sources.map((id) => `${SOURCES[id].name} — ${SOURCES[id].licence}`),
   };
 }
@@ -602,10 +641,10 @@ function apiWord(w: Word): object {
     write(`api/v1/fjala/${slug(w.word)}.json`, JSON.stringify(apiWord(w)));
   }
 
-  // search index: [word, folded key, pos (sq), short English gloss]
-  write("api/v1/kerko.json", JSON.stringify(words.map((w) => [w.word, foldKey(w.word), w.entries[0] ? POS_SQ[w.entries[0].pos] : "", shortGloss(w)])));
+  // search index: [word, folded key, pos (sq), short English gloss, Wikipedia count]
+  write("api/v1/kerko.json", JSON.stringify(words.map((w) => [w.word, foldKey(w.word), w.entries[0] ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0])));
   write("api/v1/fjalet.json", JSON.stringify(words.map((w) => w.word)));
-  write("api/v1/statistika.json", JSON.stringify({ ...stats, licence: "CC BY-SA 4.0" }, null, 2));
+  write("api/v1/statistika.json", JSON.stringify({ ...stats, licence: "CC BY-SA 4.0; words marked unverified: GPL-2.0-or-later" }, null, 2));
 
   // inflected and dialect forms → headword, sharded by first folded letter (searching "punova" finds "punoj")
   const shards = new Map<string, Record<string, string[]>>();

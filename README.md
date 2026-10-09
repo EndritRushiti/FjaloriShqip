@@ -21,11 +21,27 @@ Interface: Albanian first, English second (switch in the header).
 | [Wiktionary](https://en.wiktionary.org/wiki/Category:Albanian_language) (via [kaikki.org](https://kaikki.org/dictionary/Albanian/)) | CC BY-SA 4.0 | words, English meanings, forms, IPA, examples, Gheg/Tosk forms |
 | [Wikidata Lexemes](https://www.wikidata.org/wiki/Wikidata:Lexicographical_data) | CC0 | words, word class, short glosses |
 | [Wikifjalor](https://sq.wiktionary.org/wiki/Kategoria:Shqip) (community-written pages only) | CC BY-SA 4.0 | word, part of speech, gender |
+| [Hunspell sq_AL](https://github.com/LibreOffice/dictionaries/tree/master/sq_AL) (Luan Kelmendi) | GPL-2.0-or-later | extra headwords without meanings, marked *unverified* |
+| [Wikipedia shqip](https://sq.wikipedia.org/) | CC BY-SA 4.0 | word counts only (how common a word is) |
 
 **Never used:** definitions, examples or word lists from copyrighted dictionaries, such as the Academy's *Fjalori i gjuhës shqipe* (FGJSSH), printed dictionaries or other dictionary websites. About 33,000 Wikifjalor pages copy the FGJSSH layout and are excluded completely. See [DATA-LICENSE.md](DATA-LICENSE.md).
 
 - Code: **MIT** ([LICENSE](LICENSE))
-- Data: **CC BY-SA 4.0**
+- Data: **CC BY-SA 4.0**; the unverified Hunspell words: **GPL-2.0-or-later**
+
+### Extra words from the spell-checking list
+
+`scripts/lib/hunspell-lemmas.ts` finds base words in the Hunspell list, which mostly spells out
+inflected forms (*punoj, punon, punova…*). A word counts as a base word unless suffix rules explain it
+as a form of another listed word. A new word is only added when it, or one of its forms, appears in
+Albanian Wikipedia. Measured on the words we already know, about 92% of these are real base words.
+
+Word counts are made occasionally on a developer machine; the 160 MB dump is not needed for the build:
+
+```bash
+curl -LO https://dumps.wikimedia.org/sqwiki/latest/sqwiki-latest-pages-articles.xml.bz2   # into ./sources
+bzip2 -dc sources/sqwiki-latest-pages-articles.xml.bz2 | npx tsx scripts/word-frequency.ts
+```
 
 ## API
 

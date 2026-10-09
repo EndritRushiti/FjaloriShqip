@@ -89,12 +89,14 @@
     var re = eng.length >= 3 ? new RegExp("(^|[^a-z])" + eng + "([^a-z]|$)") : null;
     var res = [];
     for (var i = 0; i < index.length; i++) {
-      var row = index[i]; // [word, fold, pos, gloss]
+      var row = index[i]; // [word, fold, pos, gloss, Wikipedia count]
       var score = 0;
       if (row[1] === k) score = 100 - (row[0].toLowerCase() === ql ? 0 : 1);
       else if (k && row[1].indexOf(k) === 0) score = 60 - Math.min(20, row[1].length - k.length);
       else if (re && re.test(row[3].toLowerCase())) score = 35 - Math.min(15, row[3].length / 10);
       else if (k.length >= 3 && row[1].indexOf(k) > 0) score = 15;
+      // common words and words with a meaning first
+      if (score && score < 99) score += Math.min(8, Math.log(1 + (row[4] || 0)) / Math.LN10 * 2) + (row[3] ? 4 : 0);
       if (score) res.push([score, row]);
     }
     res.sort(function (a, b) { return b[0] - a[0] || a[1][0].length - b[1][0].length; });
@@ -134,7 +136,7 @@
         active = -1;
         list.innerHTML = rows.map(function (x, i) {
           var r = x.row;
-          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + "</small><span>" + esc(r[3]) + "</span></a></li>";
+          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("") + (rows.length ? '<li class="sugg-foot"><a href="' + BASE + "/kerko/?q=" + encodeURIComponent(q.trim()) + '">' + bi("Shiko të gjitha rezultatet për", "See all results for") + " “" + esc(q.trim()) + "” →</a></li>" : "");
         list.hidden = rows.length === 0;
         input.setAttribute("aria-expanded", String(!list.hidden));
@@ -209,7 +211,7 @@
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
             (x.form ? '<span class="wc-form">' + bi("formë e kërkuar", "matching form") + "</span>" : "") +
-            '</span><span class="wc-pos">' + esc(r[2]) + '</span><span class="wc-gloss">' + esc(r[3]) + "</span></a></li>";
+            '</span><span class="wc-pos">' + esc(r[2]) + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("");
         if (!rows.length) {
           results.outerHTML = '<p class="empty">' + bi("Provoni një drejtshkrim tjetër, një fjalë anglisht ose shfletoni sipas shkronjës.", "Try another spelling, an English word, or browse by letter.") +

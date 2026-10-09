@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq";
 
 export interface SourceInfo {
   id: SourceId;
@@ -59,6 +59,36 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Rreth 33.000 faqe janë në formatin e Fjalorit të Akademisë (FGJSSH: fjala me shkronja të mëdha dhe shkurtimet e tij) dhe duken të kopjuara prej tij. Ato përjashtohen plotësisht, edhe vetë lista e fjalëve, sepse ai fjalor mbrohet nga e drejta e autorit dhe e drejta e bazës së të dhënave. Përkufizimet e faqeve të tjera gjithashtu nuk merren.",
       en: "About 33,000 pages follow the layout of the Academy dictionary (FGJSSH: uppercase headword and its abbreviations) and appear to be copied from it. They are excluded entirely, including the word list itself, because that dictionary is protected by copyright and database right. Definitions from the remaining pages are not used either.",
+    },
+  },
+  "hunspell-sq": {
+    id: "hunspell-sq",
+    name: "Fjalori drejtshkrimor shqip për Hunspell (sq_AL)",
+    publisher: "Luan Kelmendi; shpërndarë me LibreOffice",
+    url: "https://github.com/LibreOffice/dictionaries/tree/master/sq_AL",
+    downloadUrl: "https://raw.githubusercontent.com/LibreOffice/dictionaries/master/sq_AL/sq_AL.dic",
+    licence: "GPL-2.0-or-later",
+    licenceUrl: "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    usedFor: {
+      sq: "Vetëm lista e fjalëve: fjalë bazë që nuk ishin në burimet e tjera, të gjetura automatikisht ndër format e listës drejtshkrimore, me llojin e fjalës kur mund të përcaktohet nga mbaresa. Këto fjalë nuk kanë ende kuptim dhe shënohen si të paverifikuara. Ato janë me licencën GPL-2.0 ose më të re (jo CC BY-SA) dhe çdo fjalë e tillë e tregon këtë.",
+      en: "The word list only: base words that were missing from the other sources, found automatically among the forms of the spell-checking list, with the word class when the ending shows it. These words have no meaning yet and are marked as unverified. They are licensed GPL-2.0-or-later (not CC BY-SA), and every such word says so.",
+    },
+    notUsed: {
+      sq: "Fjalët që shfaqen vetëm në listë por asnjëherë në Wikipedia nuk shtohen ende, sepse shpesh janë forma të lakuara dhe jo fjalë bazë.",
+      en: "Words that appear in the list but never in Wikipedia are not added yet, because they are often inflected forms rather than base words.",
+    },
+  },
+  "wikipedia-sq": {
+    id: "wikipedia-sq",
+    name: "Wikipedia shqip (sq.wikipedia.org)",
+    publisher: "Wikimedia Foundation & Wikipedia contributors",
+    url: "https://sq.wikipedia.org/",
+    downloadUrl: "https://dumps.wikimedia.org/sqwiki/latest/",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Vetëm numërimi i fjalëve: sa herë shfaqet çdo fjalë (me format e saj) në artikuj. Përdoret për të renditur fjalët nga më të përdorurat dhe për të konfirmuar se një fjalë e re përdoret realisht. Nuk kopjohet asnjë tekst.",
+      en: "Word counts only: how often each word (with its forms) appears in the articles. Used to rank words from most to least used and to confirm that a new word is really in use. No text is copied.",
     },
   },
 };

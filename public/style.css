@@ -467,3 +467,17 @@ pre.code { font-size: 0.85rem; }
   .site-header, .site-footer, .word-side, .breadcrumbs, .copy-btn { display: none !important; }
   .word-layout { display: block; }
 }
+
+/* ── unverified words and usage ── */
+.unverified { border-color: var(--warn-border); background: var(--warn-bg); }
+.unverified h2 { display: flex; align-items: center; gap: 8px; font-size: 1.05rem; color: var(--text); }
+.unverified h2 .icon { color: var(--accent); }
+.no-meaning { color: var(--muted); font-style: italic; opacity: 0.8; }
+.usage { display: inline-flex; align-items: center; gap: 8px; }
+.usage-bars { display: inline-flex; align-items: flex-end; gap: 2px; height: 14px; }
+.usage-bars i { display: block; width: 4px; border-radius: 2px; background: var(--border-strong); }
+.usage-bars i:nth-child(1) { height: 5px; }
+.usage-bars i:nth-child(2) { height: 8px; }
+.usage-bars i:nth-child(3) { height: 11px; }
+.usage-bars i:nth-child(4) { height: 14px; }
+.usage-bars i.on { background: var(--accent); }

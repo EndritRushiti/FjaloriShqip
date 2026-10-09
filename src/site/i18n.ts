@@ -34,7 +34,7 @@ export const UI = {
   page: { sq: "Faqja", en: "Page" },
   notFound: { sq: "Fjala nuk u gjet", en: "Word not found" },
   formOf: { sq: "formë e", en: "form of" },
-  licenceNote: { sq: "Të dhënat: CC BY-SA 4.0 · Kodi: MIT", en: "Data: CC BY-SA 4.0 · Code: MIT" },
+  licenceNote: { sq: "Të dhënat: CC BY-SA 4.0 (fjalët pa kuptim: GPL-2.0+) · Kodi: MIT", en: "Data: CC BY-SA 4.0 (words without meaning: GPL-2.0+) · Code: MIT" },
   stats: { sq: "Fjalori sot", en: "The dictionary today" },
 } as const;
 

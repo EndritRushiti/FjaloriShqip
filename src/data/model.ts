@@ -65,6 +65,10 @@ export interface Word {
   dialects?: DialectForm[];
   /** This headword is itself a dialect or alternative form of another word. */
   variantOf?: { word: string; kind: "gheg" | "tosk" | "alternative"; source: SourceId }[];
+  /** How often the word and its forms appear in Albanian Wikipedia (word counts only). */
+  frequency?: number;
+  /** Found automatically (Hunspell word list); no meaning yet and the word class is a guess. */
+  unverified?: boolean;
   sources: SourceId[];
 }
 

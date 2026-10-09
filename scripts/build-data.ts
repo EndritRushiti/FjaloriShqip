@@ -8,6 +8,7 @@ import readline from "node:readline";
 import type { DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src/data/model.js";
 import { compareSq } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
+import { findLemmas, readDic, rootOf } from "./lib/hunspell-lemmas.js";
 
 const SRC = path.join(process.cwd(), "sources");
 const OUT = path.join(process.cwd(), "data");
@@ -177,6 +178,50 @@ function readSqWiktionary(): void {
   }
 }
 
+/** Word counts from Albanian Wikipedia (derived/frekuenca-wikipedia.json, made by scripts/word-frequency.ts). */
+function readFrequency(): Record<string, number> {
+  const f = path.join(process.cwd(), "derived", "frekuenca-wikipedia.json");
+  return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")).words : {};
+}
+
+/** Minimum Wikipedia count (word + forms) for a Hunspell-only word to be added. */
+const MIN_USE = 1;
+
+/**
+ * Adds base words from the Hunspell list that no other source has, when Albanian Wikipedia
+ * confirms they are in use. They stay separate (own source, GPL) and are marked unverified.
+ */
+function addHunspell(freq: Record<string, number>): number {
+  const file = path.join(SRC, "hunspell-sq_AL.dic");
+  if (!fs.existsSync(file)) return 0;
+  const dic = readDic(fs.readFileSync(file, "utf8"));
+  const has = (x: string) => dic.has(x);
+  const known = new Set<string>();
+  for (const w of words.values()) {
+    known.add(w.word);
+    for (const e of w.entries) for (const f of e.forms ?? []) known.add(f.form);
+    for (const d of w.dialects ?? []) known.add(d.form);
+  }
+  const family = new Map<string, number>();
+  for (const w of dic) {
+    const k = rootOf(w, has);
+    family.set(k, (family.get(k) ?? 0) + (freq[w] ?? 0));
+  }
+  let n = 0;
+  for (const l of findLemmas(dic)) {
+    const use = family.get(l.word) ?? 0;
+    if (known.has(l.word) || use < MIN_USE || !VALID_WORD.test(l.word)) continue;
+    const w = getWord(l.word);
+    w.unverified = true;
+    w.frequency = use;
+    if (l.pos) w.entries.push({ pos: l.pos, ...(l.gender ? { gender: l.gender } : {}), senses: [], sources: ["hunspell-sq"] });
+    addSource(w.sources, "hunspell-sq");
+    addSource(w.sources, "wikipedia-sq");
+    n++;
+  }
+  return n;
+}
+
 (async () => {
   console.log("reading English Wiktionary…");
   await readKaikki();
@@ -193,7 +238,20 @@ function readSqWiktionary(): void {
     }
   }
   // Drop words without any entry and without a variant link.
-  const list = [...words.values()].filter((w) => w.entries.length || w.variantOf?.length).sort((a, b) => compareSq(a.word, b.word));
+  for (const [k, w] of words) if (!w.entries.length && !w.variantOf?.length) words.delete(k);
+
+  // How common each word is: the word and its forms in Albanian Wikipedia.
+  const freq = readFrequency();
+  for (const w of words.values()) {
+    const forms = new Set([w.word, ...w.entries.flatMap((e) => (e.forms ?? []).map((f) => f.form))]);
+    const n = [...forms].reduce((a, f) => a + (freq[f] ?? 0), 0);
+    if (n) w.frequency = n;
+  }
+  console.log("reading the Hunspell word list…");
+  const added = addHunspell(freq);
+  console.log(`hunspell: ${added} new words confirmed by Wikipedia`);
+
+  const list = [...words.values()].sort((a, b) => compareSq(a.word, b.word));
   fs.mkdirSync(OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "fjalori.json"), JSON.stringify(list));
   const manifest = fs.existsSync(path.join(SRC, "manifest.json")) ? JSON.parse(fs.readFileSync(path.join(SRC, "manifest.json"), "utf8")) : {};
@@ -208,7 +266,10 @@ function readSqWiktionary(): void {
       "en-wiktionary": list.filter((w) => w.sources.includes("en-wiktionary")).length,
       wikidata: list.filter((w) => w.sources.includes("wikidata")).length,
       "sq-wiktionary": list.filter((w) => w.sources.includes("sq-wiktionary")).length,
+      "hunspell-sq": list.filter((w) => w.sources.includes("hunspell-sq")).length,
+      "wikipedia-sq": list.filter((w) => w.frequency).length,
     },
+    unverified: list.filter((w) => w.unverified).length,
     sources: manifest,
   };
   fs.writeFileSync(path.join(OUT, "stats.json"), JSON.stringify(stats, null, 2));

@@ -123,6 +123,25 @@ async function sqWiktionary(m: Manifest): Promise<void> {
   console.log(`sq.wiktionary: ${out.length} pages with an Albanian section`);
 }
 
+/** Albanian Hunspell spell-checking list (Luan Kelmendi, GPL-2.0+), as shipped with LibreOffice. */
+async function hunspell(m: Manifest): Promise<void> {
+  const file = path.join(DIR, "hunspell-sq_AL.dic");
+  if (fs.existsSync(file) && !force) {
+    console.log("hunspell: already present");
+    return;
+  }
+  const base = "https://raw.githubusercontent.com/LibreOffice/dictionaries/master/sq_AL/";
+  console.log("hunspell: downloading (~3 MB)…");
+  for (const name of ["sq_AL.dic", "README.txt"]) {
+    const res = await fetch(base + name, { headers: { "User-Agent": UA } });
+    if (!res.ok) throw new Error(`hunspell ${name} → HTTP ${res.status}`);
+    fs.writeFileSync(path.join(DIR, name === "README.txt" ? "hunspell-sq_AL-README.txt" : "hunspell-sq_AL.dic"), Buffer.from(await res.arrayBuffer()));
+  }
+  const items = Number(fs.readFileSync(file, "utf8").split(/\r?\n/, 1)[0]) || 0;
+  m["hunspell-sq"] = { retrieved: today(), url: `${base}sq_AL.dic`, items };
+  console.log(`hunspell: ${items} entries`);
+}
+
 function decodeXml(s: string): string {
   return s.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&amp;/g, "&");
 }
@@ -135,6 +154,8 @@ function decodeXml(s: string): string {
   await wikidata(m);
   writeManifest(m);
   await sqWiktionary(m);
+  writeManifest(m);
+  await hunspell(m);
   writeManifest(m);
   console.log("done:", JSON.stringify(m, null, 2));
 })().catch((e) => {
