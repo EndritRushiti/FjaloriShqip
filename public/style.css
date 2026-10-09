@@ -82,7 +82,8 @@ html.en [data-ui="sq"] { display: none; }
 
 /* ── base ── */
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-padding-top: 80px; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 80px; overflow-x: clip; }
+body { overflow-x: clip; } /* nothing may widen the page sideways on phones (clip keeps the sticky header working) */
 body {
   margin: 0;
   background: var(--bg);
@@ -228,7 +229,7 @@ html:not(.en) .lang-switch [data-lang="sq"], html.en .lang-switch [data-lang="en
 
 /* ── home ── */
 .hero { position: relative; text-align: center; padding: 56px 0 40px; max-width: 760px; margin: 0 auto; }
-.hero::before { content: ""; position: absolute; inset: -40px -50vw 0; z-index: -1; background: radial-gradient(60% 70% at 50% 0%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%); pointer-events: none; }
+.hero::before { content: ""; position: absolute; top: -40px; bottom: 0; left: 50%; width: 100vw; transform: translateX(-50%); z-index: -1; background: radial-gradient(60% 70% at 50% 0%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 70%); pointer-events: none; }
 .hero h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); line-height: 1.08; margin-bottom: 18px; }
 .hero h1 .accent { color: var(--accent); font-style: italic; }
 .hero .lead { font-size: 1.12rem; color: var(--muted); max-width: 600px; margin: 0 auto 28px; }
