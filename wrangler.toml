@@ -5,6 +5,12 @@ main = "src/worker/index.ts"
 compatibility_date = "2025-09-01"
 workers_dev = true
 
+# fjalorishqip.org (registered at GoDaddy, DNS on Cloudflare); Cloudflare creates the DNS records for these
+routes = [
+  { pattern = "fjalorishqip.org", custom_domain = true },
+  { pattern = "www.fjalorishqip.org", custom_domain = true },
+]
+
 [[r2_buckets]]
 binding = "SITE"
 bucket_name = "fjalorishqip"
@@ -12,6 +18,7 @@ bucket_name = "fjalorishqip"
 [vars]
 # test phase: keep the site out of search engines until the official launch (set to "0" then)
 NOINDEX = "1"
+CANONICAL_HOST = "fjalorishqip.org"
 
 [observability]
 enabled = true

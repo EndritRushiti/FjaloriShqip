@@ -50,7 +50,7 @@ jobs:
       - run: npm run build
         env:
           NOINDEX: "1" # test phase; remove at the official launch (also NOINDEX in wrangler.toml)
-          SITE_URL: ${{ vars.SITE_URL }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://fjalorishqip.org' }}
       - name: Upload changed files to R2
         env:
           RCLONE_CONFIG_R2_TYPE: s3

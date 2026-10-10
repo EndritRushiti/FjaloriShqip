@@ -69,6 +69,15 @@ describe("worker", () => {
     expect(again.status).toBe(304);
   });
 
+  it("redirects www to the main address", async () => {
+    const res = await worker.fetch(new Request("https://www.fjalorishqip.org/fjala/n%C3%ABn%C3%AB/?q=1"), {
+      ...env,
+      CANONICAL_HOST: "fjalorishqip.org",
+    });
+    expect(res.status).toBe(301);
+    expect(res.headers.get("Location")).toBe("https://fjalorishqip.org/fjala/n%C3%ABn%C3%AB/?q=1");
+  });
+
   it("serves the offline page without touching the bucket", async () => {
     const empty: R2Bucket = {
       get: () => Promise.reject(new Error("bucket read while offline")),

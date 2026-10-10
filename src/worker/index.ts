@@ -24,6 +24,8 @@ export interface Env {
   NOINDEX?: string;
   /** "1" when the usage guard took the site offline to stay inside the free R2 allowance. */
   OFFLINE?: string;
+  /** The site's main host, e.g. "fjalorishqip.org"; requests to www.<host> are redirected to it. */
+  CANONICAL_HOST?: string;
 }
 
 const OFFLINE_PAGE = `<!doctype html><html lang="sq"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -103,6 +105,11 @@ export default {
       });
     }
     const url = new URL(request.url);
+    // one address for the site: www.fjalorishqip.org → fjalorishqip.org
+    if (env.CANONICAL_HOST && url.hostname === `www.${env.CANONICAL_HOST}`) {
+      url.hostname = env.CANONICAL_HOST;
+      return Response.redirect(url.toString(), 301);
+    }
     const key = keyFor(url.pathname);
     if (key === null) return notFound(env, head);
 
