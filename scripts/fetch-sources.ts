@@ -142,6 +142,21 @@ async function hunspell(m: Manifest): Promise<void> {
   console.log(`hunspell: ${items} entries`);
 }
 
+/** English words of Princeton WordNet 3.0 (WordNet licence), via the Open Multilingual Wordnet:
+ *  used to recognise international words (humanitet → humanity). */
+async function wordnetEnglish(): Promise<void> {
+  const file = path.join(DIR, "wordnet-en", "wn-data-eng.tab");
+  if (fs.existsSync(file) && !force) {
+    console.log("wordnet: already present");
+    return;
+  }
+  console.log("wordnet: downloading the English word list (~6 MB)…");
+  const res = await fetch("https://raw.githubusercontent.com/omwn/omw-data/main/wns/eng/wn-data-eng.tab", { headers: { "User-Agent": UA } });
+  if (!res.ok) throw new Error(`wordnet → HTTP ${res.status}`);
+  fs.mkdirSync(path.dirname(file), { recursive: true });
+  fs.writeFileSync(file, Buffer.from(await res.arrayBuffer()));
+}
+
 function decodeXml(s: string): string {
   return s.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#039;/g, "'").replace(/&amp;/g, "&");
 }
@@ -157,6 +172,7 @@ function decodeXml(s: string): string {
   writeManifest(m);
   await hunspell(m);
   writeManifest(m);
+  await wordnetEnglish();
   console.log("done:", JSON.stringify(m, null, 2));
 })().catch((e) => {
   console.error(e);
