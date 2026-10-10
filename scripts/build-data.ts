@@ -287,7 +287,7 @@ function addLabels(): string {
     const ety = w.entries.map((e) => e.etymology ?? "").find((t) => /^(Variant|Alternative form|Alternative spelling) of /i.test(t));
     const target = ety?.match(/of ([^\s.,;:()]+)/)?.[1] ?? w.variantOf?.[0]?.word;
     const from = target ? words.get(target.toLowerCase())?.loan : undefined;
-    if (from) {
+    if (from && from.from !== "international") {
       w.loan = { ...from };
       loans++;
     }

@@ -39,10 +39,21 @@ const BORROWED = new RegExp(`(?:borrowing|borrowed) from (${NAMES})\\b`, "i");
 const FROM_MODERN = new RegExp(`^(?:From|Via) (English|Italian|French|Ottoman Turkish|Turkish|German|Russian|Serbo-Croatian|Spanish|Venetian|Arabic|Persian)\\b`);
 
 /** The language a word was borrowed from, according to its etymology, or null. */
+/** Languages of the ancient layer: old (non-learned) loans from them are part of the core vocabulary (katër, fjalë, shumë). */
+const ANCIENT = new Set(["Latin", "Medieval Latin", "Ancient Greek"]);
+
 export function borrowedFrom(etymology: string | undefined): string | null {
   if (!etymology) return null;
-  const m = etymology.match(BORROWED) ?? etymology.match(FROM_MODERN);
-  return m ? (Object.keys(LANGUAGE_SQ).find((k) => k.toLowerCase() === m[1].toLowerCase()) ?? m[1]) : null;
+  // only the first sentence: later sentences often discuss other theories ("…not a borrowing from Latin")
+  const first = etymology.split(/(?<=[.;])\s|\n/)[0];
+  // inherited words are never borrowed (katër: From Proto-Albanian *kátur, from Proto-Indo-European…)
+  if (/^(From|Inherited from) (Proto-Albanian|Old Albanian|Proto-Indo-European|Proto-Balkan)/i.test(first) || /^(A formation|A case of|Variant of|Compound of|From .* \+ )/i.test(first)) return null;
+  const m = first.match(BORROWED) ?? first.match(FROM_MODERN);
+  if (!m) return null;
+  const lang = Object.keys(LANGUAGE_SQ).find((k) => k.toLowerCase() === m[1].toLowerCase()) ?? m[1];
+  // old loans from Latin / Ancient Greek (shumë, vepër, orë) are core Albanian; learned ones (familje) are labelled
+  if (ANCIENT.has(lang) && !/learned borrowing/i.test(first)) return null;
+  return lang;
 }
 
 /** Wiktionary sense tags shown as labels, with their Albanian names. */
