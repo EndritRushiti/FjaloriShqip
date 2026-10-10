@@ -49,6 +49,8 @@ export interface Entry {
   forms?: Form[];
   ipa?: string[];
   etymology?: string;
+  /** Words with the same meaning, as listed by the source. */
+  synonyms?: string[];
   sources: SourceId[];
 }
 

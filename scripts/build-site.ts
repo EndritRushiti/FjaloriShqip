@@ -26,6 +26,60 @@ const position = new Map(words.map((w, i) => [w.word, i])); // words are in Alba
 const letterCounts = new Map(ALPHABET.map((l) => [l, 0]));
 for (const w of words) letterCounts.set(firstLetter(w.word), (letterCounts.get(firstLetter(w.word)) ?? 0) + 1);
 
+// ── words with the same meaning ──────────────────────────────────────────────
+// From synonyms listed by Wiktionary (both directions) and from words whose English meaning is
+// the same (nënë, mëmë, ëmë: "mother"). A meaning shared by very many words is too general to use.
+const primaryKeys = new Map<string, string[]>();
+const secondaryKeys = new Map<string, string[]>();
+const byPrimary = new Map<string, string[]>();
+const bySecondary = new Map<string, string[]>();
+const listedSynonyms = new Map<string, Set<string>>();
+const push = <K, V>(m: Map<K, V[]>, k: K, v: V) => (m.get(k) ?? m.set(k, []).get(k)!).push(v);
+const link2 = (a: string, b: string) => (listedSynonyms.get(a) ?? listedSynonyms.set(a, new Set()).get(a)!).add(b);
+// "b lists a as a synonym": used for a only when they also share an English meaning
+const reverseSynonyms = new Map<string, Set<string>>();
+const reverse = (a: string, b: string) => (reverseSynonyms.get(a) ?? reverseSynonyms.set(a, new Set()).get(a)!).add(b);
+for (const w of words) {
+  if (w.unverified) continue;
+  const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en").map((s) => s.gloss);
+  const first = englishKeys(glosses.slice(0, 1));
+  const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
+  primaryKeys.set(w.word, first);
+  secondaryKeys.set(w.word, other);
+  for (const k of first) push(byPrimary, k, w.word);
+  for (const k of other) push(bySecondary, k, w.word);
+  for (const e of w.entries) for (const s of e.synonyms ?? []) if (byWord.has(s)) (link2(w.word, s), reverse(s, w.word));
+}
+const TOO_GENERAL = 25;
+
+type SameMeaning = { word: string; how: "listed" | "same" | "also" | "other" };
+function sameMeaning(w: Word): SameMeaning[] {
+  const skip = new Set([w.word, ...(w.dialects ?? []).map((d) => d.form), ...(w.variantOf ?? []).map((v) => v.word)]);
+  const out = new Map<string, SameMeaning["how"]>();
+  const pos = new Set(w.entries.map((e) => e.pos));
+  // same word class only: punë (noun, work) is not punoj (verb, to work)
+  const samePos = (x: Word) => !pos.size || !x.entries.length || x.entries.some((e) => pos.has(e.pos));
+  const add = (x: string, how: SameMeaning["how"]) => {
+    const other = byWord.get(x);
+    if (other && !skip.has(x) && !out.has(x) && samePos(other)) out.set(x, how);
+  };
+  const common = (a: string, b: string) => (byWord.get(b)?.frequency ?? 0) - (byWord.get(a)?.frequency ?? 0);
+  const from = (keys: string[] | undefined, index: Map<string, string[]>, how: SameMeaning["how"]) => {
+    for (const k of keys ?? []) {
+      const list = index.get(k) ?? [];
+      if (list.length <= TOO_GENERAL) [...list].sort(common).forEach((x) => add(x, how));
+    }
+  };
+  for (const s of listedSynonyms.get(w.word) ?? []) add(s, "listed");
+  const mine = new Set(primaryKeys.get(w.word) ?? []);
+  for (const s of reverseSynonyms.get(w.word) ?? [])
+    if ([...(primaryKeys.get(s) ?? []), ...(secondaryKeys.get(s) ?? [])].some((k) => mine.has(k))) add(s, "listed");
+  from(primaryKeys.get(w.word), byPrimary, "same"); // same main meaning
+  from(primaryKeys.get(w.word), bySecondary, "also"); // others that also mean this (bukë: also food)
+  from(secondaryKeys.get(w.word), byPrimary, "other"); // words for this word's other meanings (nënë: grandmother → gjyshe)
+  return [...out].map(([word, how]) => ({ word, how })).slice(0, 16);
+}
+
 const url = (p: string) => `${BASE}${p}`;
 export const slug = (w: string) => w.replace(/ /g, "_");
 const wordUrl = (w: string) => url(`/fjala/${encodeURIComponent(slug(w))}/`);
@@ -260,8 +314,6 @@ function wordPage(w: Word): string {
   if (pos.length) facts.push([bi("Lloji", "Word class"), pos.map((p) => bi(POS_SQ[p], POS_EN[p])).join(", ")]);
   if (gender) facts.push([bi("Gjinia", "Gender"), genderLabel(gender)]);
   if (ipa.length) facts.push([t("pronunciation"), `<span class="ipa">${ipa.map(h).join(" · ")}</span>`]);
-  if (gheg.length) facts.push([`<span class="dialect-dot gheg"></span>${t("gheg")}`, uniq(gheg).map(link).join(", ")]);
-  if (tosk.length) facts.push([`<span class="dialect-dot tosk"></span>${t("tosk")}`, uniq(tosk).map(link).join(", ")]);
   facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
 
   const unverified = w.unverified
@@ -289,6 +341,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${variant}
     </header>
     ${unverified}
+    ${sameMeaningCard(w)}
     ${w.unverified ? "" : w.entries.map(entryHtml).join("")}
     ${borrowed}
     ${attribution(w)}
@@ -317,6 +370,35 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
     body,
     canonical: `/fjala/${encodeURIComponent(slug(w.word))}/`,
   });
+}
+
+/** "Me të njëjtin kuptim": dialect forms and other words that mean the same thing. */
+function sameMeaningCard(w: Word): string {
+  // a Gheg/Tosk form page shows the words of its standard word
+  const std = !w.entries.length && w.variantOf?.length ? byWord.get(w.variantOf[0].word) : undefined;
+  const base = std ?? w;
+  const list = sameMeaning(base).filter((x) => x.word !== w.word);
+  const dialects = [...(base.dialects ?? [])].filter((d, i, a) => d.form !== w.word && a.findIndex((x) => x.form === d.form) === i);
+  if (!list.length && !dialects.length && !std) return "";
+  const meaning = (x: string) => {
+    const g = shortGloss(byWord.get(x)!);
+    return g && !g.startsWith("→") ? `<small>${h(g.length > 28 ? `${g.slice(0, 26)}…` : g)}</small>` : "";
+  };
+  const chip = (x: string, extra = "", cls = "") =>
+    `<a class="syn-chip${cls}" href="${wordUrl(x)}" lang="sq"><span class="w">${h(x)}</span>${extra || meaning(x)}</a>`;
+  const plain = (x: string, extra: string) => (byWord.has(x) ? chip(x, extra) : `<span class="syn-chip"><span class="w" lang="sq">${h(x)}</span>${extra}</span>`);
+  const main = list.filter((x) => x.how === "listed" || x.how === "same");
+  const also = list.filter((x) => x.how === "also");
+  const other = list.filter((x) => x.how === "other");
+  const row = (title: string, chips: string) => `<div class="syn-row"><h3>${title}</h3><div class="syn-chips">${chips}</div></div>`;
+  return `<section class="card same-meaning">
+  <h2>${icon.layers(18)} ${bi("Me të njëjtin kuptim", "Same meaning")}</h2>
+  ${std ? row(bi("Fjala standarde", "Standard word"), chip(std.word)) : ""}
+  ${main.length ? row(bi("Fjalë të tjera për këtë", "Other words for this"), main.map((x) => chip(x.word)).join("")) : ""}
+  ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small><span class="dialect-dot ${d.dialect}"></span>${d.dialect === "gheg" ? t("gheg") : t("tosk")}</small>`)).join("")) : ""}
+  ${also.length ? row(bi("Kanë edhe këtë kuptim", "Also have this meaning"), also.map((x) => chip(x.word, "", " also")).join("")) : ""}
+  ${other.length ? row(bi("Për kuptimet e tjera", "For its other meanings"), other.map((x) => chip(x.word, "", " also")).join("")) : ""}
+</section>`;
 }
 
 // ── letter pages ─────────────────────────────────────────────────────────────
@@ -641,6 +723,7 @@ function apiWord(w: Word): object {
     ...w,
     url: SITE_URL ? `${SITE_URL}${url(`/fjala/${encodeURIComponent(slug(w.word))}/`)}` : undefined,
     licence: wordLicence(w),
+    sameMeaning: w.unverified ? undefined : sameMeaning(w).map((x) => ({ word: x.word, relation: x.how })),
     attribution: w.sources.map((id) => `${SOURCES[id].name} — ${SOURCES[id].licence}`),
   };
 }

@@ -65,7 +65,7 @@ const INFLECTION_RE = /^(inflection|plural|singular|definite|indefinite|feminine
 // ── English Wiktionary (kaikki) ─────────────────────────────────────────────
 interface KForm { form?: string; tags?: string[] }
 interface KSense { glosses?: string[]; tags?: string[]; examples?: { text?: string; english?: string; translation?: string }[]; form_of?: { word: string }[] }
-interface KEntry { word: string; pos: string; forms?: KForm[]; senses?: KSense[]; sounds?: { ipa?: string; tags?: string[] }[]; etymology_text?: string }
+interface KEntry { word: string; pos: string; forms?: KForm[]; senses?: (KSense & { synonyms?: { word?: string }[] })[]; sounds?: { ipa?: string; tags?: string[] }[]; etymology_text?: string; synonyms?: { word?: string }[] }
 
 async function readKaikki(): Promise<void> {
   const file = path.join(SRC, "kaikki-albanian.jsonl");
@@ -114,6 +114,11 @@ async function readKaikki(): Promise<void> {
       const seen = new Set((e.forms ?? []).map((f) => `${f.form}|${f.tags.join(",")}`));
       e.forms = [...(e.forms ?? []), ...forms.filter((f) => !seen.has(`${f.form}|${f.tags.join(",")}`))];
     }
+    // synonyms listed by Wiktionary for the word and its main meaning
+    const syn = [...(k.synonyms ?? []), ...(k.senses?.[0]?.synonyms ?? [])] // the main meaning only
+      .map((x) => x.word?.trim().toLowerCase())
+      .filter((x): x is string => !!x && x !== headword && VALID_WORD.test(x));
+    if (syn.length) e.synonyms = [...new Set([...(e.synonyms ?? []), ...syn])].slice(0, 20);
     for (const f of k.forms ?? []) {
       const dialect = f.tags?.includes("Gheg") ? "gheg" : f.tags?.includes("Tosk") ? "tosk" : null;
       if (dialect && f.form && f.form.toLowerCase() !== headword) addDialect(w, { form: f.form.toLowerCase(), dialect, source: "en-wiktionary" });

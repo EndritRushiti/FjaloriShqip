@@ -490,3 +490,15 @@ pre.code { font-size: 0.85rem; }
 .word-grid.direct .wc-word { font-size: 1.3rem; }
 .direct-tag { color: var(--ok); }
 .also { color: var(--text); font-weight: 600; }
+
+/* ── same meaning: synonyms and dialect forms ── */
+.same-meaning h2 { display: flex; align-items: center; gap: 8px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 14px; }
+.same-meaning h2 .icon { color: var(--accent); }
+.syn-row + .syn-row { margin-top: 14px; padding-top: 14px; border-top: 1px dashed var(--border); }
+.syn-row h3 { font-size: 0.85rem; font-weight: 600; color: var(--muted); margin: 0 0 8px; }
+.syn-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.syn-chip { display: inline-flex; flex-direction: column; gap: 1px; padding: 7px 14px; border-radius: 12px; background: var(--surface-2); border: 1px solid var(--border); color: var(--text); text-decoration: none; transition: border-color 0.15s, background 0.15s; max-width: 100%; }
+a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--text); }
+.syn-chip .w { font-family: var(--serif); font-size: 1.12rem; font-weight: 600; line-height: 1.2; }
+.syn-chip small { color: var(--muted); font-size: 0.75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.syn-chip.also { background: var(--surface); }

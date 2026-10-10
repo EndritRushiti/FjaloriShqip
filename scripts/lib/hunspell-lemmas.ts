@@ -63,7 +63,6 @@ export function baseOf(w: string, has: (x: string) => boolean): string | null {
   if (/[aeiouy]r$/.test(w) && has(`${w.slice(0, -1)}j`)) return `${w.slice(0, -1)}j`;
   if (w.endsWith("q") && has(`${w.slice(0, -1)}k`)) return `${w.slice(0, -1)}k`; // armiq → armik
   if (w.endsWith("gj") && has(`${w.slice(0, -2)}g`)) return `${w.slice(0, -2)}g`; // zogj → zog
-  if (NEVER_LEMMA.test(w)) return "?";
   // 1st person plural of consonant verbs (hapim, bindim) — but not -im nouns (abonim, agim)
   if (w.endsWith("im") && has(w.slice(0, -2)) && has(`${w.slice(0, -2)}ni`)) return w.slice(0, -2);
   for (const [suffix, repl] of FORM_RULES) {
@@ -76,11 +75,13 @@ export function baseOf(w: string, has: (x: string) => boolean): string | null {
   }
   // negated participles: papunuar, pashkruar, pandarë
   if (w.startsWith("pa") && /(uar|ur|rë|yer|ar|ë)$/.test(w) && has(w.slice(2))) return w.slice(2);
+  // endings that are inflections even when the base word is missing from the list
+  if (NEVER_LEMMA.test(w)) return "?";
   return null;
 }
 
 /** Endings that are inflections even when the base word is missing from the list. */
-const NEVER_LEMMA = /(uar|uara|imi|imin|imit|izmi|izmin|izmit|istët|istit|istin|ët|ëve|[^aeëiouy]ve|ive|isë|itë|ojë|ësh|ste|shim|shit|shin|fsha|ftë|fshin|kam|kemi|keni|uakam|het|hen|hej|uan|uam|..ia)$/;
+const NEVER_LEMMA = /(uar|uara|imi|imin|imit|izmi|izmin|izmit|istët|istit|istin|ët|ëve|[^aeëiouy]ve|ive|isë|itë|ojë|ësh|ste|shim|shit|shin|fsha|ftë|fshin|kam|kemi|keni|uakam|het|hen|hej|uan|uam|..ia|....ione|imet|imeve|iteti|itetit|itetin|...ova|...uakan)$/;
 
 const POS_BY_ENDING: [RegExp, Pos, "m" | "f" | undefined][] = [
   [/(oj|uaj|yej|ej|ij|aj)$/, "verb", undefined],
