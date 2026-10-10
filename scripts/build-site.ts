@@ -18,6 +18,8 @@ const DIST = path.join(ROOT, "dist");
 const BASE = (process.env.BASE_PATH ?? "").replace(/\/$/, ""); // e.g. "/fjalorishqip" on GitHub Pages project sites
 const SITE_URL = process.env.SITE_URL ?? "";
 const PAGE_SIZE = 400;
+/** Minimum use (Wikipedia + scaled MaCoCu) for the word of the day / hour. */
+const FEATURED_MIN_USE = 400;
 const NOINDEX = process.env.NOINDEX === "1"; // test hosting: keep out of search engines
 
 const words: Word[] = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "fjalori.json"), "utf8"));
@@ -819,8 +821,16 @@ function apiWord(w: Word): object {
   for (const [c, shard] of shards) write(`api/v1/format/${c}.json`, JSON.stringify(shard));
 
   // featured words for word of the day / hour: common word classes with an English meaning
+  // Word of the day / hour: common, Albanian (not borrowed) words with a real meaning,
+  // no dialectal, archaic or rare words (the home page should show words people know)
+  const NOT_FEATURED = /archaic|obsolete|rare|dialectal|regional|Gheg|Tosk|Arbëresh|vulgar|derogatory|offensive|slang|dated|historical|colloquial|nonstandard|misspelling|Kosovo|figuratively/;
   const featured = words
-    .filter((w) => w.word.length >= 3 && w.word.length <= 12 && !w.word.includes(" ") && w.entries.some((e) => ["noun", "verb", "adj"].includes(e.pos) && e.senses.some((s) => s.lang === "en" && s.source === "en-wiktionary" && !w.unverified && !(s.tags ?? []).some((x) => /archaic|obsolete|rare|vulgar|derogatory|offensive/.test(x)))))
+    .filter((w) => {
+      if (w.unverified || w.loan || w.labels || w.variantOf || w.word.includes(" ") || w.word.length < 3 || w.word.length > 12 || (w.frequency ?? 0) < FEATURED_MIN_USE) return false;
+      const e = w.entries.find((x) => ["noun", "verb", "adj"].includes(x.pos) && x.senses.length);
+      const s = e?.senses[0];
+      return !!s && s.lang === "en" && s.source === "en-wiktionary" && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle)/i.test(s.gloss);
+    })
     .map((w) => {
       const e = w.entries.find((x) => x.senses.some((s) => s.lang === "en"))!;
       const ex = e.senses.flatMap((s) => s.examples ?? [])[0];

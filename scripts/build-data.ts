@@ -111,6 +111,8 @@ async function readKaikki(): Promise<void> {
         continue;
       }
       if (INFLECTION_RE.test(g)) continue;
+      // a grammar line instead of a meaning: "viç m (plural viça, definite viçi…)"
+      if (g.toLowerCase().startsWith(`${headword} `) && /^\S+ (m|f|n|pl|m pl|f pl)\b/.test(g)) continue;
       const e = entryFor(w, pos, "en-wiktionary");
       const examples: Example[] = (s.examples ?? [])
         .filter((x) => x.text && x.text.length < 300)
