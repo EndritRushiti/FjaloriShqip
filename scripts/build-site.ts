@@ -838,6 +838,8 @@ function apiWord(w: Word): object {
       // used as exactly this word in (carefully spelled) Wikipedia, and not a form of another word:
       // keeps out eshtë (= është without ë), duk (from duke), pashë, bëra, dhënë…
       if ((w.wikipediaCount ?? 0) < FEATURED_MIN_WIKIPEDIA || formOfOther.has(w.word)) return false;
+      // the home page shows the Albanian description first, so only words that have one
+      if (!w.description) return false;
       const e = w.entries.find((x) => ["noun", "verb", "adj"].includes(x.pos) && x.senses.length);
       const s = e?.senses[0];
       return !!s && s.lang === "en" && s.source === "en-wiktionary" && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle|given|mediopassive|to have (been|become))|\bof\b.*\(/i.test(s.gloss) && !s.gloss.toLowerCase().startsWith(w.word);
