@@ -249,7 +249,9 @@ function addWiktionaryEditions(d: Deduper): number {
     const x = readDerived<WiktionaryExtract>(f)!;
     for (const h of x.headwords) {
       const w = h.word.trim();
-      if (w !== w.toLowerCase() || w.includes(" ") || NOT_A_WORD.has(h.pos) || INFLECTION_RE.test(h.glosses[0] ?? "") || VARIANT_RE.test(h.glosses[0] ?? "")) continue;
+      // phrases and proverbs written as English Wiktionary entries are kept (qysh je, nuk e di)
+      const phrase = x.edition === "en" && ["phrase", "proverb", "prep_phrase"].includes(h.pos) && h.glosses.length > 0;
+      if (w !== w.toLowerCase() || (w.includes(" ") && !phrase) || (NOT_A_WORD.has(h.pos) && !phrase) || INFLECTION_RE.test(h.glosses[0] ?? "") || VARIANT_RE.test(h.glosses[0] ?? "")) continue;
       const c = cand(w);
       c.editions.add(x.edition);
       c.pos ??= POS_NAMES[h.pos];
@@ -265,7 +267,8 @@ function addWiktionaryEditions(d: Deduper): number {
   }
   let n = 0;
   for (const [w, c] of cands) {
-    if (!VALID_WORD.test(w) || d.check(w) !== "new" || !(useOf(w) > 0 || c.editions.size >= 2)) continue;
+    const isPhrase = w.includes(" ");
+    if (!VALID_WORD.test(w) || d.check(w) !== "new" || !(isPhrase ? c.en.size > 0 : useOf(w) > 0 || c.editions.size >= 2)) continue;
     const word = getWord(w);
     const source: SourceId = c.editions.has("en") ? "en-wiktionary" : "wiktionary-other";
     const e = entryFor(word, c.pos ?? "other", source);
