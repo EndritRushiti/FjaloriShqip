@@ -162,7 +162,7 @@ const LOAN_ENDINGS: [RegExp, string[]][] = [
 ];
 
 /** Albanian spelling → likely English spelling of the same international word. */
-function englishCandidates(w: string): string[] {
+export function englishCandidates(w: string): string[] {
   const out = new Set<string>();
   for (const [re, ends] of LOAN_ENDINGS) {
     if (!re.test(w)) continue;

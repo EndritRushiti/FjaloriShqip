@@ -11,6 +11,7 @@ import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
 import { formsHtml } from "../src/site/tables.js";
+import { LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
 const ROOT = process.cwd();
 const DIST = path.join(ROOT, "dist");
@@ -211,7 +212,7 @@ function pageHead(title: string, lead?: string, kicker?: string): string {
 
 // ── word pages ───────────────────────────────────────────────────────────────
 function senseHtml(s: Sense): string {
-  const tags = s.tags?.length ? `<span class="tags">${s.tags.map((x) => `<span class="tag">${h(x)}</span>`).join("")}</span>` : "";
+  const tags = s.tags?.length ? `<span class="tags">${s.tags.map((x) => `<span class="tag">${TAG_SQ[x] ? bi(TAG_SQ[x], x) : h(x)}</span>`).join("")}</span>` : "";
   const label = s.lang === "en" ? `<span class="lang-badge" title="English">EN</span>` : `<span class="lang-badge sq" title="Shqip">SQ</span>`;
   const ex = s.examples?.length
     ? `<ul class="examples">${s.examples.map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en">${h(e.english)}</span>` : ""}</li>`).join("")}</ul>`
@@ -348,7 +349,8 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
         <h1 lang="sq">${h(w.word)}</h1>
         <button type="button" class="icon-btn copy-btn" data-copy="${h(w.word)}" aria-label="${h("Kopjo fjalën / Copy word")}" title="${h("Kopjo")}">${icon.copy(18)}<span class="copied">${icon.check(18)}</span></button>
       </div>
-      <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
+      <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.labels ?? []).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
+      ${albanianInstead(w)}
       ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
       ${variant}
     </header>
@@ -385,6 +387,29 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
 }
 
 /** "Me të njëjtin kuptim": dialect forms and other words that mean the same thing. */
+/** Small label "huazim · nga latinishtja" for borrowed words. */
+function loanLabel(w: Word): string {
+  if (!w.loan) return "";
+  const from = w.loan.from === "international" ? bi("fjalë ndërkombëtare", "international word") : bi(`nga ${LANGUAGE_SQ[w.loan.from] ?? w.loan.from}`, `from ${w.loan.from}`);
+  return `<span class="loan-label" title="${h("Fjalë e huazuar nga një gjuhë tjetër / Borrowed from another language")}">${bi("huazim", "borrowed")} · ${from}</span>`;
+}
+
+/** Albanian words with the same meaning as a borrowed word (abuzoj → shpërdoroj, keqpërdoroj). */
+function albanianAlternatives(w: Word): string[] {
+  if (!w.loan) return [];
+  return sameMeaning(w)
+    .filter((x) => (x.how === "listed" || x.how === "same") && !byWord.get(x.word)?.loan && !byWord.get(x.word)?.unverified)
+    .map((x) => x.word)
+    .slice(0, 6);
+}
+
+/** One line under the headword of a borrowed word, pointing to the Albanian words. */
+function albanianInstead(w: Word): string {
+  const alt = albanianAlternatives(w);
+  if (!alt.length) return "";
+  return `<p class="albanian-instead">${icon.sparkle(16)} ${bi("Në shqip mund të thuhet edhe:", "In Albanian you can also say:")} ${alt.map((x) => `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>`).join(", ")}</p>`;
+}
+
 function sameMeaningCard(w: Word): string {
   // a Gheg/Tosk form page shows the words of its standard word
   const std = !w.entries.length && w.variantOf?.length ? byWord.get(w.variantOf[0].word) : undefined;
@@ -399,11 +424,13 @@ function sameMeaningCard(w: Word): string {
   const chip = (x: string, extra = "", cls = "") =>
     `<a class="syn-chip${cls}" href="${wordUrl(x)}" lang="sq"><span class="w">${h(x)}</span>${extra || meaning(x)}</a>`;
   const plain = (x: string, extra: string) => (byWord.has(x) ? chip(x, extra) : `<span class="syn-chip"><span class="w" lang="sq">${h(x)}</span>${extra}</span>`);
-  const main = list.filter((x) => x.how === "listed" || x.how === "same");
+  const albanian = albanianAlternatives(base);
+  const main = list.filter((x) => (x.how === "listed" || x.how === "same") && !albanian.includes(x.word));
   const other = list.filter((x) => x.how === "other");
   const row = (title: string, chips: string) => `<div class="syn-row"><h3>${title}</h3><div class="syn-chips">${chips}</div></div>`;
   return `<section class="card same-meaning">
   <h2>${icon.layers(18)} ${bi("Me të njëjtin kuptim", "Same meaning")}</h2>
+  ${albanian.length ? `<div class="syn-row albanian-row">${`<h3>${bi("Fjala shqipe", "The Albanian word")} <small>${bi("në vend të fjalës së huazuar", "instead of the borrowed word")}</small></h3>`}<div class="syn-chips">${albanian.map((x) => chip(x)).join("")}</div></div>` : ""}
   ${std ? row(bi("Fjala standarde", "Standard word"), chip(std.word)) : ""}
   ${main.length ? row(bi("Fjalë të tjera për këtë", "Other words for this"), main.map((x) => chip(x.word)).join("")) : ""}
   ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small><span class="dialect-dot ${d.dialect}"></span>${d.dialect === "gheg" ? t("gheg") : t("tosk")}</small>`)).join("")) : ""}
@@ -760,7 +787,7 @@ function apiWord(w: Word): object {
   }
 
   // search index: [word, folded key, pos (sq), short English gloss, Wikipedia count,
-  //                English keys of the first meaning, English keys of the other meanings]
+  //                English keys of the first meaning, English keys of the other meanings, borrowed (1/0)]
   write(
     "api/v1/kerko.json",
     JSON.stringify(
@@ -768,7 +795,7 @@ function apiWord(w: Word): object {
         const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").map((s) => s.gloss);
         const first = englishKeys(glosses.slice(0, 1));
         const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
-        return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|")];
+        return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|"), w.loan ? 1 : 0];
       }),
     ),
   );

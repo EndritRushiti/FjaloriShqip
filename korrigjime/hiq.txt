@@ -28,3 +28,4 @@ paraqet   # paraqes / paraqit (veta 3)
 ndo       # pjesë e "ndonjë", jo fjalë
 ale       # jo fjalë shqipe
 austro    # parashtesë (austro-hungarez)
+paçavure  # paçavurë (shumës)

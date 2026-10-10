@@ -71,6 +71,10 @@ export interface Word {
   frequency?: number;
   /** Found automatically (Hunspell word list); no meaning yet and the word class is a guess. */
   unverified?: boolean;
+  /** Borrowed word: the language it comes from ("international" when recognised as an international word). */
+  loan?: { from: string };
+  /** Labels that apply to the whole word (dialectal, archaic, rare…), as Wiktionary tags. */
+  labels?: string[];
   sources: SourceId[];
 }
 

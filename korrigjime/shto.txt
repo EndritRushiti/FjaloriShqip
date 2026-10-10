@@ -1,0 +1,8 @@
+# Fjalë dhe kuptime të shtuara nga redaktorët. / Words and meanings added by the editors.
+# Një fjalë për rresht: fjala | lloji | kuptimi në anglisht | fjalë me të njëjtin kuptim (me presje)
+# One word per line:    word  | word class | English meaning | same-meaning words (comma-separated)
+# Lloji / word class: noun, verb, adj, adv, pron, num, prep, conj, interj
+# Shembull / example:   keqpërdoroj | verb | to misuse, to abuse | shpërdoroj, abuzoj
+
+keqpërdoroj | verb | to misuse, to abuse | shpërdoroj, abuzoj
+keqpërdorim | noun | misuse, abuse | shpërdorim, abuzim

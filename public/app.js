@@ -110,6 +110,8 @@
       else if (k.length >= 3 && row[1].indexOf(k) > 0) score = 15;
       // common words and words with a meaning first (at most +12: never above an exact Albanian match)
       if (score && score < 99) score += Math.min(8, Math.log(1 + (row[4] || 0)) / Math.LN10 * 2) + (row[3] ? 4 : 0);
+      // Albanian words before borrowed ones with the same meaning (abuse: shpërdoroj before abuzoj)
+      if (score && score < 99 && row[7]) score -= 5;
       if (score) res.push([score, row, direct]);
     }
     res.sort(function (a, b) { return b[0] - a[0] || a[1][0].length - b[1][0].length; });
@@ -149,7 +151,7 @@
         active = -1;
         list.innerHTML = rows.map(function (x, i) {
           var r = x.row;
-          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
+          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + (r[7] ? ' · <span class="loan-tag">' + bi("huazim", "borrowed") + "</span>" : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("") + (rows.length ? '<li class="sugg-foot"><a href="' + BASE + "/kerko/?q=" + encodeURIComponent(q.trim()) + '">' + bi("Shiko të gjitha rezultatet për", "See all results for") + " “" + esc(q.trim()) + "” →</a></li>" : "");
         list.hidden = rows.length === 0;
         input.setAttribute("aria-expanded", String(!list.hidden));
@@ -224,7 +226,7 @@
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
             (x.form ? '<span class="wc-form">' + bi("formë e kërkuar", "matching form") + "</span>" : "") +
-            '</span><span class="wc-pos">' + esc(r[2]) + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
+            '</span><span class="wc-pos">' + esc(r[2]) + (r[7] ? ' <span class="loan-tag">· ' + bi("huazim", "borrowed") + "</span>" : "") + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
             // "food" is another meaning of this word (bukë: bread; also food)
             (x.direct && ("|" + r[5] + "|").indexOf("|" + normEnglish(q) + "|") < 0 ? ' · <b class="also">' + bi("edhe", "also") + " “" + esc(q) + "”</b>" : "") + "</span></a></li>";
         };

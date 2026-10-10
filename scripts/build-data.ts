@@ -9,8 +9,9 @@ import type { DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src
 import { compareSq } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
 import { Deduper } from "./lib/dedupe.js";
-import { deriveMeaning } from "./lib/derive-meaning.js";
+import { deriveMeaning, englishCandidates } from "./lib/derive-meaning.js";
 import { baseOf, findLemmas, readDic, rootOf } from "./lib/hunspell-lemmas.js";
+import { borrowedFrom, WORD_LEVEL_TAGS } from "./lib/labels.js";
 
 const SRC = path.join(process.cwd(), "sources");
 const OUT = path.join(process.cwd(), "data");
@@ -198,6 +199,104 @@ function readSqWiktionary(): void {
   }
 }
 
+// ── labels ───────────────────────────────────────────────────────────────────
+/** Spell-checker words used less than this (Wikipedia + scaled MaCoCu) wait for review instead of being shown. */
+const MIN_SHOWN_USE = 5;
+
+/**
+ * Borrowed words (from the etymology, or recognised as international words), labels that apply
+ * to the whole word (dialectal, archaic, rare…), and verbs that a source filed as nouns (teproj).
+ */
+function addLabels(): string {
+  let loans = 0;
+  let labelled = 0;
+  let fixed = 0;
+  for (const w of words.values()) {
+    const from = w.entries.map((e) => borrowedFrom(e.etymology)).find(Boolean);
+    const international = w.entries.some((e) => e.senses.some((s) => s.source === "auto" && s.gloss.endsWith("(international word)")));
+    if (from || international) {
+      w.loan = { from: from ?? "international" };
+      loans++;
+    }
+    const senses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto");
+    const common = WORD_LEVEL_TAGS.filter((t) => senses.length > 0 && senses.every((s) => s.tags?.includes(t)));
+    if (common.length) {
+      w.labels = common;
+      labelled++;
+    }
+    for (const e of w.entries) {
+      const en = e.senses.filter((s) => s.lang === "en");
+      if (e.pos === "noun" && en.length && en.every((s) => /^to /.test(s.gloss)) && /(oj|ej|ij|aj|uaj|yej|em|hem)$/.test(w.word)) {
+        e.pos = "verb";
+        fixed++;
+      }
+    }
+  }
+  // international words that have a real meaning: the meaning is their English twin (problem = "problem")
+  for (const w of words.values()) {
+    if (w.loan || w.word.length < 5 || w.word.includes(" ")) continue;
+    const meanings = new Set(
+      w.entries
+        .flatMap((e) => e.senses)
+        .filter((s) => s.lang === "en" && s.source !== "auto")
+        .flatMap((s) => s.gloss.toLowerCase().replace(/\([^)]*\)/g, " ").split(/[;,]/))
+        .map((x) => x.replace(/^\s*(to|a|an|the)\s+/, "").trim()),
+    );
+    if (englishCandidates(w.word).some((c) => meanings.has(c))) {
+      w.loan = { from: "international" };
+      loans++;
+    }
+  }
+  // words made from a borrowed verb are borrowed too (abuzim, abuzues ← abuzoj)
+  for (const w of words.values()) {
+    if (w.loan) continue;
+    const bases = [w.word.replace(/im$/, "oj"), w.word.replace(/im$/, "ej"), w.word.replace(/ues$/, "oj"), w.word.replace(/ues$/, "uaj"), w.word.replace(/(ueshëm|ueshme)$/, "oj")];
+    const from = bases.filter((b) => b !== w.word).map((b) => words.get(b)?.loan).find(Boolean);
+    if (from) {
+      w.loan = { ...from };
+      loans++;
+    }
+  }
+  // variants inherit the origin of their word ("dakord: Variant of dakort" ← Italian d'accordo)
+  for (const w of words.values()) {
+    if (w.loan) continue;
+    const ety = w.entries.map((e) => e.etymology ?? "").find((t) => /^(Variant|Alternative form|Alternative spelling) of /i.test(t));
+    const target = ety?.match(/of ([^\s.,;:()]+)/)?.[1] ?? w.variantOf?.[0]?.word;
+    const from = target ? words.get(target.toLowerCase())?.loan : undefined;
+    if (from) {
+      w.loan = { ...from };
+      loans++;
+    }
+  }
+  return `${loans} borrowed words, ${labelled} words with usage labels, ${fixed} verbs fixed`;
+}
+
+// ── editors' additions (korrigjime/shto.txt) ──────────────────────────────────
+/**
+ * Words and meanings added by the editors: one per line, "word | word class | English meaning | same-meaning words".
+ * An existing word gets the meaning and links added; a new word is created.
+ */
+function addEditorWords(d: Deduper): number {
+  const f = path.join(process.cwd(), "korrigjime", "shto.txt");
+  if (!fs.existsSync(f)) return 0;
+  let n = 0;
+  for (const raw of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+    const line = raw.replace(/#.*/, "").trim();
+    if (!line) continue;
+    const [word, pos, meaning, same] = line.split("|").map((x) => x.trim());
+    if (!word || !VALID_WORD.test(word.toLowerCase())) continue;
+    const w = getWord(word.toLowerCase());
+    const e = entryFor(w, (POS_NAMES[pos] ?? (pos as Pos)) || "other", "editor");
+    if (meaning) addSense(e, { gloss: meaning, lang: "en", source: "editor" });
+    if (same) e.synonyms = [...new Set([...(e.synonyms ?? []), ...same.split(",").map((x) => x.trim().toLowerCase()).filter(Boolean)])];
+    addSource(w.sources, "editor");
+    delete w.unverified;
+    d.add(w.word);
+    n++;
+  }
+  return n;
+}
+
 // ── approximate meanings (scripts/lib/derive-meaning.ts) ─────────────────────
 const RULE_POS: Record<string, Pos> = { act: "noun", agent: "noun", able: "adj", having: "adj", relating: "adj", adverb: "adv" };
 function internationalPos(w: string): Pos {
@@ -283,7 +382,7 @@ interface WiktionaryExtract {
  * A word is added only when it is new (Deduper) and confirmed: used in Wikipedia/MaCoCu, or
  * attested by at least two editions.
  */
-function addWiktionaryEditions(d: Deduper): number {
+function addWiktionaryEditions(d: Deduper, dic: Set<string>): number {
   const dir = path.join(process.cwd(), "derived");
   if (!fs.existsSync(dir)) return 0;
   type Cand = { editions: Set<string>; pos?: Pos; en: Set<string> };
@@ -312,7 +411,10 @@ function addWiktionaryEditions(d: Deduper): number {
   let n = 0;
   for (const [w, c] of cands) {
     const isPhrase = w.includes(" ");
-    if (!VALID_WORD.test(w) || d.check(w) !== "new" || !(isPhrase ? c.en.size > 0 : useOf(w) > 0 || c.editions.size >= 2)) continue;
+    // a word with an English meaning needs to be in use; a word known only from one foreign
+    // edition, without any meaning, also needs the spell-checker list (dab, from German Wiktionary)
+    const confirmed = isPhrase ? c.en.size > 0 : c.en.size > 0 ? useOf(w) > 0 || c.editions.size >= 2 : c.editions.size >= 2 || dic.has(w);
+    if (!VALID_WORD.test(w) || d.check(w) !== "new" || !confirmed) continue;
     const word = getWord(w);
     const source: SourceId = c.editions.has("en") ? "en-wiktionary" : "wiktionary-other";
     const e = entryFor(word, c.pos ?? "other", source);
@@ -466,8 +568,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const dicFile = path.join(SRC, "hunspell-sq_AL.dic");
   const dic = fs.existsSync(dicFile) ? readDic(fs.readFileSync(dicFile, "utf8")) : new Set<string>();
   const deduper = new Deduper(words.values(), dic);
+  console.log(`editors' additions: ${addEditorWords(deduper)} words (korrigjime/shto.txt)`);
   console.log("reading other Wiktionary editions…");
-  console.log(`wiktionary editions: ${addWiktionaryEditions(deduper)} new words`);
+  console.log(`wiktionary editions: ${addWiktionaryEditions(deduper, dic)} new words`);
   console.log("reading Albanet…");
   const al = addAlbanet(deduper, dic);
   console.log(`albanet: ${al.added} new words, ${al.linked} same-meaning links`);
@@ -481,6 +584,16 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
 
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);
+
+  // Borrowed words, usage labels, word classes that the sources got wrong
+  console.log(`labels: ${addLabels()}`);
+
+  // Rarely used words found only in the spell-checker list wait for review (data/ne-pritje.json)
+  const pending = [...words.values()].filter((w) => w.unverified && (w.frequency ?? 0) < MIN_SHOWN_USE).sort((a, b) => compareSq(a.word, b.word));
+  for (const w of pending) words.delete(w.word);
+  fs.mkdirSync(OUT, { recursive: true });
+  fs.writeFileSync(path.join(OUT, "ne-pritje.json"), JSON.stringify(pending));
+  console.log(`pending review: ${pending.length} rarely used spell-checker words (data/ne-pritje.json)`);
 
   // How common each word is: the word and its forms in Wikipedia and MaCoCu (scaled).
   for (const w of words.values()) {

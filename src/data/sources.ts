@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor";
 
 export interface SourceInfo {
   id: SourceId;
@@ -145,6 +145,18 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Për fjalët pa kuptim: një kuptim i përafërt i nxjerrë nga fjala bazë (rindërtim ← rindërtoj \"to rebuild\"), nga pjesët e fjalës së përbërë (kryeredaktor = krye + redaktor) ose nga fjala ndërkombëtare në anglisht (humanitet → humanity). Shënohet gjithmonë si \"i përafërt\".",
       en: "For words without a meaning: an approximate meaning worked out from the base word (rindërtim ← rindërtoj \"to rebuild\"), from the parts of a compound (kryeredaktor = krye + redaktor) or from the English international word (humanitet → humanity). Always marked \"approximate\".",
+    },
+  },
+  editor: {
+    id: "editor",
+    name: "Redaktorët e FjaloriShqip / FjaloriShqip editors",
+    publisher: "FjaloriShqip",
+    url: "https://github.com/EndritRushiti/FjaloriShqip/blob/main/korrigjime/shto.txt",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Fjalë dhe kuptime të shtuara ose të korrigjuara nga redaktorët e fjalorit (korrigjime/shto.txt), p.sh. fjalë shqipe që mungonin në burimet e hapura.",
+      en: "Words and meanings added or corrected by the dictionary's editors (korrigjime/shto.txt), e.g. Albanian words missing from the open sources.",
     },
   },
 };
