@@ -1,0 +1,30 @@
+# Fjalë që hiqen nga fjalori, nga çdo burim. / Words removed from the dictionary, from every source.
+# Një fjalë për rresht; pas # shkruani arsyen. / One word per line; the reason after #.
+# Këtë listë e rishikon redaktori. / This list is reviewed by the editor.
+
+# forma të foljeve të parregullta (jo fjalë bazë) / irregular verb forms, not base words
+vdiq      # vdes
+zgjodh    # zgjedh
+kthye     # kthej
+tërhoq    # tërheq
+hoq       # heq
+mblodh    # mbledh
+hodh      # hedh
+erdh      # vij
+soll      # sjell
+dol       # dal
+njih      # njoh
+përzier   # përziej (pjesore)
+përpiqej  # përpiqem
+# forma të emrave dhe mbiemrave / noun and adjective forms
+kufij     # kufi (shumës)
+shpij     # shtëpi / shpi
+numë      # numër
+fundmë    # i fundmë → së fundmi
+tjetrën   # tjetër (kallëzore)
+rikthye   # rikthej (pjesore pa -r)
+nxirr     # nxjerr (temë)
+paraqet   # paraqes / paraqit (veta 3)
+ndo       # pjesë e "ndonjë", jo fjalë
+ale       # jo fjalë shqipe
+austro    # parashtesë (austro-hungarez)

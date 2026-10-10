@@ -54,13 +54,26 @@ function entryFor(w: Word, pos: Pos, source: SourceId): Entry {
   return e;
 }
 
+/** Tidies a meaning: one line, no dangling punctuation, balanced brackets. Empty when it is only a heading. */
+export function cleanGloss(g: string): string {
+  let s = g.replace(/\s+/g, " ").replace(/\s*\^\(\)\s*/g, " ").trim();
+  if (/:$/.test(s)) return ""; // "synonym of amë in the following senses:": a heading for a list we do not have
+  s = s.replace(/[\s,;]+$/, "").replace(/^[\s,;.:)]+/, "");
+  const open = (s.match(/\(/g) ?? []).length;
+  const close = (s.match(/\)/g) ?? []).length;
+  if (open > close) s += ")".repeat(open - close);
+  return s.trim();
+}
+
 function addSense(e: Entry, s: Sense): void {
+  s = { ...s, gloss: cleanGloss(s.gloss) };
   const key = s.gloss.toLowerCase().replace(/\W+/g, " ").trim();
   if (!key || e.senses.some((x) => x.lang === s.lang && x.gloss.toLowerCase().replace(/\W+/g, " ").trim() === key)) return;
   e.senses.push(s);
 }
 
-const VARIANT_RE = /^(Gheg|Tosk|alternative|dialectal|obsolete|archaic) (?:form|spelling|variant) of ([^\s(,;:]+)/i;
+// "Gheg form of i çamë": skip the adjective article (i/e/të/së) before the word
+const VARIANT_RE = /^(Gheg|Tosk|alternative|dialectal|obsolete|archaic) (?:form|spelling|variant) of (?:(?:i|e|të|së) )?([^\s(,;:]+)/i;
 const INFLECTION_RE = /^(inflection|plural|singular|definite|indefinite|feminine|masculine|first|second|third|present|past|aorist|imperfect|participle|gerund|accusative|dative|ablative|genitive|nominative|.*person)\b.* of\b/i;
 
 // ── English Wiktionary (kaikki) ─────────────────────────────────────────────
@@ -184,6 +197,13 @@ function readSqWiktionary(): void {
   }
 }
 
+/** korrigjime/hiq.txt: one word per line, "#" starts a comment. */
+function readRemoveList(): string[] {
+  const f = path.join(process.cwd(), "korrigjime", "hiq.txt");
+  if (!fs.existsSync(f)) return [];
+  return fs.readFileSync(f, "utf8").split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim().toLowerCase()).filter(Boolean);
+}
+
 // ── usage counts (Wikipedia + MaCoCu) ───────────────────────────────────────
 /** Word counts made by scripts/word-frequency.ts (derived/frekuenca-<source>.json). */
 function readCounts(source: "wikipedia" | "macocu"): Record<string, number> {
@@ -287,14 +307,25 @@ function addAlbanet(d: Deduper, dic: Set<string>): { added: number; linked: numb
       d.add(w);
       added++;
     }
-    // same-meaning group: link the members that are in the dictionary
-    const inDict = members.filter((m) => words.has(m) && !english.has(m));
+    // same-meaning group: link the members that are in the dictionary, but only those whose own
+    // English meaning matches the group (ushqim "food" yes; furnizim "supply" not, though Albanet groups them)
+    const groupEn = new Set(c.en.map((e) => e.toLowerCase()));
+    const ownMeanings = (m: string) => words.get(m)!.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "albanet");
+    const fits = (m: string) => {
+      const own = ownMeanings(m);
+      if (!own.length) return true; // no meaning of its own: Albanet's group is all we know
+      return own.some((s) => s.gloss.toLowerCase().replace(/\([^)]*\)/g, " ").split(/[;,]/).some((part) => groupEn.has(part.replace(/^\s*(to|a|an|the)\s+/, "").trim())));
+    };
+    // same word class too: mal (noun) is not linked to ngrej (verb) through a verb group
+    const inDict = members.filter((m) => words.has(m) && !english.has(m) && words.get(m)!.entries.some((e) => e.pos === pos) && fits(m));
     if (inDict.length < 2) continue;
     for (const m of inDict) {
       const e = words.get(m)!.entries.find((x) => x.pos === pos);
       if (!e) continue;
       const before = e.synonyms?.length ?? 0;
-      e.synonyms = [...new Set([...(e.synonyms ?? []), ...inDict.filter((o) => o !== m)])].slice(0, 20);
+      // a word with its own meaning is only linked to words that have one too (shtëpi ↛ amfiteatër)
+      const partners = inDict.filter((o) => o !== m && (!ownMeanings(m).length || ownMeanings(o).length));
+      e.synonyms = [...new Set([...(e.synonyms ?? []), ...partners])].slice(0, 20);
       linked += e.synonyms.length - before;
     }
   }
@@ -324,9 +355,17 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     all.set(k, (all.get(k) ?? 0) + useOf(w));
     scaled.set(k, (scaled.get(k) ?? 0) + scaledUse(w));
   }
+  // the list also holds bare stems (frik, fuq, dhimb) of words we know (frikë, fuqi, dhimbje)
+  const verified = new Set([...words.values()].filter((w) => w.entries.some((e) => e.senses.length)).map((w) => w.word));
+  const stemOfKnown = (w: string) => ["ë", "e", "i", "a", "je", "ja", "të", "j"].some((end) => verified.has(w + end));
   let n = 0;
   for (const l of findLemmas(dic)) {
-    if (!VALID_WORD.test(l.word) || baseOf(l.word, hasWide)) continue;
+    if (!VALID_WORD.test(l.word) || baseOf(l.word, hasWide) || stemOfKnown(l.word)) continue;
+    // must be used on its own, not only through its forms (rejects stems like dhimb, rezulto);
+    // verbs in -j are naturally rarer than their forms (punoj vs punon), so they get a lower bar
+    const own = useOf(l.word);
+    const family = all.get(l.word) ?? own;
+    if (own < 1 || (family > 500 && own / family < (l.word.endsWith("j") ? 0.0005 : 0.005))) continue;
     if (!((wiki.get(l.word) ?? 0) >= 1 || (all.get(l.word) ?? 0) >= MIN_USE) || d.check(l.word) !== "new") continue;
     const w = getWord(l.word);
     w.unverified = true;
@@ -356,6 +395,22 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       if (std && (v.kind === "gheg" || v.kind === "tosk")) addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
     }
   }
+  // Variant links to an inflected form (âsht → është) point to its base word (jam) instead;
+  // links that lead nowhere are dropped.
+  const formToHead = new Map<string, string>();
+  for (const w of words.values()) for (const e of w.entries) for (const f of e.forms ?? []) if (!formToHead.has(f.form)) formToHead.set(f.form, w.word);
+  for (const w of words.values()) {
+    if (!w.variantOf) continue;
+    w.variantOf = w.variantOf
+      .map((v) => (words.get(v.word)?.entries.length ? v : formToHead.has(v.word) ? { ...v, word: formToHead.get(v.word)! } : null))
+      .filter((v): v is NonNullable<typeof v> => !!v && v.word !== w.word);
+    if (!w.variantOf.length) delete w.variantOf;
+    for (const v of w.variantOf ?? []) {
+      const std = words.get(v.word);
+      if (std && (v.kind === "gheg" || v.kind === "tosk")) addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
+    }
+  }
+
   // Drop words without any entry and without a variant link.
   for (const [k, w] of words) if (!w.entries.length && !w.variantOf?.length) words.delete(k);
 
@@ -371,6 +426,11 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log(`albanet: ${al.added} new words, ${al.linked} same-meaning links`);
   console.log("reading the Hunspell word list…");
   console.log(`hunspell: ${addHunspell(deduper, dic)} new words confirmed by Wikipedia/MaCoCu`);
+
+  // Reviewed corrections: words that are not words of their own (korrigjime/hiq.txt)
+  const removed = readRemoveList();
+  for (const r of removed) words.delete(r);
+  console.log(`corrections: ${removed.length} words removed (korrigjime/hiq.txt)`);
 
   // How common each word is: the word and its forms in Wikipedia and MaCoCu (scaled).
   for (const w of words.values()) {

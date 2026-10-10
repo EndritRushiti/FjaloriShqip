@@ -41,9 +41,11 @@ const reverseSynonyms = new Map<string, Set<string>>();
 const reverse = (a: string, b: string) => (reverseSynonyms.get(a) ?? reverseSynonyms.set(a, new Set()).get(a)!).add(b);
 for (const w of words) {
   if (w.unverified) continue;
-  const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en").map((s) => s.gloss);
+  // Albanet's "meaning" is a list of English words for a whole concept (theater, theatre, house):
+  // too loose to compare meanings, so only Albanet's own groups are used for those words
+  const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "albanet").map((s) => s.gloss);
   const first = englishKeys(glosses.slice(0, 1));
-  const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
+  const other = englishKeys(glosses.slice(1, 3)).filter((k) => !first.includes(k));
   primaryKeys.set(w.word, first);
   secondaryKeys.set(w.word, other);
   for (const k of first) push(byPrimary, k, w.word);
@@ -56,18 +58,18 @@ type SameMeaning = { word: string; how: "listed" | "same" | "also" | "other" };
 function sameMeaning(w: Word): SameMeaning[] {
   const skip = new Set([w.word, ...(w.dialects ?? []).map((d) => d.form), ...(w.variantOf ?? []).map((v) => v.word)]);
   const out = new Map<string, SameMeaning["how"]>();
-  const pos = new Set(w.entries.map((e) => e.pos).filter((p) => p !== "other"));
+  const pos = new Set<string>(w.entries.map((e) => e.pos).filter((p) => p !== "other"));
   // same word class only: punë (noun, work) is not punoj (verb, to work); "other" = unknown
-  const samePos = (x: Word) => !pos.size || !x.entries.length || x.entries.some((e) => e.pos === "other" || pos.has(e.pos));
+  const samePos = (x: Word) => !pos.size || x.entries.some((e) => pos.has(e.pos)); // unknown word class never matches
   const add = (x: string, how: SameMeaning["how"]) => {
     const other = byWord.get(x);
     if (other && !skip.has(x) && !out.has(x) && samePos(other)) out.set(x, how);
   };
   const common = (a: string, b: string) => (byWord.get(b)?.frequency ?? 0) - (byWord.get(a)?.frequency ?? 0);
-  const from = (keys: string[] | undefined, index: Map<string, string[]>, how: SameMeaning["how"]) => {
+  const from = (keys: string[] | undefined, index: Map<string, string[]>, how: SameMeaning["how"], limit = TOO_GENERAL, take = 99) => {
     for (const k of keys ?? []) {
       const list = index.get(k) ?? [];
-      if (list.length <= TOO_GENERAL) [...list].sort(common).forEach((x) => add(x, how));
+      if (list.length <= limit) [...list].sort(common).slice(0, take).forEach((x) => add(x, how));
     }
   };
   for (const s of listedSynonyms.get(w.word) ?? []) add(s, "listed");
@@ -75,9 +77,11 @@ function sameMeaning(w: Word): SameMeaning[] {
   for (const s of reverseSynonyms.get(w.word) ?? [])
     if ([...(primaryKeys.get(s) ?? []), ...(secondaryKeys.get(s) ?? [])].some((k) => mine.has(k))) add(s, "listed");
   from(primaryKeys.get(w.word), byPrimary, "same"); // same main meaning
-  from(primaryKeys.get(w.word), bySecondary, "also"); // others that also mean this (bukë: also food)
-  from(secondaryKeys.get(w.word), byPrimary, "other"); // words for this word's other meanings (nënë: grandmother → gjyshe)
-  return [...out].map(([word, how]) => ({ word, how })).slice(0, 16);
+  // Not used: words that have this meaning only as a minor sense (bimë: "plant", rarely "girl")
+  // look unrelated on a word page. Search still shows them, marked "also".
+  from(secondaryKeys.get(w.word), byPrimary, "other", 6, 2); // words for this word's other meanings (nënë: grandmother → gjyshe)
+  const all = [...out].map(([word, how]) => ({ word, how }));
+  return [...all.filter((x) => x.how !== "other").slice(0, 12), ...all.filter((x) => x.how === "other").slice(0, 4)];
 }
 
 const url = (p: string) => `${BASE}${p}`;
@@ -389,7 +393,6 @@ function sameMeaningCard(w: Word): string {
     `<a class="syn-chip${cls}" href="${wordUrl(x)}" lang="sq"><span class="w">${h(x)}</span>${extra || meaning(x)}</a>`;
   const plain = (x: string, extra: string) => (byWord.has(x) ? chip(x, extra) : `<span class="syn-chip"><span class="w" lang="sq">${h(x)}</span>${extra}</span>`);
   const main = list.filter((x) => x.how === "listed" || x.how === "same");
-  const also = list.filter((x) => x.how === "also");
   const other = list.filter((x) => x.how === "other");
   const row = (title: string, chips: string) => `<div class="syn-row"><h3>${title}</h3><div class="syn-chips">${chips}</div></div>`;
   return `<section class="card same-meaning">
@@ -397,7 +400,6 @@ function sameMeaningCard(w: Word): string {
   ${std ? row(bi("Fjala standarde", "Standard word"), chip(std.word)) : ""}
   ${main.length ? row(bi("Fjalë të tjera për këtë", "Other words for this"), main.map((x) => chip(x.word)).join("")) : ""}
   ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small><span class="dialect-dot ${d.dialect}"></span>${d.dialect === "gheg" ? t("gheg") : t("tosk")}</small>`)).join("")) : ""}
-  ${also.length ? row(bi("Kanë edhe këtë kuptim", "Also have this meaning"), also.map((x) => chip(x.word, "", " also")).join("")) : ""}
   ${other.length ? row(bi("Për kuptimet e tjera", "For its other meanings"), other.map((x) => chip(x.word, "", " also")).join("")) : ""}
 </section>`;
 }
@@ -783,7 +785,7 @@ function apiWord(w: Word): object {
 
   // featured words for word of the day / hour: common word classes with an English meaning
   const featured = words
-    .filter((w) => w.word.length >= 3 && w.word.length <= 12 && !w.word.includes(" ") && w.entries.some((e) => ["noun", "verb", "adj"].includes(e.pos) && e.senses.some((s) => s.lang === "en" && !(s.tags ?? []).some((x) => /archaic|obsolete|rare|vulgar|derogatory|offensive/.test(x)))))
+    .filter((w) => w.word.length >= 3 && w.word.length <= 12 && !w.word.includes(" ") && w.entries.some((e) => ["noun", "verb", "adj"].includes(e.pos) && e.senses.some((s) => s.lang === "en" && s.source === "en-wiktionary" && !w.unverified && !(s.tags ?? []).some((x) => /archaic|obsolete|rare|vulgar|derogatory|offensive/.test(x)))))
     .map((w) => {
       const e = w.entries.find((x) => x.senses.some((s) => s.lang === "en"))!;
       const ex = e.senses.flatMap((s) => s.examples ?? [])[0];

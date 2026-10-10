@@ -38,7 +38,7 @@ const VOWEL_ONLY = ["n", "s", "t", "ve", "në", "së", "të"];
 // -ull nouns: artikull → artikuj, akull → akujt
 add("ull", ["uj", "ujt", "ujve", "ujsh"]);
 // -izëm nouns drop ë: absolutizëm → absolutizmi, arkaizma
-add("ëm", ["mi", "min", "mit", "ma", "mat", "mave", "mash"]);
+add("ëm", ["mi", "min", "mit", "ma", "mat", "mave", "mash", "me", "mja", "men", "mes", "met", "meve"]); // also i mesëm → e mesme
 // feminine -ë and masculine -ë nouns: fushë → fusha, fushe, fushat; burrë → burri, burra
 add("ë", ["a", "e", "at", "ave", "ash", "i", "in", "it", "u", "un", "ut", "ra", "rat", "rave"]);
 // feminine -e nouns: lule → lulja; bindje → bindja
@@ -53,14 +53,14 @@ add("ës", ["si", "sin", "sit", "sa", "sat", "save"]);
 
 /** The base word this form most likely belongs to, or null when w looks like a base word itself. */
 export function baseOf(w: string, has: (x: string) => boolean): string | null {
-  if (has(`${w}j`) && /[aeiouy]$/.test(w)) return `${w}j`; // imperative: puno → punoj
+  if (w.length >= 4 && has(`${w}j`) && /[aeiouy]$/.test(w)) return `${w}j`; // imperative: puno → punoj (not ajo → ajoj)
   for (const suffix of VOWEL_ONLY) {
     const stem = w.slice(0, -suffix.length);
     if (w.endsWith(suffix) && stem.length >= 2 && /[aeëiouy]$/.test(stem) && has(stem)) return stem;
   }
   // aorist / participle stems of -j verbs: luajt, mbajt, gjet, hyr → luaj, mbaj, gjej, hyj
   if (/[aeiouy]j?t$/.test(w) && has(`${w.replace(/j?t$/, "")}j`)) return `${w.replace(/j?t$/, "")}j`;
-  if (/[aeiouy]r$/.test(w) && has(`${w.slice(0, -1)}j`)) return `${w.slice(0, -1)}j`;
+  if (w.length <= 4 && /[aeiouy]r$/.test(w) && has(`${w.slice(0, -1)}j`)) return `${w.slice(0, -1)}j`; // hyr → hyj (not kryesor → kryesoj)
   if (w.endsWith("q") && has(`${w.slice(0, -1)}k`)) return `${w.slice(0, -1)}k`; // armiq → armik
   if (w.endsWith("gj") && has(`${w.slice(0, -2)}g`)) return `${w.slice(0, -2)}g`; // zogj → zog
   // 1st person plural of consonant verbs (hapim, bindim) — but not -im nouns (abonim, agim)
@@ -111,11 +111,17 @@ export function readDic(text: string): Set<string> {
   return out;
 }
 
+/** Pronoun and adjective forms, abbreviations and foreign words that the list contains as words. */
+const NOT_LEMMAS = new Set([
+  "kësaj", "këtij", "këtyre", "asaj", "atij", "atyre", "cilës", "cilit", "cilin", "cilët", "cilat", "cilave", "tjerë", "tjera", "tjerët", "tjerat",
+  "mëdha", "mëdhenj", "vegjël", "etj", "shek", "prof", "fig", "inter", "und", "sur", "anti", "super", "post", "dr", "nr", "pra", "ish", "the", "of", "and",
+]);
+
 export function findLemmas(words: Set<string>): Lemma[] {
   const has = (x: string) => words.has(x);
   const out: Lemma[] = [];
   for (const w of words) {
-    if (w.length < 3 || baseOf(w, has)) continue;
+    if (w.length < 3 || NOT_LEMMAS.has(w) || /^[ivxlc]+$/.test(w) || baseOf(w, has)) continue; // xix: Roman numerals
     out.push({ word: w, ...guessPos(w, has) });
   }
   return out;
