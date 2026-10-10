@@ -69,6 +69,16 @@ describe("worker", () => {
     expect(again.status).toBe(304);
   });
 
+  it("serves the offline page without touching the bucket", async () => {
+    const empty: R2Bucket = {
+      get: () => Promise.reject(new Error("bucket read while offline")),
+      head: () => Promise.reject(new Error("bucket read while offline")),
+    };
+    const res = await worker.fetch(new Request("https://example.org/fjala/n%C3%ABn%C3%AB/"), { SITE: empty, OFFLINE: "1" });
+    expect(res.status).toBe(503);
+    expect(await res.text()).toContain("përkohësisht jashtë funksionit");
+  });
+
   it("only allows reading", async () => {
     expect((await get("/", { method: "POST" })).status).toBe(405);
     expect((await get("/", { method: "HEAD" })).status).toBe(200);

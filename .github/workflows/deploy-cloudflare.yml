@@ -2,6 +2,8 @@
 # the files go to the R2 bucket "fjalorishqip" and the Worker in wrangler.toml serves them.
 # Needs four repository secrets (Settings > Secrets and variables > Actions):
 #   CLOUDFLARE_ACCOUNT_ID, CLOUDFLARE_API_TOKEN, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY
+# The API token needs "Workers Scripts: Edit" and "Account Analytics: Read" (for the usage check).
+# Daily usage protection: usage-guard.yml.
 name: Deploy to Cloudflare
 on:
   push:
@@ -35,6 +37,13 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Check this month's free R2 usage (deploys stop at 95%)
+        run: |
+          code=0
+          npx tsx scripts/usage-guard.ts || code=$?
+          if [ "$code" = 2 ]; then echo "::error::Over 95% of a free R2 allowance this month: deploy blocked."; exit 1; fi
+          if [ "$code" = 3 ]; then echo "::error::Could not read the usage from Cloudflare (check the API token permissions)."; exit 1; fi
+          if [ "$code" = 1 ]; then echo "::warning::Over 80% of a free R2 allowance this month."; fi
       - run: npm test
       - run: npm run sources
       - run: npm run data

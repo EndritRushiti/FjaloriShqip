@@ -22,7 +22,14 @@ export interface Env {
   SITE: R2Bucket;
   /** "1" while testing: tell search engines not to index the site. */
   NOINDEX?: string;
+  /** "1" when the usage guard took the site offline to stay inside the free R2 allowance. */
+  OFFLINE?: string;
 }
+
+const OFFLINE_PAGE = `<!doctype html><html lang="sq"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FjaloriShqip</title><body style="font-family:system-ui,sans-serif;max-width:32rem;margin:15vh auto;padding:0 16px;line-height:1.5">
+<h1>FjaloriShqip</h1><p>Faqja është përkohësisht jashtë funksionit. Provoni përsëri më vonë.</p>
+<p lang="en">The site is temporarily offline. Please try again later.</p></body></html>`;
 
 const TYPES: Record<string, string> = {
   html: "text/html; charset=utf-8",
@@ -88,6 +95,13 @@ export default {
       return new Response("Method not allowed", { status: 405, headers: { Allow: "GET, HEAD, OPTIONS" } });
     }
     const head = request.method === "HEAD";
+    // offline: answer without reading the bucket, so R2 usage stops growing
+    if (env.OFFLINE === "1") {
+      return new Response(head ? null : OFFLINE_PAGE, {
+        status: 503,
+        headers: { "Content-Type": TYPES.html, "Retry-After": "86400", "Cache-Control": "no-store" },
+      });
+    }
     const url = new URL(request.url);
     const key = keyFor(url.pathname);
     if (key === null) return notFound(env, head);

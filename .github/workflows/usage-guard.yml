@@ -1,0 +1,49 @@
+# Daily check that the site stays inside Cloudflare's free R2 allowance (scripts/usage-guard.ts).
+#   under 80%  → the Worker is (re)deployed normally, so the site comes back online after a new month
+#   80% – 95%  → this run fails, so GitHub sends an email
+#   95% or more → the Worker is switched to a small offline page that reads nothing from R2, and the run fails
+# Uses the same secrets as deploy-cloudflare.yml; the API token also needs "Account Analytics: Read".
+name: Cloudflare usage guard
+on:
+  schedule:
+    - cron: "0 6 * * *" # every day
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: cloudflare-deploy
+  cancel-in-progress: false
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Check this month's usage
+        id: guard
+        run: |
+          code=0
+          npx tsx scripts/usage-guard.ts || code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+      - name: Take the site offline (95% of a free allowance used)
+        if: steps.guard.outputs.code == '2'
+        run: npx --yes wrangler@4 deploy --var OFFLINE:1
+      - name: Keep the site online
+        if: steps.guard.outputs.code == '0' || steps.guard.outputs.code == '1'
+        run: npx --yes wrangler@4 deploy
+      - name: Report
+        if: steps.guard.outputs.code != '0'
+        run: |
+          case "${{ steps.guard.outputs.code }}" in
+            1) echo "::error::Over 80% of a free R2 allowance this month (see the summary)." ;;
+            2) echo "::error::Over 95% of a free R2 allowance: the site is OFFLINE until next month." ;;
+            *) echo "::error::Could not read the usage from Cloudflare (check the API token permissions)." ;;
+          esac
+          exit 1
