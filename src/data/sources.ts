@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto";
 
 export interface SourceInfo {
   id: SourceId;
@@ -133,6 +133,18 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Vetëm numërimi i fjalëve në paragrafët me cilësi të mirë: për të konfirmuar se një fjalë e re përdoret dhe për të treguar sa e zakonshme është. Nuk kopjohet asnjë tekst.",
       en: "Word counts only, from paragraphs marked good quality: to confirm that a new word is in use and to show how common it is. No text is copied.",
+    },
+  },
+  auto: {
+    id: "auto",
+    name: "FjaloriShqip: kuptime të përafërta automatike / approximate meanings",
+    publisher: "FjaloriShqip, nga kuptimet e fjalëve të tjera të këtij fjalori",
+    url: "https://github.com/EndritRushiti/FjaloriShqip/blob/main/scripts/lib/derive-meaning.ts",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Për fjalët pa kuptim: një kuptim i përafërt i nxjerrë nga fjala bazë (rindërtim ← rindërtoj \"to rebuild\"), nga pjesët e fjalës së përbërë (kryeredaktor = krye + redaktor) ose nga fjala ndërkombëtare në anglisht (humanitet → humanity). Shënohet gjithmonë si \"i përafërt\".",
+      en: "For words without a meaning: an approximate meaning worked out from the base word (rindërtim ← rindërtoj \"to rebuild\"), from the parts of a compound (kryeredaktor = krye + redaktor) or from the English international word (humanitet → humanity). Always marked \"approximate\".",
     },
   },
 };

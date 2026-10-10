@@ -502,3 +502,8 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .syn-chip .w { font-family: var(--serif); font-size: 1.12rem; font-weight: 600; line-height: 1.2; }
 .syn-chip small { color: var(--muted); font-size: 0.75rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .syn-chip.also { background: var(--surface); }
+
+/* ── approximate meanings ── */
+.approx { display: inline-block; padding: 0 8px; margin-right: 6px; border-radius: 999px; background: var(--warn-bg); border: 1px solid var(--warn-border); color: var(--text); font-size: 0.75rem; font-weight: 700; cursor: help; }
+.sense-approx .gloss { color: var(--muted); }
+.sense-approx .gloss a { font-family: var(--serif); font-weight: 650; }

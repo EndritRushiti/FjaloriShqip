@@ -43,7 +43,7 @@ for (const w of words) {
   if (w.unverified) continue;
   // Albanet's "meaning" is a list of English words for a whole concept (theater, theatre, house):
   // too loose to compare meanings, so only Albanet's own groups are used for those words
-  const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "albanet").map((s) => s.gloss);
+  const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "albanet" && s.source !== "auto").map((s) => s.gloss);
   const first = englishKeys(glosses.slice(0, 1));
   const other = englishKeys(glosses.slice(1, 3)).filter((k) => !first.includes(k));
   primaryKeys.set(w.word, first);
@@ -216,6 +216,12 @@ function senseHtml(s: Sense): string {
   const ex = s.examples?.length
     ? `<ul class="examples">${s.examples.map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en">${h(e.english)}</span>` : ""}</li>`).join("")}</ul>`
     : "";
+  if (s.source === "auto") {
+    // approximate meaning: show it as such and link the words it is built from
+    const gloss = h(s.gloss).replace(/“([^”]+)”/g, (_, x: string) => (byWord.has(x) ? `“<a href="${wordUrl(x)}" lang="sq">${x}</a>”` : `“${x}”`));
+    const badge = `<span class="approx" title="${h("Kuptim i përafërt, i nxjerrë automatikisht nga fjalë të tjera të fjalorit / Approximate meaning, worked out automatically from other words")}">≈ ${bi("i përafërt", "approximate")}</span>`;
+    return `<li class="sense-approx"><div class="sense-line">${label}${badge}<span class="gloss">${gloss}</span></div></li>`;
+  }
   return `<li><div class="sense-line">${label}${tags}<span class="gloss">${h(s.gloss)}</span></div>${ex}</li>`;
 }
 
@@ -321,13 +327,14 @@ function wordPage(w: Word): string {
   if (ipa.length) facts.push([t("pronunciation"), `<span class="ipa">${ipa.map(h).join(" · ")}</span>`]);
   facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
 
+  const approx = w.entries.some((e) => e.senses.some((x) => x.source === "auto"));
   const unverified = w.unverified
     ? `<section class="card unverified">
-      <h2>${icon.sparkle(18)} ${bi("Fjalë e re, ende pa kuptim", "New word, no meaning yet")}</h2>
+      <h2>${icon.sparkle(18)} ${approx ? bi("Fjalë e re, me kuptim të përafërt", "New word, approximate meaning") : bi("Fjalë e re, ende pa kuptim", "New word, no meaning yet")}</h2>
       <p>${bi(
-        "Kjo fjalë u gjet automatikisht në fjalorin drejtshkrimor shqip (Hunspell) dhe përdoret në Wikipedia shqip. Kuptimi do të shtohet më vonë.",
-        "This word was found automatically in the Albanian spell-checking dictionary (Hunspell) and is used in Albanian Wikipedia. Its meaning will be added later.",
-      )}${pos.length ? ` ${bi("Lloji i fjalës është përcaktuar automatikisht nga mbaresa.", "The word class was guessed from its ending.")}` : ""}</p>
+        "Kjo fjalë u gjet automatikisht në fjalorin drejtshkrimor shqip (Hunspell) dhe përdoret në Wikipedia shqip ose në korpusin MaCoCu.",
+        "This word was found automatically in the Albanian spell-checking dictionary (Hunspell) and is used in Albanian Wikipedia or the MaCoCu corpus.",
+      )} ${approx ? bi("Kuptimi më poshtë është i përafërt: është nxjerrë nga fjalët e tjera të fjalorit. Kuptimi i plotë do të shtohet më vonë.", "The meaning below is approximate: it was worked out from other words in the dictionary. A full meaning will be added later.") : bi("Kuptimi do të shtohet më vonë.", "Its meaning will be added later.")}${pos.length ? ` ${bi("Lloji i fjalës është përcaktuar automatikisht nga mbaresa.", "The word class was guessed from its ending.")}` : ""}</p>
       <p class="muted small">${bi("Licenca e kësaj fjale: GPL-2.0 ose më e re (nga lista e Luan Kelmendit).", "Licence of this word: GPL-2.0-or-later (from Luan Kelmendi's list).")}</p>
     </section>`
     : "";
@@ -342,12 +349,12 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
         <button type="button" class="icon-btn copy-btn" data-copy="${h(w.word)}" aria-label="${h("Kopjo fjalën / Copy word")}" title="${h("Kopjo")}">${icon.copy(18)}<span class="copied">${icon.check(18)}</span></button>
       </div>
       <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
-      ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span> ${h(firstGloss)}</p>` : ""}
+      ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
       ${variant}
     </header>
     ${unverified}
     ${sameMeaningCard(w)}
-    ${w.unverified ? "" : w.entries.map(entryHtml).join("")}
+    ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
     ${attribution(w)}
   </article>
@@ -413,7 +420,8 @@ function letterNav(active: string, withCounts = false): string {
 }
 
 function shortGloss(w: Word): string {
-  const g = w.entries.flatMap((e) => e.senses).find((s) => s.lang === "en")?.gloss ?? (w.variantOf?.length ? `→ ${w.variantOf[0].word}` : "");
+  const s = w.entries.flatMap((e) => e.senses).find((x) => x.lang === "en");
+  const g = s ? (s.source === "auto" ? `≈ ${s.gloss.replace(/[“”]/g, "")}` : s.gloss) : w.variantOf?.length ? `→ ${w.variantOf[0].word}` : "";
   return g.length > 70 ? `${g.slice(0, 67)}…` : g;
 }
 
@@ -757,7 +765,7 @@ function apiWord(w: Word): object {
     "api/v1/kerko.json",
     JSON.stringify(
       words.map((w) => {
-        const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en").map((s) => s.gloss);
+        const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").map((s) => s.gloss);
         const first = englishKeys(glosses.slice(0, 1));
         const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
         return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|")];

@@ -9,6 +9,7 @@ import type { DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src
 import { compareSq } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
 import { Deduper } from "./lib/dedupe.js";
+import { deriveMeaning } from "./lib/derive-meaning.js";
 import { baseOf, findLemmas, readDic, rootOf } from "./lib/hunspell-lemmas.js";
 
 const SRC = path.join(process.cwd(), "sources");
@@ -195,6 +196,42 @@ function readSqWiktionary(): void {
     }
     if (!found) continue;
   }
+}
+
+// ── approximate meanings (scripts/lib/derive-meaning.ts) ─────────────────────
+const RULE_POS: Record<string, Pos> = { act: "noun", agent: "noun", able: "adj", having: "adj", relating: "adj", adverb: "adv" };
+function internationalPos(w: string): Pos {
+  return /(izoj|ifikoj|oj)$/.test(w) ? "verb" : /(al|ik|iv|ent|ant)$/.test(w) ? "adj" : "noun";
+}
+
+function addApproximateMeanings(): number {
+  const english = new Set<string>();
+  const wn = path.join(SRC, "wordnet-en", "wn-data-eng.tab");
+  if (fs.existsSync(wn))
+    for (const line of fs.readFileSync(wn, "utf8").split("\n")) {
+      const p = line.split("\t");
+      if (p[1] === "lemma" && !p[2].includes("_")) english.add(p[2].trim().toLowerCase());
+    }
+  // short English meaning of every word that has a real one (not Albanet's concept lists)
+  const meanings = new Map<string, string>();
+  for (const w of words.values()) {
+    const s = w.entries.flatMap((e) => e.senses).find((x) => x.lang === "en" && x.source !== "albanet" && x.source !== "auto");
+    if (s) meanings.set(w.word, s.gloss.replace(/\([^)]*\)/g, "").split(/[;,]/)[0].trim());
+  }
+  let n = 0;
+  for (const w of words.values()) {
+    if (meanings.has(w.word) || w.variantOf?.length || w.word.includes(" ") || w.entries.some((e) => e.senses.some((s) => s.lang === "en"))) continue;
+    const d = deriveMeaning(w.word, (x) => meanings.get(x), english);
+    if (!d) continue;
+    const rule = d.rule.replace(/-.*/, "");
+    const basePos = words.get(d.base)?.entries[0]?.pos;
+    const pos: Pos = w.entries[0]?.pos ?? (rule === "international" ? internationalPos(w.word) : RULE_POS[rule] ?? (rule === "prefix" && basePos ? basePos : "other"));
+    const e = w.entries[0] ?? entryFor(w, pos, "auto");
+    addSense(e, { gloss: d.gloss, lang: "en", tags: ["approximate"], source: "auto" });
+    addSource(w.sources, "auto");
+    n++;
+  }
+  return n;
 }
 
 /** korrigjime/hiq.txt: one word per line, "#" starts a comment. */
@@ -435,6 +472,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   for (const r of removed) words.delete(r);
   console.log(`corrections: ${removed.length} words removed (korrigjime/hiq.txt)`);
 
+  // Approximate meanings for words that have none, from words we know (clearly marked as such)
+  console.log(`approximate meanings: ${addApproximateMeanings()} words`);
+
   // How common each word is: the word and its forms in Wikipedia and MaCoCu (scaled).
   for (const w of words.values()) {
     if (w.unverified) continue;
@@ -463,7 +503,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "wiktionary-other": list.filter((w) => w.sources.includes("wiktionary-other")).length,
       albanet: list.filter((w) => w.sources.includes("albanet")).length,
       macocu: list.filter((w) => w.sources.includes("macocu") || (w.frequency && !w.unverified)).length,
+      auto: list.filter((w) => w.sources.includes("auto")).length,
     },
+    approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,
     sources: manifest,
   };
