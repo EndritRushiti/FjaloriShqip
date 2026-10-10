@@ -69,8 +69,12 @@ export interface Word {
   variantOf?: { word: string; kind: "gheg" | "tosk" | "alternative"; source: SourceId }[];
   /** How often the word and its forms appear in Albanian Wikipedia (word counts only). */
   frequency?: number;
+  /** How often exactly this spelling appears in Albanian Wikipedia (carefully spelled text). */
+  wikipediaCount?: number;
   /** Found automatically (Hunspell word list); no meaning yet and the word class is a guess. */
   unverified?: boolean;
+  /** Short description in Albanian of what the word is (pershkrime/pershkrime.tsv). */
+  description?: { text: string; source: SourceId; reviewed?: boolean };
   /** Borrowed word: the language it comes from ("international" when recognised as an international word). */
   loan?: { from: string };
   /** Labels that apply to the whole word (dialectal, archaic, rare…), as Wiktionary tags. */

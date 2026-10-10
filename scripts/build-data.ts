@@ -201,6 +201,28 @@ function readSqWiktionary(): void {
   }
 }
 
+// ── Albanian descriptions ────────────────────────────────────────────────────
+/**
+ * pershkrime/pershkrime.tsv: "word<TAB>description", one per line; "#" starts a comment.
+ * A third column "rishikuar" marks a description the editor has reviewed.
+ */
+function addDescriptions(): number {
+  const f = path.join(process.cwd(), "pershkrime", "pershkrime.tsv");
+  if (!fs.existsSync(f)) return 0;
+  let n = 0;
+  for (const raw of fs.readFileSync(f, "utf8").split("\n")) {
+    const line = raw.replace(/\r$/, "");
+    if (!line.trim() || line.startsWith("#")) continue;
+    const [word, text, status] = line.split("\t").map((x) => x.trim());
+    const w = words.get(word?.toLowerCase() ?? "");
+    if (!w || !text) continue;
+    w.description = { text, source: "ai", ...(status === "rishikuar" ? { reviewed: true } : {}) };
+    addSource(w.sources, "ai");
+    n++;
+  }
+  return n;
+}
+
 // ── labels ───────────────────────────────────────────────────────────────────
 /** Spell-checker words used less than this (Wikipedia + scaled MaCoCu) wait for review instead of being shown. */
 const MIN_SHOWN_USE = 5;
@@ -587,6 +609,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);
 
+  // Short Albanian descriptions (pershkrime/pershkrime.tsv)
+  console.log(`descriptions: ${addDescriptions()} words have an Albanian description`);
+
   // Borrowed words, usage labels, word classes that the sources got wrong
   console.log(`labels: ${addLabels()}`);
 
@@ -603,6 +628,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     const forms = new Set([w.word, ...w.entries.flatMap((e) => (e.forms ?? []).map((f) => f.form))]);
     const n = Math.round([...forms].reduce((a, f) => a + scaledUse(f), 0));
     if (n) w.frequency = n;
+    if (wikiCounts[w.word]) w.wikipediaCount = wikiCounts[w.word];
   }
 
   const list = [...words.values()].sort((a, b) => compareSq(a.word, b.word));

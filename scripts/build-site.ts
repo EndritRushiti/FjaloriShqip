@@ -20,6 +20,8 @@ const SITE_URL = process.env.SITE_URL ?? "";
 const PAGE_SIZE = 400;
 /** Minimum use (Wikipedia + scaled MaCoCu) for the word of the day / hour. */
 const FEATURED_MIN_USE = 400;
+/** …and exactly this spelling at least this often in Wikipedia. */
+const FEATURED_MIN_WIKIPEDIA = 100;
 const NOINDEX = process.env.NOINDEX === "1"; // test hosting: keep out of search engines
 
 const words: Word[] = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "fjalori.json"), "utf8"));
@@ -353,6 +355,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       </div>
       <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.labels ?? []).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
       ${albanianInstead(w)}
+      ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}${w.description.reviewed ? "" : ` <span class="ai-note" title="${h("Përshkrim i shkruar me ndihmën e inteligjencës artificiale, ende pa u rishikuar nga redaktori / Written with AI help, not yet reviewed by an editor")}">${bi("përshkrim me ndihmë të AI-së", "written with AI help")}</span>`}</p>` : ""}
       ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
       ${variant}
     </header>
@@ -454,11 +457,13 @@ function shortGloss(w: Word): string {
   return g.length > 70 ? `${g.slice(0, 67)}…` : g;
 }
 
+const short = (x: string) => (x.length > 70 ? `${x.slice(0, 67)}…` : x);
+
 function wordCard(w: Word): string {
   const e = w.entries[0];
   const dialect = w.variantOf?.[0]?.kind;
   const gloss = shortGloss(w);
-  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e && e.pos !== "other" ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${gloss ? h(gloss) : `<i class="no-meaning">${bi("ende pa kuptim", "no meaning yet")}</i>`}</span></a></li>`;
+  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e && e.pos !== "other" ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${w.description ? `<span data-ui="sq">${h(short(w.description.text))}</span><span data-ui="en">${gloss ? h(gloss) : h(short(w.description.text))}</span>` : gloss ? h(gloss) : `<i class="no-meaning">${bi("ende pa kuptim", "no meaning yet")}</i>`}</span></a></li>`;
 }
 
 function letterPages(): number {
@@ -789,7 +794,8 @@ function apiWord(w: Word): object {
   }
 
   // search index: [word, folded key, pos (sq), short English gloss, Wikipedia count,
-  //                English keys of the first meaning, English keys of the other meanings, borrowed (1/0)]
+  //                English keys of the first meaning, English keys of the other meanings, borrowed (1/0),
+  //                short Albanian description]
   write(
     "api/v1/kerko.json",
     JSON.stringify(
@@ -797,7 +803,7 @@ function apiWord(w: Word): object {
         const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").map((s) => s.gloss);
         const first = englishKeys(glosses.slice(0, 1));
         const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
-        return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|"), w.loan ? 1 : 0];
+        return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|"), w.loan ? 1 : 0, w.description ? short(w.description.text) : ""];
       }),
     ),
   );
@@ -824,18 +830,23 @@ function apiWord(w: Word): object {
   // Word of the day / hour: common, Albanian (not borrowed) words with a real meaning,
   // no dialectal, archaic or rare words (the home page should show words people know)
   const NOT_FEATURED = /archaic|obsolete|rare|dialectal|regional|Gheg|Tosk|Arbëresh|vulgar|derogatory|offensive|slang|dated|historical|colloquial|nonstandard|misspelling|Kosovo|figuratively/;
+  const formOfOther = new Set<string>();
+  for (const w of words) for (const e of w.entries) for (const f of e.forms ?? []) if (f.form !== w.word) formOfOther.add(f.form);
   const featured = words
     .filter((w) => {
       if (w.unverified || w.loan || w.labels || w.variantOf || w.word.includes(" ") || w.word.length < 3 || w.word.length > 12 || (w.frequency ?? 0) < FEATURED_MIN_USE) return false;
+      // used as exactly this word in (carefully spelled) Wikipedia, and not a form of another word:
+      // keeps out eshtë (= është without ë), duk (from duke), pashë, bëra, dhënë…
+      if ((w.wikipediaCount ?? 0) < FEATURED_MIN_WIKIPEDIA || formOfOther.has(w.word)) return false;
       const e = w.entries.find((x) => ["noun", "verb", "adj"].includes(x.pos) && x.senses.length);
       const s = e?.senses[0];
-      return !!s && s.lang === "en" && s.source === "en-wiktionary" && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle)/i.test(s.gloss);
+      return !!s && s.lang === "en" && s.source === "en-wiktionary" && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle|given|mediopassive|to have (been|become))|\bof\b.*\(/i.test(s.gloss) && !s.gloss.toLowerCase().startsWith(w.word);
     })
     .map((w) => {
       const e = w.entries.find((x) => x.senses.some((s) => s.lang === "en"))!;
       const ex = e.senses.flatMap((s) => s.examples ?? [])[0];
       const gheg = w.dialects?.find((d) => d.dialect === "gheg")?.form ?? null;
-      return [w.word, POS_SQ[e.pos], POS_EN[e.pos], e.senses.find((s) => s.lang === "en")!.gloss.slice(0, 120), gheg, ex ? ex.text : null, ex?.english ?? null, e.ipa?.[0] ?? null];
+      return [w.word, POS_SQ[e.pos], POS_EN[e.pos], e.senses.find((s) => s.lang === "en")!.gloss.slice(0, 120), gheg, ex ? ex.text : null, ex?.english ?? null, e.ipa?.[0] ?? null, w.description?.text ?? null];
     });
   write("api/v1/te-zgjedhura.json", JSON.stringify(featured));
 

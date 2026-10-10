@@ -518,3 +518,10 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .albanian-row h3 small { font-weight: 400; margin-left: 4px; }
 .albanian-row .syn-chip { border-color: color-mix(in srgb, var(--ok) 45%, var(--border)); background: var(--surface); }
 .loan-tag { color: var(--muted); font-style: italic; }
+
+/* ── Albanian descriptions ── */
+.word-desc { margin: 14px 0 0; font-size: 1.22rem; max-width: 62ch; font-family: var(--serif); line-height: 1.5; }
+.word-desc + .word-summary { margin-top: 6px; font-size: 1.02rem; color: var(--muted); }
+.ai-note { display: inline-block; font-family: var(--sans); font-size: 0.72rem; font-weight: 600; color: var(--muted); border: 1px dashed var(--border-strong); border-radius: 999px; padding: 0 8px; vertical-align: 0.2em; cursor: help; }
+.feature-desc { font-family: var(--serif); font-size: 1.15rem; margin-bottom: 4px; }
+.feature-desc + .feature-gloss { color: var(--muted); font-size: 1rem; }

@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai";
 
 export interface SourceInfo {
   id: SourceId;
@@ -157,6 +157,18 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Fjalë dhe kuptime të shtuara ose të korrigjuara nga redaktorët e fjalorit (korrigjime/shto.txt), p.sh. fjalë shqipe që mungonin në burimet e hapura.",
       en: "Words and meanings added or corrected by the dictionary's editors (korrigjime/shto.txt), e.g. Albanian words missing from the open sources.",
+    },
+  },
+  ai: {
+    id: "ai",
+    name: "Përshkrime shqip me ndihmë të AI-së / Albanian descriptions written with AI help",
+    publisher: "FjaloriShqip; shkruar me ndihmën e Claude (Anthropic), duke u nisur nga kuptimet e burimeve të hapura",
+    url: "https://github.com/EndritRushiti/FjaloriShqip/blob/main/pershkrime/pershkrime.tsv",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Përshkrime të shkurtra shqip të fjalëve, të shkruara me ndihmën e inteligjencës artificiale mbi bazën e kuptimeve që kemi nga burimet e hapura. Nuk janë marrë nga asnjë fjalor tjetër. Shënohen si të tilla derisa t'i rishikojë redaktori.",
+      en: "Short Albanian descriptions of words, written with the help of artificial intelligence on the basis of the meanings we have from the open sources. They are not taken from any other dictionary. They are marked as such until an editor reviews them.",
     },
   },
 };

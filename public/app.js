@@ -151,7 +151,7 @@
         active = -1;
         list.innerHTML = rows.map(function (x, i) {
           var r = x.row;
-          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + (r[7] ? ' · <span class="loan-tag">' + bi("huazim", "borrowed") + "</span>" : "") + "</small><span>" + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
+          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + (r[7] ? ' · <span class="loan-tag">' + bi("huazim", "borrowed") + "</span>" : "") + "</small><span>" + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("") + (rows.length ? '<li class="sugg-foot"><a href="' + BASE + "/kerko/?q=" + encodeURIComponent(q.trim()) + '">' + bi("Shiko të gjitha rezultatet për", "See all results for") + " “" + esc(q.trim()) + "” →</a></li>" : "");
         list.hidden = rows.length === 0;
         input.setAttribute("aria-expanded", String(!list.hidden));
@@ -226,7 +226,7 @@
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
             (x.form ? '<span class="wc-form">' + bi("formë e kërkuar", "matching form") + "</span>" : "") +
-            '</span><span class="wc-pos">' + esc(r[2]) + (r[7] ? ' <span class="loan-tag">· ' + bi("huazim", "borrowed") + "</span>" : "") + '</span><span class="wc-gloss">' + (r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
+            '</span><span class="wc-pos">' + esc(r[2]) + (r[7] ? ' <span class="loan-tag">· ' + bi("huazim", "borrowed") + "</span>" : "") + '</span><span class="wc-gloss">' + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
             // "food" is another meaning of this word (bukë: bread; also food)
             (x.direct && ("|" + r[5] + "|").indexOf("|" + normEnglish(q) + "|") < 0 ? ' · <b class="also">' + bi("edhe", "also") + " “" + esc(q) + "”</b>" : "") + "</span></a></li>";
         };
@@ -261,7 +261,7 @@
       cards.forEach(function (card) {
         var kind = card.getAttribute("data-feature");
         var body = card.querySelector(".card-body");
-        // [word, posSq, posEn, gloss, gheg, example, exampleEn, ipa]
+        // [word, posSq, posEn, gloss, gheg, example, exampleEn, ipa, Albanian description]
         if (kind === "dialect") {
           if (!withGheg.length) { card.hidden = true; return; }
           var g = withGheg[hash("gheg:" + day + "T" + pad(d.getHours())) % withGheg.length];
@@ -283,6 +283,7 @@
           '<div class="feature-meta"><span class="pos-pill">' + esc(isEn() ? w[2] : w[1]) + "</span>" +
           (w[7] ? '<span class="ipa">' + esc(w[7]) + "</span>" : "") +
           (w[4] && w[4] !== w[0] ? '<span><span class="dialect-dot gheg"></span>' + bi("gegërisht", "Gheg") + " <b>" + esc(w[4]) + "</b></span>" : "") + "</div>" +
+          (w[8] ? '<p class="feature-desc"><span class="lang-badge sq">SQ</span>' + esc(w[8]) + "</p>" : "") +
           '<p class="feature-gloss"><span class="lang-badge">EN</span>' + esc(w[3]) + "</p>" +
           (kind === "day" && w[5] ? '<p class="feature-example">' + esc(w[5]) + (w[6] ? "<small>" + esc(w[6]) + "</small>" : "") + "</p>" : "") +
           '<a class="feature-more" href="' + wordUrl(w[0]) + '">' + bi("Mëso më shumë", "Learn more") + " →</a>";
