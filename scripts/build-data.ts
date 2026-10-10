@@ -204,6 +204,13 @@ function internationalPos(w: string): Pos {
   return /(izoj|ifikoj|oj)$/.test(w) ? "verb" : /(al|ik|iv|ent|ant)$/.test(w) ? "adj" : "noun";
 }
 
+/** First short meaning without any bracketed notes (nested ones too): "coin (a piece of currency)" → "coin". */
+function plainMeaning(g: string): string {
+  let x = g;
+  for (let i = 0; i < 4 && /\([^()]*\)/.test(x); i++) x = x.replace(/\([^()]*\)/g, " ");
+  return x.replace(/[()]/g, " ").split(/[;,]/)[0].replace(/\s+/g, " ").trim();
+}
+
 function addApproximateMeanings(): number {
   const english = new Set<string>();
   const wn = path.join(SRC, "wordnet-en", "wn-data-eng.tab");
@@ -216,7 +223,7 @@ function addApproximateMeanings(): number {
   const meanings = new Map<string, string>();
   for (const w of words.values()) {
     const s = w.entries.flatMap((e) => e.senses).find((x) => x.lang === "en" && x.source !== "albanet" && x.source !== "auto");
-    if (s) meanings.set(w.word, s.gloss.replace(/\([^)]*\)/g, "").split(/[;,]/)[0].trim());
+    if (s) meanings.set(w.word, plainMeaning(s.gloss));
   }
   let n = 0;
   for (const w of words.values()) {
