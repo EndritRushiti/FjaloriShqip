@@ -21,6 +21,9 @@ It is built from:
 | Wikifjalor (Albanian Wiktionary), community-written pages only | CC BY-SA 4.0 | headword, part of speech, gender |
 | Hunspell sq_AL spell-checking list (Luan Kelmendi, shipped with LibreOffice) | GPL-2.0-or-later | additional headwords only (no meanings), marked unverified |
 | Albanian Wikipedia (articles dump) | CC BY-SA 4.0 | word counts only (`derived/frekuenca-wikipedia.json`); no text |
+| Wiktionary in 18 other language editions (French, German, Russian, Polish, Greek, Italian…), via kaikki.org | CC BY-SA 4.0 | Albanian entries and translations into Albanian (`derived/wiktionary-*-sq.json`); English Wiktionary translation tables give the English meaning |
+| Albanet, the Albanian WordNet (Ervin Ruci), via the Open Multilingual Wordnet | CC BY 3.0 | words and same-meaning groups, with English words from Princeton WordNet 3.0 (WordNet licence); **its Albanian definitions are not used** |
+| MaCoCu Albanian web corpus 1.0 (CLARIN.SI 11356/1804) | CC0 1.0 | word counts only (`derived/frekuenca-macocu.json`); no text |
 
 Pages of Wikifjalor that reproduce the layout of the Academy of Sciences' dictionary (FGJSSH) are excluded
 entirely, including their word list, because they appear to be copied from a copyrighted work.

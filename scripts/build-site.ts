@@ -56,9 +56,9 @@ type SameMeaning = { word: string; how: "listed" | "same" | "also" | "other" };
 function sameMeaning(w: Word): SameMeaning[] {
   const skip = new Set([w.word, ...(w.dialects ?? []).map((d) => d.form), ...(w.variantOf ?? []).map((v) => v.word)]);
   const out = new Map<string, SameMeaning["how"]>();
-  const pos = new Set(w.entries.map((e) => e.pos));
-  // same word class only: punë (noun, work) is not punoj (verb, to work)
-  const samePos = (x: Word) => !pos.size || !x.entries.length || x.entries.some((e) => pos.has(e.pos));
+  const pos = new Set(w.entries.map((e) => e.pos).filter((p) => p !== "other"));
+  // same word class only: punë (noun, work) is not punoj (verb, to work); "other" = unknown
+  const samePos = (x: Word) => !pos.size || !x.entries.length || x.entries.some((e) => e.pos === "other" || pos.has(e.pos));
   const add = (x: string, how: SameMeaning["how"]) => {
     const other = byWord.get(x);
     if (other && !skip.has(x) && !out.has(x) && samePos(other)) out.set(x, how);
@@ -167,7 +167,7 @@ ${opts.canonical && SITE_URL ? `<link rel="canonical" href="${h(SITE_URL + url(o
   </div>
   <div class="wrap footer-bottom">
     <p>${t("licenceNote")}</p>
-    <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor, Hunspell sq_AL, Wikipedia.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor, Hunspell sq_AL, Wikipedia.")}</p>
+    <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.")}</p>
   </div>
 </footer>
 <script src="${url("/app.js")}" defer></script>
@@ -223,7 +223,7 @@ function entryHtml(e: Entry): string {
   const etym = e.etymology ? `<details class="etym"><summary>${t("etymology")}</summary><p>${h(e.etymology)}</p></details>` : "";
   return `<section class="entry card">
   <header class="entry-head">
-    <span class="pos-pill">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>
+    ${e.pos === "other" ? "" : `<span class="pos-pill">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>`}
     ${e.gender ? `<span class="gender">${genderLabel(e.gender)}</span>` : ""}
     ${e.ipa?.length ? `<span class="ipa" title="${h("IPA")}">${e.ipa.map(h).join(" · ")}</span>` : ""}
   </header>
@@ -239,7 +239,7 @@ function sourceLink(w: Word, id: SourceId): string {
     ? `https://en.wiktionary.org/wiki/${encodeURIComponent(w.word)}#Albanian`
     : id === "sq-wiktionary"
       ? `https://sq.wiktionary.org/wiki/${encodeURIComponent(w.word)}`
-      : id === "hunspell-sq"
+      : id === "hunspell-sq" || id === "wiktionary-other" || id === "albanet" || id === "macocu"
         ? SOURCES[id].url
         : id === "wikipedia-sq"
           ? `https://sq.wikipedia.org/w/index.php?search=${encodeURIComponent(w.word)}&fulltext=1`
@@ -302,7 +302,7 @@ function wordPage(w: Word): string {
 
   const firstGloss = w.entries.flatMap((e) => e.senses).find((s) => s.lang === "en")?.gloss ?? "";
   const ipa = [...new Set(w.entries.flatMap((e) => e.ipa ?? []))];
-  const pos = [...new Set(w.entries.map((e) => e.pos))];
+  const pos = [...new Set(w.entries.map((e) => e.pos))].filter((p) => p !== "other"); // "other" = word class unknown
   const gender = w.entries.find((e) => e.gender)?.gender;
   const letter = firstLetter(w.word);
   const i = position.get(w.word) ?? 0;
@@ -312,6 +312,7 @@ function wordPage(w: Word): string {
 
   const facts: [string, string][] = [];
   if (pos.length) facts.push([bi("Lloji", "Word class"), pos.map((p) => bi(POS_SQ[p], POS_EN[p])).join(", ")]);
+
   if (gender) facts.push([bi("Gjinia", "Gender"), genderLabel(gender)]);
   if (ipa.length) facts.push([t("pronunciation"), `<span class="ipa">${ipa.map(h).join(" · ")}</span>`]);
   facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
@@ -418,7 +419,7 @@ function wordCard(w: Word): string {
   const e = w.entries[0];
   const dialect = w.variantOf?.[0]?.kind;
   const gloss = shortGloss(w);
-  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${gloss ? h(gloss) : `<i class="no-meaning">${bi("ende pa kuptim", "no meaning yet")}</i>`}</span></a></li>`;
+  return `<li><a href="${wordUrl(w.word)}"><span class="wc-word" lang="sq">${h(w.word)}</span>${e && e.pos !== "other" ? `<span class="wc-pos">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>` : dialect && dialect !== "alternative" ? `<span class="wc-pos"><span class="dialect-dot ${dialect}"></span>${dialect === "gheg" ? t("gheg") : t("tosk")}</span>` : ""}<span class="wc-gloss">${gloss ? h(gloss) : `<i class="no-meaning">${bi("ende pa kuptim", "no meaning yet")}</i>`}</span></a></li>`;
 }
 
 function letterPages(): number {
@@ -581,7 +582,7 @@ ${rows}
   )}</p>
   <p>${bi("Kodi i faqes është me licencën MIT.", "The website's code is MIT-licensed.")}</p>
   <h3>${bi("Si të citoni", "How to cite")}</h3>
-  <pre>FjaloriShqip — open Albanian dictionary (CC BY-SA 4.0), built from Wiktionary (CC BY-SA 4.0), Wikidata (CC0) and Wikifjalor (CC BY-SA 4.0); additional headwords from the Albanian Hunspell list by Luan Kelmendi (GPL-2.0-or-later); word frequencies from Albanian Wikipedia. Data version ${h(stats.built)}.</pre>
+  <pre>FjaloriShqip — open Albanian dictionary (CC BY-SA 4.0), built from Wiktionary (CC BY-SA 4.0), Wikidata (CC0) and Wikifjalor (CC BY-SA 4.0); further headwords from Wiktionary in 18 other languages (CC BY-SA 4.0), Albanet (CC BY 3.0) and the Albanian Hunspell list by Luan Kelmendi (GPL-2.0-or-later); word frequencies from Albanian Wikipedia and the MaCoCu corpus (CC0). Data version ${h(stats.built)}.</pre>
 </section>
 <section class="card card-warn">
   <h2>${bi("Çfarë nuk përdorim kurrë", "What we never use")}</h2>
@@ -757,7 +758,7 @@ function apiWord(w: Word): object {
         const glosses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en").map((s) => s.gloss);
         const first = englishKeys(glosses.slice(0, 1));
         const other = englishKeys(glosses.slice(1)).filter((k) => !first.includes(k));
-        return [w.word, foldKey(w.word), w.entries[0] ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|")];
+        return [w.word, foldKey(w.word), w.entries[0] && w.entries[0].pos !== "other" ? POS_SQ[w.entries[0].pos] : "", shortGloss(w), w.frequency ?? 0, first.join("|"), other.slice(0, 6).join("|")];
       }),
     ),
   );

@@ -8,7 +8,8 @@ import readline from "node:readline";
 import type { DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src/data/model.js";
 import { compareSq } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
-import { findLemmas, readDic, rootOf } from "./lib/hunspell-lemmas.js";
+import { Deduper } from "./lib/dedupe.js";
+import { baseOf, findLemmas, readDic, rootOf } from "./lib/hunspell-lemmas.js";
 
 const SRC = path.join(process.cwd(), "sources");
 const OUT = path.join(process.cwd(), "data");
@@ -183,45 +184,158 @@ function readSqWiktionary(): void {
   }
 }
 
-/** Word counts from Albanian Wikipedia (derived/frekuenca-wikipedia.json, made by scripts/word-frequency.ts). */
-function readFrequency(): Record<string, number> {
-  const f = path.join(process.cwd(), "derived", "frekuenca-wikipedia.json");
+// ── usage counts (Wikipedia + MaCoCu) ───────────────────────────────────────
+/** Word counts made by scripts/word-frequency.ts (derived/frekuenca-<source>.json). */
+function readCounts(source: "wikipedia" | "macocu"): Record<string, number> {
+  const f = path.join(process.cwd(), "derived", `frekuenca-${source}.json`);
   return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")).words : {};
 }
+const wikiCounts = readCounts("wikipedia");
+const macocuCounts = readCounts("macocu");
+/** MaCoCu is ~15× larger than Wikipedia; scale it so both count about the same. */
+const MACOCU_SCALE = 1 / 14.6;
+const useOf = (w: string) => (wikiCounts[w] ?? 0) + (macocuCounts[w] ?? 0);
+const scaledUse = (w: string) => (wikiCounts[w] ?? 0) + (macocuCounts[w] ?? 0) * MACOCU_SCALE;
 
-/** Minimum Wikipedia count (word + forms) for a Hunspell-only word to be added. */
-const MIN_USE = 1;
+function readDerived<T>(file: string): T | null {
+  const f = path.join(process.cwd(), "derived", file);
+  return fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as T) : null;
+}
+
+const POS_NAMES: Record<string, Pos> = { ...KAIKKI_POS, adjective: "adj", adverb: "adv", pronoun: "pron", numeral: "num", interjection: "interj", preposition: "prep", conjunction: "conj" };
+/** Wiktionary entries that are not words of their own. */
+const NOT_A_WORD = new Set(["name", "proper noun", "character", "symbol", "suffix", "prefix", "infix", "abbrev", "punct", "romanization", "phrase", "proverb"]);
+
+// ── more Wiktionary editions: English translation tables and 18 other editions ─────
+interface WiktionaryExtract {
+  edition: string;
+  headwords: { word: string; pos: string; glosses: string[] }[];
+  translations: { word: string; from: string; fromLang: string; sense: string }[];
+}
 
 /**
- * Adds base words from the Hunspell list that no other source has, when Albanian Wikipedia
- * confirms they are in use. They stay separate (own source, GPL) and are marked unverified.
+ * Adds words found in Wiktionary that the main sources lack: Albanian entries of any edition
+ * and translations into Albanian (English translations bring their English meaning: caviar → kavie).
+ * A word is added only when it is new (Deduper) and confirmed: used in Wikipedia/MaCoCu, or
+ * attested by at least two editions.
  */
-function addHunspell(freq: Record<string, number>): number {
-  const file = path.join(SRC, "hunspell-sq_AL.dic");
-  if (!fs.existsSync(file)) return 0;
-  const dic = readDic(fs.readFileSync(file, "utf8"));
-  const has = (x: string) => dic.has(x);
-  const known = new Set<string>();
-  for (const w of words.values()) {
-    known.add(w.word);
-    for (const e of w.entries) for (const f of e.forms ?? []) known.add(f.form);
-    for (const d of w.dialects ?? []) known.add(d.form);
+function addWiktionaryEditions(d: Deduper): number {
+  const dir = path.join(process.cwd(), "derived");
+  if (!fs.existsSync(dir)) return 0;
+  type Cand = { editions: Set<string>; pos?: Pos; en: Set<string> };
+  const cands = new Map<string, Cand>();
+  const cand = (w: string) => cands.get(w) ?? cands.set(w, { editions: new Set(), en: new Set() }).get(w)!;
+  for (const f of fs.readdirSync(dir).filter((x) => x.startsWith("wiktionary-"))) {
+    const x = readDerived<WiktionaryExtract>(f)!;
+    for (const h of x.headwords) {
+      const w = h.word.trim();
+      if (w !== w.toLowerCase() || w.includes(" ") || NOT_A_WORD.has(h.pos) || INFLECTION_RE.test(h.glosses[0] ?? "") || VARIANT_RE.test(h.glosses[0] ?? "")) continue;
+      const c = cand(w);
+      c.editions.add(x.edition);
+      c.pos ??= POS_NAMES[h.pos];
+      if (x.edition === "en") for (const g of h.glosses.slice(0, 3)) c.en.add(g);
+    }
+    for (const t of x.translations) {
+      const w = t.word.trim();
+      if (w !== w.toLowerCase() || w.includes(" ")) continue;
+      const c = cand(w);
+      c.editions.add(x.edition);
+      if (x.edition === "en" && t.fromLang === "en" && t.from) c.en.add(t.sense && t.sense.length < 60 && t.sense.toLowerCase() !== t.from.toLowerCase() ? `${t.from} (${t.sense})` : t.from);
+    }
   }
-  const family = new Map<string, number>();
+  let n = 0;
+  for (const [w, c] of cands) {
+    if (!VALID_WORD.test(w) || d.check(w) !== "new" || !(useOf(w) > 0 || c.editions.size >= 2)) continue;
+    const word = getWord(w);
+    const source: SourceId = c.editions.has("en") ? "en-wiktionary" : "wiktionary-other";
+    const e = entryFor(word, c.pos ?? "other", source);
+    for (const g of [...c.en].slice(0, 4)) addSense(e, { gloss: g, lang: "en", source: "en-wiktionary" });
+    addSource(word.sources, source);
+    if (c.editions.size > (c.editions.has("en") ? 1 : 0)) addSource(word.sources, "wiktionary-other");
+    d.add(w);
+    n++;
+  }
+  return n;
+}
+
+// ── Albanet (Albanian WordNet, CC BY 3.0): words and same-meaning groups ──────────
+interface AlbanetExtract { concepts: { id: string; pos: string; sq: string[]; en: string[] }[] }
+const WN_POS: Record<string, Pos> = { n: "noun", v: "verb", a: "adj", s: "adj", r: "adv" };
+
+/**
+ * Albanet groups words that mean the same thing (a "concept"). We use its word list and those
+ * groups, and the English words of each concept as the meaning. Its Albanian definitions are NOT
+ * used: some repeat the wording of the Academy dictionary (FGJSSH).
+ */
+function addAlbanet(d: Deduper, dic: Set<string>): { added: number; linked: number } {
+  const x = readDerived<AlbanetExtract>("albanet.json");
+  if (!x) return { added: 0, linked: 0 };
+  const english = new Set(x.concepts.flatMap((c) => c.en.map((e) => e.toLowerCase())));
+  let added = 0;
+  let linked = 0;
+  for (const c of x.concepts) {
+    const pos = WN_POS[c.pos];
+    if (!pos) continue;
+    const members = [...new Set(c.sq.map((s) => s.trim().toLowerCase()))].filter((s) => !s.includes(" ") && VALID_WORD.test(s));
+    for (const w of members) {
+      // untranslated English left in Albanet (pixel, jeep) is not Albanian
+      if (english.has(w) || d.check(w) !== "new" || !(dic.has(w) || (wikiCounts[w] ?? 0) >= 3)) continue;
+      const word = getWord(w);
+      const e = entryFor(word, pos, "albanet");
+      addSense(e, { gloss: c.en.slice(0, 3).join(", "), lang: "en", source: "albanet" });
+      addSource(word.sources, "albanet");
+      d.add(w);
+      added++;
+    }
+    // same-meaning group: link the members that are in the dictionary
+    const inDict = members.filter((m) => words.has(m) && !english.has(m));
+    if (inDict.length < 2) continue;
+    for (const m of inDict) {
+      const e = words.get(m)!.entries.find((x) => x.pos === pos);
+      if (!e) continue;
+      const before = e.synonyms?.length ?? 0;
+      e.synonyms = [...new Set([...(e.synonyms ?? []), ...inDict.filter((o) => o !== m)])].slice(0, 20);
+      linked += e.synonyms.length - before;
+    }
+  }
+  return { added, linked };
+}
+
+// ── Hunspell (GPL-2.0+): base words confirmed by Wikipedia or MaCoCu ────────────
+/** Minimum use (word + forms) in Wikipedia + MaCoCu for a Hunspell-only word. */
+const MIN_USE = 3;
+
+/**
+ * Adds base words from the Hunspell list that no other source has, when Albanian Wikipedia or
+ * the MaCoCu web corpus confirms they are in use. They stay separate (own source, GPL) and are
+ * marked unverified.
+ */
+function addHunspell(d: Deduper, dic: Set<string>): number {
+  const has = (x: string) => dic.has(x);
+  // words of the corpora count as possible base words when telling forms from base words
+  const corpus = new Set([...Object.keys(macocuCounts).filter((w) => macocuCounts[w] >= 5), ...Object.keys(wikiCounts)]);
+  const hasWide = (x: string) => dic.has(x) || corpus.has(x);
+  const wiki = new Map<string, number>();
+  const all = new Map<string, number>();
+  const scaled = new Map<string, number>();
   for (const w of dic) {
     const k = rootOf(w, has);
-    family.set(k, (family.get(k) ?? 0) + (freq[w] ?? 0));
+    wiki.set(k, (wiki.get(k) ?? 0) + (wikiCounts[w] ?? 0));
+    all.set(k, (all.get(k) ?? 0) + useOf(w));
+    scaled.set(k, (scaled.get(k) ?? 0) + scaledUse(w));
   }
   let n = 0;
   for (const l of findLemmas(dic)) {
-    const use = family.get(l.word) ?? 0;
-    if (known.has(l.word) || use < MIN_USE || !VALID_WORD.test(l.word)) continue;
+    if (!VALID_WORD.test(l.word) || baseOf(l.word, hasWide)) continue;
+    if (!((wiki.get(l.word) ?? 0) >= 1 || (all.get(l.word) ?? 0) >= MIN_USE) || d.check(l.word) !== "new") continue;
     const w = getWord(l.word);
     w.unverified = true;
-    w.frequency = use;
+    w.frequency = Math.round(scaled.get(l.word) ?? 0);
     if (l.pos) w.entries.push({ pos: l.pos, ...(l.gender ? { gender: l.gender } : {}), senses: [], sources: ["hunspell-sq"] });
     addSource(w.sources, "hunspell-sq");
-    addSource(w.sources, "wikipedia-sq");
+    if (wiki.get(l.word)) addSource(w.sources, "wikipedia-sq");
+    if ((all.get(l.word) ?? 0) > (wiki.get(l.word) ?? 0)) addSource(w.sources, "macocu");
+    d.add(l.word);
     n++;
   }
   return n;
@@ -245,16 +359,26 @@ function addHunspell(freq: Record<string, number>): number {
   // Drop words without any entry and without a variant link.
   for (const [k, w] of words) if (!w.entries.length && !w.variantOf?.length) words.delete(k);
 
-  // How common each word is: the word and its forms in Albanian Wikipedia.
-  const freq = readFrequency();
+  // More headwords from other open sources, each checked against everything already in the
+  // dictionary (headwords, forms, dialect forms, spellings without ë/ç, inflected forms).
+  const dicFile = path.join(SRC, "hunspell-sq_AL.dic");
+  const dic = fs.existsSync(dicFile) ? readDic(fs.readFileSync(dicFile, "utf8")) : new Set<string>();
+  const deduper = new Deduper(words.values(), dic);
+  console.log("reading other Wiktionary editions…");
+  console.log(`wiktionary editions: ${addWiktionaryEditions(deduper)} new words`);
+  console.log("reading Albanet…");
+  const al = addAlbanet(deduper, dic);
+  console.log(`albanet: ${al.added} new words, ${al.linked} same-meaning links`);
+  console.log("reading the Hunspell word list…");
+  console.log(`hunspell: ${addHunspell(deduper, dic)} new words confirmed by Wikipedia/MaCoCu`);
+
+  // How common each word is: the word and its forms in Wikipedia and MaCoCu (scaled).
   for (const w of words.values()) {
+    if (w.unverified) continue;
     const forms = new Set([w.word, ...w.entries.flatMap((e) => (e.forms ?? []).map((f) => f.form))]);
-    const n = [...forms].reduce((a, f) => a + (freq[f] ?? 0), 0);
+    const n = Math.round([...forms].reduce((a, f) => a + scaledUse(f), 0));
     if (n) w.frequency = n;
   }
-  console.log("reading the Hunspell word list…");
-  const added = addHunspell(freq);
-  console.log(`hunspell: ${added} new words confirmed by Wikipedia`);
 
   const list = [...words.values()].sort((a, b) => compareSq(a.word, b.word));
   fs.mkdirSync(OUT, { recursive: true });
@@ -272,7 +396,10 @@ function addHunspell(freq: Record<string, number>): number {
       wikidata: list.filter((w) => w.sources.includes("wikidata")).length,
       "sq-wiktionary": list.filter((w) => w.sources.includes("sq-wiktionary")).length,
       "hunspell-sq": list.filter((w) => w.sources.includes("hunspell-sq")).length,
-      "wikipedia-sq": list.filter((w) => w.frequency).length,
+      "wikipedia-sq": list.filter((w) => w.sources.includes("wikipedia-sq") || (w.frequency && !w.unverified)).length,
+      "wiktionary-other": list.filter((w) => w.sources.includes("wiktionary-other")).length,
+      albanet: list.filter((w) => w.sources.includes("albanet")).length,
+      macocu: list.filter((w) => w.sources.includes("macocu") || (w.frequency && !w.unverified)).length,
     },
     unverified: list.filter((w) => w.unverified).length,
     sources: manifest,

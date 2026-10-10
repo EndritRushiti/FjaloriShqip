@@ -81,7 +81,7 @@ export function baseOf(w: string, has: (x: string) => boolean): string | null {
 }
 
 /** Endings that are inflections even when the base word is missing from the list. */
-const NEVER_LEMMA = /(uar|uara|imi|imin|imit|izmi|izmin|izmit|istët|istit|istin|ët|ëve|[^aeëiouy]ve|ive|isë|itë|ojë|ësh|ste|shim|shit|shin|fsha|ftë|fshin|kam|kemi|keni|uakam|het|hen|hej|uan|uam|..ia|....ione|imet|imeve|iteti|itetit|itetin|...ova|...uakan)$/;
+const NEVER_LEMMA = /(uar|uara|imi|imin|imit|izmi|izmin|izmit|istët|istit|istin|ët|ëve|[^aeëiouy]ve|ive|isë|itë|ojë|ësh|ste|shim|shit|shin|fsha|ftë|fshin|kam|kemi|keni|uakam|het|hen|hej|uan|uam|..ia|....ione|imet|imeve|iteti|itetit|itetin|...ova|...uakan|akësh|akësha|akëshe|akëshim|akëshit|akëshin|uakemi|uakeni|..iumi|..iumit)$/;
 
 const POS_BY_ENDING: [RegExp, Pos, "m" | "f" | undefined][] = [
   [/(oj|uaj|yej|ej|ij|aj)$/, "verb", undefined],

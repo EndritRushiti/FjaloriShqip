@@ -23,6 +23,9 @@ Interface: Albanian first, English second (switch in the header).
 | [Wikifjalor](https://sq.wiktionary.org/wiki/Kategoria:Shqip) (community-written pages only) | CC BY-SA 4.0 | word, part of speech, gender |
 | [Hunspell sq_AL](https://github.com/LibreOffice/dictionaries/tree/master/sq_AL) (Luan Kelmendi) | GPL-2.0-or-later | extra headwords without meanings, marked *unverified* |
 | [Wikipedia shqip](https://sq.wikipedia.org/) | CC BY-SA 4.0 | word counts only (how common a word is) |
+| [Wiktionary, 18 other editions](https://kaikki.org/dictionary/rawdata.html) (via kaikki.org) | CC BY-SA 4.0 | more Albanian words; English translation tables give English meanings |
+| [Albanet](https://github.com/omwn/omw-data/tree/main/wns/als) (Albanian WordNet) | CC BY 3.0 | words and same-meaning groups (not its definitions) |
+| [MaCoCu Albanian web corpus](http://hdl.handle.net/11356/1804) | CC0 | word counts only (confirms new words are in use) |
 
 **Never used:** definitions, examples or word lists from copyrighted dictionaries, such as the Academy's *Fjalori i gjuhës shqipe* (FGJSSH), printed dictionaries or other dictionary websites. About 33,000 Wikifjalor pages copy the FGJSSH layout and are excluded completely. See [DATA-LICENSE.md](DATA-LICENSE.md).
 
@@ -39,9 +42,18 @@ Albanian Wikipedia. Measured on the words we already know, about 92% of these ar
 Word counts are made occasionally on a developer machine; the 160 MB dump is not needed for the build:
 
 ```bash
-curl -LO https://dumps.wikimedia.org/sqwiki/latest/sqwiki-latest-pages-articles.xml.bz2   # into ./sources
-bzip2 -dc sources/sqwiki-latest-pages-articles.xml.bz2 | npx tsx scripts/word-frequency.ts
+# word counts (into derived/)
+bzip2 -dc sources/sqwiki-latest-pages-articles.xml.bz2 | npx tsx scripts/word-frequency.ts wikipedia
+unzip -p sources/MaCoCu-sq-1.0.xml.zip | npx tsx scripts/word-frequency.ts macocu
+# Albanian parts of Wiktionary (English: ~3 GB download, streamed)
+curl -sL https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz | gzip -dc | npx tsx scripts/extract-wiktionary.ts en
+curl -sL https://kaikki.org/dictionary/downloads/fr/fr-extract.jsonl.gz | gzip -dc | npx tsx scripts/extract-wiktionary.ts fr
+# Albanet + Princeton WordNet
+npx tsx scripts/extract-albanet.ts
 ```
+
+Every new word goes through `scripts/lib/dedupe.ts`. It is rejected when it is an existing headword, a known
+inflected or dialect form, the same word written without ë/ç, or an inflected form of a known word.
 
 ## API
 

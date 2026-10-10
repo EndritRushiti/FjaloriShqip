@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu";
 
 export interface SourceInfo {
   id: SourceId;
@@ -89,6 +89,50 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Vetëm numërimi i fjalëve: sa herë shfaqet çdo fjalë (me format e saj) në artikuj. Përdoret për të renditur fjalët nga më të përdorurat dhe për të konfirmuar se një fjalë e re përdoret realisht. Nuk kopjohet asnjë tekst.",
       en: "Word counts only: how often each word (with its forms) appears in the articles. Used to rank words from most to least used and to confirm that a new word is really in use. No text is copied.",
+    },
+  },
+  "wiktionary-other": {
+    id: "wiktionary-other",
+    name: "Wiktionary in other languages (French, German, Russian, Polish, Greek, Italian and 13 more editions)",
+    publisher: "Wikimedia Foundation & Wiktionary contributors; extracted by kaikki.org (wiktextract)",
+    url: "https://kaikki.org/dictionary/rawdata.html",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Fjalë shqipe që mungonin në burimet e tjera: hyrjet shqipe të këtyre botimeve dhe përkthimet në shqip. Një fjalë shtohet vetëm kur përdoret në Wikipedia ose MaCoCu, ose kur e dëshmojnë të paktën dy botime.",
+      en: "Albanian words missing from the other sources: the Albanian entries of these editions and their translations into Albanian. A word is added only when it is used in Wikipedia or MaCoCu, or attested by at least two editions.",
+    },
+    notUsed: {
+      sq: "Kuptimet në frëngjisht, gjermanisht etj. nuk shfaqen; fjalët pa kuptim anglisht e tregojnë këtë.",
+      en: "Meanings written in French, German etc. are not shown; words without an English meaning say so.",
+    },
+  },
+  albanet: {
+    id: "albanet",
+    name: "Albanet: Albanian WordNet (Ervin Ruci), via the Open Multilingual Wordnet",
+    publisher: "Ervin Ruci / University of Vlora; Open Multilingual Wordnet; English words from Princeton WordNet 3.0",
+    url: "https://github.com/omwn/omw-data/tree/main/wns/als",
+    licence: "CC BY 3.0",
+    licenceUrl: "https://creativecommons.org/licenses/by/3.0/",
+    usedFor: {
+      sq: "Fjalë të reja (vetëm kur janë në listën drejtshkrimore ose në Wikipedia) dhe grupet e fjalëve me të njëjtin kuptim, me fjalët angleze të çdo grupi (Princeton WordNet) si kuptim.",
+      en: "New words (only when they are in the spell-checking list or in Wikipedia) and its groups of words with the same meaning, with each group's English words (Princeton WordNet) as the meaning.",
+    },
+    notUsed: {
+      sq: "Përkufizimet shqip të Albanet nuk përdoren, sepse disa përsërisin fjalë për fjalë formulimet e Fjalorit të Akademisë (FGJSSH). Fjalët angleze të mbetura pa përkthim në Albanet (p.sh. pixel, jeep) përjashtohen.",
+      en: "Albanet's Albanian definitions are not used, because some repeat the wording of the Academy dictionary (FGJSSH) word for word. English words left untranslated in Albanet (e.g. pixel, jeep) are excluded.",
+    },
+  },
+  macocu: {
+    id: "macocu",
+    name: "MaCoCu Albanian web corpus 1.0 (528 million words)",
+    publisher: "MaCoCu project; CLARIN.SI repository (handle 11356/1804)",
+    url: "http://hdl.handle.net/11356/1804",
+    licence: "CC0 1.0",
+    licenceUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    usedFor: {
+      sq: "Vetëm numërimi i fjalëve në paragrafët me cilësi të mirë: për të konfirmuar se një fjalë e re përdoret dhe për të treguar sa e zakonshme është. Nuk kopjohet asnjë tekst.",
+      en: "Word counts only, from paragraphs marked good quality: to confirm that a new word is in use and to show how common it is. No text is copied.",
     },
   },
 };
