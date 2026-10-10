@@ -1,0 +1,17 @@
+# Cloudflare Worker that serves the site from the R2 bucket "fjalorishqip".
+# The deploy workflow (.github/workflows/deploy-cloudflare.yml) uploads ./dist to the bucket and deploys this Worker.
+name = "fjalorishqip"
+main = "src/worker/index.ts"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+[[r2_buckets]]
+binding = "SITE"
+bucket_name = "fjalorishqip"
+
+[vars]
+# test phase: keep the site out of search engines until the official launch (set to "0" then)
+NOINDEX = "1"
+
+[observability]
+enabled = true

@@ -82,9 +82,9 @@ npm test
 
 ## Hosting (free)
 
-**Test phase: Netlify.** `netlify.toml` builds everything on Netlify's free tier on every push to `main`. While `NOINDEX=1` is set, the site stays out of search engines.
+**Cloudflare (R2 + Worker).** `.github/workflows/deploy-cloudflare.yml` builds everything on every push to `main` (and every Monday), uploads only the changed files of `dist/` to the R2 bucket `fjalorishqip`, and deploys the Worker in `src/worker/` (config: `wrangler.toml`), which serves the files. R2 has no limit on the number of files, so the site can keep growing. The workflow needs four repository secrets, listed at the top of the file. While `NOINDEX=1` is set, the site stays out of search engines.
 
-**Later: GitHub Pages.** `.github/workflows/deploy-pages.yml` can publish the same site on GitHub Pages. It is manual for now; see the comments in the file.
+**Before: Netlify.** `netlify.toml` is the old test-phase setup, kept until the move to Cloudflare is finished. `.github/workflows/deploy-pages.yml` (manual) can publish to GitHub Pages, but Pages has a 1 GB limit.
 
 `.github/workflows/ci.yml` type-checks and tests every push.
 
