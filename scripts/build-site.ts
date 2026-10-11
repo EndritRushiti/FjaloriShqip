@@ -640,9 +640,6 @@ function homePage(): string {
 
 <section class="stats" aria-label="${h(UI_STATS)}">
   <div><b>${num(stats.words)}</b><span>${bi("fjalë", "words")}</span></div>
-  <div><b>${num(stats.withEnglish)}</b><span>${bi("me kuptim në anglisht", "with an English meaning")}</span></div>
-  <div><b>${num(stats.withInflection)}</b><span>${bi("me zgjedhim ose lakim", "with conjugation or declension")}</span></div>
-  <div><b>${num(stats.ghegForms)}</b><span>${bi("forma gege", "Gheg forms")}</span></div>
 </section>
 
 <section class="section dialect-browse">
