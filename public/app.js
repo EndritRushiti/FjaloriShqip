@@ -130,7 +130,8 @@
       var row = index[i]; // [word, fold, pos, gloss, Wikipedia count, English keys (1st meaning), English keys (others)]
       var score = 0;
       var direct = false;
-      if (row[1] === k) score = 100 - (row[0].toLowerCase() === ql ? 0 : 1);
+      // same letters as typed (ë/ç ignored): the exact spelling first, then the more common word (nene → nënë before nenë)
+      if (row[1] === k) score = 100 - (row[0].toLowerCase() === ql ? 0 : 1) + Math.min(0.9, Math.log(1 + (row[4] || 0)) / Math.LN10 / 10);
       else if (en.length >= 2 && row[5] && ("|" + row[5] + "|").indexOf(key) >= 0) { score = 86; direct = true; }
       else if (en.length >= 2 && row[6] && ("|" + row[6] + "|").indexOf(key) >= 0) { score = 80; direct = true; }
       else if (k && row[1].indexOf(k) === 0) score = 60 - Math.min(20, row[1].length - k.length);
@@ -152,14 +153,21 @@
     return loadShard(k[0]).then(function (shard) { return shard[k] || []; });
   }
 
-  /** Headword rows for a query: inflected/dialect forms first ("punova" → punoj), then index matches. */
+  /**
+   * Headword rows for a query: the word itself first ("nene" → nënë), then the words it is a form of
+   * ("punova" → punoj; "nene" is also a form of ëmë), then the other index matches.
+   */
   function lookup(q, limit) {
     return Promise.all([loadIndex(), formMatches(q)]).then(function (r) {
       var index = r[0], forms = r[1], seen = {}, out = [];
+      var k = fold(q);
+      var found = searchIndex(index, q);
+      function add(row, form, direct) { if (row && !seen[row[0]]) { seen[row[0]] = 1; out.push({ row: row, form: form, direct: direct }); } }
+      found.forEach(function (x) { if (x.row[1] === k) add(x.row, false, x.direct); });
       var byWord = null;
       if (forms.length) { byWord = {}; for (var i = 0; i < index.length; i++) byWord[index[i][0]] = index[i]; }
-      forms.forEach(function (w) { var row = byWord[w]; if (row && !seen[w]) { seen[w] = 1; out.push({ row: row, form: true, direct: false }); } });
-      searchIndex(index, q).forEach(function (x) { if (!seen[x.row[0]] && out.length < limit) { seen[x.row[0]] = 1; out.push({ row: x.row, form: false, direct: x.direct }); } });
+      forms.forEach(function (w) { add(byWord[w], true, false); });
+      found.forEach(function (x) { if (out.length < limit) add(x.row, false, x.direct); });
       return out.slice(0, limit);
     });
   }
