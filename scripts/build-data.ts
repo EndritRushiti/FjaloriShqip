@@ -364,12 +364,14 @@ function addApproximateMeanings(): number {
   return n;
 }
 
-/** korrigjime/hiq.txt: one word per line, "#" starts a comment. */
-function readRemoveList(): string[] {
-  const f = path.join(process.cwd(), "korrigjime", "hiq.txt");
+/** A word list in korrigjime/: one word per line, "#" starts a comment. */
+function readWordList(file: string): string[] {
+  const f = path.join(process.cwd(), "korrigjime", file);
   if (!fs.existsSync(f)) return [];
   return fs.readFileSync(f, "utf8").split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim().toLowerCase()).filter(Boolean);
 }
+/** korrigjime/hiq.txt: words removed from all sources. */
+const readRemoveList = () => readWordList("hiq.txt");
 
 // ── usage counts (Wikipedia + MaCoCu) ───────────────────────────────────────
 /** Word counts made by scripts/word-frequency.ts (derived/frekuenca-<source>.json). */
@@ -615,8 +617,10 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   // Borrowed words, usage labels, word classes that the sources got wrong
   console.log(`labels: ${addLabels()}`);
 
-  // Rarely used words found only in the spell-checker list wait for review (data/ne-pritje.json)
-  const pending = [...words.values()].filter((w) => w.unverified && (w.frequency ?? 0) < MIN_SHOWN_USE).sort((a, b) => compareSq(a.word, b.word));
+  // Rarely used words found only in the spell-checker list wait for review (data/ne-pritje.json),
+  // unless they were reviewed and accepted (korrigjime/prano.txt)
+  const accepted = new Set(readWordList("prano.txt"));
+  const pending = [...words.values()].filter((w) => w.unverified && (w.frequency ?? 0) < MIN_SHOWN_USE && !accepted.has(w.word)).sort((a, b) => compareSq(a.word, b.word));
   for (const w of pending) words.delete(w.word);
   fs.mkdirSync(OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "ne-pritje.json"), JSON.stringify(pending));
