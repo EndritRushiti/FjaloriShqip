@@ -5,7 +5,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import readline from "node:readline";
-import type { DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src/data/model.js";
+import type { Dialect, DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src/data/model.js";
 import { compareSq } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
 import { Deduper } from "./lib/dedupe.js";
@@ -75,7 +75,10 @@ function addSense(e: Entry, s: Sense): void {
 }
 
 // "Gheg form of i çamë": skip the adjective article (i/e/të/së) before the word
-const VARIANT_RE = /^(Gheg|Tosk|alternative|dialectal|obsolete|archaic) (?:form|spelling|variant) of (?:(?:i|e|të|së) )?([^\s(,;:]+)/i;
+const VARIANT_RE = /^(Gheg|Tosk|Arbëresh|Arvanitika|alternative|dialectal|obsolete|archaic) (?:form|spelling|variant) of (?:(?:i|e|të|së) )?([^\s(,;:]+)/i;
+/** Wiktionary dialect tags → our dialects ("Arbëresh" = Arbërisht in Italy, "Arvanitika" = Arvanitisht in Greece) */
+const DIALECT_TAGS: Record<string, Dialect> = { Gheg: "gheg", Tosk: "tosk", Arbëresh: "arberesh", Arvanitika: "arvanitika" };
+const dialectsOf = (tags: string[] | undefined): Dialect[] => [...new Set((tags ?? []).map((t) => DIALECT_TAGS[t]).filter((d): d is Dialect => !!d))];
 const INFLECTION_RE = /^(inflection|plural|singular|definite|indefinite|feminine|masculine|first|second|third|present|past|aorist|imperfect|participle|gerund|accusative|dative|ablative|genitive|nominative|.*person)\b.* of\b/i;
 
 // ── English Wiktionary (kaikki) ─────────────────────────────────────────────
@@ -104,9 +107,13 @@ async function readKaikki(): Promise<void> {
       const g = s.glosses![0].trim();
       const v = g.match(VARIANT_RE);
       if (v) {
-        const kind = v[1].toLowerCase() === "gheg" ? "gheg" : v[1].toLowerCase() === "tosk" ? "tosk" : "alternative";
+        // "Gheg form of X", or "alternative form of X" on a sense tagged Arbëresh / Arvanitika
+        const named = DIALECT_TAGS[Object.keys(DIALECT_TAGS).find((t) => t.toLowerCase() === v[1].toLowerCase()) ?? ""];
+        const kinds: (Dialect | "alternative")[] = named ? [named] : dialectsOf(s.tags).filter((d) => d === "arberesh" || d === "arvanitika");
+        if (!kinds.length) kinds.push("alternative");
         w.variantOf ??= [];
-        if (!w.variantOf.some((x) => x.word === v[2] && x.kind === kind)) w.variantOf.push({ word: v[2].toLowerCase(), kind, source: "en-wiktionary" });
+        for (const kind of kinds)
+          if (!w.variantOf.some((x) => x.word === v[2].toLowerCase() && x.kind === kind)) w.variantOf.push({ word: v[2].toLowerCase(), kind, source: "en-wiktionary" });
         addSource(w.sources, "en-wiktionary");
         continue;
       }
@@ -127,7 +134,7 @@ async function readKaikki(): Promise<void> {
     if (k.etymology_text && !e.etymology) e.etymology = k.etymology_text.slice(0, 400);
     const forms: Form[] = (k.forms ?? [])
       .filter((f) => f.form && !f.form.startsWith("sq-") && !(f.tags ?? []).some((t) => ["table-tags", "inflection-template", "error-unrecognized-form"].includes(t)))
-      .map((f) => ({ form: f.form!, tags: (f.tags ?? []).filter((t) => t !== "Gheg" && t !== "Tosk") }));
+      .map((f) => ({ form: f.form!, tags: (f.tags ?? []).filter((t) => !(t in DIALECT_TAGS)) }));
     if (forms.length) {
       const seen = new Set((e.forms ?? []).map((f) => `${f.form}|${f.tags.join(",")}`));
       e.forms = [...(e.forms ?? []), ...forms.filter((f) => !seen.has(`${f.form}|${f.tags.join(",")}`))];
@@ -138,10 +145,20 @@ async function readKaikki(): Promise<void> {
       .filter((x): x is string => !!x && x !== headword && VALID_WORD.test(x));
     if (syn.length) e.synonyms = [...new Set([...(e.synonyms ?? []), ...syn])].slice(0, 20);
     for (const f of k.forms ?? []) {
-      const dialect = f.tags?.includes("Gheg") ? "gheg" : f.tags?.includes("Tosk") ? "tosk" : null;
-      if (dialect && f.form && f.form.toLowerCase() !== headword) addDialect(w, { form: f.form.toLowerCase(), dialect, source: "en-wiktionary" });
+      if (!f.form || f.form.toLowerCase() === headword) continue;
+      for (const dialect of dialectsOf(f.tags)) addDialect(w, { form: f.form.toLowerCase(), dialect, source: "en-wiktionary" });
     }
   }
+}
+
+/** Distinct forms of one dialect: forms listed on standard words plus dialect headwords. */
+function dialectForms(list: Word[], dialect: Dialect): number {
+  const forms = new Set<string>();
+  for (const w of list) {
+    for (const d of w.dialects ?? []) if (d.dialect === dialect) forms.add(d.form);
+    if (w.variantOf?.some((v) => v.kind === dialect) || w.dialectOnly?.includes(dialect)) forms.add(w.word);
+  }
+  return forms.size;
 }
 
 function addDialect(w: Word, d: DialectForm): void {
@@ -563,11 +580,20 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log("reading Albanian Wiktionary…");
   readSqWiktionary();
 
-  // Gheg/Tosk headwords that point to a standard word: show them on the standard word's page too.
+  // Words of their own used only in Arbëresh / Arvanitika: every English Wiktionary meaning carries that tag.
+  // (Not done for Gheg/Tosk: Wiktionary also tags some standard words "Tosk".)
+  for (const w of words.values()) {
+    const senses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source === "en-wiktionary");
+    if (!senses.length) continue;
+    const only = (["arberesh", "arvanitika"] as Dialect[]).filter((d) => senses.every((s) => dialectsOf(s.tags).includes(d)));
+    if (only.length) w.dialectOnly = only;
+  }
+
+  // Dialect headwords that point to a standard word: show them on the standard word's page too.
   for (const w of words.values()) {
     for (const v of w.variantOf ?? []) {
       const std = words.get(v.word);
-      if (std && (v.kind === "gheg" || v.kind === "tosk")) addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
+      if (std && v.kind !== "alternative") addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
     }
   }
   // Variant links to an inflected form (âsht → është) point to its base word (jam) instead;
@@ -582,7 +608,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     if (!w.variantOf.length) delete w.variantOf;
     for (const v of w.variantOf ?? []) {
       const std = words.get(v.word);
-      if (std && (v.kind === "gheg" || v.kind === "tosk")) addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
+      if (std && v.kind !== "alternative") addDialect(std, { form: w.word, dialect: v.kind, source: v.source });
     }
   }
 
@@ -644,8 +670,11 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     words: list.length,
     withEnglish: list.filter((w) => w.entries.some((e) => e.senses.some((s) => s.lang === "en"))).length,
     withInflection: list.filter((w) => w.entries.some((e) => (e.forms?.length ?? 0) > 3)).length,
-    ghegForms: list.reduce((a, w) => a + (w.dialects?.filter((d) => d.dialect === "gheg").length ?? 0), 0) + list.filter((w) => w.variantOf?.some((v) => v.kind === "gheg")).length,
-    toskForms: list.reduce((a, w) => a + (w.dialects?.filter((d) => d.dialect === "tosk").length ?? 0), 0),
+    ghegForms: dialectForms(list, "gheg"),
+    toskForms: dialectForms(list, "tosk"),
+    // distinct forms per dialect, and the standard words (headwords that are not only a dialect form)
+    dialectForms: Object.fromEntries((["gheg", "tosk", "arberesh", "arvanitika"] as Dialect[]).map((d) => [d, dialectForms(list, d)])),
+    standardWords: list.filter((w) => w.entries.length && !w.dialectOnly && !w.variantOf?.some((v) => v.kind !== "alternative")).length,
     bySource: {
       "en-wiktionary": list.filter((w) => w.sources.includes("en-wiktionary")).length,
       wikidata: list.filter((w) => w.sources.includes("wikidata")).length,

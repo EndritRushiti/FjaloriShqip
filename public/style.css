@@ -14,6 +14,8 @@
   --border-strong: #d6cbbf;
   --gheg: #b45309;
   --tosk: #1d6fa5;
+  --arberesh: #7c3aed;
+  --arvanitika: #0f766e;
   --ok: #15803d;
   --warn-bg: #fff7e6;
   --warn-border: #f0c36d;
@@ -43,6 +45,8 @@
     --border-strong: #463e38;
     --gheg: #f0a050;
     --tosk: #6cb6ea;
+    --arberesh: #b794f6;
+    --arvanitika: #4fd1c5;
     --ok: #4ade80;
     --warn-bg: #2d2412;
     --warn-border: #7a5a1c;
@@ -66,6 +70,8 @@
   --border-strong: #463e38;
   --gheg: #f0a050;
   --tosk: #6cb6ea;
+  --arberesh: #b794f6;
+  --arvanitika: #4fd1c5;
   --ok: #4ade80;
   --warn-bg: #2d2412;
   --warn-border: #7a5a1c;
@@ -143,6 +149,9 @@ pre { background: var(--surface-2); border: 1px solid var(--border); border-radi
 .dialect-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 0.1em; background: var(--muted); }
 .dialect-dot.gheg { background: var(--gheg); }
 .dialect-dot.tosk { background: var(--tosk); }
+.dialect-dot.arberesh { background: var(--arberesh); }
+.dialect-dot.arvanitika { background: var(--arvanitika); }
+.dialect-dot.standard { background: var(--accent); }
 .ipa { font-family: var(--serif); color: var(--muted); font-size: 1.05rem; }
 
 /* ── cards ── */
@@ -530,3 +539,27 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .ai-note { display: inline-block; font-family: var(--sans); font-size: 0.72rem; font-weight: 600; color: var(--muted); border: 1px dashed var(--border-strong); border-radius: 999px; padding: 0 8px; vertical-align: 0.2em; cursor: help; }
 .feature-desc { font-family: var(--serif); font-size: 1.15rem; margin-bottom: 4px; }
 .feature-desc + .feature-gloss { color: var(--muted); font-size: 1rem; }
+
+/* words by dialect: home cards and dialect pages */
+.dialect-cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
+.dialect-card { display: flex; flex-direction: column; gap: 4px; padding: 18px 18px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; color: var(--text); box-shadow: var(--shadow-sm); transition: border-color 0.15s, transform 0.15s; }
+.dialect-card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.dialect-card .dc-name { font-weight: 650; font-size: 0.95rem; }
+.dialect-card b { font: 700 1.9rem/1.1 var(--serif); color: var(--accent); }
+.dialect-card small { color: var(--muted); font-size: 0.82rem; line-height: 1.35; }
+@media (max-width: 980px) { .dialect-cards { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 600px) { .dialect-cards { grid-template-columns: 1fr 1fr; } .dialect-cards .dialect-card:first-child { grid-column: 1 / -1; } .dialect-card b { font-size: 1.6rem; } }
+.page-head h1 .dialect-dot { width: 0.45em; height: 0.45em; vertical-align: 0.15em; margin-right: 0.3em; }
+.dialect-tools { display: flex; align-items: center; gap: 14px; margin: 8px 0 18px; }
+.dialect-filter { flex: 1; max-width: 520px; min-width: 0; padding: 12px 16px; border: 1px solid var(--border-strong); border-radius: 999px; background: var(--surface); color: var(--text); font: inherit; outline: none; }
+.dialect-filter:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.dialect-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px 16px; }
+.dialect-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; padding: 10px 14px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); }
+.dialect-list li[hidden] { display: none; }
+.dialect-list .dl-form { font: 600 1.1rem var(--serif); }
+.dialect-list .dl-form a, .dialect-list .dl-std a { text-decoration: none; }
+.dialect-list .dl-arrow { color: var(--muted); }
+.dialect-list .dl-std { font-family: var(--serif); }
+.dialect-list .dl-own { font-size: 0.8rem; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px; }
+.dialect-list small { flex-basis: 100%; color: var(--muted); font-size: 0.85rem; }
+.try .chip .dialect-dot { margin-right: 6px; }

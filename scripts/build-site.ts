@@ -6,8 +6,8 @@
 import { createHash } from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
-import type { Entry, Sense, Word } from "../src/data/model.js";
-import { ALPHABET, firstLetter, foldKey, POS_EN, POS_SQ } from "../src/data/model.js";
+import type { Dialect, Entry, Sense, Word } from "../src/data/model.js";
+import { ALPHABET, compareSq, DIALECTS, firstLetter, foldKey, POS_EN, POS_SQ } from "../src/data/model.js";
 import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
@@ -104,6 +104,15 @@ const asset = (file: string) => {
 /** Structured data for search engines (schema.org); "<" is escaped so the JSON cannot close the script tag. */
 const jsonLd = (data: object) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...data }).replace(/</g, "\\u003c")}</script>`;
 const SITE_NAME = "FjaloriShqip";
+/** Dialects in display order, with their page address and where they are spoken. */
+const DIALECT_ORDER: Dialect[] = DIALECTS;
+const DIALECT_INFO: Record<Dialect, { slug: string; sq: string; en: string; whereSq: string; whereEn: string }> = {
+  gheg: { slug: "gegerisht", sq: "Gegërisht", en: "Gheg", whereSq: "Veriu: Shqipëria e Veriut, Kosova, Maqedonia e Veriut, Mali i Zi", whereEn: "The north: northern Albania, Kosovo, North Macedonia, Montenegro" },
+  tosk: { slug: "toskerisht", sq: "Toskërisht", en: "Tosk", whereSq: "Jugu i Shqipërisë", whereEn: "Southern Albania" },
+  arberesh: { slug: "arberisht", sq: "Arbërisht", en: "Arbëresh", whereSq: "Arbëreshët e Italisë", whereEn: "The Arbëresh of Italy" },
+  arvanitika: { slug: "arvanitisht", sq: "Arvanitisht", en: "Arvanitika", whereSq: "Arvanitët e Greqisë", whereEn: "The Arvanites of Greece" },
+};
+const dialectUrl = (d: Dialect) => url(`/dialekt/${DIALECT_INFO[d].slug}/`);
 const REPO_URL = "https://github.com/EndritRushiti/FjaloriShqip";
 /** Cut a description to about the length search engines show, at a word boundary. */
 const metaText = (s: string, max = 158) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(" ", max - 1))}…`);
@@ -339,7 +348,13 @@ function attribution(w: Word): string {
 function wordPage(w: Word): string {
   const variant = (w.variantOf ?? [])
     .map((v) => {
-      const kind = v.kind === "gheg" ? bi("Formë gege", "Gheg form") : v.kind === "tosk" ? bi("Formë toske", "Tosk form") : bi("Formë tjetër", "Alternative form");
+      const kind = {
+        gheg: bi("Formë gege", "Gheg form"),
+        tosk: bi("Formë toske", "Tosk form"),
+        arberesh: bi("Formë arbëreshe (Itali)", "Arbëresh form (Italy)"),
+        arvanitika: bi("Formë arvanitase (Greqi)", "Arvanitika form (Greece)"),
+        alternative: bi("Formë tjetër", "Alternative form"),
+      }[v.kind];
       const target = byWord.has(v.word) ? `<a href="${wordUrl(v.word)}">${h(v.word)}</a>` : `<b>${h(v.word)}</b>`;
       return `<p class="variant-note"><span class="dialect-dot ${v.kind}"></span>${kind} ${bi("e fjalës", "of")} ${target}</p>`;
     })
@@ -399,7 +414,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
         <h1 lang="sq">${h(w.word)}</h1>
         <button type="button" class="icon-btn copy-btn" data-copy="${h(w.word)}" aria-label="${h("Kopjo fjalën / Copy word")}" title="${h("Kopjo")}">${icon.copy(18)}<span class="copied">${icon.check(18)}</span></button>
       </div>
-      <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.labels ?? []).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
+      <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.dialectOnly ?? []).map((d) => `<span class="word-label dialect-label"><span class="dialect-dot ${d}"></span>${bi(`Fjalë ${d === "arberesh" ? "arbëreshe" : "arvanitase"}`, `${d === "arberesh" ? "Arbëresh" : "Arvanitika"} word`)}</span>`).join("")}${(w.labels ?? []).filter((l) => !(w.dialectOnly && /^(Arbëresh|Arvanitika)$/.test(l))).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
       ${albanianInstead(w)}
       ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}${w.description.reviewed ? "" : ` <span class="ai-note" title="${h("Përshkrim i shkruar me ndihmën e inteligjencës artificiale, ende pa u rishikuar nga redaktori / Written with AI help, not yet reviewed by an editor")}">${bi("përshkrim me ndihmë të AI-së", "written with AI help")}</span>`}</p>` : ""}
       ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
@@ -498,7 +513,10 @@ function sameMeaningCard(w: Word): string {
   const std = !w.entries.length && w.variantOf?.length ? byWord.get(w.variantOf[0].word) : undefined;
   const base = std ?? w;
   const list = sameMeaning(base).filter((x) => x.word !== w.word);
-  const dialects = [...(base.dialects ?? [])].filter((d, i, a) => d.form !== w.word && a.findIndex((x) => x.form === d.form) === i);
+  // one chip per form, naming every dialect it belongs to (a form can be both Arbëresh and Arvanitika)
+  const byForm = new Map<string, Dialect[]>();
+  for (const d of base.dialects ?? []) if (d.form !== w.word) byForm.set(d.form, [...new Set([...(byForm.get(d.form) ?? []), d.dialect])]);
+  const dialects = [...byForm].map(([form, ds]) => ({ form, dialects: DIALECT_ORDER.filter((x) => ds.includes(x)) }));
   if (!list.length && !dialects.length && !std) return "";
   const meaning = (x: string) => {
     const g = shortGloss(byWord.get(x)!);
@@ -516,7 +534,7 @@ function sameMeaningCard(w: Word): string {
   ${albanian.length ? `<div class="syn-row albanian-row">${`<h3>${bi("Fjala shqipe", "The Albanian word")} <small>${bi("në vend të fjalës së huazuar", "instead of the borrowed word")}</small></h3>`}<div class="syn-chips">${albanian.map((x) => chip(x)).join("")}</div></div>` : ""}
   ${std ? row(bi("Fjala standarde", "Standard word"), chip(std.word)) : ""}
   ${main.length ? row(bi("Fjalë të tjera për këtë", "Other words for this"), main.map((x) => chip(x.word)).join("")) : ""}
-  ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small><span class="dialect-dot ${d.dialect}"></span>${d.dialect === "gheg" ? t("gheg") : t("tosk")}</small>`)).join("")) : ""}
+  ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small>${d.dialects.map((x) => `<span class="dialect-dot ${x}"></span>${t(x)}`).join(" · ")}</small>`)).join("")) : ""}
   ${other.length ? row(bi("Për kuptimet e tjera", "For its other meanings"), other.map((x) => chip(x.word, "", " also")).join("")) : ""}
 </section>`;
 }
@@ -629,12 +647,20 @@ function homePage(): string {
   <div><b>${num(stats.ghegForms)}</b><span>${bi("forma gege", "Gheg forms")}</span></div>
 </section>
 
+<section class="section dialect-browse">
+  <header class="section-head"><h2>${bi("Fjalët sipas dialektit", "Words by dialect")}</h2><p class="muted">${bi("Shfletoni dhe kërkoni fjalët e çdo dialekti.", "Browse and search the words of each dialect.")}</p></header>
+  <div class="dialect-cards">
+    <a class="dialect-card" href="${letterUrl("a")}"><span class="dc-name"><span class="dialect-dot standard"></span>${bi("Standarde", "Standard")}</span><b>${num(stats.standardWords)}</b><small>${bi("Fjalët e gjuhës standarde", "Words of the standard language")}</small></a>
+    ${DIALECT_ORDER.map((d) => `<a class="dialect-card" href="${dialectUrl(d)}"><span class="dc-name"><span class="dialect-dot ${d}"></span>${t(d)}</span><b>${num(stats.dialectForms?.[d] ?? 0)}</b><small>${bi(DIALECT_INFO[d].whereSq, DIALECT_INFO[d].whereEn)}</small></a>`).join("\n    ")}
+  </div>
+</section>
+
 <section class="section">
   <header class="section-head"><h2>${bi("Çfarë gjeni këtu", "What you will find")}</h2></header>
   <div class="tile-grid">
     ${featureTile(icon.book(24), bi("Kuptimet", "Meanings"), bi("Kuptimi në anglisht, shembuj dhe shqiptimi i fjalës.", "English meanings, examples and pronunciation."), url("/fjala/zem%C3%ABr/"))}
     ${featureTile(icon.layers(24), bi("Zgjedhimi dhe lakimi", "Conjugation and declension"), bi("Të gjitha kohët e foljeve dhe rasat e emrave.", "Every verb tense and every noun case."), url("/fjala/punoj/"))}
-    ${featureTile(icon.map(24), bi("Gegërisht dhe toskërisht", "Gheg and Tosk"), bi("Format dialektore pranë fjalës standarde.", "Dialect forms next to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
+    ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Format gege, toske, arbëreshe dhe arvanitase pranë fjalës standarde.", "Gheg, Tosk, Arbëresh and Arvanitika forms next to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
     ${featureTile(icon.code(24), bi("API falas", "Free API"), bi("JSON statik për aplikacionet tuaja, pa çelës.", "Static JSON for your apps, no key needed."), url("/api/"))}
   </div>
 </section>
@@ -779,6 +805,7 @@ ${pageHead(
   <ul class="endpoints">
     ${endpoint("/api/v1/fjala/{fjala}.json", "Një fjalë me të gjitha të dhënat: kuptimet, format, format dialektore, burimet.", "One word with all its data: meanings, forms, dialect forms, sources.")}
     ${endpoint("/api/v1/fjalet.json", "Lista e të gjitha fjalëve.", "List of all headwords.")}
+    ${endpoint("/api/v1/dialekte.json", "Format e çdo dialekti (gegë, toskë, arbërisht, arvanitisht) me fjalën standarde.", "The forms of each dialect (Gheg, Tosk, Arbëresh, Arvanitika) with the standard word.")}
     ${endpoint("/api/v1/kerko.json", "Indeksi i kërkimit: fjala, çelësi pa ë/ç, lloji, kuptimi i shkurtër.", "Search index: word, key without ë/ç, word class, short meaning.")}
     ${endpoint("/api/v1/format/{shkronja}.json", "Format e lakuara dhe dialektore → fjala bazë.", "Inflected and dialect forms → headword.")}
     ${endpoint("/api/v1/statistika.json", "Numrat e fjalorit dhe versioni i të dhënave.", "Dictionary counts and data version.")}
@@ -874,6 +901,74 @@ function searchPage(): string {
   return layout({ title: "Kërko — FjaloriShqip", description: "Kërko në fjalorin shqip.", body, headerSearch: false, noindex: true });
 }
 
+// ── dialect pages ────────────────────────────────────────────────────────────
+/** Every form of a dialect: forms listed on standard words, dialect headwords, and words used only in that dialect. */
+function dialectRows(d: Dialect): { form: string; standard: string[]; own: boolean }[] {
+  const rows = new Map<string, { form: string; standard: Set<string>; own: boolean }>();
+  const row = (form: string) => rows.get(form) ?? rows.set(form, { form, standard: new Set(), own: false }).get(form)!;
+  for (const w of words) {
+    for (const x of w.dialects ?? []) if (x.dialect === d) row(x.form).standard.add(w.word);
+    for (const v of w.variantOf ?? []) if (v.kind === d) row(w.word).standard.add(v.word);
+    if (w.dialectOnly?.includes(d)) row(w.word).own = true;
+  }
+  return [...rows.values()]
+    .map((r) => ({ form: r.form, standard: [...r.standard].filter((s) => s !== r.form), own: r.own }))
+    .sort((a, b) => compareSq(a.form, b.form));
+}
+
+function dialectPage(d: Dialect, rows: ReturnType<typeof dialectRows>): string {
+  const info = DIALECT_INFO[d];
+  const formLink = (f: string) => (byWord.has(f) ? `<a href="${wordUrl(f)}" lang="sq">${h(f)}</a>` : `<span lang="sq">${h(f)}</span>`);
+  const meaningOf = (f: string) => {
+    const w = byWord.get(f);
+    const text = w?.description ? short(w.description.text) : w ? shortGloss(w) : "";
+    return text && !text.startsWith("→") ? `<small>${h(text)}</small>` : "";
+  };
+  const items = rows
+    .map((r) => {
+      const key = [r.form, ...r.standard].map(foldKey).join(" ");
+      const right = r.standard.length
+        ? `<span class="dl-arrow" aria-hidden="true">→</span><span class="dl-std">${r.standard.map((s) => `<a href="${wordUrl(s)}" lang="sq">${h(s)}</a>`).join(", ")}</span>`
+        : `<span class="dl-own">${bi(`fjalë ${d === "gheg" ? "gege" : d === "tosk" ? "toske" : d === "arberesh" ? "arbëreshe" : "arvanitase"}`, `${info.en} word`)}</span>${meaningOf(r.form)}`;
+      return `<li data-key="${h(key)}"><span class="dl-form">${formLink(r.form)}</span>${right}</li>`;
+    })
+    .join("\n");
+  const others = DIALECT_ORDER.filter((x) => x !== d)
+    .map((x) => `<a class="chip" href="${dialectUrl(x)}"><span class="dialect-dot ${x}"></span>${t(x)}</a>`)
+    .join("");
+  const body = `
+${pageHead(
+  `<span class="dialect-dot ${d}"></span>${t(d)}`,
+  bi(
+    `${info.whereSq}. ${num(rows.length)} forma: pranë fjalës standarde, ose fjalë që përdoren vetëm në këtë dialekt.`,
+    `${info.whereEn}. ${num(rows.length)} forms: next to the standard word, or words used only in this dialect.`,
+  ),
+  bi("Fjalët sipas dialektit", "Words by dialect"),
+)}
+<div class="dialect-tools">
+  <input type="search" class="dialect-filter" data-filter-list="dialect-list" placeholder="${h(`Kërko në ${info.sq.toLowerCase()}…`)}" data-placeholder-en="${h(`Search ${info.en}…`)}" aria-label="${h(`Kërko në ${info.sq.toLowerCase()} / Search ${info.en}`)}" autocomplete="off" spellcheck="false">
+  <span class="dialect-count muted" data-count-for="dialect-list">${num(rows.length)}</span>
+</div>
+<ul class="dialect-list" id="dialect-list">
+${items}
+</ul>
+<p class="muted dialect-empty" hidden>${bi("Asnjë formë nuk përputhet.", "No form matches.")}</p>
+<section class="section">
+  <header class="section-head"><h2>${bi("Dialektet e tjera", "Other dialects")}</h2></header>
+  <p class="try">${others}</p>
+  <p class="muted small">${bi(
+    "Format vijnë nga Wikifjalori (anglisht dhe shqip) dhe janë ende të pakta për arbërishten dhe arvanitishten; do t'i plotësojmë me burime të tjera të hapura.",
+    "The forms come from Wiktionary (English and Albanian) and are still few for Arbëresh and Arvanitika; we will add more from other open sources.",
+  )}</p>
+</section>`;
+  return layout({
+    title: `${info.sq} — fjalët dhe format | FjaloriShqip`,
+    description: `${info.sq} (${info.en}): ${num(rows.length)} forma dialektore pranë fjalës standarde. ${info.whereSq}.`,
+    body,
+    canonical: `/dialekt/${info.slug}/`,
+  });
+}
+
 function notFoundPage(): string {
   const body = `
 <div class="not-found">
@@ -933,6 +1028,14 @@ function apiWord(w: Word): object {
   write("rreth/index.html", aboutPage());
   write("kerko/index.html", searchPage());
   write("404.html", notFoundPage());
+  // one page per dialect (forms next to the standard word), and the same data for the API
+  const dialectData: Record<string, { form: string; standard: string[]; own: boolean }[]> = {};
+  for (const d of DIALECT_ORDER) {
+    const rows = dialectRows(d);
+    dialectData[d] = rows;
+    write(`dialekt/${DIALECT_INFO[d].slug}/index.html`, dialectPage(d, rows));
+  }
+  write("api/v1/dialekte.json", JSON.stringify(dialectData));
   const letterCount = letterPages();
 
   for (const w of words) {
@@ -1001,7 +1104,7 @@ function apiWord(w: Word): object {
 
   // ── search engines: sitemaps and robots.txt ──
   // every page that should be found: home, info pages, letter pages and all word pages
-  const pages = ["/", "/burimet/", "/api/", "/rreth/"];
+  const pages = ["/", "/burimet/", "/api/", "/rreth/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
   for (const l of ALPHABET) {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
@@ -1044,6 +1147,7 @@ function apiWord(w: Word): object {
         "",
         `- [One word](${absolute("/api/v1/fjala/{word}.json")}): meanings, forms, dialect forms, same-meaning words, sources and licence`,
         `- [All words](${absolute("/api/v1/fjalet.json")}): list of every headword`,
+        `- [Dialects](${absolute("/api/v1/dialekte.json")}): Gheg, Tosk, Arbëresh (Italy) and Arvanitika (Greece) forms with their standard word; pages: ${DIALECT_ORDER.map((d) => absolute(`/dialekt/${DIALECT_INFO[d].slug}/`)).join(", ")}`,
         `- [Search index](${absolute("/api/v1/kerko.json")}): word, part of speech, short English meaning, short Albanian description`,
         `- [Statistics](${absolute("/api/v1/statistika.json")})`,
         `- [API documentation](${absolute("/api/")})`,

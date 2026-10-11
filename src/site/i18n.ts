@@ -24,6 +24,8 @@ export const UI = {
   dialects: { sq: "Format dialektore", en: "Dialect forms" },
   gheg: { sq: "Gegërisht", en: "Gheg" },
   tosk: { sq: "Toskërisht", en: "Tosk" },
+  arberesh: { sq: "Arbërisht", en: "Arbëresh" },
+  arvanitika: { sq: "Arvanitisht", en: "Arvanitika" },
   inflection: { sq: "Format e fjalës", en: "Word forms" },
   allForms: { sq: "Të gjitha format", en: "All forms" },
   source: { sq: "Burimi", en: "Source" },

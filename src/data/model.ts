@@ -54,19 +54,25 @@ export interface Entry {
   sources: SourceId[];
 }
 
+/** gheg / tosk: the two main dialects; arberesh: Arbërisht (Italy); arvanitika: Arvanitisht (Greece). */
+export type Dialect = "gheg" | "tosk" | "arberesh" | "arvanitika";
+export const DIALECTS: Dialect[] = ["gheg", "tosk", "arberesh", "arvanitika"];
+
 export interface DialectForm {
   form: string;
-  dialect: "gheg" | "tosk";
+  dialect: Dialect;
   source: SourceId;
 }
 
 export interface Word {
   word: string;
   entries: Entry[];
-  /** Gheg / Tosk forms of this word. */
+  /** Dialect forms of this word (Gheg, Tosk, Arbëresh, Arvanitika). */
   dialects?: DialectForm[];
   /** This headword is itself a dialect or alternative form of another word. */
-  variantOf?: { word: string; kind: "gheg" | "tosk" | "alternative"; source: SourceId }[];
+  variantOf?: { word: string; kind: Dialect | "alternative"; source: SourceId }[];
+  /** A word of its own used only in these dialects (all its meanings are marked so), e.g. Arbëresh "amahj" (war). */
+  dialectOnly?: Dialect[];
   /** How often the word and its forms appear in Albanian Wikipedia (word counts only). */
   frequency?: number;
   /** How often exactly this spelling appears in Albanian Wikipedia (carefully spelled text). */

@@ -342,4 +342,23 @@
       if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, function () {});
     });
   });
+  // ── dialect pages: filter the list of forms as you type ──
+  document.querySelectorAll("input[data-filter-list]").forEach(function (input) {
+    var list = document.getElementById(input.getAttribute("data-filter-list"));
+    if (!list) return;
+    var items = Array.prototype.slice.call(list.children);
+    var count = document.querySelector("[data-count-for=\"" + list.id + "\"]");
+    var empty = document.querySelector(".dialect-empty");
+    input.addEventListener("input", function () {
+      var q = fold(input.value);
+      var shown = 0;
+      items.forEach(function (li) {
+        var match = !q || (li.getAttribute("data-key") || "").indexOf(q) >= 0;
+        li.hidden = !match;
+        if (match) shown++;
+      });
+      if (count) count.textContent = shown.toLocaleString("de-DE");
+      if (empty) empty.hidden = shown > 0;
+    });
+  });
 })();
