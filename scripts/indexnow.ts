@@ -14,6 +14,7 @@ import { pathToFileURL } from "node:url";
 export const KEY = "07261aa3ce0f121f070e6e45e3ec70cc";
 const SITE = process.env.SITE_URL || "https://fjalorishqip.org";
 const BATCH = 10_000; // IndexNow accepts up to 10,000 URLs per request
+const MAX_CHANGED = 1_000; // more changed pages than this in one deploy = a layout change, not new content
 
 /** Pages (not assets or API files) uploaded by rclone, as site URLs. */
 export function changedPages(rcloneLog: string, site = SITE): string[] {
@@ -55,6 +56,9 @@ async function main() {
   const arg = process.argv[2];
   const urls = arg === "--all" ? sitemapPages(path.join(process.cwd(), "dist")) : arg ? changedPages(fs.readFileSync(arg, "utf8")) : [];
   if (!urls.length) return console.log("IndexNow: no changed pages to submit");
+  // A design change rewrites every page (new asset hashes) without new content: re-announcing
+  // all of them only makes crawlers fetch the whole site again. Search engines still find them via the sitemaps.
+  if (arg !== "--all" && urls.length > MAX_CHANGED) return console.log(`IndexNow: ${urls.length} pages changed (layout change) — not submitted, the sitemaps cover them`);
   await submit(urls);
 }
 
