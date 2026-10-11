@@ -6,7 +6,6 @@ describe("cloudflare setup rules", () => {
     const r = await rules();
     expect(Object.keys(r).sort()).toEqual([
       "http_request_cache_settings",
-      "http_request_dynamic_redirect",
       "http_request_transform",
       "http_response_headers_transform",
     ]);

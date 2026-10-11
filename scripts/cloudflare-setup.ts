@@ -4,7 +4,7 @@
  * domain is done by zone rules instead:
  *
  *   /fjala/nënë/  → fjala/nënë/index.html        URL rewrite rule
- *   /fjala/nënë   → 301 to /fjala/nënë/          redirect rule (paths without a dot)
+ *   /fjala/nënë   → the same page                URL rewrite rule (paths without a dot; canonical link has the slash)
  *   security headers, CSP, Cache-Control, CORS    response header rules
  *   pages kept at Cloudflare's edge               cache rule (emptied after every deploy)
  *
@@ -15,7 +15,7 @@
  *   npx tsx scripts/cloudflare-setup.ts --purge  only empty Cloudflare's cache
  *
  * Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN. Besides the Workers permissions, the token needs
- * for the zone: Zone Read, DNS Edit, Transform Rules Edit, Dynamic URL Redirects Edit, Cache Rules Edit,
+ * for the zone: Zone Read, DNS Edit, Transform Rules Edit, Cache Rules Edit,
  * Cache Purge, Workers Routes Edit; and for the account: Workers R2 Storage Edit.
  */
 import { pathToFileURL } from "node:url";
@@ -45,26 +45,19 @@ export interface Rule {
 export async function rules(): Promise<Record<string, Rule[]>> {
   const csp = contentSecurityPolicy(await cspHash(HEAD_SCRIPT));
   return {
-    http_request_dynamic_redirect: [
-      {
-        description: "FjaloriShqip: /fjala/nënë → /fjala/nënë/ (pages are folders)",
-        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains ".")`,
-        action: "redirect",
-        action_parameters: {
-          from_value: {
-            status_code: 301,
-            target_url: { expression: `concat("https://${HOST}", ${path}, "/")` },
-            preserve_query_string: true,
-          },
-        },
-      },
-    ],
     http_request_transform: [
       {
         description: "FjaloriShqip: a folder → its index.html in the bucket",
         expression: `(${onHost} and ends_with(${path}, "/"))`,
         action: "rewrite",
         action_parameters: { uri: { path: { expression: `concat(${path}, "index.html")` } } },
+      },
+      {
+        // the page itself, not a redirect: its canonical link names the address with the slash
+        description: "FjaloriShqip: /fjala/nënë (no slash, no file type) → fjala/nënë/index.html",
+        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains ".")`,
+        action: "rewrite",
+        action_parameters: { uri: { path: { expression: `concat(${path}, "/index.html")` } } },
       },
     ],
     http_request_cache_settings: [
