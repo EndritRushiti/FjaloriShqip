@@ -104,12 +104,15 @@ const asset = (file: string) => {
 /** Structured data for search engines (schema.org); "<" is escaped so the JSON cannot close the script tag. */
 const jsonLd = (data: object) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...data }).replace(/</g, "\\u003c")}</script>`;
 const SITE_NAME = "FjaloriShqip";
+const REPO_URL = "https://github.com/EndritRushiti/FjaloriShqip";
 /** Cut a description to about the length search engines show, at a word boundary. */
 const metaText = (s: string, max = 158) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(" ", max - 1))}…`);
 export const slug = (w: string) => w.replace(/ /g, "_");
 const wordUrl = (w: string) => url(`/fjala/${encodeURIComponent(slug(w))}/`);
 const letterUrl = (l: string) => url(`/shkronja/${encodeURIComponent(l)}/`);
 const num = (n: number) => n.toLocaleString("de-DE");
+/** Numbers in English text: 24,537 */
+const numEn = (n: number) => n.toLocaleString("en-US");
 
 function write(rel: string, content: string): void {
   const file = path.join(DIST, rel);
@@ -652,10 +655,16 @@ function homePage(): string {
   <div class="cta-buttons">
     <a class="btn btn-primary" href="${url("/api/")}">${icon.code(18)} API</a>
   </div>
+</section>
+
+<section class="section prose" lang="en">
+  <h2>Free Albanian–English dictionary</h2>
+  <p>FjaloriShqip is a free, open-source <b>Albanian dictionary</b> with ${numEn(stats.words ?? words.length)} Albanian words: ${numEn(words.filter((w) => w.description).length)} with a short description in Albanian and ${numEn(stats.withEnglish)} with their English meaning, plus Gheg and Tosk dialect forms, words with the same meaning and, for ${numEn(stats.withInflection)} words, the full conjugation or declension. You can search in Albanian or in English (for example “mother” finds <a href="${wordUrl("nënë")}">nënë</a>), and typing ë and ç is optional.</p>
+  <p>All data comes from openly licensed sources and is free to reuse under CC BY-SA 4.0, also through a free <a href="${url("/api/")}">JSON API</a> for developers. No account or API key is needed.</p>
 </section>`;
   return layout({
-    title: "FjaloriShqip — Fjalori i hapur i gjuhës shqipe",
-    description: "Fjalor i hapur i gjuhës shqipe: kuptimet në shqip dhe anglisht, format gege e toske, zgjedhimi i foljeve dhe një API falas për zhvilluesit.",
+    title: "FjaloriShqip — Fjalori i hapur shqip | Free Albanian–English Dictionary",
+    description: "Fjalor i hapur i gjuhës shqipe: kuptimet në shqip dhe anglisht, format gege e toske, zgjedhimi i foljeve dhe API falas. Free Albanian–English dictionary.",
     body,
     active: "home",
     canonical: "/",
@@ -675,7 +684,14 @@ function homePage(): string {
               "query-input": "required name=search_term_string",
             },
           },
-          { "@type": "Organization", name: SITE_NAME, url: absolute("/"), logo: absolute("/icon-512.png") },
+          {
+            "@type": "Organization",
+            name: SITE_NAME,
+            url: absolute("/"),
+            logo: absolute("/icon-512.png"),
+            description: "Free, open-source dictionary of the Albanian language (Albanian–English).",
+            sameAs: [REPO_URL],
+          },
         ]
       : [],
   });
@@ -784,7 +800,33 @@ ${pageHead(
   )}</p>
 </section>
 </div>`;
-  return layout({ title: "API — FjaloriShqip", description: "API falas dhe e hapur për fjalorin shqip.", body, active: "api", canonical: "/api/" });
+  return layout({
+    title: "API — FjaloriShqip | Free Albanian dictionary API (JSON)",
+    description: "API falas dhe e hapur për fjalorin shqip: skedarë JSON pa çelës. Free, open Albanian dictionary API: JSON files, no key, CORS enabled, CC BY-SA 4.0.",
+    body,
+    active: "api",
+    canonical: "/api/",
+    // Google Dataset Search
+    structured: SITE_URL
+      ? [
+          {
+            "@type": "Dataset",
+            name: "FjaloriShqip — open Albanian dictionary data",
+            description: `Open data for ${numEn(stats.words)} Albanian words: Albanian descriptions, English meanings, Gheg and Tosk dialect forms, inflection tables and words with the same meaning. Built only from openly licensed sources (Wiktionary, Wikidata and others).`,
+            url: absolute("/api/"),
+            inLanguage: ["sq", "en"],
+            keywords: ["Albanian", "Albanian language", "dictionary", "Albanian–English", "Gheg", "Tosk", "lexicon"],
+            license: "https://creativecommons.org/licenses/by-sa/4.0/",
+            isAccessibleForFree: true,
+            creator: { "@type": "Organization", name: SITE_NAME, url: absolute("/") },
+            distribution: [
+              { "@type": "DataDownload", encodingFormat: "application/json", contentUrl: absolute("/api/v1/fjalet.json") },
+              { "@type": "DataDownload", encodingFormat: "application/json", contentUrl: absolute("/api/v1/kerko.json") },
+            ],
+          },
+        ]
+      : [],
+  });
 }
 
 function aboutPage(): string {
@@ -813,7 +855,13 @@ ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Alba
     <li><b>${bi("Emrat, historia, kultura", "Names, history, culture")}</b><span>${bi("Seksione të reja edukative", "New educational sections")}</span></li>
   </ol>
 </section>`;
-  return layout({ title: "Rreth nesh — FjaloriShqip", description: "Rreth projektit FjaloriShqip.", body, active: "about", canonical: "/rreth/" });
+  return layout({
+    title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
+    description: "FjaloriShqip: fjalor i hapur, falas dhe me kod të hapur i gjuhës shqipe, ndërtuar vetëm nga burime të hapura. A free, open-source Albanian–English dictionary.",
+    body,
+    active: "about",
+    canonical: "/rreth/",
+  });
 }
 
 function searchPage(): string {
@@ -971,6 +1019,43 @@ function apiWord(w: Word): object {
     write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.join("\n")}\n</sitemapindex>\n`);
   }
   write("robots.txt", ["User-agent: *", "Allow: /", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
+
+  // llms.txt (https://llmstxt.org): a short guide for AI assistants and tools on what the site is and how to use it
+  if (SITE_URL) {
+    const described = words.filter((w) => w.description).length;
+    write(
+      "llms.txt",
+      [
+        "# FjaloriShqip",
+        "",
+        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built only from openly licensed sources (Wiktionary, Wikidata and others) and shows the source of every word. All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
+        "",
+        "Good for: Albanian–English and English–Albanian word lookups, the meaning of an Albanian word in Albanian, Gheg and Tosk forms, verb conjugation, and open Albanian language data for software.",
+        "",
+        "## Pages",
+        "",
+        `- [Word page](${absolute("/fjala/")}{word}/): one page per word, e.g. ${absolute("/fjala/n%C3%ABn%C3%AB/")} (nënë, "mother"); spaces in a word become "_"`,
+        `- [Search](${absolute("/kerko/")}?q={query}): search in Albanian or English; ë and ç are optional`,
+        `- [Browse by letter](${absolute("/shkronja/a/")}): all words, in Albanian alphabetical order (36 letters)`,
+        `- [Sources and licences](${absolute("/burimet/")})`,
+        `- [About](${absolute("/rreth/")})`,
+        "",
+        "## API (JSON, free, no key, CORS enabled)",
+        "",
+        `- [One word](${absolute("/api/v1/fjala/{word}.json")}): meanings, forms, dialect forms, same-meaning words, sources and licence`,
+        `- [All words](${absolute("/api/v1/fjalet.json")}): list of every headword`,
+        `- [Search index](${absolute("/api/v1/kerko.json")}): word, part of speech, short English meaning, short Albanian description`,
+        `- [Statistics](${absolute("/api/v1/statistika.json")})`,
+        `- [API documentation](${absolute("/api/")})`,
+        "",
+        "## Optional",
+        "",
+        `- [Source code](${REPO_URL}): the build scripts and data pipeline (MIT licence)`,
+        "- This is not the official dictionary of the Academy of Sciences of Albania; for the official standard, see the Academy's publications.",
+        "",
+      ].join("\n"),
+    );
+  }
 
   // web app manifest: name, colours and icon when the site is added to a phone's home screen
   write(
