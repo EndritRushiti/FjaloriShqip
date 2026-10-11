@@ -377,8 +377,7 @@ details > summary { cursor: pointer; font-weight: 600; color: var(--accent); lis
 details > summary::-webkit-details-marker { display: none; }
 details > summary::before { content: "›"; display: inline-block; transition: transform 0.15s; font-size: 1.2em; line-height: 1; }
 details[open] > summary::before { transform: rotate(90deg); }
-.etym, .allforms, .more-tenses { margin-top: 14px; }
-.etym p { color: var(--muted); font-size: 0.95rem; }
+.allforms, .more-tenses { margin-top: 14px; }
 
 .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--radius-sm); margin: 8px 0; -webkit-overflow-scrolling: touch; }
 table.forms { border-collapse: collapse; width: 100%; font-size: 0.93rem; }

@@ -221,7 +221,7 @@ function readSqWiktionary(): void {
 // ── Arbëresh / Arvanitika forms from Meyer 1891 (public domain) ─────────────
 /**
  * dialekte/meyer-1891.tsv: form, dialect, word class, gender, standard word, English meaning,
- * page and Meyer's own spelling, one form per line ("#" starts a comment). A form of a standard
+ * page and Meyer's own spelling (kept in the file for checking, not shown), one form per line ("#" starts a comment). A form of a standard
  * word is listed on that word's page and gets a headword pointing to it; a form without a standard
  * counterpart becomes an Arbëresh / Arvanitika word of its own.
  */
@@ -232,11 +232,11 @@ function addMeyerDialects(): { linked: number; own: number; known: number } {
   for (const raw of fs.readFileSync(f, "utf8").split("\n")) {
     const line = raw.replace(/\r$/, "");
     if (!line.trim() || line.startsWith("#")) continue;
-    const [form, dialect, posRaw, gender, standard, meaning, page, original] = line.split("\t").map((x) => x.trim());
+    const [form, dialect, posRaw, gender, standard, meaning] = line.split("\t").map((x) => x.trim());
     if (!form || !VALID_WORD.test(form) || (dialect !== "arberesh" && dialect !== "arvanitika") || !meaning) continue;
     const d: Dialect = dialect;
     const pos = (POS_EN as Record<string, string>)[posRaw] ? (posRaw as Pos) : "other";
-    const sense: Sense = { gloss: `${meaning} [Meyer 1891: ${page}, ${original}]`, lang: "en", tags: [d === "arberesh" ? "Arbëresh" : "Arvanitika"], source: "meyer-1891" };
+    const sense: Sense = { gloss: meaning, lang: "en", tags: [d === "arberesh" ? "Arbëresh" : "Arvanitika"], source: "meyer-1891" };
     const std = standard && standard !== form ? words.get(standard) : undefined;
     const w = getWord(form);
     const isNew = !w.entries.length && !w.variantOf?.length;

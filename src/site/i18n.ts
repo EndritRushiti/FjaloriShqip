@@ -20,7 +20,6 @@ export const UI = {
   inAlbanian: { sq: "shqip", en: "Albanian" },
   examples: { sq: "Shembuj", en: "Examples" },
   pronunciation: { sq: "Shqiptimi", en: "Pronunciation" },
-  etymology: { sq: "Prejardhja (anglisht)", en: "Etymology" },
   dialects: { sq: "Format dialektore", en: "Dialect forms" },
   gheg: { sq: "Gegërisht", en: "Gheg" },
   tosk: { sq: "Toskërisht", en: "Tosk" },

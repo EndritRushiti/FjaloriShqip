@@ -290,7 +290,6 @@ const genderLabel = (g: Entry["gender"]) => (g === "m" ? bi("mashkullore", "masc
 function entryHtml(e: Entry): string {
   const senses = e.senses.length ? `<ol class="senses">${e.senses.map(senseHtml).join("")}</ol>` : `<p class="muted">${t("noMeaningYet")}</p>`;
   const forms = formsHtml(e);
-  const etym = e.etymology ? `<details class="etym"><summary>${t("etymology")}</summary><p>${h(e.etymology)}</p></details>` : "";
   return `<section class="entry card">
   <header class="entry-head">
     ${e.pos === "other" ? "" : `<span class="pos-pill">${bi(POS_SQ[e.pos], POS_EN[e.pos])}</span>`}
@@ -300,7 +299,6 @@ function entryHtml(e: Entry): string {
   <h2 class="sub">${t("meanings")}</h2>
   ${senses}
   ${forms ? `<h2 class="sub">${e.pos === "verb" ? bi("Zgjedhimi", "Conjugation") : e.pos === "noun" ? bi("Lakimi", "Declension") : t("inflection")}</h2>${forms}` : ""}
-  ${etym}
 </section>`;
 }
 

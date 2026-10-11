@@ -63,7 +63,8 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq rclone
           # --checksum: only files whose content changed are uploaded; files no longer built are removed afterwards
-          rclone sync dist r2:fjalorishqip --checksum --fast-list --transfers 32 --checkers 64 --stats-one-line --stats 30s \
+          # --no-unicode-normalization: names are compared exactly, so a page stored with decomposed letters (e + ̈) is replaced by the composed one (ë) that browsers ask for
+          rclone sync dist r2:fjalorishqip --checksum --no-unicode-normalization --fast-list --transfers 32 --checkers 64 --stats-one-line --stats 30s \
             --log-level INFO --log-file rclone.log
           grep -c "Copied" rclone.log || true
       - name: Serve the main domain from the bucket and empty Cloudflare's cache (scripts/cloudflare-setup.ts)
