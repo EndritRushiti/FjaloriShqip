@@ -16,8 +16,9 @@ binding = "SITE"
 bucket_name = "fjalorishqip"
 
 [vars]
-# test phase: keep the site out of search engines until the official launch (set to "0" then)
-NOINDEX = "1"
+# "1" keeps the whole site out of search engines (also set NOINDEX: "1" for the build in deploy-cloudflare.yml).
+# Launched publicly on 2026-10-11, so "0".
+NOINDEX = "0"
 CANONICAL_HOST = "fjalorishqip.org"
 
 [observability]

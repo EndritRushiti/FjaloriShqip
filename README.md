@@ -82,7 +82,7 @@ npm test
 
 ## Hosting (free)
 
-**Cloudflare (R2 + Worker).** `.github/workflows/deploy-cloudflare.yml` builds everything on every push to `main` (and every Monday), uploads only the changed files of `dist/` to the R2 bucket `fjalorishqip`, and deploys the Worker in `src/worker/` (config: `wrangler.toml`), which serves the files. R2 has no limit on the number of files, so the site can keep growing. The workflow needs four repository secrets, listed at the top of the file. While `NOINDEX=1` is set, the site stays out of search engines.
+**Cloudflare (R2 + Worker).** `.github/workflows/deploy-cloudflare.yml` builds everything on every push to `main` (and every Monday), uploads only the changed files of `dist/` to the R2 bucket `fjalorishqip`, and deploys the Worker in `src/worker/` (config: `wrangler.toml`), which serves the files. R2 has no limit on the number of files, so the site can keep growing. The workflow needs four repository secrets, listed at the top of the file. The site is public and indexed; setting `NOINDEX` to "1" (in `wrangler.toml` and the workflow) would keep it out of search engines again.
 
 The site is served at **https://fjalorishqip.org** (registered at GoDaddy, DNS on Cloudflare); `www.fjalorishqip.org` redirects there.
 

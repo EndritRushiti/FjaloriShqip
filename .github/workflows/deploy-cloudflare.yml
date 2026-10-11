@@ -49,7 +49,7 @@ jobs:
       - run: npm run data
       - run: npm run build
         env:
-          NOINDEX: "1" # test phase; remove at the official launch (also NOINDEX in wrangler.toml)
+          NOINDEX: "0" # "1" would keep the site out of search engines (set it in wrangler.toml too)
           SITE_URL: ${{ vars.SITE_URL || 'https://fjalorishqip.org' }}
       - name: Upload changed files to R2
         env:
