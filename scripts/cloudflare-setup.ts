@@ -90,17 +90,16 @@ export async function rules(): Promise<Record<string, Rule[]>> {
         },
       },
       {
-        description: "FjaloriShqip: file types the upload may not label",
-        expression: `(${onHost} and ${ext("txt", "webmanifest")})`,
+        description: "FjaloriShqip: .txt files (robots.txt, llms.txt) as text",
+        expression: `(${onHost} and ${ext("txt")})`,
         action: "rewrite",
-        action_parameters: {
-          headers: {
-            "Content-Type": {
-              operation: "set",
-              expression: `if(ends_with(${path}, ".txt"), "text/plain; charset=utf-8", "application/manifest+json; charset=utf-8")`,
-            },
-          },
-        },
+        action_parameters: { headers: { "Content-Type": set("text/plain; charset=utf-8") } },
+      },
+      {
+        description: "FjaloriShqip: the web app manifest",
+        expression: `(${onHost} and ${ext("webmanifest")})`,
+        action: "rewrite",
+        action_parameters: { headers: { "Content-Type": set("application/manifest+json; charset=utf-8") } },
       },
       {
         description: "FjaloriShqip: assets without a version, kept an hour",
