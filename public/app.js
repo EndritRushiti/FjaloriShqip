@@ -25,11 +25,39 @@
   }
 
   // ── language switch (Albanian first, English second) ──
-  function applyLang() {
+  // the search hint in the current language; the short form when the full sentence does not fit the box (phones)
+  var measureCtx;
+  function fitPlaceholders() {
     document.querySelectorAll("input[data-placeholder-en]").forEach(function (el) {
       if (!el.getAttribute("data-placeholder-sq")) el.setAttribute("data-placeholder-sq", el.getAttribute("placeholder"));
-      el.setAttribute("placeholder", isEn() ? el.getAttribute("data-placeholder-en") : el.getAttribute("data-placeholder-sq"));
+      var en = isEn();
+      // longest first: full sentence, then "Kërko shqip ose anglisht…", then "Kërko një fjalë…"
+      var options = [
+        en ? el.getAttribute("data-placeholder-en") : el.getAttribute("data-placeholder-sq"),
+        el.getAttribute(en ? "data-placeholder-short-en" : "data-placeholder-short"),
+        el.getAttribute(en ? "data-placeholder-tiny-en" : "data-placeholder-tiny"),
+      ].filter(Boolean);
+      var text = options[0];
+      var width = el.clientWidth;
+      if (width > 0) {
+        measureCtx = measureCtx || document.createElement("canvas").getContext("2d");
+        measureCtx.font = getComputedStyle(el).font;
+        for (var i = 0; i < options.length; i++) {
+          text = options[i];
+          if (measureCtx.measureText(text).width <= width - 4) break;
+        }
+      }
+      if (el.getAttribute("placeholder") !== text) el.setAttribute("placeholder", text);
     });
+  }
+  var fitTimer;
+  function refit() { clearTimeout(fitTimer); fitTimer = setTimeout(fitPlaceholders, 60); }
+  window.addEventListener("resize", refit);
+  // on phones the ë/ç keys appear while typing, which changes the room for the hint
+  document.addEventListener("focusin", refit);
+  document.addEventListener("focusout", refit);
+  function applyLang() {
+    fitPlaceholders();
     html.setAttribute("lang", isEn() ? "en" : "sq");
     document.querySelectorAll(".lang-switch button").forEach(function (b) {
       b.setAttribute("aria-pressed", String((b.getAttribute("data-lang") === "en") === isEn()));

@@ -242,7 +242,7 @@ function searchBox(opts: { size: "small" | "big"; chips?: boolean } = { size: "b
   return `<form class="search search-${opts.size}" role="search" action="${url("/kerko/")}">
   <div class="search-field">
     <span class="search-icon">${icon.search(big ? 22 : 18)}</span>
-    <input type="search" name="q" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Kërko / Search" aria-autocomplete="list" placeholder="${h("Kërko një fjalë shqip ose anglisht…")}" data-placeholder-en="${h("Search an Albanian or English word…")}">
+    <input type="search" name="q" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Kërko / Search" aria-autocomplete="list" placeholder="${h("Kërko një fjalë shqip ose anglisht…")}" data-placeholder-en="${h("Search an Albanian or English word…")}" data-placeholder-short="${h("Kërko shqip ose anglisht…")}" data-placeholder-short-en="${h("Search Albanian or English…")}" data-placeholder-tiny="${h("Kërko një fjalë…")}" data-placeholder-tiny-en="${h("Search a word…")}">
     <span class="letter-keys" aria-label="${h("Shkronja shqipe")}"><button type="button" class="key" data-insert="ë" tabindex="-1">ë</button><button type="button" class="key" data-insert="ç" tabindex="-1">ç</button></span>
     ${big ? `<button type="submit" class="search-submit">${bi("Kërko", "Search")}</button>` : `<kbd class="slash-hint" title="${h("Shtypni / për të kërkuar")}">/</kbd>`}
   </div>

@@ -216,6 +216,11 @@ html:not(.en) .lang-switch [data-lang="sq"], html.en .lang-switch [data-lang="en
 .search-small:focus-within .letter-keys { display: inline-flex; }
 .search-small:focus-within .slash-hint { display: none; }
 @media (max-width: 520px) { .search-submit { padding: 12px 16px; } .search-big .search-field { padding-left: 14px; } .search-big .search-icon { display: none; } }
+/* phones and tablets: the "/" keyboard shortcut means nothing on a touch screen, and the space goes to the search hint */
+@media (hover: none), (max-width: 640px) { .slash-hint { display: none; } }
+@media (max-width: 400px) { .search-big input { font-size: 1.05rem; } .search-big .key { width: 28px; height: 28px; } }
+/* phones: the ë/ç keys appear while typing, so the hint has room when the box is empty */
+@media (max-width: 520px) { .search-big .letter-keys { display: none; } .search-big:focus-within .letter-keys { display: inline-flex; } }
 
 .suggestions { position: absolute; left: 0; right: 0; top: calc(100% + 8px); z-index: 60; list-style: none; margin: 0; padding: 6px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-lg); max-height: 70vh; overflow-y: auto; text-align: left; }
 .suggestions li a { display: grid; grid-template-columns: auto 1fr; align-items: baseline; column-gap: 10px; padding: 9px 12px; border-radius: 9px; color: var(--text); text-decoration: none; }
