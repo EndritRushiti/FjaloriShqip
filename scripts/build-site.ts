@@ -3,6 +3,7 @@
  *   npm run build
  * Everything is plain HTML/CSS/JS so it can be hosted for free (GitHub Pages).
  */
+import { createHash } from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import type { Entry, Sense, Word } from "../src/data/model.js";
@@ -10,6 +11,7 @@ import { ALPHABET, firstLetter, foldKey, POS_EN, POS_SQ } from "../src/data/mode
 import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
+import { HEAD_SCRIPT } from "../src/site/security.js";
 import { formsHtml } from "../src/site/tables.js";
 import { LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -90,6 +92,20 @@ function sameMeaning(w: Word): SameMeaning[] {
 }
 
 const url = (p: string) => `${BASE}${p}`;
+/** Full address of a page, for search engines and link previews ("" when SITE_URL is not set). */
+const absolute = (p: string) => (SITE_URL ? SITE_URL + url(p) : "");
+/** Files from public/ linked with a content version (style.css?v=…), so browsers can keep them for a year. */
+const versions = new Map<string, string>();
+const asset = (file: string) => {
+  let v = versions.get(file);
+  if (!v) versions.set(file, (v = createHash("sha256").update(fs.readFileSync(path.join(ROOT, "public", file))).digest("hex").slice(0, 10)));
+  return url(`/${file}?v=${v}`);
+};
+/** Structured data for search engines (schema.org); "<" is escaped so the JSON cannot close the script tag. */
+const jsonLd = (data: object) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...data }).replace(/</g, "\\u003c")}</script>`;
+const SITE_NAME = "FjaloriShqip";
+/** Cut a description to about the length search engines show, at a word boundary. */
+const metaText = (s: string, max = 158) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(" ", max - 1))}…`);
 export const slug = (w: string) => w.replace(/ /g, "_");
 const wordUrl = (w: string) => url(`/fjala/${encodeURIComponent(slug(w))}/`);
 const letterUrl = (l: string) => url(`/shkronja/${encodeURIComponent(l)}/`);
@@ -109,8 +125,23 @@ const NAV: [string, string, Parameters<typeof t>[0]][] = [
   ["about", "/rreth/", "about"],
 ];
 
-function layout(opts: { title: string; description: string; body: string; active?: string; canonical?: string; headerSearch?: boolean }): string {
+function layout(opts: {
+  title: string;
+  description: string;
+  body: string;
+  active?: string;
+  canonical?: string;
+  headerSearch?: boolean;
+  /** "article" for word pages, "website" otherwise (Open Graph). */
+  ogType?: string;
+  /** schema.org objects for search engines. */
+  structured?: object[];
+  /** keep this page out of search results (search results page, 404) */
+  noindex?: boolean;
+}): string {
   const headerSearch = opts.headerSearch ?? true;
+  const canonical = opts.canonical ? absolute(opts.canonical) : "";
+  const image = absolute("/og.png");
   return `<!doctype html>
 <html lang="sq">
 <head>
@@ -119,13 +150,25 @@ function layout(opts: { title: string; description: string; body: string; active
 <title>${h(opts.title)}</title>
 <meta name="description" content="${h(opts.description)}">
 <meta name="theme-color" content="#c8102e">
-${NOINDEX ? `<meta name="robots" content="noindex">` : ""}
+${NOINDEX || opts.noindex ? `<meta name="robots" content="noindex, follow">` : `<meta name="robots" content="index, follow, max-image-preview:large">`}
+${canonical ? `<link rel="canonical" href="${h(canonical)}">` : ""}
+<meta property="og:site_name" content="${SITE_NAME}">
+<meta property="og:type" content="${opts.ogType ?? "website"}">
+<meta property="og:locale" content="sq_AL">
 <meta property="og:title" content="${h(opts.title)}">
 <meta property="og:description" content="${h(opts.description)}">
-${opts.canonical && SITE_URL ? `<link rel="canonical" href="${h(SITE_URL + url(opts.canonical))}">` : ""}
-<link rel="icon" href="${url("/favicon.svg")}" type="image/svg+xml">
-<link rel="stylesheet" href="${url("/style.css")}">
-<script>try{if(localStorage.getItem("fs-lang")==="en")document.documentElement.classList.add("en");var th=localStorage.getItem("fs-theme");if(th)document.documentElement.setAttribute("data-theme",th)}catch(e){}</script>
+${canonical ? `<meta property="og:url" content="${h(canonical)}">` : ""}
+${image ? `<meta property="og:image" content="${h(image)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="FjaloriShqip — Fjalori i hapur i gjuhës shqipe">` : ""}
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="${asset("favicon.svg")}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="${asset("icon-512.png")}">
+<link rel="manifest" href="${url("/site.webmanifest")}">
+<link rel="stylesheet" href="${asset("style.css")}">
+<script>${HEAD_SCRIPT}</script>
+${(opts.structured ?? []).map(jsonLd).join("\n")}
 </head>
 <body data-base="${h(BASE)}">
 <a class="skip-link" href="#main">${bi("Kalo te përmbajtja", "Skip to content")}</a>
@@ -179,7 +222,7 @@ ${opts.canonical && SITE_URL ? `<link rel="canonical" href="${h(SITE_URL + url(o
     <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.")}</p>
   </div>
 </footer>
-<script src="${url("/app.js")}" defer></script>
+<script src="${asset("app.js")}" defer></script>
 </body>
 </html>`;
 }
@@ -383,11 +426,43 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
     </nav>
   </aside>
 </div>`;
+  // search result / link preview text: the Albanian description first, then the English meaning
+  const metaDesc = metaText(
+    [
+      w.description ? `${w.word}: ${w.description.text.replace(/\.$/, "")}.` : `${w.word}${pos.length ? ` (${pos.map((p) => POS_SQ[p]).join(", ")})` : ""}.`,
+      firstGloss ? `Anglisht: ${firstGloss}.` : "",
+      "Kuptimi, format dhe sinonimet në Fjalorin e hapur shqip.",
+    ]
+      .filter(Boolean)
+      .join(" "),
+  );
+  const pagePath = `/fjala/${encodeURIComponent(slug(w.word))}/`;
   return layout({
-    title: `${w.word} — FjaloriShqip`,
-    description: firstGloss ? `${w.word}: ${firstGloss}. Fjalori i hapur shqip.` : `${w.word} — Fjalori i hapur i gjuhës shqipe.`,
+    title: `${w.word} — kuptimi | FjaloriShqip`,
+    description: metaDesc,
     body,
-    canonical: `/fjala/${encodeURIComponent(slug(w.word))}/`,
+    canonical: pagePath,
+    ogType: "article",
+    structured: SITE_URL
+      ? [
+          {
+            "@type": "DefinedTerm",
+            name: w.word,
+            inLanguage: "sq",
+            ...(w.description || firstGloss ? { description: w.description?.text ?? firstGloss } : {}),
+            url: absolute(pagePath),
+            inDefinedTermSet: { "@type": "DefinedTermSet", name: SITE_NAME, url: absolute("/") },
+          },
+          {
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: SITE_NAME, item: absolute("/") },
+              { "@type": "ListItem", position: 2, name: letter.toUpperCase(), item: absolute(`/shkronja/${encodeURIComponent(letter)}/`) },
+              { "@type": "ListItem", position: 3, name: w.word, item: absolute(pagePath) },
+            ],
+          },
+        ]
+      : [],
   });
 }
 
@@ -494,7 +569,13 @@ ${letterNav(l)}
 ${pager}
 ${chunk.length ? `<ul class="word-grid">${chunk.map(wordCard).join("")}</ul>` : `<p class="empty">${bi("Ende nuk ka fjalë me këtë shkronjë.", "No words with this letter yet.")}</p>`}
 ${pager}`;
-      write(`shkronja/${l}/${p === 1 ? "" : `${p}/`}index.html`, layout({ title: `${l.toUpperCase()} — FjaloriShqip`, description: `Fjalët shqipe që fillojnë me ${l.toUpperCase()}.`, body, active: "browse" }));
+      write(`shkronja/${l}/${p === 1 ? "" : `${p}/`}index.html`, layout({
+          title: `${l.toUpperCase()} — fjalët shqipe${pages > 1 ? ` (${p}/${pages})` : ""} | FjaloriShqip`,
+          description: `Fjalët shqipe që fillojnë me ${l.toUpperCase()}${pages > 1 ? `, faqja ${p} nga ${pages}` : ""}: ${num(list.length)} fjalë me kuptimet në shqip dhe anglisht.`,
+          body,
+          active: "browse",
+          canonical: `/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`,
+        }));
       n++;
     }
   }
@@ -574,11 +655,29 @@ function homePage(): string {
 </section>`;
   return layout({
     title: "FjaloriShqip — Fjalori i hapur i gjuhës shqipe",
-    description: "Fjalor i hapur i gjuhës shqipe: kuptimet në anglisht, format gege e toske, zgjedhimi i foljeve dhe një API falas për zhvilluesit.",
+    description: "Fjalor i hapur i gjuhës shqipe: kuptimet në shqip dhe anglisht, format gege e toske, zgjedhimi i foljeve dhe një API falas për zhvilluesit.",
     body,
     active: "home",
     canonical: "/",
     headerSearch: false,
+    structured: SITE_URL
+      ? [
+          {
+            "@type": "WebSite",
+            name: SITE_NAME,
+            alternateName: "Fjalori i hapur i gjuhës shqipe",
+            url: absolute("/"),
+            inLanguage: "sq",
+            // lets search engines show a search box for the site
+            potentialAction: {
+              "@type": "SearchAction",
+              target: { "@type": "EntryPoint", urlTemplate: `${absolute("/kerko/")}?q={search_term_string}` },
+              "query-input": "required name=search_term_string",
+            },
+          },
+          { "@type": "Organization", name: SITE_NAME, url: absolute("/"), logo: absolute("/icon-512.png") },
+        ]
+      : [],
   });
 }
 const UI_STATS = "Fjalori sot";
@@ -724,7 +823,7 @@ function searchPage(): string {
   <h1 class="search-title"></h1>
   <div class="search-results"></div>
 </div>`;
-  return layout({ title: "Kërko — FjaloriShqip", description: "Kërko në fjalorin shqip.", body, headerSearch: false });
+  return layout({ title: "Kërko — FjaloriShqip", description: "Kërko në fjalorin shqip.", body, headerSearch: false, noindex: true });
 }
 
 function notFoundPage(): string {
@@ -735,7 +834,7 @@ function notFoundPage(): string {
   <p class="lead">${bi("Kjo faqe nuk ekziston. Provoni kërkimin:", "This page does not exist. Try searching:")}</p>
   ${searchBox({ size: "big", chips: true })}
 </div>`;
-  return layout({ title: "404 — FjaloriShqip", description: "Faqja nuk u gjet.", body, headerSearch: false });
+  return layout({ title: "404 — FjaloriShqip", description: "Faqja nuk u gjet.", body, headerSearch: false, noindex: true });
 }
 
 /**
@@ -852,7 +951,49 @@ function apiWord(w: Word): object {
     });
   write("api/v1/te-zgjedhura.json", JSON.stringify(featured));
 
-  write(".nojekyll", "");
+  // ── search engines: sitemaps and robots.txt ──
+  // every page that should be found: home, info pages, letter pages and all word pages
+  const pages = ["/", "/burimet/", "/api/", "/rreth/"];
+  for (const l of ALPHABET) {
+    const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
+    for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
+  }
+  for (const w of words) pages.push(`/fjala/${encodeURIComponent(slug(w.word))}/`);
+  const SITEMAP_SIZE = 10_000; // the limit is 50,000 URLs per file; smaller files are quicker to fetch
+  const sitemapCount = Math.ceil(pages.length / SITEMAP_SIZE);
+  if (SITE_URL) {
+    const xml = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+    for (let i = 0; i < sitemapCount; i++) {
+      const urls = pages.slice(i * SITEMAP_SIZE, (i + 1) * SITEMAP_SIZE).map((p) => `<url><loc>${xml(absolute(p))}</loc></url>`);
+      write(`sitemap-${i + 1}.xml`, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join("\n")}\n</urlset>\n`);
+    }
+    const files = Array.from({ length: sitemapCount }, (_, i) => `<sitemap><loc>${xml(absolute(`/sitemap-${i + 1}.xml`))}</loc></sitemap>`);
+    write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.join("\n")}\n</sitemapindex>\n`);
+  }
+  write("robots.txt", ["User-agent: *", "Allow: /", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
+
+  // web app manifest: name, colours and icon when the site is added to a phone's home screen
+  write(
+    "site.webmanifest",
+    JSON.stringify(
+      {
+        name: "FjaloriShqip — Fjalori i hapur i gjuhës shqipe",
+        short_name: "FjaloriShqip",
+        lang: "sq",
+        start_url: url("/"),
+        scope: url("/"),
+        display: "standalone",
+        background_color: "#fbf8f4",
+        theme_color: "#c8102e",
+        icons: [
+          { src: asset("icon-512.png"), sizes: "512x512", type: "image/png", purpose: "any" },
+          { src: asset("favicon.svg"), sizes: "any", type: "image/svg+xml" },
+        ],
+      },
+      null,
+      2,
+    ),
+  );
 
   console.log(`built ${words.length} word pages, ${letterCount} letter pages, ${shards.size} form shards, ${featured.length} featured words in ${((Date.now() - t0) / 1000).toFixed(1)} s`);
 })();

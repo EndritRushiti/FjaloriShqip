@@ -1,4 +1,6 @@
+import { createHash } from "node:crypto";
 import { describe, expect, it } from "vitest";
+import { HEAD_SCRIPT } from "../src/site/security.js";
 import worker, { keyFor, type Env, type R2Bucket } from "../src/worker/index.js";
 
 function bucket(files: Record<string, string>): R2Bucket {
@@ -67,6 +69,35 @@ describe("worker", () => {
     const first = await get("/style.css");
     const again = await get("/style.css", { headers: { "If-None-Match": first.headers.get("ETag")! } });
     expect(again.status).toBe(304);
+  });
+
+  it("sends the security headers, with a CSP that allows only the site's own inline script", async () => {
+    const res = await get("/fjala/n%C3%ABn%C3%AB/");
+    expect(res.headers.get("Strict-Transport-Security")).toContain("max-age=31536000");
+    expect(res.headers.get("X-Frame-Options")).toBe("DENY");
+    expect(res.headers.get("Referrer-Policy")).toBe("strict-origin-when-cross-origin");
+    expect(res.headers.get("Cross-Origin-Resource-Policy")).toBe("same-origin");
+    const csp = res.headers.get("Content-Security-Policy")!;
+    const hash = createHash("sha256").update(HEAD_SCRIPT).digest("base64");
+    expect(csp).toContain(`'sha256-${hash}'`);
+    expect(csp).toContain("frame-ancestors 'none'");
+    expect(csp).not.toContain("unsafe-inline");
+    // the API stays usable from other sites
+    expect((await get("/api/v1/fjala/n%C3%ABn%C3%AB.json")).headers.get("Cross-Origin-Resource-Policy")).toBe("cross-origin");
+  });
+
+  it("keeps versioned assets for a year, unversioned ones for an hour", async () => {
+    expect((await get("/style.css?v=abc123")).headers.get("Cache-Control")).toBe("public, max-age=31536000, immutable");
+    expect((await get("/style.css")).headers.get("Cache-Control")).toBe("public, max-age=3600");
+  });
+
+  it("sends the workers.dev test address to the real domain", async () => {
+    const res = await worker.fetch(new Request("https://fjalorishqip.someone.workers.dev/fjala/n%C3%ABn%C3%AB/"), {
+      ...env,
+      CANONICAL_HOST: "fjalorishqip.org",
+    });
+    expect(res.status).toBe(301);
+    expect(res.headers.get("Location")).toBe("https://fjalorishqip.org/fjala/n%C3%ABn%C3%AB/");
   });
 
   it("redirects www to the main address", async () => {

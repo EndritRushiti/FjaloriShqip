@@ -8,6 +8,8 @@
  *   anything missing    → 404.html with status 404
  */
 
+import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js";
+
 /** The parts of the Workers R2 API this Worker uses (kept local so the repo needs no Workers type package). */
 export interface R2ObjectBody {
   body: ReadableStream;
@@ -44,16 +46,26 @@ const TYPES: Record<string, string> = {
   ico: "image/x-icon",
   txt: "text/plain; charset=utf-8",
   xml: "application/xml; charset=utf-8",
+  webmanifest: "application/manifest+json; charset=utf-8",
 };
 
 const extOf = (key: string) => key.slice(key.lastIndexOf("/") + 1).split(".").slice(1).pop()?.toLowerCase() ?? "";
 
-/** Browser cache time per kind of file: pages revalidate every time, the API and assets for an hour. */
-function cacheControl(key: string): string {
+/**
+ * Browser cache time per kind of file: pages revalidate every time, the API and assets for an hour.
+ * Assets linked with a content version (style.css?v=…) never change under that address, so they are kept a year.
+ */
+function cacheControl(key: string, versioned: boolean): string {
   if (key.startsWith("api/")) return "public, max-age=3600";
-  if (/\.(css|js|svg|png|ico)$/.test(key)) return "public, max-age=3600";
+  if (/\.(css|js|svg|png|ico|webmanifest)$/.test(key)) {
+    return versioned ? "public, max-age=31536000, immutable" : "public, max-age=3600";
+  }
   return "public, max-age=0, must-revalidate";
 }
+
+let csp: Promise<string> | undefined;
+/** The page CSP, with the hash of the one allowed inline script (computed once per Worker instance). */
+const pageCsp = () => (csp ??= cspHash(HEAD_SCRIPT).then(contentSecurityPolicy));
 
 /** Turns a request path into a bucket key, or null when the path tries to leave the site. */
 export function keyFor(pathname: string): string | null {
@@ -68,21 +80,33 @@ export function keyFor(pathname: string): string | null {
   return p.replace(/^\/+/, "");
 }
 
-function headers(key: string, env: Env, etag?: string): Headers {
+async function headers(key: string, env: Env, opts: { etag?: string; versioned?: boolean } = {}): Promise<Headers> {
+  const type = extOf(key);
+  const api = key.startsWith("api/");
   const h = new Headers({
-    "Content-Type": TYPES[extOf(key)] ?? "application/octet-stream",
-    "Cache-Control": cacheControl(key),
+    "Content-Type": TYPES[type] ?? "application/octet-stream",
+    "Cache-Control": cacheControl(key, opts.versioned ?? false),
+    // security: HTTPS only for a year, no MIME sniffing, no embedding in other sites, minimal referrer,
+    // no access to device features, and the window isolated from pages it opens
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
     "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), browsing-topics=()",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    // the API is meant to be used by other sites and apps; everything else only by this site
+    "Cross-Origin-Resource-Policy": api ? "cross-origin" : "same-origin",
   });
-  if (key.startsWith("api/")) h.set("Access-Control-Allow-Origin", "*");
+  if (type === "html") h.set("Content-Security-Policy", await pageCsp());
+  if (api) h.set("Access-Control-Allow-Origin", "*");
   if (env.NOINDEX === "1") h.set("X-Robots-Tag", "noindex");
-  if (etag) h.set("ETag", etag);
+  if (opts.etag) h.set("ETag", opts.etag);
   return h;
 }
 
 async function notFound(env: Env, head: boolean): Promise<Response> {
   const page = await env.SITE.get("404.html");
-  return new Response(head || !page ? null : page.body, { status: 404, headers: headers("404.html", env) });
+  return new Response(head || !page ? null : page.body, { status: 404, headers: await headers("404.html", env) });
 }
 
 export default {
@@ -105,9 +129,11 @@ export default {
       });
     }
     const url = new URL(request.url);
-    // one address for the site: www.fjalorishqip.org → fjalorishqip.org
-    if (env.CANONICAL_HOST && url.hostname === `www.${env.CANONICAL_HOST}`) {
+    // one address for the site (no duplicate copies for search engines):
+    // www.fjalorishqip.org and the *.workers.dev test address → fjalorishqip.org
+    if (env.CANONICAL_HOST && (url.hostname === `www.${env.CANONICAL_HOST}` || url.hostname.endsWith(".workers.dev"))) {
       url.hostname = env.CANONICAL_HOST;
+      url.protocol = "https:";
       return Response.redirect(url.toString(), 301);
     }
     const key = keyFor(url.pathname);
@@ -115,7 +141,7 @@ export default {
 
     const object = await env.SITE.get(key);
     if (object) {
-      const h = headers(key, env, object.httpEtag);
+      const h = await headers(key, env, { etag: object.httpEtag, versioned: url.searchParams.has("v") });
       if (request.headers.get("If-None-Match") === object.httpEtag) return new Response(null, { status: 304, headers: h });
       return new Response(head ? null : object.body, { headers: h });
     }
