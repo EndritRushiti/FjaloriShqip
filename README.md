@@ -86,7 +86,7 @@ npm test
 
 The site is served at **https://fjalorishqip.org** (registered at GoDaddy, DNS on Cloudflare); `www.fjalorishqip.org` redirects there.
 
-**Staying free.** `.github/workflows/usage-guard.yml` checks the month's R2 usage every day: at 80% of a free allowance the run fails (GitHub sends an email), at 95% the Worker switches to a small offline page that reads nothing from R2, and deploys stop until the next month. The Worker itself is on the free plan, which errors instead of billing when its daily request limit is reached.
+**Staying free.** `.github/workflows/usage-guard.yml` checks the month's R2 usage every day: at 80% of a free allowance the run fails (GitHub sends an email), at 95% a small offline Worker is put in front of the site (it reads nothing from R2), and deploys stop until the next month. The Worker itself is on the free plan, which errors instead of billing when its daily request limit is reached.
 
 `.github/workflows/ci.yml` type-checks and tests every push.
 

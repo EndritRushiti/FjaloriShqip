@@ -1,7 +1,7 @@
 # Daily check that the site stays inside Cloudflare's free R2 allowance (scripts/usage-guard.ts).
 #   under 80%  → the Worker is (re)deployed normally, so the site comes back online after a new month
 #   80% – 95%  → this run fails, so GitHub sends an email
-#   95% or more → the Worker is switched to a small offline page that reads nothing from R2, and the run fails
+#   95% or more → a small offline Worker is put in front of the site (it reads nothing from R2), and the run fails
 # Uses the same secrets as deploy-cloudflare.yml; the API token also needs "Account Analytics: Read".
 name: Cloudflare usage guard
 on:
@@ -34,10 +34,14 @@ jobs:
           echo "code=$code" >> "$GITHUB_OUTPUT"
       - name: Take the site offline (95% of a free allowance used)
         if: steps.guard.outputs.code == '2'
-        run: npx --yes wrangler@4 deploy --var OFFLINE:1
-      - name: Keep the site online
+        run: npx --yes wrangler@4 deploy --env offline
+      - name: Keep the site online (remove the offline Worker if it is there)
         if: steps.guard.outputs.code == '0' || steps.guard.outputs.code == '1'
-        run: npx --yes wrangler@4 deploy
+        run: |
+          curl -s -o /dev/null -w "offline Worker removal: %{http_code}\n" -X DELETE \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/fjalorishqip-offline?force=true"
+          npx --yes wrangler@4 deploy
       - name: Report
         if: steps.guard.outputs.code != '0'
         run: |

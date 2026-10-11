@@ -5,9 +5,9 @@ main = "src/worker/index.ts"
 compatibility_date = "2025-09-01"
 workers_dev = true
 
-# fjalorishqip.org (registered at GoDaddy, DNS on Cloudflare); Cloudflare creates the DNS records for these
+# www.fjalorishqip.org is redirected to the main domain by this Worker. The main domain itself is served straight
+# from the bucket behind Cloudflare's cache (scripts/cloudflare-setup.ts), so page views do not count as Worker requests.
 routes = [
-  { pattern = "fjalorishqip.org", custom_domain = true },
   { pattern = "www.fjalorishqip.org", custom_domain = true },
 ]
 
@@ -23,3 +23,14 @@ CANONICAL_HOST = "fjalorishqip.org"
 
 [observability]
 enabled = true
+
+# The usage guard's offline page: a separate Worker ("fjalorishqip-offline") on a route in front of the bucket,
+# deployed at 95% of a free R2 allowance and deleted again when usage is back under it (.github/workflows/usage-guard.yml).
+[env.offline]
+workers_dev = false
+routes = [
+  { pattern = "fjalorishqip.org/*", zone_name = "fjalorishqip.org" },
+]
+
+[env.offline.vars]
+OFFLINE = "1"
