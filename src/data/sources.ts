@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891";
 
 export interface SourceInfo {
   id: SourceId;
@@ -169,6 +169,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Përshkrime të shkurtra shqip të fjalëve, të shkruara me ndihmën e inteligjencës artificiale mbi bazën e kuptimeve që kemi nga burimet e hapura. Nuk janë marrë nga asnjë fjalor tjetër. Shënohen si të tilla derisa t'i rishikojë redaktori.",
       en: "Short Albanian descriptions of words, written with the help of artificial intelligence on the basis of the meanings we have from the open sources. They are not taken from any other dictionary. They are marked as such until an editor reviews them.",
+    },
+  },
+  "meyer-1891": {
+    id: "meyer-1891",
+    name: "Gustav Meyer, Etymologisches Wörterbuch der albanesischen Sprache (Strassburg 1891)",
+    publisher: "Gustav Meyer (1850–1900); K. J. Trübner, Strassburg. Skanuar nga Google Books, në Internet Archive",
+    url: "https://archive.org/details/etymologischesw00meyegoog",
+    downloadUrl: "https://archive.org/details/etymologischesw01meyegoog",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Format arbëreshe (Itali: Kalabri, Siçili; nga Rada, Camarda, Santori, Schirò etj.) dhe arvanitase (Greqi: Hidra, Poros, Salaminë etj., kryesisht nga Reinhold) që Meyer i shënon me burimin e tyre. Fjalët i kthejmë nga shkrimi fonetik i Meyer-it në drejtshkrimin e sotëm (ε → ë, š → sh, l → ll, l' → l…) dhe kuptimet i përkthejmë nga gjermanishtja në anglisht. Te çdo kuptim shënohet faqja e librit. Vepra është në domen publik (autori vdiq më 1900).",
+      en: "Arbëresh (Italy: Calabria, Sicily; from Rada, Camarda, Santori, Schirò etc.) and Arvanitika (Greece: Hydra, Poros, Salamis etc., mostly from Reinhold) forms that Meyer marks with their source. We convert the words from Meyer's phonetic spelling into today's spelling (ε → ë, š → sh, l → ll, l' → l…) and translate the meanings from German into English. Every meaning cites the page of the book. The work is in the public domain (the author died in 1900).",
+    },
+    notUsed: {
+      sq: "Etimologjitë dhe krahasimet me gjuhët e tjera nuk merren.",
+      en: "The etymologies and comparisons with other languages are not used.",
     },
   },
 };

@@ -309,7 +309,7 @@ function sourceLink(w: Word, id: SourceId): string {
     ? `https://en.wiktionary.org/wiki/${encodeURIComponent(w.word)}#Albanian`
     : id === "sq-wiktionary"
       ? `https://sq.wiktionary.org/wiki/${encodeURIComponent(w.word)}`
-      : id === "hunspell-sq" || id === "wiktionary-other" || id === "albanet" || id === "macocu"
+      : id === "hunspell-sq" || id === "wiktionary-other" || id === "albanet" || id === "macocu" || id === "meyer-1891"
         ? SOURCES[id].url
         : id === "wikipedia-sq"
           ? `https://sq.wikipedia.org/w/index.php?search=${encodeURIComponent(w.word)}&fulltext=1`

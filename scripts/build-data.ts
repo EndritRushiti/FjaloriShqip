@@ -6,7 +6,7 @@ import fs from "node:fs";
 import path from "node:path";
 import readline from "node:readline";
 import type { Dialect, DialectForm, Entry, Example, Form, Pos, Sense, Word } from "../src/data/model.js";
-import { compareSq } from "../src/data/model.js";
+import { compareSq, POS_EN } from "../src/data/model.js";
 import type { SourceId } from "../src/data/sources.js";
 import { Deduper } from "./lib/dedupe.js";
 import { deriveMeaning, englishCandidates } from "./lib/derive-meaning.js";
@@ -216,6 +216,43 @@ function readSqWiktionary(): void {
     }
     if (!found) continue;
   }
+}
+
+// ── Arbëresh / Arvanitika forms from Meyer 1891 (public domain) ─────────────
+/**
+ * dialekte/meyer-1891.tsv: form, dialect, word class, gender, standard word, English meaning,
+ * page and Meyer's own spelling, one form per line ("#" starts a comment). A form of a standard
+ * word is listed on that word's page and gets a headword pointing to it; a form without a standard
+ * counterpart becomes an Arbëresh / Arvanitika word of its own.
+ */
+function addMeyerDialects(): { linked: number; own: number; known: number } {
+  const f = path.join(process.cwd(), "dialekte", "meyer-1891.tsv");
+  const out = { linked: 0, own: 0, known: 0 };
+  if (!fs.existsSync(f)) return out;
+  for (const raw of fs.readFileSync(f, "utf8").split("\n")) {
+    const line = raw.replace(/\r$/, "");
+    if (!line.trim() || line.startsWith("#")) continue;
+    const [form, dialect, posRaw, gender, standard, meaning, page, original] = line.split("\t").map((x) => x.trim());
+    if (!form || !VALID_WORD.test(form) || (dialect !== "arberesh" && dialect !== "arvanitika") || !meaning) continue;
+    const d: Dialect = dialect;
+    const pos = (POS_EN as Record<string, string>)[posRaw] ? (posRaw as Pos) : "other";
+    const sense: Sense = { gloss: `${meaning} [Meyer 1891: ${page}, ${original}]`, lang: "en", tags: [d === "arberesh" ? "Arbëresh" : "Arvanitika"], source: "meyer-1891" };
+    const std = standard && standard !== form ? words.get(standard) : undefined;
+    const w = getWord(form);
+    const isNew = !w.entries.length && !w.variantOf?.length;
+    const e = entryFor(w, pos, "meyer-1891");
+    if (gender === "m" || gender === "f" || gender === "n") e.gender ??= gender;
+    addSense(e, sense);
+    if (std?.entries.length) {
+      addDialect(std, { form, dialect: d, source: "meyer-1891" });
+      if (isNew) w.variantOf = [{ word: std.word, kind: d, source: "meyer-1891" }];
+      out.linked++;
+    } else if (isNew) {
+      w.dialectOnly = [d];
+      out.own++;
+    } else out.known++;
+  }
+  return out;
 }
 
 // ── Albanian descriptions ────────────────────────────────────────────────────
@@ -615,6 +652,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   // Drop words without any entry and without a variant link.
   for (const [k, w] of words) if (!w.entries.length && !w.variantOf?.length) words.delete(k);
 
+  const meyer = addMeyerDialects();
+  console.log(`meyer 1891: ${meyer.linked} Arbëresh/Arvanitika forms of standard words, ${meyer.own} dialect words of their own, ${meyer.known} meanings added to known words (dialekte/meyer-1891.tsv)`);
+
   // More headwords from other open sources, each checked against everything already in the
   // dictionary (headwords, forms, dialect forms, spellings without ë/ç, inflected forms).
   const dicFile = path.join(SRC, "hunspell-sq_AL.dic");
@@ -685,6 +725,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       albanet: list.filter((w) => w.sources.includes("albanet")).length,
       macocu: list.filter((w) => w.sources.includes("macocu") || (w.frequency && !w.unverified)).length,
       auto: list.filter((w) => w.sources.includes("auto")).length,
+      "meyer-1891": list.filter((w) => w.sources.includes("meyer-1891")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,
