@@ -142,8 +142,15 @@ function client(token: string) {
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
       body: body === undefined ? undefined : JSON.stringify(body),
     });
-    const json = (await res.json().catch(() => ({ success: false, errors: [{ code: res.status, message: res.statusText }] }))) as ApiResult<T>;
-    if (!res.ok || !json.success) {
+    // some calls (e.g. DELETE) answer 200 with an empty body: that is a success
+    const text = await res.text();
+    let json: ApiResult<T>;
+    try {
+      json = text ? (JSON.parse(text) as ApiResult<T>) : { success: res.ok, result: null as T };
+    } catch {
+      json = { success: res.ok, result: null as T, errors: [{ code: res.status, message: res.statusText }] };
+    }
+    if (!res.ok || json.success === false) {
       throw new Error(`${method} ${url}: ${res.status} ${json.errors?.map((e) => `${e.code} ${e.message}`).join("; ")}`);
     }
     return json.result;
