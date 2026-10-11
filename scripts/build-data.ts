@@ -255,6 +255,51 @@ function addMeyerDialects(): { linked: number; own: number; known: number } {
   return out;
 }
 
+
+// ── Vulgar and offensive words (korrigjime/fyese.txt) ────────────────────────
+const VULGAR_TAGS = new Set(["vulgar", "obscene"]);
+/**
+ * Removes the listed words completely, the listed meanings of other words, and every meaning the sources
+ * label vulgar/obscene; then drops all references to removed words (same-meaning lists, dialect forms, variant links).
+ */
+function removeVulgar(): { words: number; senses: number } {
+  const f = path.join(process.cwd(), "korrigjime", "fyese.txt");
+  const lines = fs.existsSync(f) ? fs.readFileSync(f, "utf8").split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim()).filter(Boolean) : [];
+  const wholeWords = new Set<string>();
+  const senseText = new Map<string, string[]>();
+  for (const l of lines) {
+    const [w, text] = l.split("|").map((x) => x.trim());
+    if (text) senseText.set(w.toLowerCase(), [...(senseText.get(w.toLowerCase()) ?? []), text.toLowerCase()]);
+    else wholeWords.add(w.toLowerCase());
+  }
+  let senses = 0;
+  for (const w of words.values()) {
+    const texts = senseText.get(w.word) ?? [];
+    let had = 0;
+    let left = 0;
+    for (const e of w.entries) {
+      had += e.senses.length;
+      const before = e.senses.length;
+      e.senses = e.senses.filter((s) => !(s.tags ?? []).some((t) => VULGAR_TAGS.has(t)) && !texts.some((t) => s.gloss.toLowerCase().includes(t)));
+      senses += before - e.senses.length;
+      left += e.senses.length;
+    }
+    if (w.labels) w.labels = w.labels.filter((l) => !VULGAR_TAGS.has(l));
+    // a word whose every meaning was vulgar goes too
+    if (had && !left) wholeWords.add(w.word);
+  }
+  for (const r of wholeWords) words.delete(r);
+  for (const w of words.values()) {
+    for (const e of w.entries) if (e.synonyms) e.synonyms = e.synonyms.filter((x) => !wholeWords.has(x));
+    if (w.dialects) w.dialects = w.dialects.filter((d) => !wholeWords.has(d.form));
+    if (w.variantOf) {
+      w.variantOf = w.variantOf.filter((v) => !wholeWords.has(v.word));
+      if (!w.variantOf.length) delete w.variantOf;
+    }
+  }
+  return { words: wholeWords.size, senses };
+}
+
 // ── Albanian descriptions ────────────────────────────────────────────────────
 /**
  * pershkrime/pershkrime.tsv: "word<TAB>description", one per line; "#" starts a comment.
@@ -673,6 +718,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const removed = readRemoveList();
   for (const r of removed) words.delete(r);
   console.log(`corrections: ${removed.length} words removed (korrigjime/hiq.txt)`);
+  const vulgar = removeVulgar();
+  console.log(`vulgar: ${vulgar.words} words and ${vulgar.senses} vulgar meanings removed (korrigjime/fyese.txt)`);
 
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);

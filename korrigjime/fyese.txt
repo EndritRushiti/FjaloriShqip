@@ -1,0 +1,83 @@
+# Fjalë vulgare dhe fyese që hiqen plotësisht nga fjalori (faqe, kërkim, API, shkarkime).
+# Vulgar and offensive words removed completely from the dictionary (pages, search, API, downloads).
+#
+#   fjala                      → hiqet e gjithë fjala / the whole word is removed
+#   fjala | pjesë kuptimi      → hiqen vetëm kuptimet që e përmbajnë këtë tekst / only meanings containing this text are removed
+#
+# Përveç kësaj, te çdo fjalë hiqen kuptimet që burimi i shënon "vulgar" ose "obscene".
+# Besides this list, every meaning the sources label "vulgar" or "obscene" is removed from every word.
+# Këtë listë e rishikon redaktori. / This list is reviewed by the editor.
+
+# sharje dhe fjalë vulgare / swear words and vulgar words
+ashtus
+bie me dorë
+bythëqirë
+dhjes
+dredh bishtin
+gop
+kar
+karuc
+kurvë
+kurvëri
+kuvell
+lavire
+loqe
+luc
+mut
+nënëqirë
+ngollar
+përmutem
+piçkë
+pidh
+pill
+pjerdh
+pordhë
+pordhac
+pordhaman
+pusht
+putanë
+putërë
+qifsha
+qihem
+qij
+qirë
+qirje
+shkërdhatë
+shkërdhyeshëm
+thelp i pidhit
+vrimë e bythës
+zhishte
+zuskë
+zhargë
+horre
+horrë
+lushë
+pisputh
+rrospi
+# fjalë fyese për grupe njerëzish / slurs against groups of people
+rroço
+turkoshak
+shipuc
+
+# vetëm kuptimi vulgar / only the vulgar meaning
+dërrasë | penis
+lëng | semen
+top | testicles
+çuç | cunt
+cucë | vulva
+dumkë | vulva
+çifut | kike
+moroze | whore
+palloj | fuck
+fut | fuck
+rras | fuck
+gabel | gypsy
+bushtër | whore
+kuçkë | slut
+kudër | whore
+meçkë | slut
+shakë | whore
+hu | penis
+pallë | penis
+bile | weenie
+prostitutë | whore
