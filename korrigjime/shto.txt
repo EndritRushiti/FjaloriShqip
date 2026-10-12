@@ -8606,3 +8606,211 @@ ndashëm | adj | separable
 harmonishëm | adj | harmonious
 pashëm | adj | handsome
 piroteknik | adj | pyrotechnic
+# ── w50.tsv ──
+përmbledhje | noun | summary; collection
+dashje | noun | will, intention
+përzgjedhje | noun | selection
+komoditet | noun | comfort, convenience
+ndërlidhje | noun | interconnection
+pushues | noun | holidaymaker
+vendpushim | noun | resort
+zemërgjerësi | noun | generosity, magnanimity
+bashkëkohësi | noun | contemporaneity; the present day
+amoralitet | noun | amorality
+virtualitet | noun | virtuality
+muzikalitet | noun | musicality
+rizgjedhje | noun | re-election
+porositës | noun | customer, client (who orders)
+zbardhues | noun | bleach
+skanim | noun | scanning, scan
+frenim | noun | braking; restraint
+italishte | noun | Italian (language)
+turqishte | noun | Turkish (language)
+# ── w51.tsv ──
+përputhje | noun | accordance, conformity
+shkelje | noun | violation, breach
+stërvitje | noun | training, practice
+shpifje | noun | slander, defamation
+përballje | noun | confrontation, encounter
+prekje | noun | touch
+grindje | noun | quarrel
+nisje | noun | departure; start
+shpikje | noun | invention
+tronditje | noun | shock, concussion
+përmbysje | noun | overturning, overthrow
+ngjitje | noun | climb, ascent; gluing
+përbuzje | noun | contempt
+mbushje | noun | filling
+dridhje | noun | trembling, vibration
+shmangie | noun | avoidance, deviation
+zgjatje | noun | extension, prolongation
+arratisje | noun | escape
+tkurrje | noun | contraction, shrinking
+bastisje | noun | raid, search
+ngecje | noun | getting stuck, stagnation
+lajthitje | noun | error, blunder
+varje | noun | hanging
+burgosje | noun | imprisonment
+plaçkitje | noun | looting, plunder
+ënjtje | noun | swelling
+përulje | noun | bowing; humility
+qitje | noun | shooting, firing
+zhytje | noun | diving, immersion
+tretje | noun | digestion; dissolution
+shembje | noun | collapse
+përsiatje | noun | reflection, meditation
+tharje | noun | drying
+joshje | noun | enticement, seduction
+zbavitje | noun | entertainment, amusement
+endje | noun | weaving; wandering
+palosje | noun | folding
+përkëdhelje | noun | caress
+shkrepje | noun | shot, firing; click
+futje | noun | insertion, introduction
+mbytje | noun | suffocation, drowning
+mpiksje | noun | coagulation, clotting
+therje | noun | slaughter; stabbing pain
+mbathje | noun | underpants; putting on shoes
+nuhatje | noun | sniffing, sense of smell
+vozitje | noun | rowing; driving
+mërzitje | noun | boredom, annoyance
+zbehje | noun | fading, paling
+skalitje | noun | carving
+thithje | noun | suction, inhalation
+ajrosje | noun | airing, ventilation
+përkulje | noun | bending, bow
+brengosje | noun | grief, sorrow
+kyçje | noun | locking; connection
+klithje | noun | scream, shriek
+kacafytje | noun | scuffle
+ndrydhje | noun | sprain; repression
+ngutje | noun | haste
+përsosje | noun | perfecting, refinement
+gëlltitje | noun | swallowing
+përthithje | noun | absorption
+nxehje | noun | heating; anger
+zhveshje | noun | undressing
+përdhosje | noun | desecration
+minim | noun | mining (laying mines); undermining
+parazgjedhje | noun | primary election
+mbështjellje | noun | wrapping
+ndreqje | noun | repair, correction
+zbrazje | noun | emptying, discharge
+magjepsje | noun | enchantment, fascination
+rraskapitje | noun | exhaustion
+nënqeshje | noun | smirk, half-smile
+ngopje | noun | satiety
+shkundje | noun | shaking
+përqeshje | noun | mockery
+# ── w52.tsv ──
+ngjeshje | noun | compression; compress
+rihapje | noun | reopening
+zmbrapsje | noun | repulse, retreat
+përçapje | noun | attempt, step
+shkujdesje | noun | carelessness, negligence
+kurdisje | noun | winding up; setting
+njollosje | noun | staining; tarnishing
+bezdisje | noun | annoyance, harassment
+soditje | noun | contemplation
+bashkëngjitje | noun | attachment
+hekurosje | noun | ironing
+vjelje | noun | harvest (of grapes, olives)
+përpëlitje | noun | writhing, struggling
+drejtpeshim | noun | balance, equilibrium
+përthyerje | noun | refraction
+plasje | noun | bursting, explosion
+fikje | noun | switching off, extinguishing
+krehje | noun | combing
+rrokullisje | noun | rolling (down)
+ngjallje | noun | revival, arousal
+tundje | noun | shaking
+rrudhje | noun | wrinkling, shrinking
+grisje | noun | tearing
+alivanosje | noun | fainting
+dremitje | noun | dozing, nap
+ripërsëritje | noun | repetition (again)
+zverdhje | noun | yellowing
+krasitje | noun | pruning
+përdredhje | noun | twisting
+firmosje | noun | signing
+këndellje | noun | reviving, refreshment
+sëmurje | noun | falling ill
+lehje | noun | barking
+shkulje | noun | uprooting
+përkryerje | noun | perfection
+nëpërkëmbje | noun | trampling; disregard
+deponim | noun | deposit, dumping
+shpërfaqje | noun | emergence, manifestation
+shfrenim | noun | unrestraint, frenzy
+gjakosje | noun | bloodshed
+cytje | noun | incitement
+rishfaqje | noun | reappearance
+kuvendim | noun | conversation
+përçartje | noun | delirium, raving
+rrezitje | noun | sunbathing
+sorollatje | noun | loitering
+përgjakje | noun | bloodshed
+shumëfishim | noun | multiplication, increase
+armatosje | noun | arming, armament
+azhurnim | noun | update
+ngulitje | noun | fixing, imprinting
+trefishim | noun | tripling
+stolisje | noun | adornment
+mënjanim | noun | avoidance, sidelining
+bredhje | noun | wandering
+përtypje | noun | chewing
+tjerrje | noun | spinning
+shterim | noun | depletion, exhaustion
+bashkërenditje | noun | coordination
+rimarrje | noun | retaking
+ngordhje | noun | death (of animals)
+fushim | noun | encampment
+dënesje | noun | sobbing
+shkretim | noun | devastation
+përfillje | noun | regard, consideration
+qethje | noun | haircut; shearing
+katandisje | noun | degradation
+shkyçje | noun | unlocking; disconnection
+rrëqethje | noun | shudder, goosebumps
+shtrydhje | noun | squeezing
+gjobitje | noun | fining
+ngërdheshje | noun | grimace, sneer
+sfilitje | noun | exhaustion
+mbartje | noun | carrying, transport
+hipje | noun | mounting, boarding
+arnim | noun | patching, mending
+trullosje | noun | dizziness, stupor
+kalitje | noun | tempering, hardening
+lypje | noun | begging
+këqyrje | noun | inspection
+tymosje | noun | smoking (of food)
+ngulje | noun | driving in, planting
+peshim | noun | weighing
+qerasje | noun | treating, offering
+vulosje | noun | stamping, sealing
+kalbje | noun | rotting, decay
+hasje | noun | encounter
+venitje | noun | withering, fading
+trembje | noun | fright
+rrudhosje | noun | crumpling, wrinkling
+gudulisje | noun | tickling
+tiganisje | noun | frying
+zgjatim | noun | extension
+cekim | noun | mention, reference
+shurdhim | noun | deafening
+zbardhim | noun | whitening; clarification
+lëngim | noun | languishing
+retushim | noun | retouching
+rrafshim | noun | levelling
+çlidhje | noun | untying
+pleksje | noun | interweaving
+trandje | noun | jolt
+dihatje | noun | panting
+bojatisje | noun | painting
+kallje | noun | kindling; instilling
+hallakatje | noun | scattering, dispersal
+neveritje | noun | disgust
+pështirosje | noun | nausea, disgust
+shkapërderdhje | noun | spilling, squandering
+spërdredhje | noun | twisting
+molisje | noun | exhaustion
