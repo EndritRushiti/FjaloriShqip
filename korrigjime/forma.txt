@@ -17054,3 +17054,5 @@ kosi | kos
 # ── w74.tsv ──
 dorëza | dorezë
 shapka | shapkë
+# ── w75.tsv ──
+egërsira | egërsirë

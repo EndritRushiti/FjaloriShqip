@@ -9002,3 +9002,24 @@ poliestër | noun | polyester
 bojëqielli | adj | sky-blue
 bojëhiri | adj | ash-grey
 argjendtë | adj | silver, silvery
+# ── w75.tsv ──
+katërdhjetë | num | forty
+katërshe | noun | four (digit, group of four)
+pesëshe | noun | five (digit, mark)
+njësh | noun | one (digit)
+hakmarrës | noun | avenger
+autokritikë | noun | self-criticism
+predispozitë | noun | predisposition
+drithërimë | noun | shiver, shudder
+xhandarmëri | noun | gendarmerie
+vogëlushë | noun | little girl
+kokëdhimbje | noun | headache
+projektbuxhet | noun | draft budget
+ballëlartë | adj | proud, with head held high
+sipërshënuar | adj | above-mentioned
+lartshënuar | adj | above-mentioned
+parapërcaktuar | adj | predetermined
+qebaptore | noun | kebab shop
+njerëzishëm | adj | decent, humane
+përçarës | adj | divisive
+përhapës | noun | propagator, spreader
