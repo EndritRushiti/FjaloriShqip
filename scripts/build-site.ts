@@ -241,8 +241,7 @@ ${(opts.structured ?? []).map(jsonLd).join("\n")}
     </div>
   </div>
   <div class="wrap footer-bottom">
-    <p>${t("licenceNote")}</p>
-    <p>${bi("Ndërtuar vetëm nga burime të hapura: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.", "Built only from open sources: Wiktionary, Wikidata, Wikifjalor, Albanet, Hunspell sq_AL, Wikipedia, MaCoCu.")}</p>
+    <p>© ${new Date().getFullYear()} ${bi("Fjalori i hapur i gjuhës shqipe", "The open dictionary of the Albanian language")}</p>
   </div>
 </footer>
 <script src="${asset("app.js")}" defer></script>
@@ -313,17 +312,6 @@ function entryHtml(e: Entry): string {
 </section>`;
 }
 
-function sourceLink(w: Word, id: SourceId): string {
-  return id === "en-wiktionary"
-    ? `https://en.wiktionary.org/wiki/${encodeURIComponent(w.word)}#Albanian`
-    : id === "sq-wiktionary"
-      ? `https://sq.wiktionary.org/wiki/${encodeURIComponent(w.word)}`
-      : id === "hunspell-sq" || id === "wiktionary-other" || id === "albanet" || id === "macocu" || id === "meyer-1891"
-        ? SOURCES[id].url
-        : id === "wikipedia-sq"
-          ? `https://sq.wikipedia.org/w/index.php?search=${encodeURIComponent(w.word)}&fulltext=1`
-          : `https://www.wikidata.org/w/index.php?search=${encodeURIComponent(w.word)}&ns146=1`;
-}
 
 /** Licence of one word's data: words found only in the Hunspell list keep its GPL licence. */
 const wordLicence = (w: Word) => (w.sources.includes("hunspell-sq") ? "GPL-2.0-or-later" : "CC BY-SA 4.0");
@@ -342,17 +330,6 @@ function usageHtml(n?: number): string {
   return `<span class="usage" title="${h(`Wikipedia: ${num(n ?? 0)}`)}"><span class="usage-bars" aria-hidden="true">${[1, 2, 3, 4].map((i) => `<i${i <= u.level ? ' class="on"' : ""}></i>`).join("")}</span>${bi(u.sq, u.en)}</span>`;
 }
 
-function attribution(w: Word): string {
-  const parts = w.sources.map((id) => {
-    const s = SOURCES[id];
-    return `<li><a href="${sourceLink(w, id)}" rel="nofollow">${h(s.name)} ${icon.external(13)}</a> <span class="muted">· <a href="${s.licenceUrl}">${h(s.licence)}</a></span></li>`;
-  });
-  return `<section class="attribution">
-  <h2>${icon.shield(16)} ${t("source")}</h2>
-  <ul>${parts.join("")}</ul>
-  <p class="muted">${bi("Përmbajtja është përshtatur dhe kombinuar nga burimet e mësipërme.", "Content adapted and combined from the sources above.")} <a href="${url("/burimet/")}">${bi("Të gjitha burimet", "All sources")}</a></p>
-</section>`;
-}
 
 function wordPage(w: Word): string {
   const variant = (w.variantOf ?? [])
@@ -425,7 +402,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       </div>
       <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.dialectOnly ?? []).map((d) => `<span class="word-label dialect-label"><span class="dialect-dot ${d}"></span>${bi(`Fjalë ${d === "arberesh" ? "arbëreshe" : "arvanitase"}`, `${d === "arberesh" ? "Arbëresh" : "Arvanitika"} word`)}</span>`).join("")}${(w.labels ?? []).filter((l) => !(w.dialectOnly && /^(Arbëresh|Arvanitika)$/.test(l))).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
       ${albanianInstead(w)}
-      ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}${w.description.reviewed ? "" : ` <span class="ai-note" title="${h("Përshkrim i shkruar me ndihmën e inteligjencës artificiale, ende pa u rishikuar nga redaktori / Written with AI help, not yet reviewed by an editor")}">${bi("përshkrim me ndihmë të AI-së", "written with AI help")}</span>`}</p>` : ""}
+      ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
       ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
       ${variant}
     </header>
@@ -433,7 +410,6 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
     ${sameMeaningCard(w)}
     ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
-    ${attribution(w)}
   </article>
   <aside class="word-side">
     ${facts.length ? `<section class="card side-card"><h2>${bi("Në shkurt", "At a glance")}</h2><dl class="facts">${facts.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl></section>` : ""}
@@ -832,58 +808,60 @@ const UI_STATS = "Fjalori sot";
 
 // ── static info pages ────────────────────────────────────────────────────────
 function sourcesPage(): string {
-  const manifest = stats.sources ?? {};
-  const rows = (Object.keys(SOURCES) as SourceId[])
-    .map((id) => {
-      const s = SOURCES[id];
-      const m = manifest[id];
-      return `<article class="card source">
-  <header class="source-head"><h2>${h(s.name)}</h2><a class="licence-pill" href="${s.licenceUrl}">${h(s.licence)}</a></header>
-  <dl class="meta">
-    <div><dt>${bi("Botuesi", "Publisher")}</dt><dd>${h(s.publisher)}</dd></div>
-    <div><dt>${bi("Adresa", "Address")}</dt><dd><a href="${s.url}">${h(s.url)}</a>${s.downloadUrl ? `<br><a href="${s.downloadUrl}">${h(s.downloadUrl)}</a>` : ""}</dd></div>
-    <div><dt>${bi("Marrë më", "Retrieved")}</dt><dd>${h(m?.retrieved ?? "—")}${m?.items ? ` · ${num(m.items)} ${bi("njësi", "items")}` : ""}</dd></div>
-    <div><dt>${bi("Fjalë në fjalor", "Words in the dictionary")}</dt><dd>${num(stats.bySource?.[id] ?? 0)}</dd></div>
-  </dl>
-  <p><b>${bi("Çfarë përdorim", "What we use")}:</b> ${bi(s.usedFor.sq, s.usedFor.en)}</p>
-  ${s.notUsed ? `<p class="notice"><b>${bi("Çfarë nuk përdorim", "What we do not use")}:</b> ${bi(s.notUsed.sq, s.notUsed.en)}</p>` : ""}
-</article>`;
-    })
-    .join("");
+  // one entry per source, in the order they matter to the dictionary
+  type Ref = { title: string; author: string; link: string; licence: string; licenceUrl: string; sq: string; en: string };
+  const CC_BY_SA = "https://creativecommons.org/licenses/by-sa/4.0/";
+  const CC0 = "https://creativecommons.org/publicdomain/zero/1.0/";
+  const refs: Ref[] = [
+    { title: "Wiktionary", author: "Wikimedia Foundation dhe kontribuesit e Wiktionary (përpunuar nga kaikki.org)", link: "https://en.wiktionary.org/wiki/Category:Albanian_language", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
+      sq: "Fjalët, kuptimet në anglisht, format e lakimit e zgjedhimit, shqiptimi, shembujt dhe format dialektore; edhe fjalë nga 18 botime të tjera gjuhësore.", en: "Headwords, English meanings, inflection tables, pronunciation, examples and dialect forms; also words from 18 other language editions." },
+    { title: "Wikifjalor", author: "Wikimedia Foundation dhe kontribuesit e Wikifjalorit", link: "https://sq.wiktionary.org/", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
+      sq: "Fjalë, lloji i fjalës dhe gjinia nga faqet e shkruara nga komuniteti.", en: "Words, word class and gender from community-written pages." },
+    { title: "Wikidata", author: "Wikimedia Foundation dhe kontribuesit e Wikidata", link: "https://www.wikidata.org/wiki/Wikidata:Lexicographical_data", licence: "CC0 1.0", licenceUrl: CC0,
+      sq: "Fjalë, lloji i fjalës dhe kuptime të shkurtra.", en: "Words, word class and short meanings." },
+    { title: "Albanet — WordNet shqip", author: "Ervin Ruci, Universiteti i Vlorës (Open Multilingual Wordnet)", link: "https://github.com/omwn/omw-data/tree/main/wns/als", licence: "CC BY 3.0", licenceUrl: "https://creativecommons.org/licenses/by/3.0/",
+      sq: "Grupe fjalësh me të njëjtin kuptim dhe fjalë të reja.", en: "Groups of words with the same meaning and new words." },
+    { title: "Fjalori drejtshkrimor shqip për Hunspell (sq_AL)", author: "Luan Kelmendi", link: "https://github.com/LibreOffice/dictionaries/tree/master/sq_AL", licence: "GPL-2.0 ose më e re", licenceUrl: "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+      sq: "Lista e fjalëve: fjalë bazë që mungonin në burimet e tjera.", en: "The word list: base words missing from the other sources." },
+    { title: "Wikipedia shqip", author: "Wikimedia Foundation dhe kontribuesit e Wikipedias", link: "https://sq.wikipedia.org/", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
+      sq: "Vetëm numërimi i fjalëve, për të ditur sa përdoret secila fjalë. Nuk kopjohet asnjë tekst.", en: "Word counts only, to know how much each word is used. No text is copied." },
+    { title: "MaCoCu — korpusi shqip i uebit 1.0", author: "Projekti MaCoCu, depoja CLARIN.SI", link: "http://hdl.handle.net/11356/1804", licence: "CC0 1.0", licenceUrl: CC0,
+      sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë përdoret realisht.", en: "Word counts only, to confirm that a word is really in use." },
+    { title: "Etymologisches Wörterbuch der albanesischen Sprache (1891)", author: "Gustav Meyer (1850–1900)", link: "https://archive.org/details/etymologischesw00meyegoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Fjalët arbëreshe (Itali) dhe arvanitase (Greqi), të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja.", en: "Arbëresh (Italy) and Arvanitika (Greece) words, converted to today's spelling; meanings translated from German." },
+    { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
+      sq: "Përshkrimet shqip të fjalëve, fjalë dhe kuptime të shtuara e të korrigjuara, kuptime të përafërta të nxjerra nga fjalë të tjera dhe lidhjet ndërmjet fjalëve.", en: "The Albanian descriptions, added and corrected words and meanings, approximate meanings worked out from other words, and the links between words." },
+  ];
+  const list = refs
+    .map((r) => `<li class="ref">
+  <div class="ref-main"><cite>${h(r.title)}</cite> <span class="ref-author">— ${h(r.author)}</span></div>
+  <p class="ref-use">${bi(r.sq, r.en)}</p>
+  <p class="ref-meta"><a href="${r.link}" rel="noopener">${h(r.link.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a> · <a href="${r.licenceUrl}" rel="license noopener">${h(r.licence)}</a></p>
+</li>`)
+    .join("\n");
   const body = `
 ${pageHead(
   t("sources"),
-  bi(
-    "FjaloriShqip ndërtohet vetëm nga burime me licencë të hapur. Çdo fjalë tregon burimin e saj; këtu janë të gjitha burimet, licencat dhe data kur u morën.",
-    "FjaloriShqip is built only from openly licensed sources. Every word shows its source; here are all sources, their licences and when they were retrieved.",
-  ),
-  `${icon.shield(16)} ${bi("Ligjshmëria dhe licencat", "Legal and licences")}`,
+  bi("Fjalori ndërtohet vetëm nga burime me licencë të hapur. Këtu janë të gjitha, një herë secili.", "The dictionary is built only from openly licensed sources. Here they all are, each one once."),
+  `${icon.shield(16)} ${bi("Burimet dhe licencat", "Sources and licences")}`,
 )}
-<div class="stack">
-${rows}
-<section class="card">
-  <h2>${bi("Licenca e të dhënave tona", "Licence of our data")}</h2>
-  <p>${bi(
-    "Për shkak se përmbajtja e Wiktionary përdoret me licencën CC BY-SA 4.0, i gjithë fjalori publikohet me të njëjtën licencë. Mund ta kopjoni, ndryshoni dhe përdorni edhe për qëllime tregtare, me kusht që të përmendni FjaloriShqip dhe burimet origjinale dhe të ndani punën tuaj me të njëjtën licencë.",
-    "Because Wiktionary content is used under CC BY-SA 4.0, the whole dictionary is published under the same licence. You may copy, change and use it, even commercially, as long as you credit FjaloriShqip and the original sources and share your work under the same licence.",
-  )}</p>
-  <p>${bi(
-    "Përjashtim: fjalët e shënuara si \"ende pa kuptim\", të marra nga lista drejtshkrimore Hunspell e Luan Kelmendit, mbeten me licencën e saj GPL-2.0 ose më të re. Çdo fjalë e tillë e tregon këtë në faqen e saj dhe në API (fusha \"licence\").",
-    "Exception: the words marked \"no meaning yet\", taken from Luan Kelmendi's Hunspell spell-checking list, keep its GPL-2.0-or-later licence. Every such word says so on its page and in the API (the \"licence\" field).",
-  )}</p>
-  <p>${bi("Kodi i faqes është me licencën MIT.", "The website's code is MIT-licensed.")}</p>
-  <h3>${bi("Si të citoni", "How to cite")}</h3>
-  <pre>FjaloriShqip — open Albanian dictionary (CC BY-SA 4.0), built from Wiktionary (CC BY-SA 4.0), Wikidata (CC0) and Wikifjalor (CC BY-SA 4.0); further headwords from Wiktionary in 18 other languages (CC BY-SA 4.0), Albanet (CC BY 3.0) and the Albanian Hunspell list by Luan Kelmendi (GPL-2.0-or-later); word frequencies from Albanian Wikipedia and the MaCoCu corpus (CC0). Data version ${h(stats.built)}.</pre>
+<section class="card refs-card">
+  <ol class="refs">
+${list}
+  </ol>
 </section>
-<section class="card card-warn">
-  <h2>${bi("Çfarë nuk përdorim kurrë", "What we never use")}</h2>
+<section class="card prose">
+  <h2>${bi("Licenca", "Licence")}</h2>
   <p>${bi(
-    "Nuk kopjojmë përkufizime, shembuj ose lista fjalësh nga fjalorë me të drejta autori (p.sh. Fjalori i Akademisë së Shkencave / FGJSSH, fjalorë të shtypur ose faqe të tjera fjalorësh). Nëse mendoni se diçka këtu shkel të drejtat tuaja, na shkruani dhe do ta heqim.",
-    "We do not copy definitions, examples or word lists from copyrighted dictionaries (e.g. the Academy of Sciences' dictionary / FGJSSH, printed dictionaries or other dictionary websites). If you believe something here infringes your rights, contact us and we will remove it.",
+    "Të dhënat e fjalorit publikohen me licencën CC BY-SA 4.0: mund t'i përdorni lirisht, edhe për qëllime tregtare, duke përmendur FjaloriShqip dhe burimet e mësipërme. Fjalët që vijnë vetëm nga lista e Luan Kelmendit mbeten me licencën GPL-2.0 ose më të re. Kodi i faqes është me licencën MIT.",
+    "The dictionary data is published under CC BY-SA 4.0: you may use it freely, even commercially, crediting FjaloriShqip and the sources above. Words that come only from Luan Kelmendi's list keep the GPL-2.0-or-later licence. The website's code is MIT-licensed.",
   )}</p>
-</section>
-</div>`;
-  return layout({ title: "Burimet — FjaloriShqip", description: "Burimet dhe licencat e Fjalorit të hapur shqip.", body, active: "sources", canonical: "/burimet/" });
+  <p class="muted">${bi(
+    "Nuk përdoren përkufizime ose lista fjalësh nga fjalorë me të drejta autori, si fjalorët e Akademisë së Shkencave. Nëse mendoni se diçka këtu shkel të drejtat tuaja, na shkruani nga faqja «Rreth nesh».",
+    "No definitions or word lists are taken from copyrighted dictionaries, such as those of the Academy of Sciences. If you believe something here infringes your rights, write to us from the About page.",
+  )}</p>
+</section>`;
+  return layout({ title: "Burimet — FjaloriShqip", description: "Burimet dhe licencat e Fjalorit të hapur të gjuhës shqipe.", body, active: "sources", canonical: "/burimet/" });
 }
 
 function apiPage(): string {
@@ -962,40 +940,58 @@ ${pageHead(
   });
 }
 
+/** Like bi(), for trusted texts written here that contain HTML (links, bold). */
+const biHtml = (sq: string, en: string) => `<span data-ui="sq">${sq}</span><span data-ui="en">${en}</span>`;
+
 function aboutPage(): string {
   const body = `
 ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Albanian language, ready for the digital world."))}
-<section class="card prose">
-  <p>${bi(
-    "FjaloriShqip është një projekt me kod të hapur që synon ta bëjë gjuhën shqipe të gatshme për botën digjitale: një fjalor i hapur, falas, me API për zhvilluesit dhe me format standarde, gege dhe toske.",
-    "FjaloriShqip is an open-source project that aims to make the Albanian language ready for the digital world: a free, open dictionary with an API for developers and with standard, Gheg and Tosk forms.",
+<section class="card prose author-card">
+  <h2>${bi("Autori", "The author")}</h2>
+  <p>${biHtml(
+    "FjaloriShqip është krijuar dhe zhvillohet nga <b>Endrit Rushiti</b>, si autor dhe zhvillues i projektit. Qëllimi është një fjalor i hapur, falas dhe i lehtë për t'u përdorur, që e bën gjuhën shqipe të gatshme për botën digjitale: me fjalët standarde, format gege e toske, fjalët arbëreshe e arvanitase dhe një API të hapur për zhvilluesit.",
+    "FjaloriShqip is created and developed by <b>Endrit Rushiti</b>, as the project's author and developer. The aim is an open, free and easy-to-use dictionary that makes the Albanian language ready for the digital world: with the standard words, Gheg and Tosk forms, Arbëresh and Arvanitika words, and an open API for developers.",
   )}</p>
-  <p>${bi(
-    "Në këtë version të parë, fjalori ndërtohet vetëm nga burime të hapura dhe tregon gjithmonë burimin e çdo fjale. Hapi i ardhshëm: përdoruesit do të mund të propozojnë fjalë të reja dhe të votojnë për to, pa krijuar llogari.",
-    "In this first version the dictionary is built only from open sources and always shows the source of every word. Next step: visitors will be able to suggest new words and vote on them, without creating an account.",
+  <p>${biHtml(
+    "Fjalori ndërtohet vetëm nga burime me licencë të hapur, të cilat i gjeni të gjitha te faqja <a href=\"/burimet/\">Burimet</a>.",
+    "The dictionary is built only from openly licensed sources, all listed on the <a href=\"/burimet/\">Sources</a> page.",
   )}</p>
   <p class="notice">${bi(
     "Ky nuk është fjalori zyrtar i Akademisë së Shkencave. Për normën zyrtare, shihni botimet e Akademisë.",
     "This is not the official dictionary of the Academy of Sciences. For the official standard, see the Academy's publications.",
   )}</p>
 </section>
+<section class="card prose contact-card" id="kontakt">
+  <h2>${bi("Na kontaktoni", "Contact")}</h2>
+  <p class="muted">${bi("Keni një vërejtje, një fjalë që mungon ose një ide? Shkruani këtu dhe mesazhi do t'i dërgohet autorit.", "Have a remark, a missing word or an idea? Write here and the message will be sent to the author.")}</p>
+  <form class="contact-form" method="post" action="/kontakt" data-contact>
+    <label>${bi("Emri", "Name")}<input name="name" autocomplete="name" maxlength="100"></label>
+    <label>${bi("Email-i juaj", "Your email")}<input name="email" type="email" autocomplete="email" required maxlength="200"></label>
+    <label>${bi("Mesazhi", "Message")}<textarea name="message" rows="6" required minlength="5" maxlength="5000"></textarea></label>
+    <label class="hp" aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label>
+    <input type="hidden" name="t" value="">
+    <button type="submit" class="btn btn-primary">${bi("Dërgo mesazhin", "Send message")}</button>
+    <p class="contact-status" role="status" aria-live="polite"></p>
+  </form>
+</section>
 <section class="section">
   <header class="section-head"><h2>${bi("Rruga përpara", "Roadmap")}</h2></header>
   <ol class="roadmap">
-    <li class="done"><b>${bi("Fjalori nga burime të hapura", "Dictionary from open sources")}</b><span>${bi("Kërkimi, API, faqja e burimeve", "Search, API, references page")}</span></li>
+    <li class="done"><b>${bi("Fjalori nga burime të hapura", "Dictionary from open sources")}</b><span>${bi("Kërkimi, familjet e fjalëve, dialektet, API", "Search, word families, dialects, API")}</span></li>
     <li><b>${bi("Propozime dhe vota", "Suggestions and votes")}</b><span>${bi("Vizitorët propozojnë fjalë, pa llogari", "Visitors suggest words, no account needed")}</span></li>
-    <li><b>${bi("Më shumë gegërisht", "More Gheg")}</b><span>${bi("Burime të reja, pasi të konfirmohen licencat", "New sources, once their licences are confirmed")}</span></li>
+    <li><b>${bi("Më shumë fjalë dialektore", "More dialect words")}</b><span>${bi("Burime të reja, pasi të konfirmohen licencat", "New sources, once their licences are confirmed")}</span></li>
     <li><b>${bi("Emrat, historia, kultura", "Names, history, culture")}</b><span>${bi("Seksione të reja edukative", "New educational sections")}</span></li>
   </ol>
 </section>`;
   return layout({
     title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
-    description: "FjaloriShqip: fjalor i hapur, falas dhe me kod të hapur i gjuhës shqipe, ndërtuar vetëm nga burime të hapura. A free, open-source Albanian–English dictionary.",
+    description: "FjaloriShqip, fjalori i hapur i gjuhës shqipe, krijuar nga Endrit Rushiti. Kontaktoni autorin. The open Albanian dictionary by Endrit Rushiti.",
     body,
     active: "about",
     canonical: "/rreth/",
   });
 }
+
 
 function searchPage(): string {
   const body = `

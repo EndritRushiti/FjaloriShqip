@@ -69,8 +69,18 @@ jobs:
           grep -c "Copied" rclone.log || true
       - name: Serve the main domain from the bucket and empty Cloudflare's cache (scripts/cloudflare-setup.ts)
         run: npx tsx scripts/cloudflare-setup.ts
-      - name: Deploy the Worker (www and workers.dev redirects)
-        run: npx --yes wrangler@4 deploy
+      - name: Deploy the Worker (www redirect and the contact form)
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+        run: |
+          # the contact form's destination stays out of the repository: added here from a secret
+          if [ -n "$CONTACT_EMAIL" ]; then
+            printf '\n[[send_email]]\nname = "CONTACT"\ndestination_address = "%s"\n' "$CONTACT_EMAIL" >> wrangler.toml
+            npx --yes wrangler@4 deploy --var "CONTACT_TO:$CONTACT_EMAIL"
+          else
+            echo "::warning::No CONTACT_EMAIL secret: the contact form will answer that it is unavailable."
+            npx --yes wrangler@4 deploy
+          fi
       - name: Tell search engines which pages changed (IndexNow)
         env:
           SITE_URL: ${{ vars.SITE_URL || 'https://fjalorishqip.org' }}

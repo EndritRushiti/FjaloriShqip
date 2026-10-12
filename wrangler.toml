@@ -9,6 +9,8 @@ workers_dev = true
 # from the bucket behind Cloudflare's cache (scripts/cloudflare-setup.ts), so page views do not count as Worker requests.
 routes = [
   { pattern = "www.fjalorishqip.org", custom_domain = true },
+  # the contact form (src/worker/contact.ts); its send_email binding is added at deploy from the CONTACT_EMAIL secret
+  { pattern = "fjalorishqip.org/kontakt", zone_name = "fjalorishqip.org" },
 ]
 
 [[r2_buckets]]

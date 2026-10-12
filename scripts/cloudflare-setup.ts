@@ -53,9 +53,9 @@ export async function rules(): Promise<Record<string, Rule[]>> {
         action_parameters: { uri: { path: { expression: `concat(${path}, "index.html")` } } },
       },
       {
-        // the page itself, not a redirect: its canonical link names the address with the slash
+        // the page itself, not a redirect: its canonical link names the address with the slash (/kontakt is the contact form Worker)
         description: "FjaloriShqip: /fjala/nënë (no slash, no file type) → fjala/nënë/index.html",
-        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains ".")`,
+        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains "." and ${path} ne "/kontakt")`,
         action: "rewrite",
         action_parameters: { uri: { path: { expression: `concat(${path}, "/index.html")` } } },
       },

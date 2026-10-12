@@ -369,4 +369,31 @@
       if (empty) empty.hidden = shown > 0;
     });
   });
+
+  // ── contact form (Rreth nesh): sent to /kontakt, the address stays on the server ──
+  document.querySelectorAll("form[data-contact]").forEach(function (form) {
+    var status = form.querySelector(".contact-status");
+    var stamp = form.querySelector("input[name=t]");
+    if (stamp) stamp.value = String(Date.now());
+    function show(ok, sq, en) { status.className = "contact-status " + (ok ? "ok" : "err"); status.innerHTML = bi(sq, en); }
+    var params = new URLSearchParams(location.search);
+    if (params.get("kontakt") === "ok") show(true, "Faleminderit! Mesazhi u dërgua.", "Thank you! Your message was sent.");
+    if (params.get("kontakt") === "gabim") show(false, "Mesazhi nuk u dërgua. Provoni përsëri.", "The message was not sent. Please try again.");
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var button = form.querySelector("button");
+      button.disabled = true;
+      fetch(form.action, { method: "POST", body: new FormData(form), headers: { Accept: "application/json" } })
+        .then(function (r) { return r.json().catch(function () { return { ok: false }; }); })
+        .then(function (r) {
+          if (r.ok) { form.reset(); if (stamp) stamp.value = String(Date.now()); show(true, "Faleminderit! Mesazhi u dërgua.", "Thank you! Your message was sent."); }
+          else if (r.error === "email") show(false, "Kontrolloni adresën e email-it.", "Please check your email address.");
+          else if (r.error === "message") show(false, "Mesazhi duhet të ketë të paktën 5 shkronja.", "The message needs at least 5 characters.");
+          else if (r.error === "too-fast") show(false, "Prisni pak sekonda dhe provoni përsëri.", "Please wait a few seconds and try again.");
+          else show(false, "Mesazhi nuk u dërgua. Provoni përsëri më vonë.", "The message was not sent. Please try again later.");
+        })
+        .catch(function () { show(false, "Mesazhi nuk u dërgua. Provoni përsëri më vonë.", "The message was not sent. Please try again later."); })
+        .then(function () { button.disabled = false; });
+    });
+  });
 })();

@@ -565,3 +565,27 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .syn-chip.main { border-color: var(--accent); background: var(--accent-soft); }
 .syn-chip.here { border-style: dashed; }
 .syn-row h3 .dialect-dot { margin-right: 6px; }
+
+/* Burimet: one numbered list of sources */
+.refs { list-style: none; counter-reset: ref; margin: 0; padding: 0; }
+.refs .ref { counter-increment: ref; position: relative; padding: 16px 0 16px 46px; border-top: 1px solid var(--border); }
+.refs .ref:first-child { border-top: 0; padding-top: 4px; }
+.refs .ref::before { content: counter(ref); position: absolute; left: 0; top: 14px; width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; background: var(--accent-soft); color: var(--accent); font-weight: 700; font-size: 0.9rem; }
+.refs .ref:first-child::before { top: 2px; }
+.ref-main cite { font-style: normal; font-family: var(--serif); font-size: 1.12rem; font-weight: 600; }
+.ref-author { color: var(--muted); }
+.ref-use { margin: 4px 0; }
+.ref-meta { margin: 0; font-size: 0.88rem; color: var(--muted); word-break: break-word; }
+
+/* Rreth nesh: contact form */
+.contact-form { display: grid; gap: 14px; max-width: 560px; margin-top: 12px; }
+.contact-form label { display: grid; gap: 6px; font-weight: 600; font-size: 0.92rem; }
+.contact-form input, .contact-form textarea { font: inherit; font-weight: 400; padding: 10px 14px; border: 1px solid var(--border-strong); border-radius: 12px; background: var(--surface); color: var(--text); }
+.contact-form input:focus, .contact-form textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+.contact-form textarea { resize: vertical; min-height: 140px; }
+.contact-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.contact-form button { justify-self: start; }
+.contact-status { margin: 0; min-height: 1.4em; font-weight: 600; }
+.contact-status.ok { color: var(--ok, #15803d); }
+.contact-status.err { color: var(--accent); }
+.contact-card { margin-top: 18px; }

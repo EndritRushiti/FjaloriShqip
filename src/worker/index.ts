@@ -9,6 +9,7 @@
  */
 
 import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js";
+import { type EmailSender, handleContact } from "./contact.js";
 
 /** The parts of the Workers R2 API this Worker uses (kept local so the repo needs no Workers type package). */
 export interface R2ObjectBody {
@@ -28,6 +29,9 @@ export interface Env {
   OFFLINE?: string;
   /** The site's main host, e.g. "fjalorishqip.org"; requests to www.<host> are redirected to it. */
   CANONICAL_HOST?: string;
+  /** Contact form: the send_email binding and its destination (both added at deploy from a GitHub secret). */
+  CONTACT?: EmailSender;
+  CONTACT_TO?: string;
 }
 
 const OFFLINE_PAGE = `<!doctype html><html lang="sq"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -111,6 +115,7 @@ async function notFound(env: Env, head: boolean): Promise<Response> {
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
+    if (new URL(request.url).pathname === "/kontakt") return handleContact(request, env.CONTACT, env.CONTACT_TO);
     if (request.method === "OPTIONS") {
       return new Response(null, {
         status: 204,
