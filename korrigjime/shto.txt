@@ -8400,3 +8400,80 @@ dhembshur | adj | compassionate, tender
 babëzitur | adj | greedy
 djallëzuar | adj | devilish, wicked
 sapomartuar | adj | newly married
+# ── w35.tsv ──
+termin | noun | term; appointment
+mjeshtëri | noun | mastery, skill
+tretës | noun | solvent
+taksi | noun | taxi
+favorit | noun | favourite
+rritës | noun | breeder, grower
+kredit | noun | credit (accounting, academic)
+korrës | noun | reaper, harvester
+tapi | noun | cork, stopper; title deed
+filantropi | noun | philanthropy
+endës | noun | weaver
+shinë | noun | rail
+krisë | noun | crack
+pedofili | noun | paedophilia
+sekretari | noun | secretariat
+prokurori | noun | prosecutor's office
+infermieri | noun | infirmary
+argjendari | noun | silversmithing; silversmith's shop
+pylltari | noun | forestry
+rrobaqepësi | noun | tailoring; tailor's shop
+këpucari | noun | shoemaking; shoemaker's shop
+floktari | noun | hairdresser's
+qëndistari | noun | embroidery
+mobilieri | noun | furniture
+ndërmjetësi | noun | mediation
+qofte | noun | meatball
+qoshe | noun | corner
+dhënie | noun | giving, awarding
+ulëse | noun | seat
+vënie | noun | putting, placing
+pirje | noun | drinking
+ecje | noun | walking
+ikje | noun | leaving, flight
+veshje | noun | clothing
+zbathje | noun | taking off shoes
+qepje | noun | sewing
+thurje | noun | knitting, weaving
+skuqje | noun | frying; blushing
+petulla | noun | fritters
+tufan | noun | storm, tempest
+karikues | noun | charger
+infermiere | noun | nurse (female)
+ftohje | noun | cooling; a cold
+lente | noun | lens
+kapele | noun | hat
+dorashka | noun | gloves
+çorape | noun | sock, stocking
+pantofla | noun | slippers
+xhinse | noun | jeans
+pastë | noun | paste; pastry
+efikasitet | noun | efficiency, effectiveness
+pashpresë | adj | hopeless
+specifikisht | adv | specifically
+inxhinierik | adj | engineering
+dyfishtë | adj | double
+# ── w36.tsv ──
+gjen | noun | gene
+lodhje | noun | tiredness, fatigue
+shkumës | noun | chalk
+vizore | noun | ruler
+kuiz | noun | quiz
+qytetari | noun | citizenship
+sekretare | noun | secretary (female)
+databazë | noun | database
+koli | noun | parcel
+# ── w37.tsv ──
+mështeknë | noun | birch
+brokoli | noun | broccoli
+bubamarë | noun | ladybird
+# ── w39.tsv ──
+ndotur | adj | polluted, dirty
+shëmtuar | adj | ugly
+ndërlikuar | adj | complicated
+mbyllur | adj | closed; reserved
+fundit | adj | last; latest
+portokalli | adj | orange (colour)
