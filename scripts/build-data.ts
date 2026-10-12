@@ -740,6 +740,18 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
 
   // Short Albanian descriptions (pershkrime/pershkrime.tsv)
   console.log(`descriptions: ${addDescriptions()} words have an Albanian description`);
+  // Dialect forms without a description of their own take their standard word's: "Formë gege e fjalës nënë: …"
+  const DIALECT_ADJ: Record<Dialect, string> = { gheg: "gege", tosk: "toske", arberesh: "arbëreshe", arvanitika: "arvanitase" };
+  let fromStandard = 0;
+  for (const w of words.values()) {
+    const v = w.variantOf?.find((x) => x.kind !== "alternative");
+    const std = v && words.get(v.word);
+    if (w.description || !v || v.kind === "alternative" || !std?.description) continue;
+    w.description = { text: `Formë ${DIALECT_ADJ[v.kind]} e fjalës «${std.word}»: ${std.description.text}`, source: "ai" };
+    addSource(w.sources, "ai");
+    fromStandard++;
+  }
+  console.log(`descriptions: ${fromStandard} dialect forms described from their standard word`);
 
   // Borrowed words, usage labels, word classes that the sources got wrong
   console.log(`labels: ${addLabels()}`);
