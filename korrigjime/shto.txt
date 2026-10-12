@@ -8940,3 +8940,23 @@ latim | noun | carving, hewing
 molepsje | noun | infection, contamination
 murosje | noun | walling up
 puqje | noun | joining, contact
+# ── w57.tsv ──
+cirozë | noun | cirrhosis
+leukemi | noun | leukaemia
+shtatzëni | noun | pregnancy
+përziera | noun | nausea
+# ── w58.tsv ──
+shumës | noun | plural
+fonetikë | noun | phonetics
+folme | noun | local dialect, vernacular
+dypikë | noun | colon (punctuation)
+kryer | adj | done, completed; perfect (tense)
+# ── w59.tsv ──
+foragjere | noun | fodder
+# ── w60b.tsv ──
+moderat | adj | moderate
+mjekues | adj | medicinal, healing
+përmallues | adj | moving, poignant
+shungullues | adj | resounding, booming
+kundërsulmues | adj | counterattacking
+gjallues | adj | invigorating

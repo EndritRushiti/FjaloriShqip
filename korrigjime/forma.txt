@@ -15436,3 +15436,14 @@ dëftuese | dëftues
 dëshiruese | dëshirues
 kallëzuese | kallëzues
 simbolizuese | simbolizues
+# ── w57.tsv ──
+receta | recetë
+# ── w58.tsv ──
+mashkullore | mashkullor
+dëftore | dëftor
+kushtore | kushtor
+nyje | nyjë
+thonjëza | thonjëz
+kllapa | kllapë
+# ── w59.tsv ──
+fruta | frut
