@@ -14061,3 +14061,10 @@ ndahem | ndaj
 # ── w40.tsv ──
 qoftë | jam
 tjetri | tjetër
+# ── w42.tsv ──
+shpenzime | shpenzim
+kursime | kursim
+# ── w44.tsv ──
+mbeturina | mbeturinë
+baktere | bakter
+kërpudha | kërpudhë

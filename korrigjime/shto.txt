@@ -8477,3 +8477,41 @@ ndërlikuar | adj | complicated
 mbyllur | adj | closed; reserved
 fundit | adj | last; latest
 portokalli | adj | orange (colour)
+# ── w41.tsv ──
+aktore | noun | actress
+galeri | noun | gallery
+epos | noun | epic, epos
+editorial | noun | editorial
+spikere | noun | announcer, newsreader (female)
+# ── w42.tsv ──
+ardhura | noun | income, revenue
+auditim | noun | audit
+transfertë | noun | transfer
+polisë | noun | insurance policy
+kamarier | noun | waiter
+parukier | noun | hairdresser
+fizikan | noun | physicist
+dizajner | noun | designer
+# ── w43.tsv ──
+tablet | noun | tablet (computer)
+dhëna | noun | data
+uebfaqe | noun | website
+maus | noun | mouse (computer)
+kibernetik | adj | cyber
+enkriptim | noun | encryption
+# ── w44.tsv ──
+ngrohje | noun | heating, warming
+ndotje | noun | pollution
+biodiversitet | noun | biodiversity
+rezervat | noun | nature reserve
+habitat | noun | habitat
+# ── w45.tsv ──
+tiran | noun | tyrant
+grabitje | noun | robbery
+grabitës | noun | robber
+# ── w46.tsv ──
+hapëse | noun | opener
+enëlarëse | noun | dishwasher
+thithëse | adj | sucking; vacuum (cleaner)
+komodinë | noun | bedside table
+divan | noun | sofa, divan

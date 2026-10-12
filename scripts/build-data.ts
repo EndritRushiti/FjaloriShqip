@@ -504,8 +504,10 @@ function mapFormsToHeadwords(): { mapped: number; missing: string[] } {
     }
     const e = main.entries[0] ?? entryFor(main, "other", "editor");
     if (!main.entries.some((x) => x.forms?.some((y) => y.form === form))) e.forms = [...(e.forms ?? []), { form, tags: ["editor"] }];
-    // A word an editor added on its own (korrigjime/shto.txt) stays a headword, e.g. the adjective «vdekur» next to «vdes».
-    if (words.get(form)?.entries.some((x) => x.sources.includes("editor"))) continue;
+    // A word an editor added on its own (korrigjime/shto.txt) or a dialect book lists stays a headword,
+    // e.g. the adjective «vdekur» next to «vdes», or the Gheg «mortajë» next to «murtajë».
+    const own = words.get(form)?.entries;
+    if (own?.some((x) => x.sources.includes("editor") || x.senses.some((s) => s.tags?.some((t) => t in DIALECT_TAGS)))) continue;
     words.delete(form);
     mapped++;
   }
