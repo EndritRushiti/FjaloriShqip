@@ -15464,3 +15464,7 @@ gra | grua
 koha | kohë
 # ── w62.tsv ──
 rruge | rrugë
+# ── w65.tsv ──
+ngutem | ngut
+# ── w66.tsv ──
+dasma | dasmë

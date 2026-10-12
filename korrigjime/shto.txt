@@ -8960,3 +8960,14 @@ përmallues | adj | moving, poignant
 shungullues | adj | resounding, booming
 kundërsulmues | adj | counterattacking
 gjallues | adj | invigorating
+# ── w63.tsv ──
+delta | noun | delta
+oaz | noun | oasis
+# ── w64.tsv ──
+qeramist | noun | ceramicist, potter
+qëndistare | noun | embroiderer (female)
+xhamxhi | noun | glazier
+kallfë | noun | journeyman
+barkaxhi | noun | boatman
+lërues | noun | ploughman
+mullixhi | noun | miller
