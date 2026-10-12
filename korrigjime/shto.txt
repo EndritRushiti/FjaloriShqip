@@ -8276,3 +8276,127 @@ vreshtë | noun | vineyard
 vejëri | noun | widowhood
 # ── w29.tsv ──
 pasur | adj | rich, wealthy
+# ── w31b.tsv ──
+kamur | adj | wealthy
+dhimbsur | adj | dear, beloved
+dashur | adj | dear, beloved
+lodhur | adj | tired
+martuar | adj | married
+shqetësuar | adj | worried, uneasy
+kënaqur | adj | satisfied, pleased
+zemëruar | adj | angry
+habitur | adj | surprised, astonished
+ngopur | adj | full, sated; fed up
+arsimuar | adj | educated
+ditur | adj | learned, wise
+trishtuar | adj | sad
+fejuar | adj | engaged (to be married)
+dëshpëruar | adj | desperate, despairing
+moshuar | adj | elderly
+talentuar | adj | talented
+vetmuar | adj | lonely, solitary
+specializuar | adj | specialized
+përkushtuar | adj | dedicated, devoted
+palodhur | adj | tireless
+palëkundur | adj | unwavering, steadfast
+pamposhtur | adj | invincible, unbeaten
+sofistikuar | adj | sophisticated
+privilegjuar | adj | privileged
+komplikuar | adj | complicated
+shkolluar | adj | educated, schooled
+qytetëruar | adj | civilized
+civilizuar | adj | civilized
+kulturuar | adj | cultured
+pasionuar | adj | passionate, keen
+apasionuar | adj | enthusiast, keen
+emocionuar | adj | moved, excited
+tmerruar | adj | terrified
+frikësuar | adj | frightened
+befasuar | adj | surprised
+tensionuar | adj | tense
+shfrenuar | adj | unbridled, wild
+rafinuar | adj | refined
+blinduar | adj | armoured
+korruptuar | adj | corrupt
+shokuar | adj | shocked
+pikëlluar | adj | grieved, sorrowful
+revoltuar | adj | indignant, outraged
+detajuar | adj | detailed
+përbërë | adj | compound, composite
+ndritur | adj | bright, illustrious
+përfolur | adj | much talked-about
+pandehur | noun | defendant
+paidentifikuar | adj | unidentified
+paepur | adj | unbending, inflexible
+# ── w32.tsv ──
+shpërngul | verb | to displace, to deport
+ngulit | verb | to fix firmly, to imprint
+divorcohem | verb | to get divorced
+katandis | verb | to reduce to a sorry state
+aksidentohem | verb | to have an accident
+gjakos | verb | to bloody, to wound
+ngjiz | verb | to curdle; to form, to conceive
+predispozoj | verb | to predispose
+rinis | verb | to restart
+kris | verb | to crack; to go off (a gun)
+thinjem | verb | to go grey
+hidratoj | verb | to hydrate
+hospitalizoj | verb | to hospitalize
+drogohem | verb | to take drugs
+luhatem | verb | to sway, to waver
+spërkat | verb | to sprinkle, to spray
+formalizoj | verb | to formalize
+indoktrinoj | verb | to indoctrinate
+maksimizoj | verb | to maximize
+gazoj | verb | to carbonate
+# ── w33b.tsv ──
+thinjur | adj | grey-haired
+# ── w34.tsv ──
+gris | verb | to tear, to rip
+plasaris | verb | to crack
+rrokullis | verb | to roll (down)
+zhuris | verb | to scorch
+fashis | verb | to quell, to put out
+muros | verb | to wall up
+marros | verb | to drive mad
+babëzitem | verb | to become greedy
+dalldis | verb | to drive into a frenzy
+frustroj | verb | to frustrate
+globalizoj | verb | to globalize
+digjitalizoj | verb | to digitize
+patundur | adj | unshakeable
+papërgatitur | adj | unprepared
+pashuar | adj | unquenchable, undying
+pakushtëzuar | adj | unconditional
+pamerituar | adj | undeserved
+pavendosur | adj | undecided, hesitant
+pakursyer | adj | unsparing
+paarmatosur | adj | unarmed
+pabindur | adj | disobedient
+papërmbajtur | adj | uncontrollable
+papenguar | adj | unhindered
+paçmuar | adj | invaluable, priceless
+palumtur | adj | unhappy
+patrembur | adj | fearless
+papërsosur | adj | imperfect
+pambaruar | adj | unfinished
+pashkolluar | adj | uneducated
+paorganizuar | adj | disorganized
+paftuar | adj | uninvited
+pagdhendur | adj | uncouth; rough-hewn
+patrazuar | adj | undisturbed, calm
+pasosur | adj | endless
+papërkulur | adj | unbending
+parregulluar | adj | unregulated, untidy
+papërlyer | adj | unsullied
+paarsimuar | adj | uneducated
+palëvizur | adj | motionless; untouched
+pathyer | adj | unbroken
+pamësuar | adj | unaccustomed
+padisiplinuar | adj | undisciplined
+pamotivuar | adj | unmotivated
+padashur | adj | unintentional; unloved
+dhembshur | adj | compassionate, tender
+babëzitur | adj | greedy
+djallëzuar | adj | devilish, wicked
+sapomartuar | adj | newly married

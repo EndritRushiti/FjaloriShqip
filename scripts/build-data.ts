@@ -504,6 +504,8 @@ function mapFormsToHeadwords(): { mapped: number; missing: string[] } {
     }
     const e = main.entries[0] ?? entryFor(main, "other", "editor");
     if (!main.entries.some((x) => x.forms?.some((y) => y.form === form))) e.forms = [...(e.forms ?? []), { form, tags: ["editor"] }];
+    // A word an editor added on its own (korrigjime/shto.txt) stays a headword, e.g. the adjective «vdekur» next to «vdes».
+    if (words.get(form)?.entries.some((x) => x.sources.includes("editor"))) continue;
     words.delete(form);
     mapped++;
   }
