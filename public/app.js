@@ -6,6 +6,9 @@
 
   // ── helpers ──
   function isEn() { return html.classList.contains("en"); }
+  /** Word class from the search index (Albanian) in the language the visitor chose. */
+  var POS_EN = { "emër": "noun", "folje": "verb", "mbiemër": "adjective", "ndajfolje": "adverb", "përemër": "pronoun", "numëror": "numeral", "parafjalë": "preposition", "lidhëz": "conjunction", "pasthirrmë": "interjection", "pjesëz": "particle", "përcaktor": "determiner" };
+  function posLabel(p) { return p && POS_EN[p] ? bi(esc(p), POS_EN[p]) : esc(p || ""); }
   function bi(sq, en) { return '<span data-ui="sq">' + sq + '</span><span data-ui="en">' + en + "</span>"; }
   function fold(s) {
     return s.toLowerCase().replace(/ë/g, "e").replace(/ç/g, "c").replace(/[âäà]/g, "a").replace(/[êé]/g, "e").replace(/[îí]/g, "i").replace(/[ôó]/g, "o").replace(/[ûú]/g, "u").replace(/[^a-z]/g, "");
@@ -212,7 +215,7 @@
         active = -1;
         list.innerHTML = rows.map(function (x, i) {
           var r = x.row;
-          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + esc(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + (r[7] ? ' · <span class="loan-tag">' + bi("huazim", "borrowed") + "</span>" : "") + "</small><span>" + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
+          return '<li role="option" data-i="' + i + '"><a href="' + wordUrl(r[0]) + '"><b>' + esc(r[0]) + "</b><small>" + posLabel(r[2]) + (x.form ? " · " + bi("formë e kërkuar", "matching form") : "") + (x.direct ? ' · <span class="direct-tag">' + bi("përkthim", "translation") + "</span>" : "") + (r[7] ? ' · <span class="loan-tag">' + bi("huazim", "borrowed") + "</span>" : "") + "</small><span>" + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") + "</span></a></li>";
         }).join("") + (rows.length ? '<li class="sugg-foot"><a href="' + BASE + "/kerko/?q=" + encodeURIComponent(q.trim()) + '">' + bi("Shiko të gjitha rezultatet për", "See all results for") + " “" + esc(q.trim()) + "” →</a></li>" : "");
         list.hidden = rows.length === 0;
         input.setAttribute("aria-expanded", String(!list.hidden));
@@ -287,7 +290,7 @@
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
             (x.form ? '<span class="wc-form">' + bi("formë e kërkuar", "matching form") + "</span>" : "") +
-            '</span><span class="wc-pos">' + esc(r[2]) + (r[7] ? ' <span class="loan-tag">· ' + bi("huazim", "borrowed") + "</span>" : "") + '</span><span class="wc-gloss">' + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
+            '</span><span class="wc-pos">' + posLabel(r[2]) + (r[7] ? ' <span class="loan-tag">· ' + bi("huazim", "borrowed") + "</span>" : "") + '</span><span class="wc-gloss">' + (!isEn() && r[8] ? esc(r[8]) : r[3] ? esc(r[3]) : '<i class="no-meaning">' + bi("ende pa kuptim", "no meaning yet") + "</i>") +
             // "food" is another meaning of this word (bukë: bread; also food)
             (x.direct && ("|" + r[5] + "|").indexOf("|" + normEnglish(q) + "|") < 0 ? ' · <b class="also">' + bi("edhe", "also") + " “" + esc(q) + "”</b>" : "") + "</span></a></li>";
         };

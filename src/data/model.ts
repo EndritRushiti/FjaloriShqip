@@ -93,7 +93,8 @@ export const ALPHABET = ["a", "b", "c", "ç", "d", "dh", "e", "ë", "f", "g", "g
 
 /** First letter of a word in the Albanian alphabet (digraphs count as one letter). */
 export function firstLetter(word: string): string {
-  const w = word.toLowerCase();
+  // suffixes ("-im"), Gheg nasal vowels ("âsht", "ôsht") and the foreign w ("wc") file under the nearest letter
+  const w = word.toLowerCase().replace(/^-+/, "").replace(/^â/, "a").replace(/^ê/, "e").replace(/^î/, "i").replace(/^ô/, "o").replace(/^û/, "u").replace(/^w/, "v");
   const two = w.slice(0, 2);
   if (ALPHABET.includes(two)) return two;
   const one = w[0] ?? "";

@@ -186,6 +186,7 @@ ${image ? `<meta property="og:image" content="${h(image)}">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="FjaloriShqip — Fjalori i hapur i gjuhës shqipe">` : ""}
 <meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="${asset("favicon.ico")}" sizes="48x48">
 <link rel="icon" href="${asset("favicon.svg")}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="${asset("icon-512.png")}">
 <link rel="manifest" href="${url("/site.webmanifest")}">
