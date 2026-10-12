@@ -365,3 +365,5 @@ currulaq   # pa kuptim të qartë
 # ── n18.tsv ──
 çepka   # formë e paqartë
 shrati   # pa kuptim të qartë
+# ── w6.tsv ──
+glas   # fjalë e huaj

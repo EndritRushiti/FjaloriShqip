@@ -7758,3 +7758,345 @@ zëroj | verb | to reset to zero
 zgjedhoj | verb | to yoke
 zootomi | noun | zootomy
 zhgradim | noun | demotion
+# ── w1.tsv ──
+pra | conj | so, therefore
+etj | other | etc.
+teksa | conj | while, as
+padyshim | adv | undoubtedly
+sidoqoftë | adv | anyway, in any case
+mandej | adv | then, afterwards
+pos | prep | except, besides
+poet | noun | poet
+# ── w2.tsv ──
+rikthej | verb | to bring back
+drejtori | noun | directorate
+ulje | noun | lowering, reduction
+bindje | noun | conviction, belief
+# ── w3.tsv ──
+mur | noun | wall
+veçori | noun | feature, characteristic
+thënie | noun | saying, statement
+dituri | noun | knowledge
+specie | noun | species
+pilot | noun | pilot
+djathtas | adv | to the right
+majtas | adv | to the left
+boll | adv | enough, plenty
+anash | adv | sideways, aside
+ese | noun | essay
+dietë | noun | diet
+përgatitje | noun | preparation
+trashëgimi | noun | heritage, inheritance
+përkrahje | noun | support
+lumturi | noun | happiness
+fotografi | noun | photograph, photography
+bibliografi | noun | bibliography
+domethënës | adj | meaningful
+paluajtshëm | adj | immovable
+përgjigjem | verb | to answer
+përballem | verb | to face, to confront
+diplomaci | noun | diplomacy
+përzierje | noun | mixture
+kapje | noun | capture
+mbyllje | noun | closing
+prishje | noun | breakdown, destruction
+nxitje | noun | encouragement, incitement
+gazetari | noun | journalism
+# ── w4.tsv ──
+rendit | verb | to arrange, to rank
+barabartë | adj | equal
+largohem | verb | to leave, to move away
+mposht | verb | to defeat, to overcome
+pronësi | noun | ownership
+gjendem | verb | to be located, to find oneself
+përgatit | verb | to prepare
+fshehtë | adj | secret, hidden
+nxis | verb | to encourage, to incite
+bashkëshorte | noun | wife
+kredi | noun | credit, loan
+moderoj | verb | to moderate
+qeverisës | adj | governing
+kryeministri | noun | prime minister's office
+pajetë | adj | lifeless
+përputhem | verb | to match, to coincide
+ngrohtë | adj | warm
+hyrës | adj | introductory, entry
+veturë | noun | car
+# ── w5.tsv ──
+fyerje | noun | insult
+stres | noun | stress
+telash | noun | trouble, bother
+rang | noun | rank
+certifikatë | noun | certificate
+patate | noun | potato
+event | noun | event
+link | noun | link
+maturë | noun | school-leaving exam
+juri | noun | jury
+vetmi | noun | loneliness
+dyshimtë | adj | suspicious
+uritur | adj | hungry
+etur | adj | thirsty, eager
+inovativ | adj | innovative
+telefonatë | noun | phone call
+shtypje | noun | pressing, oppression
+regji | noun | directing (film/theatre)
+ceremoni | noun | ceremony
+epidemi | noun | epidemic
+# ── w6.tsv ──
+datë | noun | date
+ide | noun | idea
+pro | adv | pro, in favour
+kah | prep | towards
+provë | noun | test, trial, proof
+fije | noun | thread, strand
+votë | noun | vote
+trofe | noun | trophy
+përkryer | adj | perfect
+polak | noun | Pole
+dardan | noun | Dardanian
+rutinë | noun | routine
+shtim | noun | increase, addition
+bebe | noun | baby
+aparat | noun | apparatus, device
+mama | noun | mum, mom
+dëborë | noun | snow
+senat | noun | senate
+duet | noun | duet
+sharje | noun | swearing, insult
+turbullt | adj | murky, troubled
+kthjellim | noun | clarification
+ngërç | noun | cramp
+përveçëm | adj | proper (noun)
+marinë | noun | navy; seascape
+imtësi | noun | detail
+frang | noun | franc
+klishe | noun | cliché
+sodë | noun | soda
+fidan | noun | seedling, sapling
+shkret | adj | deserted
+doktoreshë | noun | female doctor
+tapet | noun | carpet, rug
+tendë | noun | tent, awning
+luledielli | noun | sunflower
+kërshëri | noun | curiosity
+rilind | verb | to be reborn
+gafë | noun | gaffe
+meze | noun | appetizer
+hup | verb | to lose
+kryevepër | noun | masterpiece
+rastis | verb | to happen by chance
+pështjellim | noun | confusion
+terezi | noun | scales, balance
+harem | noun | harem
+faqebardhë | adj | honourable
+rahat | adj | comfortable
+guaskë | noun | shell
+toskërisht | adv | in Tosk
+njerëzisht | adv | decently
+vlleh | noun | Vlach
+vetëtimë | noun | lightning
+piceri | noun | pizzeria
+spartan | adj | Spartan
+kalama | noun | child, kid
+dokrra | noun | nonsense
+malinj | adj | malignant
+sertë | adj | harsh, stiff
+mirëmëngjesi | interj | good morning
+banket | noun | banquet
+frigoriferik | adj | refrigerated
+tapë | noun | cork, stopper
+çiltërsi | noun | frankness
+kangjellë | noun | railing
+harrim | noun | oblivion
+bërje | noun | making, doing
+bezhë | adj | beige
+florë | noun | flora
+xhip | noun | jeep
+damë | noun | lady; draughts
+mandarin | noun | mandarin
+totem | noun | totem
+bylbyl | noun | nightingale
+shqelm | noun | kick
+pasdreke | noun | afternoon
+pasivitet | noun | passivity
+vjetshëm | adj | last year's
+vers | noun | verse
+elan | noun | zeal, élan
+polemik | adj | polemical
+bidon | noun | jerrycan
+shëtis | verb | to stroll
+norvegjisht | adv | in Norwegian
+kundërthënës | adj | contradictory
+biond | adj | blond
+peqinas | noun | person from Peqin
+lob | noun | lobby
+shpezë | noun | bird
+kuksian | noun | person from Kukës
+trase | noun | route, track
+domini | noun | dominoes
+kumbar | noun | godfather, best man
+pizhame | noun | pyjamas
+reket | noun | racket
+bërllok | noun | rubbish
+maket | noun | scale model
+kiamet | noun | doomsday, havoc
+shujtë | noun | meal, ration
+topograf | noun | surveyor
+usta | noun | master craftsman
+marule | noun | lettuce
+ardhës | noun | newcomer
+mirditas | noun | person from Mirdita
+kalifornian | noun | Californian
+mitrovicas | noun | person from Mitrovica
+rugovas | noun | person from Rugova
+testikul | noun | testicle
+baskisht | adv | in Basque
+harbut | adj | boorish
+anemik | adj | anaemic
+fatbardhë | adj | lucky
+maksimë | noun | maxim
+ekuadorian | noun | Ecuadorian
+bolivian | noun | Bolivian
+sanxhak | noun | sanjak
+marsian | noun | Martian
+mbasandaj | adv | afterwards
+pordh | noun | fart
+fetish | noun | fetish
+eremit | noun | hermit
+trakas | noun | Thracian
+ushtimë | noun | echo, rumble
+ekonom | noun | bursar
+endoskopi | noun | endoscopy
+ftues | adj | inviting
+rrezikues | adj | risky
+aradhë | noun | detachment
+rudinë | noun | mountain meadow
+librar | noun | bookseller
+pasdreke | noun | afternoon
+pens | noun | tweezers
+pisllëk | noun | filth
+# ── w7.tsv ──
+rreptë | adj | strict, severe
+tingëlloj | verb | to sound
+# ── w8.tsv ──
+mull | noun | millet
+pasandaj | adv | afterwards
+pasinqertë | adj | insincere
+karavelë | noun | caravel
+kare | noun | square, check
+mbivendos | verb | to superimpose
+gojëtar | adj | eloquent
+përtejmë | adj | lying beyond, further
+kanarinë | noun | canary
+mamuth | noun | mammoth
+turkoshak | noun | Turkophile (pejorative)
+vonim | noun | delay
+rrokaqiell | noun | skyscraper
+cirkus | noun | circus
+radhas | adv | one after another
+kuleç | noun | festive round loaf
+dritore | noun | small window
+papuç | noun | slipper
+shprish | verb | to tousle, to undo
+lloç | noun | mud, slush
+musaka | noun | moussaka
+neonazist | noun | neo-Nazi
+bozhur | noun | peony
+trop | noun | trope
+kordë | noun | string; chord
+kopan | noun | beater
+pelenë | noun | nappy, diaper
+pllenim | noun | fertilization
+uturimë | noun | rumble
+etan | noun | ethane
+verem | noun | tuberculosis
+esëllt | adj | on an empty stomach; sober
+shullë | noun | sunny spot
+demograf | noun | demographer
+zahire | noun | provisions
+cian | adj | cyan
+pagodë | noun | pagoda
+rrëkajë | noun | rivulet
+sendërtim | noun | realization
+shpërfillshëm | adj | negligible
+ashure | noun | ashure (dessert)
+dunë | noun | dune
+fëstëk | noun | peanut, pistachio
+kapadaillëk | noun | bragging
+ujkonjë | noun | she-wolf
+ganxhë | noun | hook
+savanë | noun | savanna
+hajdutçe | adv | stealthily, like a thief
+varice | noun | varicose vein
+falangë | noun | phalanx
+shpagë | noun | recompense, revenge
+absces | noun | abscess
+karagjozllëk | noun | buffoonery
+silazh | noun | silage
+plëng | noun | property, belongings
+tuhaf | adj | strange
+karajfil | noun | carnation
+kauç | noun | couch
+bulimi | noun | bulimia
+zanatli | noun | craftsman
+bakllave | noun | baklava
+hergjele | noun | herd of horses
+deziluzion | noun | disillusion
+elektrodinamikë | noun | electrodynamics
+peçe | noun | veil
+timpan | noun | eardrum; kettledrum
+briket | noun | briquette
+mulat | noun | mulatto
+tujë | noun | thuja
+mezhdë | noun | boundary strip
+myhyr | noun | seal
+çejz | noun | dowry
+hallvaxhi | noun | halva maker
+karbit | noun | calcium carbide
+pece | noun | cloth, rag
+martinë | noun | single-shot rifle
+dritore | noun | small window
+# ── w9.tsv ──
+tricikël | noun | tricycle
+xhandarmeri | noun | gendarmerie
+ajran | noun | ayran
+kininë | noun | quinine
+shartesë | noun | graft
+shenjtëror | adj | saintly
+serasqer | noun | serasker
+alimentacion | noun | nutrition, alimony
+gracioz | adj | graceful
+lajthishtë | noun | hazel grove
+zekth | noun | gadfly
+bokall | noun | jug
+lambik | noun | still (distilling)
+oktavë | noun | octave
+stallor | adj | stable
+# ── w10.tsv ──
+ristrukturoj | verb | to restructure
+rigjykoj | verb | to retry (in court)
+traumatizoj | verb | to traumatize
+kompiloj | verb | to compile
+konspiroj | verb | to conspire
+natyralizoj | verb | to naturalize
+parapërcaktoj | verb | to predetermine
+parashutoj | verb | to parachute
+ridrejtoj | verb | to redirect
+riemëroj | verb | to reappoint
+rigrupoj | verb | to regroup
+rimodeloj | verb | to remodel
+ripaketoj | verb | to repackage
+shfronësoj | verb | to dethrone
+galvanizoj | verb | to galvanize
+hipotekoj | verb | to mortgage
+katërfishoj | verb | to quadruple
+keqadministroj | verb | to mismanage
+gjoboj | verb | to fine
+zotim | noun | pledge
+komitet | noun | committee
+samit | noun | summit
+vartës | noun | subordinate
+shpërndarës | noun | distributor
+multietnik | adj | multi-ethnic
+gjithëkush | pron | everybody
