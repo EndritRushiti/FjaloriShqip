@@ -380,14 +380,11 @@ function wordPage(w: Word): string {
   facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
 
   const approx = w.entries.some((e) => e.senses.some((x) => x.source === "auto"));
-  const unverified = w.unverified
+  // words without an Albanian description yet; the sources are named only on /burimet/
+  const unverified = w.unverified && !w.description
     ? `<section class="card unverified">
       <h2>${icon.sparkle(18)} ${approx ? bi("Fjalë e re, me kuptim të përafërt", "New word, approximate meaning") : bi("Fjalë e re, ende pa kuptim", "New word, no meaning yet")}</h2>
-      <p>${bi(
-        "Kjo fjalë u gjet automatikisht në fjalorin drejtshkrimor shqip (Hunspell) dhe përdoret në Wikipedia shqip ose në korpusin MaCoCu.",
-        "This word was found automatically in the Albanian spell-checking dictionary (Hunspell) and is used in Albanian Wikipedia or the MaCoCu corpus.",
-      )} ${approx ? bi("Kuptimi më poshtë është i përafërt: është nxjerrë nga fjalët e tjera të fjalorit. Kuptimi i plotë do të shtohet më vonë.", "The meaning below is approximate: it was worked out from other words in the dictionary. A full meaning will be added later.") : bi("Kuptimi do të shtohet më vonë.", "Its meaning will be added later.")}${pos.length ? ` ${bi("Lloji i fjalës është përcaktuar automatikisht nga mbaresa.", "The word class was guessed from its ending.")}` : ""}</p>
-      <p class="muted small">${bi("Licenca e kësaj fjale: GPL-2.0 ose më e re (nga lista e Luan Kelmendit).", "Licence of this word: GPL-2.0-or-later (from Luan Kelmendi's list).")}</p>
+      <p>${approx ? bi("Kuptimi më poshtë është i përafërt. Kuptimi i plotë do të shtohet më vonë.", "The meaning below is approximate. A full meaning will be added later.") : bi("Kuptimi do të shtohet më vonë.", "Its meaning will be added later.")}</p>
     </section>`
     : "";
 
@@ -906,8 +903,8 @@ ${pageHead(
 <section class="card">
   <h2>${bi("Kushtet", "Terms")}</h2>
   <p>${bi(
-    "Të dhënat janë me licencën CC BY-SA 4.0: përmendni \"FjaloriShqip\" dhe burimet (Wiktionary, Wikidata, Wikifjalor). Ju lutemi ruani përgjigjet në memorie (cache) dhe mos bëni mijëra thirrje në sekondë.",
-    "Data is CC BY-SA 4.0: credit \"FjaloriShqip\" and the sources (Wiktionary, Wikidata, Wikifjalor). Please cache responses and avoid thousands of calls per second.",
+    "Të dhënat janë me licencën CC BY-SA 4.0: përmendni \"FjaloriShqip\" dhe burimet e listuara te faqja Burimet. Ju lutemi ruani përgjigjet në memorie (cache) dhe mos bëni mijëra thirrje në sekondë.",
+    "Data is CC BY-SA 4.0: credit \"FjaloriShqip\" and the sources listed on the Sources page. Please cache responses and avoid thousands of calls per second.",
   )}</p>
 </section>
 </div>`;
@@ -973,15 +970,6 @@ ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Alba
     <button type="submit" class="btn btn-primary">${bi("Dërgo mesazhin", "Send message")}</button>
     <p class="contact-status" role="status" aria-live="polite"></p>
   </form>
-</section>
-<section class="section">
-  <header class="section-head"><h2>${bi("Rruga përpara", "Roadmap")}</h2></header>
-  <ol class="roadmap">
-    <li class="done"><b>${bi("Fjalori nga burime të hapura", "Dictionary from open sources")}</b><span>${bi("Kërkimi, familjet e fjalëve, dialektet, API", "Search, word families, dialects, API")}</span></li>
-    <li><b>${bi("Propozime dhe vota", "Suggestions and votes")}</b><span>${bi("Vizitorët propozojnë fjalë, pa llogari", "Visitors suggest words, no account needed")}</span></li>
-    <li><b>${bi("Më shumë fjalë dialektore", "More dialect words")}</b><span>${bi("Burime të reja, pasi të konfirmohen licencat", "New sources, once their licences are confirmed")}</span></li>
-    <li><b>${bi("Emrat, historia, kultura", "Names, history, culture")}</b><span>${bi("Seksione të reja edukative", "New educational sections")}</span></li>
-  </ol>
 </section>`;
   return layout({
     title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
@@ -1058,10 +1046,6 @@ ${items}
 <section class="section">
   <header class="section-head"><h2>${bi("Dialektet e tjera", "Other dialects")}</h2></header>
   <p class="try">${others}</p>
-  <p class="muted small">${bi(
-    "Format vijnë nga Wikifjalori (anglisht dhe shqip) dhe janë ende të pakta për arbërishten dhe arvanitishten; do t'i plotësojmë me burime të tjera të hapura.",
-    "The forms come from Wiktionary (English and Albanian) and are still few for Arbëresh and Arvanitika; we will add more from other open sources.",
-  )}</p>
 </section>`;
   return layout({
     title: `${info.sq} — fjalët dhe format | FjaloriShqip`,
@@ -1236,7 +1220,7 @@ function apiWord(w: Word): object {
       [
         "# FjaloriShqip",
         "",
-        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built only from openly licensed sources (Wiktionary, Wikidata and others) and shows the source of every word. All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
+        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built only from openly licensed sources (Wiktionary, Wikidata and others). All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
         "",
         "Good for: Albanian–English and English–Albanian word lookups, the meaning of an Albanian word in Albanian, Gheg and Tosk forms, verb conjugation, and open Albanian language data for software.",
         "",
