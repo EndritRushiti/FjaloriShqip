@@ -157,6 +157,30 @@
    * Headword rows for a query: the word itself first ("nene" → nënë), then the words it is a form of
    * ("punova" → punoj; "nene" is also a form of ëmë), then the other index matches.
    */
+  /**
+   * An inflected word that is neither a headword nor a listed form ("probleme", "ndeshjen", "procesit"):
+   * strip a common ending (folded: ë → e) and look for the base word. Only used when nothing matches exactly.
+   */
+  var ENDINGS = ["ojme", "ojne", "onte", "ohet", "ohen", "uara", "eve", "ave", "ive", "ish", "rit", "rin", "jet", "jen", "jes", "uar", "ova", "oni", "nte", "nin", "jne", "jme", "it", "in", "ut", "un", "ur", "en", "es", "et", "at", "te", "se", "ne", "ve", "ra", "ri", "ja", "je", "oi", "a", "e", "i", "u", "n", "s", "t"];
+  var foldIndex = null;
+  function guessBase(index, k) {
+    if (k.length < 5) return [];
+    if (!foldIndex) { foldIndex = {}; for (var i = 0; i < index.length; i++) (foldIndex[index[i][1]] = foldIndex[index[i][1]] || []).push(index[i]); }
+    // every base found, the longest stem first: "ndeshjen" → ndeshje before the verb ndesh;
+    // "mësuesit" → mësues and mësuese (ë is folded, so both fit)
+    var hits = [];
+    for (var j = 0; j < ENDINGS.length; j++) {
+      var end = ENDINGS[j];
+      if (k.slice(-end.length) !== end || k.length - end.length < 3) continue;
+      var stem = k.slice(0, -end.length);
+      var bases = [stem, stem + "e", stem + "j", stem + "oj", stem + "ej", stem.replace(/r$/, "er"), stem.replace(/l$/, "el")];
+      for (var b = 0; b < bases.length; b++) if (bases[b] !== k && foldIndex[bases[b]] && hits.indexOf(bases[b]) < 0) hits.push(bases[b]);
+    }
+    var rows = [];
+    hits.sort(function (a, b) { return b.length - a.length; }).slice(0, 3).forEach(function (h) { rows = rows.concat(foldIndex[h]); });
+    return rows;
+  }
+
   function lookup(q, limit) {
     return Promise.all([loadIndex(), formMatches(q)]).then(function (r) {
       var index = r[0], forms = r[1], seen = {}, out = [];
@@ -167,6 +191,7 @@
       var byWord = null;
       if (forms.length) { byWord = {}; for (var i = 0; i < index.length; i++) byWord[index[i][0]] = index[i]; }
       forms.forEach(function (w) { add(byWord[w], true, false); });
+      if (!out.length) guessBase(index, k).forEach(function (row) { add(row, true, false); });
       found.forEach(function (x) { if (out.length < limit) add(x.row, false, x.direct); });
       return out.slice(0, limit);
     });
