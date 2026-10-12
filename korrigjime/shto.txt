@@ -8245,3 +8245,16 @@ violinist | noun | violinist
 kofin | noun | large wicker basket
 tugë | noun | sorrow, grief
 varelë | noun | barrel
+# ── w19.tsv ──
+dorëzanë | noun | guarantor
+dorëzani | noun | guarantee, surety
+# ── w20.tsv ──
+vjedhje | noun | theft
+njëri | pron | one (of them)
+# ── w21.tsv ──
+harushë | noun | she-bear, bear
+këngëtare | noun | singer (female)
+havan | noun | mortar (bowl)
+# ── w22.tsv ──
+fshatare | noun | villager (female), peasant woman
+këshilltare | noun | adviser (female), councillor
