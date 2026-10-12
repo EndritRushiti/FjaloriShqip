@@ -9023,3 +9023,21 @@ qebaptore | noun | kebab shop
 njerëzishëm | adj | decent, humane
 përçarës | adj | divisive
 përhapës | noun | propagator, spreader
+# ── w76.tsv ──
+mirëpritje | noun | welcome, reception
+kartëvizitë | noun | business card
+vetëkritikë | noun | self-criticism
+arrëmyshk | noun | nutmeg
+fillimjavë | noun | beginning of the week
+kundërgoditje | noun | counterstrike, counterblow
+dorëzanës | noun | guarantor
+videoprojektor | noun | video projector
+draftligj | noun | draft law
+jetëshpëtues | adj | life-saving
+zemërbutësi | noun | tender-heartedness
+akullthyese | noun | icebreaker
+labërishte | noun | the Lab dialect
+blegërimë | noun | bleat
+ranglistë | noun | ranking list
+poshtëshënuar | adj | undersigned, below-mentioned
+gjelltore | noun | eatery, canteen
