@@ -871,6 +871,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       auto: list.filter((w) => w.sources.includes("auto")).length,
       "meyer-1891": list.filter((w) => w.sources.includes("meyer-1891")).length,
       "jungg-1895": list.filter((w) => w.sources.includes("jungg-1895")).length,
+      "rossi-1875": list.filter((w) => w.sources.includes("rossi-1875")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,

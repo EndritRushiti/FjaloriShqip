@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875";
 
 export interface SourceInfo {
   id: SourceId;
@@ -186,6 +186,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Etimologjitë dhe krahasimet me gjuhët e tjera nuk merren.",
       en: "The etymologies and comparisons with other languages are not used.",
+    },
+  },
+  "rossi-1875": {
+    id: "rossi-1875",
+    name: "Francesco Rossi da Montalto, Vocabolario epirotico-italiano (Romë 1875)",
+    publisher: "Francesco Rossi da Montalto, Propaganda Fide, Romë. Skanuar në Internet Archive",
+    url: "https://archive.org/details/rossi-vocabolario-italiano-epirotico-epirotico-italiano",
+    downloadUrl: "https://archive.org/details/rossi-vocabolario-italiano-epirotico-epirotico-italiano",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Disa forma gege që ndryshojnë nga gjuha standarde, secila e lidhur me fjalën standarde përkatëse; fjalët kthehen nga drejtshkrimi i vjetër në atë të sotëm dhe kuptimet përkthehen nga italishtja. Vepra është në domen publik.",
+      en: "A few Gheg forms that differ from the standard language, each linked to its standard word; the words are converted from the old spelling into today's and the meanings translated from Italian. The work is in the public domain.",
+    },
+    notUsed: {
+      sq: "Fjalët e njëjta me gjuhën standarde, fjalët e huaja italiane dhe kuptimet italisht nuk merren.",
+      en: "Words identical to the standard language, Italian loanwords and the Italian meanings are not used.",
     },
   },
   "jungg-1895": {

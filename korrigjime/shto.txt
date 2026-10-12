@@ -8971,3 +8971,5 @@ kallfë | noun | journeyman
 barkaxhi | noun | boatman
 lërues | noun | ploughman
 mullixhi | noun | miller
+# ── w67.tsv ──
+armike | noun | enemy (female)
