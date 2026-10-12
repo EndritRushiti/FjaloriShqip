@@ -1,0 +1,86 @@
+# Forma të lakuara a të shquara që nuk janë fjalë më vete: shfaqen si forma të fjalës kryesore.
+# Inflected or definite forms that are not words of their own: they become forms of the main word.
+# Formati / format:   forma | fjala kryesore   (pas # shkruani arsyen / the reason after #)
+
+# trajta të shquara / definite forms
+paqja | paqe
+galaktika | galaktikë
+kafeja | kafe
+satanizmi | satanizëm
+urtësinë | urtësi
+dhet | dhe              # vendore / locative
+kryeqyteteve | kryeqytet
+zoq | zog              # shumës dialektor / dialect plural
+zoqtë | zog
+vneshtari | vneshtar
+çapitem | çapit        # trajtë vetvetore / mediopassive
+vaftë | shkoj          # dëshirore / optative
+
+# drejtshkrim i gabuar / misspellings
+eshte | jam              # «është» është formë e «jam»
+metode | metodë
+ndes | ndez
+# ── n1.tsv ──
+madhe | madh
+numri | numër
+shteti | shtet
+njeriu | njeri
+brendshme | brendshëm
+ditës | ditë
+shum | shumë
+gjeografia | gjeografi
+katolike | katolik
+çuar | çoj
+du | dua
+die | dje
+gjeti | gjej
+myslimane | mysliman
+secila | secili
+natyra | natyrë
+nxor | nxjerr
+dora | dorë
+këqij | keq
+njërën | një
+këngëtare | këngëtar
+ndërhyrë | ndërhyj
+udhëhoq | udhëheq
+qi | që
+çojë | çoj
+çeke | çek
+mirëprit | mirëpres
+secilën | secili
+mbidetare | mbidetar
+bo | bëj
+prirej | prirem
+ushqye | ushqej
+ajri | ajër
+blloqe | bllok
+suaj | juaj
+njohim | njoh
+ën | në
+fjet | fle
+# ── n2.tsv ──
+ndërmerr | ndërmarr
+tjetrës | tjetër
+ndërmor | ndërmarr
+harqe | hark
+përpoqën | përpiqem
+shërbye | shërbej
+dalim | dal
+shpërthye | shpërthej
+disqe | disk
+varf | varfër
+askënd | askush
+ëma | ëmë
+ce | pse
+bardh | bardhë
+përkisni | përkas
+përcoll | përcjell
+ndërprit | ndërpres
+zbret | zbres
+secilës | secili
+njërës | një
+ndiz | ndez
+lidhëse | lidhës
+vodh | vjedh
+fur | fus

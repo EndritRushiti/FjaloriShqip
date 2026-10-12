@@ -29,3 +29,42 @@ ndo       # pjesë e "ndonjë", jo fjalë
 ale       # jo fjalë shqipe
 austro    # parashtesë (austro-hungarez)
 paçavure  # paçavurë (shumës)
+
+# zhargon i kthyer (back slang), jo fjalë të gjuhës
+ciliop
+jogë
+kemër
+op
+# trajta të lakuara të një shprehjeje
+shpejtësinë e dritës
+shpejtësisë së dritës
+e dielë
+# ── n1.tsv ──
+grand   # fjalë e huaj (Grand Prix)
+shqiptaro   # pjesë e fjalëve të përbëra (shqiptaro-amerikan)
+serbo   # pjesë e fjalëve të përbëra (serbo-kroatisht)
+sul   # pa kuptim të qartë
+union   # fjalë e huaj
+lik   # pa kuptim të qartë
+iso   # shkurtim i huaj
+# ── n2.tsv ──
+trans   # parashtesë e huaj
+greko   # pjesë e fjalëve të përbëra (greko-romak)
+tak   # pa kuptim të qartë
+android   # emër marke
+socio   # pjesë e fjalëve të përbëra
+anglo   # pjesë e fjalëve të përbëra
+pseudo   # parashtesë
+sabri   # emër vetjak
+tend   # pa kuptim të qartë
+spiro   # emër vetjak
+astrit   # emër vetjak
+facto   # pjesë e shprehjes latine «de facto»
+sidë   # pa kuptim të qartë
+bot   # fjalë e huaj
+zhvill   # pa kuptim të qartë
+spi   # pa kuptim të qartë
+iliro   # pjesë e fjalëve të përbëra
+taulant   # emër vetjak
+politiko   # pjesë e fjalëve të përbëra
+linux   # emër vetjak (sistem operativ)

@@ -488,3 +488,567 @@ pjesor | adj | partial, partitive
 pakënaqur | adj | dissatisfied
 pashkelur | adj | untrodden, inviolate
 kriptomonedhë | noun | cryptocurrency
+# ── n1.tsv ──
+njohur | adj | known, famous
+përmes | prep | through, by means of
+ndonjë | pron | any, some
+paraqit | verb | to present, to show
+përmend | verb | to mention
+hapur | adj | open
+veçanërisht | adv | especially
+sikur | conj | as if, if
+amerikan | noun | American
+fakt | noun | fact
+grup | noun | group
+referoj | verb | to report, to refer
+gol | noun | goal
+rom | noun | Roma person; rum
+profesional | adj | professional
+derisa | conj | until, since
+synoj | verb | to aim
+person | noun | person
+tradicional | adj | traditional
+shëndetësor | adj | health-related
+karrierë | noun | career
+përgjithësi | noun | generality
+mirëpo | conj | but, however
+sigurt | adj | safe, sure
+akuzoj | verb | to accuse
+mundësoj | verb | to enable
+kushtetues | adj | constitutional
+rajonal | adj | regional
+deputet | noun | member of parliament
+akuzë | noun | accusation
+lider | noun | leader
+përpjekje | noun | effort, attempt
+sapo | adv | just, as soon as
+interesoj | verb | to interest
+brendshëm | adj | internal, inner
+dikur | adv | once, formerly
+konsiderueshëm | adj | considerable
+serioz | adj | serious
+përshtatshëm | adj | suitable
+kompani | noun | company
+zgjedhor | adj | electoral
+përreth | adv | around
+urban | adj | urban
+mu | adv | exactly, right
+real | adj | real
+shëndetësi | noun | health care
+zgjerim | noun | expansion
+aplikoj | verb | to apply
+profil | noun | profile
+secili | pron | each
+karakteristik | adj | characteristic
+monark | noun | monarch
+modern | adj | modern
+masiv | adj | massive
+premier | noun | prime minister
+sikurse | conj | just as
+origjinë | noun | origin
+mëtejshëm | adj | further
+mbas | prep | after, behind
+format | noun | format
+gjithsesi | adv | anyway
+pasqyroj | verb | to reflect
+ekzekutiv | adj | executive
+futbollist | noun | footballer
+konkret | adj | concrete
+vendas | noun | local, native
+kanton | noun | canton
+universitar | adj | university
+kualifikoj | verb | to qualify
+argumentoj | verb | to argue
+ndërkaq | adv | meanwhile
+hershëm | adj | early
+përkatësisht | adv | respectively
+sport | noun | sport
+mëvonshëm | adj | later
+objekt | noun | object
+gjithsej | adv | in total
+debutim | noun | debut
+vendbanim | noun | settlement
+pozitiv | adj | positive
+direkt | adv | directly
+dispozicion | noun | disposal
+vështirësi | noun | difficulty
+kolon | noun | colonist
+integroj | verb | to integrate
+sulltan | noun | sultan
+projektoj | verb | to design, to project
+relativisht | adv | relatively
+agim | noun | dawn
+dhimbje | noun | pain
+perandorak | adj | imperial
+profesionist | noun | professional
+rrethuar | adj | surrounded
+patriot | noun | patriot
+kundrejt | prep | towards, against
+akt | noun | act
+njëherë | adv | once
+titulloj | verb | to entitle
+gjyqësor | adj | judicial
+fokus | noun | focus
+shumtë | adj | numerous
+juglindor | adj | southeastern
+fresk | noun | coolness
+kryesoj | verb | to chair, to lead
+stil | noun | style
+kundërt | adj | opposite
+promovoj | verb | to promote
+kontribut | noun | contribution
+emocional | adj | emotional
+mëposhtëm | adj | following
+mbrapa | adv | behind
+status | noun | status
+plus | noun | plus
+thuajse | adv | almost
+përkushtoj | verb | to dedicate
+funksional | adj | functional
+menaxhoj | verb | to manage
+dozë | noun | dose
+gjatësi | noun | length
+xhiroj | verb | to film
+dokumentar | noun | documentary
+efikas | adj | efficient
+personalisht | adv | personally
+sesi | adv | how
+përjetshëm | adj | eternal
+veçse | conj | except that
+bankar | adj | banking
+presidencial | adj | presidential
+disponueshëm | adj | available
+test | noun | test
+ndarje | noun | division, separation
+gradualisht | adv | gradually
+nacional | adj | national
+katolik | noun | Catholic
+konkretisht | adv | specifically
+suprem | adj | supreme
+humanitar | adj | humanitarian
+fermer | noun | farmer
+përkundër | prep | despite
+pedagog | noun | lecturer
+depresion | noun | depression
+imponoj | verb | to impose
+sado | adv | however much
+monitorim | noun | monitoring
+banuar | adj | inhabited
+korporatë | noun | corporation
+detajoj | verb | to detail
+pafaj | adj | innocent
+komercial | adj | commercial
+normalisht | adv | normally
+italisht | adv | in Italian
+mbretërim | noun | reign
+pension | noun | pension
+përgjithmonë | adv | forever
+redaktoj | verb | to edit
+teorik | adj | theoretical
+fenomen | noun | phenomenon
+mit | noun | myth
+çfarëdo | pron | whatever
+forum | noun | forum
+respektivisht | adv | respectively
+hero | noun | hero
+seminar | noun | seminar
+monetar | adj | monetary
+saqë | conj | so that
+seriozisht | adv | seriously
+fatos | noun | brave lad
+përkatës | adj | respective
+kosto | noun | cost
+unik | adj | unique
+klasik | adj | classic
+favorshëm | adj | favourable
+spektakël | noun | spectacle
+turistik | adj | tourist
+gjeneroj | verb | to generate
+posaçërisht | adv | especially
+partiak | adj | party
+mesatarisht | adv | on average
+kontaktoj | verb | to contact
+helen | noun | Hellene
+komandoj | verb | to command
+fiks | adj | fixed
+realisht | adv | really
+kualifikues | adj | qualifying
+panoramë | noun | panorama
+pasmë | adj | rear
+mësipërm | adj | above
+perceptoj | verb | to perceive
+përkujtoj | verb | to commemorate
+jugosllav | adj | Yugoslav
+eksploroj | verb | to explore
+organizativ | adj | organizational
+jehoj | verb | to echo
+uniform | adj | uniform
+konsideratë | noun | consideration
+organ | noun | organ
+vizual | adj | visual
+audio | adj | audio
+njëfarë | pron | some kind of
+ilegal | adj | illegal
+komedi | noun | comedy
+burgim | noun | imprisonment
+mirënjohur | adj | well-known
+portretizoj | verb | to portray
+radhazi | adv | in a row
+mobil | adj | mobile
+filozofik | adj | philosophical
+animoj | verb | to animate
+metropolitan | adj | metropolitan
+tender | noun | tender
+delikat | adj | delicate
+tepërt | adj | excessive
+dytësor | adj | secondary
+garoj | verb | to compete
+demonstroj | verb | to demonstrate
+diskutueshëm | adj | debatable
+krenar | adj | proud
+praktikisht | adv | practically
+vazhdimësi | noun | continuity
+bibël | noun | Bible
+integrim | noun | integration
+klimë | noun | climate
+markoj | verb | to mark
+luksoz | adj | luxurious
+teknikë | noun | technique
+nismë | noun | initiative
+dikurshëm | adj | former
+lirik | adj | lyrical
+përkohësisht | adv | temporarily
+shpaloj | verb | to unfold
+dimension | noun | dimension
+ekskluziv | adj | exclusive
+popullarizoj | verb | to popularize
+poshtëm | adj | lower
+efektiv | adj | effective
+ngaqë | conj | because
+spektër | noun | spectrum
+penallti | noun | penalty
+antifashist | adj | antifascist
+primar | adj | primary
+tanimë | adv | already
+simbolizoj | verb | to symbolize
+përparësi | noun | priority, advantage
+monitoroj | verb | to monitor
+rastësishëm | adj | random
+befasoj | verb | to surprise
+opinion | noun | opinion
+apostull | noun | apostle
+dominues | adj | dominant
+folklorik | adj | folkloric
+asokohe | adv | at that time
+belg | noun | Belgian
+prezent | adj | present
+shumëfish | adv | manifold
+reprezentacion | noun | representation
+mbidetar | adj | above sea level
+# ── n2.tsv ──
+bllok | noun | block
+industri | noun | industry
+magjistër | noun | master (degree holder)
+zotoj | verb | to pledge
+internoj | verb | to intern
+bazilikë | noun | basilica
+brendësi | noun | interior
+skocez | noun | Scot, Scottish
+përkoj | verb | to coincide
+belgjik | adj | Belgian
+larmë | adj | multicoloured
+pretendim | noun | claim
+aplikacion | noun | application, app
+sipërm | adj | upper
+komplet | noun | set, complete
+legjitim | adj | legitimate
+sakrificë | noun | sacrifice
+hungarez | noun | Hungarian
+fjalim | noun | speech
+progresiv | adj | progressive
+bruto | adj | gross
+nëntokësor | adj | underground
+shifër | noun | digit, cipher
+kuqezi | adj | red and black
+racional | adj | rational
+korrekt | adj | correct
+përmbyll | verb | to conclude
+postar | noun | postman
+hyjneshë | noun | goddess
+rizë | noun | headscarf
+gjakoj | verb | to bloody
+solo | adv | solo
+shpërndarje | noun | distribution
+imagjinar | adj | imaginary
+mbrapsht | adv | backwards
+lirshëm | adj | loose, free
+rezolutë | noun | resolution
+ngadaltë | adj | slow
+dashamir | adj | well-wishing
+albanologjik | adj | Albanological
+listoj | verb | to list
+dërrmues | adj | crushing
+këtillë | adj | such as this
+gard | noun | fence
+papranueshëm | adj | unacceptable
+korrespondoj | verb | to correspond
+abc | noun | ABC
+muharrem | noun | Muharram
+opsion | noun | option
+prestigjioz | adj | prestigious
+zviceran | noun | Swiss
+kod | noun | code
+rekrutoj | verb | to recruit
+mesjetar | adj | medieval
+protestoj | verb | to protest
+filmik | adj | film
+konventë | noun | convention
+rëndom | adv | usually
+çliruar | adj | liberated
+mangësi | noun | shortcoming
+bateri | noun | battery
+institucional | adj | institutional
+kandidoj | verb | to run for office
+autentik | adj | authentic
+pasuniversitar | adj | postgraduate
+transport | noun | transport
+negocioj | verb | to negotiate
+parathënë | noun | foreword
+periferi | noun | periphery
+solidar | adj | solidary
+kamp | noun | camp
+përpiloj | verb | to compile
+blindoj | verb | to armour
+princip | noun | principle
+ekuivalent | adj | equivalent
+shtrirje | noun | extent
+intervistoj | verb | to interview
+sfond | noun | background
+obligoj | verb | to oblige
+ueb | noun | web
+dizajnoj | verb | to design
+kimi | noun | chemistry
+përditshëm | adj | daily
+bust | noun | bust
+analog | adj | analogous, analogue
+këndvështrim | noun | point of view
+pushkatoj | verb | to execute by shooting
+revolt | noun | revolt
+saktësi | noun | accuracy
+arkitektonik | adj | architectural
+fejoj | verb | to betroth
+komplikoj | verb | to complicate
+njëanshëm | adj | one-sided
+antishqiptar | adj | anti-Albanian
+formuloj | verb | to formulate
+kanalizim | noun | sewerage
+dosje | noun | file, folder
+publicistik | adj | journalistic
+privatësi | noun | privacy
+devotshëm | adj | devout
+dyfishoj | verb | to double
+gjerësi | noun | width
+sikundër | conj | just as
+shkathtësi | noun | skill, agility
+manifestoj | verb | to manifest
+disiplinor | adj | disciplinary
+sezonal | adj | seasonal
+presidencë | noun | presidency
+kufitar | adj | border
+premte | noun | Friday
+vonesë | noun | delay
+anasjelltas | adv | vice versa
+lord | noun | lord
+sagë | noun | saga
+paralelisht | adv | in parallel
+virus | noun | virus
+tokësor | adj | terrestrial
+famëkeq | adj | notorious
+vulos | verb | to seal
+kuadro | noun | cadres
+paraqis | verb | to present
+varësisht | adv | depending
+paraardhës | noun | predecessor
+rinovoj | verb | to renovate
+mafioz | adj | mafia
+homazh | noun | homage
+fisnor | adj | tribal
+teologjik | adj | theological
+garnizon | noun | garrison
+totalisht | adv | totally
+madhëroj | verb | to glorify
+kujtesë | noun | memory
+gjithëpërfshirës | adj | all-inclusive
+kopertinë | noun | cover
+panel | noun | panel
+dekoratë | noun | decoration
+parashkollor | adj | preschool
+mikpritje | noun | hospitality
+olimpik | adj | Olympic
+paqëndrueshëm | adj | unstable
+polar | adj | polar
+kësisoj | adv | thus
+nacionalçlirimtar | adj | national-liberation
+kimik | adj | chemical
+epror | noun | superior
+periferik | adj | peripheral
+profesionalizëm | noun | professionalism
+transparencë | noun | transparency
+momentalisht | adv | currently
+prezencë | noun | presence
+mistik | adj | mystical
+iniciativë | noun | initiative
+konvencional | adj | conventional
+pijshëm | adj | drinkable
+ndritshëm | adj | bright
+diagnostikoj | verb | to diagnose
+konstatim | noun | finding
+normë | noun | norm
+keqpërdor | verb | to misuse
+tubim | noun | rally
+hekurt | adj | iron
+adekuat | adj | adequate
+mitologjik | adj | mythological
+bluz | noun | blues
+faunë | noun | fauna
+faktoj | verb | to prove
+omega | noun | omega
+përgjegjshëm | adj | responsible
+gotik | adj | Gothic
+paralel | adj | parallel
+shkurtimisht | adv | briefly
+start | noun | start
+rrethues | adj | surrounding
+arrest | noun | arrest
+tamam | adv | exactly
+set | noun | set
+rikuperoj | verb | to recover
+arbitër | noun | referee
+teatror | adj | theatrical
+termik | adj | thermal
+sekuencë | noun | sequence
+procedim | noun | prosecution
+disiplinë | noun | discipline
+panumërt | adj | countless
+përmbajtur | adj | restrained
+diskurs | noun | discourse
+apel | noun | appeal
+farmaceutik | adj | pharmaceutical
+goxha | adv | quite
+modeloj | verb | to model
+rihap | verb | to reopen
+mishëroj | verb | to embody
+deritanishëm | adj | so far
+specifikim | noun | specification
+kolektiv | noun | collective
+ekstrem | adj | extreme
+arbëror | adj | Arbër
+esencial | adj | essential
+privoj | verb | to deprive
+linear | adj | linear
+potencialisht | adv | potentially
+debutues | noun | debutant
+edukatë | noun | manners
+çrregullim | noun | disorder
+kirurgjikal | adj | surgical
+negociatë | noun | negotiation
+ngjyroj | verb | to colour
+asistoj | verb | to assist
+përlesh | verb | to clash
+inicioj | verb | to initiate
+stop | interj | stop
+japonisht | adv | in Japanese
+legalizim | noun | legalization
+minoj | verb | to mine
+shtunë | noun | Saturday
+auto | noun | car
+diktat | noun | dictate
+gjimnaz | noun | high school
+kriminel | noun | criminal
+testim | noun | testing
+oqeanik | adj | oceanic
+transportues | noun | carrier
+maksimum | noun | maximum
+zyrtarizoj | verb | to formalize
+zbarkoj | verb | to land
+porse | conj | but
+tmerroj | verb | to terrify
+sinqerisht | adv | sincerely
+diametër | noun | diameter
+memorie | noun | memory
+fin | adj | fine
+sponsorizoj | verb | to sponsor
+trafikant | noun | trafficker
+gjersa | conj | until
+bujshëm | adj | sensational
+nesërm | adj | tomorrow's
+solid | adj | solid
+iluminizëm | noun | Enlightenment
+antologji | noun | anthology
+madhërishëm | adj | majestic
+turizëm | noun | tourism
+dishepull | noun | disciple
+anëtarësoj | verb | to enrol
+elitar | adj | elite
+perfekt | adj | perfect
+emocionues | adj | moving
+transmetues | noun | broadcaster
+hop | interj | hop
+marshoj | verb | to march
+komplot | noun | plot
+procedoj | verb | to proceed
+miniaturë | noun | miniature
+figuroj | verb | to appear
+kor | noun | choir
+fatmirësisht | adv | fortunately
+venedikas | noun | Venetian
+fals | adj | false
+kontrollues | noun | controller
+bojkot | noun | boycott
+mysafir | noun | guest
+faktikisht | adv | actually
+distancoj | verb | to distance
+kulmoj | verb | to culminate
+medicinë | noun | medicine
+mozaik | noun | mosaic
+pellazg | noun | Pelasgian
+minerar | adj | mineral
+programoj | verb | to program
+veto | noun | veto
+prodhimtar | adj | productive
+stad | noun | stadium
+psikik | adj | psychic
+akreditoj | verb | to accredit
+trefish | adv | threefold
+bazik | adj | basic
+mitik | adj | mythical
+çifte | noun | double-barrelled gun
+prezantues | noun | presenter
+republikan | adj | republican
+plenar | adj | plenary
+përmbledh | verb | to summarize
+vështirësoj | verb | to hinder
+stilistik | adj | stylistic
+kryengritës | noun | rebel
+religjioz | adj | religious
+aksidentalisht | adv | accidentally
+dentar | adj | dental
+emërtim | noun | designation
+laboratorik | adj | laboratory
+ndërmjetësoj | verb | to mediate
+gueril | noun | guerrilla
+reportazh | noun | report
+fakultet | noun | faculty
+portik | noun | portico
+solemn | adj | solemn
+kardiovaskular | adj | cardiovascular
+prapambetur | adj | backward
+enciklopedik | adj | encyclopedic
+evoluoj | verb | to evolve
+përgatitor | adj | preparatory
+stërvitor | adj | training
+rikuperim | noun | recovery
+sintetik | adj | synthetic
+dysheme | noun | floor
+kanos | verb | to threaten
+urbanistik | adj | urban-planning

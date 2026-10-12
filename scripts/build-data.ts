@@ -472,6 +472,44 @@ function readWordList(file: string): string[] {
 /** korrigjime/hiq.txt: words removed from all sources. */
 const readRemoveList = () => readWordList("hiq.txt");
 
+/**
+ * korrigjime/forma.txt: "form | main word" — inflected or definite forms (madhe → madh, numri → numër)
+ * stop being headwords of their own and become forms of their main word, so search still finds them.
+ */
+function mapFormsToHeadwords(): { mapped: number; missing: string[] } {
+  const f = path.join(process.cwd(), "korrigjime", "forma.txt");
+  if (!fs.existsSync(f)) return { mapped: 0, missing: [] };
+  let mapped = 0;
+  const missing: string[] = [];
+  for (const raw of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+    const line = raw.replace(/#.*/, "").trim();
+    if (!line) continue;
+    const [form, head] = line.split("|").map((x) => x.trim().toLowerCase());
+    const main = head ? words.get(head) : undefined;
+    if (!form || !main) {
+      if (form && head) missing.push(`${form} → ${head}`);
+      continue;
+    }
+    const e = main.entries[0] ?? entryFor(main, "other", "editor");
+    if (!main.entries.some((x) => x.forms?.some((y) => y.form === form))) e.forms = [...(e.forms ?? []), { form, tags: ["editor"] }];
+    words.delete(form);
+    mapped++;
+  }
+  return { mapped, missing };
+}
+
+/** Machine-guessed English meanings are dropped once a word has a checked Albanian description. */
+function dropGuessedMeanings(): number {
+  let n = 0;
+  for (const w of words.values()) {
+    if (!w.description || !w.sources.includes("auto")) continue;
+    for (const e of w.entries) e.senses = e.senses.filter((s) => s.source !== "auto");
+    w.sources = w.sources.filter((s) => s !== "auto");
+    n++;
+  }
+  return n;
+}
+
 // ── usage counts (Wikipedia + MaCoCu) ───────────────────────────────────────
 /** Word counts made by scripts/word-frequency.ts (derived/frekuenca-<source>.json). */
 function readCounts(source: "wikipedia" | "macocu"): Record<string, number> {
@@ -732,6 +770,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const removed = readRemoveList();
   for (const r of removed) words.delete(r);
   console.log(`corrections: ${removed.length} words removed (korrigjime/hiq.txt)`);
+  const mapped = mapFormsToHeadwords();
+  console.log(`corrections: ${mapped.mapped} inflected forms mapped to their main word (korrigjime/forma.txt)${mapped.missing.length ? `; main word missing for: ${mapped.missing.join(", ")}` : ""}`);
   const vulgar = removeVulgar();
   console.log(`vulgar: ${vulgar.words} words and ${vulgar.senses} vulgar meanings removed (korrigjime/fyese.txt)`);
 
@@ -740,6 +780,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
 
   // Short Albanian descriptions (pershkrime/pershkrime.tsv)
   console.log(`descriptions: ${addDescriptions()} words have an Albanian description`);
+  console.log(`approximate meanings: ${dropGuessedMeanings()} guessed English meanings dropped (the word has an Albanian description)`);
   // Dialect forms without a description of their own take their standard word's: "Formë gege e fjalës nënë: …"
   const DIALECT_ADJ: Record<Dialect, string> = { gheg: "gege", tosk: "toske", arberesh: "arbëreshe", arvanitika: "arvanitase" };
   let fromStandard = 0;
