@@ -252,3 +252,116 @@ mesto   # pa kuptim të qartë
 poetic   # fjalë e huaj
 rund   # pa kuptim të qartë
 zhelinë   # pa kuptim të qartë
+# ── n10.tsv ──
+melekuqe   # pa kuptim të qartë
+moralo   # pjesë e fjalëve të përbëra
+otra   # pa kuptim të qartë
+ermi   # pa kuptim të qartë
+espada   # fjalë e huaj
+xhokaxhi   # pa kuptim të qartë
+elidon   # emër vetjak
+kardashi   # pa kuptim të qartë
+çeço   # pa kuptim të qartë
+avenir   # fjalë e huaj
+# ── n11.tsv ──
+valer   # pa kuptim të qartë
+kalesë   # pa kuptim të qartë
+melanit   # pa kuptim të qartë
+amid   # pa kuptim të qartë
+autobot   # fjalë e huaj
+kalush   # pa kuptim të qartë
+prog   # pa kuptim të qartë
+gunar   # emër vetjak
+temin   # pa kuptim të qartë
+buzo   # pa kuptim të qartë
+falna   # pa kuptim të qartë
+monarko   # pjesë e fjalëve të përbëra
+viroi   # pa kuptim të qartë
+maksuell   # emër vetjak
+zemzemit   # pa kuptim të qartë
+aho   # pa kuptim të qartë
+krol   # pa kuptim të qartë
+liktorit   # pa kuptim të qartë
+morf   # pa kuptim të qartë
+# ── n12.tsv ──
+carica   # pa kuptim të qartë
+domani   # fjalë e huaj
+proteus   # emër vetjak
+zano   # pa kuptim të qartë
+ermes   # pa kuptim të qartë
+ogi   # pa kuptim të qartë
+aed   # pa kuptim të qartë
+shil   # pa kuptim të qartë
+opt   # pa kuptim të qartë
+shoshone   # emër vetjak
+toç   # pa kuptim të qartë
+usi   # pa kuptim të qartë
+# ── n13.tsv ──
+hikrre   # pa kuptim të qartë
+lulës   # pa kuptim të qartë
+muko   # pa kuptim të qartë
+ruc   # pa kuptim të qartë
+çarkaxhiu   # pa kuptim të qartë
+çipës   # pa kuptim të qartë
+stom   # pa kuptim të qartë
+brige   # pa kuptim të qartë
+celestine   # emër vetjak
+yeu   # pa kuptim të qartë
+glance   # fjalë e huaj
+bruç   # pa kuptim të qartë
+crank   # fjalë e huaj
+hikrrës   # pa kuptim të qartë
+kariq   # pa kuptim të qartë
+materialo   # pjesë e fjalëve të përbëra
+munk   # pa kuptim të qartë
+operativo   # pjesë e fjalëve të përbëra
+# ── n14.tsv ──
+merua   # formë e paqartë
+homicide   # fjalë e huaj
+melaqe   # pa kuptim të qartë
+romantiko   # pjesë e fjalëve të përbëra
+torën   # pa kuptim të qartë
+virua   # formë e paqartë
+oreshkë   # pa kuptim të qartë
+pneuma   # fjalë e huaj
+silone   # emër vetjak
+jonatan   # emër vetjak
+mosho   # pa kuptim të qartë
+penalo   # pa kuptim të qartë
+rebelo   # pa kuptim të qartë
+# ── n15.tsv ──
+birbo   # pa kuptim të qartë
+feudalo   # pjesë e fjalëve të përbëra
+istëm   # pa kuptim të qartë
+ofisit   # formë e paqartë
+publicistiko   # pjesë e fjalëve të përbëra
+sedo   # pa kuptim të qartë
+drogo   # pa kuptim të qartë
+katua   # pa kuptim të qartë
+ligie   # pa kuptim të qartë
+ojnë   # formë e paqartë
+pef   # pa kuptim të qartë
+polik   # pa kuptim të qartë
+prevede   # pa kuptim të qartë
+# ── n16.tsv ──
+vilna   # pa kuptim të qartë
+xhadi   # pa kuptim të qartë
+koprën   # pa kuptim të qartë
+kriminalo   # pjesë e fjalëve të përbëra
+rogo   # pa kuptim të qartë
+roto   # pa kuptim të qartë
+ulo   # pa kuptim të qartë
+xhidavi   # pa kuptim të qartë
+agraro   # pjesë e fjalëve të përbëra
+çifligaro   # pa kuptim të qartë
+kaladibrançe   # pa kuptim të qartë
+karioke   # fjalë e huaj
+orum   # pa kuptim të qartë
+# ── n17.tsv ──
+urov   # pa kuptim të qartë
+pimpinella   # fjalë e huaj
+curlaq   # pa kuptim të qartë
+currulaq   # pa kuptim të qartë
+# ── n18.tsv ──
+çepka   # formë e paqartë
+shrati   # pa kuptim të qartë

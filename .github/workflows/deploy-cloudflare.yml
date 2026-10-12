@@ -48,6 +48,8 @@ jobs:
       - run: npm test
       - run: npm run sources
       - run: npm run data
+      - name: Data quality report (warnings only, see scripts/quality-check.ts)
+        run: npx tsx scripts/quality-check.ts
       - run: npm run build
         env:
           NOINDEX: "0" # "1" would keep the site out of search engines (set it in wrangler.toml too)

@@ -3716,3 +3716,4045 @@ zëvendësoj | verb | to replace
 aminoacid | noun | amino acid
 antipopullor | adj | anti-popular
 çekuilibër | noun | imbalance
+# ── n10.tsv ──
+përbëj | verb | to constitute
+formësoj | verb | to shape
+pavarësoj | verb | to make independent
+vezulloj | verb | to glitter
+qes | verb | to take out
+bifurkacion | noun | bifurcation
+çarshi | noun | bazaar
+çdolloj | pron | every kind
+çlodhje | noun | rest
+defensivë | noun | defensive
+dezinformim | noun | disinformation
+dorazi | adv | by hand
+duarthatë | adj | empty-handed
+flamingo | noun | flamingo
+frekuentues | noun | attender
+herc | noun | hertz
+ilegjitim | adj | illegitimate
+implementoj | verb | to implement
+kardiologji | noun | cardiology
+maskim | noun | masking
+megalit | noun | megalith
+mineralogji | noun | mineralogy
+monolit | noun | monolith
+nazal | adj | nasal
+oportun | adj | opportune
+parafrazoj | verb | to paraphrase
+pastiçeri | noun | pastry shop
+polietilen | noun | polyethylene
+sodium | noun | sodium
+spore | noun | spore
+triumfal | adj | triumphal
+trombozë | noun | thrombosis
+agregat | noun | aggregate
+alamet | adj | enormous
+editoj | verb | to edit
+elegjiak | adj | elegiac
+fluturimthi | adv | in a flash
+gremis | verb | to topple
+kafenjtë | adj | brown
+kardiokirurgji | noun | cardiac surgery
+katedër | noun | chair
+katodë | noun | cathode
+kolektivizëm | noun | collectivism
+komplotist | noun | conspirator
+kontestueshëm | adj | contestable
+kronist | noun | chronicler
+kryqtar | noun | crusader
+leksemë | noun | lexeme
+melanomë | noun | melanoma
+mobilie | noun | furniture
+modernizues | adj | modernizing
+modifikues | adj | modifying
+nonsens | noun | nonsense
+nuskë | noun | amulet
+obstetër | noun | obstetrician
+pardon | interj | pardon
+pavdekësi | noun | immortality
+perifrazoj | verb | to paraphrase
+politizim | noun | politicization
+prejse | conj | since
+rezonim | noun | reasoning
+sensibilizim | noun | awareness raising
+sojli | adj | noble
+spazmë | noun | spasm
+shpatarak | noun | coarse grass
+teleferik | noun | cable car
+transitor | adj | transitory
+valvul | noun | valve
+xhelatinë | noun | gelatine
+akustikë | noun | acoustics
+ambientalizëm | noun | environmentalism
+aras | adv | near
+bastardoj | verb | to bastardize
+bolivar | noun | bolívar
+brendapërbrenda | adv | right inside
+burrërisht | adv | manfully
+cistik | adj | cystic
+çorbë | noun | soup
+çoroditje | noun | corruption
+difuz | adj | diffuse
+doktorant | noun | doctoral student
+dhomëz | noun | chamber
+elokuent | adj | eloquent
+etnolog | noun | ethnologist
+evidencoj | verb | to highlight
+fajkoj | verb | to blame
+flakadan | adj | blazing
+frikësim | noun | intimidation
+gripal | adj | flu
+humus | noun | humus
+kaltërsi | noun | blueness
+kodifikim | noun | codification
+kushërirë | noun | cousin (female)
+labërisht | adv | in the Lab dialect
+lucifer | noun | Lucifer
+monokromatik | adj | monochromatic
+muhamedan | noun | Muslim
+pelte | noun | jelly
+podrum | noun | cellar
+provizion | noun | commission
+qindravjeçar | adj | centuries-old
+reminishencë | noun | reminiscence
+ritransmetoj | verb | to rebroadcast
+sizmologjik | adj | seismological
+sokak | noun | alley
+tejpërtej | adv | right through
+trand | verb | to shake
+turbullues | adj | disturbing
+ultimativ | adj | ultimate
+xhamadan | noun | waistcoat
+afërmendsh | adv | of course
+ambrozi | noun | ambrosia
+antishqiptarizëm | noun | anti-Albanianism
+apoteozë | noun | apotheosis
+arketip | noun | archetype
+ashpërsisht | adv | harshly
+buçet | verb | to boom
+dialektologjik | adj | dialectological
+drakonian | adj | draconian
+eksperimentues | noun | experimenter
+etyd | noun | étude
+fjalëpërfjalshëm | adj | literal
+formant | noun | formant
+grill | noun | grill
+guduli | noun | tickle
+kundërmoj | verb | to smell
+lastar | noun | shoot
+libret | noun | libretto
+luterian | noun | Lutheran
+mediteran | adj | Mediterranean
+merxhan | noun | coral
+mikrokozmos | noun | microcosm
+mplak | verb | to age
+nevralgjik | adj | neuralgic
+ngaherë | adv | always
+orman | noun | forest
+paligjshmëri | noun | illegality
+parafytyroj | verb | to imagine
+përdalë | adj | loose (woman)
+pjerrtësi | noun | slope
+plloçë | noun | slab
+prerogativë | noun | prerogative
+psalm | noun | psalm
+psikopatologji | noun | psychopathology
+reklamues | noun | advertiser
+sindikalizëm | noun | syndicalism
+sistematizoj | verb | to systematize
+spiritus | noun | spirit
+strukturalist | noun | structuralist
+venoz | adj | venous
+amoniak | noun | ammonia
+arkitektural | adj | architectural
+bujkrobër | noun | serf
+bulbor | adj | bulbous
+dekriptim | noun | decryption
+devijues | adj | deviant
+dymujor | adj | two-month
+helvetik | adj | Helvetic
+hematologji | noun | haematology
+ikonostas | noun | iconostasis
+intuitivisht | adv | intuitively
+kapsollë | noun | cap
+karar | noun | decision
+komo | noun | chest of drawers
+komprometues | adj | compromising
+ndërkombëtarizoj | verb | to internationalize
+omnibus | noun | omnibus
+panamez | noun | Panamanian
+paravënë | adj | preposed
+përçart | verb | to rave
+plebishitar | adj | plebiscitary
+stagnoj | verb | to stagnate
+tornoj | verb | to turn (on a lathe)
+trik | noun | trick
+vetëmjaftueshëm | adj | self-sufficient
+vetizolim | noun | self-isolation
+zybë | noun | zhgun dress
+antiparti | adj | anti-party
+azhur | noun | openwork
+bajagi | adv | quite
+banditizëm | noun | banditry
+bedel | noun | substitute
+çataj | verb | to split
+disidencë | noun | dissidence
+dobishmëri | noun | usefulness
+elaborat | noun | study
+etnolinguistikë | noun | ethnolinguistics
+fillikat | adj | all alone
+gajas | verb | to burst out laughing
+huliganizëm | noun | hooliganism
+iks | noun | ex
+intensifikim | noun | intensification
+interier | noun | interior
+kamotshëm | adj | ancient
+kombinatorikë | noun | combinatorics
+kripshmëri | noun | salinity
+kullosor | adj | pastoral
+laburist | noun | Labourite
+mbarështues | noun | breeder
+mejhane | noun | tavern
+navatë | noun | nave
+njëtrajtësisht | adv | uniformly
+obduksion | noun | autopsy
+panegjirik | noun | panegyric
+pleqnar | noun | elder
+sekuestrim | noun | seizure
+sihariq | noun | good news
+silic | noun | silicon
+shoqëroj | verb | to accompany
+telefilm | noun | TV film
+tradicionalist | noun | traditionalist
+xhup | noun | jacket
+antitezë | noun | antithesis
+aparteid | noun | apartheid
+çorganizuar | adj | disorganized
+etnos | noun | ethnos
+ferizajas | noun | person from Ferizaj
+firoj | verb | to dwindle
+hipofizë | noun | pituitary gland
+intifadë | noun | intifada
+kadencë | noun | cadence
+kthjelltësi | noun | clarity
+kuorum | noun | quorum
+kuptueshmëri | noun | comprehensibility
+kusar | noun | thief
+mbarështim | noun | breeding
+mirëkuptues | adj | understanding
+patetik | adj | pathetic
+pietet | noun | piety
+propozicion | noun | proposition
+psikopatik | adj | psychopathic
+puçist | noun | putschist
+qerpiç | noun | mud brick
+qesëndi | noun | ridicule
+qiradhënie | noun | leasing
+regjistroj | verb | to register, to record
+transfuzion | noun | transfusion
+uverturë | noun | overture
+vetëgjyqësi | noun | vigilantism
+amatorizëm | noun | amateurism
+amortizator | noun | shock absorber
+antivlerë | noun | anti-value
+arbitroj | verb | to referee
+badem | noun | almond
+bikarbonat | noun | bicarbonate
+datueshëm | adj | datable
+disleksi | noun | dyslexia
+ekzekutueshëm | adj | executable
+fonologji | noun | phonology
+frustrim | noun | frustration
+gulden | noun | guilder
+hëpërhë | adv | for now
+honorar | noun | fee
+josportiv | adj | unsporting
+karakterizues | adj | characterizing
+klasifikues | adj | classifying
+kuarc | noun | quartz
+melhem | noun | ointment
+mikroekonomi | noun | microeconomics
+moshatar | noun | peer
+natyrshmëri | noun | naturalness
+ndokund | adv | somewhere
+padëgjueshëm | adj | inaudible
+përdyjavshëm | adj | biweekly
+precizitet | noun | precision
+punëkërkues | noun | jobseeker
+qarrishtë | noun | Turkey oak forest
+rekuiem | noun | requiem
+rezistoj | verb | to resist
+semantikisht | adv | semantically
+spiunim | noun | espionage
+suficit | noun | surplus
+shkritore | noun | foundry
+tandem | noun | tandem
+transmetoj | verb | to broadcast
+zgjerueshëm | adj | expandable
+ziliqar | adj | envious
+antipati | noun | antipathy
+askurrë | adv | never
+badminton | noun | badminton
+celuloid | noun | celluloid
+deficitar | adj | in deficit
+defiloj | verb | to parade
+depolitizoj | verb | to depoliticize
+derexhe | noun | degree
+drill | noun | drill
+druhem | verb | to fear
+duarbosh | adj | empty-handed
+eliminues | adj | eliminating
+etnitet | noun | ethnicity
+galant | adj | gallant
+gërhitje | noun | snoring
+hajvan | noun | animal
+honeps | verb | to stomach
+introvert | adj | introverted
+kavalier | noun | cavalier
+kompilator | noun | compiler
+kundëradmiral | noun | rear admiral
+milenium | noun | millennium
+minifund | noun | miniskirt
+niveloj | verb | to level
+oksitocinë | noun | oxytocin
+palëkundshëm | adj | steadfast
+panxharsheqer | noun | sugar beet
+pjerrtas | adv | obliquely
+racionalizoj | verb | to rationalize
+ravijëzoj | verb | to outline
+ripërpunoj | verb | to rework
+skizofreni | noun | schizophrenia
+sofa | noun | sofa
+sugjestionues | adj | suggestive
+tenderues | noun | bidder
+agrobiznes | noun | agribusiness
+akupunkturë | noun | acupuncture
+albedo | noun | albedo
+anestetik | noun | anaesthetic
+anësi | noun | bias
+atypari | adv | around there
+automobilizëm | noun | motoring
+bashkëdrejtues | noun | co-director
+bituminoz | adj | bituminous
+bordero | noun | statement
+çlirët | adj | relaxed
+çmilitarizuar | adj | demilitarized
+dehidrim | noun | dehydration
+dekolte | noun | neckline
+dekonspiroj | verb | to expose
+diplomim | noun | graduation
+dykuptimësi | noun | ambiguity
+elektromagnet | noun | electromagnet
+etalon | noun | standard
+frekuentim | noun | attendance
+handikap | noun | handicap
+hershmëri | noun | earliness
+kabull | noun | acceptance
+kamomil | noun | chamomile
+keqmenaxhim | noun | mismanagement
+konvertueshëm | adj | convertible
+kuisling | noun | quisling
+lajtmotiv | noun | leitmotif
+maskaradë | noun | masquerade
+mesapishte | noun | Messapic
+mirëdashje | noun | goodwill
+mustang | noun | mustang
+ofertoj | verb | to bid
+oshënar | noun | hermit monk
+paanësi | noun | impartiality
+paturpshëm | adj | shameless
+penel | noun | brush
+pështjelloj | verb | to confuse
+polivalent | adj | multipurpose
+posttraumatik | adj | post-traumatic
+psikosomatik | adj | psychosomatic
+qarkoj | verb | to circle
+radium | noun | radium
+recepsionist | noun | receptionist
+regresiv | adj | regressive
+sardele | noun | sardine
+sportdashës | noun | sports fan
+shkreptimë | noun | flash
+tankist | noun | tank crewman
+terzi | noun | tailor
+urbanist | noun | urban planner
+votëbesim | noun | vote of confidence
+albanistik | adj | Albanological
+alkimik | adj | alchemical
+alkimist | noun | alchemist
+barsoletë | noun | anecdote
+bibliofil | noun | bibliophile
+burlesk | adj | burlesque
+çetash | adv | in bands
+dallkauk | noun | sycophant
+drenazhim | noun | drainage
+driblues | noun | dribbler
+dhjamos | verb | to grease
+eksportim | noun | exporting
+ekstravagancë | noun | extravagance
+etilik | adj | ethylic
+fenotip | noun | phenotype
+fragmentar | adj | fragmentary
+gjallërues | adj | invigorating
+kalivaç | noun | plank
+kasketë | noun | cap
+kioskë | noun | kiosk
+kryekuq | adj | red-headed
+kushtimore | noun | votive offering
+lokalist | adj | localist
+mburravec | noun | braggart
+monastir | noun | monastery
+ndijim | noun | sensation
+nënvlerësim | noun | underestimation
+ngarend | verb | to rush
+ofiçinë | noun | workshop
+oftalmologji | noun | ophthalmology
+parëlindur | adj | firstborn
+përparshëm | adj | front
+plankton | noun | plankton
+prepotencë | noun | arrogance
+qendërsulmues | noun | centre forward
+radius | noun | radius
+rakordoj | verb | to align
+rezonant | adj | resonant
+sejmen | noun | Ottoman guard
+sintoni | noun | harmony
+sipërthënë | adj | aforesaid
+sprasëm | adj | last
+strajcë | noun | pouch
+# ── n11.tsv ──
+arkitra | noun | architrave
+përmendur | adj | mentioned, renowned
+aborigjen | noun | aborigine
+etazh | noun | floor, storey
+vespë | noun | scooter
+joserb | adj | non-Serb
+lupë | noun | magnifying glass
+nënkampion | noun | runner-up
+shiling | noun | shilling
+suljot | noun | Souliote
+sheshazi | adv | openly
+shkarravit | verb | to scribble
+shkurtore | noun | abbreviation
+talisman | noun | talisman
+totalitarist | adj | totalitarian
+turli | noun | vegetable stew
+turnir | noun | tournament
+thatësi | noun | dryness
+vëllazëroj | verb | to fraternize
+antishkencor | adj | unscientific
+aula | noun | hall
+centaur | noun | centaur
+çartë | adj | torn
+çehre | noun | countenance
+delikuencë | noun | delinquency
+dituror | adj | scholarly
+dyshtetësi | noun | dual citizenship
+emulsion | noun | emulsion
+engjëllush | noun | little angel
+epistolar | adj | epistolary
+etil | noun | ethyl
+euforik | adj | euphoric
+fatbardhësisht | adv | luckily
+fletëz | noun | leaflet
+gropëz | noun | dimple
+gjyqësi | noun | judiciary
+hemoglobinë | noun | haemoglobin
+hipopotam | noun | hippopotamus
+instalues | noun | installer
+interlud | noun | interlude
+internat | noun | boarding school
+jotransparent | adj | non-transparent
+kozmonaut | noun | cosmonaut
+lëkundshëm | adj | unsteady
+maxhar | noun | Magyar
+megjithëqë | conj | although
+mikroklimë | noun | microclimate
+mitozë | noun | mitosis
+moleps | verb | to infect
+normalizues | adj | normalizing
+paramartesor | adj | premarital
+pektinë | noun | pectin
+përlindje | noun | rebirth
+përmallshëm | adj | nostalgic
+pogaçe | noun | flatbread
+potenciometër | noun | potentiometer
+qeramidhe | noun | tile
+rajhstag | noun | Reichstag
+recepsion | noun | reception
+reduktues | adj | reducing
+rinumërim | noun | recount
+sakrilegj | noun | sacrilege
+silogjizëm | noun | syllogism
+shëndetlig | adj | sickly
+shirje | noun | threshing
+titizëm | noun | Titoism
+tremijë | num | three thousand
+vocërr | adj | tiny
+ballkaniadë | noun | Balkan games
+barometër | noun | barometer
+basoreliev | noun | bas-relief
+batak | noun | bog
+bistër | adj | clear
+dekriptoj | verb | to decrypt
+diskutues | noun | discussant
+estet | noun | aesthete
+fiasko | noun | fiasco
+fonogram | noun | phonogram
+granatahedhës | noun | grenade launcher
+hamall | noun | porter
+harkëtar | noun | archer
+kopjoj | verb | to copy
+korife | noun | leader
+kriminologji | noun | criminology
+kromoj | verb | to chrome
+mandatar | noun | mandatary
+maunë | noun | barge
+melos | noun | melody
+metoh | noun | monastic estate
+mishtor | adj | fleshy
+ndarazi | adv | separately
+neurologji | noun | neurology
+okarina | noun | ocarina
+osmozë | noun | osmosis
+pashallëk | noun | pashalik
+pashmangshmëri | noun | inevitability
+peristil | noun | peristyle
+përcjellshmëri | noun | conductivity
+përngjet | verb | to resemble
+pikëz | noun | dot
+piskamë | noun | shriek
+prepotent | adj | arrogant
+presbiterian | adj | Presbyterian
+prospekt | noun | brochure
+pulsues | adj | pulsating
+ripunim | noun | revision
+rrjetëzim | noun | networking
+sanoj | verb | to heal
+sinod | noun | synod
+skeç | noun | sketch
+stekë | noun | cue
+shqiptarësi | noun | Albanianness
+tajfun | noun | typhoon
+teneqexhi | noun | tinsmith
+toleroj | verb | to tolerate
+traversë | noun | sleeper (rail)
+ushqyeshëm | adj | nutritious
+variolë | noun | smallpox
+vietnamisht | adv | in Vietnamese
+violonçelist | noun | cellist
+absolvent | noun | graduate
+adeninë | noun | adenine
+ajetullah | noun | ayatollah
+alegro | noun | allegro
+alkoolist | noun | alcoholic
+andart | noun | Greek irregular
+anestezist | noun | anaesthetist
+azbest | noun | asbestos
+bordurë | noun | border
+bujtje | noun | overnight stay
+diez | noun | sharp
+dikotomi | noun | dichotomy
+diskualifikoj | verb | to disqualify
+doktrinar | adj | doctrinaire
+drufrutor | adj | fruit-tree
+durimtar | adj | patient
+dyzim | noun | duality
+ekzaminues | noun | examiner
+ekzekutor | noun | executor
+empirist | noun | empiricist
+eocen | noun | Eocene
+fotokopjoj | verb | to photocopy
+gurrëz | noun | spring
+hidrokarbur | noun | hydrocarbon
+idhnak | adj | bitter
+izomeri | noun | isomerism
+kacidhe | noun | hood
+katarakt | noun | cataract
+kongresist | noun | congressman
+korruptim | noun | corruption
+kulturologjik | adj | culturological
+laktozë | noun | lactose
+leksikografik | adj | lexicographic
+lirshmëri | noun | looseness
+mbivlerësim | noun | overestimation
+metalurg | noun | metallurgist
+meteorologji | noun | meteorology
+mikroborgjez | noun | petty bourgeois
+mikron | noun | micron
+minibus | noun | minibus
+monsun | noun | monsoon
+moszbatim | noun | non-implementation
+ngeshëm | adj | leisurely
+nxirje | noun | blackening
+parehati | noun | discomfort
+patriarkalizëm | noun | patriarchy
+pazarllëk | noun | bargaining
+perestrojkë | noun | perestroika
+pogradecar | noun | person from Pogradec
+qaty | adv | there
+rajt | verb | to stay
+recensim | noun | review
+revizion | noun | revision
+ribëj | verb | to redo
+salto | noun | somersault
+skenografik | adj | scenographic
+skript | noun | script
+smoking | noun | tuxedo
+spërdredh | verb | to twist
+shtjer | verb | to put
+tetovar | noun | person from Tetovo
+tiketë | noun | ticket
+vaiz | noun | preacher
+vakuolë | noun | vacuole
+zabit | noun | officer
+ziamet | noun | tumult
+aktpadi | noun | indictment
+alkohol | noun | alcohol
+amorf | adj | amorphous
+andrallë | noun | nuisance
+aneksionist | adj | annexationist
+antiterrorizëm | noun | counterterrorism
+asamblist | noun | assembly member
+belb | adj | stammering
+bibliotekist | noun | librarian
+bukinist | noun | second-hand bookseller
+delikuent | noun | delinquent
+delirium | noun | delirium
+digresion | noun | digression
+ekzotermik | adj | exothermic
+elektrolit | noun | electrolyte
+eliksir | noun | elixir
+enciklikë | noun | encyclical
+fantazmagorik | adj | phantasmagoric
+hermafrodit | noun | hermaphrodite
+hipotekar | adj | mortgage
+insinuatë | noun | insinuation
+kortezh | noun | cortege
+librashitës | noun | bookseller
+luajal | adj | loyal
+manovrues | noun | manoeuvrer
+mitizoj | verb | to mythologize
+moskovit | noun | Muscovite
+ngashërim | noun | sobbing
+nimfë | noun | nymph
+normalist | noun | teacher-training student
+njëjtësoj | verb | to identify
+okulistikë | noun | ophthalmology
+oligopol | noun | oligopoly
+ozon | noun | ozone
+pasgoditje | noun | aftershock
+pehlivan | noun | wrestler
+pelikan | noun | pelican
+përngjasim | noun | resemblance
+politeizëm | noun | polytheism
+profan | adj | profane
+propan | noun | propane
+proveniencë | noun | provenance
+qorrazi | adv | blindly
+rivendikim | noun | reclaiming
+rrymim | noun | flow
+satrap | noun | satrap
+skizofrenik | adj | schizophrenic
+stabiliment | noun | plant
+subjektivisht | adv | subjectively
+shashkë | noun | sabre
+shegert | noun | apprentice
+shisje | noun | sale
+virtuozitet | noun | virtuosity
+viskozitet | noun | viscosity
+zallamahi | noun | commotion
+abiotik | adj | abiotic
+antiklerikal | adj | anticlerical
+bibliograf | noun | bibliographer
+celulozë | noun | cellulose
+eksterier | noun | exterior
+epidemiologji | noun | epidemiology
+ezan | noun | adhan
+gjithëvjetor | adj | year-round
+helbete | adv | certainly
+helmatis | verb | to poison
+idealizim | noun | idealization
+katakomb | noun | catacomb
+keqinformim | noun | misinformation
+kryeneç | adj | stubborn
+lukuni | noun | pack
+magazinier | noun | storekeeper
+mallakastriot | noun | person from Mallakastër
+mandolinë | noun | mandolin
+maratonik | adj | marathon
+markant | adj | striking
+melasë | noun | molasses
+metadon | noun | methadone
+mitar | noun | bribe-taker
+moskallëzim | noun | non-reporting
+njëditor | adj | one-day
+papërfytyrueshëm | adj | unimaginable
+paraqitshëm | adj | presentable
+participim | noun | participation
+pasmesnatë | noun | after midnight
+patejkalueshëm | adj | unsurpassable
+pipëtij | verb | to squeak
+plandos | verb | to knock down
+presidium | noun | presidium
+prostatë | noun | prostate
+qartësim | noun | clarification
+qyshkur | adv | since
+resulullah | noun | Messenger of God
+rruzare | noun | rosary
+skuadron | noun | squadron
+specializant | noun | resident doctor
+spekulant | noun | speculator
+stazhier | noun | intern
+superfosfat | noun | superphosphate
+telekamerë | noun | TV camera
+tetrark | noun | tetrarch
+trojkë | noun | troika
+thashethemnajë | noun | gossip
+viskoz | adj | viscous
+xhenier | noun | sapper
+zbrazëtirë | noun | void
+aerosol | noun | aerosol
+alienim | noun | alienation
+anagram | noun | anagram
+antipod | noun | antipode
+antishtetëror | adj | anti-state
+antiterror | adj | counter-terrorism
+brixh | noun | bridge
+burokratizëm | noun | bureaucratism
+çekuilibruar | adj | unbalanced
+çlodhës | adj | relaxing
+dirigjim | noun | conducting
+duarlidhur | adj | hands tied
+dylber | adj | handsome
+edikt | noun | edict
+endokrinolog | noun | endocrinologist
+etimolog | noun | etymologist
+fascinoj | verb | to fascinate
+gardist | noun | guardsman
+hermetizëm | noun | hermeticism
+hieroglifik | adj | hieroglyphic
+insekticid | noun | insecticide
+komfor | noun | comfort
+konto | noun | account
+kuqishtë | noun | red earth
+kushane | noun | female cousin
+lartoj | verb | to raise
+libido | noun | libido
+llogaritshëm | adj | calculable
+marmelatë | noun | marmalade
+mesap | noun | Messapian
+mirërrit | verb | to raise well
+moçalishte | noun | marshland
+moralizim | noun | moralizing
+morbid | adj | morbid
+ndjellakeq | adj | ominous
+neutralizues | adj | neutralizing
+ngazëlloj | verb | to delight
+njëfish | adv | single
+parikuperueshëm | adj | unrecoverable
+perikard | noun | pericardium
+pjalmues | noun | pollinator
+prapësim | noun | reversal
+pretencë | noun | pretension
+prokonsull | noun | proconsul
+prozodik | adj | prosodic
+qelëz | noun | small cell
+qitro | noun | citron
+radon | noun | radon
+raketahedhës | noun | rocket launcher
+rishpërndarë | adj | redistributed
+sfinks | noun | sphinx
+skajshmëri | noun | extremity
+skumbri | noun | mackerel
+strukturim | noun | structuring
+syhapur | adj | wide-eyed
+shëmti | noun | ugliness
+shushat | verb | to bewilder
+taze | adj | fresh
+vetëdijesim | noun | awareness
+vilar | noun | villa owner
+zbrisje | noun | descent
+antropogjen | adj | anthropogenic
+ardhëm | adj | future
+arkival | adj | archival
+ateroj | verb | to wonder
+autenticitet | noun | authenticity
+banalizoj | verb | to trivialize
+batare | noun | volley
+betonarme | noun | reinforced concrete
+bllokoj | verb | to block
+burrnor | adj | manly
+çanak | noun | bowl
+demokratizues | adj | democratizing
+digjitalizim | noun | digitalization
+disnivel | noun | elevation difference
+distilim | noun | distillation
+djallëzisht | adv | devilishly
+edem | noun | oedema
+eklatant | adj | glaring
+eksplodoj | verb | to explode
+elektrometër | noun | electrometer
+fërshëllimë | noun | whistling
+fundërri | noun | sediment
+glicerinë | noun | glycerine
+humbëtirë | noun | abyss
+idiotizëm | noun | idiocy
+inicim | noun | initiation
+izolator | noun | insulator
+kadifenjtë | adj | velvety
+kalemxhi | noun | scribe
+kaminë | noun | fireplace
+kozmopolitizëm | noun | cosmopolitanism
+kuesturë | noun | police headquarters
+ligsht | adv | badly
+limontoz | noun | citric acid
+madhëri | noun | majesty
+matuf | adj | doddering
+mistifikim | noun | mystification
+mitokondri | noun | mitochondrion
+ngadhënjimtar | adj | victorious
+ngatërrestar | noun | troublemaker
+noterizoj | verb | to notarize
+ofset | noun | offset printing
+pabanueshëm | adj | uninhabitable
+paraelektoral | adj | pre-electoral
+përmbledhtazi | adv | briefly
+poture | noun | baggy trousers
+prolongoj | verb | to prolong
+radiologji | noun | radiology
+rikonceptoj | verb | to redesign
+ripërtypës | adj | ruminant
+romansier | noun | novelist
+rrafshinor | adj | flat
+rregulltar | noun | stickler
+safir | noun | sapphire
+sahanlëpirës | noun | sycophant
+# ── n12.tsv ──
+karotidë | noun | carotid artery
+kumboj | verb | to resound
+sofist | noun | sophist
+sufiks | noun | suffix
+shigjetoj | verb | to shoot with arrows
+shkurtazi | adv | briefly
+shtendos | verb | to stretch
+telefoto | noun | telephoto lens
+teserë | noun | membership card
+tonazh | noun | tonnage
+thërrisje | noun | calling
+urnë | noun | urn
+vagullt | adj | vague
+vargëzoj | verb | to versify
+voskopojar | noun | person from Voskopoja
+xhenaze | noun | funeral prayer
+allaman | noun | German
+anakondë | noun | anaconda
+antropomorf | adj | anthropomorphic
+apelativ | noun | common noun
+autosugjestion | noun | autosuggestion
+biçim | noun | shape
+datëlindje | noun | date of birth
+delikt | noun | offence
+denbabaden | adv | from generation to generation
+dezinformoj | verb | to misinform
+dollma | noun | dolma
+elipsoid | noun | ellipsoid
+eskimez | noun | Eskimo
+evokim | noun | evocation
+fakir | noun | fakir
+fekondim | noun | fertilization
+filozofoj | verb | to philosophize
+gliko | noun | fruit preserve
+guralec | noun | pebble
+hipotension | noun | hypotension
+histologji | noun | histology
+idiotësi | noun | idiocy
+incest | noun | incest
+inkuizitor | noun | inquisitor
+intrakranial | adj | intracranial
+joparimor | adj | unprincipled
+kantinë | noun | canteen
+korrektoj | verb | to correct
+larush | adj | spotted
+lavërtar | noun | ploughman
+lehtazi | adv | lightly
+lucid | adj | lucid
+manipulueshëm | adj | manipulable
+mençëm | adj | wise
+mornica | noun | shivers
+narkozë | noun | anaesthesia
+oqeanografi | noun | oceanography
+paralizues | adj | paralysing
+parnas | noun | Parnassus
+përvajshëm | adj | wretched
+përvujtëri | noun | humility
+plutokraci | noun | plutocracy
+polaroid | noun | Polaroid
+poliedër | noun | polyhedron
+predikoj | verb | to preach
+profesionalist | noun | professional
+prostituoj | verb | to prostitute
+purinë | noun | purine
+reumatologji | noun | rheumatology
+rremb | verb | to snatch
+snob | noun | snob
+solidarizohem | verb | to show solidarity
+strat | noun | stratum
+shelegar | noun | lamb shepherd
+shpërlarë | adj | rinsed
+shqiptarçe | adv | in the Albanian way
+tejçoj | verb | to transmit
+teknokrat | noun | technocrat
+tenderim | noun | tendering
+teozofik | adj | theosophical
+tinejxher | noun | teenager
+toksikologji | noun | toxicology
+vargëzim | noun | versification
+vetërregullues | adj | self-regulating
+vetëtimthi | adv | in a flash
+vibroj | verb | to vibrate
+vijimisht | adv | continuously
+zëvendësguvernator | noun | deputy governor
+zigot | noun | zygote
+aktmarrëveshje | noun | agreement
+antifeudal | adj | antifeudal
+bajraktarizëm | noun | bajraktar system
+balistik | adj | ballistic
+beshamel | noun | béchamel
+bilirubinë | noun | bilirubin
+biotop | noun | biotope
+brekushe | noun | knickers
+bufer | noun | buffer
+dandi | noun | dandy
+disketë | noun | floppy disk
+donkishotesk | adj | quixotic
+dhespot | noun | despot
+familjaritet | noun | familiarity
+figurant | noun | extra
+frezë | noun | milling cutter
+galop | noun | gallop
+gërxh | noun | crag
+gurth | noun | pebble
+gjeodezik | adj | geodesic
+gjëzë | noun | riddle
+gjiroj | verb | to stir
+heshtazi | adv | silently
+hipotenuzë | noun | hypotenuse
+jokompetent | adj | incompetent
+kërbaç | noun | whip
+kombinues | adj | combining
+koniunkturë | noun | conjuncture
+konkretizim | noun | concretization
+koordinatë | noun | coordinate
+korse | noun | corset
+korruptues | adj | corrupting
+kozmografi | noun | cosmography
+kuintal | noun | quintal
+kursimtar | noun | saver
+lejim | noun | permission
+llok | verb | to slosh
+melez | noun | hybrid
+mesoburrë | noun | middle-aged man
+micel | noun | micelle
+miocen | noun | Miocene
+mosdeklarim | noun | non-declaration
+neolit | noun | Neolithic
+ngufat | verb | to choke
+njëfarësoj | adv | somewhat
+njëshekullor | adj | century-old
+ostrogot | noun | Ostrogoth
+pajim | noun | equipping
+pakorruptueshëm | adj | incorruptible
+parmak | noun | railing
+pasvdekje | noun | afterlife
+patericë | noun | crutch
+përzje | verb | to mix
+pikëvështrim | noun | viewpoint
+pjatalarës | noun | dishwasher
+poligrafik | adj | printing
+poltron | noun | armchair
+rreshpe | noun | slate
+rrotacion | noun | rotation
+silurues | noun | torpedo boat
+stenograf | noun | stenographer
+stratosferë | noun | stratosphere
+suvatim | noun | plastering
+shenjëtar | noun | saint
+shkallare | noun | staircase
+shkarkesë | noun | discharge
+shkombëtarizues | adj | denationalizing
+shkrumbim | noun | charring
+vajtueshëm | adj | lamentable
+vetëkritik | adj | self-critical
+vjetar | adj | annual
+zodiak | noun | zodiac
+aktivizues | adj | activating
+amfetaminë | noun | amphetamine
+anion | noun | anion
+anodë | noun | anode
+antihistorik | adj | ahistorical
+antipatik | adj | unpleasant
+antisocialist | adj | anti-socialist
+ardhacak | noun | newcomer
+asimetri | noun | asymmetry
+bucak | noun | nook
+çini | noun | porcelain
+dërhem | noun | dram
+disponoj | verb | to have available
+diturak | adj | learned
+endokard | noun | endocardium
+esperantist | noun | Esperantist
+falsifikator | noun | forger
+farad | noun | farad
+galion | noun | galleon
+grafemë | noun | grapheme
+gjeometër | noun | surveyor
+halucinacion | noun | hallucination
+hibridizoj | verb | to hybridize
+hinterland | noun | hinterland
+indic | noun | index
+instaloj | verb | to install
+intermexo | noun | intermezzo
+kapotë | noun | bonnet
+konkordancë | noun | concordance
+konop | noun | rope
+kontracepsion | noun | contraception
+lëvrij | verb | to move
+ligjësi | noun | regularity
+logopedi | noun | speech therapy
+madhështoj | verb | to glorify
+makinacion | noun | machination
+maraz | noun | grief
+mbretërues | adj | reigning
+minahedhës | noun | mortar
+moçalik | adj | marshy
+monogram | noun | monogram
+muçit | verb | to rush at
+ngultas | adv | insistently
+njaty | adv | there
+okultist | noun | occultist
+partishmëri | noun | partisanship
+pavlefshmëri | noun | invalidity
+përmbledhtas | adv | in brief
+përngjitur | adj | adjacent
+picërrak | adj | tiny
+pjellshmëri | noun | fertility
+politologji | noun | political science
+portretist | noun | portraitist
+prefiks | noun | prefix
+prekshmëri | noun | tangibility
+presing | noun | pressing
+psikolinguistikë | noun | psycholinguistics
+qejfli | adj | pleasure-loving
+qeskë | noun | vesicle
+revers | noun | reverse
+rrëmbimthi | adv | hastily
+samarxhi | noun | saddler
+sektarizëm | noun | sectarianism
+serishëm | adj | repeated
+strofkë | noun | den
+shaljan | noun | person from Shala
+sheqeroj | verb | to sugar
+shimpanze | noun | chimpanzee
+shumëllojtë | adj | diverse
+tarim | noun | trimming
+tejmatanë | adv | beyond
+terakotë | noun | terracotta
+transcendencë | noun | transcendence
+theqafje | noun | rush
+thiktë | adj | sharp
+vëllazërisht | adv | fraternally
+xanë | noun | field
+zooteknik | adj | zootechnical
+zhbirues | noun | investigator
+aklamacion | noun | acclamation
+amnor | adj | native
+antikapitalist | adj | anti-capitalist
+aperitiv | noun | aperitif
+apostat | noun | apostate
+atllas | noun | atlas
+brishtësi | noun | fragility
+burmali | adj | threaded
+çezmë | noun | fountain
+çregjistruar | adj | deregistered
+deduksion | noun | deduction
+dehidratim | noun | dehydration
+deontologji | noun | deontology
+dietetik | adj | dietetic
+diletant | noun | dilettante
+duoden | noun | duodenum
+egjiptolog | noun | Egyptologist
+elektrolitik | adj | electrolytic
+etnomuzikolog | noun | ethnomusicologist
+evidentim | noun | recording
+ëmbëlsisht | adv | sweetly
+farkoj | verb | to forge
+filantropik | adj | philanthropic
+gof | noun | trunk
+gurëzoj | verb | to petrify
+gjerak | noun | sparrowhawk
+gjithsekush | pron | everyone
+hidrografi | noun | hydrography
+higjenik | adj | hygienic
+himnizoj | verb | to extol
+ilustroj | verb | to illustrate
+imigrim | noun | immigration
+intranet | noun | intranet
+jolegal | adj | illegal
+karagjoz | noun | buffoon
+kazanxhi | noun | coppersmith
+keqbesim | noun | bad faith
+krahinar | noun | regionalist
+kredidhënës | noun | lender
+kulomb | noun | coulomb
+lajthizë | noun | hazel
+lëvizor | adj | mobile
+libretist | noun | librettist
+ligjvënie | noun | legislation
+lisne | noun | oak grove
+llamarinë | noun | sheet metal
+mbisundues | adj | dominant
+meremetim | noun | repair
+mëngjarash | adv | left-handed
+mineralogjik | adj | mineralogical
+monoteizëm | noun | monotheism
+mospajtues | adj | dissenting
+motërzim | noun | twinning
+natyralizim | noun | naturalization
+neuropsikiatër | noun | neuropsychiatrist
+neuropsikiatrik | adj | neuropsychiatric
+nguc | verb | to provoke
+njësim | noun | unification
+oniks | noun | onyx
+ortoped | noun | orthopaedist
+oshtimë | noun | echo
+padeshifrueshëm | adj | indecipherable
+pagim | noun | payment
+papushtueshëm | adj | unconquerable
+paqmë | adj | clean
+pashkëputshëm | adj | inseparable
+peliçe | noun | fur coat
+përkohshmëri | noun | transience
+përthekoj | verb | to encompass
+pinar | noun | pine grove
+pontifikat | noun | pontificate
+prizmatik | adj | prismatic
+puthador | adj | kiss-loving
+rafal | noun | burst of fire
+revani | noun | revani
+sazexhi | noun | saz player
+spërkasë | noun | sprinkler
+stërpik | verb | to splatter
+susam | noun | sesame
+shehër | noun | city
+shfajësim | noun | exoneration
+termonuklear | adj | thermonuclear
+tokëzoj | verb | to earth
+triler | noun | thriller
+tulipan | noun | tulip
+urolog | noun | urologist
+veterinë | noun | veterinary medicine
+xhaul | noun | joule
+afrodiziak | noun | aphrodisiac
+alkan | noun | alkane
+anestezik | adj | anaesthetic
+antihuman | adj | inhuman
+arkond | noun | archon
+basmë | noun | printed cotton
+bërtisje | noun | shouting
+burracak | noun | coward
+citadelë | noun | citadel
+çohem | verb | to get up
+debakël | noun | debacle
+dekompozim | noun | decomposition
+dendësim | noun | densification
+diletantizëm | noun | dilettantism
+dritëz | noun | small light
+ekonometri | noun | econometrics
+ekranizim | noun | screen adaptation
+elektroshok | noun | electroshock
+emboli | noun | embolism
+encefalopati | noun | encephalopathy
+endokrinologji | noun | endocrinology
+epikurian | adj | Epicurean
+etiologji | noun | aetiology
+fatzi | adj | ill-fated
+follë | noun | bellows
+gabro | noun | gabbro
+glosë | noun | gloss
+gurgur | noun | gurgle
+gjimnast | noun | gymnast
+hibridizim | noun | hybridization
+inokulim | noun | inoculation
+intencë | noun | intention
+kallp | noun | mould
+kamuflim | noun | camouflage
+kidnapim | noun | kidnapping
+konservatorizëm | noun | conservatism
+koprës | noun | manure
+kurvar | noun | womanizer
+kutizë | noun | small box
+lejues | adj | permissive
+lejueshmëri | noun | permissibility
+malicioz | adj | malicious
+mercenarizëm | noun | mercenarism
+mide | noun | stomach
+mikrobiolog | noun | microbiologist
+mushama | noun | oilcloth
+napalm | noun | napalm
+narcis | noun | narcissus
+ndërkontinental | adj | intercontinental
+onkologji | noun | oncology
+papilar | adj | papillary
+paudhësi | noun | impropriety
+pendël | noun | pendulum
+peroksid | noun | peroxide
+përkundërt | adj | opposite
+pikalosh | adj | spotted
+pikiatë | noun | nosedive
+pleurë | noun | pleura
+porotë | noun | jury
+qëllimkeq | adj | ill-intentioned
+regresion | noun | regression
+remont | noun | overhaul
+reprezentues | adj | representing
+rëntgen | noun | X-ray
+riformulim | noun | reformulation
+rigrupim | noun | regrouping
+rihyrë | noun | re-entry
+rimodelim | noun | remodelling
+rrënjëzoj | verb | to root
+saldator | noun | welder
+sikundërse | conj | just as
+skermë | noun | fencing
+sykaltër | adj | blue-eyed
+shajak | noun | homespun cloth
+shqelmoj | verb | to kick
+shtresëzim | noun | stratification
+teklif | noun | insistence
+teknokratik | adj | technocratic
+telepati | noun | telepathy
+topolak | adj | chubby
+tullumb | noun | tulumba
+vagë | noun | hearth spot
+vreroj | verb | to embitter
+xhahil | adj | ignorant
+zbërthyeshëm | adj | decomposable
+zgjebosur | adj | mangy
+abonent | noun | subscriber
+akullthyes | noun | icebreaker
+anakronizëm | noun | anachronism
+analfabetizëm | noun | illiteracy
+apologjet | noun | apologist
+atol | noun | atoll
+autopilot | noun | autopilot
+bashkëkryesues | noun | co-chair
+bashkëshortësi | noun | matrimony
+bioenergji | noun | bioenergy
+brumos | verb | to knead
+buis | noun | boxwood
+cianid | noun | cyanide
+çakërdis | verb | to unhinge
+çiftëzim | noun | pairing
+çnderuar | adj | dishonoured
+destrojer | noun | destroyer
+diplomoj | verb | to graduate
+dykuptimtë | adj | ambiguous
+efemer | adj | ephemeral
+eksploatim | noun | exploitation
+ekspresivitet | noun | expressiveness
+fanfarë | noun | fanfare
+ferracak | noun | bushland
+fodullëk | noun | arrogance
+# ── n13.tsv ──
+çrrënjos | verb | to uproot
+vestë | noun | vest
+laureoj | verb | to graduate
+legur | noun | dregs
+përndjek | verb | to persecute
+foshnjarak | adj | childish
+fringo | adj | brand new
+galerë | noun | galley
+galon | noun | gallon
+gorillë | noun | gorilla
+gorre | noun | brushwood
+gjykatore | noun | court
+hekurishte | noun | scrap iron
+imigrues | noun | immigrant
+imitoj | verb | to imitate
+intendent | noun | quartermaster
+jele | noun | mane
+kapadai | noun | braggart
+kapicë | noun | haystack
+karrierist | noun | careerist
+kloroform | noun | chloroform
+kompilim | noun | compilation
+kundërligjor | adj | unlawful
+kursant | noun | trainee
+limfë | noun | lymph
+litani | noun | litany
+litotë | noun | litotes
+lokalizim | noun | localization
+lugajë | noun | ladle
+luhatshmëri | noun | volatility
+lypsar | noun | beggar
+menshevik | noun | Menshevik
+metaloid | noun | metalloid
+mosrealizim | noun | non-fulfilment
+mrizoj | verb | to shelter at noon
+ndryrë | adj | locked up
+neorealizëm | noun | neorealism
+ortopedik | adj | orthopaedic
+paleolitik | adj | Palaeolithic
+pandryshkshëm | adj | stainless
+pardesy | noun | overcoat
+peizazhist | noun | landscape painter
+petëzoj | verb | to laminate
+polip | noun | polyp
+predikat | noun | predicate
+psikopatologjik | adj | psychopathological
+pud | noun | pood
+rebelizëm | noun | rebelliousness
+rigid | adj | rigid
+ripërtëritur | adj | renewed
+rosak | noun | drake
+rumba | noun | rumba
+serbofil | noun | Serbophile
+syzezë | adj | unfortunate
+tegel | noun | hem
+tradhtisht | adv | treacherously
+transmision | noun | transmission
+tromb | noun | thrombus
+trutharë | adj | empty-headed
+utilitarizëm | noun | utilitarianism
+vegjetoj | verb | to vegetate
+vendgrumbullim | noun | collection point
+virozë | noun | viral infection
+zgërdhesh | verb | to grin
+zigur | noun | ziggurat
+zigzag | noun | zigzag
+alabastër | noun | alabaster
+amerikanojugor | adj | South American
+amplifikim | noun | amplification
+antraks | noun | anthrax
+cist | noun | cyst
+cunam | noun | tsunami
+daktilik | adj | dactylic
+debutoj | verb | to debut
+derebej | noun | feudal lord
+deshifroj | verb | to decipher
+diftong | noun | diphthong
+dirigjues | noun | conductor
+disenjator | noun | designer
+distik | noun | couplet
+dolomit | noun | dolomite
+eklektizëm | noun | eclecticism
+esplanadë | noun | esplanade
+falsifikues | noun | forger
+flakëhedhës | noun | flamethrower
+folklorizëm | noun | folklorism
+hidroelektrik | adj | hydroelectric
+hipnotizëm | noun | hypnotism
+ideoartistik | adj | ideo-artistic
+kapardisur | adj | puffed up
+kthetrazi | adv | clawlike
+kuestor | noun | police chief
+kuqërremë | adj | reddish
+kurveleshas | noun | person from Kurvelesh
+majtizëm | noun | leftism
+memuare | noun | memoirs
+meningjit | noun | meningitis
+meteorolog | noun | meteorologist
+mikroçip | noun | microchip
+nazik | adj | delicate
+numizmatik | adj | numismatic
+objektivist | noun | objectivist
+ofiqar | noun | official
+oftalmolog | noun | ophthalmologist
+oksidim | noun | oxidation
+oponent | noun | opponent
+pangopshëm | adj | insatiable
+paradokohshëm | adj | recent past
+perihel | noun | perihelion
+perpendikular | adj | perpendicular
+përmbarim | noun | enforcement
+përmortshëm | adj | funereal
+përshpirt | noun | alms for the dead
+pistil | noun | pistil
+precipitoj | verb | to precipitate
+presbiter | noun | presbyter
+preshevar | noun | person from Preševo
+qenësisht | adv | essentially
+riter | noun | knight
+rixha | noun | request
+rizoto | noun | risotto
+rokadë | noun | castling
+rrogëtar | noun | wage earner
+sifiliz | noun | syphilis
+skematizëm | noun | schematism
+sugjestion | noun | suggestion
+tifozllëk | noun | fanaticism
+tragjikomedi | noun | tragicomedy
+triskë | noun | shred
+utilitarist | noun | utilitarian
+veriak | adj | northern
+vestibular | adj | vestibular
+vetëpunësim | noun | self-employment
+vitiligo | noun | vitiligo
+aglomerat | noun | agglomerate
+akinxhi | noun | akinji
+akrobacion | noun | acrobatics
+akumulator | noun | accumulator
+alogjik | adj | illogical
+allaj | verb | to coat
+angiografi | noun | angiography
+antihero | noun | antihero
+badihava | adv | in vain
+bojatis | verb | to paint
+çarmatim | noun | disarmament
+çatall | noun | fork
+çikrik | noun | winch
+degustim | noun | tasting
+depërtueshmëri | noun | permeability
+drugdhendje | noun | woodcarving
+duarartë | adj | skilled
+ekses | noun | excess
+emërtues | adj | naming
+eritemë | noun | erythema
+falshëm | adj | forgivable
+fijor | adj | filamentous
+floçkë | noun | flake
+fosforeshent | adj | phosphorescent
+fotoaparat | noun | camera
+frekuentoj | verb | to frequent
+garson | noun | waiter
+gladiol | noun | gladiolus
+glazurë | noun | glaze
+globalizëm | noun | globalism
+govatë | noun | trough
+grec | noun | Greek
+grekomadh | noun | Greek nationalist
+halogjen | noun | halogen
+harakiri | noun | harakiri
+hemorroidë | noun | haemorrhoid
+hipotermi | noun | hypothermia
+infrakuq | adj | infrared
+inkoherencë | noun | incoherence
+izoglosë | noun | isogloss
+kardiokirurg | noun | heart surgeon
+komediograf | noun | comedy writer
+konklavë | noun | conclave
+konsonant | noun | consonant
+kontrapunkt | noun | counterpoint
+konvoj | noun | convoy
+korist | noun | chorister
+kryekreje | noun | chieftain
+lazdroj | verb | to spoil
+lotues | adj | tearful
+manuskript | noun | manuscript
+mashalla | interj | how wonderful
+mbretëroj | verb | to reign
+metamfetaminë | noun | methamphetamine
+mezozoik | noun | Mesozoic
+mërmëris | verb | to mutter
+mikrobiologjik | adj | microbiological
+mikroflorë | noun | microflora
+mistifikoj | verb | to mystify
+multipolar | adj | multipolar
+naftalinë | noun | naphthalene
+nemit | verb | to stun
+neofit | noun | neophyte
+nostrifikim | noun | recognition of diploma
+njaq | adv | so much
+oshaf | noun | compote
+otorinolaringolog | noun | ENT specialist
+pahetueshëm | adj | undetectable
+pamposhtshëm | adj | invincible
+panteizëm | noun | pantheism
+panxhë | noun | paw
+parodizoj | verb | to parody
+penicilinë | noun | penicillin
+përgjunj | verb | to kneel
+përhitur | adj | hasty
+përkujdesem | verb | to take care
+përqaf | verb | to embrace
+pisqollë | noun | pistol
+plevicë | noun | barn
+porsazgjedhur | adj | newly elected
+precesion | noun | precession
+prijatar | noun | leader
+prodhueshmëri | noun | productivity
+prohibicion | noun | prohibition
+propulsion | noun | propulsion
+psike | noun | psyche
+qorroj | verb | to blind
+relievor | adj | relief
+rial | noun | rial
+rimeso | noun | remittance
+rragam | noun | junk
+rrokullimë | noun | rolling
+sefte | noun | first sale
+stërkeq | adj | very bad
+superego | noun | superego
+shkarravinë | noun | scribble
+shpendari | noun | poultry
+shqeto | adj | pure
+tagrambledhës | noun | tax collector
+tajë | noun | nurse
+tanker | noun | tanker
+tejzgjatje | noun | overextension
+transhe | noun | tranche
+trubadur | noun | troubadour
+tungsten | noun | tungsten
+universiadë | noun | Universiade
+utopist | noun | utopian
+vetëmjaftueshmëri | noun | self-sufficiency
+vetiniciativë | noun | self-initiative
+zhvarrim | noun | exhumation
+abdall | noun | wandering dervish
+akëcili | pron | so-and-so
+amortizues | noun | shock absorber
+aranzhoj | verb | to arrange
+arkimandrit | noun | archimandrite
+arlekin | noun | harlequin
+armiqësisht | adv | with hostility
+artrozë | noun | arthrosis
+bimbash | noun | major
+biosintezë | noun | biosynthesis
+çlodh | verb | to rest
+deformues | adj | deforming
+dialektologji | noun | dialectology
+disfatist | noun | defeatist
+diskreditues | adj | discrediting
+dominoj | verb | to dominate
+dorac | noun | left-hander
+drangoj | verb | to bar
+dredharak | adj | winding
+dyjar | adj | binary
+dyoksid | noun | dioxide
+ekspozicion | noun | exposition
+ezmer | adj | swarthy
+faliment | noun | bankruptcy
+farëveshur | adj | angiosperm
+flokëkuq | adj | red-haired
+fshatarak | adj | rustic
+galiç | adv | squatting
+grandioz | adj | grandiose
+gjarpëror | adj | serpentine
+gjynahqar | noun | sinner
+haxhillëk | noun | hajj
+hektolitër | noun | hectolitre
+herbicid | noun | herbicide
+hidroterapi | noun | hydrotherapy
+inkasant | noun | collector
+inoks | noun | stainless steel
+jamb | noun | iamb
+jocilësor | adj | low-quality
+jodetyrues | adj | non-binding
+kashnjet | noun | cash
+kataklizëm | noun | cataclysm
+kazaz | noun | silk worker
+kokëkrisur | adj | crazy
+konkretësi | noun | concreteness
+konversion | noun | conversion
+kriminalist | noun | criminologist
+kumarxhi | noun | gambler
+lopatar | noun | shoveller
+lubrifikim | noun | lubrication
+lumos | verb | to bless
+masakrues | noun | butcher
+mbindjeshmëri | noun | hypersensitivity
+metabolit | noun | metabolite
+metalpunues | noun | metalworker
+mineralizim | noun | mineralization
+mortar | noun | mortar
+multivitaminë | noun | multivitamin
+nënrenditës | adj | subordinating
+nënrenditur | adj | subordinate
+njëanshmërisht | adv | one-sidedly
+njëvlershmëri | noun | equivalence
+obstruksion | noun | obstruction
+pafytyrësi | noun | impudence
+paleontolog | noun | palaeontologist
+parvaz | noun | window sill
+patregueshëm | adj | untellable
+përhirtë | adj | greyish
+pianoforte | noun | pianoforte
+pikaresk | adj | picaresque
+pirrikë | noun | pyrrhic dance
+praps | verb | to push back
+qetoj | verb | to calm
+rizomë | noun | rhizome
+rropulli | noun | entrails
+sajdi | noun | respect
+sanguin | adj | sanguine
+somnambul | noun | sleepwalker
+stoikisht | adv | stoically
+surrogat | noun | surrogate
+shirok | noun | sirocco
+tejngopur | adj | oversaturated
+temena | noun | salute
+tetralogji | noun | tetralogy
+toner | noun | toner
+topaz | noun | topaz
+topth | noun | small ball
+udhërrëfim | noun | guidance
+unitarizëm | noun | unitarianism
+urtikarie | noun | hives
+uzo | noun | ouzo
+vasalitet | noun | vassalage
+vashëz | noun | maiden
+verbërim | noun | blinding
+veresi | noun | on credit
+vitlindje | noun | year of birth
+zboj | verb | to drive away
+zemërak | adj | quick-tempered
+zjarrdurues | adj | fireproof
+zyrtarizëm | noun | officialism
+absolutizoj | verb | to absolutize
+acetat | noun | acetate
+amputim | noun | amputation
+anteri | noun | tunic
+antikorp | noun | antibody
+antinomi | noun | antinomy
+antisportiv | adj | unsporting
+apetit | noun | appetite
+argjipeshkvi | noun | archdiocese
+babanace | noun | cornbread
+baht | noun | baht
+baobab | noun | baobab
+barist | noun | bartender
+batakçi | noun | swindler
+batërdi | noun | havoc
+bazhdar | noun | tax collector
+biokimist | noun | biochemist
+bishtnoj | verb | to dodge
+bullë | noun | papal bull
+dashuriçkë | noun | fling
+dekoroj | verb | to decorate
+derëtar | noun | doorkeeper
+devizë | noun | motto; currency
+disharmoni | noun | disharmony
+eksperimentoj | verb | to experiment
+eukalipt | noun | eucalyptus
+fiksues | adj | fixing
+fjetore | noun | dormitory
+flokëverdhë | adj | blond
+forcues | adj | strengthening
+fotografoj | verb | to photograph
+frak | noun | tailcoat
+fraksionist | noun | factionalist
+glukagon | noun | glucagon
+gomisteri | noun | tyre shop
+gjakprishur | adj | irritated
+hafije | noun | informer
+hallemadh | adj | troubled
+helenist | noun | Hellenist
+herbarium | noun | herbarium
+hipnotizues | adj | hypnotizing
+jatak | noun | harbourer
+kapitur | adj | exhausted
+kavall | noun | shepherd's flute
+kinoteatër | noun | cinema
+kodeks | noun | code
+konferencier | noun | lecturer
+kooperim | noun | cooperation
+kopuk | noun | hooligan
+kreshendo | noun | crescendo
+kuplet | noun | couplet
+kurorëshkelës | noun | adulterer
+lajthim | noun | error
+lastër | noun | shoot
+leros | verb | to soil
+litiazë | noun | lithiasis
+manshetë | noun | cuff
+marzhe | noun | margin
+mashurka | noun | mazurka
+metoq | noun | monastic estate
+mikroelement | noun | trace element
+minder | noun | divan
+mitos | verb | to bribe
+mongoloid | adj | Mongoloid
+montues | noun | editor
+mospërshtatje | noun | maladjustment
+multimilioner | noun | multimillionaire
+naftënxjerrës | adj | oil-extracting
+nagant | noun | Nagant revolver
+neurokirurg | noun | neurosurgeon
+neurozë | noun | neurosis
+nyjshëm | adj | knotty
+orkestrinë | noun | small orchestra
+paguhem | verb | to get paid
+palogjikshëm | adj | illogical
+parenkimë | noun | parenchyma
+# ── n14.tsv ──
+higjienik | adj | hygienic
+çrregulloj | verb | to disrupt
+përmbahem | verb | to restrain oneself
+përshkallëzoj | verb | to escalate
+benzen | noun | benzene
+huazues | adj | borrowing
+joarab | adj | non-Arab
+kidnapoj | verb | to kidnap
+paskam | verb | (admirative of) to have
+vërshëllej | verb | to whistle
+pasivizoj | verb | to make passive
+paslindje | noun | postpartum
+përkujtesë | noun | reminder
+përmotshëm | adj | everlasting
+përnatshëm | adj | nightly
+përrallëz | noun | little tale
+pinakotekë | noun | picture gallery
+pion | noun | pawn
+pneumologji | noun | pulmonology
+poliester | noun | polyester
+proteazë | noun | protease
+pulis | verb | to blink
+punkt | noun | point
+qartësoj | verb | to clarify
+qebap | noun | kebab
+qëndistar | noun | embroiderer
+qyfyr | noun | blasphemy
+regëtij | verb | to quiver
+retor | noun | rhetorician
+riprodhueshëm | adj | reproducible
+rubai | noun | rubaiyat
+rufai | noun | Rifa'i dervish
+rupturë | noun | rupture
+rrënimtar | adj | ruinous
+silos | noun | silo
+sinonimik | adj | synonymous
+skraparlli | noun | person from Skrapar
+soletë | noun | insole
+solfezh | noun | solfège
+sqimatar | adj | dandyish
+symbyllazi | adv | blindly
+shkëmbyeshëm | adj | exchangeable
+shkishërim | noun | excommunication
+shumëfazor | adj | multiphase
+shushk | verb | to hush
+tabako | noun | tobacco
+taksambledhës | noun | tax collector
+talon | noun | stub
+tautologji | noun | tautology
+tejmbushje | noun | overcrowding
+telekonferencë | noun | teleconference
+tepih | noun | carpet
+trafo | noun | transformer
+treshifror | adj | three-digit
+triumvirat | noun | triumvirate
+trupërisht | adv | bodily
+tufëz | noun | small bunch
+turravrap | adv | at a run
+vendprehje | noun | resting place
+viadukt | noun | viaduct
+vjershëtor | noun | versifier
+zelot | noun | zealot
+zëvendëskryeredaktor | noun | deputy editor
+zhbërje | noun | undoing
+zhgjëndërr | verb | to wake from dream
+ablacion | noun | ablation
+aceton | noun | acetone
+adalet | noun | justice
+akuedukt | noun | aqueduct
+aldehid | noun | aldehyde
+anoj | verb | to lean
+antiimperialist | adj | anti-imperialist
+antisizmik | adj | earthquake-proof
+antishtet | noun | anti-state
+asohere | adv | then
+atropinë | noun | atropine
+barazh | noun | barrage
+bletore | noun | apiary
+bukëshkalë | adj | ungrateful
+ciklopik | adj | cyclopean
+çnderim | noun | dishonour
+çupit | verb | to nibble
+çurg | noun | trickle
+dekretligj | noun | decree-law
+demaskues | adj | unmasking
+demoralizim | noun | demoralization
+diksion | noun | diction
+dioptri | noun | dioptre
+ditiramb | noun | dithyramb
+dividend | noun | dividend
+dritësoj | verb | to illuminate
+dublikatë | noun | duplicate
+eshalon | noun | echelon
+etruskishte | noun | Etruscan
+femohues | adj | apostate
+feudo | noun | fief
+fisnikërisht | adv | nobly
+fotonik | adj | photonic
+frenoj | verb | to brake
+furrnaltë | noun | blast furnace
+gaçkë | noun | crack
+gastroenterit | noun | gastroenteritis
+godisje | noun | strike
+gojëmbël | adj | sweet-talking
+granulocit | noun | granulocyte
+gurgdhendës | noun | stonemason
+heksametër | noun | hexameter
+humoral | adj | humoral
+iluzionist | noun | illusionist
+inversion | noun | inversion
+islamizim | noun | Islamization
+jofinanciar | adj | non-financial
+kadaif | noun | kadaif
+kafehane | noun | coffee house
+kapitullues | adj | capitulating
+karrierizëm | noun | careerism
+keqësim | noun | worsening
+klasicizëm | noun | classicism
+kompensoj | verb | to compensate
+kopalla | noun | cudgel
+kredimarrës | noun | borrower
+kreol | noun | Creole
+larushk | adj | speckled
+leksikolog | noun | lexicologist
+lekturë | noun | reading
+liliput | noun | Lilliputian
+margjinalizim | noun | marginalization
+mbingopje | noun | saturation
+merakli | adj | enthusiast
+mexosoprano | noun | mezzo-soprano
+monokulturë | noun | monoculture
+mumie | noun | mummy
+ngathtësi | noun | clumsiness
+nitrogjen | noun | nitrogen
+njësues | adj | unifying
+opal | noun | opal
+panislamizëm | noun | pan-Islamism
+parafundor | adj | penultimate
+paralaks | noun | parallax
+partikularist | adj | particularist
+pasnesërm | adj | the day after tomorrow's
+periodizim | noun | periodization
+pështjellak | noun | muddle
+piktogram | noun | pictogram
+pjacë | noun | square
+polimorf | adj | polymorphous
+polisemik | adj | polysemous
+porsaardhur | adj | newly arrived
+prapësoj | verb | to reverse
+pretoj | verb | to cut
+pronësoj | verb | to appropriate
+qeder | noun | sorrow
+qyrk | noun | fur coat
+racionalizëm | noun | rationalism
+ragu | noun | ragout
+rahmetli | adj | late (deceased)
+rentabël | adj | profitable
+rezil | adj | disgraced
+rriskoj | verb | to risk
+rropos | verb | to wear out
+rrumbullakësi | noun | roundness
+sofistik | adj | sophistic
+stërthënë | adj | hackneyed
+tejshëm | adj | beyond
+tekembramja | adv | finally
+telegrafoj | verb | to telegraph
+terrorizues | adj | terrorizing
+tezak | noun | dung
+torzo | noun | torso
+valanidh | noun | valonia oak
+varrmihës | noun | gravedigger
+veças | adv | separately
+verbësi | noun | blindness
+vernik | noun | varnish
+vjetërsim | noun | ageing
+vlertë | adj | valuable
+zirkon | noun | zircon
+zooplankton | noun | zooplankton
+zhabjak | adj | toadlike
+aforistik | adj | aphoristic
+allaturka | adv | Turkish-style
+angazhues | adj | engaging
+antisovjetik | adj | anti-Soviet
+antitrafik | adj | anti-trafficking
+arkivim | noun | archiving
+ballazi | adv | head-on
+birnor | adj | filial
+bostanxhi | noun | melon grower
+brilopatë | adj | broad-horned
+brokadë | noun | brocade
+bukanik | noun | buccaneer
+byrazer | noun | brother
+çiltas | adv | frankly
+çmendurak | adj | crazy
+çoç | pron | something
+demoralizues | adj | demoralizing
+depozitar | noun | depositary
+dialektolog | noun | dialectologist
+dozim | noun | dosage
+dritëshkurtësi | noun | short-sightedness
+dyfytyrësi | noun | duplicity
+dyqanxhi | noun | shopkeeper
+eksterritorialitet | noun | extraterritoriality
+ekzotizëm | noun | exoticism
+emfatik | adj | emphatic
+encefalit | noun | encephalitis
+etnopsikologji | noun | ethnopsychology
+etnopsikologjik | adj | ethnopsychological
+fatzezë | adj | ill-fated
+fukarallëk | noun | poverty
+fuzion | noun | fusion
+garzë | noun | gauze
+gaus | noun | gauss
+grasoj | verb | to grease
+gjakderdhës | adj | bloody
+hakërrim | noun | threat
+hiatus | noun | hiatus
+humanizim | noun | humanization
+ideoestetik | adj | ideo-aesthetic
+imigracion | noun | immigration
+imunologji | noun | immunology
+intelektualist | noun | intellectualist
+kacavar | verb | to climb
+kail | adj | content
+kakaris | verb | to cackle
+kandis | verb | to persuade
+kanistër | noun | canister
+kapërcyeshëm | adj | surmountable
+kateter | noun | catheter
+kation | noun | cation
+klikoj | verb | to click
+kobër | noun | cobra
+kobzezë | adj | ill-starred
+komisionar | noun | commission agent
+koncil | noun | council
+kredimarrje | noun | borrowing
+kurnac | adj | miserly
+lirues | adj | releasing
+maltozë | noun | maltose
+mbishartesë | noun | inscription
+menekshe | noun | violet
+merhum | adj | late
+metanol | noun | methanol
+metonimik | adj | metonymic
+mikrosekondë | noun | microsecond
+mobilier | noun | furniture
+moler | noun | painter
+moskokëçarës | adj | indifferent
+nëntip | noun | subtype
+papërkulshëm | adj | unbending
+papranueshmëri | noun | inadmissibility
+parafin | noun | paraffin
+parmbrëmë | adv | the night before last
+pazier | noun | trader
+perimtari | noun | vegetable growing
+perversion | noun | perversion
+përnjëhershëm | adj | immediate
+porfir | noun | porphyry
+praktikueshëm | adj | practicable
+profashist | adj | pro-fascist
+qashtër | adj | clear
+qërim | noun | peeling
+qostek | noun | watch chain
+rajë | noun | subjects
+revy | noun | revue
+sekantë | noun | secant
+separat | noun | offprint
+siguresë | noun | fuse
+skërmit | verb | to bare teeth
+sojnik | noun | nobleman
+sterilizim | noun | sterilization
+stërhollim | noun | hair-splitting
+shinik | noun | grain measure
+shkëlqimtar | adj | brilliant
+shor | noun | shore
+teuton | noun | Teuton
+tinkturë | noun | tincture
+traktorist | noun | tractor driver
+troposferë | noun | troposphere
+valoj | verb | to boil
+vazelinë | noun | vaseline
+vdekatar | adj | mortal
+veladon | noun | cassock
+vesoj | verb | to bedew
+vëllaçko | noun | little brother
+vjershëtar | noun | versifier
+zemërgur | adj | heartless
+zhgun | noun | homespun cloak
+aglutinim | noun | agglutination
+agjenturë | noun | agency
+akademist | noun | academician
+alken | noun | alkene
+angiotensin | noun | angiotensin
+antikrim | adj | anti-crime
+apendiks | noun | appendix
+arrtë | adj | walnut
+bacil | noun | bacillus
+batist | noun | batiste
+bazoj | verb | to base
+besëprerë | adj | faithless
+brak | adj | sparse
+çapaçul | adj | slovenly
+çregjistrim | noun | deregistration
+dekontaminim | noun | decontamination
+devolliçe | noun | woman from Devoll
+diapozitiv | noun | slide
+dumping | noun | dumping
+duralumin | noun | duralumin
+dyzen | noun | tuning
+ekspresion | noun | expression
+epitel | noun | epithelium
+ermen | noun | Armenian
+farëz | noun | seedling
+fermentues | adj | fermenting
+fillorist | noun | primary pupil
+fjalëz | noun | particle
+flamë | noun | flame
+fletëparaqitje | noun | summons
+fluoreshencë | noun | fluorescence
+foks | noun | focus
+gazoil | noun | diesel
+gërdi | noun | disgust
+gogozhare | noun | jew's harp
+gribë | noun | flu
+gungaç | noun | hunchback
+gjerazi | adv | widely
+hasret | noun | longing
+hejbe | noun | saddlebag
+heshtak | adj | taciturn
+hidrolizë | noun | hydrolysis
+histerizëm | noun | hysteria
+ilaritet | noun | hilarity
+imcak | adj | tiny
+indeksim | noun | indexing
+indulgjencë | noun | indulgence
+infektoj | verb | to infect
+inkuizicion | noun | inquisition
+joushqimor | adj | non-food
+kadastror | adj | cadastral
+kallaballëk | noun | crowd
+karakoll | noun | guard post
+kauçuk | noun | rubber
+keqfunksionim | noun | malfunction
+këmbëz | noun | trigger
+koagulim | noun | coagulation
+kompostim | noun | composting
+koncern | noun | concern
+korzo | noun | promenade
+korrekturë | noun | proofreading
+ksilemë | noun | xylem
+labçe | adv | in Lab dialect
+lakueshmëri | noun | flexibility
+lojcak | adj | playful
+madhërisht | adv | majestically
+makiavelist | noun | Machiavellian
+materializim | noun | materialization
+matriarkat | noun | matriarchy
+menatë | noun | mint
+mishtar | noun | butcher
+modulator | noun | modulator
+ndijues | adj | sensory
+novatorizëm | noun | innovation
+nusëroj | verb | to behave as a bride
+njëthundrak | adj | odd-toed
+oktet | noun | octet
+orden | noun | order
+pakonkurrueshëm | adj | unbeatable
+pakorrigjueshëm | adj | incorrigible
+paralelepiped | noun | parallelepiped
+paushall | adv | lump-sum
+petrografik | adj | petrographic
+përçim | noun | conduction
+përndez | verb | to kindle
+pinjoj | verb | to sprout
+postiqe | noun | sheepskin
+poshtërsisht | adv | basely
+promil | noun | per mille
+pseudopatriot | noun | pseudo-patriot
+psikoterapeut | noun | psychotherapist
+qerrata | adj | sly
+redaktorial | adj | editorial
+resk | noun | risk
+retush | noun | retouching
+rifus | verb | to reinsert
+risim | noun | innovation
+rosto | noun | roast
+roshan | adj | bald
+rudë | noun | rue
+silabik | adj | syllabic
+specializues | adj | specializing
+stavë | noun | stack
+sharlatanizëm | noun | charlatanism
+shtriq | verb | to stretch
+telegrafist | noun | telegraphist
+telepatik | adj | telepathic
+teleprinter | noun | teleprinter
+tipizim | noun | typification
+tornitor | noun | turner
+traumatologji | noun | traumatology
+tullar | noun | brickmaker
+thirrmor | adj | vocative
+uratore | noun | blessing
+ventil | noun | valve
+verizëm | noun | verismo
+vetushqyes | adj | autotrophic
+vidhos | verb | to screw
+vikat | verb | to shout
+viktimizim | noun | victimization
+vullnesë | noun | will
+xhelep | noun | livestock dealer
+zatet | verb | to catch
+zbardhoj | verb | to whiten
+zevzek | adj | silly
+zëmadh | adj | loud-voiced
+zvarg | verb | to drag
+zhukë | noun | rush
+aerob | adj | aerobic
+aftër | adj | capable
+agrokulturë | noun | agriculture
+akordues | noun | tuner
+alfabetizim | noun | literacy campaign
+amil | noun | amyl
+anamnezë | noun | anamnesis
+androgjin | adj | androgynous
+antiburokratik | adj | anti-bureaucratic
+antiitalian | adj | anti-Italian
+antipiretik | adj | antipyretic
+arrivist | noun | arriviste
+asfiksues | adj | asphyxiating
+asimilueshëm | adj | assimilable
+astrolab | noun | astrolabe
+ataman | noun | ataman
+atavik | adj | atavistic
+atlant | noun | Atlas figure
+azat | adj | free
+azimut | noun | azimuth
+baft | noun | luck
+bajgore | noun | dung heap
+ballkanolog | noun | Balkanologist
+batall | adj | idle
+bilmez | adj | dimwit
+bojler | noun | boiler
+bronkopneumoni | noun | bronchopneumonia
+bucelë | noun | flask
+buçuk | noun | half
+bulb | noun | bulb
+citologjik | adj | cytological
+cullufe | noun | forelock
+çarës | adj | splitting
+çerep | noun | baking lid
+çibuk | noun | pipe
+çmobilizuar | adj | demobilized
+çne | particle | what
+çnjerëzisht | adv | inhumanly
+# ── n15.tsv ──
+arkangjell | noun | archangel
+brezar | adj | zonal
+çorapegjatë | noun | Pippi Longstocking
+dorëshkrimor | adj | manuscript
+fërkues | adj | rubbing
+filipikë | noun | philippic
+gonadë | noun | gonad
+hifë | noun | hypha
+jashtëmësimor | adj | extracurricular
+katapultoj | verb | to catapult
+liberalizues | adj | liberalizing
+neogjen | noun | Neogene
+pambyllur | adj | unclosed
+zambakor | adj | liliaceous
+zoonozë | noun | zoonosis
+aneurizëm | noun | aneurysm
+luhatës | adj | fluctuating
+orogjenezë | noun | orogeny
+pronaos | noun | pronaos
+pulsoj | verb | to pulse
+qenkam | verb | (admirative of) to be
+spërkas | verb | to sprinkle
+transoqeanik | adj | transoceanic
+thekoj | verb | to toast
+varikoz | adj | varicose
+abrazion | noun | abrasion
+afroaziatik | adj | Afro-Asiatic
+alkalik | adj | alkaline
+çunak | noun | lad
+dajlan | adj | strapping
+daktilograf | noun | typist
+decentralizues | adj | decentralizing
+dekodim | noun | decoding
+dendrit | noun | dendrite
+deriçkë | noun | small door
+devijoj | verb | to deviate
+diastolë | noun | diastole
+dietolog | noun | dietitian
+diskreditim | noun | discrediting
+dispeçer | noun | dispatcher
+dridhshëm | adj | tremulous
+dyatomik | adj | diatomic
+dhëmbësharrë | adj | serrated
+dhjetar | noun | decurion
+ekzibicionist | noun | exhibitionist
+ekzorcist | noun | exorcist
+elektromotor | noun | electric motor
+evolues | adj | evolving
+evropianoperëndimor | adj | Western European
+farfuri | noun | porcelain
+flegmatik | adj | phlegmatic
+flokëgjatë | adj | long-haired
+fondament | noun | foundation
+formalist | noun | formalist
+fotozhenik | adj | photogenic
+frontalisht | adv | frontally
+gamen | noun | urchin
+ganglion | noun | ganglion
+glosar | noun | glossary
+gonorre | noun | gonorrhoea
+gramaturë | noun | grammage
+granulat | noun | granulate
+gjermanizim | noun | Germanization
+harmonikisht | adv | harmoniously
+hirplotë | adj | graceful
+historizëm | noun | historicism
+igumen | noun | abbot
+imigroj | verb | to immigrate
+inatçi | adj | spiteful
+inguinal | adj | inguinal
+injektues | adj | injecting
+kamelie | noun | camellia
+kamionist | noun | truck driver
+karpentier | noun | formwork carpenter
+kilometrazh | noun | mileage
+kloun | noun | clown
+koçimare | noun | small boat
+kohëpaskohshëm | adj | occasional
+kontrabandoj | verb | to smuggle
+konvaleshencë | noun | convalescence
+kooperoj | verb | to cooperate
+kromatinë | noun | chromatin
+kubaturë | noun | cubic capacity
+kuqal | adj | reddish
+kurthim | noun | trapping
+lateks | noun | latex
+lebros | verb | to infect with leprosy
+llëngë | noun | plot of land
+malarik | adj | malarial
+malësorçe | adv | in highland style
+manifakturë | noun | textiles
+mareshal | noun | marshal
+masivitet | noun | massiveness
+mbingopur | adj | supersaturated
+megaton | noun | megaton
+metatezë | noun | metathesis
+metrologji | noun | metrology
+mjekrosh | noun | bearded man
+muziktar | noun | musician
+naftëtar | noun | oil worker
+ndajshtesor | adj | affixal
+ndruaj | verb | to fear
+nebuloz | adj | nebulous
+nënkala | noun | lower citadel
+ngryk | verb | to choke
+njëkohshmëri | noun | simultaneity
+objeksion | noun | objection
+oktan | noun | octane
+ordinatë | noun | ordinate
+ornamentikë | noun | ornamentation
+oscilim | noun | oscillation
+ovul | noun | ovule
+pagëzor | noun | baptistery
+parimësi | noun | adherence to principle
+peritonit | noun | peritonitis
+petanik | noun | flatbread
+përfaq | verb | to face
+përsëdyt | verb | to repeat
+përvjedhur | adj | stealthy
+përrallis | verb | to tell tales
+plëngprishës | noun | spendthrift
+polikromi | noun | polychromy
+pozitivizëm | noun | positivism
+prajshëm | adj | gentle
+pranëvënie | noun | juxtaposition
+precedencë | noun | precedence
+primadonë | noun | prima donna
+prrall | noun | evergreen oak
+puthmë | adj | fond of kissing
+rezus | noun | rhesus
+rogë | noun | wage
+romanistikë | noun | Romance studies
+romboid | noun | rhomboid
+rusalkë | noun | water nymph
+rrobalarës | noun | launderer
+rrojtje | noun | living
+sehirxhi | noun | onlooker
+semiologji | noun | semiology
+sirt | noun | ridge
+sistemues | adj | systematizing
+sizmologji | noun | seismology
+skedoj | verb | to file
+skematizim | noun | schematization
+syshqiponjë | adj | eagle-eyed
+shakatar | noun | joker
+shestim | noun | planning
+shfytyrim | noun | disfigurement
+shkarravis | verb | to scribble
+shpifarak | adj | slanderous
+shpirtzi | adj | wicked
+tabakhane | noun | tannery
+tejembanë | adv | beyond
+tercë | noun | third
+ternë | noun | tern
+terroj | verb | to dry
+testamentar | adj | testamentary
+toponomastikë | noun | toponymy
+torishtë | noun | pen
+toz | noun | dust
+trapazan | adj | clumsy
+trening | noun | training
+trinom | noun | trinomial
+thile | noun | loop
+vitaminoz | adj | vitamin-rich
+voltazh | noun | voltage
+xhumbë | noun | lump
+zoogjeografi | noun | zoogeography
+zhaurimë | noun | rumble
+zhbij | verb | to unwind
+zhdëmtim | noun | compensation
+zhubravit | verb | to crumple
+akraballëk | noun | kinship
+aktivoj | verb | to activate
+albanizëm | noun | Albanianism
+amshueshmëri | noun | eternity
+amullt | adj | stagnant
+andejpari | adv | over there
+anesteziolog | noun | anaesthesiologist
+anullim | noun | cancellation
+atletizëm | noun | athletics
+aval | noun | guarantee
+aventurizëm | noun | adventurism
+aveny | noun | avenue
+bagrem | noun | locust tree
+bahçevan | noun | gardener
+ballkanizim | noun | Balkanization
+bashkëkohanik | noun | contemporary
+bentonit | noun | bentonite
+bezistan | noun | covered market
+biomekanikë | noun | biomechanics
+bubël | noun | insect
+buzëdet | noun | seaside
+çmontim | noun | dismantling
+çomlek | noun | stew
+çuditës | adj | surprising
+dallueshmëri | noun | distinctiveness
+deduktoj | verb | to deduce
+deklinacion | noun | declension
+demant | noun | denial
+demarsh | noun | démarche
+demaskoj | verb | to unmask
+dembelizëm | noun | laziness
+detantë | noun | détente
+dimërim | noun | wintering
+disiplinim | noun | disciplining
+distileri | noun | distillery
+djathtizëm | noun | right-wing politics
+dobësoj | verb | to weaken
+dyst | adj | flat
+efuzion | noun | effusion
+ekspeditiv | adj | expeditious
+eksplozion | noun | explosion
+emfazë | noun | emphasis
+endotermik | adj | endothermic
+fatmbarë | adj | fortunate
+femur | noun | femur
+fiksoj | verb | to fix
+filateli | noun | philately
+financoj | verb | to finance
+fshatçe | adv | in village style
+fshikull | noun | whip
+furrtar | noun | baker
+gazetashitës | noun | newspaper seller
+glagolitik | adj | Glagolitic
+gnoseologjik | adj | epistemological
+gojëkyçur | adj | tight-lipped
+gjithfarëlloj | pron | all kinds
+gjurmëlënës | adj | impactful
+hazër | adj | ready
+hematolog | noun | haematologist
+hematuri | noun | haematuria
+hijezim | noun | shading
+hiperbolizoj | verb | to exaggerate
+hisedar | noun | shareholder
+hollak | adj | slender
+ikonom | noun | steward
+informbyroist | noun | Cominformist
+inxhi | noun | pearl
+kapistall | noun | trough
+karambol | noun | pile-up
+kaskë | noun | helmet
+katërmujor | adj | four-month
+kavak | noun | poplar
+kodifikues | adj | codifying
+komunar | noun | communard
+konkordat | noun | concordat
+korruptueshëm | adj | corruptible
+kotiledon | noun | cotyledon
+kryqor | adj | cruciform
+kuant | noun | quantum
+kuluare | noun | lobbies
+kundërvajtës | noun | offender
+kutikulë | noun | cuticle
+lëpirje | noun | licking
+linjtë | adj | linen
+lokalizues | adj | localizing
+lotore | noun | tear vial
+llamburit | verb | to gleam
+majuc | noun | tip
+masivizoj | verb | to make widespread
+mbirje | noun | germination
+mbufat | verb | to puff up
+metioninë | noun | methionine
+mëmëdhetar | noun | patriot
+mërmërimë | noun | murmur
+mërsinë | noun | myrtle
+mikado | noun | mikado
+mikrobotë | noun | microcosm
+miniatural | adj | miniature
+mirëserdhe | interj | welcome
+mitmarrje | noun | bribery
+monokotiledon | adj | monocotyledonous
+nakatos | verb | to entangle
+ndërgjegjshmëri | noun | consciousness
+ndijë | noun | feeling
+neokolonialist | adj | neocolonialist
+neoplazmë | noun | neoplasm
+nevralgji | noun | neuralgia
+nënshartesë | noun | subscription
+nëntëdhjetenëntë | num | ninety-nine
+nënvleftësim | noun | underestimation
+ngacmueshmëri | noun | excitability
+oho | interj | oho
+origjinar | adj | original
+orografik | adj | orographic
+oronim | noun | oronym
+pacenueshmëri | noun | inviolability
+pajtimtar | noun | subscriber
+paleografik | adj | palaeographic
+pandan | noun | counterpart
+paqortueshëm | adj | irreproachable
+paralizim | noun | paralysis
+pendestar | noun | ploughman
+peon | noun | peon
+perfeksionim | noun | perfecting
+përskuqur | adj | reddened
+pirimidinë | noun | pyrimidine
+piroman | noun | pyromaniac
+pirust | noun | Pirustae
+plastmasë | noun | plastic
+plumbç | noun | pellet
+pozitron | noun | positron
+prapakthim | noun | reversal
+prestar | noun | cutter
+pritmë | noun | ambush
+proçkë | noun | nonsense
+prokurues | noun | procurer
+pupthi | adv | plump
+racionoj | verb | to ration
+retiçencë | noun | reticence
+rezonator | noun | resonator
+rusomadh | noun | Great Russian
+rrotullueshëm | adj | rotatable
+semimaturë | noun | pre-graduation exam
+sikush | pron | everyone
+skofiar | noun | bishop
+smirëzi | adj | envious
+spekulues | adj | speculative
+spermatozoid | noun | spermatozoon
+stafidhe | noun | raisins
+stigmatizues | adj | stigmatizing
+streptokok | noun | streptococcus
+stricë | noun | strip
+sufler | noun | prompter
+sulfit | noun | sulphite
+sharrëxhi | noun | sawyer
+shkalafit | verb | to stagger
+shpirtshitur | adj | sold-out
+tarator | noun | tarator
+termostat | noun | thermostat
+tetëfishtë | adj | eightfold
+tokmak | noun | mallet
+trazovaç | noun | troublemaker
+trëndafilishtë | noun | rose garden
+trofik | adj | trophic
+tumul | noun | tumulus
+velter | noun | welterweight
+vendmbërritje | noun | destination
+vendnumërim | noun | counting centre
+vermut | noun | vermouth
+vetëlavdërim | noun | self-praise
+vetorganizim | noun | self-organization
+vivar | noun | fishpond
+vokalizim | noun | vocalization
+vrundull | noun | whirlwind
+xhentëlmen | noun | gentleman
+xhevap | noun | answer
+xhurdi | noun | sleeveless coat
+abej | verb | to notice
+acidozë | noun | acidosis
+afazi | noun | aphasia
+afroamerikan | noun | African American
+agorafobi | noun | agoraphobia
+ahmak | adj | foolish
+akraba | noun | relatives
+aksent | noun | accent
+alet | noun | tool
+aventurist | noun | adventurer
+bakteriolog | noun | bacteriologist
+balushë | noun | white-faced cow
+bankrotoj | verb | to go bankrupt
+bashkorganizator | noun | co-organizer
+betonierë | noun | concrete mixer
+binokular | adj | binocular
+bletërritës | noun | beekeeper
+bohçe | noun | bundle
+bonifikim | noun | land reclamation
+bonifikues | adj | reclamation
+bozaxhi | noun | boza seller
+brenë | noun | grub
+brucelozë | noun | brucellosis
+buçitës | adj | booming
+bujkrob | noun | serf
+bungajë | noun | oak wood
+burdon | noun | drone (music)
+buzuk | noun | bouzouki
+citokinezë | noun | cytokinesis
+çnjohje | noun | disavowal
+çullhaj | verb | to scrub
+dakik | adj | punctual
+dekolonizim | noun | decolonization
+dekretoj | verb | to decree
+dëmprurës | adj | harmful
+dinakërisht | adv | cunningly
+disfatizëm | noun | defeatism
+distilues | noun | distiller
+doajen | noun | doyen
+dramatizëm | noun | drama
+dyfazor | adj | two-phase
+ekzorcizëm | noun | exorcism
+elektrokardiogram | noun | electrocardiogram
+epshndjellës | adj | lustful
+fenol | noun | phenol
+filokserë | noun | phylloxera
+fisshëm | adj | noble
+flamosur | adj | cursed
+flokëbardhë | adj | white-haired
+fonacion | noun | phonation
+gamilje | noun | camel
+gandizëm | noun | Gandhism
+gazmbajtës | adj | gas-bearing
+geront | noun | elder
+gletë | noun | litharge
+gurajë | noun | stony place
+gjergjef | noun | embroidery hoop
+gjithfarshëm | adj | diverse
+haliç | noun | estuary
+havadan | adv | in vain
+hidronim | noun | hydronym
+hiperbolizim | noun | exaggeration
+ideogram | noun | ideogram
+indishte | noun | hemp field
+jashtëligjor | adj | extralegal
+jonosferë | noun | ionosphere
+kafexhi | noun | coffee maker
+katalizë | noun | catalysis
+këmbadoras | adv | on all fours
+këmbalec | noun | tripod
+kërpicë | noun | adobe
+kinokomedi | noun | comedy film
+kobzi | adj | ominous
+kokëkuq | adj | redheaded
+kolaboracionizëm | noun | collaborationism
+kolizion | noun | collision
+konfesion | noun | confession
+kriptologji | noun | cryptology
+kryerol | noun | leading role
+labot | noun | ladle
+lakadredh | adj | winding
+lakmoj | verb | to covet
+ledhatar | adj | affectionate
+linç | noun | lynching
+llojllojtë | adj | various
+makaroni | noun | macaroni
+manto | noun | coat
+marinadë | noun | marinade
+marroq | adj | foolish
+masivizim | noun | mass spreading
+mefshtësi | noun | softness
+menisk | noun | meniscus
+merceologji | noun | commodity science
+mëkatim | noun | sinning
+mënjollë | noun | stain
+mikrostrukturë | noun | microstructure
+minuet | noun | minuet
+mitoman | noun | mythomaniac
+mosdashje | noun | unwillingness
+mosinformim | noun | lack of information
+mosparaqitje | noun | non-appearance
+mujshi | noun | lowland
+multipleks | noun | multiplex
+myslimanizëm | noun | Islam
+ndejshëm | adj | sedentary
+ndyrësirë | noun | filth
+nekrolog | noun | obituary
+neofashist | noun | neo-fascist
+neokolonial | adj | neocolonial
+nergut | noun | irritability
+nënëmadhe | noun | grandmother
+nopran | noun | weasel
+njëzetepestë | adj | twenty-fifth
+objektivizëm | noun | objectivism
+oliguri | noun | oliguria
+ovulim | noun | ovulation
+paleograf | noun | palaeographer
+pangopësi | noun | greed
+pangushëllueshëm | adj | inconsolable
+panjerëzishëm | adj | inhuman
+parandier | verb | to sense in advance
+pashkelshëm | adj | untrodden
+pashprehshëm | adj | inexpressible
+penalist | noun | criminal lawyer
+periskop | noun | periscope
+përgjumësi | noun | drowsiness
+përkisje | noun | belonging
+përlarë | adj | washed
+përroskë | noun | brook
+polder | noun | polder
+poligraf | noun | polygraph
+popullorçe | adv | in folk style
+potasik | adj | potassic
+prapmë | adj | rear
+promenadë | noun | promenade
+qenar | noun | dog keeper
+qesar | noun | purse maker
+recidiv | noun | relapse
+rekomande | adj | registered (mail)
+reptil | noun | reptile
+rifreskues | adj | refreshing
+rivendikoj | verb | to reclaim
+# ── n16.tsv ──
+ulluk | noun | gutter
+argjir | noun | silver
+cirkulare | noun | circular
+kruajtës | adj | itchy
+ndrij | verb | to shine
+omletë | noun | omelette
+përulës | adj | humble
+prapakthehem | verb | to turn back
+rrotullam | noun | rotation
+vali | noun | governor
+xhezve | noun | coffee pot
+afirmues | adj | affirming
+alokoj | verb | to allocate
+antikosovar | adj | anti-Kosovo
+cementoj | verb | to cement
+çitjan | noun | peasant
+gardhiq | noun | fence
+hakërrej | verb | to threaten
+jeshillëk | noun | greenery
+klitor | noun | clitoris
+kryekuvendar | noun | chairman
+lavër | noun | ploughing
+mbisundoj | verb | to dominate
+nematodë | noun | nematode
+patllakë | noun | pop
+pavetor | adj | impersonal
+përafrues | adj | approximating
+plastid | noun | plastid
+rrotulloj | verb | to rotate
+rrufis | verb | to slurp
+saksofonist | noun | saxophonist
+selamllëk | noun | reception room
+sëkëlldi | noun | anxiety
+sifon | noun | siphon
+sillmë | adj | polite
+sizmolog | noun | seismologist
+solidarësi | noun | solidarity
+solstic | noun | solstice
+shformim | noun | deformation
+shkartis | verb | to sort out
+shpupurit | verb | to tousle
+shtangie | noun | stupor
+shtatëditor | adj | seven-day
+tejshkrim | noun | transcription
+tenesin | noun | tennessine
+termoelement | noun | thermocouple
+tiradë | noun | tirade
+toksikolog | noun | toxicologist
+trajtëformues | adj | inflectional
+trallis | verb | to daze
+transportoj | verb | to transport
+trikotazh | noun | knitwear
+trokisje | noun | knocking
+trombon | noun | trombone
+thadroj | verb | to plane
+thyhem | verb | to break
+ultramodern | adj | ultramodern
+vajmedet | interj | alas
+vaskulit | noun | vasculitis
+verbas | adv | blindly
+vestern | noun | western
+vetëdigjem | verb | to self-immolate
+vetëdijesohem | verb | to become aware
+vetëdrejtues | adj | self-steering
+vetëflijohem | verb | to sacrifice oneself
+vetësakrifikim | noun | self-sacrifice
+virtytshmëri | noun | virtuousness
+vjeshtak | adj | autumnal
+zallahi | noun | fuss
+zdrit | verb | to light up
+aciklik | adj | acyclic
+akribi | noun | meticulousness
+akselerim | noun | acceleration
+alkin | noun | alkyne
+allashqiptarçe | adv | Albanian-style
+antiajror | adj | anti-aircraft
+antimarksist | adj | anti-Marxist
+antropoid | adj | anthropoid
+areolë | noun | areola
+arteriolë | noun | arteriole
+artritik | adj | arthritic
+atomistik | adj | atomistic
+autogjen | adj | autogenous
+avokaturë | noun | advocacy
+ballkanologjik | adj | Balkanological
+barabarësi | noun | equality
+bashkëpërkim | noun | congruence
+bejtar | noun | folk poet
+beletristikë | noun | fiction
+belik | adj | obvious
+biceps | noun | biceps
+blacë | noun | gall nut
+blister | noun | blister pack
+bubulak | noun | bud
+buçimë | noun | roar
+butafori | noun | props
+buzëmadh | adj | thick-lipped
+citrat | noun | citrate
+çapraz | adv | crosswise
+çermenikas | noun | person from Çermenika
+çiban | noun | boil
+çiftim | noun | mating
+çikëz | adv | a little
+çiltëri | noun | candour
+çiltërsisht | adv | candidly
+çmallem | verb | to satisfy longing
+çminim | noun | demining
+çorodit | verb | to corrupt
+çoroditës | adj | corrupting
+damlla | noun | apoplexy
+defetizëm | noun | defeatism
+demontim | noun | dismantling
+derdimen | adj | happy-go-lucky
+dialektikisht | adv | dialectically
+disiplinues | adj | disciplinary
+distrofi | noun | dystrophy
+dregëz | noun | scab
+dypolar | adj | bipolar
+dyshekullor | adj | two-century
+efiçient | adj | efficient
+eksportoj | verb | to export
+ekstraktim | noun | extraction
+emnesë | noun | designation
+eolit | noun | eolith
+erupsion | noun | eruption
+faturist | noun | invoice clerk
+fermanli | adj | licensed
+fistulë | noun | fistula
+fitoklimatik | adj | phytoclimatic
+flokëthinjur | adj | grey-haired
+fytas | adv | by the throat
+gajdexhi | noun | bagpiper
+galvanometër | noun | galvanometer
+grirje | noun | mincing
+gurëthyes | noun | stonebreaker
+gjashtëmuajsh | adj | six-month
+gjëkafshë | noun | trifle
+gjithfarësoj | adv | in all ways
+gjysmëautomatik | adj | semi-automatic
+hakërryer | adj | threatened
+halldup | noun | fool
+hapsanë | noun | prison
+harar | noun | sack
+hazine | noun | treasure
+hyjnizim | noun | deification
+idealizues | adj | idealizing
+iktiologji | noun | ichthyology
+importoj | verb | to import
+inventarizim | noun | inventory
+irelevant | adj | irrelevant
+jamball | noun | clay jug
+japrak | noun | stuffed vine leaves
+jargavitem | verb | to drool
+joselektiv | adj | non-selective
+kazus | noun | case
+kibuc | noun | kibbutz
+kilotë | noun | knickers
+kolerik | adj | choleric
+kolovit | verb | to rock
+kongruencë | noun | congruence
+kongjestion | noun | congestion
+konsultore | noun | clinic
+kontrakturë | noun | contracture
+koshadhe | noun | wicker cart
+kremtoj | verb | to celebrate
+krezmim | noun | confirmation
+kriminolog | noun | criminologist
+kuantum | noun | quantum
+kudogjendshëm | adj | ubiquitous
+kulmak | noun | peak
+kuqalosh | adj | rosy
+kurbetçi | noun | migrant worker
+leksikologjik | adj | lexicological
+lëbyr | verb | to blind
+lëngëzim | noun | liquefaction
+libërlidhje | noun | bookbinding
+likuidues | noun | liquidator
+litosferë | noun | lithosphere
+lyhem | verb | to put on make-up
+madhoj | verb | to enlarge
+maltretim | noun | maltreatment
+maratonist | noun | marathon runner
+marmotë | noun | marmot
+martalloz | noun | martolos
+maskues | adj | masking
+mbrojtshëm | adj | defensible
+metelik | noun | small coin
+mëngjër | adj | left
+mërrol | adj | gloomy
+mikrofilm | noun | microfilm
+monopolizim | noun | monopolization
+motak | noun | peer
+mundësues | adj | enabling
+namus | noun | honour
+nazeli | adj | coy
+ndërkallur | adj | inserted
+ndërliqshëm | adj | complicated
+ndërnyje | noun | internode
+ngordhësirë | noun | carcass
+ngrefos | verb | to strut
+ngufas | verb | to choke
+nikoqirllëk | noun | thrift
+nitrocelulozë | noun | nitrocellulose
+normist | noun | standards officer
+nunciatë | noun | nunciature
+njëzëshmëri | noun | unanimity
+operativist | noun | operative
+optoelektronikë | noun | optoelectronics
+ornitolog | noun | ornithologist
+pacak | noun | trotter
+padiktueshëm | adj | undetectable
+pafrenueshëm | adj | unstoppable
+paketues | noun | packer
+pambrojtshëm | adj | indefensible
+pamfletist | noun | pamphleteer
+pandashmëri | noun | indivisibility
+pandehmë | noun | supposition
+papërcaktueshëm | adj | indeterminable
+paqësim | noun | pacification
+parrëfyeshëm | adj | indescribable
+pasdarke | noun | evening
+pedologji | noun | pedology
+perfuzion | noun | perfusion
+perifrastik | adj | periphrastic
+perifrazë | noun | periphrasis
+peristaltikë | noun | peristalsis
+përkohësi | noun | temporariness
+përmall | verb | to fill with longing
+përtharë | noun | stubble field
+pijetar | noun | drinker
+pirografi | noun | pyrography
+pirrë | noun | couch grass
+politesë | noun | politeness
+precipitat | noun | precipitate
+psikologjizëm | noun | psychologism
+pylltar | noun | forester
+qylaf | noun | white felt cap
+rapsodik | adj | rhapsodic
+represalje | noun | reprisal
+reumë | noun | rheum
+revizionim | noun | revision
+rrepkë | noun | radish
+rrokopujë | noun | abyss
+rropamë | noun | racket
+rrotullak | adj | round
+sakarozë | noun | sucrose
+salltanet | noun | pomp
+sfakë | noun | slap
+silvikulturë | noun | silviculture
+skalion | noun | stairs
+skerco | noun | scherzo
+skicograf | noun | sketcher
+sllavofil | noun | Slavophile
+sorollop | adv | aimlessly
+sqetullore | noun | armhole
+stigmatizim | noun | stigmatization
+strofik | adj | strophic
+sherrxhi | noun | troublemaker
+shoqërizim | noun | socialization
+shpresëhumbur | adj | hopeless
+shtyllëz | noun | column
+tabiat | noun | temperament
+tarbë | noun | shed
+termoelektrik | adj | thermoelectric
+teslim | noun | surrender
+tëmbël | noun | milk
+tiroid | noun | thyroid
+tradicionalizëm | noun | traditionalism
+transpozicion | noun | transposition
+trockist | noun | Trotskyist
+trokaik | adj | trochaic
+trokth | adv | at a trot
+tumir | noun | brood
+thatim | noun | drying
+umlaut | noun | umlaut
+urryeshëm | adj | hateful
+utopizëm | noun | utopianism
+vesk | verb | to wither
+virulencë | noun | virulence
+vizak | adj | squinting
+vrushkull | noun | gust
+xixëllues | adj | sparkling
+xhakon | noun | deacon
+xhymert | adj | generous
+zemërzjarrtë | adj | ardent
+abraziv | adj | abrasive
+abstraktoj | verb | to abstract
+adept | noun | adherent
+akselerometër | noun | accelerometer
+aksionist | noun | activist
+akullim | noun | freezing
+alize | noun | trade wind
+allaxha | noun | striped cloth
+amfoter | adj | amphoteric
+analgjezi | noun | analgesia
+anëshkrim | noun | marginal note
+antirevolucionar | adj | counter-revolutionary
+apeks | noun | apex
+argjipeshkëv | noun | archbishop
+arkas | noun | cashier
+ashar | noun | tithe
+atomist | noun | atomist
+autokontroll | noun | self-control
+bakteriofag | noun | bacteriophage
+ballkanologji | noun | Balkan studies
+barabit | verb | to equalize
+bazile | noun | basil
+berbat | adj | ruined
+beril | noun | beryl
+binokël | noun | binoculars
+blanë | noun | trough
+blindazh | noun | armour plating
+bogaz | noun | gorge
+bolid | noun | race car
+brendazi | adv | inwardly
+budallaçkë | noun | silly woman
+bullafiq | verb | to bungle
+burrëreshë | noun | manly woman
+çatmë | noun | wattle wall
+çekuilibrim | noun | imbalance
+çudë | noun | wonder
+daktiloskopik | adj | fingerprint
+dallaveraxhi | noun | swindler
+darvinist | noun | Darwinist
+datues | noun | dater
+davaris | verb | to bring down
+decilitër | noun | decilitre
+dehumanizim | noun | dehumanization
+dekik | noun | minute
+delenxhi | noun | shepherd
+delinkuent | noun | delinquent
+dezertues | noun | deserter
+dëmshpërblej | verb | to compensate
+dëshpërueshëm | adj | desperate
+dimërues | adj | overwintering
+dirigjoj | verb | to conduct
+disamuajsh | adj | several-month
+dispanseri | noun | dispensary
+dorje | noun | handle
+duduk | noun | duduk
+dydrejtimësh | adj | two-way
+dyujës | adj | amphibious
+edepsëz | adj | rude
+egërshan | adj | wild
+ekolog | noun | ecologist
+ekskretim | noun | excretion
+ekspoziturë | noun | branch office
+ekzantemë | noun | exanthema
+elbasanisht | adv | in Elbasan dialect
+epifizë | noun | pineal gland
+epigon | noun | epigone
+epinefrinë | noun | epinephrine
+etatizëm | noun | statism
+etnikum | noun | ethnic group
+etnocid | noun | ethnocide
+eufonik | adj | euphonious
+faktorizim | noun | factorization
+farkëtues | noun | smith
+fëlligështi | noun | filth
+fërfëlloj | verb | to flutter
+fërnet | noun | fernet
+fërtele | noun | shred
+flurim | noun | gold coin
+formatizoj | verb | to format
+fragmentarizëm | noun | fragmentation
+fragmentoj | verb | to fragment
+funksionalizim | noun | functionalization
+fyhem | verb | to be offended
+gangsterizëm | noun | gangsterism
+gastare | noun | glass jar
+gavetë | noun | mess tin
+gërhij | verb | to snore
+gremë | noun | ravine
+grosist | noun | wholesaler
+gjevrek | noun | bagel
+gjips | noun | gypsum
+gjobëvënës | noun | fining authority
+gjoksore | noun | bib
+gjullurdi | noun | uproar
+habanerë | noun | habanera
+hajmedet | interj | alas
+hanëme | noun | lady
+hapërdarë | adj | scattered
+harrestar | noun | weeder
+havale | noun | trouble
+hiçmosgjë | noun | nothing at all
+hienë | noun | hyena
+hipodermë | noun | hypodermis
+humbellë | noun | chasm
+ikanak | noun | fugitive
+imperfekt | noun | imperfect tense
+indinjues | adj | outrageous
+insolacion | noun | sunstroke
+izolant | noun | insulator
+jargëzim | noun | drooling
+jashtëkohor | adj | timeless
+jazëk | interj | alas
+kalbësirë | noun | rot
+kamfur | noun | camphor
+kaname | noun | fine
+kaqol | noun | hollow
+karadyzen | noun | saz
+kinooperator | noun | cameraman
+koçek | noun | dancing boy
+komprometim | noun | compromise
+konceptueshëm | adj | conceivable
+kooperativizëm | noun | cooperativism
+kooptim | noun | co-optation
+korrigjueshëm | adj | correctable
+kosovarishte | noun | Kosovar speech
+kotangjentë | noun | cotangent
+kremator | noun | crematorium
+krenohem | verb | to pride oneself
+krestomaci | noun | chrestomathy
+kritizer | noun | carper
+krizantemë | noun | chrysanthemum
+kryefjalor | adj | subject
+kryespecialist | noun | chief specialist
+kuantitet | noun | quantity
+kufizë | noun | measure
+largvajtës | noun | emigrant
+latifondist | noun | large landowner
+leguminozë | noun | leguminous plant
+lektis | verb | to recite
+levend | adj | dashing
+liderizëm | noun | leadership cult
+ligështi | noun | weakness
+linoleum | noun | linoleum
+litografik | adj | lithographic
+livrim | noun | delivery
+lokus | noun | locus
+llapaqen | noun | chatterbox
+llarë | noun | muddy place
+magjar | noun | Magyar
+makiavelizëm | noun | Machiavellianism
+makrokozmos | noun | macrocosm
+mallëngjyeshëm | adj | touching
+mandolë | noun | mandola
+manivelë | noun | crank
+martaneshas | noun | person from Martanesh
+matufos | verb | to dote
+mazgallë | noun | loophole
+mbarëshoqëror | adj | society-wide
+mbyturazi | adv | stifledly
+mendar | adj | thoughtful
+mesogrua | noun | middle-aged woman
+mezolit | noun | Mesolithic
+mezosferë | noun | mesosphere
+mëkatoj | verb | to sin
+mëmëz | noun | little mother
+mënik | noun | sleeve
+mikrobus | noun | minibus
+minibashki | noun | district municipality
+miturak | noun | minor
+monokël | noun | monocle
+monokrom | adj | monochrome
+monorimë | noun | monorhyme
+muhalebi | noun | milk pudding
+mujshar | noun | lowlander
+muzeolog | noun | museologist
+myshteri | noun | customer
+namuz | noun | honour
+ndërdialektor | adj | interdialectal
+ndërqytetor | adj | intercity
+ndërzim | noun | crossbreeding
+ndrijë | noun | glow
+ngutësi | noun | haste
+nipçe | noun | niece
+nitroglicerinë | noun | nitroglycerine
+nokautoj | verb | to knock out
+nyjëzim | noun | articulation
+njëtrajtësi | noun | uniformity
+njomëz | noun | little one
+njomëzak | adj | tender
+oganeson | noun | oganesson
+okluzion | noun | occlusion
+oleum | noun | oleum
+orientalistikë | noun | oriental studies
+paçariz | noun | trinket
+pakufizueshëm | adj | unlimited
+pancir | noun | coat of mail
+pandëshkueshëm | adj | unpunished
+pandjeshmëri | noun | insensitivity
+panislamik | adj | pan-Islamic
+pasterizim | noun | pasteurization
+pastiço | noun | pasticcio
+pashfrytëzueshëm | adj | unusable
+pepsinë | noun | pepsin
+përgëzues | adj | congratulatory
+përjetshmëri | noun | eternity
+përudh | verb | to guide
+pikëmbërritje | noun | destination point
+pishnajë | noun | pine forest
+platit | verb | to calm
+pleonazëm | noun | pleonasm
+pllenues | adj | fertilizing
+poliandri | noun | polyandry
+polimerizim | noun | polymerization
+politikëbërje | noun | policymaking
+porsadalë | adj | just emerged
+prakticizëm | noun | practicality
+prashis | verb | to hoe
+prefëse | noun | sharpener
+prognozoj | verb | to forecast
+qebe | noun | felt cloak
+qefinos | verb | to shroud
+qibar | adj | noble
+qylah | noun | cap
+rekonstruksion | noun | reconstruction
+rentabil | adj | profitable
+riaftësim | noun | rehabilitation
+rusofil | noun | Russophile
+ruspë | noun | bulldozer
+rreckë | noun | rag
+rrugëtar | noun | traveller
+sedije | noun | knowledge
+silikozë | noun | silicosis
+sizmograf | noun | seismograph
+skiç | noun | sketch
+stratagjemë | noun | stratagem
+strem | adj | stern
+subvencionues | adj | subsidizing
+superprodhim | noun | overproduction
+supore | noun | shoulder strap
+shëmtirë | noun | ugliness
+shkombëtarizim | noun | denationalization
+shkoqisim | noun | elucidation
+shpërpjesëtim | noun | disproportion
+shpleks | verb | to unravel
+shqytar | noun | shield bearer
+shtrenjtësi | noun | expensiveness
+shurdhësi | noun | deafness
+talar | noun | gown
+tebdil | adv | in disguise
+tejendanë | adv | throughout
+teozofi | noun | theosophy
+testikular | adj | testicular
+toraks | noun | thorax
+trabant | noun | satellite
+thefsh | noun | splinter
+# ── n17.tsv ──
+rruhem | verb | to shave
+eskadrilje | noun | squadron
+marzhë | noun | margin
+çakshirë | noun | woollen trousers
+gup | noun | pit
+gjethurinë | noun | foliage
+miklë | noun | navel
+urrejtshëm | adj | hateful
+valvular | adj | valvular
+varak | noun | gold leaf
+varkëtar | noun | boatman
+veckël | adj | little
+veqil | noun | agent
+vertebror | noun | vertebrate
+vezikë | noun | vesicle
+vocërrak | adj | tiny
+vrarje | noun | killing
+xanxar | adj | sharp
+xhemper | noun | jumper
+xhephane | noun | ammunition
+xherah | noun | surgeon
+xhibal | noun | craft
+xhiroskop | noun | gyroscope
+zelltar | adj | zealous
+zemërdhembshur | adj | compassionate
+zoopark | noun | zoo
+zhdavarit | verb | to destroy
+zhdoganim | noun | customs clearance
+advokat | noun | lawyer
+afetar | adj | religious
+astenosferë | noun | asthenosphere
+baldakin | noun | baldachin
+bashibozuk | noun | bashi-bazouk
+beter | adj | worse
+bimëngrënës | adj | herbivorous
+biocenozë | noun | biocoenosis
+bistak | noun | stalk
+burrec | noun | little man
+çinteresuar | adj | uninterested
+çmall | verb | to quench longing
+çokit | verb | to peck
+datoj | verb | to date
+depozitoj | verb | to deposit
+dokumentoj | verb | to document
+emërtoj | verb | to name
+filtroj | verb | to filter
+gulç | noun | panting
+hematomë | noun | haematoma
+hidrosferë | noun | hydrosphere
+kaçamak | noun | polenta
+katamaran | noun | catamaran
+kuocient | noun | quotient
+litograf | noun | lithographer
+mimozë | noun | mimosa
+mizantrop | noun | misanthrope
+planer | noun | glider
+reostat | noun | rheostat
+stalaktit | noun | stalactite
+sterlinë | noun | sterling
+shkolloj | verb | to educate
+termosferë | noun | thermosphere
+tildë | noun | tilde
+vandak | noun | handful
+vrojtoj | verb | to observe
+abortoj | verb | to abort
+admiraliat | noun | admiralty
+allishverish | noun | trade
+antimaterie | noun | antimatter
+bakelit | noun | bakelite
+barkazi | adv | face down
+biogjeografi | noun | biogeography
+celofan | noun | cellophane
+cimbal | noun | cymbal
+çdoditshëm | adj | daily
+çerte | noun | design
+çiftësi | noun | parity
+çikmë | noun | projection
+çirrem | verb | to shriek
+çorganizim | noun | disorganization
+çorodi | noun | corruption
+çukit | verb | to peck
+çupëlinë | noun | girl
+degradoj | verb | to degrade
+dërdëllit | verb | to babble
+englez | noun | Englishman
+gamile | noun | camel
+gjeomorfologji | noun | geomorphology
+hutaq | adj | absent-minded
+konsolidoj | verb | to consolidate
+mauzer | noun | Mauser rifle
+neutralizim | noun | neutralization
+nugë | noun | nougat
+njëshifror | adj | single-digit
+oturak | noun | veteran
+parlamentarizëm | noun | parliamentarism
+rrufepritës | noun | lightning rod
+skicoj | verb | to sketch
+spiunoj | verb | to spy
+suvatues | noun | plasterer
+shkapërderdh | verb | to scatter
+shquarsi | noun | distinction
+trashaluq | adj | stout
+vikont | noun | viscount
+yllth | noun | little star
+abrakadabra | noun | abracadabra
+analizator | noun | analyser
+antifashizëm | noun | anti-fascism
+asilloj | pron | such
+asteni | noun | asthenia
+baxhë | noun | dairy
+bërxollë | noun | cutlet
+bigami | noun | bigamy
+bitis | verb | to finish
+buding | noun | pudding
+bulëzoj | verb | to bud
+çdofarë | pron | every kind
+çelnik | noun | headman
+çervish | noun | tallow
+çfarëdollojshëm | adj | any kind
+çikërrimë | noun | trinket
+çimkë | noun | bedbug
+çmontoj | verb | to dismantle
+çngjyrosje | noun | discoloration
+dadë | noun | nanny
+daktilografist | noun | typist
+darkoj | verb | to dine
+deklamim | noun | declamation
+deltinë | noun | clay
+deponoj | verb | to deposit
+dëshpëroj | verb | to dishearten
+disiplinoj | verb | to discipline
+diskreditoj | verb | to discredit
+fjalësor | noun | glossary
+fokusoj | verb | to focus
+irritoj | verb | to irritate
+kallogjer | noun | monk
+kapitje | noun | exhaustion
+këmbyerazi | adv | by exchange
+klavikul | noun | collarbone
+kuintesencë | noun | quintessence
+lakmus | noun | litmus
+likuidoj | verb | to liquidate
+livandë | noun | lavender
+maskoj | verb | to mask
+mësyj | verb | to attack
+monogami | noun | monogamy
+montoj | verb | to assemble
+nojmë | noun | knowledge
+okupoj | verb | to occupy
+orangutang | noun | orangutan
+parazitizëm | noun | parasitism
+pëllitje | noun | lowing
+politizoj | verb | to politicize
+pushkatar | noun | rifleman
+qelbëzim | noun | suppuration
+qimekuq | adj | red-haired
+sidër | noun | cider
+spartakiadë | noun | sports festival
+shpërdor | verb | to misuse
+tëlyen | noun | ointment
+trumbetë | noun | trumpet
+vranësirë | noun | overcast
+zootekni | noun | animal husbandry
+afganistanas | noun | Afghan
+ametist | noun | amethyst
+anhidrid | noun | anhydride
+anhidrit | noun | anhydrite
+ankorë | noun | anchor
+anticiklon | noun | anticyclone
+aritmik | adj | arrhythmic
+arkivoj | verb | to archive
+autizm | noun | autism
+baballëk | noun | stepfatherhood
+babëzisht | adv | greedily
+ballafaqe | adv | face to face
+ballëhapët | adv | openly
+balluk | noun | forelock
+banknotë | noun | banknote
+bardhemë | adj | whitish
+batakçillëk | noun | fraud
+belbër | adj | stammering
+bishtuk | noun | cigarette holder
+brenguar | adj | grieved
+breshërimë | noun | volley
+breshk | noun | male tortoise
+bricë | noun | razor
+bronk | noun | bronchus
+cmir | verb | to envy
+çarëse | noun | wedge
+çartje | noun | tearing
+çartuar | adj | disordered
+çarranik | noun | brushwood
+çeçe | noun | tsetse fly
+çehrevrarë | adj | sullen
+çelikos | verb | to steel
+çetele | noun | tally stick
+çevre | noun | embroidered kerchief
+çilek | noun | strawberry
+çimentoj | verb | to cement
+çintegrim | noun | disintegration
+çinteresim | noun | disinterest
+çivi | noun | nail
+çivit | noun | indigo
+çmerit | verb | to madden
+çmeritje | noun | madness
+çmërs | noun | brat
+çmobilizim | noun | demobilization
+çmuarje | noun | appraisal
+çnatyruar | adj | denatured
+çnderoj | verb | to dishonour
+çnderues | adj | dishonouring
+çnjerëzim | noun | dehumanization
+çobançe | adv | shepherd-like
+çokë | noun | knob
+çomange | noun | cudgel
+çukitje | noun | pecking
+çyrek | noun | quarter
+darvinizëm | noun | Darwinism
+deformoj | verb | to deform
+deklamoj | verb | to declaim
+denacionalizim | noun | denationalization
+destinoj | verb | to destine
+dezertoj | verb | to desert
+dezinfektoj | verb | to disinfect
+dërrmoj | verb | to crush
+dimërak | adj | wintry
+dimëroj | verb | to winter
+djathtazi | adv | on the right
+drithëroj | verb | to thrill
+dyllos | verb | to wax
+dynjallëk | noun | world
+dhëmbëz | noun | cog
+dhjetëvjetor | noun | tenth anniversary
+filatelist | noun | philatelist
+firmoj | verb | to sign
+fizarmonicist | noun | accordionist
+gishtëz | noun | little finger
+glikanxo | noun | liquorice
+grafologji | noun | graphology
+gjysmëvit | noun | half-year
+gjyveç | noun | casserole
+hidroplan | noun | seaplane
+hipnotizoj | verb | to hypnotize
+igrasi | noun | damp
+installim | noun | installation
+intrigoj | verb | to intrigue
+izolacionizëm | noun | isolationism
+kalkuloj | verb | to calculate
+kamatar | noun | usurer
+kamufloj | verb | to camouflage
+kanotierë | noun | vest
+karbur | noun | carbide
+keqtrajtoj | verb | to mistreat
+klizmë | noun | enema
+kolopuç | noun | ragamuffin
+komizëm | noun | comedy
+komprometoj | verb | to compromise
+konstruktoj | verb | to construct
+lajkatim | noun | flattery
+laragan | adj | spotted
+linotip | noun | linotype
+lodërtar | noun | drummer
+lodroj | verb | to frolic
+memur | noun | clerk
+meremetoj | verb | to repair
+miksturë | noun | mixture
+mimikri | noun | mimicry
+nervozues | adj | irritating
+nevrasteni | noun | neurasthenia
+njëditëzaj | adv | one day
+njëmbëdhjetëmetërsh | noun | penalty kick
+njëmijtë | adj | thousandth
+onani | noun | onanism
+papagal | noun | parrot
+paralizoj | verb | to paralyse
+parazitologji | noun | parasitology
+pasaportizim | noun | issuing of passports
+përemëror | adj | pronominal
+përgatesë | noun | preparation
+përvëlak | adj | scorching
+preokupoj | verb | to preoccupy
+psikofiziologjik | adj | psychophysiological
+raskapitje | noun | exhaustion
+revolucionarizëm | noun | revolutionism
+rraxhë | noun | sledge
+sallator | noun | salami maker
+skrop | noun | slag
+stenogram | noun | shorthand record
+streptomicinë | noun | streptomycin
+strukturoj | verb | to structure
+shantazhist | noun | blackmailer
+shermashek | noun | tangle
+shpërbëj | verb | to dissolve
+telefonist | noun | telephonist
+tokëz | noun | plot
+torua | noun | shed
+ulicë | noun | street
+urëz | noun | small bridge
+valerianë | noun | valerian
+venerian | adj | venereal
+zamare | noun | shepherd's pipe
+zhongler | noun | juggler
+zhvidhos | verb | to unscrew
+abordazh | noun | boarding
+abresh | adj | harsh
+abstraksionizëm | noun | abstractionism
+acidim | noun | acidification
+acidoj | verb | to acidify
+adaptueshmëri | noun | adaptability
+adenozintrifosfat | noun | adenosine triphosphate
+aerofotogrametri | noun | aerial photogrammetry
+aferezë | noun | aphaeresis
+afërmendshëm | adj | self-evident
+agjitoj | verb | to agitate
+ajërtransportueshëm | adj | airborne
+ajkoj | verb | to skim
+alebardë | noun | halberd
+alivan | noun | faint
+anaforë | noun | anaphora
+anarkosindikalist | noun | anarcho-syndicalist
+anarkosindikalizëm | noun | anarcho-syndicalism
+antigrimcë | noun | antiparticle
+antilëndë | noun | antimatter
+antimilitarizëm | noun | antimilitarism
+antiutopi | noun | dystopia
+antropofag | noun | cannibal
+antropometrik | adj | anthropometric
+apopleksi | noun | apoplexy
+armadil | noun | armadillo
+ashkëti | noun | chips
+ashtu-ashtu | adv | so-so
+atëvrasës | noun | parricide
+athëtoj | verb | to turn sour
+avdallçe | adv | foolishly
+aviobombë | noun | aerial bomb
+azhdë | noun | dragon
+babauk | noun | bogeyman
+bajmakthi | adv | upside down
+bakallëk | noun | grocery
+bakëroj | verb | to copper-plate
+bakërxhi | noun | coppersmith
+balalajkë | noun | balalaika
+baltas | adv | in mud
+ballaballas | adv | face to face
+ballaballë | adv | face to face
+ballnik | noun | headband
+ballsamos | verb | to embalm
+ballulur | adv | head bowed
+banonjës | noun | inhabitant
+baraban | noun | drum
+barbunjë | noun | red mullet
+bashkas | adv | together
+bashkëmbyllur | adv | closed together
+batbat | adv | step by step
+batinas | adv | secretly
+bejsbol | noun | baseball
+belbacak | noun | stammerer
+besëkeq | adj | treacherous
+bilashnjok | noun | vagabond
+biplan | noun | biplane
+birëveshë | noun | ear canal
+birim | noun | burrowing
+bishtalug | noun | crayfish
+bishtatundës | noun | wagtail
+bishtlëkundës | noun | wagtail
+bitme | noun | end
+bollësharde | noun | grass snake
+bonifikoj | verb | to reclaim land
+boshatisem | verb | to empty
+brengëzënë | adj | grieving
+brerëz | noun | halo
+bresharak | adj | hail-prone
+breshëllirë | noun | hailstorm
+breshkamadhe | noun | large tortoise
+breshkan | noun | male tortoise
+breshkaq | noun | slow person
+breshkaqen | noun | slowpoke
+breshkëz | noun | little tortoise
+breshkore | noun | chelonian
+breshnis | verb | to hail
+bresht | noun | ditch
+breshtak | adj | brisk
+brevë | noun | papal brief
+brezëmbrek | noun | belt
+brezim | noun | girdling
+brezlëshuar | adj | loosened
+brezoj | verb | to girdle
+brezvënë | adj | girded
+brezhumbur | adj | beltless
+bribualle | noun | buffalo horn
+bridullë | noun | cherry
+brigantin | noun | brigantine
+brigjër | noun | coastline
+briketoj | verb | to briquette
+brimoj | verb | to perforate
+brishtoj | verb | to make brittle
+brizoj | verb | to break
+bronzoj | verb | to bronze
+brumbulloj | verb | to buzz
+brumëzoj | verb | to knead
+brumoj | verb | to knead
+brushoj | verb | to brush
+bubutij | verb | to rumble
+buçkarit | verb | to fluff
+buçkoj | verb | to plump
+budallallos | verb | to stupefy
+buhavit | verb | to puff up
+bujaroj | verb | to be generous
+bulas | verb | to bud
+bulmoj | verb | to curdle
+bulurit | verb | to bubble
+burbulet | verb | to gurgle
+burgëtoj | verb | to imprison
+burgoj | verb | to imprison
+burmoj | verb | to thread
+burokratizoj | verb | to bureaucratize
+burrëroj | verb | to make manly
+bustrofedon | noun | boustrophedon
+bushurdis | verb | to tousle
+butësoj | verb | to soften
+butoj | verb | to soften
+bykëzoj | verb | to chaff
+centrifugoj | verb | to centrifuge
+cimbalist | noun | cymbalist
+cjap i egër | noun | ibex
+çarki | noun | trap
+çarmatoj | verb | to disarm
+çarmatosem | verb | to disarm oneself
+çartabesë | adj | faithless
+çartabukas | adj | ungrateful
+çartaqejf | noun | killjoy
+çartaqejfas | adv | grudgingly
+çartaujk | noun | wolf-tearer
+çarravalle | noun | rift
+çarravi | noun | crevice
+çastësi | noun | instant
+# ── n18.tsv ──
+çintegroj | verb | to disintegrate
+çashëm | adj | splittable
+çashmëri | noun | cleavability
+çatalle | noun | forked stick
+çatallohem | verb | to fork
+çatalloj | verb | to fork
+çatdhesim | noun | expatriation
+çatdhesohem | verb | to be expatriated
+çatdhesoj | verb | to expatriate
+çatdhesuar | adj | expatriated
+çatiprishur | adj | with a ruined roof
+çatis | verb | to roof
+çatmoj | verb | to wattle
+çatrafilohem | verb | to go astray
+çatrafiloj | verb | to lead astray
+çaturre | noun | dry branch
+çedukim | noun | loss of manners
+çedukoj | verb | to corrupt manners
+çehrengrysur | adj | sullen-faced
+çekanim | noun | hammering
+çekanis | verb | to hammer
+çekanoj | verb | to hammer
+çekem | verb | to be touched
+çekmexhe | noun | drawer
+çekuilibrohem | verb | to lose balance
+çekuilibroj | verb | to unbalance
+çelambyllas | adv | opening and closing
+çelem | verb | to open, to bloom
+çelësabërës | noun | locksmith
+çelësambajtës | noun | key keeper
+çelëz | noun | small key
+çelikosem | verb | to be steeled
+çelikran | noun | steel slag
+çelishkrirës | noun | steel smelter
+çelnikatë | noun | headmanship
+çelnikore | noun | headman's wife
+çeltas | adv | openly
+çeltirë | noun | clearing
+çembrionizim | noun | de-embryonation
+çembrionizoj | verb | to de-embryonate
+çemer | noun | money belt
+çemerbardhë | adj | white-belted
+çemerkuqe | adj | red-belted
+çemërim | noun | anger
+çemëroj | verb | to anger
+çend | verb | to kindle
+çendje | noun | kindling
+çepelit | verb | to toddle
+çepellë | noun | chip
+çepirok | noun | small bird
+çepkat | verb | to peck
+çepkatje | noun | pecking
+çepojë | noun | little corner
+çeptirë | noun | nook
+çerçive | noun | frame
+çerekkilësh | adj | quarter-kilo
+çereklitërsh | adj | quarter-litre
+çereksh | adj | quarter
+çerekshe | noun | quarter bottle
+çertexhi | noun | pattern drawer
+çeshit | noun | kind
+çetar | noun | band member
+çetëz | noun | small band
+çetim | noun | forming bands
+çetoj | verb | to form bands
+çetur | noun | tent
+çezmaxhi | noun | fountain builder
+çënjtur | adj | deflated
+çfarësi | noun | quality
+çhundorëzim | noun | denasalization
+çibukçi | noun | pipe bearer
+çibukpunues | noun | pipe maker
+çicërr | noun | small bird
+çiçë | noun | tot
+çiçëllohem | verb | to dress up
+çiçibanoz | adj | dressed up
+çidikë | noun | creeper
+çifligaro-borgjez | adj | landowning-bourgeois
+çifligsahibi | noun | estate owner
+çiftar | noun | ploughman with a pair of oxen
+çiftas | adv | in pairs
+çiftelist | noun | çifteli player
+çiftëz | noun | pair
+çiftoj | verb | to pair
+çifutëri | noun | Jewish quarter
+çikalore | adj | dotted
+çikash | adv | bit by bit
+çika-çika | adv | in pieces
+çikem | verb | to be touched
+çikël | noun | small piece
+çikëlohem | verb | to crumble
+çikëlore | noun | crumb
+çikërran | noun | trifle
+çikërrimtar | noun | haberdasher
+çikërroj | verb | to crumble
+çikët | adj | tiny
+çikëtoj | verb | to tap
+çikje | noun | touch
+çikohem | verb | to be touched
+çikul | noun | small piece
+çilash | adj | open
+çilem | verb | to open up
+çilmillëk | noun | frankness
+çilur | adj | opened
+çimërr | noun | bedbug
+çinërr | noun | bedbug
+çingerre | noun | jingle
+çinoj | verb | to harm
+çinteresohem | verb | to lose interest
+çipëroj | verb | to split
+çirrmë | noun | shriek
+çitar | noun | cotton printer
+çjerrmë | noun | tear
+çkalit | verb | to slip
+çlidhem | verb | to untie oneself
+çlyrësim | noun | degreasing
+çlyrësoj | verb | to degrease
+çlyrësues | noun | degreaser
+çmagnetizim | noun | demagnetization
+çmagnetizoj | verb | to demagnetize
+çmagjeps | verb | to disenchant
+çmagjepsem | verb | to be disenchanted
+çmahem | verb | to be astonished
+çmartohem | verb | to divorce
+çmat | verb | to spot
+çmatem | verb | to be spotted
+çmaterializoj | verb | to dematerialize
+çmbështillem | verb | to unwrap oneself
+çmbledh | verb | to disperse
+çmblidhem | verb | to disperse
+çmbreh | verb | to unyoke
+çmbush | verb | to empty
+çmekem | verb | to come to
+çmendarak | adj | crazy
+çmendohem | verb | to go mad
+çmendoj | verb | to drive mad
+çmerim | noun | madness
+çmeritem | verb | to go mad
+çmesë | noun | middle
+çmesëtar | noun | mediator
+çmërstë | adj | spoiled
+çmërzit | verb | to cheer up
+çmërzitem | verb | to cheer up
+çmësim | noun | unlearning
+çmësohem | verb | to break a habit
+çmësoj | verb | to wean
+çmësysh | verb | to lift the evil eye
+çmilitarizoj | verb | to demilitarize
+çminoj | verb | to demine
+çmobilizohem | verb | to be demobilized
+çmobilizoj | verb | to demobilize
+çmobilizues | adj | demobilizing
+çmorrit | verb | to delouse
+çmorritem | verb | to delouse oneself
+çmorritje | noun | delousing
+çmpreh | verb | to blunt
+çmprehje | noun | blunting
+çmprihem | verb | to become blunt
+çmundoj | verb | to tire
+çnatyrim | noun | denaturing
+çnatyroj | verb | to denature
+çnderohem | verb | to be dishonoured
+çndershëm | adj | dishonourable
+çndryshk | verb | to derust
+çndryshkem | verb | to be derusted
+çndryshkje | noun | derusting
+çnduk | verb | to pluck
+çngjit | verb | to unstick
+çngjitem | verb | to come unstuck
+çngjitje | noun | unsticking
+çngjyrim | noun | discoloration
+çngjyroj | verb | to discolour
+çngjyruar | adj | faded
+çngjyrues | noun | bleach
+çnjeh | verb | to disown
+çnjerëzohem | verb | to become inhuman
+çnjerëzoj | verb | to dehumanize
+çnjoh | verb | to disavow
+çobanëri | noun | shepherds
+çobankë | noun | shepherdess
+çobanoj | verb | to herd
+çoçër | noun | lump
+çokale | noun | small hammer
+çokane | noun | knocker
+çokanis | verb | to knock
+çokas | verb | to knock
+çokitje | noun | pecking
+çoksidim | noun | deoxidation
+çoksidoj | verb | to deoxidize
+çoksidues | adj | deoxidizing
+çokush | pron | whoever
+çol | noun | desert
+çoparkë | noun | bit
+çorapepunues | noun | hosier
+çorganizoj | verb | to disorganize
+çorganizues | adj | disorganizing
+çorientohem | verb | to lose one's way
+çoroditem | verb | to become corrupted
+çosa | adv | a lot
+çpërblej | verb | to reward
+çradhit | verb | to disarrange
+çradhitës | noun | disarranger
+çradhitje | noun | disarrangement
+çregjistrohem | verb | to deregister
+çregjistroj | verb | to deregister
+çrras | verb | to pull out
+çrrasët | adj | stretched out
+çrrethim | noun | lifting of a siege
+çrrethoj | verb | to lift a siege
+çrrotullohem | verb | to spin
+çrrotulloj | verb | to unwind
+çrrudh | verb | to smooth
+çrrudhem | verb | to smooth out
+çubardh | adj | whitish
+çubë | noun | tuft
+çubishtë | noun | brushland
+çuçloj | verb | to whisper
+çuçurit | verb | to whisper
+çuçuritje | noun | whispering
+çuditëri | noun | marvel
+çuditje | noun | astonishment
+çudohem | verb | to wonder
+çudoj | verb | to astonish
+çufrajë | noun | tuft
+çukërmim | noun | pecking
+çukërmoj | verb | to peck
+çukis | verb | to peck
+çukitem | verb | to peck each other
+çumbër | noun | bump
+çunëri | noun | boys
+çupejkë | noun | little girl
+çupëri | noun | girls
+çupërisht | adv | girlishly
+çupitje | noun | nibbling
+çurgoj | verb | to trickle
+çurkajë | noun | trickle
+çyçë | noun | piglet
+çyr | noun | pipe
+çysht | verb | to push
+daktil | noun | dactyl
+daktilografoj | verb | to type
+daltoj | verb | to chisel
+daulltar | noun | drummer
+debitoj | verb | to debit
+decimetër | noun | decimetre
+deklasoj | verb | to declassify
+dekompozoj | verb | to decompose
+dendësoj | verb | to thicken
+dezintegroj | verb | to disintegrate
+dezorganizim | noun | disorganization
+dinër | noun | dinar
+distiloj | verb | to distil
+dystoj | verb | to flatten
+dyzoj | verb | to double
+dhiqel | noun | long pole
+dhjetëfishoj | verb | to multiply tenfold
+ekiç | noun | watermelon
+ekonomiqar | adj | thrifty
+ekonomizëm | noun | economism
+epishkopi | noun | bishopric
+erëtregues | noun | wind vane
+fajancë | noun | faience
+femtosekondë | noun | femtosecond
+fërshëllej | verb | to whistle
+fërtomë | noun | fast dance
+fideizëm | noun | fideism
+filiqe | noun | sprout
+fizikë bërthamore | noun | nuclear physics
+flebit | noun | phlebitis
+fluturore | noun | aircraft
+fokstrot | noun | foxtrot
+folje jokalimtare | noun | intransitive verb
+fortësoj | verb | to strengthen
+frazeologjizëm | noun | idiom
+frezoj | verb | to mill
+frëngjyzë | noun | small loophole
+gabardinë | noun | gabardine
+gabueshmëri | noun | fallibility
+gabzër | noun | obstacle
+gambim | noun | stumbling
+gandoj | verb | to stumble
+gërshërëz | noun | small scissors
+gëzofpunues | noun | furrier
+gëzoftar | noun | furrier
+gnoseologji | noun | epistemology
+gojos | verb | to badmouth
+grashinë | noun | peas
+grejfrut | noun | grapefruit
+grihoj | verb | to whet
+grimoj | verb | to make up
+grunar | noun | granary
+gjuha angleze | noun | English language
+gjuha arabe | noun | Arabic language
+gjuha armene | noun | Armenian language
+gjuha asturiast | noun | Asturian language
+gjuha austriane | noun | Austrian German
+gjuha azerbajxhane | noun | Azerbaijani language
+gjuha baske | noun | Basque language
+gjuha bjelloruse | noun | Belarusian language
+gjuha boshnjake | noun | Bosnian language
+gjuha bullgare | noun | Bulgarian language
+gjuha daneze | noun | Danish language
+gjuha esperanto | noun | Esperanto
+gjuha estoneze | noun | Estonian language
+gjuha finlandeze | noun | Finnish language
+gjuha frënge | noun | French language
+gjuha galiciane | noun | Galician language
+gjuha greke | noun | Greek language
+gjuha gjermane | noun | German language
+gjuha holandeze | noun | Dutch language
+gjuha hungareze | noun | Hungarian language
+gjuha ido | noun | Ido
+gjuha interlingua | noun | Interlingua
+gjuha irlandeze | noun | Irish language
+gjuha islandeze | noun | Icelandic language
+gjuha italiane | noun | Italian language
+gjuha japoneze | noun | Japanese language
+gjuha koreane | noun | Korean language
+gjuha kotava | noun | Kotava
+gjuha kroate | noun | Croatian language
+gjuha kurde | noun | Kurdish language
+gjuha latine | noun | Latin language
+gjuha luksemburgishte | noun | Luxembourgish
+gjuha malajziane | noun | Malay language
+gjuha malteze | noun | Maltese language
+gjuha maqedonase | noun | Macedonian language
+gjuha norvegjeze | noun | Norwegian language
+gjuha polake | noun | Polish language
+gjuha portugeze | noun | Portuguese language
+gjuha rumune | noun | Romanian language
+gjuha spanjolle | noun | Spanish language
+gjuha suedeze | noun | Swedish language
+gjuha shqipe | noun | Albanian language
+gjuha turke | noun | Turkish language
+gjuha ukrainase | noun | Ukrainian language
+gjuha veneciane | noun | Venetian language
+gjuha zaza | noun | Zazaki language
+gjuhët turkike | noun | Turkic languages
+hasetçi | noun | envious person
+hekatombë | noun | hecatomb
+hekurtar | noun | blacksmith
+hidrofil | adj | hydrophilic
+hinardh | noun | ash heap
+horroj | verb | to shame
+humbazi | adv | lost
+hundëbri | noun | rhinoceros
+jezuitizëm | noun | Jesuitism
+kaboqe | verb | to bulge
+kabotazh | noun | cabotage
+kalë arab | noun | Arabian horse
+kanonierë | noun | gunboat
+kantitativ | adj | quantitative
+kantitet | noun | quantity
+kërcëlloj | verb | to crack
+kërriisem | verb | to hunch
+kokërdhak | adj | goggle-eyed
+kollaris | verb | to starch
+kollofit | verb | to gobble
+komponim kimik | noun | chemical compound
+koncentroj | verb | to concentrate
+koriandër | noun | coriander
+korminë | noun | body
+krastravec | noun | cucumber
+kufjo | adj | stuffy
+kularth | noun | small collar
+kunup | noun | mosquito
+lagësirë | noun | moisture
+lejor | adj | permitted
+leshdredhur | adj | curly-haired
+lilak | noun | lilac
+lule akshami | noun | four o'clock flower
+lumpenproletariat | noun | lumpenproletariat
+majos | verb | to leaven
+manikyriste | noun | manicurist
+manjolë | noun | magnolia
+mekanizoj | verb | to mechanize
+menshevizëm | noun | Menshevism
+monolishtë | noun | dugout canoe
+muhabetqar | adj | chatty
+mumrimë | noun | murmur
+mungonjës | adj | absent
+murgar | noun | monk
+namatis | verb | to curse
+nazeqar | adj | coy
+neoklasicizëm | noun | neoclassicism
+nishadër | noun | sal ammoniac
+nuhar | noun | sniffer
+njerëzishte | adj | humane
+oftikë | noun | tuberculosis
+ortoepik | adj | orthoepic
+pankushe | noun | sponge cake
+parëzim | noun | priority
+pasrim | noun | sediment
+pasterizoj | verb | to pasteurize
+periost | noun | periosteum
+plloçak | adj | flat
+pohor | adj | affirmative
+predominoj | verb | to predominate
+prugë | noun | scree
+psikofiziologji | noun | psychophysiology
+pushkaliqe | noun | small gun
+pyllëzoj | verb | to afforest
+qafalik | noun | collar
+realizueshmëri | noun | feasibility
+rezhdë | noun | row
+ryshfetçi | noun | bribe-taker
+rremtar | noun | rower
+sapunoj | verb | to soap
+seleksionimi natyror | noun | natural selection
+semasiologji | noun | semasiology
+smollë | noun | tar
+sorollimthi | adv | aimlessly
+sovkoz | noun | sovkhoz
+spërëngë | noun | syringe
+stalagmit | noun | stalagmite
+stërmadhim | noun | exaggeration
+stringël | noun | rag
+shegune | noun | wild pomegranate
+shëmbëllë | noun | parable
+shkencat shoqërore | noun | social sciences
+shkolonizim | noun | decolonization
+shojzë | noun | sole
+shpirt-lig | adj | evil-hearted
+shquall | noun | crag
+shtetëzoj | verb | to nationalize
+tapënxjerrëse | noun | corkscrew
+tartabiq | noun | fuss
+tekstologji | noun | textology
+teratologji | noun | teratology
+tytykath | noun | whistle
+thanëz | noun | small cornel
+thërijë | noun | nit
+urtësoj | verb | to make wise
+urtytë | adj | wise
+vleftësoj | verb | to evaluate
+vobekësi | noun | poverty
+vozabërës | noun | cooper
+vullkanizëm | noun | volcanism
+xhampunues | noun | glazier
+ylberth | noun | small rainbow
+zëroj | verb | to reset to zero
+zgjedhoj | verb | to yoke
+zootomi | noun | zootomy
+zhgradim | noun | demotion

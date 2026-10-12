@@ -793,6 +793,17 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     fromStandard++;
   }
   console.log(`descriptions: ${fromStandard} dialect forms described from their standard word`);
+  // Other spellings without a description of their own take their main word's: "Trajtë tjetër e fjalës «X»: …"
+  let fromMain = 0;
+  for (const w of words.values()) {
+    if (w.description) continue;
+    const main = (w.variantOf ?? []).map((x) => words.get(x.word)).find((x) => x?.description && !x.description.text.startsWith("Trajtë tjetër"));
+    if (!main?.description) continue;
+    w.description = { text: `Trajtë tjetër e fjalës «${main.word}»: ${main.description.text}`, source: "ai" };
+    addSource(w.sources, "ai");
+    fromMain++;
+  }
+  console.log(`descriptions: ${fromMain} other spellings described from their main word`);
 
   // Borrowed words, usage labels, word classes that the sources got wrong
   console.log(`labels: ${addLabels()}`);
