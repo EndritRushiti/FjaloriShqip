@@ -15462,3 +15462,5 @@ sekonda | sekondë
 viti | vit
 gra | grua
 koha | kohë
+# ── w62.tsv ──
+rruge | rrugë

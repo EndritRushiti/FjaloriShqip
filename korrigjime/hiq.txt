@@ -375,3 +375,5 @@ koraq   # formë e paqartë
 skotë   # formë e paqartë
 vais   # formë e paqartë
 volle   # formë e paqartë
+# ── w62.tsv ──
+heqsim   # jo fjalë (shpjegim i gabuar në Wiktionary)
