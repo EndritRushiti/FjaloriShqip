@@ -8515,3 +8515,94 @@ enëlarëse | noun | dishwasher
 thithëse | adj | sucking; vacuum (cleaner)
 komodinë | noun | bedside table
 divan | noun | sofa, divan
+# ── w48.tsv ──
+thirrje | noun | call, appeal
+paraqitje | noun | appearance, presentation
+ndjekje | noun | pursuit, prosecution
+heqje | noun | removal, abolition
+përleshje | noun | clash, scuffle
+këmbëngulje | noun | insistence, persistence
+përshtatje | noun | adaptation, adjustment
+shkëputje | noun | separation, break
+mbikëqyrje | noun | supervision
+përsëritje | noun | repetition, revision
+dashamirësi | noun | goodwill, kindness
+lëkundje | noun | swinging, oscillation; wavering
+luhatje | noun | fluctuation
+ringjallje | noun | resurrection, revival
+llogaritje | noun | calculation
+butësi | noun | softness, gentleness
+kundërpërgjigje | noun | response, retort
+përmbushje | noun | fulfilment
+prehje | noun | rest, repose
+përkatësi | noun | affiliation, belonging
+rimëkëmbje | noun | recovery
+mobilje | noun | furniture
+mburrje | noun | boasting
+fshehje | noun | hiding, concealment
+vërtetësi | noun | truthfulness, veracity
+përcjellje | noun | escorting, seeing off; transmission
+mizori | noun | cruelty, atrocity
+hoteleri | noun | hotel industry
+presje | noun | comma
+trashësi | noun | thickness
+kahje | noun | direction
+përmbyllje | noun | conclusion, close
+zvarritje | noun | dragging; delay
+përllogaritje | noun | estimate, calculation
+mbjellje | noun | sowing, planting
+skamje | noun | destitution
+fjetje | noun | sleeping
+orvatje | noun | attempt, effort
+shlyerje | noun | repayment; erasure
+kanosje | noun | threat
+djersitje | noun | sweating
+përmendje | noun | mention
+prodhimtari | noun | productivity, output
+dinakëri | noun | cunning, slyness
+vaditje | noun | irrigation
+lyerje | noun | painting, coating, smearing
+krisje | noun | cracking; report (of a gun)
+kruarje | noun | scratching, itching
+zbutje | noun | softening, mitigation
+vjellje | noun | vomiting
+tendosje | noun | tension, strain
+ngjyrosje | noun | colouring
+zhvatje | noun | extortion
+dehje | noun | drunkenness
+plasaritje | noun | crack
+mprehtësi | noun | sharpness, acuity
+rivendosje | noun | restoration, reinstatement
+përgjumje | noun | drowsiness
+parapërgatitje | noun | preliminary preparation
+bartje | noun | carrying, transfer
+largpamësi | noun | foresight
+enjtje | noun | swelling
+kollitje | noun | coughing
+ngasje | noun | driving; urging
+ortakëri | noun | partnership
+spërkatje | noun | sprinkling, spraying
+qëndisje | noun | embroidery
+shpalosje | noun | unfolding, presentation
+pëshpëritje | noun | whisper
+mbërritje | noun | arrival
+druajtje | noun | apprehension, timidity
+vrazhdësi | noun | rudeness, roughness
+padituri | noun | ignorance
+kancelari | noun | chancellery
+asnjëri | pron | neither, none (of them)
+ndonjëri | pron | someone, any (of them)
+njëzëri | adv | unanimously
+dhembshëm | adj | painful; dear
+përbindshëm | adj | monstrous
+pashëndetshëm | adj | unhealthy
+paçmueshëm | adj | invaluable
+tundshëm | adj | shaky, movable
+pakonceptueshëm | adj | inconceivable
+pavolitshëm | adj | unfavourable
+sërishëm | adj | repeated, renewed
+tolerueshëm | adj | tolerable
+ndashëm | adj | separable
+harmonishëm | adj | harmonious
+pashëm | adj | handsome
+piroteknik | adj | pyrotechnic
