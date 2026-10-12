@@ -305,6 +305,13 @@ function removeVulgar(): { words: number; senses: number } {
  * pershkrime/pershkrime.tsv: "word<TAB>description", one per line; "#" starts a comment.
  * A third column "rishikuar" marks a description the editor has reviewed.
  */
+/** Words with an Albanian description in pershkrime/pershkrime.tsv. */
+function describedWords(): Set<string> {
+  const f = path.join(process.cwd(), "pershkrime", "pershkrime.tsv");
+  if (!fs.existsSync(f)) return new Set();
+  return new Set(fs.readFileSync(f, "utf8").split("\n").filter((l) => l.trim() && !l.startsWith("#")).map((l) => l.split("\t")[0].trim().toLowerCase()));
+}
+
 function addDescriptions(): number {
   const f = path.join(process.cwd(), "pershkrime", "pershkrime.tsv");
   if (!fs.existsSync(f)) return 0;
@@ -486,7 +493,7 @@ function mapFormsToHeadwords(): { mapped: number; missing: string[] } {
     if (!line) continue;
     const [form, head] = line.split("|").map((x) => x.trim().toLowerCase());
     const main = head ? words.get(head) : undefined;
-    if (!form || !main) {
+    if (!form || !main || form === head) {
       if (form && head) missing.push(`${form} → ${head}`);
       continue;
     }
@@ -670,9 +677,12 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   // the list also holds bare stems (frik, fuq, dhimb) of words we know (frikë, fuqi, dhimbje)
   const verified = new Set([...words.values()].filter((w) => w.entries.some((e) => e.senses.length)).map((w) => w.word));
   const stemOfKnown = (w: string) => ["ë", "e", "i", "a", "je", "ja", "të", "j"].some((end) => verified.has(w + end));
+  // words an editor has described are real words, never bare stems or forms (antik next to antikë)
+  const described = describedWords();
   let n = 0;
   for (const l of findLemmas(dic)) {
-    if (!VALID_WORD.test(l.word) || baseOf(l.word, hasWide) || stemOfKnown(l.word)) continue;
+    if (!VALID_WORD.test(l.word)) continue;
+    if (!described.has(l.word) && (baseOf(l.word, hasWide) || stemOfKnown(l.word))) continue;
     // must be used on its own, not only through its forms (rejects stems like dhimb, rezulto);
     // verbs in -j are naturally rarer than their forms (punoj vs punon), so they get a lower bar
     const own = useOf(l.word);

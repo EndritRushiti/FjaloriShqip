@@ -8100,3 +8100,137 @@ vartës | noun | subordinate
 shpërndarës | noun | distributor
 multietnik | adj | multi-ethnic
 gjithëkush | pron | everybody
+# ── w12.tsv ──
+masë | noun | mass, measure
+politikë | noun | politics, policy
+ligë | noun | league
+kritikë | noun | criticism, review
+këshillë | noun | advice
+alternativë | noun | alternative
+klinikë | noun | clinic
+praktikë | noun | practice, internship
+vilë | noun | villa
+karakteristikë | noun | characteristic
+gardë | noun | guard
+problematikë | noun | set of issues
+paketë | noun | package
+perspektivë | noun | perspective, prospect
+kolonë | noun | column
+arenë | noun | arena
+notë | noun | note, grade
+limon | noun | lemon
+harmoni | noun | harmony
+uniformë | noun | uniform
+bluzë | noun | blouse
+logjikë | noun | logic
+lejë | noun | permission, leave, permit
+rrjedhë | noun | flow, course
+rrethinë | noun | surroundings
+plakë | noun | old woman
+seri | noun | series
+# ── w13.tsv ──
+ecuri | noun | course, progress
+krenari | noun | pride
+taktikë | noun | tactics
+kronikë | noun | chronicle
+etikë | noun | ethics
+premierë | noun | premiere
+tematikë | noun | subject matter
+bujari | noun | generosity
+tundim | noun | temptation
+pipë | noun | straw, pipe
+retorikë | noun | rhetoric
+blegtori | noun | livestock farming
+penë | noun | pen
+sallatë | noun | salad
+supë | noun | soup
+bamirësi | noun | charity
+ballinë | noun | front page
+rehati | noun | comfort, ease
+kaptinë | noun | chapter
+qeli | noun | cell
+kurë | noun | course of treatment
+shenjtëri | noun | holiness
+kasë | noun | cash desk, safe
+njerëzi | noun | humanity, decency
+tubë | noun | tube; tuba
+epikë | noun | epic poetry
+komë | noun | coma
+famulli | noun | parish
+optikë | noun | optics, optician's
+lirikë | noun | lyric poetry
+freski | noun | freshness, coolness
+simbolikë | noun | symbolism
+gjeopolitikë | noun | geopolitics
+ortodoksi | noun | orthodoxy
+gastronomi | noun | gastronomy
+hegjemoni | noun | hegemony
+ndërtimtari | noun | construction industry
+regjim | noun | regime
+bimësi | noun | vegetation
+virgjëri | noun | virginity
+borgjezi | noun | bourgeoisie
+estetikë | noun | aesthetics
+dialektikë | noun | dialectics
+citim | noun | quotation
+grafikë | noun | graphics
+kozmetikë | noun | cosmetics
+koloni | noun | colony
+etnografi | noun | ethnography
+autoktoni | noun | autochthony
+levë | noun | lever; lev
+befasi | noun | surprise
+metodikë | noun | methodology
+semantikë | noun | semantics
+stepë | noun | steppe
+agoni | noun | agony
+klikë | noun | clique
+balerinë | noun | ballerina
+ikonografi | noun | iconography
+koreografi | noun | choreography
+vejushë | noun | widow
+ksenofobi | noun | xenophobia
+shkurtesë | noun | abbreviation
+psherëtimë | noun | sigh
+monotoni | noun | monotony
+helmetë | noun | helmet
+mistikë | noun | mysticism
+metrikë | noun | metrics
+adrenalinë | noun | adrenaline
+antikë | noun | antique
+kompozitë | noun | compound word
+oratori | noun | oratory
+togë | noun | platoon; toga
+metafizikë | noun | metaphysics
+rentë | noun | rent, annuity
+kullosë | noun | pasture
+delikatesë | noun | delicacy
+poeteshë | noun | poetess
+sajesë | noun | fabrication
+uratë | noun | blessing
+stilistikë | noun | stylistics
+hartografi | noun | cartography
+shamatë | noun | uproar
+kopshtari | noun | gardening
+sustë | noun | spring (coil)
+elektronikë | noun | electronics
+elektroteknikë | noun | electrical engineering
+leksikografi | noun | lexicography
+fishkëllimë | noun | whistle
+# ── w15.tsv ──
+skenografi | noun | scenography
+tipografi | noun | typography
+stenografi | noun | shorthand
+litografi | noun | lithography
+paleografi | noun | palaeography
+poligrafi | noun | printing industry
+daktilografi | noun | typewriting
+kostumografi | noun | costume design
+asnjanësi | noun | neutrality
+tejpamësi | noun | foresight
+megalomani | noun | megalomania
+mitomani | noun | mythomania
+narkomani | noun | drug addiction
+piromani | noun | pyromania
+# ── w16.tsv ──
+çilimi | noun | little child
