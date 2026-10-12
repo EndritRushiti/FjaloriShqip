@@ -6,3 +6,485 @@
 
 keqpërdoroj | verb | to misuse, to abuse | shpërdoroj, abuzoj
 keqpërdorim | noun | misuse, abuse | shpërdorim, abuzim
+
+# ── Fjalë të gjetura në Wikipedia shqip dhe MaCoCu që mungonin; kuptimet i shkroi redaktori (me ndihmën e AI-së) ──
+# ── Words found in Albanian Wikipedia and MaCoCu that were missing; meanings written by the editor (with AI help) ──
+situatë | noun | situation
+pajisje | noun | equipment, device
+pozitë | noun | position
+marrje | noun | taking, receiving
+temë | noun | topic, theme
+njohje | noun | recognition, acquaintance
+roman | noun | novel
+jetesë | noun | living, livelihood
+traktat | noun | treaty
+pagesë | noun | payment
+rënie | noun | fall, decline
+fëmijëri | noun | childhood
+traditë | noun | tradition
+kampionat | noun | championship
+personalitet | noun | personality
+kolegj | noun | college
+literat | noun | man of letters, writer
+pritje | noun | waiting; reception
+ekspozitë | noun | exhibition
+vizitë | noun | visit
+renditje | noun | ranking, order
+famë | noun | fame
+serial | noun | series, serial
+dinamik | adj | dynamic
+synim | noun | aim, goal
+nderim | noun | honour, tribute
+varësi | noun | dependence, addiction
+mbështetës | noun | supporter
+pafajshëm | adj | innocent
+mekanizëm | noun | mechanism
+nxjerrje | noun | extraction, removal
+tërheqës | adj | attractive
+ndershëm | adj | honest
+meritë | noun | merit
+ushqyes | adj | nutritious
+përbërës | noun | component, ingredient
+tërheqje | noun | withdrawal; attraction
+përqendrim | noun | concentration
+tezë | noun | thesis
+dijë | noun | knowledge
+dhimbshëm | adj | painful; touching
+dobishëm | adj | useful
+mundshëm | adj | possible
+human | adj | humane
+musliman | noun | Muslim
+bizantin | adj | Byzantine
+brazilian | noun | Brazilian
+indian | noun | Indian
+pasluftë | noun | postwar period
+drejtoreshë | noun | (female) director, principal
+dixhital | adj | digital
+sovranitet | noun | sovereignty
+unitet | noun | unity
+ritëm | noun | rhythm
+ndjekës | noun | follower
+rezultoj | verb | to result, to turn out
+firmos | verb | to sign
+varros | verb | to bury
+plagos | verb | to wound
+përsëris | verb | to repeat
+rëndoj | verb | to burden, to worsen
+radhit | verb | to arrange, to line up
+nevojitet | verb | to be needed
+mesëm | adj | middle, medium
+privat | adj | private
+vërtet | adv | really, truly
+fort | adv | strongly, very
+gjerësisht | adv | widely
+përbashkët | adj | common, joint
+ministri | noun | ministry
+studio | noun | studio
+emirat | noun | emirate
+kinematografi | noun | cinematography
+mandat | noun | mandate, term of office
+ligjshëm | adj | lawful, legitimate
+mediatik | adj | media (relating to the media)
+shënjestër | noun | target
+pafundmë | adj | endless, infinite
+gjuajtje | noun | shot, throw
+lice | noun | high school, lyceum
+solidaritet | noun | solidarity
+partneritet | noun | partnership
+kthesë | noun | turn, bend
+elitë | noun | elite
+dypalësh | adj | bilateral
+bord | noun | board
+lavdishëm | adj | glorious
+hedhje | noun | throw, throwing
+shirit | noun | ribbon, tape, strip
+hapës | noun | opener
+vërejtje | noun | remark, observation
+thyerje | noun | breaking, fracture
+kërcënim | noun | threat
+pagan | noun | pagan
+anonim | adj | anonymous
+tregues | noun | indicator
+përqindje | noun | percentage
+shpërngulje | noun | relocation, displacement
+parathënie | noun | preface
+politikan | noun | politician
+bindës | adj | convincing
+papritur | adv | suddenly, unexpectedly
+njohës | noun | connoisseur, expert
+skicë | noun | sketch
+falënderim | noun | thanks, gratitude
+zbardhje | noun | clarification, whitening
+lëvizshëm | adj | movable, mobile
+nominim | noun | nomination
+makineri | noun | machinery
+fejesë | noun | engagement (to marry)
+tronditës | adj | shocking
+magjistrat | noun | magistrate
+ngjitës | adj | adhesive, sticky
+logjistik | adj | logistic
+statik | adj | static
+kënaqshëm | adj | satisfactory
+paqartë | adj | unclear
+lagunë | noun | lagoon
+plakje | noun | ageing
+akut | adj | acute
+vetëqeverisje | noun | self-government
+elektorat | noun | electorate
+ngrënie | noun | eating, meal
+larje | noun | washing
+mahnitës | adj | amazing
+zbritje | noun | descent; discount
+onomastik | adj | onomastic
+minoritet | noun | minority
+shuarje | noun | extinction, extinguishing
+ndërmjetëm | adj | intermediate
+lëvizës | adj | moving, mobile
+matës | noun | meter, gauge
+rivalitet | noun | rivalry
+dispozitë | noun | provision (of a law)
+depozitë | noun | deposit; tank
+tribun | noun | tribune
+shpalos | verb | to unfold, to reveal
+romanizoj | verb | to romanize
+iberik | adj | Iberian
+pritshëm | adj | expected, foreseeable
+dilemë | noun | dilemma
+shkallëzoj | verb | to grade, to scale
+sulltanat | noun | sultanate
+shpërthyes | adj | explosive
+fyes | adj | offensive, insulting
+mahnitshëm | adj | astonishing, wonderful
+inspektorat | noun | inspectorate
+habitshëm | adj | surprising
+gjigand | noun | giant
+ndalesë | noun | stop, halt
+gravitacional | adj | gravitational
+qytetëroj | verb | to civilize
+kombinat | noun | industrial complex
+zhvillues | noun | developer
+anketoj | verb | to survey, to poll
+termal | adj | thermal
+kinetik | adj | kinetic
+dashamirës | adj | benevolent, well-wishing
+shfrenoj | verb | to unleash
+lodhshëm | adj | tiring
+kartel | noun | cartel
+logo | noun | logo
+folës | noun | speaker
+kinematograf | noun | cinematograph, cinema
+internim | noun | internment
+ushqyerje | noun | feeding, nutrition
+padëshiruar | adj | unwanted
+grilloj | verb | to grill
+lëshim | noun | release, launch
+sallon | noun | salon, living room
+shfarosje | noun | extermination
+pirateri | noun | piracy
+origjinalitet | noun | originality
+llogaritës | noun | calculator
+kombinim | noun | combination
+shumëkombësh | adj | multinational
+padrejtë | adj | unjust
+etiketë | noun | label; etiquette
+varfëri | noun | poverty
+balerin | noun | ballet dancer
+pavërtetë | adj | untrue, false
+heroinë | noun | heroine; heroin
+pamundur | adj | impossible
+limit | noun | limit
+pazgjidhur | adj | unsolved
+psikiatri | noun | psychiatry
+sekretariat | noun | secretariat
+muzë | noun | muse
+rrjedhojë | noun | consequence
+videoklip | noun | music video
+euklidian | adj | Euclidean
+luajtshëm | adj | movable
+përkujtimor | adj | commemorative
+klip | noun | clip
+plagosje | noun | wounding
+imun | adj | immune
+proletariat | noun | proletariat
+terren | noun | terrain; pitch
+paparë | adj | unseen, unprecedented
+ndërmjetës | noun | intermediary, mediator
+nxitës | noun | instigator; stimulus
+vartësi | noun | dependence, subordination
+prekës | adj | touching, moving
+volitshëm | adj | convenient
+rrëshqitje | noun | slide, landslide
+kuantik | adj | quantum
+industrializoj | verb | to industrialize
+vrullshëm | adj | impetuous, vigorous
+paprekur | adj | untouched
+pasaktë | adj | inaccurate
+pararendës | noun | predecessor, forerunner
+mërzitshëm | adj | boring
+përshëndetës | adj | greeting, welcoming
+semit | adj | Semitic
+neveritshëm | adj | disgusting
+anglikan | adj | Anglican
+shkuarje | noun | going, departure
+premisë | noun | premise
+pijë | noun | drink, beverage
+sondë | noun | probe
+ndezje | noun | ignition, lighting
+vjetroj | verb | to make old, to wear out
+orbitë | noun | orbit
+mposhtje | noun | defeat, overcoming
+ligësi | noun | wickedness
+kapsulë | noun | capsule
+shfaros | verb | to exterminate
+shtypës | noun | printer; oppressor
+mbarim | noun | end, finish
+këmbëngulës | adj | persistent
+magjepsës | adj | enchanting, fascinating
+hepatit | noun | hepatitis
+stacionoj | verb | to station
+drejtkëndësh | noun | rectangle
+lehtësi | noun | ease
+kasetë | noun | cassette
+pjekje | noun | baking, roasting; ripening
+varietet | noun | variety
+paraluftë | noun | prewar period
+rrjedhës | adj | flowing, current
+shpërdorim | noun | misuse, abuse
+shërbyes | noun | servant
+urinar | adj | urinary
+dominim | noun | domination
+zhgënjyes | adj | disappointing
+stolis | verb | to adorn
+xhihad | noun | jihad
+dykatësh | adj | two-storey
+urti | noun | wisdom
+rendës | noun | runner
+bartës | noun | bearer, carrier
+shtysë | noun | impulse, push
+basen | noun | pool, basin
+strikt | adj | strict
+përmbyllës | adj | concluding, final
+ndërlidhës | adj | connecting
+vendës | noun | local, native
+tretshëm | adj | soluble
+çertifikatë | noun | certificate
+pediatri | noun | paediatrics
+gjallëri | noun | liveliness
+pabazë | adj | groundless
+pabotuar | adj | unpublished
+befasishëm | adj | surprising, sudden
+sonatë | noun | sonata
+përmbledhës | adj | summarizing
+dioksid | noun | dioxide
+rrumbullakos | verb | to round off
+licencoj | verb | to license
+intuitë | noun | intuition
+shtytës | adj | propelling
+pandërprerë | adj | uninterrupted
+filozofal | adj | philosophical (stone)
+unanim | adj | unanimous
+luajtje | noun | playing; moving
+shumëpalësh | adj | multilateral
+pafajësi | noun | innocence
+komentator | noun | commentator
+ekumenik | adj | ecumenical
+papërpunuar | adj | raw, unprocessed
+papaguar | adj | unpaid
+martirizoj | verb | to martyr
+personalizoj | verb | to personalize
+vetëqeverisës | adj | self-governing
+ndërgjegjësim | noun | awareness-raising
+shndritshëm | adj | shining, brilliant
+goditës | adj | striking
+fillesë | noun | beginning, origin
+dhëmbëzoj | verb | to indent, to notch
+përqasje | noun | approach, comparison
+urbanizoj | verb | to urbanize
+pakontrolluar | adj | uncontrolled
+diplomat | noun | diplomat
+katastrofik | adj | catastrophic
+paditës | noun | plaintiff
+valëzoj | verb | to wave, to ripple
+kovalent | adj | covalent
+pseudonim | noun | pseudonym
+suitë | noun | suite
+bezdisshëm | adj | annoying
+dyfishim | noun | doubling
+përsëritës | adj | repetitive, repeating
+koordinativ | adj | coordinating
+thepisur | adj | jagged
+pabazuar | adj | unfounded
+pangopur | adj | insatiable
+mbikëqyrës | noun | supervisor
+termodinamik | adj | thermodynamic
+pandryshuar | adj | unchanged
+pabarabartë | adj | unequal
+papërfunduar | adj | unfinished
+strofë | noun | stanza
+bashkangjitur | adj | attached, enclosed
+autizëm | noun | autism
+videolojë | noun | video game
+përdhes | adj | ground-floor, low
+zëshëm | adj | voiced, loud
+katërkëndësh | noun | quadrilateral
+polarizoj | verb | to polarize
+rrëqethës | adj | horrifying, chilling
+dogmë | noun | dogma
+mbaresë | noun | ending (grammar)
+kapshëm | adj | graspable, catchable
+ndihmesë | noun | contribution
+paharruar | adj | unforgettable
+thellim | noun | deepening
+varrosje | noun | burial
+ngurtësi | noun | rigidity
+induktoj | verb | to induce
+rrënjosur | adj | rooted, ingrained
+shterues | adj | exhaustive
+kondensoj | verb | to condense
+pazhvilluar | adj | undeveloped
+ngjizje | noun | conception, formation
+neveri | noun | disgust
+shthurje | noun | dissolution, corruption
+imunitar | adj | immune (system)
+kontaminoj | verb | to contaminate
+magjishëm | adj | magical
+debatik | adj | debating, controversial
+gëzhojë | noun | cartridge case
+baterist | noun | drummer
+rrezoj | verb | to radiate
+ulërimë | noun | howl, scream
+nënspecie | noun | subspecies
+shërbesë | noun | church service
+pakufizuar | adj | unlimited
+pasje | noun | possession, having
+pyetës | adj | interrogative
+fundosje | noun | sinking
+pambrojtur | adj | unprotected
+kryelartë | adj | proud
+rektorat | noun | rectorate
+topografi | noun | topography
+pashlyer | adj | indelible
+radhitje | noun | arrangement, ranking
+palidhur | adj | unconnected, unrelated
+vetëmbrojtje | noun | self-defence
+humbës | noun | loser
+shumëkatësh | adj | multi-storey
+mjeran | adj | wretched, miserable
+binjakëzoj | verb | to twin (towns)
+alkalin | adj | alkaline
+qasshëm | adj | accessible
+kompjuterizoj | verb | to computerize
+hyjni | noun | deity, divinity
+klonoj | verb | to clone
+qëndisur | adj | embroidered
+trajtesë | noun | treatise
+ndenjës | noun | seat; sitter
+vegjëli | noun | small children, little ones
+imunizoj | verb | to immunize
+paautorizuar | adj | unauthorized
+gjegjës | adj | corresponding
+gropos | verb | to bury (in a pit)
+ilirian | adj | Illyrian
+rinisje | noun | restart
+makinerik | adj | mechanical
+gjenerik | adj | generic
+hirësi | noun | grace (title)
+kotësi | noun | futility, vanity
+zierje | noun | boiling
+elektor | noun | elector
+pamartuar | adj | unmarried
+mirëpritur | adj | welcome
+laktik | adj | lactic
+ndërlikim | noun | complication
+filmografi | noun | filmography
+dehës | adj | intoxicating
+rrufeshëm | adj | lightning-fast
+ngulim | noun | fixation
+pabanuar | adj | uninhabited
+pararojë | noun | vanguard
+paranojë | noun | paranoia
+verdikt | noun | verdict
+ethshëm | adj | feverish
+qytetës | adj | urban, civic
+peisazh | noun | landscape
+pashkruar | adj | unwritten
+hatashëm | adj | enormous, terrible
+substrat | noun | substrate
+përputhshëm | adj | compatible
+vdekshëm | adj | mortal
+papërdorur | adj | unused
+trepalësh | adj | trilateral
+pendesë | noun | repentance
+sekular | adj | secular
+pandarë | adj | undivided
+pazbuluar | adj | undiscovered
+polimer | noun | polymer
+marshim | noun | march
+pajustifikuar | adj | unjustified
+pathënë | adj | unsaid
+bllokues | adj | blocking
+gjithëfuqishëm | adj | almighty
+ndytë | adj | filthy
+demonologji | noun | demonology
+filetoj | verb | to fillet; to thread
+përzgjedhës | noun | selector
+shpërblyes | adj | rewarding
+papjekur | adj | unripe, immature
+ulçerë | noun | ulcer
+shfarosës | adj | exterminating
+trekatësh | adj | three-storey
+ndotës | noun | pollutant
+cënim | noun | violation, infringement
+pafajës | adj | innocent
+gërryes | adj | corrosive, erosive
+bestytni | noun | superstition
+rraskapitës | adj | exhausting
+paaftë | adj | incapable
+shpifës | noun | slanderer
+maskotë | noun | mascot
+palosshëm | adj | foldable
+njëkatësh | adj | single-storey
+paregjistruar | adj | unregistered
+përdredhur | adj | twisted
+fragmentuar | adj | fragmented
+shtresoj | verb | to layer, to stratify
+pengues | adj | hindering
+pashfrytëzuar | adj | unused, untapped
+pareshtur | adj | ceaseless
+pakryer | adj | unfinished; imperfect (tense)
+patrajtuar | adj | untreated
+rregullës | noun | regulator
+bashkues | adj | unifying
+mbyllës | adj | closing
+plotësi | noun | completeness, fullness
+buqetë | noun | bouquet
+vaditës | noun | irrigator
+priftëri | noun | priesthood
+tundues | adj | tempting
+zbritës | adj | descending
+ndezës | noun | igniter, lighter
+mbipopulluar | adj | overpopulated
+pakonfirmuar | adj | unconfirmed
+pamatur | adj | reckless; unmeasured
+likuiditet | noun | liquidity
+vërshim | noun | flood, surge
+padëgjuar | adj | unheard; disobedient
+damkos | verb | to brand
+pamenduar | adj | thoughtless, unplanned
+foshnjëri | noun | infancy
+mbivendosje | noun | overlap
+demencë | noun | dementia
+kokrrizë | noun | grain, granule
+tendosur | adj | tense, strained
+parealizuar | adj | unrealized
+çuarje | noun | carrying, taking
+gjeocentrik | adj | geocentric
+papublikuar | adj | unpublished
+dëftesë | noun | receipt, certificate
+rregullsi | noun | regularity
+ndryshkur | adj | rusty
+dalngadalë | adv | gradually, slowly
+pjesor | adj | partial, partitive
+pakënaqur | adj | dissatisfied
+pashkelur | adj | untrodden, inviolate
+kriptomonedhë | noun | cryptocurrency
