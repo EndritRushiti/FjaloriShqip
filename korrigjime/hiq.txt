@@ -68,3 +68,187 @@ iliro   # pjesë e fjalëve të përbëra
 taulant   # emër vetjak
 politiko   # pjesë e fjalëve të përbëra
 linux   # emër vetjak (sistem operativ)
+# ── n3.tsv ──
+elektro   # pjesë e fjalëve të përbëra
+kundërpërgjigj   # formë e paplotë
+sllavo   # pjesë e fjalëve të përbëra
+sars   # shkurtim i huaj
+dako   # pjesë e fjalëve të përbëra
+baro   # pa kuptim të qartë
+dum   # pa kuptim të qartë
+gërvalla   # emër vetjak
+gli   # pa kuptim të qartë
+turko   # pjesë e fjalëve të përbëra
+afrikano   # pjesë e fjalëve të përbëra
+mero   # pa kuptim të qartë
+sierra   # fjalë e huaj
+gracë   # pa kuptim të qartë
+fans   # fjalë e huaj
+bllacë   # pa kuptim të qartë
+tarë   # pa kuptim të qartë
+gjermano   # pjesë e fjalëve të përbëra
+oskar   # emër çmimi
+amerikano   # pjesë e fjalëve të përbëra
+flint   # fjalë e huaj
+voz   # fjalë e huaj
+qa   # pa kuptim të qartë
+gro   # pa kuptim të qartë
+bujti   # formë e paqartë
+pont   # pa kuptim të qartë
+ekonomiko   # pjesë e fjalëve të përbëra
+lizë   # pa kuptim të qartë
+marcel   # emër vetjak
+# ── n4.tsv ──
+tumë   # pa kuptim të qartë
+infra   # parashtesë
+talk   # fjalë e huaj
+jure   # pjesë e shprehjes latine «de jure»
+historiko   # pjesë e fjalëve të përbëra
+rubë   # pa kuptim të qartë
+laç   # pa kuptim të qartë
+bardho   # pa kuptim të qartë
+ost   # pa kuptim të qartë
+ganga   # emër vetjak
+sek   # pa kuptim të qartë
+rod   # pa kuptim të qartë
+vardar   # emër vetjak (lumë)
+shkuj   # pa kuptim të qartë
+ano   # pa kuptim të qartë
+makro   # parashtesë
+tekniko   # pjesë e fjalëve të përbëra
+ruk   # pa kuptim të qartë
+truth   # fjalë e huaj
+kade   # pa kuptim të qartë
+koko   # pa kuptim të qartë
+kyl   # pa kuptim të qartë
+mapo   # pa kuptim të qartë
+miro   # pa kuptim të qartë
+edukativo   # pjesë e fjalëve të përbëra
+agro   # parashtesë
+euklid   # emër vetjak
+# ── n5.tsv ──
+zam   # pa kuptim të qartë
+resul   # emër vetjak
+oksford   # emër vetjak
+mix   # fjalë e huaj
+bua   # pa kuptim të qartë
+buhar   # pa kuptim të qartë
+kultivarë   # formë e paqartë
+mirëqenë   # formë e paqartë
+plaç   # pa kuptim të qartë
+brosh   # pa kuptim të qartë
+kësi   # pa kuptim të qartë
+ushtarako   # pjesë e fjalëve të përbëra
+bregas   # pa kuptim të qartë
+shop   # fjalë e huaj
+cens   # pa kuptim të qartë
+saze   # pa kuptim të qartë
+pet   # pa kuptim të qartë
+rebelua   # formë e paqartë
+administrativo   # pjesë e fjalëve të përbëra
+anasjell   # formë e paqartë
+fiziko   # pjesë e fjalëve të përbëra
+vargas   # emër vetjak
+buq   # pa kuptim të qartë
+abati   # fjalë e huaj
+blero   # pa kuptim të qartë
+gollak   # pa kuptim të qartë
+leksiko   # pjesë e fjalëve të përbëra
+orl   # shkurtim
+ero   # pa kuptim të qartë
+eto   # pa kuptim të qartë
+bono   # fjalë e huaj
+verb   # fjalë e huaj
+kind   # fjalë e huaj
+marmara   # emër vetjak
+sharmë   # pa kuptim të qartë
+bat   # pa kuptim të qartë
+xhixho   # pa kuptim të qartë
+debi   # pa kuptim të qartë
+yti   # pa kuptim të qartë
+patër   # pa kuptim të qartë
+# ── n6.tsv ──
+nostrum   # pjesë e shprehjes latine
+poll   # fjalë e huaj
+comic   # fjalë e huaj
+osakë   # pa kuptim të qartë
+soft   # fjalë e huaj
+palok   # pa kuptim të qartë
+agor   # pa kuptim të qartë
+lombard   # emër vetjak
+bombol   # pa kuptim të qartë
+hole   # fjalë e huaj
+varna   # emër vetjak
+rup   # pa kuptim të qartë
+biz   # pa kuptim të qartë
+katana   # fjalë e huaj
+mono   # parashtesë
+nor   # pa kuptim të qartë
+loli   # pa kuptim të qartë
+primus   # fjalë e huaj
+mahi   # pa kuptim të qartë
+raven   # fjalë e huaj
+meçe   # pa kuptim të qartë
+koto   # pa kuptim të qartë
+sugar   # fjalë e huaj
+kreko   # pa kuptim të qartë
+bulo   # pa kuptim të qartë
+xing   # pa kuptim të qartë
+brac   # pa kuptim të qartë
+kule   # pa kuptim të qartë
+lyr   # pa kuptim të qartë
+temp   # shkurtim
+juridiko   # pjesë e fjalëve të përbëra
+# ── n7.tsv ──
+safë   # pa kuptim të qartë
+bërnjak   # pa kuptim të qartë
+boro   # pa kuptim të qartë
+klm   # shkurtim
+vilma   # emër vetjak
+gumë   # pa kuptim të qartë
+nim   # pa kuptim të qartë
+zerva   # emër vetjak
+zhegër   # pa kuptim të qartë
+trier   # emër vetjak
+drop   # fjalë e huaj
+kumi   # pa kuptim të qartë
+xhuli   # emër vetjak
+postblloqe   # pa kuptim të qartë
+tarak   # pa kuptim të qartë
+xhajë   # pa kuptim të qartë
+birçe   # pa kuptim të qartë
+rigo   # pa kuptim të qartë
+taurus   # fjalë e huaj
+# ── n8.tsv ──
+xhi   # pa kuptim të qartë
+negro   # formë e huaj
+tollovi   # pa kuptim të qartë
+zade   # pa kuptim të qartë
+lid   # pa kuptim të qartë
+aero   # parashtesë
+xheku   # pa kuptim të qartë
+krih   # pa kuptim të qartë
+shoqëroro   # pa kuptim të qartë
+sahel   # emër vetjak
+kuqo   # pa kuptim të qartë
+hanko   # pa kuptim të qartë
+epiko   # pjesë e fjalëve të përbëra
+# ── n9.tsv ──
+venom   # fjalë e huaj
+hoze   # pa kuptim të qartë
+modus   # pjesë e shprehjes latine
+rrop   # pa kuptim të qartë
+theron   # emër vetjak
+kapiti   # pa kuptim të qartë
+gërvallën   # emër vetjak
+matematiko   # pjesë e fjalëve të përbëra
+bantam   # fjalë e huaj
+erg   # pa kuptim të qartë
+sekreto   # pa kuptim të qartë
+zhyl   # pa kuptim të qartë
+xhenio   # pa kuptim të qartë
+ritorno   # fjalë e huaj
+mesto   # pa kuptim të qartë
+poetic   # fjalë e huaj
+rund   # pa kuptim të qartë
+zhelinë   # pa kuptim të qartë
