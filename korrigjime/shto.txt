@@ -8973,3 +8973,12 @@ lërues | noun | ploughman
 mullixhi | noun | miller
 # ── w67.tsv ──
 armike | noun | enemy (female)
+# ── w69.tsv ──
+biologjikisht | adv | biologically
+mençurisht | adv | wisely
+# ── w70.tsv ──
+dikund | adv | somewhere
+shpinas | adv | on one's back
+brinjas | adv | sideways, on one's side
+gjunjas | adv | on one's knees, kneeling
+kokëzbuluar | adj | bareheaded

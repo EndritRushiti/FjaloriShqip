@@ -17036,3 +17036,13 @@ zullumqare | zullumqar
 zvarranike | zvarranik
 zyrtare | zyrtar
 zhvillime | zhvillim
+# ── w69.tsv ──
+gjërësisht | gjerësisht
+# ── w71.tsv ──
+ty | ti
+asaj | ajo
+juve | ju
+këta | ky
+cilët | cili
+cilat | cili
+vetvetja | vetvete
