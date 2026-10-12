@@ -17056,3 +17056,5 @@ dorëza | dorezë
 shapka | shapkë
 # ── w75.tsv ──
 egërsira | egërsirë
+bën | bëj
+tokës | tokë

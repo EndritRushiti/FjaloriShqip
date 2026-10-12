@@ -90,6 +90,10 @@ html.en div[data-ui="en"] { display: block; }
 .word-meanings { display: flex; flex-direction: column; }
 html.en .word-meanings .word-summary { order: -1; margin-top: 14px; font-size: 1.22rem; color: var(--text); }
 html.en .word-meanings .word-desc { margin-top: 6px; font-size: 1.02rem; color: var(--muted); }
+html.en .word-meanings p.word-summary[data-ui="en"] { display: block; }
+html.en .word-meanings .word-desc::before { content: "In Albanian: "; font-family: var(--sans); font-size: 0.85rem; }
+/* English mode: the meanings card comes before the word family */
+html.en .word-main > .same-meaning { order: 2; }
 
 /* ── base ── */
 *, *::before, *::after { box-sizing: border-box; }

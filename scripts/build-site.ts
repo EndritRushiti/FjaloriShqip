@@ -371,7 +371,11 @@ function wordPage(w: Word): string {
         })()
       : "";
 
-  const firstGloss = w.entries.flatMap((e) => e.senses).find((s) => s.lang === "en")?.gloss ?? "";
+  // English meaning; a dialect or variant form without its own borrows the main word's (shown in English mode first)
+  const ownGloss = w.entries.flatMap((e) => e.senses).find((s) => s.lang === "en")?.gloss ?? "";
+  const mainWord = ownGloss ? undefined : [...(w.variantOf ?? []).map((v) => v.word), w.description?.text.match(/^(?:Formë|Trajtë)[^«]*«([^»]+)»/)?.[1]].map((x) => (x ? byWord.get(x) : undefined)).find((x) => x?.entries.some((e) => e.senses.some((s) => s.lang === "en")));
+  const mainGloss = mainWord?.entries.flatMap((e) => e.senses).find((s) => s.lang === "en")?.gloss ?? "";
+  const firstGloss = ownGloss;
   const ipa = [...new Set(w.entries.flatMap((e) => e.ipa ?? []))];
   const pos = [...new Set(w.entries.map((e) => e.pos))].filter((p) => p !== "other"); // "other" = word class unknown
   const gender = w.entries.find((e) => e.gender)?.gender;
@@ -410,7 +414,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${albanianInstead(w)}
       <div class="word-meanings">
       ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
-      ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : ""}
+      ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : mainWord ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span> ${h(mainGloss.replace(/[“”]/g, ""))} <span class="muted small">(${bi("si", "as")} <a href="${wordUrl(mainWord.word)}" lang="sq">${h(mainWord.word)}</a>)</span></p>` : `<p class="word-summary no-english" data-ui="en" lang="en"><span class="lang-badge">EN</span> <i>No English meaning yet — the Albanian description is below.</i></p>`}
       </div>
       ${variant}
     </header>

@@ -9086,3 +9086,1201 @@ shkishëroj | verb | to excommunicate
 vjetërsohem | verb | to become obsolete
 turfulloj | verb | to snort
 vetizolohem | verb | to self-isolate
+botëror | adj | worldwide, global; world (adj.)
+personal | noun | personal
+aktual | adj | current, present-day
+shtetëror | noun | state (adj.), governmental
+shoqëror | adj | social
+fillimisht | adv | initially, at first
+student | noun | student (at a university)
+ligjor | noun | legal, lawful
+aktivitet | noun | activity
+zakonshëm | adj | usual, ordinary, common
+federal |  | federal
+vazhdueshëm | adj | continuous, constant
+praktik |  | practical
+penal |  | criminal, penal
+origjinal |  | original, not a copy
+normal | adj | normal, regular
+fillor | adj | primary, elementary (school)
+prodhim | noun | production; product
+special |  | special
+total |  | total, complete
+suksesshëm | adj | successful
+themelor | adj | fundamental, basic
+komunikim | noun | communication
+ajror | noun | air (adj.), aerial
+sportiv |  | sports (adj.), sporty
+qëndrueshëm | adj | stable, durable, sustainable
+drejtues | noun | leader, manager; leading
+përfundimisht | adv | finally, once and for all
+vazhdimisht | adv | continuously, constantly
+shpirtëror | noun | spiritual
+kritik |  | critic; critical
+juridik | noun | legal, juridical
+themelues | noun | founder; founding
+specifik | adj | specific
+mjaftueshëm | adj | sufficient, enough
+shkollor | adj | school (adj.), scholastic
+hulumtim | noun | research, investigation
+alternativ |  | alternative
+vjetor | adj | annual, yearly
+individual |  | individual
+industrial |  | industrial
+kriminal | adj | criminal
+vlerësim | noun | evaluation, assessment; appreciation
+strategjik |  | strategic
+poetik | adj | poetic
+kundërshtim | noun | objection, opposition
+antik |  | ancient, antique
+vijim | noun | continuation (në vijim: below, as follows)
+instrument | noun | instrument, tool; musical instrument
+kohor | noun | temporal, time (adj.)
+përhershëm |  | permanent, lasting
+policor | noun | police (adj.)
+favor | noun | favour; in favour of
+specializoj | verb | to specialize, to train in a field
+bregdetar | adj | coastal
+ushqimor | adj | food (adj.), nutritional
+ekzistues | noun | existing
+rrugor | noun | road (adj.)
+universal |  | universal
+paligjshëm |  | illegal, unlawful
+rural |  | rural
+maksimal | noun | maximum, maximal
+hekurudhor | noun | railway (adj.)
+postim | noun | posting; (online) post
+dhunshëm | adj | violent
+vështrim | noun | look, gaze; view, overview
+punim | noun | work, piece of work; paper
+minimal | adj | minimal, minimum
+operativ |  | operational, operative
+ideal | adj | ideal
+publikisht |  | publicly
+arkitekturor | noun | architectural
+tmerrshëm | adj | terrible, horrible
+tanishëm | adj | current, present
+detyrueshëm | adj | compulsory, mandatory
+pedagogjik | adj | pedagogical, educational
+kërkimor | noun | research (adj.)
+superior | noun | superior; higher
+rregullisht | adv | regularly
+elektoral | adj | electoral
+intensiv | noun | intensive
+menjëhershëm | adj | immediate, instant
+anësor | noun | lateral, side (adj.)
+objektiv | noun | objective; target
+rindërtim | noun | reconstruction, rebuilding
+magjik |  | magical
+arsimim | noun | education, schooling
+problematik |  | problematic
+fiskal |  | fiscal
+cilësor |  | qualitative, quality (adj.)
+dokumentacion | noun | documentation
+liberal |  | liberal
+punësim | noun | employment, hiring
+romantik |  | romantic
+trajtim | noun | treatment, handling
+perspektiv |  | prospective, forward-looking
+minor | noun | minor
+atëhershëm | adj | of that time, then
+ndërlidh | verb | to interconnect, to link
+digjital |  | digital
+tragjik | adj | tragic
+ringjall | verb | to revive, to resurrect
+integritet | noun | integrity
+magnetik |  | magnetic
+gërmim | noun | excavation, digging
+banim | noun | residence, dwelling
+lehtësisht | adv | easily
+virtual |  | virtual
+tatimor | noun | tax (adj.), fiscal
+saktësisht | adv | exactly, precisely
+specialist | noun | specialist
+kontinental | noun | continental
+adriatik | adj | Adriatic
+statistikor | noun | statistical
+nervor |  | nervous, nerve (adj.)
+zbatim |  | implementation, application
+formim | noun | formation; education, training
+fatkeqësisht | adv | unfortunately
+jugperëndimor | noun | south-western
+edukativ |  | educational
+fantastik |  | fantastic
+konservator |  | conservative
+latinisht |  | in Latin; Latin (language)
+agjent | noun | agent; spy
+pikëpamje |  | point of view, viewpoint
+energjetik |  | energy (adj.)
+shkëmbor | noun | rocky
+protagonist | noun | protagonist
+rinor | noun | youth (adj.)
+konstant | noun | constant
+politikisht | adv | politically
+taktik |  | tactical
+klimatik |  | climatic
+optik | noun | optical, visual
+fizikisht | adv | physically
+hetimor | noun | investigative
+informativ |  | informative
+doganor | noun | customs (adj.)
+dallueshëm | adj | distinguishable, distinct
+shpeshherë |  | often, frequently
+ideologjik | adj | ideological
+pjesshëm | adj | partial
+frikshëm | adj | frightening, scary
+përmirësim | noun | improvement
+legjislativ |  | legislative
+hulumtues | noun | researcher
+rastësisht | adv | by chance, accidentally
+larmishëm | adj | varied, diverse
+parashtroj | verb | to submit, to put forward
+radikal |  | radical
+rrjedhimisht | adv | consequently
+atlantik | adj | Atlantic
+oriental |  | oriental, eastern
+strukturor | noun | structural
+bimor | adj | plant (adj.), vegetable
+urgjent | adj | urgent
+matematikor | noun | mathematical
+paraprakisht | adv | in advance, beforehand
+kryqëzim | noun | crossroads, intersection; crossbreeding
+rrëfim | noun | story, narration; confession
+periodik |  | periodic; periodical
+biblik | adj | biblical
+relativ |  | relative
+kthim |  | return
+pranueshëm | adj | acceptable
+studimor | noun | study (adj.), scholarly
+strehim | noun | shelter, housing
+gjykim |  | judgement; trial
+heroik |  | heroic
+identitet |  | identity
+incident | noun | incident
+verilindor | noun | north-eastern
+interpretim |  | interpretation; performance
+transparent | adj | transparent
+realizëm | noun | realism
+ambient |  | environment, surroundings
+atomik | adj | atomic
+automatikisht | adv | automatically
+ndërmend | noun | in mind (bie ndërmend: to come to mind)
+eksperimental |  | experimental
+mbizotërues | noun | predominant, dominant
+thellësisht | adv | deeply
+banues | adj | resident; residing
+figurativ | adj | figurative
+realist | noun | realist; realistic
+infektiv |  | infectious
+komik |  | comic, funny
+veriperëndimor | noun | north-western
+hollësishëm | adj | detailed
+primitiv |  | primitive
+kurrfarë |  | no kind of, none whatsoever
+ekskluzivisht | adv | exclusively
+monumental |  | monumental
+turpshëm | adj | shameful
+luftim | noun | fighting, combat
+neutral | adj | neutral
+talent |  | talent
+zëvendëskryeministër |  | deputy prime minister
+shkatërrues |  | destructive
+vdekjeprurës |  | deadly, lethal
+emergjent | noun | emergency (adj.)
+vertikal | adj | vertical
+terminal | noun | terminal
+javor | noun | weekly
+mirëmbaj | verb | to maintain, to keep up
+papërshtatshëm | adj | unsuitable, inappropriate
+operator | noun | operator
+kryeqendër |  | main centre, hub
+jurist | noun | jurist, lawyer
+kodrinor | noun | hilly
+kontrast | noun | contrast
+rrethor | noun | circular
+gjeopolitik |  | geopolitical
+feudal |  | feudal; feudal lord
+gjegjësisht | adv | respectively
+rifilloj | verb | to restart, to resume
+segment | noun | segment
+qëllimshëm | adj | intentional, deliberate
+panevojshëm | adj | unnecessary
+pasigurt | adj | unsafe; uncertain
+humanizëm | noun | humanism
+plotësues | adj | complementary, supplementary
+bollshëm | adj | ample, abundant; loose (of clothes)
+pozitivisht | adv | positively
+mashtrues | noun | swindler, cheat; deceptive
+organizator | noun | organizer
+provincial | noun | provincial
+manual |  | manual
+donacion | noun | donation
+komponent | noun | component
+gradual | adj | gradual
+mobilizoj | verb | to mobilize
+lirisht | adv | freely
+identik |  | identical
+fotografik |  | photographic
+qëllimisht | adv | deliberately, on purpose
+ndërkombëtarisht | adv | internationally
+elektromagnetik |  | electromagnetic
+tropikal |  | tropical
+arsenal |  | arsenal
+dallues | noun | distinctive, distinguishing
+mësimdhënës |  | teacher
+gabimisht | adv | mistakenly, by mistake
+pasqyrim | noun | reflection; depiction
+fiktiv |  | fictitious
+gjysmëfinale | noun | semi-final
+publicist | noun | publicist, columnist
+humanist | noun | humanist
+kryeredaktor | noun | editor-in-chief
+zëvendësministër |  | deputy minister
+burimor | adj | original, primary (source)
+paraparë | noun | foreseen, planned
+skenarist |  | screenwriter
+zhvillimor | noun | developmental
+optimal |  | optimal
+shndërrim | noun | transformation
+portal |  | portal
+edicion |  | edition
+optimist |  | optimist; optimistic
+konstruktiv |  | constructive
+skenik |  | scenic, stage (adj.)
+ekonomikisht | adv | economically
+pushtetar | noun | ruler, person in power
+spitalor | adj | hospital (adj.)
+normativ |  | normative
+sundues | noun | ruling; ruler
+gëlqeror | noun | calcareous, limestone (adj.)
+krahinor | noun | regional
+narrativ |  | narrative
+ekstremist | noun | extremist
+racor | noun | racial
+bashkëpunues | noun | collaborator; cooperative
+bashkëngjit | verb | to attach, to append
+festiv | noun | festive
+satelitor | noun | satellite (adj.)
+negativisht | adv | negatively
+finalizoj | verb | to finalize
+ndërfaqe | noun | interface
+marksist |  | Marxist
+rikujtoj | verb | to recall, to remind
+baltik |  | Baltic
+kurrsesi | noun | by no means
+arkivor | noun | archival
+drastik |  | drastic
+eventual |  | possible, potential
+legal | adj | legal
+gjinor | adj | gender (adj.)
+prosperitet | noun | prosperity
+zoologjik |  | zoological
+brutal | adj | brutal
+fluturues | adj | flying
+joqeveritar | noun | non-governmental
+ndërtimor | noun | construction (adj.)
+kreativ |  | creative
+intensifikoj | verb | to intensify
+kryeprokuror | noun | chief prosecutor
+çlirim | noun | liberation, release
+zbukurim | noun | decoration, ornament
+gjithanshëm | adj | comprehensive, all-round
+fushor | noun | field (adj.), of the plain
+formalisht | adv | formally, officially
+ndryshueshëm | adj | changeable, variable
+veror | adj | summer (adj.)
+bashkautor | noun | co-author
+ofrues | noun | provider
+kurrizor |  | spinal, dorsal
+ndërgjegjshëm | adj | conscious, aware
+fundor | noun | final, end (adj.)
+pastrim | noun | cleaning; purge
+parandalues | noun | preventive
+kërkues | noun | researcher; demanding
+rektor | noun | rector (of a university)
+pamëshirshëm | adj | merciless, ruthless
+verifikoj | verb | to verify, to check
+ribashkoj | verb | to reunite
+finalist | noun | finalist
+ribotoj | verb | to republish, to reprint
+stabilitet | noun | stability
+mortor | noun | funeral (adj.), mortuary
+semantik |  | semantic
+mentor | noun | mentor
+shqipfolës | noun | Albanian speaker; Albanian-speaking
+toksik |  | toxic
+financiarisht | adv | financially
+intensitet |  | intensity
+koordinator | noun | coordinator
+relevant | noun | relevant
+punues | noun | working; worker
+kozmetik |  | cosmetic
+junior | noun | junior
+empirik | noun | empirical
+shtazor |  | animal (adj.), bestial
+pakëndshëm | adj | unpleasant
+joformal |  | informal
+kërcim |  | jump, leap; dance
+certifikoj | verb | to certify
+përcaktues | noun | determining, decisive
+inferior | noun | inferior, lower
+parakusht | noun | precondition, prerequisite
+interval |  | interval
+shumëvjeçar |  | long-standing, many years long; perennial
+përfitues | noun | beneficiary
+mirëkuptim |  | mutual understanding
+hënor | noun | lunar
+kryesues | noun | chairman, presiding
+protestues | noun | protester
+vullnetarisht | adv | voluntarily
+densitet | noun | density
+rimëkëmb | verb | to restore, to revive
+vital |  | vital
+apostolik |  | apostolic
+martesor | noun | marital, matrimonial
+fortifikoj |  | to fortify
+protestant | noun | Protestant
+helmues | adj | poisonous
+parëndësishëm | adj | unimportant, insignificant
+premtues | noun | promising
+nëntokë | noun | underground, subsoil
+nominal |  | nominal
+didaktik |  | didactic, teaching (adj.)
+këndor | noun | angular
+demonstrim | noun | demonstration
+kërcënues | noun | threatening
+fragment | noun | fragment
+kontradiktor |  | contradictory
+rregullim |  | arrangement, adjustment, regulation
+lumor | noun | river (adj.), fluvial
+pararend | noun | to precede, to go before
+vendimmarrës | noun | decision-maker; decision-making
+militant | noun | militant, activist
+riprodhues | noun | reproductive
+skajshëm | adj | extreme
+vallëzim | noun | dancing, dance
+eliminator | noun | eliminating; qualifier
+medieval | noun | medieval
+orator | noun | orator
+rehatshëm | adj | comfortable
+kongregacion | noun | congregation
+lektor | noun | lecturer
+pamundësi |  | impossibility, inability
+procedural |  | procedural
+vendngjarje | noun | scene (of an event), venue
+kreativitet | noun | creativity
+riorganizoj | verb | to reorganize
+yndyror | noun | fatty
+kulturoj | verb | to cultivate
+paanshëm | adj | impartial, unbiased
+sentimental |  | sentimental
+socialdemokrat |  | social democrat
+propagandistik |  | propagandistic
+lundrues | noun | floating; navigator
+zbatueshëm | adj | applicable, enforceable
+dialektik | noun | dialectical
+unifikoj | verb | to unify, to standardize
+diktatorial |  | dictatorial
+befasues | noun | surprising
+tolerant | noun | tolerant
+ceremonial |  | ceremonial
+lokacion |  | location
+tektonik |  | tectonic
+kufizues | noun | limiting, restrictive
+profesoreshë | noun | female professor
+frymëzues |  | inspiring
+klinik |  | clinical
+pakënaqësi |  | dissatisfaction, discontent
+skulptor | noun | sculptor
+shërim | noun | healing, recovery
+medikament | noun | medicine, drug
+profesionalisht | adv | professionally
+interaktiv |  | interactive
+shembullor | noun | exemplary
+dëgjimor | noun | auditory, listening (adj.)
+prapavijë | noun | rear (behind the front line)
+precedent | noun | precedent
+egoist | noun | egoist; selfish
+integrues | noun | integrating
+nënujor | adj | underwater
+fleksibilitet | noun | flexibility
+mjerisht | adv | unfortunately, sadly
+rishfaq | verb | to show again; (refl.) to reappear
+baptist | noun | Baptist
+plotfuqishëm | adj | almighty, all-powerful
+dhunim | noun | violation; rape
+vizatimor | noun | drawing (adj.), graphic
+rreptësisht | adv | strictly
+teknikisht | adv | technically
+moralisht | adv | morally
+edukator | noun | educator
+gjenital |  | genital
+legalizoj | verb | to legalize
+frytshëm | adj | fruitful, productive
+kadastral |  | cadastral, land-registry (adj.)
+relativitet | noun | relativity
+padurim | noun | impatience
+papërgjegjshëm | adj | irresponsible
+harmonik |  | harmonic, harmonious
+ngushëllim | noun | consolation, condolence
+bilateral |  | bilateral
+ballor | noun | frontal
+promovim | noun | promotion
+detyrimisht | adv | necessarily, obligatorily
+mijëvjeçar | noun | millennium; millennial
+spiral |  | spiral
+spektator | noun | spectator
+paramendoj | verb | to premeditate, to plan in advance
+regjent | noun | regent
+çerekfinale | noun | quarter-final
+eksponent | noun | exponent; representative
+radioaktiv | adj | radioactive
+centralizoj | verb | to centralize
+emocionalisht | adv | emotionally
+konsullor | noun | consular
+mural |  | mural
+sasior |  | quantitative
+skepticizëm | noun | scepticism
+zbatues | noun | implementer, executor
+efektshëm | adj | effective
+paqeruajtës | noun | peacekeeper; peacekeeping
+evoluim | noun | evolution, development
+bakterial |  | bacterial
+persisht |  | in Persian; Persian (language)
+sociologjik | adj | sociological
+pranues | noun | accepting; recipient
+nocion | noun | notion, concept
+mundësisht | adv | if possible
+elastik | adj | elastic
+aktivisht | adv | actively
+ndërkufitar | noun | cross-border
+ngadalshëm | adj | slow
+katërvjeçar | noun | four-year (adj.); four-year-old
+zakonor | noun | customary
+mirëqenie |  | well-being, welfare
+shërues |  | healing
+regjional |  | regional
+grykëderdhje | noun | estuary, river mouth
+flagrant | noun | flagrant, obvious
+mundimshëm | adj | laborious, painstaking
+realizim |  | realization, accomplishment
+deklarim | noun | declaration
+kulmor | noun | peak, culminating
+jashtëligjshëm | adj | illegal, outlaw
+komandues | noun | commanding; commander
+mbizotërim | noun | dominance, predominance
+korrespondent | noun | correspondent
+mbipeshë | noun | overweight
+metalurgji | noun | metallurgy
+parauniversitar | noun | pre-university
+valor | noun | wave (adj.)
+pianist |  | pianist
+koherent | noun | coherent
+komunikues | noun | communicative
+paragjykoj | verb | to prejudge
+zhurmshëm | adj | noisy
+gjeografikisht | adv | geographically
+zbukurues | noun | decorative
+parasheh | noun | foresees (form of parashoh)
+botanik | adj | botanical
+degëzim | noun | branching, ramification
+instruktor | noun | instructor
+ndërveprim | noun | interaction
+frutor | noun | fruit (adj.)
+kanonik |  | canonical
+infrastrukturor | noun | infrastructural
+ndërfetar | noun | interfaith, interreligious
+mentalitet |  | mentality
+dëmshpërblim |  | compensation, damages
+jetëshkurtër |  | short-lived
+kallëzim | noun | predicate (grammar); telling, report
+paraushtarak |  | paramilitary
+pazëvendësueshëm | adj | irreplaceable
+grupor | noun | group (adj.)
+arabik |  | Arabic
+romanik |  | Romanesque; Romance (languages)
+trishtim |  | sadness
+mental |  | mental
+pesëvjeçar |  | five-year (adj.); five-year-old
+endemik |  | endemic
+ilegalisht | adv | illegally
+kryefjalë | noun | subject (grammar)
+teorikisht | adv | theoretically
+shkurtim |  | shortening, cut; abbreviation
+demonstrues | noun | demonstrator
+pikëlloj | verb | to grieve, to sadden deeply
+gjenerues | noun | generator; generating
+epidemiologjik |  | epidemiological
+pamundësoj | verb | to make impossible
+rinovim | noun | renovation
+shtytje |  | push, thrust; impetus
+ndërqeveritar | noun | intergovernmental
+pafavorshëm | adj | unfavourable
+cerebral |  | cerebral
+ushtarakisht | adv | militarily
+tatimpagues | noun | taxpayer
+hormonal |  | hormonal
+kuptimplotë | noun | meaningful
+lehtësues | noun | easing; mitigating
+parazgjedhor | noun | pre-election (adj.)
+nënshkrues | noun | signatory
+jetëgjatë | noun | long-lived
+legjislacion |  | legislation
+palëvizshëm | adj | immovable, motionless
+pavetëdijshëm | adj | unconscious
+kursim |  | saving; savings
+konspirativ | noun | conspiratorial, secret
+leksikor | noun | lexical
+ndërdisiplinor | noun | interdisciplinary
+ripërtërij | verb | to renew, to revive
+separatist | noun | separatist
+shqisor | noun | sensory
+tërësor | noun | overall, comprehensive
+kolektivisht | adv | collectively
+neurologjik |  | neurological
+pranveror | noun | spring (adj.), vernal
+paarritshëm | adj | unattainable, unreachable
+stalinist | noun | Stalinist
+pakrahasueshëm | adj | incomparable
+menstrual |  | menstrual
+normalizoj | verb | to normalize
+pluralist | noun | pluralist
+klasor | noun | class (adj.)
+përkujtim |  | commemoration
+konservativ |  | conservative
+denoncim | noun | denunciation, report (to the authorities)
+protektor | noun | protector
+frontal |  | frontal
+punueshëm | adj | workable, arable
+parimor | noun | principled
+rrënjësisht | adv | radically, fundamentally
+paimagjinueshëm | adj | unimaginable
+rubrikë | noun | column, section (of a newspaper or programme)
+akullnajor | noun | glacial
+gjenetikisht | adv | genetically
+automatizoj | verb | to automate
+gjenial |  | brilliant, ingenious
+reaktiv |  | reactive; jet (engine)
+dërmues | noun | overwhelming, crushing
+metabolik |  | metabolic
+përshkrues |  | descriptive
+tumor | noun | tumour
+trillim |  | fiction, invention
+kodifikoj | verb | to codify
+rikrijoj | verb | to recreate
+standardizoj | verb | to standardize
+gjithsecili |  | each and every one
+ndëretnik |  | interethnic
+përditësim | noun | update
+afatmesëm |  | medium-term
+shumëkush |  | many people
+nëndheshëm | adj | underground
+mosnjohje | noun | non-recognition; ignorance
+privatisht | adv | privately
+rimor | noun | rhyme (adj.)
+orient | noun | the Orient, the East
+vakant | noun | vacant
+globalisht | adv | globally
+meteorologjik |  | meteorological
+materialist | noun | materialist
+ministror | noun | ministerial
+pafundësisht | adv | endlessly, infinitely
+identifikues | noun | identifying
+moderator | noun | moderator
+padobishëm | adj | useless
+valutor | noun | currency (adj.), monetary
+hezitim | noun | hesitation
+shtrëngues | noun | tightening; restrictive
+margjinalizoj | verb | to marginalize
+sporadik |  | sporadic
+adaptim | noun | adaptation
+ngushtësisht | adv | closely
+ndëshkues | noun | punitive
+rregullues | noun | regulatory; regulator
+gjatësor | noun | longitudinal
+ofendim | noun | insult, offence
+tetëvjeçar |  | eight-year (adj.); eight-year-old
+admiral | noun | admiral
+pahijshëm |  | improper, indecent
+çmueshëm | adj | valuable, precious
+ngacmues | noun | teasing, provocative
+optimizëm | noun | optimism
+modernist | noun | modernist
+djallëzor |  | devilish, diabolical
+fuqiplotë | noun | plenipotentiary, all-powerful
+pandershëm | adj | dishonest
+qarkor | noun | circular
+agjitacion | noun | agitation (political)
+pragmatik | adj | pragmatic
+formues | noun | formative
+prapaskenë | noun | backstage; behind the scenes
+mirëpres |  | to welcome
+përjetim | noun | experience
+ribotim | noun | reprint, new edition
+korrelacion | noun | correlation
+negociator | noun | negotiator
+tekstual |  | textual
+etnikisht | adv | ethnically
+terrorizoj | verb | to terrorize
+materializoj | verb | to materialize, to realize
+stërgjyshor | noun | ancestral
+durueshëm | adj | bearable, tolerable
+padëshirueshëm | adj | undesirable, unwanted
+ritheksoj | verb | to re-emphasize, to reiterate
+ekipor | noun | team (adj.)
+paqartësi |  | lack of clarity, ambiguity
+docent | noun | associate professor, docent
+dhurues | noun | donor
+programor | noun | programmatic, programme (adj.)
+pushkatim | noun | execution by firing squad
+rastësor |  | random, accidental
+xhirim | noun | filming, shooting (of a film)
+kokëfortë | adj | stubborn, obstinate
+atjeshëm | adj | of that place, from there
+paaftësi |  | incapacity, incompetence
+paralajmërues | noun | warning (adj.)
+parashikueshëm | adj | predictable
+rrallëherë |  | rarely, seldom
+specialitet | noun | speciality
+pikturim | noun | painting
+konteshë | noun | countess
+lavdërim |  | praise
+raketor | noun | rocket (adj.), missile (adj.)
+referues | noun | referee, rapporteur; referring
+kategorik |  | categorical
+mjeshtërisht | adv | masterfully
+vitalitet | noun | vitality
+dhjetëvjeçar | noun | decade; ten-year-old
+organizues | noun | organizer; organizing
+zbulues | noun | discoverer, explorer
+aktualitet | noun | topicality; current affairs
+ndikues | noun | influential
+pesëqind | num | five hundred
+asnjanës | noun | neutral
+inferioritet | noun | inferiority
+konsultativ |  | consultative, advisory
+gëzueshëm | adj | joyful, happy
+shpjegues | noun | explanatory
+asistim | noun | assistance; assist (sport)
+mikroskopik | adj | microscopic
+definitiv | adj | definitive, final
+detyrues | noun | compelling, binding
+ngushtim | noun | narrowing
+përgjim | noun | eavesdropping, wiretapping
+intuitiv |  | intuitive
+kubik |  | cubic
+parregullsi |  | irregularity
+probabilitet | noun | probability
+respirator | noun | respirator, ventilator
+sintaksor | noun | syntactic
+ricikloj | verb | to recycle
+risjell |  | to bring back
+dialektor | adj | dialectal
+ofendues | noun | offensive, insulting
+fatalitet | noun | fatality, inevitable misfortune
+vendkalim | noun | crossing, passage
+mendërisht | adv | mentally
+artistikisht | adv | artistically
+emblematik |  | emblematic
+freskues | adj | refreshing
+kuptimor | noun | semantic, of meaning
+ndërkulturor | noun | intercultural
+ndriçues | noun | illuminating, lighting
+nostalgjik | noun | nostalgic
+tërësishëm | adj | whole, entire
+klonim | noun | cloning
+ratifikoj |  | to ratify
+mirëpret |  | welcomes (form of mirëpres)
+sponsor | noun | sponsor
+eksplorues | noun | explorer
+palodhshëm | adj | tireless
+reciprokisht | adv | reciprocally, mutually
+destabilizoj | verb | to destabilize
+hidhërim |  | grief, bitterness
+aristokratik | noun | aristocratic
+dashuror | noun | love (adj.), amorous
+stresues |  | stressful
+harmonizoj | verb | to harmonize
+subjektiv |  | subjective
+transformues | noun | transformer
+inspirim | noun | inspiration
+panoramik | noun | panoramic
+bregor | noun | coastal, shore (adj.)
+proporcion |  | proportion
+antagonist | noun | antagonist
+kockor | noun | bony, bone (adj.)
+simbolikisht | adv | symbolically
+tmerrësisht | adv | terribly, awfully
+protestantizëm | noun | Protestantism
+gradient | noun | gradient
+hollësisht | adv | in detail
+ngjyrim | noun | colouring, tint
+papërballueshëm | adj | unaffordable; unbearable
+artificialisht | adv | artificially
+eurodeputet |  | Member of the European Parliament
+famëlartë |  | illustrious, renowned
+pasuror | noun | property (adj.), financial
+reformist | noun | reformist
+dorik |  | Doric
+izolues | noun | insulator; insulating
+administrativisht | adv | administratively
+bashkëluftëtar | noun | comrade-in-arms
+ndërmjetësim | noun | mediation
+kristalor | noun | crystalline
+kundërligjshëm | adj | unlawful
+kundërshtues |  | opposing; opponent
+nënçmoj | verb | to belittle, to scorn
+diagonal |  | diagonal
+implikim | noun | implication, involvement
+nobelist | noun | Nobel laureate
+farefisnor | noun | kinship (adj.), family (adj.)
+mëshirues | noun | merciful
+anatomik |  | anatomical
+përrallor |  | fairy-tale (adj.), fabulous
+denjësisht | adv | worthily, with dignity
+realizueshëm | adj | feasible, achievable
+bashkëlidh |  | to attach, to enclose
+gjeostrategjik |  | geostrategic
+mbarëshqiptar | noun | pan-Albanian
+harkor | noun | arched, arc-shaped
+riprodhoj | verb | to reproduce
+ushtrues | noun | practitioner; exercising
+dëmtues | noun | harmful, damaging
+dublues | noun | dubber; stunt double
+motivues | noun | motivating
+pamundshëm | adj | impossible
+trishtueshëm | adj | sad, saddening
+ekstravagant | noun | extravagant
+homerik |  | Homeric
+unanimisht | adv | unanimously
+meritor | noun | meritorious, deserving
+shkallëzim | noun | gradation, scaling
+makroekonomik |  | macroeconomic
+prostitucion | noun | prostitution
+recital | noun | recital
+mbrëmshëm | adj | of last night
+monitorues | noun | monitoring; monitor
+vandal |  | vandal
+lezetshëm | adj | pleasant, tasty, nice
+episodik |  | episodic
+transatlantik |  | transatlantic
+narrator | noun | narrator
+kryekëput |  | completely, utterly
+mbinatyror | noun | supernatural
+logjikshëm | adj | logical
+definicion |  | definition
+mistershëm | adj | mysterious
+privim | noun | deprivation
+komplikim | noun | complication
+parimisht | adv | in principle
+preventiv |  | preventive
+spekulativ |  | speculative
+ekspansionist | noun | expansionist
+rishkruaj | verb | to rewrite
+rishqyrtim | noun | review, reconsideration
+decentralizoj | verb | to decentralize
+individualizëm | noun | individualism
+këshillimor | noun | advisory, consultative
+shpellor | noun | cave (adj.), cave-dwelling
+bashkëshort |  | spouse, husband
+eurozonë | noun | eurozone
+mbinjerëzor | adj | superhuman
+parametër | noun | parameter
+vetëmohim | noun | self-sacrifice, self-denial
+privatizoj | verb | to privatize
+skeletor | noun | skeletal
+shumëpartiak |  | multiparty
+çfarëdolloj | pron | any kind of
+horizontalisht | adv | horizontally
+produktivitet | noun | productivity
+zhvlerësim | noun | devaluation, depreciation
+vegjetativ |  | vegetative
+autokratik |  | autocratic
+indikacion |  | indication
+pajtueshëm | adj | compatible
+sllovenisht | adv | in Slovenian; Slovenian (language)
+gastrointestinal |  | gastrointestinal
+spiritual | adj | spiritual
+princëror | noun | princely
+diagnostikues | noun | diagnostic
+konkurrent |  | competitor, rival
+nënvlerësoj | verb | to underestimate
+rishqyrtoj | verb | to review, to reconsider
+këtushëm | adj | local, of this place
+mbingarkoj |  | to overload
+karbonik | adj | carbonic
+materialisht | adv | materially
+modalitet | noun | modality, way
+qetësisht | adv | quietly, calmly
+halor | adj | coniferous
+inaugurues | noun | inaugurating; inaugurator
+vendvotim | noun | polling station
+borëbardhë | noun | snow-white
+stoik |  | stoic
+imponues | noun | imposing
+mohues | adj | negative, denying
+drejtshkrimor | adj | orthographic, spelling (adj.)
+eminent | noun | eminent
+kriminalizoj | verb | to criminalize
+distributor | noun | distributor
+islamizoj | verb | to Islamize
+rizgjedh |  | to re-elect
+platonik |  | platonic
+virtytshëm | adj | virtuous
+foljor | adj | verbal (grammar)
+gjenealogjik |  | genealogical
+sensibilizoj | verb | to raise awareness, to sensitize
+garantues | noun | guarantor
+papastër | adj | unclean, impure
+rivlerësoj | verb | to reassess, to re-evaluate
+rrënjor | noun | root (adj.), radical
+shtrim | noun | paving, laying; admission (to hospital)
+aplikueshëm | adj | applicable
+dimensional |  | dimensional
+nënshtetësi | noun | citizenship, nationality
+përsosmëri | noun | perfection
+popullarizim | noun | popularization
+zanafillor | noun | original, primordial
+fotokopje | noun | photocopy
+ndërinstitucional |  | inter-institutional
+recent | noun | recent
+obligueshëm | adj | obligatory, mandatory
+padëmshëm | adj | harmless
+trashëgueshëm | adj | hereditary, inheritable
+ankues | noun | complainant, plaintiff
+gjithherë | adv | always
+mizorisht | adv | cruelly
+identifikim | noun | identification
+kurativ |  | curative
+racial | adj | racial
+barbarisht | adv | barbarically
+detektor | noun | detector
+informator | noun | informant
+melodik |  | melodic
+tejkalim | noun | exceeding, overrun
+greqishtfolës | noun | Greek speaker; Greek-speaking
+hermetik |  | hermetic, airtight
+rigjeneroj | verb | to regenerate
+cenueshëm | adj | vulnerable
+identifikueshëm | adj | identifiable
+pakapshëm | adj | elusive, incomprehensible
+sikletshëm | adj | awkward, uncomfortable
+arterial | adj | arterial
+gjithfarë |  | all kinds of
+jomysliman |  | non-Muslim
+ngurrim | noun | hesitation, reluctance
+kolonialist | noun | colonialist
+pragmatizëm | noun | pragmatism
+ripërdor | noun | to reuse
+trashëgues | noun | heir, successor
+ndërveproj | verb | to interact
+neutralizoj | verb | to neutralize
+rendor | noun | ordinal
+administrues |  | administrator
+armëmbajtje | noun | possession of weapons
+butësisht | adv | gently, softly
+guror | noun | stone (adj.), stony
+rikrijim | noun | recreation, re-creation
+titanik |  | titanic
+aludim | noun | allusion, hint
+amshueshëm | adj | eternal
+irredentist | noun | irredentist
+jopublik |  | non-public, private
+latent | noun | latent
+retrospektiv |  | retrospective
+trashëgimor | noun | hereditary
+aplikues | noun | applicant
+margjinal |  | marginal
+mbidozë | noun | overdose
+stërholloj | verb | to overcomplicate, to split hairs
+anglishtfolës | noun | English speaker; English-speaking
+jobesimtar | noun | non-believer, atheist
+jofunksional |  | dysfunctional, non-functional
+tarifor | noun | tariff (adj.)
+tekstshkrues | noun | lyricist, songwriter
+numerikisht | adv | numerically
+orientalist | noun | orientalist
+rikonstruksion |  | reconstruction
+surrealist | noun | surrealist
+tridhjetëvjeçar |  | thirty-year (adj.); thirty-year-old
+antarktik |  | Antarctic
+gjermanishtfolës | noun | German speaker; German-speaking
+indikator | noun | indicator
+kanunor | noun | of the Kanun (customary law)
+pashpirt | noun | heartless, soulless
+sektorial |  | sectoral
+udhëtues | noun | traveller; travelling
+këshillueshëm | adj | advisable
+pushtetshëm | adj | powerful
+vullnetshëm | adj | strong-willed; willing
+mimikë | noun | facial expression, mimicry
+shkrimor | noun | written, writing (adj.)
+denigrues | noun | denigrating, defamatory
+dislokim | noun | deployment
+ndërveprues | noun | interactive
+simulim | noun | simulation
+vazhdues | noun | continuing; successor
+përvëlues |  | scorching, scalding
+redaktues | noun | editor
+monizëm | noun | monism
+panatyrshëm | adj | unnatural
+përjashtues | noun | exclusive, excluding
+shfrytëzues | noun | exploiter; user
+barbarizëm | noun | barbarism
+kullues |  | draining, filtering
+mundësim | noun | enabling
+procesverbal |  | minutes, official record
+rehabilitim | noun | rehabilitation
+stinor | noun | seasonal
+tenor | noun | tenor
+decimal |  | decimal
+fushëbetejë |  | battlefield
+idealizoj |  | to idealize
+ontologjik |  | ontological
+humorist | noun | humorist, comedian
+pavend | noun | inappropriate, out of place
+ekzagjerim | noun | exaggeration
+futurist | noun | futurist
+kripor | noun | salt (adj.), saline
+mirëkuptoj | verb | to understand, to sympathize with
+parabolik |  | parabolic
+bashkëbisedoj | verb | to converse
+kalueshëm | adj | passable
+moralshëm | adj | moral, ethical
+nëntitull | noun | subtitle
+vajguror | noun | kerosene (adj.), petroleum (adj.)
+vandalizëm | noun | vandalism
+diferencim | noun | differentiation
+pambarim | noun | endless
+paramendim | noun | premeditation
+foshnjor | noun | infant (adj.), infantile
+freskim | noun | refreshment
+disavjeçar |  | lasting several years
+shfletim | noun | leafing through; browsing
+shpresëdhënës | noun | hopeful, encouraging
+terminator | noun | terminator
+acidik |  | acidic
+kalërim | noun | horse riding
+papëlqyeshëm | adj | unpleasant, disagreeable
+dinjitetshëm | adj | dignified
+kësodore | noun | such, of this kind
+parandalim | noun | prevention
+vetor | adj | personal (grammar)
+joshqiptar | noun | non-Albanian
+propagandues | noun | propagandist
+referent | noun | clerk, specialist; speaker (of a report)
+banalitet | noun | banality
+dëgjueshëm | adj | audible
+kartëmonedhë |  | banknote
+petal |  | petal
+rimbush | noun | to refill
+trishtues | noun | saddening
+zëvendëskryetar | noun | deputy chairman, vice-president
+abdominal |  | abdominal
+epidemik | adj | epidemic
+fundamentalist | noun | fundamentalist
+fundamentalizëm | noun | fundamentalism
+nëntëvjeçar |  | nine-year (adj.); nine-year-old
+përfytyrim | noun | imagining, image (in the mind)
+riaktivizoj | verb | to reactivate
+shijim | noun | enjoyment, savouring
+shtatëvjeçar |  | seven-year (adj.); seven-year-old
+bisedor | adj | conversational
+burrështetas | noun | statesman
+kimikisht | adv | chemically
+mbingarkesë | noun | overload
+printim | noun | printing
+temperament | noun | temperament
+banueshëm | adj | habitable
+binomial |  | binomial
+bombastik |  | bombastic
+dhjamor | noun | fatty, adipose
+katërqind | num | four hundred
+orientalizëm | noun | orientalism
+argumentues | noun | argumentative
+nënkolonel |  | lieutenant colonel
+pikëtakim | noun | point of contact, meeting point
+qarkullues | noun | circulating
+rotacion | noun | rotation
+evitim | noun | avoidance
+pastoral |  | pastoral
+postkomunist | noun | post-communist
+ripunoj | verb | to rework, to revise
+sinjalizues | noun | signalling
+shtresim | noun | stratification, layering
+stimulim | noun | stimulation
+shumanshëm | adj | many-sided, versatile
+akreditim | noun | accreditation
+depërtues | noun | penetrating
+kontekstual |  | contextual
+letonisht | adv | in Latvian; Latvian (language)
+shumëkënd | pron | polygon
+emotiv |  | emotive, emotional
+engjëllor | noun | angelic
+gjashtëmujor | adj | six-month (adj.); semester
+helmim | noun | poisoning
+modelim | noun | modelling
+bashkëpronar |  | co-owner
+befasisht | adv | suddenly, unexpectedly
+birësues | noun | adoptive; adopter
+ekstremitet | noun | extremity
+liqenor | noun | lake (adj.)
+ndihmues | noun | auxiliary; helper
+botor | adj | worldly, global
+joefektiv |  | ineffective
+jolinear |  | nonlinear
+lundrueshëm | adj | navigable
+meditativ | noun | meditative
+astral |  | astral
+federalist | noun | federalist
+lëshues | noun | releasing, issuing
+mbulues | noun | covering
+pluralizëm | noun | pluralism
+subversiv |  | subversive
+aktualizoj | verb | to update, to bring up to date
+gjithëfuqi |  | omnipotence
+indor | noun | tissue (adj.)
+kontraceptiv |  | contraceptive
+lakor | noun | curved
+navigator | noun | navigator
+priftëror | noun | priestly
+realizues | noun | creator, maker
+rilexoj | verb | to reread
+sadist | noun | sadist
+satanik | noun | satanic
+struktural |  | structural
+trial | adj | trial
+kolor | noun | colour (adj.)
+pragmatist | noun | pragmatist
+rrethanor | noun | circumstantial
+shqipërim | noun | translation into Albanian
+urdhërues | noun | commanding, imperative
+ajrim | noun | ventilation, airing
+individualist | noun | individualist
+këmbëkryq |  | cross-legged
+shtatlartë | noun | tall
+zëvendësdrejtor | noun | deputy director
+acarim | noun | aggravation, worsening
+antibakterial |  | antibacterial
+individualizoj | verb | to individualize
+pandjeshëm | adj | insensitive, unfeeling
+përçmues | noun | contemptuous, scornful
+sensacion | noun | sensation
+ambulant | noun | itinerant; outpatient
+formalizëm | noun | formalism
+gabueshëm | adj | fallible
+gjakftohtësi | noun | composure, cold-bloodedness
+prokurim | noun | procurement
+epileptik |  | epileptic
+hareshëm | adj | cheerful, merry
+aeroplanmbajtës | noun | aircraft carrier
+induktiv | noun | inductive
+nënprodukt |  | by-product
+radial |  | radial
+rilidh | noun | to reconnect, to retie
+tangjent | noun | tangent
+imponim | noun | imposition
+impulsiv |  | impulsive
+joaktiv |  | inactive
+modal |  | modal
+paqëndrueshmëri |  | instability
+përçmim | noun | contempt
+provues | noun | testing, proving
+tonik |  | tonic
+zmadhim | noun | enlargement, magnification
+alpinist | noun | mountaineer
+divergjent | noun | divergent
+joreal | noun | unreal
+ornament | noun | ornament
+refleksiv | noun | reflexive
+solemnisht | adv | solemnly
+banesor | noun | housing (adj.), residential
+numërim | noun | counting, count
+aeronautikë | noun | aeronautics
+pasaktësi |  | inaccuracy
+perceptues | noun | perceptive
+unazor | noun | ring-shaped, annular
+violent | noun | violent
+gjurmues | noun | tracker, researcher
+inkubacion | noun | incubation
+joefikas |  | inefficient, ineffective
+katërfish | noun | fourfold, quadruple
+sinusoidal |  | sinusoidal
+bashkërendim | noun | coordination
+luftues | noun | fighter
+motorizoj | verb | to motorize
+ripohoj | verb | to reaffirm
+sigurues | noun | insurer; securing
+vjeshtor | noun | autumn (adj.), autumnal
+pabesisht | adv | treacherously
+polemizoj | verb | to argue, to debate fiercely
+transcendental |  | transcendental
+abuzues | noun | abuser
+rifreskoj | verb | to refresh
+formalitet | noun | formality
+instinktiv | adj | instinctive
+nënprefekt | noun | sub-prefect
+ngushëllues |  | consoling, comforting
+postbllok | noun | checkpoint, roadblock
+sqarues | noun | explanatory, clarifying
+vendburim | noun | source, place of origin
+prapambetje | noun | backwardness
+proverbial | noun | proverbial
+semiotik |  | semiotic
+epistemologjik |  | epistemological
+fuqizim | noun | empowerment, strengthening
+nitrik |  | nitric
+refuzues | noun | refusing
+riafirmoj | verb | to reaffirm
+ribashkim |  | reunification, reunion
+alarmues | noun | alarming
+argjilor | adj | clayey, clay (adj.)
+despotik |  | despotic
+detergjent | noun | detergent
+gjeneralmajor | noun | major general
+qumështor | noun | dairy (adj.), milk (adj.)
+redaktim | noun | editing
+verbues | noun | blinding
+fazor | noun | phase (adj.)
+federalizëm | noun | federalism
+mbivlerësoj | verb | to overestimate
+pakufi | adj | boundless, limitless
+përgjithësues | noun | generalizing
+strukturalizëm | noun | structuralism
+tmerrues | noun | terrifying
+depërtim |  | penetration, breakthrough
+dhunues | noun | abuser, violator
+kontribuues | noun | contributor
+kushtëzim | noun | conditioning
+përkujtues | noun | commemorative
+receptor | noun | receptor
+rezultues | noun | resulting
+rotor | noun | rotor
+solucion |  | solution
+vaginal | adj | vaginal
+deklarativ |  | declarative
+kalues | noun | passer-by; passing
+neologjizëm | noun | neologism
+ogurzezë | noun | ill-omened, unlucky
+paranormal |  | paranormal
+stoicizëm | noun | stoicism
+sulfurik |  | sulphuric
+taoizëm | noun | Taoism
+autoportret | noun | self-portrait
+bashkëqeverisje | noun | co-governance, coalition rule
+gjashtëqind | num | six hundred
+gjashtëvjeçar |  | six-year (adj.); six-year-old
+imperativ |  | imperative
+jopopullor | noun | unpopular
+riformuloj | verb | to reformulate
+deduktiv |  | deductive
+gjysmëpërçues | noun | semiconductor
+justifikueshëm | adj | justifiable
+ndërrues | noun | switching; changer
+objektivitet |  | objectivity
+perceptueshëm | adj | perceptible
+sarkastik | adj | sarcastic
+vegjetal | noun | vegetable (adj.), plant (adj.)
+dualist | noun | dualist
+fakultativ | noun | optional, elective
+hijerëndë | noun | solemn, stern-looking
