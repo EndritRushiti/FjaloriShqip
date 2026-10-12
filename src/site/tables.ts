@@ -86,10 +86,31 @@ function nounTable(forms: Form[]): string {
     .join("")}</tbody></table></div>`;
 }
 
+/** Albanian names of the grammatical tags on forms; tags not listed here are not shown. */
+const FORM_TAG_SQ: Record<string, string> = {
+  singular: "njëjës", plural: "shumës", definite: "e shquar", indefinite: "e pashquar",
+  nominative: "emërore", accusative: "kallëzore", dative: "dhanore", ablative: "rrjedhore", genitive: "gjinore", vocative: "thirrore",
+  masculine: "mashkullore", feminine: "femërore", neuter: "asnjanëse",
+  "first-person": "veta I", "second-person": "veta II", "third-person": "veta III",
+  present: "e tashme", imperfect: "e pakryer", aorist: "e kryer e thjeshtë", perfect: "e kryer", pluperfect: "më se e kryer",
+  past: "e shkuar", future: "e ardhme", indicative: "dëftore", subjunctive: "lidhore", conditional: "kushtore",
+  admirative: "habitore", optative: "dëshirore", imperative: "urdhërore", participle: "pjesore", infinitive: "paskajore",
+  gerund: "përcjellore", progressive: "vazhdore", negative: "mohore",
+  alternative: "trajtë tjetër", dialectal: "dialektore", colloquial: "bisedore", informal: "jozyrtare", archaic: "arkaike",
+  obsolete: "e vjetëruar", regional: "krahinore", nonstandard: "jo standarde", Gheg: "gegërisht", Tosk: "toskërisht",
+  Northern: "veriore", Southern: "jugore", Kosovo: "Kosovë", abbreviation: "shkurtim",
+};
+
 function simpleList(forms: Form[]): string {
   const uniq = new Map<string, string[]>();
   for (const f of forms) uniq.set(f.form, [...(uniq.get(f.form) ?? []), ...f.tags]);
-  return `<ul class="formlist">${[...uniq.entries()].slice(0, 40).map(([f, tags]) => `<li><b>${escapeHtml(f)}</b> <small>${escapeHtml([...new Set(tags)].join(", "))}</small></li>`).join("")}</ul>`;
+  return `<ul class="formlist">${[...uniq.entries()]
+    .slice(0, 40)
+    .map(([f, tags]) => {
+      const shown = [...new Set(tags)].filter((x) => FORM_TAG_SQ[x]);
+      return `<li><b>${escapeHtml(f)}</b>${shown.length ? ` <small>${bi(shown.map((x) => FORM_TAG_SQ[x]).join(", "), shown.join(", "))}</small>` : ""}</li>`;
+    })
+    .join("")}</ul>`;
 }
 
 /** The main table plus a collapsible list of every form. */

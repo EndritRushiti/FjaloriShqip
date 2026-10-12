@@ -14,7 +14,7 @@ import { icon } from "../src/site/icons.js";
 import { HEAD_SCRIPT } from "../src/site/security.js";
 import { formsHtml } from "../src/site/tables.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
-import { LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
+import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
 const ROOT = process.cwd();
 const DIST = path.join(ROOT, "dist");
@@ -281,7 +281,8 @@ function pageHead(title: string, lead?: string, kicker?: string): string {
 
 // ── word pages ───────────────────────────────────────────────────────────────
 function senseHtml(s: Sense): string {
-  const tags = s.tags?.length ? `<span class="tags">${s.tags.map((x) => `<span class="tag">${TAG_SQ[x] ? bi(TAG_SQ[x], x) : h(x)}</span>`).join("")}</span>` : "";
+  const shownTags = (s.tags ?? []).filter((x) => !HIDDEN_TAGS.has(x) && !/^(feminine|masculine|neuter)$/.test(x)); // gender is shown once above the meanings
+  const tags = shownTags.length ? `<span class="tags">${shownTags.map((x) => `<span class="tag">${TAG_SQ[x] ? bi(TAG_SQ[x], x) : h(x)}</span>`).join("")}</span>` : "";
   const label = s.lang === "en" ? `<span class="lang-badge" title="English">EN</span>` : `<span class="lang-badge sq" title="Shqip">SQ</span>`;
   const ex = s.examples?.length
     ? `<ul class="examples">${s.examples.map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en">${h(e.english)}</span>` : ""}</li>`).join("")}</ul>`
@@ -306,7 +307,7 @@ function entryHtml(e: Entry): string {
     ${e.gender ? `<span class="gender">${genderLabel(e.gender)}</span>` : ""}
     ${e.ipa?.length ? `<span class="ipa" title="${h("IPA")}">${e.ipa.map(h).join(" · ")}</span>` : ""}
   </header>
-  <h2 class="sub">${t("meanings")}</h2>
+  <h2 class="sub">${e.senses.length && e.senses.every((s) => s.lang === "en") ? bi("Përkthimi në anglisht", "Meanings") : t("meanings")}</h2>
   ${senses}
   ${forms ? `<h2 class="sub">${e.pos === "verb" ? bi("Zgjedhimi", "Conjugation") : e.pos === "noun" ? bi("Lakimi", "Declension") : t("inflection")}</h2>${forms}` : ""}
 </section>`;
@@ -330,6 +331,14 @@ function usageHtml(n?: number): string {
   return `<span class="usage" title="${h(`Wikipedia: ${num(n ?? 0)}`)}"><span class="usage-bars" aria-hidden="true">${[1, 2, 3, 4].map((i) => `<i${i <= u.level ? ' class="on"' : ""}></i>`).join("")}</span>${bi(u.sq, u.en)}</span>`;
 }
 
+
+/** English line under the word: the first meaning; in English mode up to three different meanings. */
+function enSummary(w: Word, first: string): string {
+  const clean = (g: string) => g.replace(/[“”]/g, "");
+  const more = [...new Set(w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").map((s) => clean(s.gloss)))].slice(0, 3);
+  const all = more.length > 1 ? more.join("; ") : clean(first);
+  return all === clean(first) ? h(all) : `<span data-ui="sq">${h(clean(first))}</span><span data-ui="en">${h(all)}</span>`;
+}
 
 function wordPage(w: Word): string {
   const variant = (w.variantOf ?? [])
@@ -399,8 +408,10 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       </div>
       <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.dialectOnly ?? []).map((d) => `<span class="word-label dialect-label"><span class="dialect-dot ${d}"></span>${bi(`Fjalë ${({ arberesh: "arbëreshe", arvanitika: "arvanitase", gheg: "gege", tosk: "toske" } as Record<string, string>)[d]}`, `${({ arberesh: "Arbëresh", arvanitika: "Arvanitika", gheg: "Gheg", tosk: "Tosk" } as Record<string, string>)[d]} word`)}</span>`).join("")}${(w.labels ?? []).filter((l) => !(w.dialectOnly && /^(Arbëresh|Arvanitika)$/.test(l))).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
       ${albanianInstead(w)}
+      <div class="word-meanings">
       ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
-      ${firstGloss ? `<p class="word-summary"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${h(firstGloss.replace(/[“”]/g, ""))}</p>` : ""}
+      ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : ""}
+      </div>
       ${variant}
     </header>
     ${unverified}
@@ -591,10 +602,16 @@ function sameMeaningCard(w: Word): string {
   const shown = new Set<string>(fam ? [fam.main.word, ...fam.others, ...fam.dialects.keys(), ...fam.other] : albanian);
   const root = sameRoot(w, shown);
   if (!fam && !albanian.length && !root.length) return "";
+  // the hint under each chip: the Albanian description in Albanian mode, the English meaning in English mode
+  const cut = (s: string) => (s.length > 28 ? `${s.slice(0, 26)}…` : s);
   const meaning = (x: string) => {
     const word = byWord.get(x);
-    const g = word ? shortGloss(word) : "";
-    return g && !g.startsWith("→") ? `<small>${h(g.length > 28 ? `${g.slice(0, 26)}…` : g)}</small>` : "";
+    if (!word) return "";
+    const g = shortGloss(word);
+    const en = g && !g.startsWith("→") ? cut(g) : "";
+    const sq = word.description ? cut(word.description.text.replace(/^(Formë \S+|Trajtë [^«]*) e fjalës «[^»]+»: /, "").replace(/\.$/, "")) : "";
+    if (!sq && !en) return "";
+    return `<small>${bi(sq || en, en || sq)}</small>`;
   };
   const chip = (x: string, cls = "", gloss = true) => {
     const here = x === w.word ? " here" : "";
@@ -759,10 +776,17 @@ function homePage(): string {
   </div>
 </section>
 
-<section class="section prose" lang="en">
+<section class="section prose">
+ <div data-ui="sq" lang="sq">
+  <h2>Fjalor i hapur shqip–anglisht</h2>
+  <p>FjaloriShqip është një <b>fjalor shqip</b> falas dhe me kod të hapur, me ${num(stats.words ?? words.length)} fjalë shqip: të gjitha me një përshkrim të shkurtër në shqip dhe ${num(stats.withEnglish)} me kuptimin në anglisht, si edhe format gege e toske, fjalët me të njëjtin kuptim dhe, për ${num(stats.withInflection)} fjalë, zgjedhimin ose lakimin e plotë. Mund të kërkoni shqip ose anglisht (p.sh. “mother” gjen <a href="${wordUrl("nënë")}">nënë</a>), dhe ë e ç nuk janë të detyrueshme.</p>
+  <p>Të gjitha të dhënat vijnë nga burime me licencë të hapur dhe mund të ripërdoren lirisht sipas CC BY-SA 4.0, edhe nëpërmjet një <a href="${url("/api/")}">API-je JSON</a> falas për zhvilluesit. Nuk nevojitet llogari as çelës.</p>
+ </div>
+ <div data-ui="en" lang="en">
   <h2>Free Albanian–English dictionary</h2>
   <p>FjaloriShqip is a free, open-source <b>Albanian dictionary</b> with ${numEn(stats.words ?? words.length)} Albanian words: ${numEn(words.filter((w) => w.description).length)} with a short description in Albanian and ${numEn(stats.withEnglish)} with their English meaning, plus Gheg and Tosk dialect forms, words with the same meaning and, for ${numEn(stats.withInflection)} words, the full conjugation or declension. You can search in Albanian or in English (for example “mother” finds <a href="${wordUrl("nënë")}">nënë</a>), and typing ë and ç is optional.</p>
   <p>All data comes from openly licensed sources and is free to reuse under CC BY-SA 4.0, also through a free <a href="${url("/api/")}">JSON API</a> for developers. No account or API key is needed.</p>
+ </div>
 </section>`;
   return layout({
     title: "FjaloriShqip — Fjalori i hapur shqip | Free Albanian–English Dictionary",

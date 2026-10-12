@@ -85,6 +85,11 @@
 [data-ui="en"] { display: none; }
 html.en [data-ui="en"] { display: inline; }
 html.en [data-ui="sq"] { display: none; }
+html.en div[data-ui="en"] { display: block; }
+/* word pages lead with the language the visitor chose: English meanings first in English mode */
+.word-meanings { display: flex; flex-direction: column; }
+html.en .word-meanings .word-summary { order: -1; margin-top: 14px; font-size: 1.22rem; color: var(--text); }
+html.en .word-meanings .word-desc { margin-top: 6px; font-size: 1.02rem; color: var(--muted); }
 
 /* ── base ── */
 *, *::before, *::after { box-sizing: border-box; }
