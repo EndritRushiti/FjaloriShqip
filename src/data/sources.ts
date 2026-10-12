@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895";
 
 export interface SourceInfo {
   id: SourceId;
@@ -186,6 +186,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Etimologjitë dhe krahasimet me gjuhët e tjera nuk merren.",
       en: "The etymologies and comparisons with other languages are not used.",
+    },
+  },
+  "jungg-1895": {
+    id: "jungg-1895",
+    name: "Jak Jungg, Fialuur i voghel scc'ip e ltinisct (Shkodër 1895)",
+    publisher: "P. Jak Jungg (1840–1927), Shkodër. Skanuar nga Google Books, në Internet Archive",
+    url: "https://archive.org/details/fialuurivoghels00junkgoog",
+    downloadUrl: "https://archive.org/details/fialuurivoghels00junggoog",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Format gege të Shkodrës që ndryshojnë nga gjuha standarde, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga drejtshkrimi i vjetër i Jungg-ut në atë të sotëm (sc → sh, ł → ll, gn → nj, c(i) → ç…) dhe kuptimet i përkthejmë nga italishtja në anglisht. Vepra është në domen publik (autori vdiq më 1927).",
+      en: "Gheg forms of Shkodër that differ from the standard language, each linked to its standard word. We convert the words from Jungg's old spelling into today's (sc → sh, ł → ll, gn → nj, c(i) → ç…) and translate the meanings from Italian into English. The work is in the public domain (the author died in 1927).",
+    },
+    notUsed: {
+      sq: "Fjalët e njëjta me gjuhën standarde dhe kuptimet italisht nuk merren.",
+      en: "Words identical to the standard language and the Italian meanings are not used.",
     },
   },
 };

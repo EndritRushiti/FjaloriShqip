@@ -16,6 +16,7 @@ const glosses = (w: Word) => w.entries.flatMap((e) => e.senses);
 
 const checks: [string, (w: Word) => boolean][] = [
   ["no meaning at all", (w) => !w.description && !glosses(w).length],
+  ["no Albanian description (English only)", (w) => !w.description && glosses(w).length > 0 && !glosses(w).every((s) => s.source === "auto")],
   ["only a machine-guessed English meaning", (w) => !w.description && glosses(w).length > 0 && glosses(w).every((s) => s.source === "auto")],
   ["description only repeats the word", (w) => !!w.description && norm(w.description.text) === norm(w.word)],
   ["headword is a misspelling", (w) => glosses(w).some((s) => /misspelling of|nonstandard spelling/i.test(s.gloss))],

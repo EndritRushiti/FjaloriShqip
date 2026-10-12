@@ -13376,3 +13376,5 @@ antizogisti | antizogist
 talari | talar
 eliminatori | eliminator
 programori | programor
+# ── w18.tsv ──
+barbun | barbunjë

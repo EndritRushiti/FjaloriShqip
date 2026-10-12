@@ -367,3 +367,11 @@ currulaq   # pa kuptim të qartë
 shrati   # pa kuptim të qartë
 # ── w6.tsv ──
 glas   # fjalë e huaj
+# ── w18.tsv ──
+bularës   # formë e paqartë
+jose   # emër vetjak
+kaçik   # formë e paqartë
+koraq   # formë e paqartë
+skotë   # formë e paqartë
+vais   # formë e paqartë
+volle   # formë e paqartë

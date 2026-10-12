@@ -225,32 +225,37 @@ function readSqWiktionary(): void {
  * word is listed on that word's page and gets a headword pointing to it; a form without a standard
  * counterpart becomes an Arbëresh / Arvanitika word of its own.
  */
+const DIALECT_TAG: Record<Dialect, string> = { gheg: "Gheg", tosk: "Tosk", arberesh: "Arbëresh", arvanitika: "Arvanitika" };
 function addMeyerDialects(): { linked: number; own: number; known: number } {
-  const f = path.join(process.cwd(), "dialekte", "meyer-1891.tsv");
   const out = { linked: 0, own: 0, known: 0 };
-  if (!fs.existsSync(f)) return out;
-  for (const raw of fs.readFileSync(f, "utf8").split("\n")) {
+  // one file per public-domain book (meyer-1891.tsv, jungg-1895.tsv…); the file name is the source id
+  const dir = path.join(process.cwd(), "dialekte");
+  const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((x) => x.endsWith(".tsv")).sort() : [];
+  for (const file of files) {
+  const source = file.replace(/\.tsv$/, "") as SourceId;
+  for (const raw of fs.readFileSync(path.join(dir, file), "utf8").split("\n")) {
     const line = raw.replace(/\r$/, "");
     if (!line.trim() || line.startsWith("#")) continue;
     const [form, dialect, posRaw, gender, standard, meaning] = line.split("\t").map((x) => x.trim());
-    if (!form || !VALID_WORD.test(form) || (dialect !== "arberesh" && dialect !== "arvanitika") || !meaning) continue;
-    const d: Dialect = dialect;
+    if (!form || !VALID_WORD.test(form) || !(dialect in DIALECT_TAG) || !meaning) continue;
+    const d = dialect as Dialect;
     const pos = (POS_EN as Record<string, string>)[posRaw] ? (posRaw as Pos) : "other";
-    const sense: Sense = { gloss: meaning, lang: "en", tags: [d === "arberesh" ? "Arbëresh" : "Arvanitika"], source: "meyer-1891" };
+    const sense: Sense = { gloss: meaning, lang: "en", tags: [DIALECT_TAG[d]], source };
     const std = standard && standard !== form ? words.get(standard) : undefined;
     const w = getWord(form);
     const isNew = !w.entries.length && !w.variantOf?.length;
-    const e = entryFor(w, pos, "meyer-1891");
+    const e = entryFor(w, pos, source);
     if (gender === "m" || gender === "f" || gender === "n") e.gender ??= gender;
     addSense(e, sense);
     if (std?.entries.length) {
-      addDialect(std, { form, dialect: d, source: "meyer-1891" });
-      if (isNew) w.variantOf = [{ word: std.word, kind: d, source: "meyer-1891" }];
+      addDialect(std, { form, dialect: d, source });
+      if (isNew) w.variantOf = [{ word: std.word, kind: d, source }];
       out.linked++;
     } else if (isNew) {
       w.dialectOnly = [d];
       out.own++;
     } else out.known++;
+  }
   }
   return out;
 }
@@ -759,8 +764,6 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   // Drop words without any entry and without a variant link.
   for (const [k, w] of words) if (!w.entries.length && !w.variantOf?.length) words.delete(k);
 
-  const meyer = addMeyerDialects();
-  console.log(`meyer 1891: ${meyer.linked} Arbëresh/Arvanitika forms of standard words, ${meyer.own} dialect words of their own, ${meyer.known} meanings added to known words (dialekte/meyer-1891.tsv)`);
 
   // More headwords from other open sources, each checked against everything already in the
   // dictionary (headwords, forms, dialect forms, spellings without ë/ç, inflected forms).
@@ -768,6 +771,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const dic = fs.existsSync(dicFile) ? readDic(fs.readFileSync(dicFile, "utf8")) : new Set<string>();
   const deduper = new Deduper(words.values(), dic);
   console.log(`editors' additions: ${addEditorWords(deduper)} words (korrigjime/shto.txt)`);
+  const meyer = addMeyerDialects();
+  console.log(`dialect books: ${meyer.linked} Arbëresh/Arvanitika forms of standard words, ${meyer.own} dialect words of their own, ${meyer.known} meanings added to known words (dialekte/meyer-1891.tsv)`);
   console.log("reading other Wiktionary editions…");
   console.log(`wiktionary editions: ${addWiktionaryEditions(deduper, dic)} new words`);
   console.log("reading Albanet…");
@@ -861,6 +866,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       macocu: list.filter((w) => w.sources.includes("macocu") || (w.frequency && !w.unverified)).length,
       auto: list.filter((w) => w.sources.includes("auto")).length,
       "meyer-1891": list.filter((w) => w.sources.includes("meyer-1891")).length,
+      "jungg-1895": list.filter((w) => w.sources.includes("jungg-1895")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,

@@ -8234,3 +8234,14 @@ narkomani | noun | drug addiction
 piromani | noun | pyromania
 # ── w16.tsv ──
 çilimi | noun | little child
+# ── w17.tsv ──
+dëshmi | noun | testimony, evidence
+dëshmitar | noun | witness
+dëshpërim | noun | despair
+dehur | adj | drunk
+vdekur | adj | dead
+violinist | noun | violinist
+# ── w18.tsv ──
+kofin | noun | large wicker basket
+tugë | noun | sorrow, grief
+varelë | noun | barrel
