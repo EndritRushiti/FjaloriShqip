@@ -561,3 +561,7 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .dialect-list .dl-own { font-size: 0.8rem; color: var(--muted); border: 1px solid var(--border); border-radius: 999px; padding: 1px 8px; }
 .dialect-list small { flex-basis: 100%; color: var(--muted); font-size: 0.85rem; }
 .try .chip .dialect-dot { margin-right: 6px; }
+/* word family: the main word stands out; the page's own word is marked, not linked */
+.syn-chip.main { border-color: var(--accent); background: var(--accent-soft); }
+.syn-chip.here { border-style: dashed; }
+.syn-row h3 .dialect-dot { margin-right: 6px; }

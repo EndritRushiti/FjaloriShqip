@@ -671,6 +671,20 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     if (only.length) w.dialectOnly = only;
   }
 
+  // Words whose every meaning is "(northern) Gheg form of X" but that the variant pattern above missed
+  // (nanë → nënë, kangë → këngë): link them to X, so they are not left alone.
+  const FORM_OF = /^(?:(?:northern|southern|northeastern|northwestern|central|eastern|western|standard)\s+)*(gheg|tosk|alternative)?[a-z ]*? ?(?:form|spelling|variant) of (?:(?:i|e|të|së) )?([^\s(,;:]+)/i;
+  for (const w of words.values()) {
+    if (w.variantOf?.length) continue;
+    const g = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en");
+    const m = g.map((s) => s.gloss.match(FORM_OF));
+    if (!g.length || m.some((x) => !x)) continue;
+    const target = m[0]![2].toLowerCase();
+    if (!words.has(target) || target === w.word) continue;
+    const k = m[0]![1]?.toLowerCase();
+    w.variantOf = [{ word: target, kind: k === "gheg" ? "gheg" : k === "tosk" ? "tosk" : "alternative", source: "en-wiktionary" }];
+  }
+
   // Dialect headwords that point to a standard word: show them on the standard word's page too.
   for (const w of words.values()) {
     for (const v of w.variantOf ?? []) {

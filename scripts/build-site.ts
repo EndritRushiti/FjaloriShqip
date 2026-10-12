@@ -13,6 +13,7 @@ import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
 import { HEAD_SCRIPT } from "../src/site/security.js";
 import { formsHtml } from "../src/site/tables.js";
+import { deriveMeaning } from "./lib/derive-meaning.js";
 import { LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
 const ROOT = process.cwd();
@@ -33,6 +34,16 @@ const position = new Map(words.map((w, i) => [w.word, i])); // words are in Alba
 const letterCounts = new Map(ALPHABET.map((l) => [l, 0]));
 for (const w of words) letterCounts.set(firstLetter(w.word), (letterCounts.get(firstLetter(w.word)) ?? 0) + 1);
 
+/** Informal or children's English words and the meaning they stand for, so mami ("mom") joins nënë ("mother"). */
+const SAME_AS: Record<string, string> = {
+  mom: "mother", mum: "mother", mommy: "mother", mama: "mother", mamma: "mother", momma: "mother", ma: "mother",
+  dad: "father", daddy: "father", papa: "father", pa: "father",
+  granny: "grandmother", grandma: "grandmother", gran: "grandmother", nana: "grandmother",
+  grandpa: "grandfather", granddad: "grandfather", grandad: "grandfather",
+  kid: "child", bro: "brother", sis: "sister", buddy: "friend", pal: "friend",
+  tummy: "belly", doggy: "dog", doggie: "dog", kitty: "cat", bunny: "rabbit",
+  hubby: "husband", auntie: "aunt", aunty: "aunt", hi: "hello", hey: "hello", bye: "goodbye",
+};
 // ── words with the same meaning ──────────────────────────────────────────────
 // From synonyms listed by Wiktionary (both directions) and from words whose English meaning is
 // the same (nënë, mëmë, ëmë: "mother"). A meaning shared by very many words is too general to use.
@@ -506,34 +517,134 @@ function albanianInstead(w: Word): string {
   return `<p class="albanian-instead">${icon.sparkle(16)} ${bi("Në shqip mund të thuhet edhe:", "In Albanian you can also say:")} ${alt.map((x) => `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>`).join(", ")}</p>`;
 }
 
-function sameMeaningCard(w: Word): string {
-  // a Gheg/Tosk form page shows the words of its standard word
-  const std = !w.entries.length && w.variantOf?.length ? byWord.get(w.variantOf[0].word) : undefined;
+// ── word family: the main standard word, other words with the same meaning, dialect forms ──
+const DIALECT_LABEL: Record<string, Dialect> = { Gheg: "gheg", Tosk: "tosk", "Arbëresh": "arberesh", Arvanitika: "arvanitika" };
+/** The dialects a word belongs to; empty for a standard word. */
+function dialectsOf(x: Word): Dialect[] {
+  const out = new Set<Dialect>(x.dialectOnly ?? []);
+  for (const v of x.variantOf ?? []) if (v.kind !== "alternative") out.add(v.kind);
+  for (const l of x.labels ?? []) if (DIALECT_LABEL[l]) out.add(DIALECT_LABEL[l]);
+  const senses = x.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en");
+  for (const d of Object.keys(DIALECT_LABEL)) if (senses.length && senses.every((s) => s.tags?.includes(d))) out.add(DIALECT_LABEL[d]);
+  return DIALECT_ORDER.filter((d) => out.has(d));
+}
+/** Words the editors chose as the main word of their family (korrigjime/kryesore.txt). */
+const MAIN_WORDS = new Set(
+  (fs.existsSync(path.join(ROOT, "korrigjime", "kryesore.txt")) ? fs.readFileSync(path.join(ROOT, "korrigjime", "kryesore.txt"), "utf8") : "")
+    .split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim()).filter(Boolean),
+);
+const isStandard = (x: Word) => !dialectsOf(x).length && !x.unverified;
+/** Same main meaning or listed as a synonym (not words for a word's other meanings). */
+const closeWords = (x: Word) => sameMeaning(x).filter((m) => m.how === "listed" || m.how === "same").map((m) => m.word);
+
+interface Family { main: Word; others: string[]; dialects: Map<string, Dialect[]>; other: string[] }
+/**
+ * The family of a word: its main standard word (the most used), the other standard words with the same
+ * meaning, and the dialect forms of all of them, so nënë, ëmë, mëmë, mami, nanë and nonë show the same family.
+ */
+function family(w: Word): Family | null {
+  const std = w.variantOf?.length && w.variantOf[0].kind !== "alternative" ? byWord.get(w.variantOf[0].word) : undefined;
   const base = std ?? w;
-  const list = sameMeaning(base).filter((x) => x.word !== w.word);
-  // one chip per form, naming every dialect it belongs to (a form can be both Arbëresh and Arvanitika)
-  const byForm = new Map<string, Dialect[]>();
-  for (const d of base.dialects ?? []) if (d.form !== w.word) byForm.set(d.form, [...new Set([...(byForm.get(d.form) ?? []), d.dialect])]);
-  const dialects = [...byForm].map(([form, ds]) => ({ form, dialects: DIALECT_ORDER.filter((x) => ds.includes(x)) }));
-  if (!list.length && !dialects.length && !std) return "";
+  const near = [base.word, ...closeWords(base)].map((x) => byWord.get(x)!).filter(Boolean);
+  // the main word: the most used standard word, its use shared out over its meanings
+  // (shqipe is used mostly for the language, so shqiponjë is the main word for "eagle")
+  const senseCount = (x: Word) => Math.max(1, x.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").length);
+  const score = (x: Word) => (x.frequency ?? 0) / senseCount(x);
+  const standard = near.filter(isStandard).sort((a, b) => Number(MAIN_WORDS.has(b.word)) - Number(MAIN_WORDS.has(a.word)) || score(b) - score(a) || Number(!!a.loan) - Number(!!b.loan));
+  const main = standard.find((x) => !x.loan) ?? standard[0] ?? base;
+  const members = new Set<string>([main.word, ...closeWords(main), ...near.map((x) => x.word)]);
+  const others: string[] = [];
+  const dialects = new Map<string, Dialect[]>();
+  const addDialect = (form: string, ds: Dialect[]) => dialects.set(form, [...new Set([...(dialects.get(form) ?? []), ...ds])]);
+  for (const m of members) {
+    const x = byWord.get(m);
+    if (!x) continue;
+    const ds = dialectsOf(x);
+    if (ds.length) addDialect(m, ds);
+    else if (m !== main.word) others.push(m);
+    for (const d of x.dialects ?? []) addDialect(d.form, [d.dialect]);
+  }
+  others.sort((a, b) => (byWord.get(b)?.frequency ?? 0) - (byWord.get(a)?.frequency ?? 0));
+  for (const o of [main.word, ...others]) dialects.delete(o);
+  const other = sameMeaning(base).filter((m) => m.how === "other" && !members.has(m.word)).map((m) => m.word);
+  if (!others.length && !dialects.size && main === w && !other.length) return null;
+  return { main, others: others.slice(0, 14), dialects, other };
+}
+
+// ── words of the same root: adresë, adresoj, adresohem, adresim ──────────────
+const firstMeaning = (x: string) => {
+  const w = byWord.get(x);
+  return w && !w.unverified ? w.entries.flatMap((e) => e.senses).find((s) => s.lang === "en" && s.source !== "auto")?.gloss : undefined;
+};
+/** The word a word is formed from: adresohem ← adresoj, adresim ← adresoj, akademik ← akademi. */
+function formedFrom(w: string): string | undefined {
+  // middle voice and participles of verbs: adresohem, adresuar ← adresoj; shkruhem ← shkruaj; fshihem ← fshij
+  for (const [end, verb] of [["ohem", "oj"], ["ohet", "oj"], ["uar", "oj"], ["ehem", "ej"], ["yhem", "yej"], ["uhem", "uaj"], ["ihem", "ij"], ["hem", "j"]] as const)
+    if (w.endsWith(end) && w.length - end.length >= 3 && byWord.has(w.slice(0, -end.length) + verb)) return w.slice(0, -end.length) + verb;
+  // verbs and nouns formed from a noun or adjective: adresoj ← adresë, akademik ← akademi, punëtor ← punë
+  // adverbs and act nouns: aktualisht ← aktual, punim ← punoj, larje ← laj, mësues ← mësoj
+  for (const [end, bases] of [["isht", ["", "ë", "ëm"]], ["ësisht", ["ëm", "ë", ""]], ["im", ["oj", "ej", "ij", "yej"]], ["je", ["", "j"]], ["tje", ["j"]], ["ues", ["oj", "uaj"]], ["yes", ["ej", "yej"]], ["ueshëm", ["oj", "uaj"]]] as const) {
+    if (!w.endsWith(end) || w.length - end.length < 3) continue;
+    const stem = w.slice(0, -end.length);
+    for (const b of bases) if (stem + b !== w && byWord.get(stem + b) && !byWord.get(stem + b)!.unverified) return stem + b;
+  }
+  // nouns from adjectives: bukuri ← bukur, mirësi ← mirë
+  if (w.endsWith("i") && w.length >= 6) {
+    const adj = byWord.get(w.slice(0, -1));
+    if (adj && !adj.unverified && adj.entries.some((e) => e.pos === "adj")) return adj.word;
+  }
+  for (const [end, bases] of [["oj", ["", "ë", "e", "i"]], ["ëzoj", ["ë", ""]], ["ik", ["", "ë", "i"]], ["ist", ["", "ë", "i"]], ["izëm", ["", "ë", "i"]], ["tor", ["", "ë"]], ["tar", ["", "ë"]], ["ësi", ["ë", ""]], ["shëm", ["", "ë"]]] as const) {
+    if (!w.endsWith(end) || w.length - end.length < 3) continue;
+    const stem = w.slice(0, -end.length);
+    for (const b of bases) if (stem + b !== w && byWord.has(stem + b) && !byWord.get(stem + b)!.unverified) return stem + b;
+  }
+  const d = deriveMeaning(w, firstMeaning, new Set());
+  if (!d || d.rule === "compound" || d.rule === "international" || !byWord.has(d.base) || d.base === w) return undefined;
+  return d.base;
+}
+const parentOf = new Map<string, string>();
+for (const w of words) if (!w.unverified) { const p = formedFrom(w.word); if (p) parentOf.set(w.word, p); }
+const rootWord = (w: string) => { let r = w; for (let i = 0; i < 4 && parentOf.has(r); i++) r = parentOf.get(r)!; return r; };
+const byRoot = new Map<string, string[]>();
+for (const w of words) if (!w.unverified) push(byRoot, rootWord(w.word), w.word);
+/** Words formed from the same root, the most used first (at most 12). */
+function sameRoot(w: Word, skip: Set<string>): string[] {
+  return (byRoot.get(rootWord(w.word)) ?? []).filter((x) => x !== w.word && !skip.has(x)).sort((a, b) => (byWord.get(b)?.frequency ?? 0) - (byWord.get(a)?.frequency ?? 0)).slice(0, 12);
+}
+
+function sameMeaningCard(w: Word): string {
+  const fam = family(w);
+  const albanian = albanianAlternatives(w);
+  const shown = new Set<string>(fam ? [fam.main.word, ...fam.others, ...fam.dialects.keys(), ...fam.other] : albanian);
+  const root = sameRoot(w, shown);
+  if (!fam && !albanian.length && !root.length) return "";
   const meaning = (x: string) => {
-    const g = shortGloss(byWord.get(x)!);
+    const word = byWord.get(x);
+    const g = word ? shortGloss(word) : "";
     return g && !g.startsWith("→") ? `<small>${h(g.length > 28 ? `${g.slice(0, 26)}…` : g)}</small>` : "";
   };
-  const chip = (x: string, extra = "", cls = "") =>
-    `<a class="syn-chip${cls}" href="${wordUrl(x)}" lang="sq"><span class="w">${h(x)}</span>${extra || meaning(x)}</a>`;
-  const plain = (x: string, extra: string) => (byWord.has(x) ? chip(x, extra) : `<span class="syn-chip"><span class="w" lang="sq">${h(x)}</span>${extra}</span>`);
-  const albanian = albanianAlternatives(base);
-  const main = list.filter((x) => (x.how === "listed" || x.how === "same") && !albanian.includes(x.word));
-  const other = list.filter((x) => x.how === "other");
-  const row = (title: string, chips: string) => `<div class="syn-row"><h3>${title}</h3><div class="syn-chips">${chips}</div></div>`;
+  const chip = (x: string, cls = "", gloss = true) => {
+    const here = x === w.word ? " here" : "";
+    return byWord.has(x) && !here
+      ? `<a class="syn-chip${cls}" href="${wordUrl(x)}" lang="sq"><span class="w">${h(x)}</span>${gloss ? meaning(x) : ""}</a>`
+      : `<span class="syn-chip${cls}${here}"${here ? ` aria-current="page"` : ""}><span class="w" lang="sq">${h(x)}</span>${here ? `<small>${bi("kjo fjalë", "this word")}</small>` : gloss ? meaning(x) : ""}</span>`;
+  };
+  const row = (title: string, chips: string, cls = "") => `<div class="syn-row${cls}"><h3>${title}</h3><div class="syn-chips">${chips}</div></div>`;
+  const rows: string[] = [];
+  if (albanian.length && !fam) rows.push(row(`${bi("Fjala shqipe", "The Albanian word")} <small>${bi("në vend të fjalës së huazuar", "instead of the borrowed word")}</small>`, albanian.map((x) => chip(x)).join(""), " albanian-row"));
+  if (fam) {
+    rows.push(row(bi("Fjala kryesore", "Main word"), chip(fam.main.word, " main"), " main-row"));
+    if (fam.others.length) rows.push(row(bi("Fjalë të tjera me të njëjtin kuptim", "Other words with the same meaning"), fam.others.map((x) => chip(x)).join("")));
+    for (const d of DIALECT_ORDER) {
+      const forms = [...fam.dialects].filter(([, ds]) => ds.includes(d)).map(([f]) => f);
+      if (forms.length) rows.push(row(`<span class="dialect-dot ${d}"></span>${t(d)}`, forms.slice(0, 12).map((x) => chip(x, "", false)).join("")));
+    }
+    if (fam.other.length) rows.push(row(bi("Për kuptimet e tjera", "For its other meanings"), fam.other.slice(0, 4).map((x) => chip(x, " also")).join("")));
+  }
+  if (root.length) rows.push(row(bi("Fjalë nga e njëjta rrënjë", "Words from the same root"), root.map((x) => chip(x, " also")).join("")));
   return `<section class="card same-meaning">
-  <h2>${icon.layers(18)} ${bi("Me të njëjtin kuptim", "Same meaning")}</h2>
-  ${albanian.length ? `<div class="syn-row albanian-row">${`<h3>${bi("Fjala shqipe", "The Albanian word")} <small>${bi("në vend të fjalës së huazuar", "instead of the borrowed word")}</small></h3>`}<div class="syn-chips">${albanian.map((x) => chip(x)).join("")}</div></div>` : ""}
-  ${std ? row(bi("Fjala standarde", "Standard word"), chip(std.word)) : ""}
-  ${main.length ? row(bi("Fjalë të tjera për këtë", "Other words for this"), main.map((x) => chip(x.word)).join("")) : ""}
-  ${dialects.length ? row(bi("Në dialekte", "In the dialects"), dialects.map((d) => plain(d.form, `<small>${d.dialects.map((x) => `<span class="dialect-dot ${x}"></span>${t(x)}`).join(" · ")}</small>`)).join("")) : ""}
-  ${other.length ? row(bi("Për kuptimet e tjera", "For its other meanings"), other.map((x) => chip(x.word, "", " also")).join("")) : ""}
+  <h2>${icon.layers(18)} ${bi("Familja e fjalës", "Word family")}</h2>
+  ${rows.join("\n  ")}
 </section>`;
 }
 
@@ -994,7 +1105,10 @@ function englishKeys(glosses: string[]): string[] {
   for (const g of glosses)
     for (const part of g.replace(/\([^)]*\)/g, " ").split(/[;,]/)) {
       const k = normEnglish(part);
-      if (k.length >= 2 && k.length <= 30 && k.split(" ").length <= 3) keys.add(k);
+      if (k.length >= 2 && k.length <= 30 && k.split(" ").length <= 3) {
+        keys.add(k);
+        if (SAME_AS[k]) keys.add(SAME_AS[k]);
+      }
     }
   return [...keys];
 }

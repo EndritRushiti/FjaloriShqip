@@ -1,0 +1,8 @@
+# Fjalët kryesore të familjeve. / Main words of word families.
+# Kur një fjalë e kësaj liste është në një familje fjalësh (me të njëjtin kuptim), ajo shfaqet si fjala kryesore,
+# edhe kur një fjalë tjetër përdoret më shpesh për shkak të një kuptimi tjetër (shqipe = edhe gjuha shqipe).
+# When a word of this list is in a word family (same meaning), it is shown as the main word, even when another
+# word is used more often because of another meaning (shqipe is also the Albanian language).
+# Një fjalë për rresht; pas # shkruani arsyen. / One word per line; the reason after #.
+
+shqiponjë   # "eagle"; shqipe përdoret kryesisht për gjuhën
