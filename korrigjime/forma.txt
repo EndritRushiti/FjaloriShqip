@@ -15447,3 +15447,18 @@ thonjëza | thonjëz
 kllapa | kllapë
 # ── w59.tsv ──
 fruta | frut
+# ── w61.tsv ──
+baqe | bak
+eti | atë
+hetime | hetim
+hurdha | hurdhë
+larva | larvë
+livadhe | livadh
+minuta | minutë
+neve | ne
+ngjire | ngjir
+panorama | panoramë
+sekonda | sekondë
+viti | vit
+gra | grua
+koha | kohë
