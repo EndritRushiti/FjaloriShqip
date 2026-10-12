@@ -8258,3 +8258,21 @@ havan | noun | mortar (bowl)
 # ── w22.tsv ──
 fshatare | noun | villager (female), peasant woman
 këshilltare | noun | adviser (female), councillor
+# ── w23.tsv ──
+lojtare | noun | player (female)
+# ── w24.tsv ──
+mbjellës | noun | sower
+fshehtas | adv | secretly
+njelmët | adj | salty
+kripur | adj | salted, salty
+# ── w25.tsv ──
+robëri | noun | slavery, captivity
+# ── w26.tsv ──
+shkrepëse | noun | match, box of matches
+# ── w27.tsv ──
+turpësi | noun | disgrace, shameful act
+# ── w28.tsv ──
+vreshtë | noun | vineyard
+vejëri | noun | widowhood
+# ── w29.tsv ──
+pasur | adj | rich, wealthy
