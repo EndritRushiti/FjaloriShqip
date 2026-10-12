@@ -8814,3 +8814,129 @@ pështirosje | noun | nausea, disgust
 shkapërderdhje | noun | spilling, squandering
 spërdredhje | noun | twisting
 molisje | noun | exhaustion
+# ── w53.tsv ──
+rrëmbyes | noun | kidnapper; captivating
+dashakeqësi | noun | malevolence
+mallëngjyes | adj | moving, touching
+shpërdorues | noun | embezzler, misuser
+keqpërdorues | noun | abuser, misuser
+adaptueshëm | adj | adaptable
+shpues | adj | piercing, sharp
+shurdhues | adj | deafening
+rëndues | adj | aggravating
+vizatues | noun | draughtsman
+shterpësi | noun | sterility, barrenness
+arsyeshmëri | noun | reasonableness
+padëgjueshmëri | noun | disobedience
+pluskues | adj | floating
+shkëmbyes | noun | exchanger
+# ── w54.tsv ──
+papunë | adj | unemployed
+pastrehë | adj | homeless
+pavlerë | adj | worthless
+padenjë | adj | unworthy
+pamasë | adj | immeasurable, boundless
+pacipë | adj | shameless
+pafytyrë | adj | shameless, brazen
+ndërmarrës | noun | entrepreneur
+padije | noun | ignorance; ignorant
+padyshimtë | adj | undoubted, indisputable
+pamëshirë | adj | merciless
+papërvojë | adj | inexperienced
+ndërhyrës | adj | interfering, interventionist
+pagjumë | adj | sleepless
+rimbushje | noun | refill
+padjallëzuar | adj | innocent, guileless
+paradhomë | noun | anteroom
+papandehur | adj | unexpected
+papjekuri | noun | immaturity
+pashkollë | adj | uneducated
+pagojë | adj | speechless, mute
+panjollë | adj | spotless
+vetëizolim | noun | self-isolation
+pabërë | adj | undone; unripe
+mirëmbajtës | noun | maintenance worker
+pakulturuar | adj | uncultured
+pafjalë | adj | speechless
+pangjyrë | adj | colourless
+pagjasë | adj | unlikely
+paraprijës | noun | precursor, predecessor
+pangjashëm | adj | dissimilar
+paedukatë | adj | ill-mannered
+jomaterial | adj | immaterial, intangible
+mirëpërcaktuar | adj | well-defined
+# ── w55.tsv ──
+baraspeshim | noun | balancing
+brumosje | noun | kneading; moulding
+spikatje | noun | prominence, standing out
+stërzgjatje | noun | overextension, dragging on
+shkoqitje | noun | elucidation; shelling
+ngarendje | noun | rushing
+mjelje | noun | milking
+rrjepje | noun | skinning; fleecing
+shkrehje | noun | firing; outburst
+topitje | noun | blunting; dulling
+përvëlim | noun | scalding
+çmallje | noun | quenching of longing
+flakje | noun | throwing away
+groposje | noun | burying
+damkosje | noun | branding; stigmatizing
+kredhje | noun | plunging, immersion
+mprehje | noun | sharpening
+sheshim | noun | levelling; settlement
+tredhje | noun | castration
+ngufatje | noun | suffocation
+syrgjynosje | noun | exile, internment
+valëvitje | noun | waving, fluttering
+gajasje | noun | burst of laughter
+shtendosje | noun | relaxation, easing
+boshatisje | noun | emptying, depopulation
+shndritje | noun | shining, radiance
+habitje | noun | astonishment
+katërfishim | noun | quadrupling
+sprapsje | noun | repulse
+afishim | noun | posting (a notice)
+dezintegrim | noun | disintegration
+betonim | noun | concreting
+koklavitje | noun | entanglement, complication
+mërmëritje | noun | mumbling, grumbling
+ndjellje | noun | invocation, attraction
+shkarravitje | noun | scribbling
+shpotitje | noun | mockery
+rastisje | noun | chance occurrence
+dërdëllitje | noun | chatter, prattle
+gërricje | noun | scraping, scratching
+mëkëmbje | noun | recovery
+ndërfutje | noun | insertion
+shkërmoqje | noun | crumbling
+harlisje | noun | lush growth; exuberance
+vërsulje | noun | onrush, charge
+sosje | noun | ending, exhaustion
+degdisje | noun | banishment to a remote place
+inkorporim | noun | incorporation
+pikasje | noun | spotting, detection
+rishpallje | noun | re-announcement
+rishtypje | noun | reprint
+begenisje | noun | deigning, approval
+kërrusje | noun | stooping, hunching
+ngrysje | noun | darkening; frowning
+përflakje | noun | conflagration, blaze
+skërmitje | noun | gnashing of teeth
+strukje | noun | cowering, huddling
+mbinxehje | noun | overheating
+rillogaritje | noun | recalculation
+ngelje | noun | being held back (a year)
+përkundje | noun | rocking
+vërtitje | noun | rotation, whirling
+shprishje | noun | undoing, disarray
+pikim | noun | dripping
+vyshkje | noun | withering
+rrënjosje | noun | rooting, taking root
+shpërhapje | noun | diffusion, spread
+rifutje | noun | reintroduction
+zhvarrosje | noun | exhumation
+trallisje | noun | bewilderment
+latim | noun | carving, hewing
+molepsje | noun | infection, contamination
+murosje | noun | walling up
+puqje | noun | joining, contact
