@@ -8982,3 +8982,23 @@ shpinas | adv | on one's back
 brinjas | adv | sideways, on one's side
 gjunjas | adv | on one's knees, kneeling
 kokëzbuluar | adj | bareheaded
+# ── w72.tsv ──
+pispili | noun | cornbread pie with greens
+hashure | noun | ashure (wheat pudding)
+ballokume | noun | ballokume (Elbasan cookie)
+sufllaqe | noun | souvlaki, gyros
+paçe | noun | tripe or head soup
+ketçap | noun | ketchup
+komposto | noun | compote
+kroasant | noun | croissant
+mbushur | adj | full; stuffed
+dorëlëshuar | adj | generous, open-handed
+gojëmadh | adj | boastful, loud-mouthed
+kokëulur | adj | head bowed, abashed
+# ── w73.tsv ──
+geta | noun | tights, leggings
+papion | noun | bow tie
+poliestër | noun | polyester
+bojëqielli | adj | sky-blue
+bojëhiri | adj | ash-grey
+argjendtë | adj | silver, silvery

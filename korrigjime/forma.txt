@@ -17046,3 +17046,11 @@ këta | ky
 cilët | cili
 cilat | cili
 vetvetja | vetvete
+# ── w72.tsv ──
+speca | spec
+ullinj | ulli
+biskota | biskotë
+kosi | kos
+# ── w74.tsv ──
+dorëza | dorezë
+shapka | shapkë
