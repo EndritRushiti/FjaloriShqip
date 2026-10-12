@@ -9041,3 +9041,48 @@ blegërimë | noun | bleat
 ranglistë | noun | ranking list
 poshtëshënuar | adj | undersigned, below-mentioned
 gjelltore | noun | eatery, canteen
+# ── w77.tsv ──
+relaksoj | verb | to relax
+rebeloj | verb | to stir to revolt; (refl.) to rebel
+mbipopulloj | verb | to overpopulate
+indeksoj | verb | to index
+transplantoj | verb | to transplant
+dehidratoj | verb | to dehydrate
+oksidoj | verb | to oxidize
+parapaguaj | verb | to prepay
+telekomandoj | verb | to operate by remote control
+ventiloj | verb | to ventilate
+keqinformoj | verb | to misinform
+zhdoganoj | verb | to clear through customs
+helenizoj | verb | to Hellenize
+serbizoj | verb | to Serbianize
+bashkëfinancoj | verb | to co-finance
+oksigjenoj | verb | to oxygenate
+brendashkruaj | verb | to inscribe (geometry)
+rimartohem | verb | to remarry
+shtresëzoj | verb | to stratify
+parfumoj | verb | to perfume
+riaftësoj | verb | to rehabilitate
+fragmentarizoj | verb | to fragment
+shkumëzoj | verb | to foam
+transliteroj | verb | to transliterate
+lëngëzoj | verb | to liquefy
+mbishkruaj | verb | to inscribe; to overwrite
+informatizoj | verb | to computerize
+fosilizoj | verb | to fossilize
+nacionalizoj | verb | to nationalize
+nuancoj | verb | to nuance
+demilitarizoj | verb | to demilitarize
+karbonizoj | verb | to carbonize
+devalvoj | verb | to devalue
+gjeneralizoj | verb | to generalize
+rikonfiguroj | verb | to reconfigure
+eksponoj | verb | to expose, to exhibit
+atrofizohem | verb | to atrophy
+jonizoj | verb | to ionize
+dekodoj | verb | to decode
+elektrifikoj | verb | to electrify
+shkishëroj | verb | to excommunicate
+vjetërsohem | verb | to become obsolete
+turfulloj | verb | to snort
+vetizolohem | verb | to self-isolate
