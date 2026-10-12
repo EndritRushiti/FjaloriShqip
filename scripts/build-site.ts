@@ -722,13 +722,10 @@ function homePage(): string {
   <a class="btn btn-primary random-word" href="#">${icon.shuffle(18)} ${t("randomWord")}</a>
 </section>
 
-<section class="stats" aria-label="${h(UI_STATS)}">
-  <div><b>${num(stats.words)}</b><span>${bi("fjalë", "words")}</span></div>
-</section>
-
 <section class="section dialect-browse">
   <header class="section-head"><h2>${bi("Fjalët sipas dialektit", "Words by dialect")}</h2><p class="muted">${bi("Shfletoni dhe kërkoni fjalët e çdo dialekti.", "Browse and search the words of each dialect.")}</p></header>
   <div class="dialect-cards">
+    <div class="dialect-card total-card" aria-label="${h(UI_STATS)}"><span class="dc-name">${bi("Gjithsej", "In total")}</span><b>${num(stats.words)}</b><small>${bi("Fjalë në fjalor", "Words in the dictionary")}</small></div>
     <a class="dialect-card" href="${letterUrl("a")}"><span class="dc-name"><span class="dialect-dot standard"></span>${bi("Standarde", "Standard")}</span><b>${num(stats.standardWords)}</b><small>${bi("Fjalët e gjuhës standarde", "Words of the standard language")}</small></a>
     ${DIALECT_ORDER.map((d) => `<a class="dialect-card" href="${dialectUrl(d)}"><span class="dc-name"><span class="dialect-dot ${d}"></span>${t(d)}</span><b>${num(stats.dialectForms?.[d] ?? 0)}</b><small>${bi(DIALECT_INFO[d].whereSq, DIALECT_INFO[d].whereEn)}</small></a>`).join("\n    ")}
   </div>
