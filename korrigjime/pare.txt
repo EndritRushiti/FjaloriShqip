@@ -40,3 +40,35 @@ islam | noun | Islam
 kryesor | adj | main, principal
 tek | prep | at, to (someone's place): tek unë “at my place”
 drejtë | adj | straight; right, fair
+kthyer | adj | returned, turned back (participle of kthej, kthehem); bent
+hapësirë | noun | space
+marrëdhënie | noun | relationship, relations
+afërt | adj | close, near
+degë | noun | branch
+kuadër | noun | framework (në kuadër të “within the framework of”); staff
+mjet | noun | means, tool; vehicle
+li | noun | flax; linen
+kuptim | noun | meaning
+trup | noun | body
+mësim | noun | lesson
+ndjek | verb | to follow; to pursue
+kujdes | noun | care
+kap | verb | to catch, to grab
+palë | noun | pair; party, side
+qark | noun | county, district; circle
+barazim | noun | draw, tie; equation
+thelb | noun | essence, core
+veç | adv | except, apart from; only
+kafe | noun | coffee
+zot | noun | lord, master; God (Zot)
+sulmues | noun | attacker; forward (in sport)
+përmbajtje | noun | content, contents
+qetë | adj | calm, quiet
+urdhër | noun | order, command
+saktë | adj | exact, accurate
+model | noun | model
+lojë | noun | game
+tempull | noun | temple
+afërsi | noun | proximity, vicinity
+zgjedhje | noun | election; choice
+detar | adj | maritime, naval

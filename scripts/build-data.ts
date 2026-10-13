@@ -331,7 +331,7 @@ function firstMeanings(): number {
     const pos = POS_NAMES[cls] ?? (cls as Pos);
     if (!w || !meaning || !(pos in POS_EN)) continue;
     const e = entryFor(w, pos, "editor");
-    const i = e.senses.findIndex((s) => s.lang === "en" && s.gloss.toLowerCase().startsWith(meaning));
+    const i = e.senses.findIndex((s) => s.lang === "en" && s.gloss.toLowerCase().startsWith(meaning) && !/^\p{L}/u.test(s.gloss.slice(meaning.length)));
     const [s] = i >= 0 ? e.senses.splice(i, 1) : [{ gloss, lang: "en" as const, source: "editor" as SourceId }];
     e.senses.unshift(s);
     w.entries = [e, ...w.entries.filter((x) => x !== e)];
