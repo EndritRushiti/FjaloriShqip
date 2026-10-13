@@ -1,0 +1,42 @@
+# Kuptimi që shfaqet i pari te një fjalë (kuptimi më i zakonshëm). / The meaning shown first for a word (the most common one).
+#   fjala | lloji | kuptimi anglisht
+# Nëse fjala e ka këtë kuptim (fillimi i tekstit përputhet), ai kalon i pari; përndryshe shtohet.
+# If the word has this meaning (the start of the text matches), it moves first; otherwise it is added.
+# Këtë listë e rishikon redaktori. / This list is reviewed by the editor.
+
+të | conj | to, that
+shumë | adv | very, much, a lot
+pak | adv | few, little
+ka | verb | has (form of kam); there is
+do | particle | will (future: do të shkoj “I will go”); wants (form of dua)
+atë | pron | it, that
+ta | pron | it, to you … it (të + e: ta jap “to give it”)
+gjatë | prep | during
+lartë | adj | high
+ndaj | prep | towards, against; therefore
+shqipëri | noun | Albania (written Shqipëri)
+marrë | adj | taken (participle of marr); crazy, mad
+qe | verb | was (form of jam)
+ish | adj | former, ex- (ish-ministër “former minister”)
+faqe | noun | page
+rreth | prep | around, about
+at | noun | father; Father (title of a Catholic priest)
+ndeshje | noun | match
+duhet | verb | must, should; it is needed
+rëndësi | noun | importance
+botë | noun | world
+bashkë | adv | together
+rast | noun | case, occasion; chance
+periudhë | noun | period
+perëndim | noun | west
+çështje | noun | issue
+majtë | adj | left
+lehtë | adj | light, easy
+atje | adv | there
+zhvillim | noun | development
+rrallë | adv | seldom, rarely
+huaj | adj | foreign
+islam | noun | Islam
+kryesor | adj | main, principal
+tek | prep | at, to (someone's place): tek unë “at my place”
+drejtë | adj | straight; right, fair

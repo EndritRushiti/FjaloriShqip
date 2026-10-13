@@ -318,6 +318,28 @@ function standardFirst(): number {
   return n;
 }
 
+/** korrigjime/pare.txt: "word | word class | meaning"; that meaning is shown first (moved there, or added). */
+function firstMeanings(): number {
+  let n = 0;
+  const file = path.join(process.cwd(), "korrigjime", "pare.txt");
+  const lines = fs.existsSync(file) ? fs.readFileSync(file, "utf8").split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim()).filter(Boolean) : [];
+  for (const line of lines) {
+    // the meaning keeps its capitals (Albania, Islam)
+    const [word, cls, gloss] = line.split("|").map((x) => x.trim());
+    const meaning = gloss?.toLowerCase();
+    const w = words.get(word.toLowerCase());
+    const pos = POS_NAMES[cls] ?? (cls as Pos);
+    if (!w || !meaning || !(pos in POS_EN)) continue;
+    const e = entryFor(w, pos, "editor");
+    const i = e.senses.findIndex((s) => s.lang === "en" && s.gloss.toLowerCase().startsWith(meaning));
+    const [s] = i >= 0 ? e.senses.splice(i, 1) : [{ gloss, lang: "en" as const, source: "editor" as SourceId }];
+    e.senses.unshift(s);
+    w.entries = [e, ...w.entries.filter((x) => x !== e)];
+    n++;
+  }
+  return n;
+}
+
 /** korrigjime/kuptime.txt: "word | meaning text" lines; meanings containing the text are wrong and removed. */
 function removeWrongMeanings(): number {
   let n = 0;
@@ -903,6 +925,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log(`corrections: ${classes.fixed} word classes corrected (korrigjime/lloji.txt), ${classes.emptied} empty entries dropped`);
 
   console.log(`order: standard meanings first in ${standardFirst()} words`);
+  console.log(`order: ${firstMeanings()} first meanings set (korrigjime/pare.txt)`);
 
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);
