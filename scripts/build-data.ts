@@ -485,7 +485,7 @@ function addLabels(): string {
     const senses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto");
     const common = WORD_LEVEL_TAGS.filter((t) => senses.length > 0 && senses.every((s) => s.tags?.includes(t)));
     if (common.length) {
-      w.labels = common;
+      w.labels = [...new Set([...(w.labels ?? []), ...common])];
       labelled++;
     }
     for (const e of w.entries) {
@@ -623,6 +623,20 @@ function fixWordClasses(): { fixed: number; emptied: number } {
   let fixed = 0, emptied = 0;
   for (const raw of readWordList("lloji.txt")) {
     const [word, cls] = raw.split("|").map((x) => x.trim());
+    // proverbs and set phrases (molla nuk bie larg mollës, si jeni) have no word class: one entry and a label
+    const kind = ({ "fjalë e urtë": "proverb", shprehje: "phrase" } as Record<string, string>)[cls];
+    if (kind && words.has(word)) {
+      const w = words.get(word)!;
+      const [first, ...rest] = w.entries;
+      if (first) {
+        for (const e of rest) for (const s of e.senses) addSense(first, s);
+        first.pos = "other";
+        w.entries = [first];
+      }
+      w.labels = [...new Set([...(w.labels ?? []), kind])];
+      fixed++;
+      continue;
+    }
     const pos = SQ[cls] ?? POS_NAMES[cls] ?? (cls as Pos);
     const w = words.get(word);
     if (!w || !pos || !(pos in POS_EN)) continue;

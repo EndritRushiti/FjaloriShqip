@@ -3630,3 +3630,39 @@ nato | noun
 nëndhe | adj
 pasus | adj
 gazavaj | noun
+
+# Shprehje me disa fjalë / multi-word entries (fjalë e urtë = proverb, shprehje = set phrase)
+bie një gurë e shkoqet një mur | fjalë e urtë
+çdo njeri ndërton fatin e vet | fjalë e urtë
+çu bë u bë | fjalë e urtë
+fillimi i mbarë është gjysma e punës | fjalë e urtë
+fjala dhe plumbi kur dalin s'kthehen më | fjalë e urtë
+gur gur bëhet mur | fjalë e urtë
+koha është flori | fjalë e urtë
+koha shëron çdo gjë | fjalë e urtë
+më mirë vonë se kurrë | fjalë e urtë
+miku njihet në rrezik | fjalë e urtë
+molla nuk bie larg mollës | fjalë e urtë
+nuk fshihet derri në thes | fjalë e urtë
+nuk mbulohet dielli me shoshë | fjalë e urtë
+një dru i shtrembër prish gjithë stivën | fjalë e urtë
+s'bëhet gjaku ujë | fjalë e urtë
+s'ka pyll pa derra | fjalë e urtë
+ujku qimen e ndërron por zakonin s'e harron | fjalë e urtë
+a flet anglisht | shprehje
+kam një pyetje | shprehje
+nuk e di | shprehje
+qysh je | shprehje
+si jeni | shprehje
+si quheni | shprehje
+si quhesh | shprehje
+pasun mal e val | shprehje
+alejhi selam | pasthirrmë
+gëzuar ditëlindjen | pasthirrmë
+më fal | pasthirrmë
+më falni | pasthirrmë
+me trashëgime | pasthirrmë
+me radhë | ndajfolje
+avash avash | ndajfolje
+e ka kush e ka | emër
+i vetëm | mbiemër

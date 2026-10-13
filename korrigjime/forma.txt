@@ -17064,3 +17064,6 @@ bâ | bëj
 bë | bëhem
 shet | shes
 din | di
+
+# shprehje / phrases
+arma e shkatërrimit në masë | armë e shkatërrimit në masë

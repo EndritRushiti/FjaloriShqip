@@ -241,3 +241,4 @@ viriologji | virologji | gabim
 ambjent | ambient | gabim
 fakulltet | fakultet | gabim
 installim | instalim | gabim
+marr vesht | marr vesh | alternative

@@ -58,6 +58,8 @@ export function borrowedFrom(etymology: string | undefined): string | null {
 
 /** Wiktionary sense tags shown as labels, with their Albanian names. */
 export const TAG_SQ: Record<string, string> = {
+  proverb: "fjalë e urtë",
+  phrase: "shprehje",
   dialectal: "dialektore",
   regional: "krahinore",
   Gheg: "gegërisht",

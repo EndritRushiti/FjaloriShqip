@@ -365,6 +365,61 @@ function formOf(w: Word): { word: string; tags: string[]; editor: boolean }[] {
     .slice(0, 2);
 }
 
+// Multi-word entries and the words they are made of: dhembje koke → dhembje + koke (a form of kokë).
+// Small linking words (e, i, të, me…) are shown but not linked.
+const LINKERS = new Set(["e", "i", "të", "së", "u", "a", "me", "në", "për", "nga", "se", "një", "por", "dhe", "kur", "pa", "si", "qysh"]);
+const formOwner = new Map<string, string>();
+for (const x of words)
+  for (const e of x.entries)
+    for (const f of e.forms ?? []) {
+      if (f.form.includes(" ") || f.form === x.word) continue;
+      const cur = formOwner.get(f.form);
+      if (!cur || (byWord.get(cur)?.frequency ?? 0) < (x.frequency ?? 0)) formOwner.set(f.form, x.word);
+    }
+function partsOf(w: Word): { token: string; main?: string }[] {
+  if (!w.word.includes(" ")) return [];
+  return w.word.split(" ").map((token) => {
+    const t = token.toLowerCase().replace(/^s'/, "");
+    if (LINKERS.has(t)) return { token };
+    if (byWord.has(t)) return { token, main: t };
+    const owner = formOwner.get(t);
+    return owner ? { token, main: owner } : { token };
+  });
+}
+const expressionsWith = new Map<string, string[]>();
+for (const x of words)
+  for (const p of partsOf(x))
+    if (p.main && p.main !== x.word) {
+      const list = expressionsWith.get(p.main) ?? [];
+      if (!list.includes(x.word)) list.push(x.word);
+      expressionsWith.set(p.main, list);
+    }
+
+/** "Përbëhet nga": the words of a multi-word entry, each linked to its page. */
+function partsNote(w: Word): string {
+  const parts = partsOf(w);
+  if (!parts.some((p) => p.main)) return "";
+  const html = parts
+    .map((p) => {
+      if (!p.main) return `<span class="muted">${h(p.token)}</span>`;
+      const same = p.main === p.token.toLowerCase().replace(/^s'/, "");
+      return `<a href="${wordUrl(p.main)}" lang="sq">${h(p.token)}</a>${same ? "" : ` <small class="muted">(${bi("nga", "from")} <a href="${wordUrl(p.main)}" lang="sq">${h(p.main)}</a>)</small>`}`;
+    })
+    .join(" + ");
+  return `<p class="variant-note parts-note">${bi("Përbëhet nga fjalët", "Made up of")} ${html}</p>`;
+}
+
+/** Expressions, terms and proverbs that use this word (çaj → çaj i gjelbër, çaj mali…). */
+function expressionsCard(w: Word): string {
+  const list = (expressionsWith.get(w.word) ?? []).map((x) => byWord.get(x)!).filter(Boolean);
+  if (!list.length) return "";
+  list.sort((a, b) => (b.frequency ?? 0) - (a.frequency ?? 0) || compareSq(a.word, b.word));
+  return `<section class="entry card"><h2 class="sub">${bi("Shprehje me këtë fjalë", "Expressions with this word")}</h2><ul class="expr-list">${list
+    .slice(0, 16)
+    .map((x) => `<li><a href="${wordUrl(x.word)}" lang="sq">${h(x.word)}</a>${shortGloss(x) ? ` <span class="muted small" lang="en">${h(shortGloss(x))}</span>` : ""}</li>`)
+    .join("")}</ul></section>`;
+}
+
 function wordPage(w: Word): string {
   const variant = (w.variantOf ?? [])
     .map((v) => {
@@ -452,13 +507,14 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
       ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : mainWord ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span> ${h(mainGloss.replace(/[“”]/g, ""))} <span class="muted small">(${bi("si", "as")} <a href="${wordUrl(mainWord.word)}" lang="sq">${h(mainWord.word)}</a>)</span></p>` : `<p class="word-summary no-english" data-ui="en" lang="en"><span class="lang-badge">EN</span> <i>No English meaning yet — the Albanian description is below.</i></p>`}
       </div>
-      ${variant}${alsoNote}
+      ${variant}${alsoNote}${partsNote(w)}
     </header>
     ${unverified}
     ${sameMeaningCard(w)}
     ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
     ${examplesCard(w)}
+    ${expressionsCard(w)}
   </article>
   <aside class="word-side">
     ${facts.length ? `<section class="card side-card"><h2>${bi("Në shkurt", "At a glance")}</h2><dl class="facts">${facts.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl></section>` : ""}
