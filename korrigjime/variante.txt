@@ -262,3 +262,8 @@ vuloj | vloj | alternative
 vrul | vrull | alternative
 bazilok | borzilok | alternative
 barrorë | samar | alternative
+bishtëm | fundit | alternative
+blendës | plëndës | alternative
+bozilok | borzilok | alternative
+bregadetas | bregdetas | alternative
+bujashkë | ashkël | alternative

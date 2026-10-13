@@ -14820,3 +14820,33 @@ vrapëtore | noun | fast runner (woman) | vrapuese
 vrul | noun | impetus, rush | vrull
 vuloj | verb | to boil | vloj
 vërrishtë | noun | place where the flocks winter | verrishtë
+# ── k4.tsv ──
+belegu | noun | madman (old word)
+bërrucë | noun | rough sleeveless woollen cloak
+bërdishk | noun | spleen
+besëtare | noun | trustworthy woman
+bezdile | noun | rubbish, crumbs, litter
+bigorr | noun | porous stone, tufa
+bishtëz | noun | crupper (of a saddle)
+bishtcungë | noun | female animal with a cut-off tail
+bljandës | noun | belly of an animal, paunch
+bleroj | verb | to turn green
+bliroj | verb | to overflow, to flood
+bodec | noun | goad, spur
+bokërrimë | noun | scarecrow; spectre
+botsel | noun | small wooden cask
+brahom | noun | thick rope
+breshë | noun | chicory, endive
+brimadh | adj | big-horned
+brustull | noun | kind of sweet, confection
+brohoris | verb | to cheer, to shout for joy
+buvash | noun | intestinal worms
+bubureq | noun | small cloud
+bubullij | verb | to thunder
+buzëgaz | adj | smiling, cheerful
+bukëvale | noun | bread crumbled and fried in oil or butter
+bishtëm | adj | last, final | fundit
+blendës | noun | paunch, rumen | plëndës
+bozilok | noun | basil | borzilok
+bregadetas | noun | coast dweller | bregdetas
+bujashkë | noun | chip of wood | ashkël
