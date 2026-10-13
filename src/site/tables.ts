@@ -87,7 +87,7 @@ function nounTable(forms: Form[]): string {
 }
 
 /** Albanian names of the grammatical tags on forms; tags not listed here are not shown. */
-const FORM_TAG_SQ: Record<string, string> = {
+export const FORM_TAG_SQ: Record<string, string> = {
   singular: "njëjës", plural: "shumës", definite: "e shquar", indefinite: "e pashquar",
   nominative: "emërore", accusative: "kallëzore", dative: "dhanore", ablative: "rrjedhore", genitive: "gjinore", vocative: "thirrore",
   masculine: "mashkullore", feminine: "femërore", neuter: "asnjanëse",

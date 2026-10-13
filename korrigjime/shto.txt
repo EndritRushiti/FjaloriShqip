@@ -14696,3 +14696,5 @@ zhurnalistikë | noun | journalism
 zhvleftësues | noun | devaluing
 ndërkohë | adv | meanwhile, in the meantime | 
 fus | verb | to put in, to insert | fut
+rozë | adj | pink | 
+binar | adj | binary (made of two parts or digits) | 

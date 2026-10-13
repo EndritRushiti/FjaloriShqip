@@ -12,7 +12,7 @@ import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
 import { HEAD_SCRIPT } from "../src/site/security.js";
-import { formsHtml } from "../src/site/tables.js";
+import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -341,6 +341,27 @@ function enSummary(w: Word, first: string): string {
   return all === clean(first) ? h(all) : `<span data-ui="sq">${h(clean(first))}</span><span data-ui="en">${h(all)}</span>`;
 }
 
+// Headwords that are also an inflected form of a more common word (arti: Bosnian pine, but mostly "the art").
+const formOfMap = new Map<string, { word: string; tags: string[] }[]>();
+for (const x of words) {
+  // the most specific description of the form (definite, nominative, singular)
+  const best = new Map<string, string[]>();
+  for (const e of x.entries)
+    for (const f of e.forms ?? []) {
+      if (f.form === x.word || !byWord.has(f.form) || f.tags.includes("editor")) continue;
+      const tags = f.tags.filter((tag) => FORM_TAG_SQ[tag]);
+      if (tags.length > (best.get(f.form)?.length ?? -1)) best.set(f.form, tags);
+    }
+  for (const [form, tags] of best) formOfMap.set(form, [...(formOfMap.get(form) ?? []), { word: x.word, tags }]);
+}
+function formOf(w: Word): { word: string; tags: string[] }[] {
+  const near = new Set([...(w.variantOf ?? []).map((v) => v.word), ...(w.dialects ?? []).map((d) => d.form)]);
+  return (formOfMap.get(w.word) ?? [])
+    .filter((x) => !near.has(x.word) && (byWord.get(x.word)?.frequency ?? 0) > (w.frequency ?? 0) && x.tags.length)
+    .sort((a, b) => (byWord.get(b.word)?.frequency ?? 0) - (byWord.get(a.word)?.frequency ?? 0))
+    .slice(0, 2);
+}
+
 function wordPage(w: Word): string {
   const variant = (w.variantOf ?? [])
     .map((v) => {
@@ -353,6 +374,15 @@ function wordPage(w: Word): string {
       }[v.kind];
       const target = byWord.has(v.word) ? `<a href="${wordUrl(v.word)}">${h(v.word)}</a>` : `<b>${h(v.word)}</b>`;
       return `<p class="variant-note"><span class="dialect-dot ${v.kind}"></span>${kind} ${bi("e fjalës", "of")} ${target}</p>`;
+    })
+    .join("");
+  // "also the definite form of art": most uses of this spelling are that word, not this one
+  const alsoForm = formOf(w);
+  const alsoNote = alsoForm
+    .map((x) => {
+      const tags = [...new Set(x.tags)].slice(0, 4);
+      const sq = tags.map((tag) => FORM_TAG_SQ[tag]).join(", ");
+      return `<p class="variant-note also-form">${bi("Edhe trajtë e fjalës", "Also a form of")} <a href="${wordUrl(x.word)}">${h(x.word)}</a> <small>(${bi(sq, tags.join(", "))})</small></p>`;
     })
     .join("");
   const gheg = (w.dialects ?? []).filter((d) => d.dialect === "gheg");
@@ -391,7 +421,9 @@ function wordPage(w: Word): string {
 
   if (gender) facts.push([bi("Gjinia", "Gender"), genderLabel(gender)]);
   if (ipa.length) facts.push([t("pronunciation"), `<span class="ipa">${ipa.map(h).join(" · ")}</span>`]);
-  facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
+  // the count is mostly the other word's form, so it says nothing about this word
+  const mostlyOther = alsoForm.some((x) => (byWord.get(x.word)?.frequency ?? 0) > 2 * (w.frequency ?? 0));
+  if (!mostlyOther) facts.push([bi("Përdorimi", "Usage"), usageHtml(w.frequency)]);
 
   const approx = w.entries.some((e) => e.senses.some((x) => x.source === "auto"));
   // words without an Albanian description yet; the sources are named only on /burimet/
@@ -417,7 +449,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
       ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : mainWord ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span> ${h(mainGloss.replace(/[“”]/g, ""))} <span class="muted small">(${bi("si", "as")} <a href="${wordUrl(mainWord.word)}" lang="sq">${h(mainWord.word)}</a>)</span></p>` : `<p class="word-summary no-english" data-ui="en" lang="en"><span class="lang-badge">EN</span> <i>No English meaning yet — the Albanian description is below.</i></p>`}
       </div>
-      ${variant}
+      ${variant}${alsoNote}
     </header>
     ${unverified}
     ${sameMeaningCard(w)}
