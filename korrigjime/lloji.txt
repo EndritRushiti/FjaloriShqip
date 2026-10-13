@@ -3668,3 +3668,27 @@ e ka kush e ka | emër
 i vetëm | mbiemër
 ngacmim | emër
 telekomunikim | emër
+
+# klasa të gabuara të gjetura nga përshkrimi / wrong classes found from the description
+aneksoj | folje
+aspiroj | folje
+cuks | folje
+fjalosem | folje
+fyej | folje
+grabis | folje
+hundorëzoj | folje
+pararend | folje
+përforcoj | folje
+posedoj | folje
+rrëmih | folje
+shpejtoj | folje
+testoj | folje
+trupoj | folje
+pincar | folje
+njëtrajtshmëri | emër
+palëvizshmëri | emër
+pjerrësi | emër
+konfuz | mbiemër
+ngath | mbiemër
+kirë | mbiemër
+lentuar | mbiemër
