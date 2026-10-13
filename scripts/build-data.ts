@@ -485,6 +485,42 @@ function readWordList(file: string): string[] {
 const readRemoveList = () => readWordList("hiq.txt");
 
 /**
+ * korrigjime/lloji.txt: "word | class" (emër, folje, mbiemër… or noun, verb, adj…). The word's wrongly labelled
+ * entry (word class unknown, or the only one it has) takes the right class; when an entry of that class already
+ * exists, the two are merged. Also drops entries left empty (no meaning, form or link) when the word has others.
+ */
+function fixWordClasses(): { fixed: number; emptied: number } {
+  const SQ: Record<string, Pos> = { emër: "noun", folje: "verb", mbiemër: "adj", ndajfolje: "adv", përemër: "pron", numëror: "num", parafjalë: "prep", lidhëz: "conj", pasthirrmë: "interj", pjesëz: "particle" };
+  let fixed = 0, emptied = 0;
+  for (const raw of readWordList("lloji.txt")) {
+    const [word, cls] = raw.split("|").map((x) => x.trim());
+    const pos = SQ[cls] ?? POS_NAMES[cls] ?? (cls as Pos);
+    const w = words.get(word);
+    if (!w || !pos || !(pos in POS_EN)) continue;
+    const wrong = w.entries.find((e) => e.pos === "other") ?? (w.entries.length === 1 && w.entries[0].pos !== pos ? w.entries[0] : undefined);
+    if (!wrong) continue;
+    const right = w.entries.find((e) => e.pos === pos);
+    if (right && right !== wrong) {
+      for (const s of wrong.senses) addSense(right, s);
+      right.forms = [...(right.forms ?? []), ...(wrong.forms ?? []).filter((f) => !right.forms?.some((x) => x.form === f.form))];
+      right.synonyms = [...new Set([...(right.synonyms ?? []), ...(wrong.synonyms ?? [])])];
+      for (const s of wrong.sources) addSource(right.sources, s);
+      w.entries = w.entries.filter((e) => e !== wrong);
+    } else wrong.pos = pos;
+    fixed++;
+  }
+  for (const w of words.values()) {
+    // an entry without any meaning is dropped when another entry of the word has one (e.g. after a vulgar sense was removed)
+    const isEmpty = (e: Entry) => !e.senses.length && !e.synonyms?.length;
+    if (w.entries.length > 1 && w.entries.some(isEmpty) && w.entries.some((e) => !isEmpty(e))) {
+      emptied += w.entries.filter(isEmpty).length;
+      w.entries = w.entries.filter((e) => !isEmpty(e));
+    }
+  }
+  return { fixed, emptied };
+}
+
+/**
  * korrigjime/forma.txt: "form | main word" — inflected or definite forms (madhe → madh, numri → numër)
  * stop being headwords of their own and become forms of their main word, so search still finds them.
  */
@@ -793,6 +829,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log(`corrections: ${mapped.mapped} inflected forms mapped to their main word (korrigjime/forma.txt)${mapped.missing.length ? `; main word missing for: ${mapped.missing.join(", ")}` : ""}`);
   const vulgar = removeVulgar();
   console.log(`vulgar: ${vulgar.words} words and ${vulgar.senses} vulgar meanings removed (korrigjime/fyese.txt)`);
+  const classes = fixWordClasses();
+  console.log(`corrections: ${classes.fixed} word classes corrected (korrigjime/lloji.txt), ${classes.emptied} empty entries dropped`);
 
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);
