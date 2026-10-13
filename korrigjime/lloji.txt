@@ -3692,3 +3692,7 @@ konfuz | mbiemër
 ngath | mbiemër
 kirë | mbiemër
 lentuar | mbiemër
+zëvendësues | mbiemër
+nënlloj | emër
+filtrues | mbiemër
+dashakëqij | emër

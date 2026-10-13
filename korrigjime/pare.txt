@@ -206,3 +206,34 @@ asllan | noun | lion
 konfuz | adj | confused, muddled
 testoj | verb | to test
 fyej | verb | to offend, to insult
+posedoj | verb | to possess, to own
+përforcoj | verb | to reinforce, to strengthen
+shpejtoj | verb | to speed up, to hurry
+konsumoj | verb | to consume
+parandaloj | verb | to prevent
+mbijetoj | verb | to survive
+zgjeroj | verb | to widen, to expand, to enlarge
+koordinoj | verb | to coordinate
+favorizoj | verb | to favour
+konkretizoj | verb | to make concrete, to put into practice
+konkludoj | verb | to conclude
+reflektoj | verb | to reflect
+akordoj | verb | to tune (an instrument); to grant
+etiketoj | verb | to label
+aneksoj | verb | to annex
+provokoj | verb | to provoke
+pretendoj | verb | to claim; to pretend
+triumfoj | verb | to triumph
+klasifikoj | verb | to classify
+hartoj | verb | to draft, to compile, to write up
+shuaj | verb | to put out, to extinguish; to erase
+kontraktoj | verb | to contract (an agreement)
+kontestoj | verb | to contest, to dispute
+lokalizoj | verb | to localize, to locate
+ngrej | verb | to raise, to lift
+kthehem | verb | to return, to come back
+mundem | verb | to be able, can
+shprehem | verb | to express oneself
+afrohem | verb | to approach, to come near
+pasoj | verb | to follow, to come after
+zëvendësues | adj | substitute, replacing
