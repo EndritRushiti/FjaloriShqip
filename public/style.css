@@ -602,3 +602,21 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .contact-status.ok { color: var(--ok, #15803d); }
 .contact-status.err { color: var(--accent); }
 .contact-card { margin-top: 18px; }
+
+/* "Raporto ose sugjero" on word pages (scripts/build-site.ts reportBox, public/app.js) */
+.report { position: relative; display: inline-block; margin: 12px 0 0; }
+.report-btn { display: inline-flex; align-items: center; gap: 6px; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); font: inherit; font-size: 0.88rem; cursor: pointer; }
+.report-btn:hover, .report-btn[aria-expanded="true"] { color: var(--text); border-color: var(--accent); }
+.report-btn.sent { color: var(--ok); border-color: var(--ok); }
+.report-pop { position: absolute; z-index: 20; top: calc(100% + 8px); left: 0; width: min(340px, calc(100vw - 32px)); padding: 14px; border-radius: 14px; border: 1px solid var(--border); background: var(--surface); box-shadow: 0 12px 32px rgba(0, 0, 0, 0.16); display: grid; gap: 8px; }
+.report-pop[hidden] { display: none; }
+.report-q { margin: 0; font-weight: 650; }
+.report-opts { display: grid; gap: 6px; }
+.report-opt:not(.btn) { text-align: left; padding: 8px 10px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font: inherit; font-size: 0.92rem; cursor: pointer; }
+.report-opt:not(.btn):hover { border-color: var(--accent); }
+.report-opt.sent { color: var(--ok); border-color: var(--ok); cursor: default; }
+.report-suggest { display: grid; gap: 4px; font-size: 0.9rem; }
+.report-suggest textarea { width: 100%; box-sizing: border-box; padding: 8px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg); color: var(--text); font: inherit; resize: vertical; }
+.report-note { margin: 0; }
+.suggest-word { margin-left: 8px; vertical-align: middle; }
+.suggest-word.sent { color: var(--ok); border-color: var(--ok); }

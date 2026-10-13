@@ -15,6 +15,32 @@
   }
   function wordUrl(w) { return BASE + "/fjala/" + encodeURIComponent(w.replace(/ /g, "_")) + "/"; }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  // reports and suggestions (POST /raporto → the author's weekly list); this browser remembers what it sent
+  var openedAt = Date.now();
+  function reported(word, kind) {
+    try { return localStorage.getItem("raportuar:" + kind + ":" + word) === "1"; } catch (e) { return false; }
+  }
+  function sendReport(kind, word, message) {
+    var body = new FormData();
+    body.set("kind", kind); body.set("word", word); body.set("message", message || "");
+    body.set("t", String(openedAt)); body.set("website", "");
+    var wait = Math.max(0, openedAt + 2100 - Date.now()); // the server refuses posts made in the first two seconds
+    return new Promise(function (r) { setTimeout(r, wait); })
+      .then(function () { return fetch(BASE + "/raporto", { method: "POST", body: body, headers: { Accept: "application/json" } }); })
+      .then(function (r) { return r.json(); })
+      .then(function (r) {
+        if (r.ok) { try { localStorage.setItem("raportuar:" + kind + ":" + word, "1"); } catch (e) {} }
+        return !!r.ok;
+      })
+      .catch(function () { return false; });
+  }
+  function markSent(button, label) {
+    button.disabled = true;
+    button.classList.add("sent");
+    if (label) button.innerHTML = "✓ " + label;
+    else if (button.innerHTML.indexOf("✓") !== 0) button.innerHTML = "✓ " + button.innerHTML;
+  }
   function getJson(path) { return fetch(BASE + path).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
   function store(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 
@@ -285,7 +311,19 @@
       lookup(q, 120).then(function (rows) {
         title.innerHTML = rows.length
           ? bi("Rezultatet për", "Results for") + " “" + esc(q) + '”<span class="search-count">' + rows.length + (rows.length >= 120 ? "+" : "") + "</span>"
-          : bi("Asnjë rezultat për", "No results for") + " “" + esc(q) + "”";
+          : bi("Asnjë rezultat për", "No results for") + " “" + esc(q) + "”" +
+            ' <button type="button" class="btn btn-ghost btn-sm suggest-word">' + bi("Sugjero këtë fjalë", "Suggest this word") + "</button>";
+        var suggest = title.querySelector(".suggest-word");
+        if (suggest) {
+          if (reported(q, "fjale-e-re")) markSent(suggest, bi("U sugjerua", "Suggested"));
+          suggest.addEventListener("click", function () {
+            suggest.disabled = true;
+            sendReport("fjale-e-re", q, "").then(function (ok) {
+              if (ok) markSent(suggest, bi("U sugjerua", "Suggested"));
+              else { suggest.disabled = false; suggest.innerHTML = bi("Nuk u dërgua, provoni përsëri", "Not sent, try again"); }
+            });
+          });
+        }
         var card = function (x) {
           var r = x.row;
           return '<li><a href="' + wordUrl(r[0]) + '"><span class="wc-word" lang="sq">' + esc(r[0]) +
@@ -395,6 +433,41 @@
       });
       if (count) count.textContent = shown.toLocaleString("de-DE");
       if (empty) empty.hidden = shown > 0;
+    });
+  });
+
+  // ── word pages: "Raporto ose sugjero" popup ──
+  document.querySelectorAll(".report").forEach(function (box) {
+    var word = box.getAttribute("data-word");
+    var toggle = box.querySelector(".report-btn");
+    var pop = box.querySelector(".report-pop");
+    var text = box.querySelector("textarea");
+    function close() { pop.hidden = true; toggle.setAttribute("aria-expanded", "false"); }
+    toggle.addEventListener("click", function () {
+      pop.hidden = !pop.hidden;
+      toggle.setAttribute("aria-expanded", String(!pop.hidden));
+    });
+    document.addEventListener("click", function (e) { if (!pop.hidden && !box.contains(e.target)) close(); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
+    function done() {
+      toggle.classList.add("sent");
+      toggle.querySelector(".report-label").innerHTML = bi("U raportua, faleminderit", "Reported, thank you");
+    }
+    box.querySelectorAll(".report-opt").forEach(function (b) {
+      var kind = b.getAttribute("data-kind");
+      if (reported(word, kind)) { markSent(b, null); done(); }
+      b.addEventListener("click", function () {
+        var message = kind === "sugjerim" ? text.value.trim() : "";
+        if (kind === "sugjerim" && message.length < 3) { text.focus(); return; }
+        b.disabled = true;
+        sendReport(kind, word, message).then(function (ok) {
+          if (!ok) { b.disabled = false; return; }
+          markSent(b, kind === "sugjerim" ? bi("Sugjerimi u dërgua", "Suggestion sent") : null);
+          if (kind === "sugjerim") text.value = "";
+          done();
+          setTimeout(close, 900);
+        });
+      });
     });
   });
 

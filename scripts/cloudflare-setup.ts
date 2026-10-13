@@ -24,6 +24,8 @@ import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../src/site/securit
 export const HOST = "fjalorishqip.org";
 export const BUCKET = "fjalorishqip";
 export const WORKER = "fjalorishqip";
+/** Private bucket for reports and suggestions until the weekly email (src/worker/report.ts); never given a domain. */
+export const REPORTS_BUCKET = "fjalorishqip-raporte";
 /** How long Cloudflare keeps a copy at the edge; every deploy empties the cache, so this only limits staleness if that fails. */
 export const EDGE_TTL = 4 * 3600;
 
@@ -53,9 +55,9 @@ export async function rules(): Promise<Record<string, Rule[]>> {
         action_parameters: { uri: { path: { expression: `concat(${path}, "index.html")` } } },
       },
       {
-        // the page itself, not a redirect: its canonical link names the address with the slash (/kontakt is the contact form Worker)
+        // the page itself, not a redirect: its canonical link names the address with the slash (/kontakt and /raporto are the Worker's forms)
         description: "FjaloriShqip: /fjala/nënë (no slash, no file type) → fjala/nënë/index.html",
-        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains "." and ${path} ne "/kontakt")`,
+        expression: `(${onHost} and not ends_with(${path}, "/") and not ${path} contains "." and ${path} ne "/kontakt" and ${path} ne "/raporto")`,
         action: "rewrite",
         action_parameters: { uri: { path: { expression: `concat(${path}, "/index.html")` } } },
       },
@@ -175,6 +177,13 @@ async function main() {
   for (const [phase, list] of Object.entries(await rules())) {
     await api("PUT", `/zones/${zone.id}/rulesets/phases/${phase}/entrypoint`, { rules: list });
     console.log(`rules: ${phase} (${list.length})`);
+  }
+
+  // the private reports bucket must exist before the Worker that uses it is deployed
+  const buckets = await api<{ buckets: { name: string }[] }>("GET", `/accounts/${account}/r2/buckets`);
+  if (!buckets.buckets.some((b) => b.name === REPORTS_BUCKET)) {
+    await api("POST", `/accounts/${account}/r2/buckets`, { name: REPORTS_BUCKET });
+    console.log(`bucket "${REPORTS_BUCKET}" created (private)`);
   }
 
   // 2. the main domain: from the Worker to the bucket (a few seconds in between)

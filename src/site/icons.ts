@@ -14,6 +14,7 @@ export const icon = {
   shuffle: (s?: number) => svg('<path d="M16 3h5v5"/><path d="M4 20 21 3"/><path d="M21 16v5h-5"/><path d="m15 15 6 6"/><path d="M4 4l5 5"/>', s),
   copy: (s?: number) => svg('<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>', s),
   check: (s?: number) => svg('<path d="m5 12 5 5 9-10"/>', s),
+  flag: (s?: number) => svg('<path d="M5 21V4"/><path d="M5 4h11l-2 4 2 4H5"/>', s),
   arrowRight: (s?: number) => svg('<path d="M5 12h14"/><path d="m13 6 6 6-6 6"/>', s),
   arrowLeft: (s?: number) => svg('<path d="M19 12H5"/><path d="m11 6-6 6 6 6"/>', s),
   menu: (s?: number) => svg('<path d="M4 7h16M4 12h16M4 17h16"/>', s),

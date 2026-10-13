@@ -10,6 +10,7 @@
 
 import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js";
 import { type EmailSender, handleContact } from "./contact.js";
+import { handleReport, type ReportBucket, sendWeekly } from "./report.js";
 
 /** The parts of the Workers R2 API this Worker uses (kept local so the repo needs no Workers type package). */
 export interface R2ObjectBody {
@@ -32,6 +33,8 @@ export interface Env {
   /** Contact form: the send_email binding and its destination (both added at deploy from a GitHub secret). */
   CONTACT?: EmailSender;
   CONTACT_TO?: string;
+  /** Reports and suggestions from the word pages (a private bucket; src/worker/report.ts). */
+  REPORTS?: ReportBucket;
 }
 
 const OFFLINE_PAGE = `<!doctype html><html lang="sq"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -116,6 +119,7 @@ async function notFound(env: Env, head: boolean): Promise<Response> {
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     if (new URL(request.url).pathname === "/kontakt") return handleContact(request, env.CONTACT, env.CONTACT_TO);
+    if (new URL(request.url).pathname === "/raporto") return handleReport(request, env.REPORTS);
     if (request.method === "OPTIONS") {
       return new Response(null, {
         status: 204,
@@ -157,5 +161,10 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
     return notFound(env, head);
+  },
+
+  /** Every Monday (wrangler.toml [triggers]): the week's reports and suggestions by email. */
+  async scheduled(_event: unknown, env: Env): Promise<void> {
+    await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO);
   },
 };

@@ -11,11 +11,22 @@ routes = [
   { pattern = "www.fjalorishqip.org", custom_domain = true },
   # the contact form (src/worker/contact.ts); its send_email binding is added at deploy from the CONTACT_EMAIL secret
   { pattern = "fjalorishqip.org/kontakt", zone_name = "fjalorishqip.org" },
+  # reports and suggestions from the word pages (src/worker/report.ts)
+  { pattern = "fjalorishqip.org/raporto", zone_name = "fjalorishqip.org" },
 ]
+
+# every Monday at 07:00 UTC: the week's reports and suggestions are emailed to the author (src/worker/report.ts)
+[triggers]
+crons = ["0 7 * * 1"]
 
 [[r2_buckets]]
 binding = "SITE"
 bucket_name = "fjalorishqip"
+
+# private: reports wait here until the Monday email (created by scripts/cloudflare-setup.ts, never public)
+[[r2_buckets]]
+binding = "REPORTS"
+bucket_name = "fjalorishqip-raporte"
 
 [vars]
 # "1" keeps the whole site out of search engines (also set NOINDEX: "1" for the build in deploy-cloudflare.yml).
@@ -33,6 +44,9 @@ workers_dev = false
 routes = [
   { pattern = "fjalorishqip.org/*", zone_name = "fjalorishqip.org" },
 ]
+
+[env.offline.triggers]
+crons = []
 
 [env.offline.vars]
 OFFLINE = "1"

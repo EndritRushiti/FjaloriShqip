@@ -508,6 +508,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : mainWord ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span> ${h(mainGloss.replace(/[“”]/g, ""))} <span class="muted small">(${bi("si", "as")} <a href="${wordUrl(mainWord.word)}" lang="sq">${h(mainWord.word)}</a>)</span></p>` : `<p class="word-summary no-english" data-ui="en" lang="en"><span class="lang-badge">EN</span> <i>No English meaning yet — the Albanian description is below.</i></p>`}
       </div>
       ${variant}${alsoNote}${partsNote(w)}
+      ${reportBox(w)}
     </header>
     ${unverified}
     ${sameMeaningCard(w)}
@@ -572,6 +573,30 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
         ]
       : [],
   });
+}
+
+/**
+ * "Raporto / Sugjero": a small popup on every word page. One tap on what is wrong sends it (public/app.js →
+ * POST /raporto → the weekly list emailed to the author, src/worker/report.ts); a short box takes a suggestion.
+ */
+function reportBox(w: Word): string {
+  const option = (kind: string, sq: string, en: string) => `<button type="button" class="report-opt" data-kind="${kind}">${bi(sq, en)}</button>`;
+  return `<div class="report" data-word="${h(w.word)}">
+  <button type="button" class="report-btn" aria-expanded="false">${icon.flag(16)} <span class="report-label">${bi("Raporto ose sugjero", "Report or suggest")}</span></button>
+  <div class="report-pop" hidden>
+    <p class="report-q">${bi("Çfarë nuk shkon me këtë fjalë?", "What is wrong with this word?")}</p>
+    <div class="report-opts">
+      ${option("kuptimi", "Kuptimi anglisht është i gabuar", "The English meaning is wrong")}
+      ${option("pershkrimi", "Përshkrimi shqip është i gabuar", "The Albanian description is wrong")}
+      ${option("lloji", "Lloji i fjalës është i gabuar", "The word class is wrong")}
+      ${option("fyese", "Fjalë fyese a e papërshtatshme", "Offensive or inappropriate")}
+    </div>
+    <label class="report-suggest">${bi("Ose sugjeroni një përshkrim a kuptim më të mirë:", "Or suggest a better description or meaning:")}
+      <textarea rows="2" maxlength="1000"></textarea></label>
+    <button type="button" class="btn btn-primary btn-sm report-opt" data-kind="sugjerim">${bi("Dërgo sugjerimin", "Send suggestion")}</button>
+    <p class="report-note muted small">${bi("Pa llogari e pa email. Raportet i lexon autori çdo javë.", "No account, no email. The author reads the reports every week.")}</p>
+  </div>
+</div>`;
 }
 
 /** Example sentences that use the word (Tatoeba; the source is named on /burimet/). */
