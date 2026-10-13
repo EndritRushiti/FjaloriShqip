@@ -3622,3 +3622,11 @@ tjetërkënd | pron
 tjetërkush | pron
 ru | verb
 shtrri | verb
+zem | verb
+vill | verb
+nza | verb
+njëjt | verb
+nato | noun
+nëndhe | adj
+pasus | adj
+gazavaj | noun

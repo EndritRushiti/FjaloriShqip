@@ -1,0 +1,6 @@
+# Kuptime të gabuara që hiqen nga një fjalë (fjala mbetet). / Wrong meanings removed from a word (the word stays).
+#   fjala | pjesë e tekstit të kuptimit  → hiqen kuptimet që e përmbajnë / meanings containing the text are removed
+# Kuptimin e saktë e shtoni te shto.txt. / Add the right meaning in shto.txt.
+# Këtë listë e rishikon redaktori. / This list is reviewed by the editor.
+
+ndërkohë | space (physical extent   # do të thotë "meanwhile"

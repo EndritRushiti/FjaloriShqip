@@ -14694,3 +14694,5 @@ zhurmëplotë |  | noisy
 zhurmëshues | noun | silencer
 zhurnalistikë | noun | journalism
 zhvleftësues | noun | devaluing
+ndërkohë | adv | meanwhile, in the meantime | 
+fus | verb | to put in, to insert | fut

@@ -267,6 +267,53 @@ const VULGAR_TAGS = new Set(["vulgar", "obscene"]);
  * Removes the listed words completely, the listed meanings of other words, and every meaning the sources
  * label vulgar/obscene; then drops all references to removed words (same-meaning lists, dialect forms, variant links).
  */
+/**
+ * korrigjime/variante.txt: "word | standard word | kind". Gheg, Tosk and other accepted spellings are linked
+ * to the standard word; misspellings (gabim) are removed and kept as a search form of the standard word.
+ */
+function applyVariants(): { linked: number; removed: number; missing: string[] } {
+  let linked = 0;
+  let removed = 0;
+  const missing: string[] = [];
+  for (const raw of readWordList("variante.txt")) {
+    const [form, head, kind] = raw.split("|").map((x) => x.trim());
+    const w = words.get(form);
+    const main = words.get(head);
+    if (!w || !main || form === head) {
+      missing.push(`${form} → ${head}`);
+      continue;
+    }
+    if (kind === "gabim") {
+      const e = main.entries[0] ?? entryFor(main, "other", "editor");
+      if (!main.entries.some((x) => x.forms?.some((y) => y.form === form))) e.forms = [...(e.forms ?? []), { form, tags: ["editor"] }];
+      words.delete(form);
+      removed++;
+    } else {
+      const k: Dialect | "alternative" = kind === "gheg" || kind === "tosk" ? kind : "alternative";
+      w.variantOf = [{ word: head, kind: k, source: "editor" }];
+      if (k !== "alternative") addDialect(main, { form, dialect: k, source: "editor" });
+      linked++;
+    }
+  }
+  return { linked, removed, missing };
+}
+
+/** korrigjime/kuptime.txt: "word | meaning text" lines; meanings containing the text are wrong and removed. */
+function removeWrongMeanings(): number {
+  let n = 0;
+  for (const raw of readWordList("kuptime.txt")) {
+    const [word, text] = raw.split("|").map((x) => x.trim());
+    const w = words.get(word);
+    if (!w || !text) continue;
+    for (const e of w.entries) {
+      const before = e.senses.length;
+      e.senses = e.senses.filter((x) => !x.gloss.toLowerCase().includes(text));
+      n += before - e.senses.length;
+    }
+  }
+  return n;
+}
+
 function removeVulgar(): { words: number; senses: number } {
   const f = path.join(process.cwd(), "korrigjime", "fyese.txt");
   const lines = fs.existsSync(f) ? fs.readFileSync(f, "utf8").split(/\r?\n/).map((l) => l.replace(/#.*/, "").trim()).filter(Boolean) : [];
@@ -827,8 +874,11 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log(`corrections: ${removed.length} words removed (korrigjime/hiq.txt)`);
   const mapped = mapFormsToHeadwords();
   console.log(`corrections: ${mapped.mapped} inflected forms mapped to their main word (korrigjime/forma.txt)${mapped.missing.length ? `; main word missing for: ${mapped.missing.join(", ")}` : ""}`);
+  const variants = applyVariants();
+  console.log(`corrections: ${variants.linked} other forms linked, ${variants.removed} misspellings removed (korrigjime/variante.txt)${variants.missing.length ? `; missing: ${variants.missing.join(", ")}` : ""}`);
   const vulgar = removeVulgar();
   console.log(`vulgar: ${vulgar.words} words and ${vulgar.senses} vulgar meanings removed (korrigjime/fyese.txt)`);
+  console.log(`corrections: ${removeWrongMeanings()} wrong meanings removed (korrigjime/kuptime.txt)`);
   const classes = fixWordClasses();
   console.log(`corrections: ${classes.fixed} word classes corrected (korrigjime/lloji.txt), ${classes.emptied} empty entries dropped`);
 
