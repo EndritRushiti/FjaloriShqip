@@ -72,3 +72,41 @@ tempull | noun | temple
 afërsi | noun | proximity, vicinity
 zgjedhje | noun | election; choice
 detar | adj | maritime, naval
+kusht | noun | condition
+blerë | adj | bought (participle of blej); green
+pakicë | noun | minority
+elektrik | adj | electric, electrical
+tel | noun | wire
+gjer | prep | until, up to (= deri)
+dru | noun | wood
+njeh | verb | knows (form of njoh)
+faktor | noun | factor
+aksion | noun | action, campaign; share (in a company)
+pah | noun | light (nxjerr në pah “to bring to light”); fine flour
+thirr | verb | call! (form of thërras)
+mat | verb | to measure
+mulla | noun | mullah
+gaz | noun | gas
+ligje | noun | laws (plural of ligj); laments
+bujar | adj | generous
+thanë | verb | said (form of them)
+fletë | noun | sheet, leaf (of paper); page
+prirje | noun | tendency, inclination
+familjar | adj | family, domestic; familiar
+sajë | noun | (në sajë të) thanks to; sledge
+ngjashmëri | noun | similarity
+ndërprerje | noun | interruption
+kënd | noun | angle
+shokë | noun | friends (plural of shok)
+propozim | noun | proposal
+pjesëtar | noun | member
+destinacion | noun | destination
+tension | noun | tension; voltage
+disk | noun | disk, disc; record
+urdhëruar | adj | ordered, commanded
+dikë | pron | someone (form of dikush)
+pritë | noun | ambush; dam
+prerje | noun | cut, cutting; section
+kujtim | noun | memory, remembrance
+huazim | noun | borrowing; loan
+veçmas | adv | separately
