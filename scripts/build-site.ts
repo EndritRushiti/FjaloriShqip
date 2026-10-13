@@ -1246,7 +1246,7 @@ function apiWord(w: Word): object {
       if (!w.description) return false;
       const e = w.entries.find((x) => ["noun", "verb", "adj"].includes(x.pos) && x.senses.length);
       const s = e?.senses[0];
-      return !!s && s.lang === "en" && s.source === "en-wiktionary" && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle|given|mediopassive|to have (been|become))|\bof\b.*\(/i.test(s.gloss) && !s.gloss.toLowerCase().startsWith(w.word);
+      return !!s && s.lang === "en" && (s.source === "en-wiktionary" || (s.source === "editor" && e!.senses.some((x) => x.source === "en-wiktionary"))) && !(s.tags ?? []).some((t) => NOT_FEATURED.test(t)) && !/^(alternative|form|plural|synonym|abbreviation|diminutive|feminine|obsolete|archaic|past|participle|given|mediopassive|to have (been|become))|\bof\b.*\(/i.test(s.gloss) && !s.gloss.toLowerCase().startsWith(w.word);
     })
     .map((w) => {
       const e = w.entries.find((x) => x.senses.some((s) => s.lang === "en"))!;
