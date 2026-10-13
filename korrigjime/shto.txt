@@ -14850,3 +14850,47 @@ blendës | noun | paunch, rumen | plëndës
 bozilok | noun | basil | borzilok
 bregadetas | noun | coast dweller | bregdetas
 bujashkë | noun | chip of wood | ashkël
+# ── k5.tsv ──
+buburec | noun | kind of beetle
+buledër | noun | tree fungus used as tinder
+bullung | noun | bud
+bungë | noun | kind of oak
+burile | noun | barrel
+burtë | noun | projecting part of a wall or hill
+bushë | adj | of boxwood
+bushorinjë | noun | kind of snake (old word)
+bushlike | noun | bubble; small cherry-like fruit
+butoc | noun | small cask
+butelë | noun | small water cask
+ftujakë | noun | yearling she-goat
+gajgë | noun | easily worked ploughed land
+garafë | noun | carafe
+garamet | noun | worry, care, concern
+gardhec | noun | small fence
+gatishëm | adj | ready, prepared
+gashërohem | verb | to choke with sobs
+gashërim | noun | choking sobs
+gatshkë | noun | cauliflower
+gegëri | noun | the Gheg lands
+gëlbazem | verb | to spit phlegm
+gëlbulë | noun | leper (old word)
+gëlin | verb | to teem, to swarm; to graze
+gënjehem | verb | to be deceived
+gërmukem | verb | to hunch, to bend over
+gogëlë | noun | oak gall, oak apple
+gogesh | noun | kind of wild pigeon
+godi | noun | events, happenings (old word)
+gojash | noun | person with a crooked mouth
+gomarxhi | noun | donkey driver
+gomenë | noun | open sea, high sea
+gongë | adj | weak, feeble
+gorrë | noun | patch of grass on bare ground
+gorrucë | noun | thick bark; cork
+gostit | verb | to feast, to treat to a meal
+bulqësi | noun | agriculture | bujqësi
+gërqi | noun | Greece (old form) | Greqi
+gërqisht | adv | in Greek (old form) | greqisht
+gërqishte | noun | the Greek language (old form) | greqishte
+gërnjic | noun | quarrelsome person | grindavec
+glatë | adj | long | gjatë
+gomarkë | noun | she-donkey | gomaricë
