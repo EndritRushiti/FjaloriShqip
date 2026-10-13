@@ -3666,3 +3666,5 @@ me radhë | ndajfolje
 avash avash | ndajfolje
 e ka kush e ka | emër
 i vetëm | mbiemër
+ngacmim | emër
+telekomunikim | emër
