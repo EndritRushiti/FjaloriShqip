@@ -3,102 +3,106 @@
 # Kristoforidhi's Greek-letter alphabet to today's spelling, meanings translated from Greek. Only forms that differ from the standard
 # language; the last column is the region Kristoforidhi gives (γ = Gheg, τ = Tosk, Σ = Shkodër, or a town).
 # Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region in the book
-avlimend	tosk	noun	m	avlëmend	loom	1	τ
-aguem	gheg	noun	m	agim	dawn	1	γ
-agushi	gheg	noun	f	zagushi	sultry, oppressive weather	2	Kavajë
-agrep	gheg	noun	m	akrep	scorpion	2	Σ
-agjnim	gheg	noun	m	agjërim	fasting	2	γ
-agjnoj	gheg	verb		agjëroj	to fast	2	γ
-âkth	gheg	noun	m	ankth	nightmare	3	Krujë
-momë	gheg	noun	f	mëmë	mother	3	γ
-andisë	gheg	noun	f	amvisë	housewife	4	Tiranë
-ambëlcoj	gheg	verb		ëmbëlsoj	to sweeten	4	Elbasan
-ambëltoj	gheg	verb		ëmbëlsoj	to sweeten	4	Tiranë
-ambëlcinë	gheg	noun	f	ëmbëlsirë	sweetness	4	γ
-ambëlcirë	gheg	noun	f	ëmbëlsirë	sweetness	4	Σ
-amshuem	gheg	adj		përjetshëm	eternal	4	Budi
-amulloj	gheg	verb		avulloj	to steam	5	Elbasan
-anvisë	gheg	noun	f	amvisë	housewife	5	Tiranë
-angjenoj	gheg	verb		agjëroj	to fast	5	Budi
-andamend	gheg	adj			entranced, beside oneself	5	Elbasan
-ândërr	gheg	noun	f	ëndërr	dream	5	γ
-anekoj	gheg	verb		rënkoj	to groan, to moan	6	Budi
-nekoj	gheg	verb		rënkoj	to groan, to moan	6	γ
-rekoj	tosk	verb		rënkoj	to groan, to moan	6	τ
-anekim	gheg	noun	m	rënkim	groan, moan; complaint	6	Budi
-nekim	gheg	noun	m	rënkim	groan, moan	6	γ
-rekim	tosk	noun	m	rënkim	groan, moan	6	τ
-anëmike	gheg	noun	f	armike	enemy (woman)	6	γ
-apostoll	gheg	noun	m	apostull	apostle	7	γ
-arbëneshë	gheg	noun	f	shqiptare	Albanian woman	7	γ
-argavan	gheg	noun	m	jargavan	lilac	8	Krujë
-argjandar	gheg	noun	m	argjendar	silversmith	8	γ
-ergjëndar	tosk	noun	m	argjendar	silversmith	8	τ
-ergjënd	tosk	noun	m	argjend	silver	8	τ
-arushkë	tosk	noun	f	arushë	she-bear	8	τ
-harmë	tosk	noun	f	armë	weapon	8	Berat
-armatis	gheg	verb		armatos	to arm	8	γ
-andrë	tosk	noun	f	arnë	patch	9	τ
-andëroj	tosk	verb		arnoj	to patch	9	τ
-arshin	gheg	noun	m	rrëshirë	resin	9	Tiranë
-harrakat	tosk	noun	m	arrakat	flight, escape	9	Berat
-harratis	tosk	verb		arratis	to drive away, to banish	9	Berat
 mosgjë	tosk	pron		asgjë	nothing	10	τ
-kurgjâ	gheg	pron		asgjë	nothing	10	γ
-askadhër	tosk	noun	m	elbth	stye (on the eyelid)	10	τ
-kurkush	gheg	pron		askush	nobody	10	Σ
-asnjâ	gheg	pron		asnjë	none, no one	10	γ
-askëlë	gheg	noun	f	lëvore	bark, peel	10	Tiranë
-bujaskë	gheg	noun	f	ashkël	chip of wood	11	Elbasan
-ashtuna	gheg	adv		ashtu	so, thus	11	γ
-ashu	tosk	adv		ashtu	so, thus	11	Korçë
-açar	gheg	noun	m	çelik	steel	12	Malësi
-açarim	gheg	noun	m	shtrëngim	affliction, distress	12	γ
-açaroj	gheg	verb		acaroj	to afflict, to oppress	12	γ
-afërsirë	tosk	noun	f	afërsi	vicinity, nearby place	12	τ
-vajzëni	gheg	noun	f	vajzëri	girlhood, maidenhood	14	γ
-varzëni	gheg	noun	f	vajzëri	girlhood, maidenhood	14	Σ
-valtim	gheg	noun	m	vajtim	lament	14	bogdan
-valtoj	gheg	verb		vajtoj	to lament	14	bogdan
-valj	tosk	noun	m	vaj	oil	14	Çam
-vangosh	gheg	noun	m	vëngër	cross-eyed person	15	γ
-vangëroj	gheg	verb		vëngëroj	to squint, to look askance	15	γ
-vank	gheg	noun	m	rrotë	wheel	15	γ
-vanoj	gheg	verb		vonoj	to delay	15	Σ
-vargua	tosk	noun	m	varëse	hanger, hook for hanging	15	Berat
-varguer	gheg	noun	m	vargua	pot-hanger over the hearth	15	γ
-vorfëni	gheg	noun	f	varfëri	poverty	16	γ
-vorfënisht	gheg	adv		varfërisht	poorly	16	γ
-vorfënoj	gheg	verb		varfëroj	to impoverish	16	γ
-varricë	tosk	noun	f	turrë	woodpile, stack	16	Berat
-vashdë	tosk	noun	f	gjurmë	trail of tracks left by a flock	16	Berat
-vashëni	gheg	noun	f	vashëri	girlhood; the young girls	16	γ
-vdar	gheg	verb			to wane, to fade, to perish	16	γ
-vdarem	gheg	verb			to perish, to wane (of the moon)	17	γ
-vdinjak	gheg	noun	m	binjak	twin	17	Tiranë
-vdoj	gheg	verb		dëboj	to chase away, to dismiss	17	Budi
-uve	gheg	noun	f	vezë	egg	17	Shpat
-veglë	gheg	noun	f	vegël	handle; tool	17	Tiranë
-vegjoj	gheg	verb		bëj	to weave	18	Tiranë
 vezme	gheg	noun	f		cartridge pouch	18	Σ
-velej	tosk	verb		vlej	to be worth	18	Çam
-vëllazënisht	gheg	adv		vëllazërisht	brotherly	19	γ
-vëllamëni	gheg	noun	f	vëllamëri	sworn brotherhood	19	γ
-vemës	gheg	noun	f	cipë	thin skin (e.g. of an onion)	20	Tiranë
-vengëroj	tosk	verb		vëngëroj	to squint, to look askance	20	τ
-vandës	tosk	noun	m	vendës	native, local inhabitant	20	τ
 vendar	gheg	noun	m	vendës	local person	20	γ
-vandar	tosk	noun	m	vendës	local person	20	τ
-vendoj	gheg	verb		vendos	to place, to set; to settle	20	Σ
-venëqitës	gheg	noun	m	verëhedhës	cupbearer, one who pours the wine	20	γ
-venër	gheg	noun	m	vrer	poison, venom	20	γ
-verbësirë	tosk	noun	f	verbëri	blindness	21	τ
-vergjëreshë	tosk	noun	f	virgjëreshë	virgin	21	τ
-verdhësinë	gheg	noun	f	verdhësi	yellowness, pallor; jaundice	21	γ
-verdhësirë	tosk	noun	f	verdhësi	yellowness, pallor; jaundice	21	τ
-verdhak	gheg	adj		verdhacak	pale, sallow	21	Tiranë
-verdhaliak	gheg	adj		verdhacak	pale, sallow	21	Tiranë
-verdhanjak	gheg	adj		verdhacak	pale, sallow	21	γ
-verdhushak	tosk	adj		verdhacak	pale, sallow	21	Përmet
-verdhaçuk	gheg	adj		verdhacak	pale, sallow	22	γ
-verdallë	gheg	adv		vërdallë	round about, around	22	γ
+vërshëlej	tosk	verb		fërshëllej	to whistle	23	Gjirokastër
+vërshëllij	gheg	verb		fërshëllej	to whistle	23	Elbasan
+vërshëlimë	tosk	noun	f	fërshëllimë	whistling	23	Gjirokastër
+vërtytë	gheg	noun	f	fuqi	bodily strength	23	γ
+vërtyt	gheg	noun	m	fuqi	strength, vigour	23	Budi
+vërçak	gheg	noun	m		large butcher's knife	23	Σ
+veshgoj	gheg	verb		përgjoj	to eavesdrop, to spy on	24	Mirditë
+vishgoj	gheg	verb		vëzhgoj	to observe, to examine	24	Tiranë
+vishkëllej	gheg	verb		fishkëllej	to whistle	24	Krujë
+vishkulloj	gheg	verb		fishkëllej	to whistle	24	Σ
+vërshëllimë	tosk	noun	f	fishkëllimë	whistle, whistling	24	Berat
+vishkullim	gheg	noun	m	fishkëllimë	whistling	24	Σ
+veshli	tosk	noun	f	pjellori	fertility, fruitfulness (of land or animals)	24	τ
+veshlit	tosk	verb			to be fruitful, to bear well	24	τ
+veshk	gheg	noun	f	veshkë	kidney	24	Σ
+veshnik	gheg	noun	m		clod, lump of earth	25	γ
+fërshnik	gheg	noun	m	veshnik	clod, lump of earth	25	Krujë
+vështoj	tosk	verb		vështroj	to look at, to watch	25	τ
+vështuer	gheg	noun	m	vreshtar	vineyard watchman	25	Σ
+pendaricë	tosk	noun	f		watchman's lookout post (in a vineyard)	25	Përmet
+vetëtij	tosk	verb		vetëton	to flash with lightning	27	τ
+shkrepëtimë	gheg	noun	f	vetëtimë	lightning	27	γ
+viamë	gheg	noun	f	trashësi	thickness	28	Σ
+viamët	gheg	adj		trashë	thick	28	Σ
+vidull	tosk	noun	f	dukj	canon, rule	28	Berat
+vjedhkë	gheg	adv			in a spiral, coiled like a snail	28	Σ
+vjeshtuk	gheg	adj		vjeshtor	autumnal (of fruit, animals)	29	Σ
+vjetull	gheg	noun	f	vjedhull	weasel-like animal	29	Krujë
+vjetsëm	gheg	adj		vjetshëm	of last year	29	γ
+vjetërsëm	tosk	adj		vjetshëm	of last year	29	Berat
+vjehërrë	gheg	noun	f	vjehrrë	mother-in-law	30	γ
+vijar	tosk	noun	m		strip of woven cloth, piece of fabric	30	Përmet
+virgjinë	gheg	noun	f	murgeshë	nun	30	bogdan
+virgjënë	gheg	noun	f	virgjëreshë	virgin, maiden	30	Budi
+virgjëni	gheg	noun	f	virgjëri	virginity	31	γ
+virgjënisht	gheg	adv		virgjërisht	chastely, as a virgin	31	γ
+virok	tosk	noun	m	çiflig	estate, holding of land	31	Përmet
+vishtar	gheg	noun	m		well-dressed man	31	Krujë
+vishtare	gheg	noun	f		well-dressed woman	31	Krujë
+vishkëlim	gheg	noun	m	fishkëllimë	whistling	31	Σ
+vithem	gheg	verb			to be busy, to be absorbed (in work)	32	γ
+vozitem	gheg	verb			to row a boat	33	Σ
+vojë	tosk	noun	f		oil container, oil jar	33	Përmet
+vojnicë	gheg	noun	f		oil-flask, small oil jug	33	Σ
+vokë	gheg	verb		vakët	to make lukewarm	33	γ
+volltë	gheg	noun	f	vullnet	will, wish	33	Elbasan
+vulnetë	gheg	noun	f	vullnet	will	33	Σ
+vullnetdhënës	gheg	adj		vullnetmirë	well-wishing, benevolent	33	bogdan
+vullnetdohem	gheg	verb		kënaqem	to be pleased, to be satisfied	33	bogdan
+vullnetdi	gheg	noun	f	vullnet	will, goodwill	33	bogdan
+vongoretë	tosk	noun	m		small round loaf baked on embers	34	Berat
+vanohem	tosk	verb		vonohem	to be late	34	τ
+vorroj	gheg	verb		varros	to bury	34	γ
+vorrohem	gheg	verb		varrosem	to be buried	34	γ
+vorfnoj	gheg	verb		varfëroj	to impoverish; to be orphaned	34	γ
+vorfanjak	gheg	noun	m	jetim	orphan; poor wretch	34	γ
+vocërroj	gheg	verb		zvogëloj	to make smaller	34	γ
+vuzë	tosk	noun	f		bugloss (plant)	35	Përmet
+vusadhë	tosk	noun	f		nightingale-like small bird	35	Myzeqe
+vushë	tosk	noun	f	zhuzhak	dung beetle; bug	35	Gjirokastër
+vranj	gheg	verb		vrenj	to cloud over, to darken	35	γ
+vrangulloj	tosk	verb			to make smaller, to diminish	36	τ
+vranoj	gheg	verb		vrenjt	to cloud over	36	γ
+vranohem	gheg	verb		vrenjtem	to cloud over; to frown	36	γ
+vrerësirë	tosk	noun	f	vrenjtje	cloudiness, overcast sky	36	τ
+vrapëtar	tosk	noun	m	vrapues	fast runner	36	τ
+vreilje	tosk	noun	f	vrasje	killing, murder	36	Gjirokastër
+vrerohem	tosk	verb		vrenjtem	to cloud over; to frown	37	τ
+vroj	gheg	verb		vras	to kill	37	Mirditë
+vrektar	tosk	noun	m	vrasës	murderer	37	τ
+vrektore	tosk	noun	f	vrasëse	murderess	37	τ
+vrellë	gheg	noun	f	burim	spring (of water)	37	Σ
+verrellë	gheg	noun	f	burim	spring (of water)	37	Σ
+vrijon	gheg	verb		buron	it gushes, it wells up	37	Σ
+vrom	gheg	noun	m	udhë	road, way	37	γ
+vronj	gheg	noun	m	burim	spring (of water)	37	Σ
+fërtymë	tosk	noun	f	vrull	impetus, rush	38	Berat
+vrullej	gheg	verb		vërsulem	to rush, to charge	38	γ
+baglë	gheg	noun	f	bajgë	dung, droppings	38	γ
+bajgël	tosk	noun	f	bajgë	dung, droppings	38	τ
+badzë	tosk	noun	m		cheesemaker (one who makes cheese from milk)	38	Përmet
+badzullidhe	tosk	noun	f	bërsi	speck, mote in the eye	38	τ
+babitem	tosk	verb			to recover (from an illness)	39	Berat
+bae	gheg	noun	f	hobe	sling	39	bogdan
+bâhem	gheg	verb		bëhem	to become	39	γ
+bâsmirë	gheg	noun	m	bamirës	benefactor, doer of good	40	Budi
+bâskeq	gheg	noun	m	keqbërës	evildoer	40	Budi
+balitsë	tosk	noun	f	balë	white headscarf	40	Përmet
+balçam	gheg	noun	m	balsam	balsam	40	Σ
+balltsam	tosk	noun	m	balsam	balsam	40	Gjirokastër
+bandith	tosk	noun	m	bandill	young man, lad	40	Përmet
+barroj	tosk	verb		ngarkoj	to load, to burden	41	τ
+barkthatë	gheg	noun	f		woman who cannot bear children	41	bogdan
+barkaliq	gheg	adj		barkmadh	pot-bellied	41	Kavajë
+batok	gheg	noun	m		bell clapper	42	Σ
+begatë	gheg	adj		pasur	rich, wealthy	42	Budi
+begatem	gheg	verb		pasurohem	to become rich	42	γ
+belbuc	gheg	noun	m	belbac	stammerer	42	γ
+belbacke	gheg	noun	f		stammerer (woman)	42	Σ
+belbëroj	tosk	verb		belbëzoj	to stammer	42	τ

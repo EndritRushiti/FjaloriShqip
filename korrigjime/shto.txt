@@ -14768,3 +14768,55 @@ ashpëroj | verb | to roughen, to harden
 afshë | noun | heat of a fire
 veloj | verb | to boil (old form)
 verdhaçak | adj | pale, sallow
+# ── k2.tsv ──
+vërrej | verb | to bleat
+vërvitem | verb | to rush forward, to fling oneself
+vërsulem | verb | to rush upon, to fall upon
+veson | verb | dew falls
+vështirem | verb | to feel sick, to be nauseated
+vi | noun | line; small furrow
+vjedharake | noun | thief (woman)
+vigë | noun | single-log footbridge; stretcher
+virgjërisht | adv | chastely, as a virgin
+visekt | noun | leap year
+viçkë | noun | heifer, young female calf
+vllahinë | noun | Vlach woman
+vllahi | noun | Wallachia, land of the Vlachs
+voz | noun | barrel, cask
+volim | noun | chrism, holy oil
+volis | verb | to anoint with holy oil
+vonohem | verb | to be late, to linger
+vulanjë | noun | tongue of a buckle; latch
+vulosem | verb | to be sealed
+vrazhdësisht | adv | harshly, roughly
+vrerët | adj | cloudy, overcast; sullen
+vrimoj | verb | to make holes, to pierce
+vrimohem | verb | to be pierced
+vruk | noun | honeydew, blight on plants
+barrëtor | noun | carrier, muleteer
+bashkazi | adv | jointly, in common
+bashkuvendje | noun | council, assembly, synod
+bekohem | verb | to be blessed
+belbac | noun | stammerer
+vetehe | noun | oneself, one's own self | vetja
+# ── k3.tsv ──
+baloç | noun | animal with a white blaze on the forehead
+basho | noun | illegitimate child (old word)
+barrorë | noun | packsaddle | samar
+bazilok | noun | basil | borzilok
+vetçe | adv | separately, apart | veçmas
+veçanë | adv | separately, privately | veçan
+vitar | adj | one year old; yearly | vjetar
+vjerrem | verb | to hang oneself; to be hanged | varem
+vjeshtar | adj | autumnal, of autumn | vjeshtor
+vjeshtëz | adj | autumnal | vjeshtor
+vjetrohem | verb | to grow old, to wear out | vjetërohem
+vobeksi | noun | poverty | varfëri
+vobekësisht | adv | poorly | varfërisht
+vogëlohem | verb | to grow smaller | zvogëlohem
+vonitë | noun | delay, lateness | vonesë
+vramuzi | noun | sullenness, frown | vrenjtje
+vrapëtore | noun | fast runner (woman) | vrapuese
+vrul | noun | impetus, rush | vrull
+vuloj | verb | to boil | vloj
+vërrishtë | noun | place where the flocks winter | verrishtë
