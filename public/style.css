@@ -380,6 +380,8 @@ html:not(.en) .lang-switch [data-lang="sq"], html.en .lang-switch [data-lang="en
 .parts-note small { font-size: 0.85rem; }
 .ex-sq { display: block; font-family: var(--serif); font-style: italic; font-size: 1.02rem; }
 .ex-en { display: block; color: var(--muted); font-size: 0.9rem; }
+.ex-en[data-ui="en"] { display: none; }
+html.en .ex-en[data-ui="en"] { display: block; }
 
 details > summary { cursor: pointer; font-weight: 600; color: var(--accent); list-style: none; display: inline-flex; align-items: center; gap: 6px; padding: 6px 0; }
 details > summary::-webkit-details-marker { display: none; }

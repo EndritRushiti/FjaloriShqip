@@ -416,7 +416,13 @@ function expressionsCard(w: Word): string {
   list.sort((a, b) => (b.frequency ?? 0) - (a.frequency ?? 0) || compareSq(a.word, b.word));
   return `<section class="entry card"><h2 class="sub">${bi("Shprehje me këtë fjalë", "Expressions with this word")}</h2><ul class="expr-list">${list
     .slice(0, 16)
-    .map((x) => `<li><a href="${wordUrl(x.word)}" lang="sq">${h(x.word)}</a>${shortGloss(x) ? ` <span class="muted small" lang="en">${h(shortGloss(x))}</span>` : ""}</li>`)
+    .map((x) => {
+      // one language at a time: the Albanian description on the Albanian site, the English meaning on the English one
+      const sq = x.description ? short(x.description.text) : "";
+      const en = shortGloss(x);
+      const note = sq && en ? `<span class="muted small" data-ui="sq" lang="sq">${h(sq)}</span><span class="muted small" data-ui="en" lang="en">${h(en)}</span>` : sq || en ? `<span class="muted small">${h(sq || en)}</span>` : "";
+      return `<li><a href="${wordUrl(x.word)}" lang="sq">${h(x.word)}</a> ${note}</li>`;
+    })
     .join("")}</ul></section>`;
 }
 
@@ -603,7 +609,7 @@ function reportBox(w: Word): string {
 function examplesCard(w: Word): string {
   if (!w.examples?.length) return "";
   return `<section class="entry card"><h2 class="sub">${bi("Shembuj përdorimi", "Example sentences")}</h2><ul class="examples">${w.examples
-    .map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en" lang="en">${h(e.english)}</span>` : ""}</li>`)
+    .map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en" data-ui="en" lang="en">${h(e.english)}</span>` : ""}</li>`)
     .join("")}</ul></section>`;
 }
 

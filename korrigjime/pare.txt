@@ -237,3 +237,20 @@ shprehem | verb | to express oneself
 afrohem | verb | to approach, to come near
 pasoj | verb | to follow, to come after
 zëvendësues | adj | substitute, replacing
+
+# fjalë të urta: përkthimi fjalë për fjalë, kuptimi në kllapa / proverbs: the literal translation, the meaning in brackets
+bie një gurë e shkoqet një mur | other | one stone falls and a wall comes apart (a small mistake can do great harm)
+çdo njeri ndërton fatin e vet | other | every person builds their own fate
+fillimi i mbarë është gjysma e punës | other | a good start is half of the work
+fjala dhe plumbi kur dalin s'kthehen më | other | a word and a bullet, once out, never come back (what is said cannot be taken back)
+gur gur bëhet mur | other | stone by stone a wall is built (little by little, great things are done)
+koha është flori | other | time is gold (time is precious)
+koha shëron çdo gjë | other | time heals everything
+miku njihet në rrezik | other | a friend is known in danger (a true friend shows in hard times)
+molla nuk bie larg mollës | other | the apple does not fall far from the apple tree (children are like their parents)
+nuk fshihet derri në thes | other | a pig cannot be hidden in a sack (the truth always comes out)
+nuk mbulohet dielli me shoshë | other | the sun cannot be covered with a sieve (the truth cannot be hidden)
+një dru i shtrembër prish gjithë stivën | other | one crooked log spoils the whole woodpile (one bad person spoils the whole group)
+s'bëhet gjaku ujë | other | blood does not turn into water (family ties stay strong)
+s'ka pyll pa derra | other | there is no forest without pigs (every group has some bad people)
+ujku qimen e ndërron por zakonin s'e harron | other | the wolf changes its fur but does not forget its habits (a person's nature does not change)

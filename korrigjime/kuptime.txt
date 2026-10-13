@@ -5,3 +5,22 @@
 
 ndërkohë | space (physical extent   # do të thotë "meanwhile"
 asllan | luan   # fjalë shqipe, jo kuptim anglisht
+
+# fjalë të urta: në vend të një fjale të urtë angleze me tjetër figurë, përkthimi fjalë për fjalë (korrigjime/pare.txt)
+# proverbs: instead of an English proverb with other images, the literal translation (korrigjime/pare.txt)
+bie një gurë e shkoqet një mur | a small mistake can lead
+çdo njeri ndërton fatin e vet | architect of his own
+fillimi i mbarë është gjysma e punës | well begun
+fjala dhe plumbi kur dalin s'kthehen më | once spoken
+gur gur bëhet mur | to accumulate little
+koha është flori | time is money
+koha shëron çdo gjë | time heals all wounds
+miku njihet në rrezik | a friend in need
+molla nuk bie larg mollës | far from the tree
+nuk fshihet derri në thes | murder will out
+nuk mbulohet dielli me shoshë | small defects
+një dru i shtrembër prish gjithë stivën | one bad apple
+s'bëhet gjaku ujë | thicker than water
+s'ka pyll pa derra | one cannot expect
+ujku qimen e ndërron por zakonin s'e harron | leopard
+e shtunë | java;
