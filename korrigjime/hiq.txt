@@ -377,3 +377,10 @@ vais   # formë e paqartë
 volle   # formë e paqartë
 # ── w62.tsv ──
 heqsim   # jo fjalë (shpjegim i gabuar në Wiktionary)
+# ── w78.tsv ──
+tradhëti   # drejtshkrim i gabuar i tradhti
+deshmi   # pa ë: dëshmi
+pergjigjem   # pa ë: përgjigjem
+falenderim   # drejtshkrim i gabuar: falënderim
+pergjegjes   # pa ë: përgjegjës
+friken   # pa ë: frikën

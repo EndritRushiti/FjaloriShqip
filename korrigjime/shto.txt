@@ -14704,3 +14704,38 @@ trupë | noun | troupe (of actors, dancers); troops |
 pagoda | noun | pagoda | 
 lang | noun | hound, hunting dog | zagar
 avash avash | adv | slowly, little by little | ngadalë
+# ── w78.tsv ──
+feta | noun | feta (cheese)
+dekan | noun | dean
+persik | noun | peach
+sadaka | noun | alms, charity
+etni | noun | ethnic group, ethnicity
+korean | adj | Korean
+uran | noun | uranium
+# ── w78b.tsv ──
+taliban | noun | Taliban (member of the Taliban)
+zjarrtë | adj | fiery, ardent
+inxhinieri | noun | engineering
+avokati | noun | legal profession, the bar
+# ── w78d.tsv ──
+piroteknikë | noun | pyrotechnics
+# ── w79.tsv ──
+shpikës | noun | inventor
+shkelës | noun | offender, violator
+mbartës | noun | carrier, bearer
+lypës | noun | beggar
+rilindës | noun | figure of the Albanian National Awakening
+zbutës | adj | softening, soothing
+shëtitës | noun | stroller, walker
+përbuzës | adj | contemptuous, scornful
+ngrohës | noun | heater; warming
+mbytës | adj | suffocating, stifling
+mbështjellës | noun | wrapper, wrapping
+vozitës | noun | driver
+ftohës | noun | cooler; cooling
+mbushës | noun | filler
+shpërfillës | adj | dismissive, disdainful
+mëkëmbës | noun | viceroy, governor
+taksim | noun | taxation
+thirrës | noun | caller
+lutës | noun | supplicant
