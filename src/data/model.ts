@@ -26,6 +26,9 @@ export const POS_EN: Record<Pos, string> = {
 export interface Example {
   text: string;
   english?: string;
+  /** Where a sentence comes from when it is not the meaning's own source (Tatoeba), and its id there. */
+  source?: SourceId;
+  id?: string;
 }
 
 export interface Sense {
@@ -83,6 +86,8 @@ export interface Word {
   description?: { text: string; source: SourceId; reviewed?: boolean };
   /** Borrowed word: the language it comes from ("international" when recognised as an international word). */
   loan?: { from: string };
+  /** Example sentences that use the word or one of its forms (shembuj/tatoeba.tsv). */
+  examples?: Example[];
   /** Labels that apply to the whole word (dialectal, archaic, rare…), as Wiktionary tags. */
   labels?: string[];
   sources: SourceId[];

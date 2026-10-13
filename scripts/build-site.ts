@@ -458,6 +458,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
     ${sameMeaningCard(w)}
     ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
+    ${examplesCard(w)}
   </article>
   <aside class="word-side">
     ${facts.length ? `<section class="card side-card"><h2>${bi("Në shkurt", "At a glance")}</h2><dl class="facts">${facts.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl></section>` : ""}
@@ -515,6 +516,14 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
         ]
       : [],
   });
+}
+
+/** Example sentences that use the word (Tatoeba; the source is named on /burimet/). */
+function examplesCard(w: Word): string {
+  if (!w.examples?.length) return "";
+  return `<section class="entry card"><h2 class="sub">${bi("Shembuj përdorimi", "Example sentences")}</h2><ul class="examples">${w.examples
+    .map((e) => `<li><span class="ex-sq" lang="sq">${h(e.text)}</span>${e.english ? `<span class="ex-en" lang="en">${h(e.english)}</span>` : ""}</li>`)
+    .join("")}</ul></section>`;
 }
 
 /** "Me të njëjtin kuptim": dialect forms and other words that mean the same thing. */
@@ -891,6 +900,8 @@ function sourcesPage(): string {
       sq: "Format gege të Shkodrës, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde; kuptimet të përkthyera nga italishtja.", en: "Gheg forms of Shkodër, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
     { title: "Vocabolario epirotico-italiano (1875)", author: "Francesco Rossi da Montalto", link: "https://archive.org/details/rossi-vocabolario-italiano-epirotico-epirotico-italiano", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Disa forma gege, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde; kuptimet të përkthyera nga italishtja.", en: "A few Gheg forms, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
+    { title: "Tatoeba", author: "Shoqata Tatoeba dhe kontribuesit e saj (autori i secilës fjali në shembuj/tatoeba.tsv)", link: "https://tatoeba.org/", licence: "CC BY 2.0 FR", licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
+      sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një.", en: "Albanian example sentences with their English translation, selected and reviewed one by one." },
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
       sq: "Përshkrimet shqip të fjalëve, fjalë dhe kuptime të shtuara e të korrigjuara, kuptime të përafërta të nxjerra nga fjalë të tjera dhe lidhjet ndërmjet fjalëve.", en: "The Albanian descriptions, added and corrected words and meanings, approximate meanings worked out from other words, and the links between words." },
   ];

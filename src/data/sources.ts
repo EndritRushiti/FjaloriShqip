@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba";
 
 export interface SourceInfo {
   id: SourceId;
@@ -220,6 +220,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Fjalët e njëjta me gjuhën standarde dhe kuptimet italisht nuk merren.",
       en: "Words identical to the standard language and the Italian meanings are not used.",
+    },
+  },
+  tatoeba: {
+    id: "tatoeba",
+    name: "Tatoeba, Albanian sentences with English translations",
+    publisher: "Tatoeba Association and the Tatoeba contributors (each sentence's author is listed in shembuj/tatoeba.tsv)",
+    url: "https://tatoeba.org/",
+    downloadUrl: "https://downloads.tatoeba.org/exports/per_language/sqi/",
+    licence: "CC BY 2.0 FR",
+    licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
+    usedFor: {
+      sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një; secila lidhet me faqen e saj në Tatoeba.",
+      en: "Albanian example sentences with their English translation, selected and reviewed one by one; each links to its page on Tatoeba.",
+    },
+    notUsed: {
+      sq: "Fjalitë me gabime drejtshkrimi (p.sh. pa ë), me përkthim të gabuar, fyese ose me stereotipe nuk merren.",
+      en: "Sentences with spelling mistakes (e.g. without ë), wrong translations, insults or stereotypes are not used.",
     },
   },
 };

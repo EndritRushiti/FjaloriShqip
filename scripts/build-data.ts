@@ -318,6 +318,46 @@ function standardFirst(): number {
   return n;
 }
 
+/**
+ * shembuj/tatoeba.tsv: reviewed Tatoeba sentences. Each goes to the nouns, verbs, adjectives and adverbs it
+ * uses (the word itself or a form that belongs to one word only), at most three sentences per word, shortest first.
+ */
+function addTatoebaExamples(): number {
+  const f = path.join(process.cwd(), "shembuj", "tatoeba.tsv");
+  if (!fs.existsSync(f)) return 0;
+  const CONTENT = new Set<Pos>(["noun", "verb", "adj", "adv"]);
+  const content = (w: Word | undefined) => !!w && CONTENT.has(w.entries[0]?.pos);
+  const owners = new Map<string, Set<string>>();
+  for (const w of words.values())
+    for (const e of w.entries)
+      for (const x of e.forms ?? [])
+        if (!x.form.includes(" ") && x.form !== w.word) (owners.get(x.form) ?? owners.set(x.form, new Set()).get(x.form)!).add(w.word);
+  const found = new Map<string, Example[]>();
+  for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+    if (!line || line.startsWith("#")) continue;
+    // an optional fifth column lists words the sentence must not go to (kryet "the heads" is not kryej)
+    const [id, text, english, , not] = line.split("\t");
+    if (!text || !english) continue;
+    const skip = new Set((not ?? "").split(",").map((x) => x.trim()));
+    const tokens = text.toLowerCase().replace(/[^a-zçë'\s]/g, " ").split(/\s+/).map((t) => t.replace(/^[a-zçë]+'/, "")).filter((t) => t.length > 2);
+    const targets = new Set<string>();
+    for (const t of tokens) {
+      if (content(words.get(t))) targets.add(t);
+      else if (!words.has(t)) {
+        const o = [...(owners.get(t) ?? [])].filter((x) => content(words.get(x)));
+        if (o.length === 1) targets.add(o[0]);
+      }
+    }
+    for (const w of targets) if (!skip.has(w)) (found.get(w) ?? found.set(w, []).get(w)!).push({ text, english, source: "tatoeba", id });
+  }
+  for (const [word, list] of found) {
+    const w = words.get(word)!;
+    w.examples = list.sort((a, b) => a.text.length - b.text.length).slice(0, 3);
+    addSource(w.sources, "tatoeba");
+  }
+  return found.size;
+}
+
 /** korrigjime/pare.txt: "word | word class | meaning"; that meaning is shown first (moved there, or added). */
 function firstMeanings(): number {
   let n = 0;
@@ -978,6 +1018,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     if (wikiCounts[w.word]) w.wikipediaCount = wikiCounts[w.word];
   }
 
+  console.log(`examples: ${addTatoebaExamples()} words have example sentences (shembuj/tatoeba.tsv)`);
+
   const list = [...words.values()].sort((a, b) => compareSq(a.word, b.word));
   fs.mkdirSync(OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "fjalori.json"), JSON.stringify(list));
@@ -1005,6 +1047,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "meyer-1891": list.filter((w) => w.sources.includes("meyer-1891")).length,
       "jungg-1895": list.filter((w) => w.sources.includes("jungg-1895")).length,
       "rossi-1875": list.filter((w) => w.sources.includes("rossi-1875")).length,
+      tatoeba: list.filter((w) => w.sources.includes("tatoeba")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,
