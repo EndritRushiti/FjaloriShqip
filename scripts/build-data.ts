@@ -298,6 +298,26 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
   return { linked, removed, missing };
 }
 
+/** Standard meanings before dialect, regional and old ones (lang: "hound" before the regional "liquid"); otherwise the order is kept. */
+function standardFirst(): number {
+  const DIALECT_BOOKS = new Set<SourceId>(["meyer-1891", "jungg-1895", "rossi-1875"]);
+  // Gheg and Tosk tags are left out: Wiktionary also puts them on standard meanings (hënë: moon)
+  const MARGINAL = new Set(["Arbëresh", "Arvanitika", "regional", "dialectal", "archaic", "obsolete", "dated", "rare"]);
+  const dialectal = (s: Sense) => DIALECT_BOOKS.has(s.source) || !!s.tags?.some((t) => MARGINAL.has(t));
+  // pointers ("Alternative form of…", "See pranga", "vakt m (plural…") are not meanings of their own and stay last
+  const pointer = (s: Sense) => !dialectal(s) && /^(see |synonym of |alternative form|\S+ [mf] \(plural)/i.test(s.gloss);
+  const plain = (s: Sense) => !dialectal(s) && !pointer(s);
+  const rank = (e: Entry) => (e.senses.length && !e.senses.some(plain) ? 1 : 0);
+  let n = 0;
+  for (const w of words.values()) {
+    const before = w.entries.map((e) => e.senses[0]);
+    for (const e of w.entries) e.senses = [...e.senses.filter(plain), ...e.senses.filter(dialectal), ...e.senses.filter(pointer)];
+    w.entries = [...w.entries.filter((e) => !rank(e)), ...w.entries.filter((e) => rank(e))];
+    if (w.entries.some((e, i) => e.senses[0] !== before[i])) n++;
+  }
+  return n;
+}
+
 /** korrigjime/kuptime.txt: "word | meaning text" lines; meanings containing the text are wrong and removed. */
 function removeWrongMeanings(): number {
   let n = 0;
@@ -881,6 +901,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log(`corrections: ${removeWrongMeanings()} wrong meanings removed (korrigjime/kuptime.txt)`);
   const classes = fixWordClasses();
   console.log(`corrections: ${classes.fixed} word classes corrected (korrigjime/lloji.txt), ${classes.emptied} empty entries dropped`);
+
+  console.log(`order: standard meanings first in ${standardFirst()} words`);
 
   // Approximate meanings for words that have none, from words we know (clearly marked as such)
   console.log(`approximate meanings: ${addApproximateMeanings()} words`);

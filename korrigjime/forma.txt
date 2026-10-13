@@ -17059,3 +17059,7 @@ egërsira | egërsirë
 bën | bëj
 tokës | tokë
 bâ | bëj
+
+# trajta foljore që janë edhe fjalë dialektore / verb forms that are also dialect words
+bë | bëhem
+shet | shes

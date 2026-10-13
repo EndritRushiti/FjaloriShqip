@@ -342,22 +342,25 @@ function enSummary(w: Word, first: string): string {
 }
 
 // Headwords that are also an inflected form of a more common word (arti: Bosnian pine, but mostly "the art").
-const formOfMap = new Map<string, { word: string; tags: string[] }[]>();
+// Forms an editor linked by hand (korrigjime/forma.txt: bë → bëhem) have no grammar tags but count too.
+const formOfMap = new Map<string, { word: string; tags: string[]; editor: boolean }[]>();
 for (const x of words) {
   // the most specific description of the form (definite, nominative, singular)
   const best = new Map<string, string[]>();
+  const byEditor = new Set<string>();
   for (const e of x.entries)
     for (const f of e.forms ?? []) {
-      if (f.form === x.word || !byWord.has(f.form) || f.tags.includes("editor")) continue;
+      if (f.form === x.word || !byWord.has(f.form)) continue;
+      if (f.tags.includes("editor")) byEditor.add(f.form);
       const tags = f.tags.filter((tag) => FORM_TAG_SQ[tag]);
       if (tags.length > (best.get(f.form)?.length ?? -1)) best.set(f.form, tags);
     }
-  for (const [form, tags] of best) formOfMap.set(form, [...(formOfMap.get(form) ?? []), { word: x.word, tags }]);
+  for (const [form, tags] of best) formOfMap.set(form, [...(formOfMap.get(form) ?? []), { word: x.word, tags, editor: byEditor.has(form) }]);
 }
-function formOf(w: Word): { word: string; tags: string[] }[] {
+function formOf(w: Word): { word: string; tags: string[]; editor: boolean }[] {
   const near = new Set([...(w.variantOf ?? []).map((v) => v.word), ...(w.dialects ?? []).map((d) => d.form)]);
   return (formOfMap.get(w.word) ?? [])
-    .filter((x) => !near.has(x.word) && (byWord.get(x.word)?.frequency ?? 0) > (w.frequency ?? 0) && x.tags.length)
+    .filter((x) => !near.has(x.word) && (byWord.get(x.word)?.frequency ?? 0) > (w.frequency ?? 0) && (x.tags.length || x.editor))
     .sort((a, b) => (byWord.get(b.word)?.frequency ?? 0) - (byWord.get(a.word)?.frequency ?? 0))
     .slice(0, 2);
 }
@@ -382,7 +385,7 @@ function wordPage(w: Word): string {
     .map((x) => {
       const tags = [...new Set(x.tags)].slice(0, 4);
       const sq = tags.map((tag) => FORM_TAG_SQ[tag]).join(", ");
-      return `<p class="variant-note also-form">${bi("Edhe trajtë e fjalës", "Also a form of")} <a href="${wordUrl(x.word)}">${h(x.word)}</a> <small>(${bi(sq, tags.join(", "))})</small></p>`;
+      return `<p class="variant-note also-form">${bi("Edhe trajtë e fjalës", "Also a form of")} <a href="${wordUrl(x.word)}">${h(x.word)}</a>${tags.length ? ` <small>(${bi(sq, tags.join(", "))})</small>` : ""}</p>`;
     })
     .join("");
   const gheg = (w.dialects ?? []).filter((d) => d.dialect === "gheg");

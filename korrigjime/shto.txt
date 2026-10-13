@@ -14698,3 +14698,8 @@ ndërkohë | adv | meanwhile, in the meantime |
 fus | verb | to put in, to insert | fut
 rozë | adj | pink | 
 binar | adj | binary (made of two parts or digits) | 
+djegie | noun | burning, combustion | 
+gatim | noun | cooking; dish | gatesë
+trupë | noun | troupe (of actors, dancers); troops | 
+pagoda | noun | pagoda | 
+lang | noun | hound, hunting dog | zagar
