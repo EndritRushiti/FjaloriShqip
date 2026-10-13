@@ -14739,3 +14739,32 @@ mëkëmbës | noun | viceroy, governor
 taksim | noun | taxation
 thirrës | noun | caller
 lutës | noun | supplicant
+# ── k1.tsv ──
+avullor | adj | vaporous, steamy
+agon | verb | it dawns
+adhuresë | noun | worship, adoration
+adhurimtar | noun | worshipper
+athtim | noun | astringency, tartness
+athtoj | verb | to taste tart, to be astringent
+arbënor | adj | Albanian (old word)
+vajzëri | noun | girlhood; the young girls
+vashëri | noun | girlhood, maidenhood
+vashërisht | adv | in a maidenly way
+vejesë | noun | worth, value (old word)
+velani | noun | fainting, swoon
+vëllamërisht | adv | as sworn brothers
+vendevende | adv | here and there, in places
+verbohem | verb | to go blind
+verdhosh | adj | pale, sallow
+verdhush | adj | pale, sallow
+verdhem | verb | to turn yellow, to turn pale
+verdh | verb | to make yellow, to make pale
+verak | adj | of spring, vernal
+verrishtë | noun | sheltered winter pasture
+angushtë | adj | narrow (old form)
+angushtim | noun | narrowness; distress (old form)
+angushtoj | verb | to narrow (old form)
+ashpëroj | verb | to roughen, to harden
+afshë | noun | heat of a fire
+veloj | verb | to boil (old form)
+verdhaçak | adj | pale, sallow

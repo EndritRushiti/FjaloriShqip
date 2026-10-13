@@ -242,3 +242,11 @@ ambjent | ambient | gabim
 fakulltet | fakultet | gabim
 installim | instalim | gabim
 marr vesht | marr vesh | alternative
+
+# Kristoforidhi 1904: trajta të vjetra / old forms
+angushtë | ngushtë | alternative
+angushtim | ngushtim | alternative
+angushtoj | ngushtoj | alternative
+veloj | vloj | alternative
+verdhaçak | verdhacak | alternative
+afshë | afsh | alternative

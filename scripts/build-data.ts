@@ -300,7 +300,7 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
 
 /** Standard meanings before dialect, regional and old ones (lang: "hound" before the regional "liquid"); otherwise the order is kept. */
 function standardFirst(): number {
-  const DIALECT_BOOKS = new Set<SourceId>(["meyer-1891", "jungg-1895", "rossi-1875"]);
+  const DIALECT_BOOKS = new Set<SourceId>(["meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904"]);
   // Gheg and Tosk tags are left out: Wiktionary also puts them on standard meanings (hënë: moon)
   const MARGINAL = new Set(["Arbëresh", "Arvanitika", "regional", "dialectal", "archaic", "obsolete", "dated", "rare"]);
   const dialectal = (s: Sense) => DIALECT_BOOKS.has(s.source) || !!s.tags?.some((t) => MARGINAL.has(t));
@@ -1062,6 +1062,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "jungg-1895": list.filter((w) => w.sources.includes("jungg-1895")).length,
       "rossi-1875": list.filter((w) => w.sources.includes("rossi-1875")).length,
       tatoeba: list.filter((w) => w.sources.includes("tatoeba")).length,
+      "kristoforidhi-1904": list.filter((w) => w.sources.includes("kristoforidhi-1904")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,

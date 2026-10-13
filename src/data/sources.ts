@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904";
 
 export interface SourceInfo {
   id: SourceId;
@@ -237,6 +237,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Fjalitë me gabime drejtshkrimi (p.sh. pa ë), me përkthim të gabuar, fyese ose me stereotipe nuk merren.",
       en: "Sentences with spelling mistakes (e.g. without ë), wrong translations, insults or stereotypes are not used.",
+    },
+  },
+  "kristoforidhi-1904": {
+    id: "kristoforidhi-1904",
+    name: "Konstantin Kristoforidhi, Lexikon tis albanikis glossis (Athinë 1904)",
+    publisher: "Konstantin Kristoforidhi (1830–1895); botuar pas vdekjes nga P. D. Sakellarios, Athinë. Skanuar nga Universiteti i Vjenës (PHAIDRA), në Internet Archive",
+    url: "https://archive.org/details/Lexicon-tes-albanikes-glosses-PHAIDRA_o_102835",
+    downloadUrl: "https://archive.org/details/Lexicon-tes-albanikes-glosses-PHAIDRA_o_102835",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Fjalë e forma gege e toske, të kthyera nga alfabeti i Kristoforidhit me shkronja greke në drejtshkrimin e sotëm; kuptimet të përkthyera nga greqishtja. Përshkrimet shqip janë tonat. Vepra është në domen publik (autori vdiq më 1895).",
+      en: "Gheg and Tosk words and forms, converted from Kristoforidhi's Greek-letter alphabet to today's spelling; meanings translated from Greek. The Albanian descriptions are our own. The work is in the public domain (the author died in 1895).",
+    },
+    notUsed: {
+      sq: "Skanimi dhe teksti grek nuk ribotohen; merren vetëm fjalët dhe kuptimet.",
+      en: "The scan and the Greek text are not republished; only the words and their meanings are taken.",
     },
   },
 };
