@@ -340,3 +340,5 @@ rame | bakër | alternative
 ramtë | bakërt | alternative
 reposh | përposh | alternative
 reshperoj | vizitoj | alternative
+zgjishem | zgjidhem | alternative
+zgjurë | zgjyrë | alternative

@@ -15295,3 +15295,8 @@ reshperoj | verb | to frequent, to visit often | vizitoj
 rrjepës | noun | flayer, skinner
 # ── k50.tsv ──
 zgarfulloj | verb | to scratch
+# ── k51.tsv ──
+zdruk | noun | plane (carpenter's tool)
+zdrugoj | verb | to plane (boards)
+zgjishem | verb | to be untied | zgjidhem
+zgjurë | noun | slag, dross | zgjyrë
