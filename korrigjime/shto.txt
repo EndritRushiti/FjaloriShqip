@@ -15324,3 +15324,6 @@ shahirak | noun | insulter, abusive person
 shkadis | verb | to prune (branches)
 shijë | noun | taste, flavour | shije
 shigjetonj | verb | to shoot arrows | shigjetoj
+# ── k58.tsv ──
+shkëndij | verb | to give off sparks
+shkarkonj | verb | to unload | shkarkoj
