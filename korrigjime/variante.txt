@@ -327,3 +327,4 @@ pianec | pijanec | alternative
 piesëtar | pjesëtar | alternative
 plotskë | ploskë | alternative
 pjumb | plumb | alternative
+purteshë | përtesë | alternative
