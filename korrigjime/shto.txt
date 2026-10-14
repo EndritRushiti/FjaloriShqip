@@ -15163,3 +15163,5 @@ qafëhollë | adj | thin-necked
 # ── k24.tsv ──
 qitarë | noun | kithara, lyre
 qindë | noun | measure of weight of one hundred drams
+qytetëzoj | verb | to civilize | qytetëroj
+qytetëzim | noun | civilization | qytetërim

@@ -283,3 +283,5 @@ kuxim | guxim | alternative
 kucim | guxim | alternative
 kucimtar | guximtar | alternative
 kritmë | krismë | alternative
+qytetëzoj | qytetëroj | alternative
+qytetëzim | qytetërim | alternative
