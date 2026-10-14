@@ -309,3 +309,5 @@ pakujdesëm | pakujdesshëm | alternative
 paljos | palos | alternative
 paradis | parajsë | alternative
 pelas | pëllas | alternative
+përarim | prarim | alternative
+përbetoj | betoj | alternative

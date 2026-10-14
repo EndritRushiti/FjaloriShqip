@@ -15254,3 +15254,8 @@ paradis | noun | paradise | parajsë
 patorik | noun | eaves, roof edge
 pëqisë | noun | cake baked in the embers
 pelas | verb | to bray | pëllas
+# ── k46.tsv ──
+penxë | noun | kind of silver coin
+përbe | verb | to make swear an oath
+përarim | noun | gilding | prarim
+përbetoj | verb | to make someone swear | betoj
