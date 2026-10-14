@@ -15320,3 +15320,7 @@ sykjutë | adj | with fine eyes, good-looking
 syljar | adj | squint-eyed (mocking)
 # ── k56.tsv ──
 shahirak | noun | insulter, abusive person
+# ── k57.tsv ──
+shkadis | verb | to prune (branches)
+shijë | noun | taste, flavour | shije
+shigjetonj | verb | to shoot arrows | shigjetoj

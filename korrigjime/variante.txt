@@ -347,3 +347,5 @@ skilje | kone | alternative
 skllavos | skllavëroj | alternative
 skllap | skllav | alternative
 skjimë | stoli | alternative
+shijë | shije | alternative
+shigjetonj | shigjetoj | alternative
