@@ -273,3 +273,6 @@ gërnjic | grindavec | alternative
 gomarkë | gomaricë | alternative
 gjashtëmbëdhetë | gjashtëmbëdhjetë | alternative
 gjinestër | gjineshtër | alternative
+dorëshkresë | dorëshkrim | alternative
+dorëhapët | dorëhapur | alternative
+djesëm | djeshëm | alternative

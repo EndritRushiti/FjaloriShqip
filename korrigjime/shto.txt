@@ -14959,3 +14959,13 @@ detyrohem | verb | to be obliged
 dhikjel | noun | two-pronged hoe | dikel
 dathem | verb | to take off one's shoes | zbathem
 dërrudhë | noun | crumbs | thërrime
+# ── k9.tsv ──
+djathtor | noun | right-handed person
+digjem | verb | to burn, to be burned
+dorëmbyllur | adj | stingy, tight-fisted
+dorëplotë | adv | lavishly, generously
+dumë | noun | old grain measure of six okes
+diorë | adj | burnt (old word)
+dorëshkresë | noun | manuscript | dorëshkrim
+dorëhapët | adj | generous, open-handed | dorëhapur
+djesëm | adj | of yesterday | djeshëm
