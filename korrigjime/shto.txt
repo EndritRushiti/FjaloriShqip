@@ -15346,3 +15346,6 @@ shtjelluke | noun | roll of wool ready for spinning
 shtëmangem | verb | to step aside | shmangem
 # ── k62.tsv ──
 shtëragatë | noun | heavy sudden downpour
+shtypshkronjës | noun | printer, typographer
+shtypëshkronjë | noun | printing house | shtypshkronjë
+shtypëshkronjës | noun | printer | shtypshkronjës
