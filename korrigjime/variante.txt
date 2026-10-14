@@ -440,3 +440,5 @@ flyturij | turfulloj | alternative
 frashule | fasule | alternative
 frasule | fasule | alternative
 fetyrë | fytyrë | alternative
+fuqishim | fuqishëm | alternative
+fullikj | fëlliq | alternative

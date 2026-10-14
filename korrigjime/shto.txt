@@ -15447,3 +15447,5 @@ flyturij | verb | to snort (of a horse) | turfulloj
 frashule | noun | bean(s) | fasule
 frasule | noun | bean(s) | fasule
 fetyrë | noun | face, appearance | fytyrë
+fuqishim | adj | powerful, strong | fuqishëm
+fullikj | verb | to dirty, to defile; to shame | fëlliq
