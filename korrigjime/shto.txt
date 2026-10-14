@@ -14894,3 +14894,25 @@ gërqishte | noun | the Greek language (old form) | greqishte
 gërnjic | noun | quarrelsome person | grindavec
 glatë | adj | long | gjatë
 gomarkë | noun | she-donkey | gomaricë
+# ── k6.tsv ──
+gugutkë | noun | turtle dove
+gurtë | adj | of stone, stony
+gushan | noun | drake
+gufkë | noun | hair coil worn at the nape
+gufomë | noun | puff, swelling, bubble
+gukak | noun | small wild pigeon
+grabitem | verb | to quarrel, to squabble
+grari | noun | the women (collectively)
+grekinjë | noun | Greek woman
+grekëri | noun | Greece; the Greeks
+grepth | noun | small hook
+kalogjen | noun | darnel, tares
+gromësij | verb | to belch
+gromësimë | noun | belch
+grunore | noun | field ready for sowing wheat
+grykëse | noun | glutton (woman)
+grunjtë | adj | of wheat, wheaten
+gjakëse | noun | murderess
+gushak | noun | glutton | grykës
+gufmoj | verb | to swell, to puff up | gufoj
+gramësij | verb | to belch | gromësij
