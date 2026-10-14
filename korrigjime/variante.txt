@@ -292,3 +292,5 @@ mbrazët | zbrazët | alternative
 mezatar | mesatar | alternative
 mërzim | mriz | alternative
 mësonjëse | mësuese | alternative
+murmurimë | murmuritje | alternative
+mushë | mushmollë | alternative

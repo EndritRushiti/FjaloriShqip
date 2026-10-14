@@ -15206,3 +15206,10 @@ mjekërshkurtër | adj | short-bearded
 miljak | noun | leveret, young hare
 # ── k35.tsv ──
 mordhë | noun | chilblains
+# ── k36.tsv ──
+muzat | noun | young bull
+musandër | noun | wall cupboard for bedding
+mushterek | noun | partner (in business)
+must | noun | must (new wine)
+murmurimë | noun | grumbling, murmuring | murmuritje
+mushë | noun | medlar | mushmollë
