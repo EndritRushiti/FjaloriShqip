@@ -14997,3 +14997,21 @@ zihe | noun | chickpea
 zikeq | noun | glutton
 ziem | verb | to boil (intransitive)
 zorrobinë | noun | something very long and thin
+# ── k12.tsv ──
+zotohem | verb | to pledge oneself, to promise
+zushtra | noun | whims, caprices
+zharavit | verb | to splash, to soak
+zhuku | noun | rush, reed
+zhuzhë | noun | greasy leftovers
+zhuljatë | noun | crushing, breaking
+zhytem | verb | to dive, to sink
+zhytëkryekuqe | noun | kind of red-headed wild duck
+thahem | verb | to dry up, to wither
+thekem | verb | to be toasted
+thellëzë | noun | partridge
+therë | noun | thistle
+thilë | noun | noose, loop
+thinj | verb | to turn grey
+thuthak | noun | lisper
+thumbuloj | verb | to bend into a hook
+thurem | verb | to be fenced; to be woven
