@@ -419,3 +419,9 @@ ciegull | tjegull | alternative
 cjetull | sqetull | alternative
 kimçë | xinxife | alternative
 çudiçim | çuditshëm | alternative
+çpaguaj | shpaguaj | alternative
+çpejtoj | shpejtoj | alternative
+çpengoj | shpengoj | alternative
+çpërndaj | shpërndaj | alternative
+çpif | shpif | alternative
+çpifës | shpifës | alternative

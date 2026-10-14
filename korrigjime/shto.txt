@@ -15422,3 +15422,9 @@ kimçë | noun | jujube (fruit and tree) | xinxife
 # ── k70.tsv ──
 çkushëlluem | adj | disconsolate, inconsolable
 çudiçim | adj | wonderful, astonishing | çuditshëm
+çpaguaj | verb | to repay, to reward; to avenge | shpaguaj
+çpejtoj | verb | to hasten | shpejtoj
+çpengoj | verb | to redeem (a pledge) | shpengoj
+çpërndaj | verb | to distribute, to scatter | shpërndaj
+çpif | verb | to slander; to invent | shpif
+çpifës | noun | slanderer | shpifës
