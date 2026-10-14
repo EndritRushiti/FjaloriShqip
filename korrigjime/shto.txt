@@ -15225,3 +15225,6 @@ ndëgjueshëm | adj | obedient | dëgjueshëm
 # ── k40.tsv ──
 ndryshkull | noun | lock of a door
 nejë | noun | joint, knot | nyjë
+# ── k41.tsv ──
+okatar | adj | holding or weighing one oka
+oklaj | noun | rolling pin | oklla
