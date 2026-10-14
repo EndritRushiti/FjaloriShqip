@@ -14986,3 +14986,14 @@ elbishtë | noun | barley field
 elbtë | adj | of barley
 dymbëdhetë | num | twelve | dymbëdhjetë
 xhixhoj | verb | to sparkle | xixëlloj
+# ── k11.tsv ──
+ëndem | verb | to blossom (old word)
+zamër | noun | late afternoon
+zbrudh | noun | wrinkle (old word)
+zahar | noun | sugar (old loanword)
+zemërohem | verb | to get angry
+zemërpërvëluar | adj | deeply grieved
+zihe | noun | chickpea
+zikeq | noun | glutton
+ziem | verb | to boil (intransitive)
+zorrobinë | noun | something very long and thin
