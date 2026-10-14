@@ -15165,3 +15165,11 @@ qitarë | noun | kithara, lyre
 qindë | noun | measure of weight of one hundred drams
 qytetëzoj | verb | to civilize | qytetëroj
 qytetëzim | noun | civilization | qytetërim
+# ── k25.tsv ──
+lapushë | noun | kind of greens with heart-shaped leaves
+llokoçis | verb | to stir up (water), to slosh
+lagështoj | verb | to moisten, to wet
+lajëtar | noun | washer, one who washes
+lajmës | noun | messenger, envoy
+logari | noun | account, reckoning | llogari
+lagen | noun | basin, washbowl | legen

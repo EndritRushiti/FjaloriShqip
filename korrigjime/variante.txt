@@ -285,3 +285,5 @@ kucimtar | guximtar | alternative
 kritmë | krismë | alternative
 qytetëzoj | qytetëroj | alternative
 qytetëzim | qytetërim | alternative
+logari | llogari | alternative
+lagen | legen | alternative
