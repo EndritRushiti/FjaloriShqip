@@ -15098,3 +15098,14 @@ komtë | adj | of horsehair
 kopatë | noun | flock of birds
 kopitse | noun | kind of hoe
 kombisht | noun | peach | pjeshkë
+# ── k19.tsv ──
+kordhëz | noun | cord; plaited roast intestines
+koretë | noun | chicory
+korkosur | noun | chatterbox
+kosis | verb | to mow with a scythe
+kostër | noun | large scythe
+kotërr | noun | buffalo calf
+kotorre | noun | female buffalo calf
+kotçi | noun | carriage, cart
+kotsimare | noun | pine cone
+kuboj | verb | to steal secretly
