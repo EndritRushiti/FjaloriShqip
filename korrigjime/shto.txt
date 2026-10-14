@@ -15371,3 +15371,8 @@ tumbak | noun | tombac, a yellow alloy of copper and zinc
 torraçile | noun | wheel | rrotë
 torrovile | noun | wheel | rrotë
 turpshim | adj | shameful; bashful | turpshëm
+tutulatem | verb | to calm down, to stop crying | qetësohem
+trathtoj | verb | to betray | tradhtoj
+trathtim | noun | betrayal, treason | tradhti
+trathtor | noun | traitor | tradhtar
+trantafil | noun | rose | trëndafil
