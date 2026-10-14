@@ -15300,3 +15300,12 @@ zdruk | noun | plane (carpenter's tool)
 zdrugoj | verb | to plane (boards)
 zgjishem | verb | to be untied | zgjidhem
 zgjurë | noun | slag, dross | zgjyrë
+# ── k52.tsv ──
+serrik | noun | long hair at the back of a woman's head
+# ── k53.tsv ──
+skjimatar | noun | lover of finery, fop
+sitsili | pron | each one | secili
+skilje | noun | bitch, female dog | kone
+skllavos | verb | to enslave | skllavëroj
+skllap | noun | slave | skllav
+skjimë | noun | ornament, finery | stoli
