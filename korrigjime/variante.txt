@@ -317,3 +317,4 @@ përgjonjës | përgjues | alternative
 përdhëlej | mëshiroj | alternative
 përdhëlesë | mëshirë | alternative
 përzjej | përziej | alternative
+përmbishkronjë | mbishkrim | alternative

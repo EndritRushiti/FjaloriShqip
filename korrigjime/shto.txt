@@ -15265,3 +15265,4 @@ përgjonjës | noun | spy, eavesdropper | përgjues
 përdhëlej | verb | to pity, to have mercy | mëshiroj
 përdhëlesë | noun | mercy | mëshirë
 përzjej | verb | to mix | përziej
+përmbishkronjë | noun | inscription | mbishkrim
