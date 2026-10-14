@@ -287,3 +287,5 @@ qytetëzoj | qytetëroj | alternative
 qytetëzim | qytetërim | alternative
 logari | llogari | alternative
 lagen | legen | alternative
+mbjel | mjel | alternative
+mbrazët | zbrazët | alternative
