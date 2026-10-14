@@ -15270,3 +15270,6 @@ përshkjoj | verb | to discern, to examine | shqyrtoj
 përçapem | verb | to ruminate | përtypem
 përshfaq | verb | to reveal, to show | shfaq
 përhirohem | verb | to be consecrated | shenjtërohem
+peshkator | noun | fisherman | peshkatar
+pianec | noun | drunkard | pijanec
+piesëtar | noun | partner, participant | pjesëtar

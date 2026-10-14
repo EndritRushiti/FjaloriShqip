@@ -322,3 +322,6 @@ përshkjoj | shqyrtoj | alternative
 përçapem | përtypem | alternative
 përshfaq | shfaq | alternative
 përhirohem | shenjtërohem | alternative
+peshkator | peshkatar | alternative
+pianec | pijanec | alternative
+piesëtar | pjesëtar | alternative
