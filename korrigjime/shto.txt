@@ -15309,3 +15309,6 @@ skilje | noun | bitch, female dog | kone
 skllavos | verb | to enslave | skllavëroj
 skllap | noun | slave | skllav
 skjimë | noun | ornament, finery | stoli
+# ── k54.tsv ──
+surrilj | noun | spout of a jug
+spitë | noun | small skewer
