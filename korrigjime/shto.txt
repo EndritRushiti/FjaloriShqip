@@ -15331,3 +15331,6 @@ shkjelm | noun | kick | shqelm
 shkjelb | noun | kick | shqelm
 shkjepar | noun | adze | sqepar
 shkjep | verb | to unstitch | shqep
+shkjip | adv | in Albanian | shqip
+shkjiptar | noun | Albanian | shqiptar
+shkjype | noun | eagle | shqiponjë

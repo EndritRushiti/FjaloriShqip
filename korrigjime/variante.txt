@@ -354,3 +354,6 @@ shkjelm | shqelm | alternative
 shkjelb | shqelm | alternative
 shkjepar | sqepar | alternative
 shkjep | shqep | alternative
+shkjip | shqip | alternative
+shkjiptar | shqiptar | alternative
+shkjype | shqiponjë | alternative
