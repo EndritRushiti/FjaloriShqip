@@ -15318,3 +15318,5 @@ strombullar | noun | round stone with a hole
 sykjen | adj | dog-eyed; shameless
 sykjutë | adj | with fine eyes, good-looking
 syljar | adj | squint-eyed (mocking)
+# ── k56.tsv ──
+shahirak | noun | insulter, abusive person
