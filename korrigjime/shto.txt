@@ -15250,3 +15250,7 @@ parezoj | verb | to pair, to couple (animals)
 parezohem | verb | to be paired
 paljos | verb | to fold, to double | palos
 paradis | noun | paradise | parajsë
+# ── k45.tsv ──
+patorik | noun | eaves, roof edge
+pëqisë | noun | cake baked in the embers
+pelas | verb | to bray | pëllas
