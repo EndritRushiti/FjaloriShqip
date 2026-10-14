@@ -363,3 +363,5 @@ shtëmangem | shmangem | alternative
 shtypëshkronjë | shtypshkronjë | alternative
 shtypëshkronjës | shtypshkronjës | alternative
 taljurë | pjatë | alternative
+tapjetë | tatëpjetë | alternative
+tezor | thesar | alternative
