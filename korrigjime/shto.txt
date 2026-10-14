@@ -15181,3 +15181,5 @@ lesë | noun | harrow made of woven branches
 leshtar | adj | woolly, hairy
 # ── k29.tsv ──
 lopëzë | noun | little cow
+# ── k30.tsv ──
+madhështohem | verb | to be proud, to be haughty
