@@ -15398,3 +15398,19 @@ cvavitem | verb | to amuse oneself | zbavit
 cvath | verb | to take off (someone's) shoes | zbath
 cvardh | verb | to whiten; to dawn | zbardh
 cvërthej | verb | to unbutton, to undo | zbërthej
+cbraz | verb | to empty | zbraz
+cbres | verb | to descend, to go down | zbres
+cbukuroj | verb | to adorn, to decorate | zbukuroj
+cbuloj | verb | to uncover, to reveal | zbuloj
+cbulesë | noun | revelation | zbulesë
+cgjidh | verb | to untie, to solve | zgjidh
+cgjoj | verb | to wake (someone) | zgjoj
+cgjeroj | verb | to widen, to enlarge | zgjeroj
+cgjebe | noun | scabies | zgjebe
+cgjedhë | noun | yoke | zgjedhë
+cgjedh | verb | to choose | zgjedh
+cgjua | noun | beehive | zgjua
+cgjyrë | noun | slag, dross | zgjyrë
+cigaris | verb | to fry, to sizzle | cingaris
+ciegull | noun | roof tile | tjegull
+cjetull | noun | armpit | sqetull
