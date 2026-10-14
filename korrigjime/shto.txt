@@ -15266,3 +15266,7 @@ përdhëlej | verb | to pity, to have mercy | mëshiroj
 përdhëlesë | noun | mercy | mëshirë
 përzjej | verb | to mix | përziej
 përmbishkronjë | noun | inscription | mbishkrim
+përshkjoj | verb | to discern, to examine | shqyrtoj
+përçapem | verb | to ruminate | përtypem
+përshfaq | verb | to reveal, to show | shfaq
+përhirohem | verb | to be consecrated | shenjtërohem

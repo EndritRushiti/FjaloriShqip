@@ -318,3 +318,7 @@ përdhëlej | mëshiroj | alternative
 përdhëlesë | mëshirë | alternative
 përzjej | përziej | alternative
 përmbishkronjë | mbishkrim | alternative
+përshkjoj | shqyrtoj | alternative
+përçapem | përtypem | alternative
+përshfaq | shfaq | alternative
+përhirohem | shenjtërohem | alternative
