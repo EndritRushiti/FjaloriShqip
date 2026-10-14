@@ -15201,3 +15201,6 @@ mëngjisem | verb | to be treated, to undergo a cure
 mënoj | verb | to delay, to be slow
 mërzim | noun | shady resting place for flocks at noon | mriz
 mësonjëse | noun | teacher (woman) | mësuese
+# ── k34.tsv ──
+mjekërshkurtër | adj | short-bearded
+miljak | noun | leveret, young hare
