@@ -15441,3 +15441,6 @@ femijë | noun | family | familje
 firishtë | noun | place overgrown with ferns | fierishtë
 # ── k72.tsv ──
 fierishtë | noun | place overgrown with ferns
+flamburë | noun | flag, banner | flamur
+fllucke | noun | bubble | flluskë
+flyturij | verb | to snort (of a horse) | turfulloj

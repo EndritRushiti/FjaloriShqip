@@ -434,3 +434,6 @@ fëqinj | fqinj | alternative
 fëlej | mëkatoj | alternative
 femijë | familje | alternative
 firishtë | fierishtë | alternative
+flamburë | flamur | alternative
+fllucke | flluskë | alternative
+flyturij | turfulloj | alternative
