@@ -15392,3 +15392,9 @@ truelë | noun | auger, gimlet | turjelë
 turelë | noun | auger, gimlet | turjelë
 tymtore | noun | censer | temjanicë
 tfundoj | verb | to sink | fundos
+cverk | noun | nape of the neck | zverk
+cvol | noun | clod of earth | plis
+cvavitem | verb | to amuse oneself | zbavit
+cvath | verb | to take off (someone's) shoes | zbath
+cvardh | verb | to whiten; to dawn | zbardh
+cvërthej | verb | to unbutton, to undo | zbërthej
