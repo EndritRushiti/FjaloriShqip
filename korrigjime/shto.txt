@@ -15384,3 +15384,11 @@ trestilë | noun | fulling mill | dërstilë
 tristoj | verb | to startle, to frighten suddenly | trishtoj
 tristim | noun | sudden fright, tremor | trishtim
 trish | adv | threefold, triply | trefish
+truhem | verb | to pray, to beseech; to dedicate oneself | lutem
+truvull | adv | turbid, troubled | turbull
+truvulloj | verb | to make turbid, to trouble | turbulloj
+truvullim | noun | disturbance, turbidity | turbullim
+truelë | noun | auger, gimlet | turjelë
+turelë | noun | auger, gimlet | turjelë
+tymtore | noun | censer | temjanicë
+tfundoj | verb | to sink | fundos

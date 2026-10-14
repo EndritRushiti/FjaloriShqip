@@ -387,3 +387,11 @@ trestilë | dërstilë | alternative
 tristoj | trishtoj | alternative
 tristim | trishtim | alternative
 trish | trefish | alternative
+truhem | lutem | alternative
+truvull | turbull | alternative
+truvulloj | turbulloj | alternative
+truvullim | turbullim | alternative
+truelë | turjelë | alternative
+turelë | turjelë | alternative
+tymtore | temjanicë | alternative
+tfundoj | fundos | alternative
