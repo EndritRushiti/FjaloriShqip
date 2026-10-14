@@ -370,3 +370,6 @@ tendelinë | trëndelinë | alternative
 tër | ter | alternative
 tetposhtë | teposhtë | alternative
 tir | tjerr | alternative
+tmerim | tmerrim | alternative
+tmeroj | tmerroj | alternative
+torolec | karkalec | alternative

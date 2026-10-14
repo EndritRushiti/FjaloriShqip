@@ -15361,3 +15361,8 @@ tër | verb | to dry in the sun | ter
 tjetraz | adv | otherwise, differently
 tetposhtë | adv | downwards | teposhtë
 tir | verb | to spin (thread) | tjerr
+# ── k65.tsv ──
+tinar | noun | small wooden vat holding up to about fifty okas
+tmerim | noun | astonishment, terror | tmerrim
+tmeroj | verb | to astonish, to terrify | tmerroj
+torolec | noun | a small kind of locust | karkalec
