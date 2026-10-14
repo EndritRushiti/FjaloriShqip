@@ -15177,3 +15177,5 @@ lagen | noun | basin, washbowl | legen
 lashtoj | verb | to grow old, to age
 # ── k27.tsv ──
 lesë | noun | harrow made of woven branches
+# ── k28.tsv ──
+leshtar | adj | woolly, hairy
