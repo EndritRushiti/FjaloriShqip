@@ -15155,3 +15155,8 @@ kryemot | noun | new year
 kryeushtëtar | noun | commander in chief
 kryepesëdhjetës | noun | commander of fifty
 kritmë | noun | bang, crack | krismë
+# ── k23.tsv ──
+kryqazi | adv | crosswise, in the shape of a cross
+kyçenicë | noun | small lock, padlock
+qafëshkurtër | adj | short-necked
+qafëhollë | adj | thin-necked
