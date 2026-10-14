@@ -362,9 +362,11 @@ shpagesëtar | shpagues | alternative
 shtëmangem | shmangem | alternative
 shtypëshkronjë | shtypshkronjë | alternative
 shtypëshkronjës | shtypshkronjës | alternative
-taljurë | pjatë | alternative
+talurë | pjatë | alternative
 tapjetë | tatëpjetë | alternative
 tezor | thesar | alternative
 temon | timon | alternative
 tendelinë | trëndelinë | alternative
 tër | ter | alternative
+tetposhtë | teposhtë | alternative
+tir | tjerr | alternative
