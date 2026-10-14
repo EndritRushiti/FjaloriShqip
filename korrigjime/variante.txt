@@ -365,3 +365,6 @@ shtypëshkronjës | shtypshkronjës | alternative
 taljurë | pjatë | alternative
 tapjetë | tatëpjetë | alternative
 tezor | thesar | alternative
+temon | timon | alternative
+tendelinë | trëndelinë | alternative
+tër | ter | alternative

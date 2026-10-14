@@ -15352,3 +15352,8 @@ shtypëshkronjës | noun | printer | shtypshkronjës
 taljurë | noun | plate | pjatë
 tapjetë | noun | downward slope | tatëpjetë
 tezor | noun | treasure | thesar
+# ── k63.tsv ──
+tejmë | adj | lying beyond, on the far side
+temon | noun | rudder, helm | timon
+tendelinë | noun | a fragrant wild herb with yellow trefoil leaves | trëndelinë
+tër | verb | to dry in the sun | ter
