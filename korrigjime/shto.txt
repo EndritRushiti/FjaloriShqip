@@ -15289,3 +15289,5 @@ pshtymë | noun | spittle | pështymë
 pshtym | verb | to fumigate, to smoke | tymos
 rame | noun | copper | bakër
 ramtë | adj | of copper | bakërt
+reposh | adv | below, downward | përposh
+reshperoj | verb | to frequent, to visit often | vizitoj

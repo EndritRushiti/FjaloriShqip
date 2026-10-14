@@ -338,3 +338,5 @@ pshtymë | pështymë | alternative
 pshtym | tymos | alternative
 rame | bakër | alternative
 ramtë | bakërt | alternative
+reposh | përposh | alternative
+reshperoj | vizitoj | alternative
