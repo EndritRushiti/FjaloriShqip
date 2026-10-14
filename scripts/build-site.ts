@@ -734,6 +734,24 @@ function sameRoot(w: Word, skip: Set<string>): string[] {
   return (byRoot.get(rootWord(w.word)) ?? []).filter((x) => x !== w.word && !skip.has(x)).sort((a, b) => (byWord.get(b)?.frequency ?? 0) - (byWord.get(a)?.frequency ?? 0)).slice(0, 12);
 }
 
+/** Where the dialect books say a form is used: Kristoforidhi's region column, Jungg's Shkodër. */
+const placeOf = new Map<string, string>();
+{
+  const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
+  const dir = path.join(process.cwd(), "dialekte");
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["jungg-1895.tsv", "Shkodër"]] as const) {
+    const f = path.join(dir, file);
+    if (!fs.existsSync(f)) continue;
+    for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+      if (!line || line.startsWith("#")) continue;
+      const cols = line.split("\t");
+      const region = fixed || cols[7] || "";
+      const place = PLACE[region] ?? (/^[A-ZÇË][a-zçë]+$/.test(region) && region !== "Arbëresh" ? region : "");
+      if (place && !placeOf.has(cols[0])) placeOf.set(cols[0], place);
+    }
+  }
+}
+
 function sameMeaningCard(w: Word): string {
   const fam = family(w);
   const albanian = albanianAlternatives(w);
@@ -765,7 +783,9 @@ function sameMeaningCard(w: Word): string {
     if (fam.others.length) rows.push(row(bi("Fjalë të tjera me të njëjtin kuptim", "Other words with the same meaning"), fam.others.map((x) => chip(x)).join("")));
     for (const d of DIALECT_ORDER) {
       const forms = [...fam.dialects].filter(([, ds]) => ds.includes(d)).map(([f]) => f);
-      if (forms.length) rows.push(row(`<span class="dialect-dot ${d}"></span>${t(d)}`, forms.slice(0, 12).map((x) => chip(x, "", false)).join("")));
+      // the place (or old writer) a dialect book gives for the form: dinok (Krujë), agjnoj (Budi)
+      const place = (x: string) => (placeOf.has(x) ? `<small>${h(placeOf.get(x)!)}</small>` : "");
+      if (forms.length) rows.push(row(`<span class="dialect-dot ${d}"></span>${t(d)}`, forms.slice(0, 12).map((x) => chip(x, "", false).replace(/<\/(a|span)>$/, `${place(x)}</$1>`)).join("")));
     }
     if (fam.other.length) rows.push(row(bi("Për kuptimet e tjera", "For its other meanings"), fam.other.slice(0, 4).map((x) => chip(x, " also")).join("")));
   }
