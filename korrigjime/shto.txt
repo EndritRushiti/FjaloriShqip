@@ -15204,3 +15204,5 @@ mësonjëse | noun | teacher (woman) | mësuese
 # ── k34.tsv ──
 mjekërshkurtër | adj | short-bearded
 miljak | noun | leveret, young hare
+# ── k35.tsv ──
+mordhë | noun | chilblains
