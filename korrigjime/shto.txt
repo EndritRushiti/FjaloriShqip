@@ -15376,3 +15376,7 @@ trathtoj | verb | to betray | tradhtoj
 trathtim | noun | betrayal, treason | tradhti
 trathtor | noun | traitor | tradhtar
 trantafil | noun | rose | trëndafil
+# ── k67.tsv ──
+trashaluk | noun | stout, corpulent person
+trashëgesë | noun | inheritance | trashëgim
+tregjetar | noun | merchant | tregtar

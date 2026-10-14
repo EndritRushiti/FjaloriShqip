@@ -381,3 +381,5 @@ trathtoj | tradhtoj | alternative
 trathtim | tradhti | alternative
 trathtor | tradhtar | alternative
 trantafil | trëndafil | alternative
+trashëgesë | trashëgim | alternative
+tregjetar | tregtar | alternative
