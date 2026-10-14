@@ -357,3 +357,4 @@ shkjep | shqep | alternative
 shkjip | shqip | alternative
 shkjiptar | shqiptar | alternative
 shkjype | shqiponjë | alternative
+shkrumbazoj | shkrumboj | alternative

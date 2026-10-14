@@ -15334,3 +15334,4 @@ shkjep | verb | to unstitch | shqep
 shkjip | adv | in Albanian | shqip
 shkjiptar | noun | Albanian | shqiptar
 shkjype | noun | eagle | shqiponjë
+shkrumbazoj | verb | to scorch, to char | shkrumboj
