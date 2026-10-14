@@ -15070,3 +15070,15 @@ kreshmoj | verb | to keep the Lenten fast
 kërnallë | noun | ocean (old word)
 kërcëllij | verb | to grind one's teeth
 kërcu | noun | tree stump
+# ── k17.tsv ──
+kërrej | verb | to throw out (old word)
+kërrokull | noun | hip bone
+këshillohem | verb | to take counsel, to consult
+kështuthi | adv | just so, thus
+këtejmë | adj | of this side, from here
+kingjelë | noun | kind of grass
+kind | noun | hem, fold of a skirt
+kllaicë | noun | wooden door bolt
+klapë | noun | clod; dirt clotted in wool
+kisë | noun | church | kishë
+këtje | adv | over here | këtej
