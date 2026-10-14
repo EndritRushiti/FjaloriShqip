@@ -15414,3 +15414,5 @@ cgjyrë | noun | slag, dross | zgjyrë
 cigaris | verb | to fry, to sizzle | cingaris
 ciegull | noun | roof tile | tjegull
 cjetull | noun | armpit | sqetull
+# ── k68.tsv ──
+cimp | noun | pinch, nip
