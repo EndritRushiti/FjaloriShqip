@@ -328,3 +328,4 @@ piesëtar | pjesëtar | alternative
 plotskë | ploskë | alternative
 pjumb | plumb | alternative
 purteshë | përtesë | alternative
+pufkë | fshikë | alternative
