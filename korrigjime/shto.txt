@@ -15438,3 +15438,6 @@ fëgoj | verb | to run fast, to flee | vrapoj
 fëqinj | noun | neighbour | fqinj
 fëlej | verb | to sin, to err | mëkatoj
 femijë | noun | family | familje
+firishtë | noun | place overgrown with ferns | fierishtë
+# ── k72.tsv ──
+fierishtë | noun | place overgrown with ferns
