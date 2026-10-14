@@ -15428,3 +15428,5 @@ kimçë | noun | jujube (fruit and tree) | xinxife
 çpërndaj | verb | to distribute, to scatter | shpërndaj
 çpif | verb | to slander; to invent | shpif
 çpifës | noun | slanderer | shpifës
+fabë | noun | broad bean (shelled) | bathë
+falakë | noun | whip | kamxhik

@@ -425,3 +425,5 @@ kimçë | xinxife | alternative
 çpërndaj | shpërndaj | alternative
 çpif | shpif | alternative
 çpifës | shpifës | alternative
+fabë | bathë | alternative
+falakë | kamxhik | alternative
