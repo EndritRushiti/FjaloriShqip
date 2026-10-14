@@ -15179,3 +15179,5 @@ lashtoj | verb | to grow old, to age
 lesë | noun | harrow made of woven branches
 # ── k28.tsv ──
 leshtar | adj | woolly, hairy
+# ── k29.tsv ──
+lopëzë | noun | little cow
