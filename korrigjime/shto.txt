@@ -14969,3 +14969,20 @@ diorë | adj | burnt (old word)
 dorëshkresë | noun | manuscript | dorëshkrim
 dorëhapët | adj | generous, open-handed | dorëhapur
 djesëm | adj | of yesterday | djeshëm
+# ── k10.tsv ──
+dredhalak | noun | restless, unsteady person
+drejtohem | verb | to straighten up; to head (towards)
+dreqëri | noun | devilry, wickedness
+drëmë | noun | dram (old unit of weight)
+drithnajë | noun | grain market
+dritar | noun | light-bearer, luminary
+drobolli | noun | entrails of animals
+dyzetësh | noun | forty-para coin
+dyll | noun | wax, beeswax
+xixoj | verb | to sparkle
+xhokë | noun | tasselled woollen cloak
+egërsohem | verb | to grow wild, to become enraged
+elbishtë | noun | barley field
+elbtë | adj | of barley
+dymbëdhetë | num | twelve | dymbëdhjetë
+xhixhoj | verb | to sparkle | xixëlloj
