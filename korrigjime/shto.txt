@@ -15282,3 +15282,10 @@ purteshë | noun | laziness | përtesë
 pufkë | noun | bladder; blister | fshikë
 pretkosë | noun | frog | bretkosë
 psohem | verb | to learn; to get used to | mësohem
+pshtetem | verb | to lean on | mbështetem
+pshtjellë | noun | whirlwind | shakullinë
+pshtjellem | verb | to wrap oneself | mbështillem
+pshtymë | noun | spittle | pështymë
+pshtym | verb | to fumigate, to smoke | tymos
+rame | noun | copper | bakër
+ramtë | adj | of copper | bakërt

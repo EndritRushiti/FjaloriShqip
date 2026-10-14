@@ -331,3 +331,10 @@ purteshë | përtesë | alternative
 pufkë | fshikë | alternative
 pretkosë | bretkosë | alternative
 psohem | mësohem | alternative
+pshtetem | mbështetem | alternative
+pshtjellë | shakullinë | alternative
+pshtjellem | mbështillem | alternative
+pshtymë | pështymë | alternative
+pshtym | tymos | alternative
+rame | bakër | alternative
+ramtë | bakërt | alternative
