@@ -279,3 +279,6 @@ djesëm | djeshëm | alternative
 dymbëdhetë | dymbëdhjetë | alternative
 kapshatë | kafshatë | alternative
 kapshoj | kafshoj | alternative
+kuxim | guxim | alternative
+kucim | guxim | alternative
+kucimtar | guximtar | alternative

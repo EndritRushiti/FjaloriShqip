@@ -15126,3 +15126,18 @@ kumerkar | noun | customs officer
 kungohem | verb | to take communion
 kukë | noun | head | kokë
 kuqash | noun | ruddy man | kuqalash
+# ── k21.tsv ──
+kundërgjykës | noun | opponent at law, adversary
+kundrejtas | adv | opposite, face to face
+kundërfjalë | noun | contradiction, argument
+kundërformë | noun | counterpart, antitype
+kupatë | noun | collarbone
+kupi | noun | oar
+kursehem | verb | to economize, to be thrifty
+kurtinë | noun | curtain
+kusaroj | verb | to rob, to plunder
+kutë | noun | puppy, whelp
+kutrovë | noun | earthenware jug
+kuxim | noun | courage, daring | guxim
+kucim | noun | courage, daring | guxim
+kucimtar | noun | bold, daring person | guximtar
