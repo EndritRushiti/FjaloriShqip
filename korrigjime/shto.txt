@@ -15293,3 +15293,5 @@ reposh | adv | below, downward | përposh
 reshperoj | verb | to frequent, to visit often | vizitoj
 # ── k49.tsv ──
 rrjepës | noun | flayer, skinner
+# ── k50.tsv ──
+zgarfulloj | verb | to scratch
