@@ -15030,3 +15030,25 @@ kaboj | verb | to deceive (old word)
 jaft | adv | enough | mjaft
 jopingë | noun | opinga, peasant sandal | opingë
 kalakiqe | adv | piggyback | kaliqafë
+# ── k14.tsv ──
+kamastër | noun | pot-hanger over the hearth
+kamilë | noun | camel
+kamerie | noun | flower garden
+kanarë | noun | butcher's shop
+kaparos | verb | to pay a deposit
+kapitan | noun | captain
+kapoç | noun | turkey cock
+kapoçe | noun | turkey hen
+kaprë | noun | halter
+kaprollë | noun | female roe deer
+karantë | noun | ant (regional)
+karsej | verb | to run (old word)
+karshim | noun | running, race
+kërrusem | verb | to bend, to stoop
+kastrigë | noun | large striped snake
+katrosh | adv | in four, squarely
+katrorthatë | noun | tetrarch (coined word)
+kapshatë | noun | mouthful, bite | kafshatë
+kapshoj | verb | to bite | kafshoj
+katragjyshe | noun | great-great-grandmother | stërgjyshe
+kars | adj | stubborn, contrary | kokëfortë

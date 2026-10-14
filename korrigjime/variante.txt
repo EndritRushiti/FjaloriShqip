@@ -277,3 +277,5 @@ dorëshkresë | dorëshkrim | alternative
 dorëhapët | dorëhapur | alternative
 djesëm | djeshëm | alternative
 dymbëdhetë | dymbëdhjetë | alternative
+kapshatë | kafshatë | alternative
+kapshoj | kafshoj | alternative
