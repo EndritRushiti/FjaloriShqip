@@ -289,3 +289,4 @@ logari | llogari | alternative
 lagen | legen | alternative
 mbjel | mjel | alternative
 mbrazët | zbrazët | alternative
+mezatar | mesatar | alternative
