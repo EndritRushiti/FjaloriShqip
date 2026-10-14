@@ -282,3 +282,4 @@ kapshoj | kafshoj | alternative
 kuxim | guxim | alternative
 kucim | guxim | alternative
 kucimtar | guximtar | alternative
+kritmë | krismë | alternative

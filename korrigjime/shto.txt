@@ -15141,3 +15141,17 @@ kutrovë | noun | earthenware jug
 kuxim | noun | courage, daring | guxim
 kucim | noun | courage, daring | guxim
 kucimtar | noun | bold, daring person | guximtar
+# ── k22.tsv ──
+kreshpëroj | verb | to bristle (of an animal's hair)
+krihem | verb | to comb oneself
+kromë | noun | leprosy; scabies
+kruhem | verb | to scratch oneself
+kryebardhë | adj | white-headed
+kryedhjetës | noun | decurion, commander of ten
+kryekindës | noun | centurion, commander of a hundred
+kryeluftëtar | noun | war chief, polemarch
+kryemijës | noun | commander of a thousand
+kryemot | noun | new year
+kryeushtëtar | noun | commander in chief
+kryepesëdhjetës | noun | commander of fifty
+kritmë | noun | bang, crack | krismë
