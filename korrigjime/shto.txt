@@ -15060,3 +15060,13 @@ kthjellohem | verb | to clear up; to sober up
 kallas | verb | to put in; to bury
 kalbokje | noun | gob of phlegm
 kacurrel | noun | ringlet, curl | kaçurrel
+# ── k16.tsv ──
+këp | verb | to carve stone, to chisel
+këputem | verb | to be exhausted; to snap
+këpucatar | noun | matchmaker
+kërbishtje | noun | small of the back
+kërrut | adj | hunched with age
+kreshmoj | verb | to keep the Lenten fast
+kërnallë | noun | ocean (old word)
+kërcëllij | verb | to grind one's teeth
+kërcu | noun | tree stump
