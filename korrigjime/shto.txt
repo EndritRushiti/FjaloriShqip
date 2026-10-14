@@ -15430,3 +15430,7 @@ kimçë | noun | jujube (fruit and tree) | xinxife
 çpifës | noun | slanderer | shpifës
 fabë | noun | broad bean (shelled) | bathë
 falakë | noun | whip | kamxhik
+# ── k71.tsv ──
+fanitem | verb | to appear as a vision or ghost
+farmakoj | verb | to poison | helmoj
+fatakeq | adj | unlucky, unfortunate | fatkeq
