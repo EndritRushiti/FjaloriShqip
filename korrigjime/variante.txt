@@ -362,3 +362,4 @@ shpagesëtar | shpagues | alternative
 shtëmangem | shmangem | alternative
 shtypëshkronjë | shtypshkronjë | alternative
 shtypëshkronjës | shtypshkronjës | alternative
+taljurë | pjatë | alternative

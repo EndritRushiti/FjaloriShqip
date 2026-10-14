@@ -15349,3 +15349,4 @@ shtëragatë | noun | heavy sudden downpour
 shtypshkronjës | noun | printer, typographer
 shtypëshkronjë | noun | printing house | shtypshkronjë
 shtypëshkronjës | noun | printer | shtypshkronjës
+taljurë | noun | plate | pjatë
