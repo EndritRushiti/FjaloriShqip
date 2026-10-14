@@ -15194,3 +15194,8 @@ mbarësoj | verb | to set right, to make prosper
 mbjel | verb | to milk | mjel
 mbrazët | adj | empty | zbrazët
 mezatar | noun | middle one; middle child | mesatar
+# ── k33.tsv ──
+mekem | verb | to faint, to lose one's senses
+mëngjis | verb | to treat, to heal (medically)
+mëngjisem | verb | to be treated, to undergo a cure
+mënoj | verb | to delay, to be slow
