@@ -15444,3 +15444,5 @@ fierishtë | noun | place overgrown with ferns
 flamburë | noun | flag, banner | flamur
 fllucke | noun | bubble | flluskë
 flyturij | verb | to snort (of a horse) | turfulloj
+frashule | noun | bean(s) | fasule
+frasule | noun | bean(s) | fasule

@@ -437,3 +437,5 @@ firishtë | fierishtë | alternative
 flamburë | flamur | alternative
 fllucke | flluskë | alternative
 flyturij | turfulloj | alternative
+frashule | fasule | alternative
+frasule | fasule | alternative
