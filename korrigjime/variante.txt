@@ -350,3 +350,7 @@ skjimë | stoli | alternative
 shijë | shije | alternative
 shigjetonj | shigjetoj | alternative
 shkarkonj | shkarkoj | alternative
+shkjelm | shqelm | alternative
+shkjelb | shqelm | alternative
+shkjepar | sqepar | alternative
+shkjep | shqep | alternative

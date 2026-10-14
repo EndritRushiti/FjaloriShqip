@@ -15327,3 +15327,7 @@ shigjetonj | verb | to shoot arrows | shigjetoj
 # ── k58.tsv ──
 shkëndij | verb | to give off sparks
 shkarkonj | verb | to unload | shkarkoj
+shkjelm | noun | kick | shqelm
+shkjelb | noun | kick | shqelm
+shkjepar | noun | adze | sqepar
+shkjep | verb | to unstitch | shqep
