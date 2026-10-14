@@ -298,3 +298,5 @@ mpshehurazi | fshehurazi | alternative
 ndëgjueshëm | dëgjueshëm | alternative
 nejë | nyjë | alternative
 oklaj | oklla | alternative
+ulishtë | ullishtë | alternative
+ungjillzoj | ungjillëzoj | alternative

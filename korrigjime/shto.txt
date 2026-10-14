@@ -15228,3 +15228,9 @@ nejë | noun | joint, knot | nyjë
 # ── k41.tsv ──
 okatar | adj | holding or weighing one oka
 oklaj | noun | rolling pin | oklla
+# ── k42.tsv ──
+ulësi | noun | lowness, humility
+uljok | noun | cripple, disabled person
+ulmet | verb | to moisten
+ulishtë | noun | olive grove | ullishtë
+ungjillzoj | verb | to evangelize | ungjillëzoj
