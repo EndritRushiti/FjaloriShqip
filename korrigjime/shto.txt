@@ -15338,3 +15338,6 @@ shkrumbazoj | verb | to scorch, to char | shkrumboj
 # ── k59.tsv ──
 shortare | noun | fortune-teller (woman)
 shpagesëtar | noun | one who repays, rewarder | shpagues
+# ── k60.tsv ──
+shpris | verb | to tear one's clothes (in mourning)
+shprokë | noun | four-tongued dragon (folklore)
