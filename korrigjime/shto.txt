@@ -15183,3 +15183,8 @@ leshtar | adj | woolly, hairy
 lopëzë | noun | little cow
 # ── k30.tsv ──
 madhështohem | verb | to be proud, to be haughty
+# ── k31.tsv ──
+mallkesë | noun | curse; excommunication
+malcim | noun | irritation, inflammation (of a wound)
+malcoj | verb | to irritate, to inflame (a wound)
+manallë | noun | large candlestand in a church
