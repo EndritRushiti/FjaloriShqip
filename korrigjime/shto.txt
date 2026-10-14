@@ -15341,3 +15341,6 @@ shpagesëtar | noun | one who repays, rewarder | shpagues
 # ── k60.tsv ──
 shpris | verb | to tear one's clothes (in mourning)
 shprokë | noun | four-tongued dragon (folklore)
+# ── k61.tsv ──
+shtjelluke | noun | roll of wool ready for spinning
+shtëmangem | verb | to step aside | shmangem
