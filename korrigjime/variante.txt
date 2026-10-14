@@ -311,3 +311,9 @@ paradis | parajsë | alternative
 pelas | pëllas | alternative
 përarim | prarim | alternative
 përbetoj | betoj | alternative
+përgjeroj | betoj | alternative
+përgjerohem | betohem | alternative
+përgjonjës | përgjues | alternative
+përdhëlej | mëshiroj | alternative
+përdhëlesë | mëshirë | alternative
+përzjej | përziej | alternative

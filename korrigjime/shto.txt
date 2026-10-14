@@ -15259,3 +15259,9 @@ penxë | noun | kind of silver coin
 përbe | verb | to make swear an oath
 përarim | noun | gilding | prarim
 përbetoj | verb | to make someone swear | betoj
+përgjeroj | verb | to make swear; to conjure | betoj
+përgjerohem | verb | to swear an oath | betohem
+përgjonjës | noun | spy, eavesdropper | përgjues
+përdhëlej | verb | to pity, to have mercy | mëshiroj
+përdhëlesë | noun | mercy | mëshirë
+përzjej | verb | to mix | përziej
