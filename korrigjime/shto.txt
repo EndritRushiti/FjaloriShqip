@@ -15335,3 +15335,5 @@ shkjip | adv | in Albanian | shqip
 shkjiptar | noun | Albanian | shqiptar
 shkjype | noun | eagle | shqiponjë
 shkrumbazoj | verb | to scorch, to char | shkrumboj
+# ── k59.tsv ──
+shortare | noun | fortune-teller (woman)
