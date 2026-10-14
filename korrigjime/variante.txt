@@ -290,3 +290,5 @@ lagen | legen | alternative
 mbjel | mjel | alternative
 mbrazët | zbrazët | alternative
 mezatar | mesatar | alternative
+mërzim | mriz | alternative
+mësonjëse | mësuese | alternative
