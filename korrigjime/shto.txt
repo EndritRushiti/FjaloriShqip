@@ -15173,3 +15173,5 @@ lajëtar | noun | washer, one who washes
 lajmës | noun | messenger, envoy
 logari | noun | account, reckoning | llogari
 lagen | noun | basin, washbowl | legen
+# ── k26.tsv ──
+lashtoj | verb | to grow old, to age
