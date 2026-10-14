@@ -15337,3 +15337,4 @@ shkjype | noun | eagle | shqiponjë
 shkrumbazoj | verb | to scorch, to char | shkrumboj
 # ── k59.tsv ──
 shortare | noun | fortune-teller (woman)
+shpagesëtar | noun | one who repays, rewarder | shpagues
