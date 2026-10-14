@@ -15109,3 +15109,20 @@ kotorre | noun | female buffalo calf
 kotçi | noun | carriage, cart
 kotsimare | noun | pine cone
 kuboj | verb | to steal secretly
+# ── k20.tsv ──
+kujtohem | verb | to remember, to recall
+kukël | noun | corncockle (weed in wheat)
+kukubrik | noun | evil spirit, vampire (folk belief)
+kuqem | verb | to turn red, to blush
+kuqalash | noun | ruddy-faced man
+kuqaleshë | noun | ruddy-faced woman
+kuqëlit | verb | to make reddish
+kullohem | verb | to be strained
+kullar | noun | curved iron or wooden collar
+kullostër | noun | colostrum, beestings
+kulpë | noun | kind of tree
+kumerk | noun | customs house (old word)
+kumerkar | noun | customs officer
+kungohem | verb | to take communion
+kukë | noun | head | kokë
+kuqash | noun | ruddy man | kuqalash
