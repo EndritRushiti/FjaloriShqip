@@ -15234,3 +15234,11 @@ uljok | noun | cripple, disabled person
 ulmet | verb | to moisten
 ulishtë | noun | olive grove | ullishtë
 ungjillzoj | verb | to evangelize | ungjillëzoj
+# ── k43.tsv ──
+pagëmarrës | noun | avenger
+ushkjej | verb | to feed, to nourish | ushqej
+ushkjim | noun | food, nourishment | ushqim
+pagëdhënës | noun | payer | paguës
+pagëdhënie | noun | repayment, reward | shpagim
+pagëzimtar | noun | one who baptizes | pagëzues
+pakujdesëm | adj | careless | pakujdesshëm

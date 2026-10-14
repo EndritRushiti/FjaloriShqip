@@ -300,3 +300,9 @@ nejë | nyjë | alternative
 oklaj | oklla | alternative
 ulishtë | ullishtë | alternative
 ungjillzoj | ungjillëzoj | alternative
+ushkjej | ushqej | alternative
+ushkjim | ushqim | alternative
+pagëdhënës | paguës | alternative
+pagëdhënie | shpagim | alternative
+pagëzimtar | pagëzues | alternative
+pakujdesëm | pakujdesshëm | alternative
