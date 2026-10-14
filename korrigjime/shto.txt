@@ -15213,3 +15213,7 @@ mushterek | noun | partner (in business)
 must | noun | must (new wine)
 murmurimë | noun | grumbling, murmuring | murmuritje
 mushë | noun | medlar | mushmollë
+# ── k37.tsv ──
+mykem | verb | to go mouldy
+naprani | noun | common person, layman
+mpshehurazi | adv | secretly | fshehurazi
