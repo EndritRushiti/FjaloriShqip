@@ -15312,3 +15312,9 @@ skjimë | noun | ornament, finery | stoli
 # ── k54.tsv ──
 surrilj | noun | spout of a jug
 spitë | noun | small skewer
+# ── k55.tsv ──
+strokë | noun | scab, mange (in animals)
+strombullar | noun | round stone with a hole
+sykjen | adj | dog-eyed; shameless
+sykjutë | adj | with fine eyes, good-looking
+syljar | adj | squint-eyed (mocking)
