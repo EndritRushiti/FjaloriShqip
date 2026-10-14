@@ -15217,3 +15217,5 @@ mushë | noun | medlar | mushmollë
 mykem | verb | to go mouldy
 naprani | noun | common person, layman
 mpshehurazi | adv | secretly | fshehurazi
+# ── k38.tsv ──
+ngej | verb | to have time, to be free
