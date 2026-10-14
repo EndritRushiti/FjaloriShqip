@@ -15366,3 +15366,8 @@ tinar | noun | small wooden vat holding up to about fifty okas
 tmerim | noun | astonishment, terror | tmerrim
 tmeroj | verb | to astonish, to terrify | tmerroj
 torolec | noun | a small kind of locust | karkalec
+# ── k66.tsv ──
+tumbak | noun | tombac, a yellow alloy of copper and zinc
+torraçile | noun | wheel | rrotë
+torrovile | noun | wheel | rrotë
+turpshim | adj | shameful; bashful | turpshëm

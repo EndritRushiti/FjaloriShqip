@@ -373,3 +373,6 @@ tir | tjerr | alternative
 tmerim | tmerrim | alternative
 tmeroj | tmerroj | alternative
 torolec | karkalec | alternative
+torraçile | rrotë | alternative
+torrovile | rrotë | alternative
+turpshim | turpshëm | alternative
