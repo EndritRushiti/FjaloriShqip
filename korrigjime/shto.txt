@@ -15015,3 +15015,18 @@ thinj | verb | to turn grey
 thuthak | noun | lisper
 thumbuloj | verb | to bend into a hook
 thurem | verb | to be fenced; to be woven
+# ── k13.tsv ──
+idhem | verb | to grieve, to become embittered
+ikra | noun | fish roe
+jetëmarrës | noun | taker of life
+kade | noun | wooden tub, small barrel
+kakërzogë | noun | frog
+kal | verb | to drive, to push (someone into)
+kallajtë | adj | made of tin
+kallamë | noun | reed thicket; maize stalks
+kallamishtë | noun | reed bed
+kalbem | verb | to rot, to decay
+kaboj | verb | to deceive (old word)
+jaft | adv | enough | mjaft
+jopingë | noun | opinga, peasant sandal | opingë
+kalakiqe | adv | piggyback | kaliqafë
