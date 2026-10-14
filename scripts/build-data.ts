@@ -877,6 +877,11 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     const family = all.get(l.word) ?? own;
     if (own < 1 || (family > 500 && own / family < (l.word.endsWith("j") ? 0.0005 : 0.005))) continue;
     if (!((wiki.get(l.word) ?? 0) >= 1 || (all.get(l.word) ?? 0) >= MIN_USE) || d.check(l.word) !== "new") continue;
+    // a word a dialect book already gave a meaning (added after the deduper was built) is known, not unverified
+    if (words.get(l.word)?.entries.some((e) => e.senses.length)) {
+      d.add(l.word);
+      continue;
+    }
     const w = getWord(l.word);
     w.unverified = true;
     w.frequency = Math.round(scaled.get(l.word) ?? 0);
