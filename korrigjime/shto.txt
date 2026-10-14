@@ -15188,3 +15188,6 @@ mallkesë | noun | curse; excommunication
 malcim | noun | irritation, inflammation (of a wound)
 malcoj | verb | to irritate, to inflame (a wound)
 manallë | noun | large candlestand in a church
+# ── k32.tsv ──
+mareshtë | noun | place overgrown with strawberry trees
+mbarësoj | verb | to set right, to make prosper
