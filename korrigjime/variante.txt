@@ -429,3 +429,7 @@ fabë | bathë | alternative
 falakë | kamxhik | alternative
 farmakoj | helmoj | alternative
 fatakeq | fatkeq | alternative
+fëgoj | vrapoj | alternative
+fëqinj | fqinj | alternative
+fëlej | mëkatoj | alternative
+femijë | familje | alternative

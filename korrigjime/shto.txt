@@ -15434,3 +15434,7 @@ falakë | noun | whip | kamxhik
 fanitem | verb | to appear as a vision or ghost
 farmakoj | verb | to poison | helmoj
 fatakeq | adj | unlucky, unfortunate | fatkeq
+fëgoj | verb | to run fast, to flee | vrapoj
+fëqinj | noun | neighbour | fqinj
+fëlej | verb | to sin, to err | mëkatoj
+femijë | noun | family | familje
