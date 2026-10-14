@@ -15418,3 +15418,4 @@ cjetull | noun | armpit | sqetull
 cimp | noun | pinch, nip
 # ── k69.tsv ──
 prashit | verb | to hoe (the soil) a second time
+kimçë | noun | jujube (fruit and tree) | xinxife
