@@ -330,3 +330,4 @@ pjumb | plumb | alternative
 purteshë | përtesë | alternative
 pufkë | fshikë | alternative
 pretkosë | bretkosë | alternative
+psohem | mësohem | alternative
