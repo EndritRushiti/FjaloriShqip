@@ -15052,3 +15052,11 @@ kapshatë | noun | mouthful, bite | kafshatë
 kapshoj | verb | to bite | kafshoj
 katragjyshe | noun | great-great-grandmother | stërgjyshe
 kars | adj | stubborn, contrary | kokëfortë
+# ── k15.tsv ──
+kacmil | noun | lame or stunted person
+kacile | noun | woven basket
+kedhe | noun | female kid (goat)
+kthjellohem | verb | to clear up; to sober up
+kallas | verb | to put in; to bury
+kalbokje | noun | gob of phlegm
+kacurrel | noun | ringlet, curl | kaçurrel
