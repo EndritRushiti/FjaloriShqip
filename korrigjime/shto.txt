@@ -15175,3 +15175,5 @@ logari | noun | account, reckoning | llogari
 lagen | noun | basin, washbowl | legen
 # ── k26.tsv ──
 lashtoj | verb | to grow old, to age
+# ── k27.tsv ──
+lesë | noun | harrow made of woven branches
