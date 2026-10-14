@@ -383,3 +383,7 @@ trathtor | tradhtar | alternative
 trantafil | trëndafil | alternative
 trashëgesë | trashëgim | alternative
 tregjetar | tregtar | alternative
+trestilë | dërstilë | alternative
+tristoj | trishtoj | alternative
+tristim | trishtim | alternative
+trish | trefish | alternative

@@ -15380,3 +15380,7 @@ trantafil | noun | rose | trëndafil
 trashaluk | noun | stout, corpulent person
 trashëgesë | noun | inheritance | trashëgim
 tregjetar | noun | merchant | tregtar
+trestilë | noun | fulling mill | dërstilë
+tristoj | verb | to startle, to frighten suddenly | trishtoj
+tristim | noun | sudden fright, tremor | trishtim
+trish | adv | threefold, triply | trefish
