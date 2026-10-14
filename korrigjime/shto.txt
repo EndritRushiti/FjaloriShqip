@@ -15344,3 +15344,5 @@ shprokë | noun | four-tongued dragon (folklore)
 # ── k61.tsv ──
 shtjelluke | noun | roll of wool ready for spinning
 shtëmangem | verb | to step aside | shmangem
+# ── k62.tsv ──
+shtëragatë | noun | heavy sudden downpour
