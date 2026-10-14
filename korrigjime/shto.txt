@@ -15222,3 +15222,6 @@ ngej | verb | to have time, to be free
 # ── k39.tsv ──
 ngordhak | noun | weakling, half-dead person (mocking)
 ndëgjueshëm | adj | obedient | dëgjueshëm
+# ── k40.tsv ──
+ndryshkull | noun | lock of a door
+nejë | noun | joint, knot | nyjë
