@@ -15160,3 +15160,6 @@ kryqazi | adv | crosswise, in the shape of a cross
 kyçenicë | noun | small lock, padlock
 qafëshkurtër | adj | short-necked
 qafëhollë | adj | thin-necked
+# ── k24.tsv ──
+qitarë | noun | kithara, lyre
+qindë | noun | measure of weight of one hundred drams
