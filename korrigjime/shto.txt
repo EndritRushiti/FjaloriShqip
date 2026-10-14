@@ -14916,3 +14916,27 @@ gjakëse | noun | murderess
 gushak | noun | glutton | grykës
 gufmoj | verb | to swell, to puff up | gufoj
 gramësij | verb | to belch | gromësij
+# ── k7.tsv ──
+gëzohem | verb | to rejoice, to be glad
+gjasëm | adj | becoming, fitting
+gjashtëzajt | adv | in six ways
+gjelbërohem | verb | to turn green
+gjelinj | verb | to feed oneself, to live (old word)
+gjemëmadhe | noun | ill-fated woman
+gjembgomari | noun | donkey thistle
+gjerboj | verb | to drip, to leak
+gjerdishtë | noun | tree with olive-like leaves
+gjetkëzë | noun | trap for wild animals
+gjehenë | noun | hell, Gehenna
+gjizar | noun | cheese-maker's helper
+gjithazi | adv | generally, wholly
+gjumashë | noun | sleepyhead
+gjumëmadh | adj | heavy sleeper
+gjumëlehtë | adj | light sleeper
+dhëndërroj | verb | to become a bridegroom
+dhapën | noun | expense; waste
+dhedie | noun | geology (coined word)
+dheditur | noun | geologist (coined word)
+dheth | noun | small clod of earth
+gjashtëmbëdhetë | num | sixteen | gjashtëmbëdhjetë
+gjinestër | noun | broom (plant) | gjineshtër

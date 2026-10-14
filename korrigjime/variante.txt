@@ -271,3 +271,5 @@ bulqësi | bujqësi | alternative
 gërqisht | greqisht | alternative
 gërnjic | grindavec | alternative
 gomarkë | gomaricë | alternative
+gjashtëmbëdhetë | gjashtëmbëdhjetë | alternative
+gjinestër | gjineshtër | alternative
