@@ -14940,3 +14940,22 @@ dheditur | noun | geologist (coined word)
 dheth | noun | small clod of earth
 gjashtëmbëdhetë | num | sixteen | gjashtëmbëdhjetë
 gjinestër | noun | broom (plant) | gjineshtër
+# ── k8.tsv ──
+dhemballë | noun | molar tooth
+dhemëz | noun | clothes moth
+dheshkresë | noun | geography (coined word)
+dheshkrues | noun | geographer (coined word)
+dhjetësh | noun | ten-para coin
+dhiplar | noun | big, bulky man
+dëgdis | verb | to hand over, to deliver
+dehmarak | noun | drunkard
+dendoj | verb | to thicken, to make dense
+dërgjur | adj | lying in after childbirth
+dërstilë | noun | fulling mill
+dërrmi | noun | crumbs, fragments
+dërrmohem | verb | to be crushed; to be exhausted
+dëshpërohem | verb | to despair
+detyrohem | verb | to be obliged
+dhikjel | noun | two-pronged hoe | dikel
+dathem | verb | to take off one's shoes | zbathem
+dërrudhë | noun | crumbs | thërrime
