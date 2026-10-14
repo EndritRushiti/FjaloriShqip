@@ -306,3 +306,5 @@ pagëdhënës | paguës | alternative
 pagëdhënie | shpagim | alternative
 pagëzimtar | pagëzues | alternative
 pakujdesëm | pakujdesshëm | alternative
+paljos | palos | alternative
+paradis | parajsë | alternative

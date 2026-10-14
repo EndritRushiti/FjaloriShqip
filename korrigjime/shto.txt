@@ -15242,3 +15242,11 @@ pagëdhënës | noun | payer | paguës
 pagëdhënie | noun | repayment, reward | shpagim
 pagëzimtar | noun | one who baptizes | pagëzues
 pakujdesëm | adj | careless | pakujdesshëm
+# ── k44.tsv ──
+paudhë | adj | lawless, unjust; the devil
+papjesë | adj | without a share; the devil
+paralindës | noun | firstborn
+parezoj | verb | to pair, to couple (animals)
+parezohem | verb | to be paired
+paljos | verb | to fold, to double | palos
+paradis | noun | paradise | parajsë
