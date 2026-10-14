@@ -15273,3 +15273,8 @@ përhirohem | verb | to be consecrated | shenjtërohem
 peshkator | noun | fisherman | peshkatar
 pianec | noun | drunkard | pijanec
 piesëtar | noun | partner, participant | pjesëtar
+# ── k48.tsv ──
+pleqësim | noun | decision of the elders
+plith | noun | unbaked brick
+plotskë | noun | flat wine flask | ploskë
+pjumb | noun | lead | plumb
