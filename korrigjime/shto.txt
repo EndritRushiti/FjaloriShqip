@@ -20528,3 +20528,317 @@ mutizëm | noun | mutism
 fletudhëzim | noun | instruction leaflet
 larmitet | noun | variety
 aleksandrian | adj | Alexandrian
+# ── m15.new.tsv ──
+kthyeshmëri | noun | reversibility, returnability
+bihevioral | adj | behavioural
+krahëthyer | adj | broken-winged
+fshamje | noun | sigh
+tramundanë | noun | tramontane wind
+fitoncid | noun | phytoncide
+similitudë | noun | similitude
+andaluz | adj | Andalusian
+hieratik | adj | hieratic
+agonizues | adj | agonizing
+perceptual | adj | perceptual
+kazual | adj | casual
+jungian | adj | Jungian
+klikueshëm | adj | clickable
+kontinuum | noun | continuum
+sociopatik | adj | sociopathic
+pakurueshëm | adj | incurable
+mirëadministrim | noun | good administration
+mosmenaxhim | noun | mismanagement
+kryestrateg | noun | chief strategist
+atraumatik | adj | atraumatic
+stromal | adj | stromal
+idolatrik | adj | idolatrous
+rekreacional | adj | recreational
+dozues | adj | dosing
+progestogjen | noun | progestogen
+sapomarrë | adj | newly received
+videothirrje | noun | video call
+pingulthi | adv | perpendicularly
+bojëqiell | adj | sky-blue
+makronutrient | noun | macronutrient
+shumësportesh | adj | multi-sport
+artroskopik | adj | arthroscopic
+artroskopi | noun | arthroscopy
+qeverim | noun | governance
+linearisht | adv | linearly
+rikthyeshëm | adj | returnable
+përthithshëm | adj | absorbable
+ritualor | adj | ritual
+hyjnishëm | adj | divine
+patrilinear | adj | patrilineal
+eurofil | adj | Europhile
+kartodrom | noun | karting track
+ekstrauterin | adj | extrauterine
+efikacitet | noun | efficacy
+orofacial | adj | orofacial
+vazomotor | adj | vasomotor
+katekistik | adj | catechistic
+folklorizant | adj | folklorizing
+vrulltazi | adv | impetuously
+megaqytet | noun | megacity
+komplotim | noun | plotting
+rusofon | adj | Russophone
+paleoballkanik | adj | Palaeo-Balkan
+limitrof | adj | bordering
+mekanistik | adj | mechanistic
+kampim | noun | camping
+mezolitik | adj | Mesolithic
+kurgan | noun | kurgan
+tigreshë | noun | tigress
+karatist | noun | karateka
+superlojtar | noun | superstar player
+klimatologjik | adj | climatological
+kryebajraktar | noun | chief standard-bearer
+osteopeni | noun | osteopenia
+komatoz | adj | comatose
+joalergjik | adj | non-allergenic
+nocional | adj | notional
+primarisht | adv | primarily
+inkarnacion | noun | incarnation
+robneshë | noun | slave woman
+kantilenë | noun | cantilena
+kryefajtor | noun | main culprit
+laboratorium | noun | laboratory
+mjekërrbardhë | adj | white-bearded
+sybukur | adj | beautiful-eyed
+subdural | adj | subdural
+pasjetues | adj | surviving
+konservans | noun | preservative
+kryezonjë | noun | first lady
+tëhuajsim | noun | alienation
+parakrishterë | adj | pre-Christian
+gurëgdhendës | noun | stonecutter
+transrektal | adj | transrectal
+teletekst | noun | teletext
+perceptiv | adj | perceptive
+mazokizëm | noun | masochism
+postdoktoraturë | noun | postdoctoral studies
+demonizim | noun | demonization
+konsumist | adj | consumerist
+kulturdashës | adj | culture-loving
+antropik | adj | anthropic
+vladikë | noun | bishop (Orthodox)
+cipëplasur | adj | shameless
+rrugëhumbur | adj | astray
+omniprezent | adj | omnipresent
+tenofovir | noun | tenofovir
+superministër | noun | super-minister
+kryeproblem | noun | main problem
+teleologji | noun | teleology
+mikrokirurgjikal | adj | microsurgical
+tripleks | noun | triplex
+ndëratlantik | adj | transatlantic
+ndërkonfesional | adj | interfaith
+rikalibrim | noun | recalibration
+basmati | noun | basmati
+klimatronik | noun | automatic climate control
+inaktivitet | noun | inactivity
+logopedist | noun | speech therapist
+planprojekt | noun | draft plan
+biomimetik | adj | biomimetic
+rrëshqitas | adv | slidingly
+menarkë | noun | menarche
+papërputhshmëri | noun | incompatibility
+narcizoid | adj | narcissistic
+inseminim | noun | insemination
+histerikisht | adv | hysterically
+solokëndim | noun | solo singing
+kuqebardhë | adj | red-and-white
+mjuzikëll | noun | musical
+inkubim | noun | incubation
+mashinist | noun | machinist
+oligopolistik | adj | oligopolistic
+joluftarak | adj | non-combat
+perioral | adj | perioral
+hipostazë | noun | hypostasis
+otomanist | noun | Ottomanist
+antihitlerian | adj | anti-Hitler
+intraabdominal | adj | intra-abdominal
+hedonistik | adj | hedonistic
+picier | noun | pizza maker
+vazokonstriktor | adj | vasoconstrictor
+monovolum | noun | minivan
+bioelektrik | adj | bioelectric
+katalanisht | adv | in Catalan
+mukormikozë | noun | mucormycosis
+dykrenësh | adj | two-headed
+gjeostrategjikisht | adv | geostrategically
+kushtetueshmërisht | adv | constitutionally
+fagocit | noun | phagocyte
+çerekfinalist | noun | quarter-finalist
+kominternist | adj | Comintern (adj.)
+transkufitar | adj | cross-border
+antireumatik | adj | antirheumatic
+ndërveprueshëm | adj | interactive
+serbishtfolës | adj | Serbian-speaking
+inulinë | noun | inulin
+kondensat | noun | condensate
+ribozë | noun | ribose
+etnohistorik | adj | ethnohistorical
+makrosizmik | adj | macroseismic
+neoliberalizëm | noun | neoliberalism
+autoimunitet | noun | autoimmunity
+biofizik | adj | biophysical
+argatllëk | noun | drudgery
+kromatografi | noun | chromatography
+multiracor | adj | multiracial
+profilim | noun | profiling
+disakarid | noun | disaccharide
+religjiozitet | noun | religiosity
+brendagjuhësor | adj | intralinguistic
+kundërshembull | noun | counterexample
+kontraproduktiv | adj | counterproductive
+standardizues | adj | standardizing
+urbicid | noun | urbicide
+zellshmëri | noun | diligence
+konveksion | noun | convection
+suksesivisht | adv | successively
+zeamet | noun | zeamet
+psikodramë | noun | psychodrama
+globular | adj | globular
+vetëshërues | adj | self-healing
+dadaist | noun | Dadaist
+plotkuptim | noun | full meaning
+tiraminë | noun | tyramine
+metastazik | adj | metastatic
+petekie | noun | petechiae
+koncesionim | noun | concessioning
+spekulum | noun | speculum
+supernormal | adj | supernormal
+makrokozmik | adj | macrocosmic
+kundërargument | noun | counter-argument
+telomerazë | noun | telomerase
+fatimid | adj | Fatimid
+ismailit | adj | Ismaili
+epistemologjikisht | adv | epistemologically
+vagnerian | adj | Wagnerian
+rodopsinë | noun | rhodopsin
+intravitreal | adj | intravitreal
+aplikator | noun | applicator
+lavjerës | adj | swinging
+mikroalgë | noun | microalga
+skandalizues | adj | scandalizing
+abuzivitet | noun | abusiveness
+kardiokirurgjikal | adj | cardiosurgical
+pneumokoksik | adj | pneumococcal
+rijetëzim | noun | revitalization
+kasino | noun | casino
+laicist | adj | secularist
+gjithëpartiak | adj | all-party
+rifokusim | noun | refocusing
+videomontazh | noun | video editing
+aromatizim | noun | flavouring
+antinazist | adj | anti-Nazi
+sardonik | adj | sardonic
+inefikas | adj | ineffective
+devijacion | noun | deviation
+tejzanor | adj | ultrasonic
+endovaskular | adj | endovascular
+proliferim | noun | proliferation
+nënstandard | adj | substandard
+helikoidal | adj | helical
+targetim | noun | targeting
+albinizëm | noun | albinism
+limfadenopati | noun | lymphadenopathy
+jotoksik | adj | non-toxic
+fiksacion | noun | fixation
+psikopedagogjik | adj | psychopedagogical
+virologjik | adj | virological
+kontemplativ | adj | contemplative
+volterian | adj | Voltairean
+embriologjik | adj | embryological
+termoteknik | adj | thermotechnical
+virgjilian | adj | Virgilian
+mesopotamik | adj | Mesopotamian
+mistikisht | adv | mystically
+etnonacionalist | adj | ethnonationalist
+involucion | noun | involution
+antibërthamor | adj | anti-nuclear
+fraksionim | noun | fractionation
+frojdist | adj | Freudian
+liminal | adj | liminal
+pseudokulturë | noun | pseudo-culture
+vetëfinancues | adj | self-financing
+magjikisht | adv | magically
+frapant | adj | striking
+paralelopiped | noun | parallelepiped
+sukrozë | noun | sucrose
+moralizëm | noun | moralism
+antinacionalist | adj | anti-nationalist
+oralisht | adv | orally
+digjitalisht | adv | digitally
+tempomat | noun | cruise control
+prolifik | adj | prolific
+hiperpër | noun | hyperpyron
+autentikim | noun | authentication
+ndërgjinor | adj | between genders
+ikonoklastik | adj | iconoclastic
+kantonizim | noun | cantonization
+propranolol | noun | propranolol
+antiislamist | adj | anti-Islamist
+reduksionist | adj | reductionist
+sinodik | adj | synodic
+radiokronikë | noun | radio chronicle
+mizerabilitet | noun | misery
+pseudoart | noun | pseudo-art
+epizodik | adj | episodic
+rokambolesk | adj | rocambolesque
+banjomari | noun | bain-marie
+transponder | noun | transponder
+edematoz | adj | oedematous
+terrigjen | adj | terrigenous
+beketian | adj | Beckettian
+arabishtfolës | adj | Arabic-speaking
+gramatologji | noun | grammatology
+kruazierë | noun | cruise
+autoqefali | noun | autocephaly
+grafen | noun | graphene
+radikular | adj | radicular
+vëzhgueshëm | adj | observable
+jashtëtekstor | adj | extratextual
+vetëqëndrueshëm | adj | self-sustaining
+kundërkomunist | adj | anti-communist
+shumëfunksional | adj | multifunctional
+ristartim | noun | restart
+narcisizëm | noun | narcissism
+piridoksinë | noun | pyridoxine
+selektivisht | adv | selectively
+shfokusim | noun | loss of focus
+hemofilik | adj | haemophiliac
+biomaterial | noun | biomaterial
+gjeoinformatikë | noun | geoinformatics
+preoperator | adj | preoperative
+hipermetropi | noun | hypermetropia
+demoskopik | adj | opinion-poll (adj.)
+dinamizim | noun | dynamization
+korrektiv | adj | corrective
+petashuq | noun | sweet pastry
+esencialist | adj | essentialist
+muzeologji | noun | museology
+troponinë | noun | troponin
+nanosekondë | noun | nanosecond
+antiplakje | adj | anti-ageing
+vetëreflektim | noun | self-reflection
+hilaritet | noun | hilarity
+shpirtëzim | noun | spiritualization
+parametrik | adj | parametric
+postelektoral | adj | post-electoral
+hiperpigmentim | noun | hyperpigmentation
+limfocitar | adj | lymphocytic
+kreativisht | adv | creatively
+mbiofertë | noun | oversupply
+gjeoshkencë | noun | geoscience
+rikuperueshëm | adj | recoverable
+pantoprazol | noun | pantoprazole
+superheroinë | noun | superheroine
+geriatrik | adj | geriatric
+dekonstruktiv | adj | deconstructive
+interkonektor | noun | interconnector
+kokëprerje | noun | beheading
+vetëkufizim | noun | self-restraint
+kulturologji | noun | cultural studies
+diskualifikues | adj | disqualifying
