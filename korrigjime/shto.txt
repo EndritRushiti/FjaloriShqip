@@ -15455,3 +15455,5 @@ harrë | noun | walnut | arrë
 hel | noun | skewer, spit | hell
 # ── k74.tsv ──
 hiditë | noun | gelding
+# ── k75.tsv ──
+hekurishtë | noun | ironware, iron tools
