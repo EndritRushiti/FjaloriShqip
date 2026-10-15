@@ -16254,3 +16254,106 @@ ku s'ka grua s'ka shtëpi |  | where there is no woman there is no home
 zjarri i vatrës nuk shuhet |  | the fire of the hearth does not go out
 kush harron rrënjët thahet |  | who forgets his roots withers
 gjuha e nënës s'harrohet |  | the mother tongue is not forgotten
+# ── m1.new.tsv ──
+përderisa | conj | since, as long as
+përveçse | conj | except that; besides
+përndryshe | adv | otherwise
+përpos | prep | besides, except
+merkato | noun | transfer market (football)
+axhendë | noun | agenda
+lidership | noun | leadership
+impakt | noun | impact
+derbi | noun | derby (match)
+kurajo | noun | courage
+kompeticion | noun | competition (sports)
+veting | noun | vetting (of judges)
+akses | noun | access
+spektakolar | adj | spectacular
+viral | adj | viral
+grant | noun | grant
+konsulencë | noun | consultancy
+operacional | adj | operational
+produksion | noun | production
+konform | adv | in accordance with
+kurioz | adj | curious
+smartfon | noun | smartphone
+antioksidant | noun | antioxidant
+performoj | verb | to perform
+inflamator | adj | inflammatory
+kryeparlamentar | noun | speaker of parliament
+kurrikulë | noun | curriculum
+masivisht | adv | massively, en masse
+futbollistik | adj | football (adj.)
+pankinë | noun | bench (sports)
+relaksues | adj | relaxing
+prioritar | adj | priority (adj.)
+guidë | noun | guide
+kimikat | noun | chemical
+kuranor | adj | Quranic
+tranzit | noun | transit
+rezistent | adj | resistant
+promovues | adj | promotional
+minimalisht | adv | minimally
+varioj | verb | to vary
+makabër | adj | macabre
+konfidencial | adj | confidential
+komunitar | adj | community (adj.)
+menaxhment | noun | management
+pasionant | adj | passionate, thrilling
+fitnes | noun | fitness
+ringritje | noun | revival, recovery
+kontribues | noun | contributor
+kontraktor | noun | contractor
+menaxhues | adj | managing
+kalvar | noun | ordeal, calvary
+magnitudë | noun | magnitude
+sedilje | noun | seat
+incenerator | noun | incinerator
+aplikant | noun | applicant
+suplement | noun | supplement
+marijuanë | noun | marijuana
+unikal | adj | unique
+webfaqe | noun | website
+shokues | adj | shocking
+kryedemokrat | noun | leader of the Democratic party
+asist | noun | assist (sports)
+dezinformatë | noun | disinformation item
+audit | noun | audit
+konsensual | adj | consensual
+medicinal | adj | medicinal
+kancerogjen | adj | carcinogenic
+negociues | noun | negotiator
+fleksibël | adj | flexible
+motorrik | adj | motor (adj.)
+korruptiv | adj | corrupt (adj.)
+traumatik | adj | traumatic
+rigjej | verb | to find again
+tratativë | noun | negotiation
+investigativ | adj | investigative
+definitivisht | adv | definitively
+implant | noun | implant
+kryeshef | noun | chief, head
+ndërgjegjësues | adj | awareness-raising
+tranzitor | adj | transitional
+kampus | noun | campus
+benefit | noun | benefit
+inekzistent | adj | non-existent
+impresionues | adj | impressive
+lansoj | verb | to launch
+dakordësi | noun | agreement
+nordik | adj | Nordic
+intolerancë | noun | intolerance
+relikë | noun | relic
+menaxherial | adj | managerial
+efiçencë | noun | efficiency
+autoveturë | noun | passenger car
+siguracion | noun | insurance
+sensibilizues | adj | awareness-raising
+kongresmen | noun | congressman
+skadencë | noun | deadline, expiry
+sexhde | noun | prostration (in prayer)
+ibadet | noun | worship
+sunet | noun | sunnah
+zekat | noun | zakat (alms)
+ummet | noun | the Muslim community
+farz | noun | obligatory duty (Islam)
