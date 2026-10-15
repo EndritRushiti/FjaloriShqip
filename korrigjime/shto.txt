@@ -23238,3 +23238,389 @@ autostopist | noun | hitchhiker
 neoromantik | adj | neo-Romantic
 makinalisht | adv | mechanically
 radioaparat | noun | radio set
+# ── w1.new.tsv ──
+karrakë | noun | carrack
+mangust | noun | mongoose
+polinomial | adj | polynomial
+heksadecimal | adj | hexadecimal
+hipostil | adj | hypostyle
+steatit | noun | soapstone
+emiter | noun | emitter
+mikrokontrollues | noun | microcontroller
+kovariancë | noun | covariance
+komutim | noun | switching
+kuantil | noun | quantile
+fonemik | adj | phonemic
+radian | noun | radian
+katakana | noun | katakana
+hiragana | noun | hiragana
+alofon | noun | allophone
+panonian | adj | Pannonian
+konvolucion | noun | convolution
+hipergjeometrik | adj | hypergeometric
+kuaternion | noun | quaternion
+absidal | adj | apsidal
+bompres | noun | bowsprit
+gametofit | noun | gametophyte
+sporofit | noun | sporophyte
+mezoamerikan | adj | Mesoamerican
+javanez | adj | Javanese
+gjibraltaras | noun | Gibraltarian
+komodor | noun | commodore
+nënkombëtar | adj | subnational
+muslinë | noun | muslin
+tamilisht | adv | in Tamil
+herbivor | adj | herbivorous
+karnivor | adj | carnivorous
+omnivor | adj | omnivorous
+insektivor | adj | insectivorous
+sintisajzer | noun | synthesizer
+nënhapësirë | noun | subspace
+kurtosis | noun | kurtosis
+biogjenik | adj | biogenic
+brahmanik | adj | Brahmanic
+fenofazë | noun | phenophase
+eparki | noun | eparchy
+parafiletik | adj | paraphyletic
+monofiletik | adj | monophyletic
+polifiletik | adj | polyphyletic
+kriptosistem | noun | cryptosystem
+tensorial | adj | tensorial
+simplektik | adj | symplectic
+bretonisht | adv | in Breton
+diamagnetik | adj | diamagnetic
+diamagnetizëm | noun | diamagnetism
+digraf | noun | digraph
+kovariant | adj | covariant
+gjimnosperme | noun | gymnosperms
+angiosperme | noun | angiosperms
+kromatidë | noun | chromatid
+bijektiv | adj | bijective
+bijeksion | noun | bijection
+kompajler | noun | compiler
+homofon | noun | homophone
+pendentiv | noun | pendentive
+rekursion | noun | recursion
+dimorfizëm | noun | dimorphism
+dimorfik | adj | dimorphic
+akadisht | adv | in Akkadian
+bioinformatikë | noun | bioinformatics
+holomorfik | adj | holomorphic
+elektropop | noun | electropop
+superfamilje | noun | superfamily
+artiodaktil | noun | artiodactyl
+avestanisht | adv | in Avestan
+lazisht | adv | in Laz
+homeomorfizëm | noun | homeomorphism
+homeomorfik | adj | homeomorphic
+prokariotik | adj | prokaryotic
+eukariotik | adj | eukaryotic
+superpërçues | adj | superconducting
+teropod | noun | theropod
+ekzonim | noun | exonym
+eksonim | noun | exonym
+hipervizor | noun | hypervisor
+impedancë | noun | impedance
+tatarisht | adv | in Tatar
+ekoregjion | noun | ecoregion
+sesterc | noun | sestertius
+anoksik | adj | anoxic
+sikist | adj | Sikh
+sikizëm | noun | Sikhism
+nënsonik | adj | subsonic
+izomorfik | adj | isomorphic
+izomorfizëm | noun | isomorphism
+retrofleks | adj | retroflex
+balustradë | noun | balustrade
+neuromorfik | adj | neuromorphic
+mikroarkitekturë | noun | microarchitecture
+epentetik | adj | epenthetic
+iterativ | adj | iterative
+centromer | noun | centromere
+metafazë | noun | metaphase
+profazë | noun | prophase
+kalkolitik | adj | Chalcolithic
+katalunisht | adv | in Catalan
+filogjeni | noun | phylogeny
+kriptanalizë | noun | cryptanalysis
+termohalin | adj | thermohaline
+megalodon | noun | megalodon
+kolinear | adj | collinear
+polisintetik | adj | polysynthetic
+diatomik | adj | diatomic
+endorheik | adj | endorheic
+filogjeografik | adj | phylogeographic
+elektronegativitet | noun | electronegativity
+superfluid | adj | superfluid
+tepidarium | noun | tepidarium
+poligjini | noun | polygyny
+azimutal | adj | azimuthal
+tetraedral | adj | tetrahedral
+tetraedër | noun | tetrahedron
+oktaedër | noun | octahedron
+dodekaedër | noun | dodecahedron
+ikosaedër | noun | icosahedron
+sigmoid | adj | sigmoid
+politop | noun | polytope
+asimptotik | adj | asymptotic
+asimptotë | noun | asymptote
+izotrop | adj | isotropic
+pseudovektor | noun | pseudovector
+deambulator | noun | ambulatory
+kontrafortë | noun | buttress
+steganografi | noun | steganography
+kapacitiv | adj | capacitive
+termoklinë | noun | thermocline
+adiabatik | adj | adiabatic
+izometrik | adj | isometric
+izometri | noun | isometry
+peptidoglikan | noun | peptidoglycan
+magnetometër | noun | magnetometer
+deterministik | adj | deterministic
+flogiston | noun | phlogiston
+peridotit | noun | peridotite
+karnasial | adj | carnassial
+transduksion | noun | transduction
+multipleksim | noun | multiplexing
+sociolekt | noun | sociolect
+bipod | noun | bipod
+tibetisht | adv | in Tibetan
+uzbekisht | adv | in Uzbek
+turkmenisht | adv | in Turkmen
+kirgizisht | adv | in Kyrgyz
+taxhikisht | adv | in Tajik
+koreisht | adv | in Korean
+somalisht | adv | in Somali
+suahilisht | adv | in Swahili
+filipinisht | adv | in Filipino
+malajalamisht | adv | in Malayalam
+maltezisht | adv | in Maltese
+malajzisht | adv | in Malay
+malajisht | adv | in Malay
+hititisht | adv | in Hittite
+dravidisht | adv | in Dravidian
+çuvashisht | adv | in Chuvash
+çeçenisht | adv | in Chechen
+rutenisht | adv | in Ruthenian
+rusinisht | adv | in Rusyn
+alsasisht | adv | in Alsatian
+bosnjanisht | adv | in Bosnian
+karelianisht | adv | in Karelian
+provansalisht | adv | in Provençal
+gaskonisht | adv | in Gascon
+guxharatisht | adv | in Gujarati
+faroisht | adv | in Faroese
+gotisht | adv | in Gothic
+sicilianisht | adv | in Sicilian
+kastilianisht | adv | in Castilian
+gjeorgjianisht | adv | in Georgian
+ribozomal | adj | ribosomal
+kitinë | noun | chitin
+paleozoik | adj | Palaeozoic
+mesozoik | adj | Mesozoic
+jurasik | adj | Jurassic
+monotipik | adj | monotypic
+gjysmëton | noun | semitone
+anamorfik | adj | anamorphic
+kalderë | noun | caldera
+ksilem | noun | xylem
+zoroastrianizëm | noun | Zoroastrianism
+sintaksisht | adv | syntactically
+izotermë | noun | isotherm
+fiziokratik | adj | physiocratic
+radiokomunikim | noun | radio communication
+paraksial | adj | paraxial
+papiamento | noun | Papiamento
+nuragjik | adj | Nuragic
+kriptografikisht | adv | cryptographically
+kreshtor | adj | crested
+efektor | noun | effector
+polimorfik | adj | polymorphic
+bimetalik | adj | bimetallic
+monokotë | noun | monocots
+ekstremofil | adj | extremophile
+antiparalel | adj | antiparallel
+prosopografik | adj | prosopographical
+monopson | noun | monopsony
+konservatorium | noun | conservatoire
+akuifer | noun | aquifer
+fiziografik | adj | physiographic
+amerindian | adj | Amerindian
+trikromatik | adj | trichromatic
+rombik | adj | rhombic
+alotrop | noun | allotrope
+psionik | adj | psionic
+relesë | noun | relay
+autentifikues | adj | authenticating
+inicializues | adj | initializing
+kundërpikë | noun | counterpoint
+palearktik | adj | Palaearctic
+taksonomist | noun | taxonomist
+telerobotik | adj | telerobotic
+avikulturë | noun | aviculture
+pseudepigrafik | adj | pseudepigraphic
+refraktues | adj | refracting
+orogjenik | adj | orogenic
+enkapsulim | noun | encapsulation
+etanoik | adj | ethanoic
+meiozë | noun | meiosis
+tenebrizëm | noun | tenebrism
+antipapë | noun | antipope
+mereologjik | adj | mereological
+anomerik | adj | anomeric
+amilopektinë | noun | amylopectin
+amilozë | noun | amylose
+adenohipofizë | noun | adenohypophysis
+citozinë | noun | cytosine
+mançurian | adj | Manchurian
+jofluturues | adj | flightless
+olfaktor | adj | olfactory
+parkinsonizëm | noun | parkinsonism
+protogjermanik | adj | Proto-Germanic
+kundërshoqëror | adj | antisocial
+suburbanizim | noun | suburbanization
+habilitim | noun | habilitation
+fonemikisht | adv | phonemically
+holizëm | noun | holism
+daoizëm | noun | Taoism
+sindikim | noun | syndication
+afrikanist | noun | Africanist
+pushkëtar | noun | musketeer
+ndërorganizativ | adj | inter-organizational
+kombinator | noun | combinator
+deformueshëm | adj | deformable
+nënarktik | adj | subarctic
+avionmbajtëse | noun | aircraft carrier
+logograf | noun | logogram
+eponimik | adj | eponymous
+dekadik | adj | decimal
+teoricist | noun | theoretician
+triadik | adj | triadic
+transmigrim | noun | transmigration
+emulim | noun | emulation
+gjysmësferik | adj | hemispherical
+ultramafik | adj | ultramafic
+biosintetik | adj | biosynthetic
+mbibashkësi | noun | superset
+prokonsullor | adj | proconsular
+historiografikisht | adv | historiographically
+aldozë | noun | aldose
+stereografik | adj | stereographic
+mikroshërbim | noun | microservice
+eksedër | noun | exedra
+holonomik | adj | holonomic
+filogjenetikisht | adv | phylogenetically
+frankoist | adj | Francoist
+mejotik | adj | meiotic
+superheroik | adj | superheroic
+teleportim | noun | teleportation
+retronim | noun | retronym
+tektonikisht | adv | tectonically
+kriptogramë | noun | cryptogram
+soteriologjik | adj | soteriological
+serializim | noun | serialization
+gjigantizëm | noun | gigantism
+shamanizëm | noun | shamanism
+pesëkëndor | adj | pentagonal
+klaviçel | noun | harpsichord
+glikolitik | adj | glycolytic
+tiltrotor | noun | tiltrotor
+antisimetrik | adj | antisymmetric
+glaciologji | noun | glaciology
+gjeostatistikë | noun | geostatistics
+skermist | noun | fencer
+musonik | adj | monsoonal
+paraneolitik | adj | pre-Neolithic
+inkrustim | noun | inlay
+hidrometër | noun | hydrometer
+polihistor | noun | polymath
+kozmograf | noun | cosmographer
+kozmografik | adj | cosmographic
+skijator | noun | skier
+orëbërës | noun | watchmaker
+klasifikator | noun | classifier
+vetëportret | noun | self-portrait
+luteranizëm | noun | Lutheranism
+neurofiziologji | noun | neurophysiology
+muriatik | adj | muriatic
+gjysmëmetal | noun | metalloid
+antiklasik | adj | anti-classical
+vedutist | noun | vedutista
+postpiktorik | adj | post-painterly
+polifazor | adj | polyphase
+grimcor | adj | particulate
+tetrarkik | adj | tetrarchic
+olivinë | noun | olivine
+vetëorganizues | adj | self-organizing
+metaetikë | noun | metaethics
+mozaiçist | noun | mosaicist
+radiokarbonik | adj | radiocarbon
+ontogjenetik | adj | ontogenetic
+limnigraf | noun | water-level recorder
+neogotik | adj | neo-Gothic
+gjysmëjetë | noun | half-life
+atelektazë | noun | atelectasis
+transferinë | noun | transferrin
+piridinë | noun | pyridine
+memuarist | noun | memoirist
+gjerontologji | noun | gerontology
+fosforilim | noun | phosphorylation
+polinukleotidik | adj | polynucleotide
+induktancë | noun | inductance
+gnomonik | adj | gnomonic
+kuantizim | noun | quantization
+endotoksik | adj | endotoxic
+monofizitizëm | noun | Monophysitism
+monoatomik | adj | monatomic
+jokristalor | adj | non-crystalline
+njëseksor | adj | unisexual
+triodë | noun | triode
+mikrokontrollor | noun | microcontroller
+termokimik | adj | thermochemical
+transpirim | noun | transpiration
+bifonik | adj | biphonic
+joteist | adj | non-theistic
+sociobiologji | noun | sociobiology
+pejorativisht | adv | pejoratively
+neuroekonomi | noun | neuroeconomics
+anticiklonik | adj | anticyclonic
+parametrikisht | adv | parametrically
+kristalograf | noun | crystallographer
+turbokompresor | noun | turbocharger
+logosilabik | adj | logosyllabic
+gongorizëm | noun | Gongorism
+averroist | adj | Averroist
+indologjist | noun | Indologist
+dolmen | noun | dolmen
+celibaci | noun | celibacy
+uralik | adj | Uralic
+barbotinë | noun | slip (pottery)
+enciklopedizëm | noun | encyclopaedism
+metamerik | adj | metameric
+metapopulim | noun | metapopulation
+nëngraf | noun | subgraph
+diastemë | noun | diastema
+milipedë | noun | millipede
+hipopituitarizëm | noun | hypopituitarism
+protoshkencë | noun | protoscience
+kriosferë | noun | cryosphere
+audiolibër | noun | audiobook
+neuropsikologji | noun | neuropsychology
+galaktozë | noun | galactose
+trumpetist | noun | trumpeter
+vaterpolist | noun | water polo player
+karlist | adj | Carlist
+surfist | noun | surfer
+vaishnavizëm | noun | Vaishnavism
+aerodinamikisht | adv | aerodynamically
+transhistorik | adj | transhistorical
+fotorealist | adj | photorealistic
+mbipërshtatje | noun | overfitting
+galeasë | noun | galleass
+kleristor | noun | clerestory
+xhaguar | noun | jaguar
+belugë | noun | beluga
+glikolizë | noun | glycolysis
+neotropik | adj | Neotropical
+kolubrid | noun | colubrid
+superzuzar | noun | supervillain
