@@ -15449,3 +15449,7 @@ frasule | noun | bean(s) | fasule
 fetyrë | noun | face, appearance | fytyrë
 fuqishim | adj | powerful, strong | fuqishëm
 fullikj | verb | to dirty, to defile; to shame | fëlliq
+# ── k73.tsv ──
+harzanë | noun | small oil lamp
+harrë | noun | walnut | arrë
+hel | noun | skewer, spit | hell
