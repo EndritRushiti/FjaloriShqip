@@ -27836,3 +27836,52 @@ ftohtësisht | adv | coldly
 shpejtësisht | adv | quickly
 fshehtësisht | adv | secretly
 ndërkombëtarësisht | adv | internationally
+# ── q1.new.tsv ──
+agrikulturist | noun | agriculturist
+libacion | noun | libation
+submatricë | noun | submatrix
+matricial | adj | matrix (adj.)
+kuantifikator | noun | quantifier
+grupoid | noun | groupoid
+homomorfizëm | noun | homomorphism
+homomorf | adj | homomorphic
+kodomen | noun | codomain
+idempotencë | noun | idempotence
+biunivok | adj | one-to-one
+oktal | adj | octal
+semigrup | noun | semigroup
+subdeterminant | noun | minor (determinant)
+intransitiv | adj | intransitive
+destruktor | noun | destructor
+vetëqëndrues | adj | self-standing
+plotkuptueshëm | adj | fully comprehensible
+sukcesor | noun | successor
+kuazipublik | adj | quasi-public
+fitoteknikë | noun | plant science
+evinksion | noun | eviction (law)
+enfiteotik | adj | emphyteutic
+mototërheqës | noun | small tractor
+ndihmësarkivist | noun | assistant archivist
+kryebukëpjekës | noun | chief baker
+kryeintendent | noun | chief intendant
+parfumier | noun | perfumer
+depozitëmarrës | noun | depositary
+lejedhënës | noun | licensor
+deklaratëdhënës | noun | declarant
+fajshlyes | adj | atoning
+tatimvjelës | noun | tax collector
+faljekërkues | noun | apologizer
+ujëbartës | noun | water carrier
+kryemijësh | noun | commander of a thousand
+zemërkrenar | adj | proud-hearted
+lirësisht | adv | freely
+mekanisht | adv | mechanically
+fytyrëdashur | adj | sweet-faced
+gjithëhirshëm | adj | all-gracious
+burimologjik | adj | source-critical
+kombndriçues | adj | nation-enlightening
+trungtrashë | adj | thick-trunked
+tridrahmë | noun | tridrachm
+jorritës | adj | non-increasing
+jozvogëlues | adj | non-decreasing
+ndjesëhollë | adj | sensitive
