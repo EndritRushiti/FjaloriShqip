@@ -15713,3 +15713,117 @@ mirinformuar | adj | well-informed
 paanë | adj | boundless
 pakohë | adj | untimely
 shtrigan | noun | male witch
+# ── e3.tsv ──
+këmbëngulësi | noun | perseverance, persistence
+parfumuar | adj | perfumed
+lanet | adj | cursed, damned
+atrofizuar | adj | atrophied
+paraqitës | noun | presenter
+grirëse | noun | grinder, mincer
+mugët | adj | dusky, dim
+shkishëruar | adj | excommunicated
+mbetës | noun | pupil who repeats a year; straggler
+nderur | adj | stretched, taut
+bashkërenditur | adj | coordinated
+nemitur | adj | speechless, dumbstruck
+radhitës | noun | typesetter
+shirë | adj | threshed
+trehapësh | adj | three-part, three-span
+njëjtësuar | adj | identified, equated
+stepje | noun | recoil, hesitation
+larushi | noun | motley, variegation
+dykëmbësh | adj | two-legged, bipedal
+katërkatësh | adj | four-storey
+devalvuar | adj | devalued
+llahtarisur | adj | terrified
+përligjje | noun | justification
+riarmatosur | adj | rearmed
+poçeri | noun | pottery
+fshirëse | noun | eraser; wiper
+nikaraguan | noun | Nicaraguan
+shumëfaqësh | adj | many-sided, multifaceted
+pakthyer | adj | not returned
+despotat | noun | despotate
+shkumëzuar | adj | foamy
+dyfytyrësh | adj | two-faced
+lituan | noun | Lithuanian
+shqelmuar | adj | kicked
+pleurit | noun | pleurisy
+cirkuit | noun | circuit
+pudrosur | adj | powdered
+llomotit | verb | to babble, to prattle
+fotokopjuar | adj | photocopied
+balsamos | verb | to embalm
+neveritës | adj | disgusting
+pispillosur | adj | dolled up
+disaorësh | adj | lasting several hours
+ripërtëritës | adj | renewing
+tambura | noun | tambura (long-necked lute)
+dumen | noun | rudder, helm
+ritransmetuar | adj | rebroadcast
+veshëse | noun | dresser (theatre)
+dhjetëfishuar | adj | tenfold increased
+mjegullinë | noun | haze, mist
+zgjatues | noun | extension (cable)
+heqës | noun | remover, puller
+mprehëse | noun | sharpener
+rivënie | noun | putting back, reinstatement
+tjerrëse | noun | spinner
+çakorduar | adj | out of tune
+fryrës | adj | blowing; wind instrument
+brengosës | adj | distressing
+nëndrejtoreshë | noun | deputy director (woman)
+shpërhapur | adj | widespread
+sorollatur | adj | wandering about
+gatesë | noun | dough, mixture
+mënyror | adj | modal; of manner
+nëntropikal | adj | subtropical
+zezonë | noun | misfortune, calamity
+kolektivizuar | adj | collectivised
+këmbyes | adj | exchange (attrib.)
+gjysmëfinalist | noun | semi-finalist
+gropuar | adj | hollowed, pitted
+shijues | noun | taster
+rahati | noun | ease, comfort
+saldo | noun | balance (of an account)
+bonifikuar | adj | reclaimed, improved (land)
+shirëse | noun | threshing machine
+shumëzërësh | adj | polyphonic
+tringëllimë | noun | tinkle, jingle
+shtrydhëse | noun | squeezer
+mirëpritës | adj | hospitable
+llahtar | noun | horror, terror
+padiplomuar | adj | without a degree
+prashitur | adj | hoed
+dozuar | adj | dosed
+ndjellës | adj | alluring, beckoning
+shkombëtarizuar | adj | denationalised
+pronësuar | adj | owned, appropriated
+dypjesësh | adj | two-piece
+shumëmilionësh | adj | multimillion
+agat | noun | agate
+ndreqës | noun | repairer
+rinjohje | noun | recognition
+patriarkat | noun | patriarchy; patriarchate
+sapoçliruar | adj | newly liberated
+llomotitje | noun | babble
+panxënë | adj | not caught, free
+farkuar | adj | forged (metal)
+përballues | adj | coping, withstanding
+centrifugë | noun | centrifuge
+varës | noun | hanger
+gjetës | noun | finder
+neuropsikiatri | noun | neuropsychiatry
+blindë | noun | armour plating
+istikam | noun | trench, fortified post
+ikës | noun | runaway
+pedanteri | noun | pedantry
+vulgarizuar | adj | vulgarised
+përdhuni | noun | violence, outrage
+tendenciozitet | noun | tendentiousness
+dredhës | adj | twisting
+dyngjyrësh | adj | two-coloured
+pandihmë | adj | helpless
+largues | noun | remover
+pashqyrtuar | adj | unexamined
+rrufjan | noun | rascal
