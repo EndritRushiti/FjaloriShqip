@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879";
 
 export interface SourceInfo {
   id: SourceId;
@@ -272,5 +272,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
       sq: "Përkufizimet e Gazullit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre.",
       en: "Gazulli's definitions are not copied; only the words and their meaning are taken.",
     },
+  },  "dozon-1879": {
+    id: "dozon-1879",
+    name: "Auguste Dozon, Manuel de la langue chkipe ou albanaise (Paris 1879)",
+    publisher: "Auguste Dozon (1822–1890), Paris. Skanuar nga University of Toronto, në Internet Archive",
+    url: "https://archive.org/details/manueldelalangue00dozouoft",
+    downloadUrl: "https://archive.org/details/manueldelalangue00dozouoft",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma toske nga fjalorthi shqip-frëngjisht i librit, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkrimi i Dozonit në drejtshkrimin e sotëm (œ → ë, ç → sh, ou → u, ky → q…) dhe kuptimet i përkthejmë nga frëngjishtja. Përshkrimet shqip janë tonat. Vepra është në domen publik (autori vdiq më 1890).",
+      en: "Tosk forms from the book's Albanian–French vocabulary, each linked to its standard word. We convert the words from Dozon's spelling into today's (œ → ë, ç → sh, ou → u, ky → q…) and translate the meanings from French. The Albanian descriptions are our own. The work is in the public domain (the author died in 1890).",
+    },
+    notUsed: {
+      sq: "Përkufizimet e Dozonit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre. Fjalët turke e greke të fjalorthit lihen jashtë.",
+      en: "Dozon's definitions are not copied; only the words and their meaning are taken. The Turkish and Greek loans in the vocabulary are left out.",
+    },
   },
+
 };

@@ -743,7 +743,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["jungg-1895.tsv", "Shkodër"]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -1018,6 +1018,8 @@ function sourcesPage(): string {
       sq: "Fjalë e forma gege e toske, të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga greqishtja.", en: "Gheg and Tosk words and forms, converted to today's spelling; meanings translated from Greek." },
     { title: "Fjalorth i ri – Fjalë të rralla të përdoruna në Veri të Shqipnis (1942)", author: "Dom Nikollë Gazulli (1895–1946)", link: "https://archive.org/details/id-9-fjalorth-i-ri-fjale-te-rralla-te-perdoruna-ne-veri-te-shqipnis-visaret-e-kombit", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Fjalë të rralla gege nga Veriu, me vendin ku përdoren; përshkrimet janë tonat.", en: "Rare Gheg words from the North, with where they are used; the descriptions are our own." },
+    { title: "Manuel de la langue chkipe ou albanaise (1879)", author: "Auguste Dozon (1822–1890)", link: "https://archive.org/details/manueldelalangue00dozouoft", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Forma toske nga fjalorthi shqip-frëngjisht, të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga frëngjishtja, përshkrimet janë tonat.", en: "Tosk forms from the Albanian–French vocabulary, converted to today's spelling; meanings translated from French, the descriptions are our own." },
     { title: "Tatoeba", author: "Shoqata Tatoeba dhe kontribuesit e saj (autori i secilës fjali në shembuj/tatoeba.tsv)", link: "https://tatoeba.org/", licence: "CC BY 2.0 FR", licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
       sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një.", en: "Albanian example sentences with their English translation, selected and reviewed one by one." },
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
