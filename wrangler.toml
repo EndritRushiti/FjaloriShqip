@@ -13,11 +13,16 @@ routes = [
   { pattern = "fjalorishqip.org/kontakt", zone_name = "fjalorishqip.org" },
   # reports and suggestions from the word pages (src/worker/report.ts)
   { pattern = "fjalorishqip.org/raporto", zone_name = "fjalorishqip.org" },
+  # daily notifications: subscribe / unsubscribe, and the app open counter (src/worker/push.ts)
+  { pattern = "fjalorishqip.org/njoftime", zone_name = "fjalorishqip.org" },
+  { pattern = "fjalorishqip.org/hap", zone_name = "fjalorishqip.org" },
 ]
 
-# every Monday at 07:00 UTC: the week's reports and suggestions are emailed to the author (src/worker/report.ts)
+# every Monday at 07:00 UTC: the week's reports and suggestions are emailed to the author (src/worker/report.ts);
+# every minute of 06:00 and 17:00 UTC (08:00 and 19:00 in Albania in summer, an hour earlier in winter):
+# the next batch of the daily notifications, word of the day in the morning, a proverb in the evening (src/worker/push.ts)
 [triggers]
-crons = ["0 7 * * 1"]
+crons = ["0 7 * * 1", "* 6 * * *", "* 17 * * *"]
 
 [[r2_buckets]]
 binding = "SITE"

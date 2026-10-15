@@ -622,3 +622,16 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .report-note { margin: 0; }
 .suggest-word { margin-left: 8px; vertical-align: middle; }
 .suggest-word.sent { color: var(--ok); border-color: var(--ok); }
+
+/* ── app page (/aplikacioni/) ── */
+.app-grid { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr)); align-items: start; margin-bottom: 32px; }
+.app-card h2 { display: flex; align-items: center; gap: 10px; }
+.app-card h3 { font-size: 1rem; margin: 16px 0 4px; }
+.app-card h3 + p { margin-top: 0; }
+.app-links { display: flex; flex-wrap: wrap; gap: 10px; }
+.app-card code { word-break: break-all; }
+.app-today { margin-bottom: 20px; }
+.app-today-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); }
+.app-today-item { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: var(--text); }
+.app-today-item:hover { border-color: var(--accent); }
+.app-today-item b { font-size: 1.25rem; color: var(--accent); }

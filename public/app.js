@@ -497,4 +497,111 @@
         .then(function () { button.disabled = false; });
     });
   });
+
+  // ── the app: service worker (installable, no offline mode), install button, daily notifications ──
+  // public/sw.js has no fetch handler: pages always come from the network; it only shows the notifications
+  var swReady = null;
+  if ("serviceWorker" in navigator) {
+    swReady = navigator.serviceWorker.register(BASE + "/sw.js", { scope: BASE + "/" }).catch(function () { return null; });
+  }
+  var standalone = (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || window.navigator.standalone === true;
+  var installPrompt = null;
+  function showInstalled() {
+    document.querySelectorAll("[data-installed]").forEach(function (el) { el.hidden = false; });
+    document.querySelectorAll("[data-install-ready],[data-install-help]").forEach(function (el) { el.hidden = true; });
+  }
+  if (standalone) showInstalled();
+  window.addEventListener("beforeinstallprompt", function (e) {
+    e.preventDefault();
+    installPrompt = e;
+    document.querySelectorAll("[data-install-ready]").forEach(function (el) { el.hidden = false; });
+  });
+  window.addEventListener("appinstalled", showInstalled);
+  document.querySelectorAll("[data-install]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      if (!installPrompt) return;
+      installPrompt.prompt();
+      installPrompt.userChoice.then(function (c) { if (c && c.outcome === "accepted") showInstalled(); installPrompt = null; });
+    });
+  });
+
+  // today's word and proverb on the app page (the same text as the notifications)
+  var todayBox = document.querySelector("[data-today]");
+  if (todayBox) {
+    getJson("/api/v1/njoftime.json").then(function (data) {
+      var d = new Date();
+      var key = d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+      var day = data.dite[key];
+      if (!day) return;
+      [["[data-today-word]", day.fjala], ["[data-today-proverb]", day.fjaleUrte]].forEach(function (x) {
+        var a = todayBox.querySelector(x[0]);
+        a.href = x[1].url;
+        a.querySelector("b").textContent = x[0] === "[data-today-word]" ? x[1].titulli.replace(/^Fjala e ditës: /, "") : x[1].teksti.split(" — ")[0];
+        a.querySelector(".muted").textContent = x[0] === "[data-today-word]" ? x[1].teksti : x[1].teksti.split(" — ").slice(1).join(" — ");
+      });
+      todayBox.hidden = false;
+    }).catch(function () {});
+  }
+
+  var pushBtn = document.querySelector("[data-push]");
+  if (pushBtn) {
+    var pushStatus = document.querySelector("[data-push-status]");
+    var pushLabel = pushBtn.querySelector("[data-push-label]");
+    var ios = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+    var supported = swReady && "PushManager" in window && "Notification" in window;
+    var say = function (sq, en) { pushStatus.innerHTML = bi(sq, en); };
+    var label = function (on) {
+      pushLabel.innerHTML = on ? bi("Çaktivizo njoftimet", "Turn off notifications") : bi("Aktivizo njoftimet", "Turn on notifications");
+      pushBtn.classList.toggle("btn-primary", !on);
+      pushBtn.classList.toggle("btn-ghost", on);
+    };
+    var post = function (endpoint, action) {
+      return fetch(BASE + "/njoftime", { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify({ endpoint: endpoint, action: action }) })
+        .then(function (r) { return r.json(); });
+    };
+    var b64ToBytes = function (s) {
+      var raw = atob(s.replace(/-/g, "+").replace(/_/g, "/") + "===".slice((s.length + 3) % 4));
+      var out = new Uint8Array(raw.length);
+      for (var i = 0; i < raw.length; i++) out[i] = raw.charCodeAt(i);
+      return out;
+    };
+    if (!supported) {
+      document.querySelector(ios && !standalone ? "[data-push-ios]" : "[data-push-unsupported]").hidden = false;
+    } else {
+      if (ios && !standalone) document.querySelector("[data-push-ios]").hidden = false;
+      pushBtn.hidden = false;
+      swReady.then(function (reg) { return reg && reg.pushManager.getSubscription(); }).then(function (sub) { label(!!sub); });
+      pushBtn.addEventListener("click", function () {
+        pushBtn.disabled = true;
+        swReady
+          .then(function (reg) { return navigator.serviceWorker.ready.then(function () { return reg; }); })
+          .then(function (reg) {
+            return reg.pushManager.getSubscription().then(function (sub) {
+              if (sub) {
+                // turn off: forget it on the server and in the browser
+                return post(sub.endpoint, "hiq").catch(function () {}).then(function () { return sub.unsubscribe(); }).then(function () {
+                  label(false);
+                  say("Njoftimet u çaktivizuan.", "Notifications are off.");
+                });
+              }
+              return Notification.requestPermission().then(function (perm) {
+                if (perm !== "granted") {
+                  say("Njoftimet janë të bllokuara. Lejojini te cilësimet e shfletuesit për këtë faqe.", "Notifications are blocked. Allow them in the browser settings for this site.");
+                  return;
+                }
+                return getJson("/njoftime")
+                  .then(function (k) { return reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(k.key) }); })
+                  .then(function (sub) { return post(sub.endpoint, "shto").then(function (r) { if (!r.ok) { sub.unsubscribe(); throw new Error(r.error); } }); })
+                  .then(function () {
+                    label(true);
+                    say("Gati! Fjala e parë vjen nesër në mëngjes.", "Done! The first word arrives tomorrow morning.");
+                  });
+              });
+            });
+          })
+          .catch(function () { say("Diçka nuk shkoi. Provoni përsëri më vonë.", "Something went wrong. Please try again later."); })
+          .then(function () { pushBtn.disabled = false; });
+      });
+    }
+  }
 })();

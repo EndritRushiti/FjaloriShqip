@@ -92,7 +92,7 @@ const headerText = (s: string) => `=?UTF-8?B?${b64(s.replace(/[\r\n]+/g, " "))}?
 const pageOf = (w: string) => `https://fjalorishqip.org/fjala/${encodeURIComponent(w.replace(/ /g, "_"))}/`;
 
 /** The weekly email: every report grouped by kind, the same word counted once with how often it came. */
-export function digest(reports: Report[], to: string, now = new Date()): string {
+export function digest(reports: Report[], to: string, now = new Date(), extra = ""): string {
   const groups = (Object.keys(KINDS) as ReportKind[])
     .map((k) => {
       const list = reports.filter((r) => r.kind === k);
@@ -110,7 +110,7 @@ export function digest(reports: Report[], to: string, now = new Date()): string 
     })
     .filter(Boolean)
     .join("\n\n");
-  const body = `Raportet dhe sugjerimet e javës nga fjalorishqip.org: ${reports.length}\n\n${groups}\n\n—\nDërgohet automatikisht çdo të hënë; lista fshihet pas dërgimit.`;
+  const body = `${extra ? `${extra}\n\n` : ""}Raportet dhe sugjerimet e javës nga fjalorishqip.org: ${reports.length}\n\n${groups}\n\n—\nDërgohet automatikisht çdo të hënë; lista fshihet pas dërgimit.`;
   return [
     `From: ${headerText("FjaloriShqip")} <${FROM}>`,
     `To: <${to}>`,
@@ -126,7 +126,8 @@ export function digest(reports: Report[], to: string, now = new Date()): string 
 }
 
 /** The Monday job: email the stored reports (if any) and delete them, with the old weekly counters. */
-export async function sendWeekly(bucket: ReportBucket | undefined, sender: EmailSender | undefined, to: string | undefined, now = new Date()): Promise<number> {
+/** extra: a line on top of the email (the app and notification numbers, src/worker/push.ts). */
+export async function sendWeekly(bucket: ReportBucket | undefined, sender: EmailSender | undefined, to: string | undefined, now = new Date(), extra = ""): Promise<number> {
   if (!bucket || !sender || !to) return 0;
   const keys: string[] = [];
   let cursor: string | undefined;
@@ -140,10 +141,10 @@ export async function sendWeekly(bucket: ReportBucket | undefined, sender: Email
     const text = await (await bucket.get(k))?.text();
     if (text) reports.push(JSON.parse(text) as Report);
   }
-  if (reports.length) {
+  if (reports.length || extra) {
     reports.sort((a, b) => a.at.localeCompare(b.at));
     const { EmailMessage } = (await import("cloudflare:email")) as { EmailMessage: new (from: string, to: string, raw: string) => unknown };
-    await sender.send(new EmailMessage(FROM, to, digest(reports, to, now)));
+    await sender.send(new EmailMessage(FROM, to, digest(reports, to, now, extra)));
     for (let i = 0; i < keys.length; i += 1000) await bucket.delete(keys.slice(i, i + 1000));
   }
   const old = (await bucket.list({ prefix: "numri/" })).objects.map((o) => o.key).filter((k) => k < `numri/${weekOf(now)}`);

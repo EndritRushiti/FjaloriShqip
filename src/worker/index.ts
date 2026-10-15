@@ -10,6 +10,7 @@
 
 import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js";
 import { type EmailSender, handleContact } from "./contact.js";
+import { handleOpen, handleSubscribe, type PushBucket, sendBatch, weeklyStats } from "./push.js";
 import { handleReport, type ReportBucket, sendWeekly } from "./report.js";
 
 /** The parts of the Workers R2 API this Worker uses (kept local so the repo needs no Workers type package). */
@@ -34,8 +35,11 @@ export interface Env {
   CONTACT?: EmailSender;
   CONTACT_TO?: string;
   /** Reports and suggestions from the word pages (a private bucket; src/worker/report.ts). */
-  REPORTS?: ReportBucket;
+  REPORTS?: ReportBucket & PushBucket;
 }
+
+/** The Monday email's cron (wrangler.toml); the other crons send the daily notifications. */
+export const WEEKLY_CRON = "0 7 * * 1";
 
 const OFFLINE_PAGE = `<!doctype html><html lang="sq"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>FjaloriShqip</title><body style="font-family:system-ui,sans-serif;max-width:32rem;margin:15vh auto;padding:0 16px;line-height:1.5">
@@ -54,6 +58,7 @@ const TYPES: Record<string, string> = {
   txt: "text/plain; charset=utf-8",
   xml: "application/xml; charset=utf-8",
   webmanifest: "application/manifest+json; charset=utf-8",
+  ics: "text/calendar; charset=utf-8",
 };
 
 const extOf = (key: string) => key.slice(key.lastIndexOf("/") + 1).split(".").slice(1).pop()?.toLowerCase() ?? "";
@@ -120,6 +125,9 @@ export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     if (new URL(request.url).pathname === "/kontakt") return handleContact(request, env.CONTACT, env.CONTACT_TO);
     if (new URL(request.url).pathname === "/raporto") return handleReport(request, env.REPORTS);
+    // daily notifications and the app open counter (src/worker/push.ts)
+    if (new URL(request.url).pathname === "/njoftime") return handleSubscribe(request, env.REPORTS);
+    if (new URL(request.url).pathname === "/hap") return handleOpen(request, env.REPORTS);
     if (request.method === "OPTIONS") {
       return new Response(null, {
         status: 204,
@@ -163,8 +171,12 @@ export default {
     return notFound(env, head);
   },
 
-  /** Every Monday (wrangler.toml [triggers]): the week's reports and suggestions by email. */
-  async scheduled(_event: unknown, env: Env): Promise<void> {
-    await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO);
+  /**
+   * wrangler.toml [triggers]: every Monday the week's reports and suggestions by email; every minute of the
+   * morning and evening hour the next batch of daily notifications (src/worker/push.ts).
+   */
+  async scheduled(event: { cron?: string }, env: Env): Promise<void> {
+    if (event.cron === WEEKLY_CRON) await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO, new Date(), await weeklyStats(env.REPORTS));
+    else await sendBatch(env.REPORTS);
   },
 };

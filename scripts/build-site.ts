@@ -13,6 +13,7 @@ import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
 import { HEAD_SCRIPT } from "../src/site/security.js";
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
+import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -25,6 +26,8 @@ const PAGE_SIZE = 400;
 const FEATURED_MIN_USE = 400;
 /** …and exactly this spelling at least this often in Wikipedia. */
 const FEATURED_MIN_WIKIPEDIA = 100;
+/** Minimum use of the standard word behind a dialect word of the day (the reader should know it). */
+const DAILY_MIN_USE = 2000;
 const NOINDEX = process.env.NOINDEX === "1"; // test hosting: keep out of search engines
 
 const words: Word[] = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "fjalori.json"), "utf8"));
@@ -227,6 +230,7 @@ ${(opts.structured ?? []).map(jsonLd).join("\n")}
         <li><a href="${url("/")}">${t("home")}</a></li>
         <li><a href="${url("/shkronja/a/")}">${bi("Shfleto sipas shkronjës", "Browse by letter")}</a></li>
         <li><a href="#" class="random-word">${t("randomWord")}</a></li>
+        <li><a href="${url("/aplikacioni/")}">${bi("Aplikacioni dhe njoftimet", "App and notifications")}</a></li>
       </ul>
     </div>
     <div>
@@ -913,6 +917,7 @@ function homePage(): string {
     ${featureTile(icon.layers(24), bi("Zgjedhimi dhe lakimi", "Conjugation and declension"), bi("Të gjitha kohët e foljeve dhe rasat e emrave.", "Every verb tense and every noun case."), url("/fjala/punoj/"))}
     ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Format gege, toske, arbëreshe dhe arvanitase pranë fjalës standarde.", "Gheg, Tosk, Arbëresh and Arvanitika forms next to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
     ${featureTile(icon.code(24), bi("API falas", "Free API"), bi("JSON statik për aplikacionet tuaja, pa çelës.", "Static JSON for your apps, no key needed."), url("/api/"))}
+    ${featureTile(icon.bell(24), bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Instaloni fjalorin në telefon dhe merrni fjalën e ditës çdo mëngjes.", "Install the dictionary on your phone and get the word of the day every morning."), url("/aplikacioni/"))}
   </div>
 </section>
 
@@ -1170,6 +1175,69 @@ ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Alba
 }
 
 
+/**
+ * /aplikacioni/: install the site as an app, turn on the daily notifications, subscribe to the calendar.
+ * The buttons are worked by public/app.js (install prompt, push subscription through /njoftime).
+ */
+function appPage(): string {
+  const ics = (SITE_URL || "https://fjalorishqip.org").replace(/^https?:/, "webcal:") + url("/kalendari.ics");
+  const body = `
+${breadcrumbs([[t("home"), url("/")], [bi("Aplikacioni", "App"), null]])}
+${pageHead(bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("FjaloriShqip në ekranin e telefonit, një fjalë dialektore çdo mëngjes dhe një fjalë e urtë çdo mbrëmje. Falas dhe pa llogari.", "FjaloriShqip on your phone's home screen, a dialect word every morning and a proverb every evening. Free and without an account."))}
+
+<section class="card app-today" data-today hidden>
+  <h2>${bi("Sot", "Today")}</h2>
+  <div class="app-today-grid">
+    <a class="app-today-item" data-today-word href="#"><span class="kicker">${bi("Fjala e ditës", "Word of the day")}</span><b></b><span class="muted"></span></a>
+    <a class="app-today-item" data-today-proverb href="#"><span class="kicker">${bi("Fjala e urtë", "Proverb")}</span><b></b><span class="muted"></span></a>
+  </div>
+</section>
+
+<div class="app-grid">
+<section class="card prose app-card" id="instalo">
+  <h2>${icon.phone(22)} ${bi("Instaloni aplikacionin", "Install the app")}</h2>
+  <p>${bi("Fjalori hapet si aplikacion, nga ikona në ekranin kryesor, pa shirit adrese. Nuk zë vend dhe përditësohet vetë.", "The dictionary opens like an app, from an icon on your home screen, without the address bar. It takes no space and updates itself.")}</p>
+  <p data-install-ready hidden><button type="button" class="btn btn-primary" data-install>${icon.download(18)} ${bi("Instalo FjaloriShqip", "Install FjaloriShqip")}</button></p>
+  <p class="notice" data-installed hidden>${icon.check(18)} ${bi("Aplikacioni është i instaluar në këtë pajisje.", "The app is installed on this device.")}</p>
+  <div data-install-help>
+    <h3>${bi("iPhone dhe iPad (Safari)", "iPhone and iPad (Safari)")}</h3>
+    <p>${bi("Prekni butonin <b>Shpërndaj</b> (katrori me shigjetë) dhe zgjidhni <b>Shto në ekranin bazë</b>.", "Tap the <b>Share</b> button (the square with an arrow) and choose <b>Add to Home Screen</b>.")}</p>
+    <h3>${bi("Android (Chrome)", "Android (Chrome)")}</h3>
+    <p>${bi("Hapni menynë <b>⋮</b> dhe zgjidhni <b>Instalo aplikacionin</b> ose <b>Shto në ekranin bazë</b>.", "Open the <b>⋮</b> menu and choose <b>Install app</b> or <b>Add to Home screen</b>.")}</p>
+    <h3>${bi("Kompjuter (Chrome, Edge)", "Computer (Chrome, Edge)")}</h3>
+    <p>${bi("Klikoni ikonën e instalimit në fund të shiritit të adresës.", "Click the install icon at the end of the address bar.")}</p>
+  </div>
+  <p class="muted small">${bi("Fjalori kërkon internet: faqet merren gjithmonë të freskëta nga rrjeti.", "The dictionary needs the internet: pages always come fresh from the network.")}</p>
+</section>
+
+<section class="card prose app-card" id="njoftimet">
+  <h2>${icon.bell(22)} ${bi("Njoftimet ditore", "Daily notifications")}</h2>
+  <p>${bi("Çdo mëngjes rreth orës 8 një fjalë nga gegërishtja, toskërishtja, arbërishtja ose arvanitishtja, e shpjeguar me fjalën standarde. Çdo mbrëmje rreth orës 19 një fjalë e urtë shqipe.", "Every morning around 8 a word from Gheg, Tosk, Arbëresh or Arvanitika, explained with the standard word. Every evening around 7 pm an Albanian proverb.")}</p>
+  <p><button type="button" class="btn btn-primary" data-push hidden>${icon.bell(18)} <span data-push-label>${bi("Aktivizo njoftimet", "Turn on notifications")}</span></button></p>
+  <p class="contact-status" data-push-status role="status" aria-live="polite"></p>
+  <p class="muted small" data-push-ios hidden>${bi("Në iPhone njoftimet funksionojnë pasi ta keni instaluar aplikacionin në ekranin bazë (iOS 16.4 ose më i ri): hapeni nga ikona dhe aktivizojini këtu.", "On iPhone, notifications work once the app is on your home screen (iOS 16.4 or later): open it from the icon and turn them on here.")}</p>
+  <p class="muted small" data-push-unsupported hidden>${bi("Ky shfletues nuk i mbështet njoftimet. Provoni Chrome, Edge, Firefox ose Safari.", "This browser does not support notifications. Try Chrome, Edge, Firefox or Safari.")}</p>
+  <p class="muted small">${bi("Nuk ruhet asnjë e dhënë personale: vetëm adresa që shfletuesi krijon për njoftimet. Mund t'i çaktivizoni kur të doni, këtu ose në cilësimet e telefonit.", "No personal data is stored: only the address your browser creates for notifications. You can turn them off at any time, here or in your phone's settings.")}</p>
+</section>
+
+<section class="card prose app-card" id="kalendari">
+  <h2>${icon.calendar(22)} ${bi("Kalendari", "Calendar")}</h2>
+  <p>${bi("Shtoni fjalën e ditës në kalendarin tuaj: çdo ditë shfaqet si ngjarje gjithë-ditore, me fjalën e urtë në përshkrim. Kalendari përditësohet vetë.", "Add the word of the day to your calendar: each day appears as an all-day event, with the proverb in the description. The calendar updates itself.")}</p>
+  <p class="app-links">
+    <a class="btn btn-primary" href="${h(ics)}">${icon.calendar(18)} ${bi("Abonohu në kalendar", "Subscribe to the calendar")}</a>
+    <a class="btn btn-ghost" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent(ics)}" rel="noopener" target="_blank">Google Calendar</a>
+  </p>
+  <p class="muted small">${bi("Adresa e kalendarit:", "Calendar address:")} <code>${h((SITE_URL || "https://fjalorishqip.org") + url("/kalendari.ics"))}</code></p>
+</section>
+</div>`;
+  return layout({
+    title: "Aplikacioni dhe njoftimet — FjaloriShqip | Albanian dictionary app",
+    description: "Instaloni FjaloriShqip në telefon, merrni çdo mëngjes fjalën e ditës nga dialektet dhe çdo mbrëmje një fjalë të urtë shqipe. Falas, pa llogari.",
+    body,
+    canonical: "/aplikacioni/",
+  });
+}
+
 function searchPage(): string {
   const body = `
 <div class="search-page">
@@ -1304,6 +1372,7 @@ function apiWord(w: Word): object {
   write("burimet/index.html", sourcesPage());
   write("api/index.html", apiPage());
   write("rreth/index.html", aboutPage());
+  write("aplikacioni/index.html", appPage());
   write("kerko/index.html", searchPage());
   write("404.html", notFoundPage());
   // one page per dialect (forms next to the standard word), and the same data for the API
@@ -1380,9 +1449,52 @@ function apiWord(w: Word): object {
     });
   write("api/v1/te-zgjedhura.json", JSON.stringify(featured));
 
+  // ── daily notifications and calendar (public/sw.js, src/worker/push.ts, scripts/lib/daily.ts) ──
+  // word of the day: a dialect form of a common standard word, explained through that word
+  const clip = (s: string, n: number) => (s.length <= n ? s : `${s.slice(0, s.lastIndexOf(" ", n - 1))}…`);
+  const dialectWords = shuffled(
+    words.flatMap((w) => {
+      if (w.unverified || w.loan || w.variantOf || w.word.includes(" ") || !w.description || (w.frequency ?? 0) < DAILY_MIN_USE) return [];
+      const forms = (w.dialects ?? []).filter((d) => {
+        if (d.form.includes(" ") || d.form.length < 3 || foldKey(d.form) === foldKey(w.word)) return false;
+        // a form that is also another standard word (e.g. Gheg "mal" for "mall") would mislead
+        const own = byWord.get(d.form);
+        return !own || !!own.variantOf?.some((v) => v.word === w.word) || !!own.dialectOnly;
+      });
+      if (!forms.length) return [];
+      const d = forms[hash(w.word) % forms.length];
+      return [{ word: w, form: d.form, dialect: d.dialect }];
+    }),
+    (x) => x.form,
+  );
+  const proverbs = shuffled(words.filter((w) => w.labels?.includes("proverb") && w.description), (w) => w.word);
+  const dailyOf = (date: string): DailyDay => {
+    const d = dayOf(dialectWords, date);
+    const p = dayOf(proverbs, date);
+    return {
+      fjala: {
+        titulli: `Fjala e ditës: ${d.form}`,
+        teksti: clip(`${DIALECT_INFO[d.dialect].sq} për «${d.word.word}»: ${d.word.description!.text}`, 180),
+        url: wordUrl(byWord.has(d.form) ? d.form : d.word.word),
+      },
+      fjaleUrte: { titulli: "Fjala e urtë e ditës", teksti: clip(`«${p.word.charAt(0).toUpperCase()}${p.word.slice(1)}» — ${p.description!.text}`, 180), url: wordUrl(p.word) },
+    };
+  };
+  if (dialectWords.length && proverbs.length) {
+    const start = todayInAlbania();
+    // the service worker reads today's entry; a few weeks ahead covers the time until the next build
+    const soon: Record<string, DailyDay> = {};
+    for (let i = -2; i <= 45; i++) soon[addDays(start, i)] = dailyOf(addDays(start, i));
+    write("api/v1/njoftime.json", JSON.stringify({ dite: soon }));
+    const year: [string, DailyDay][] = [];
+    for (let i = -7; i < 365; i++) year.push([addDays(start, i), dailyOf(addDays(start, i))]);
+    write("kalendari.ics", calendar(year, SITE_URL || "https://fjalorishqip.org", new Date()));
+  }
+  console.log(`daily notifications: ${dialectWords.length} dialect words, ${proverbs.length} proverbs`);
+
   // ── search engines: sitemaps and robots.txt ──
   // every page that should be found: home, info pages, letter pages and all word pages
-  const pages = ["/", "/burimet/", "/api/", "/rreth/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
+  const pages = ["/", "/burimet/", "/api/", "/rreth/", "/aplikacioni/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
   for (const l of ALPHABET) {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
@@ -1399,7 +1511,8 @@ function apiWord(w: Word): object {
     const files = Array.from({ length: sitemapCount }, (_, i) => `<sitemap><loc>${xml(absolute(`/sitemap-${i + 1}.xml`))}</loc></sitemap>`);
     write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.join("\n")}\n</sitemapindex>\n`);
   }
-  write("robots.txt", ["User-agent: *", "Allow: /", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
+  // /hap and /njoftime are the app's counter and subscription addresses (src/worker/push.ts), not pages
+  write("robots.txt", ["User-agent: *", "Allow: /", "Disallow: /hap", "Disallow: /njoftime", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
 
   // llms.txt (https://llmstxt.org): a short guide for AI assistants and tools on what the site is and how to use it
   if (SITE_URL) {
@@ -1447,12 +1560,20 @@ function apiWord(w: Word): object {
         name: "FjaloriShqip — Fjalori i hapur i gjuhës shqipe",
         short_name: "FjaloriShqip",
         lang: "sq",
-        start_url: url("/"),
+        id: url("/"),
+        // through the Worker's open counter, so openings from the home-screen icon are counted (src/worker/push.ts)
+        start_url: url("/hap?burim=app"),
         scope: url("/"),
         display: "standalone",
         background_color: "#fbf8f4",
         theme_color: "#c8102e",
+        description: "Fjalori i hapur i gjuhës shqipe: kuptimet, format gege e toske, fjala e ditës.",
+        shortcuts: [
+          { name: "Kërko", url: url("/kerko/") },
+          { name: "Aplikacioni dhe njoftimet", url: url("/aplikacioni/") },
+        ],
         icons: [
+          { src: url("/icon-192.png"), sizes: "192x192", type: "image/png", purpose: "any" },
           { src: asset("icon-512.png"), sizes: "512x512", type: "image/png", purpose: "any" },
           { src: asset("favicon.svg"), sizes: "any", type: "image/svg+xml" },
         ],
