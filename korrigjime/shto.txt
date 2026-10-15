@@ -15457,3 +15457,62 @@ hel | noun | skewer, spit | hell
 hiditë | noun | gelding
 # ── k75.tsv ──
 hekurishtë | noun | ironware, iron tools
+# ── k76.tsv ──
+bandit | noun | bandit
+zbehtë | adj | pale
+ngjirje | noun | hoarseness
+bufe | noun | sideboard; snack bar
+shtypëse | noun | press (for grapes, olives)
+dollakë | noun | gaiters, leggings
+tringëllin | verb | to tinkle, to ring
+vejem | verb | to be widowed
+shavar | noun | rush, cattail
+xhelat | noun | executioner
+mësuar | adj | accustomed; educated
+trashaluqe | noun | fat woman (mocking)
+ngathët | adj | clumsy, sluggish
+vyshkur | adj | withered
+borsh | noun | finch
+fes | noun | fez
+fide | noun | vermicelli
+fetë | noun | slice
+gardhumë | noun | stuffed lamb intestines (dish)
+murlan | noun | north-east wind
+grykës | adj | gluttonous
+gojëzoj | verb | to muzzle, to gag
+gagaris | verb | to cackle (of geese)
+kaparë | noun | caper (plant)
+kollotumba | noun | somersault
+kanë | noun | jug, pitcher
+krakëllij | verb | to croak (of a raven)
+karrok | noun | carob tree
+përgjumës | adj | sleep-inducing; drowsy
+llautë | noun | lute
+tas | noun | bowl
+livando | noun | lavender
+mandragorë | noun | mandrake
+mjaullij | verb | to miaow
+vjeshtëre | noun | bridesmaid
+kulumbri | noun | blackthorn, sloe
+ndryshe | adv | otherwise, differently
+jugë | noun | south wind
+llomotis | verb | to chatter, to babble
+krenoj | verb | to make proud
+rrethprerje | noun | circumcision
+petrahil | noun | priest's stole
+kërcitje | noun | crack, snap
+konkubinë | noun | concubine
+kiç | noun | stern (of a boat)
+pulish | noun | donkey foal
+maja | noun | yeast; rennet
+kallo | noun | corn, callus
+rukolë | noun | rocket, arugula
+pisanjose | noun | slattern
+shpërgënj | noun | swaddling band
+velë | noun | sail
+stuko | noun | putty, filler
+murmuris | verb | to murmur, to grumble
+katërvargësh | noun | quatrain
+redingotë | noun | frock coat
+shtjellë | noun | whirlwind; whirlpool
+rok | noun | rock (music)
