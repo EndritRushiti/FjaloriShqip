@@ -16017,3 +16017,88 @@ shkumëzues | adj | foaming
 tharmuar | adj | leavened
 valorizoj | verb | to valorise
 vidhosje | noun | screwing
+# ── e6.tsv ──
+madhëruar | adj | glorified, exalted
+krijimtar | adj | creative
+padëmtuar | adj | undamaged
+padeklaruar | adj | undeclared
+konsoliduar | adj | consolidated
+disponueshmëri | noun | availability
+pakualifikuar | adj | unqualified
+paduruar | adj | unbearable
+binjakëzuar | adj | twinned
+paplanifikuar | adj | unplanned
+paspecifikuar | adj | unspecified
+rëndim | noun | aggravation, burden
+paprovokuar | adj | unprovoked
+paprovuar | adj | untried, unproven
+palejuar | adj | not allowed
+patheksuar | adj | unstressed
+painformuar | adj | uninformed
+pambuluar | adj | uncovered
+papunuar | adj | unworked, uncultivated
+paplotësuar | adj | unfilled, incomplete
+qendërzuar | adj | centred
+transliteruar | adj | transliterated
+pasqaruar | adj | unclarified
+sekretuar | adj | classified
+pacenuar | adj | unharmed, intact
+pandikuar | adj | uninfluenced
+lustruar | adj | polished
+pashtruar | adj | unpaved, unspread
+pavërtetuar | adj | unconfirmed
+rimuar | adj | rhymed
+emituar | adj | emitted, issued
+paangazhuar | adj | uncommitted
+helenizuar | adj | Hellenised
+pashpjeguar | adj | unexplained
+nuancuar | adj | nuanced
+pasterizuar | adj | pasteurised
+pastudiuar | adj | unstudied
+salduar | adj | welded
+militarizuar | adj | militarised
+paverifikuar | adj | unverified
+jonizuar | adj | ionised
+kalibruar | adj | calibrated
+kambanor | adj | bell-shaped
+pavlerësuar | adj | undervalued
+rrjedhor | adj | derived
+takues | noun | one who meets
+markuar | adj | marked
+paasfaltuar | adj | unpaved
+paskajor | adj | infinitival
+papunësuar | adj | unemployed
+magnetizuar | adj | magnetised
+shkurorëzuar | adj | divorced
+pandriçuar | adj | unlit
+rrumbullakuar | adj | rounded
+taksuar | adj | taxed
+palicencuar | adj | unlicensed
+pakontestuar | adj | uncontested
+paargumentuar | adj | unsubstantiated
+keqinformuar | adj | misinformed
+paformuar | adj | unformed
+ventiluar | adj | ventilated
+pakoordinuar | adj | uncoordinated
+valorizim | noun | valorisation
+pashëruar | adj | unhealed
+zhvleftësuar | adj | devalued
+demilitarizuar | adj | demilitarised
+paedukuar | adj | ill-mannered
+shpronësuar | adj | expropriated
+oksiduar | adj | oxidised
+pakompletuar | adj | incomplete
+fosilizuar | adj | fossilised
+paparalajmëruar | adj | unannounced
+korrektuar | adj | corrected
+fascinuar | adj | fascinated
+pansllavist | noun | Pan-Slavist
+linçuar | adj | lynched
+nacionalizuar | adj | nationalised
+elektrifikuar | adj | electrified
+pasiguruar | adj | uninsured
+paqytetëruar | adj | uncivilised
+dezinformuar | adj | disinformed
+gjeneralizuar | adj | generalised
+paekuilibruar | adj | unbalanced
+pagabuar | adj | error-free
