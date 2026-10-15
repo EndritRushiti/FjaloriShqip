@@ -24943,7 +24943,6 @@ hipnoterapist | noun | hypnotherapist
 skanograf | noun | scanner
 # ── d1.new.tsv ──
 fetarisht | adv | 
-ndeshkim | noun | 
 auditues | adj | 
 përballim | noun | 
 ngurim | noun | 
@@ -24978,7 +24977,6 @@ hipotekues | adj |
 fiktivitet | noun | 
 paligjshmërisht | adv | 
 dezinformues | adj | 
-sanim | noun | 
 emocionalitet | noun | 
 retorikisht | adv | 
 zgjerues | adj | 
@@ -25034,7 +25032,6 @@ meritues | adj |
 mrekullim | noun | 
 rikujtues | adj | 
 kujtues | adj | 
-ndeshkues | adj | 
 rrezikshmërisht | adv | 
 atashim | noun | 
 mashtrueshëm | adj | 
@@ -25358,7 +25355,6 @@ hamendësues | adj |
 jashtëzakonshmëri | noun | 
 joproporcionalisht | adv | 
 kalendarikisht | adv | 
-kallzues | adj | 
 kënaqshmëri | noun | 
 komandueshëm | adj | 
 kontaktueshëm | adj | 
@@ -25470,7 +25466,6 @@ kozmetikisht | adv |
 kritikim | noun | 
 lirshmërisht | adv | 
 lojalisht | adv | 
-mbëltim | noun | 
 milimetrikisht | adv | 
 pamotivueshëm | adj | 
 ndriçueshëm | adj | 
@@ -25548,7 +25543,6 @@ lotueshëm | adj |
 makroskopikisht | adv | 
 materialitet | noun | 
 mbarëkombëtarisht | adv | 
-mbëltues | adj | 
 mbivlerësues | adj | 
 mjegullueshëm | adj | 
 ndalueshëm | adj | 
@@ -25620,7 +25614,6 @@ dramaturgjikisht | adv |
 dhimbshmërisht | adv | 
 dhunueshëm | adj | 
 eksponim | noun | 
-ekzistueshëm | adj | 
 enkriptues | adj | 
 etnologjikisht | adv | 
 formalizues | adj | 
