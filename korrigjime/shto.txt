@@ -15631,3 +15631,85 @@ napolitan | noun | Neapolitan
 sicilian | noun | Sicilian
 asirian | noun | Assyrian
 dominikan | noun | Dominican
+# ── e2.tsv ──
+koçan | noun | corncob; cabbage stalk
+bluarje | noun | grinding, milling
+përtaci | noun | laziness
+alkimi | noun | alchemy
+shpopulluar | adj | depopulated
+transplantuar | adj | transplanted
+kambanore | noun | bell tower
+linjit | noun | lignite
+argon | noun | argon
+fashit | verb | to calm, to soothe
+anonimitet | noun | anonymity
+dehidratuar | adj | dehydrated
+mors | noun | Morse code
+faqezi | adj | disgraced
+birrari | noun | beer hall; brewery
+parapet | noun | parapet
+mediokritet | noun | mediocrity
+arbitraritet | noun | arbitrariness
+invaliditet | noun | disability
+polaritet | noun | polarity
+dëlirësi | noun | purity, chastity
+fazan | noun | pheasant
+kallkan | noun | turbot
+potas | noun | potash
+shpërblesë | noun | reward
+rubinet | noun | tap, faucet
+liken | noun | lichen
+brejtje | noun | gnawing; remorse
+kaki | adj | khaki
+celulit | noun | cellulite
+dembeli | noun | idleness
+endemi | noun | endemic disease; endemic species
+metonimi | noun | metonymy
+firo | noun | wastage, loss in goods
+shkëlqesi | noun | Excellency
+ndyrësi | noun | filth; vileness
+tabut | noun | coffin
+perçe | noun | veil, headscarf
+vozë | noun | large wooden cask
+torno | noun | lathe
+pelin | noun | wormwood
+senet | noun | promissory note, bond
+takëm | noun | set, outfit
+qitës | noun | marksman
+nuhatës | noun | sniffer
+zvarritës | adj | crawling; reptile
+nxjerrës | noun | extractor
+prishës | noun | destroyer; spendthrift
+rrahës | noun | beater
+dashakeqës | adj | malevolent, ill-wishing
+zhvatës | noun | extortioner
+ngasës | noun | driver, drover
+helmës | adj | poisonous
+plaçkitës | noun | plunderer, looter
+ulëritës | adj | howling, screaming
+thyes | noun | breaker
+kërcyes | noun | jumper
+antroponimi | noun | anthroponymy
+alkoolizuar | adj | alcoholised
+flakon | noun | small bottle, vial
+vargan | noun | string, train (of animals)
+filistin | noun | Philistine
+begat | adj | rich, prosperous
+shumëplanësh | adj | multi-layered, many-sided
+trekëmbësh | noun | tripod
+njëngjyrësh | adj | single-coloured
+litërsh | adj | one-litre
+katërsh | noun | foursome; the figure four
+njëorësh | adj | one-hour
+tetërrokësh | adj | octosyllabic
+trepikësh | adj | three-point
+dykrerësh | adj | two-headed
+gjumash | adj | sleepy-head
+sapodiplomuar | adj | newly graduated
+porsaformuar | adj | newly formed
+porsakrijuar | adj | newly created
+vetëqeverisur | adj | self-governing
+mirinformuar | adj | well-informed
+paanë | adj | boundless
+pakohë | adj | untimely
+shtrigan | noun | male witch
