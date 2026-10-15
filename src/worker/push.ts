@@ -33,8 +33,8 @@ const KEY_FILE = "njoftime/celesi.json";
 const STATE_FILE = "njoftime/gjendje.json";
 /** Pushes per cron run (the free plan allows 50 outgoing requests per run, R2 calls aside). */
 export const BATCH = 35;
-export const MAX_NEW_PER_DAY = 2000;
-export const MAX_OPENS_PER_DAY = 5000;
+export const MAX_NEW_PER_DAY = 500;
+export const MAX_OPENS_PER_DAY = 1000;
 /** Sent with the VAPID token: who runs the push sender (a URL, so no email address is published). */
 const CONTACT = "https://fjalorishqip.org/rreth/";
 

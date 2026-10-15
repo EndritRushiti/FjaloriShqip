@@ -3,7 +3,6 @@
  *   npm run build
  * Everything is plain HTML/CSS/JS so it can be hosted for free (GitHub Pages).
  */
-import { createHash } from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import type { Dialect, Entry, Sense, Word } from "../src/data/model.js";
@@ -108,13 +107,13 @@ function sameMeaning(w: Word): SameMeaning[] {
 const url = (p: string) => `${BASE}${p}`;
 /** Full address of a page, for search engines and link previews ("" when SITE_URL is not set). */
 const absolute = (p: string) => (SITE_URL ? SITE_URL + url(p) : "");
-/** Files from public/ linked with a content version (style.css?v=…), so browsers can keep them for a year. */
-const versions = new Map<string, string>();
-const asset = (file: string) => {
-  let v = versions.get(file);
-  if (!v) versions.set(file, (v = createHash("sha256").update(fs.readFileSync(path.join(ROOT, "public", file))).digest("hex").slice(0, 10)));
-  return url(`/${file}?v=${v}`);
-};
+/**
+ * Files from public/, linked WITHOUT a content version: a version in the link (style.css?v=…) changed all ~36,000
+ * pages whenever the CSS or script changed, and each deploy then re-uploaded every page, which used up the free R2
+ * uploads in October 2026. Unversioned, the files are kept an hour by browsers and Cloudflare's cache is emptied on
+ * every deploy, so a change reaches visitors within the hour and uploads only the changed file.
+ */
+const asset = (file: string) => url(`/${file}`);
 /** Structured data for search engines (schema.org); "<" is escaped so the JSON cannot close the script tag. */
 const jsonLd = (data: object) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", ...data }).replace(/</g, "\\u003c")}</script>`;
 const SITE_NAME = "FjaloriShqip";
