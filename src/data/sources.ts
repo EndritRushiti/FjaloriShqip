@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942";
 
 export interface SourceInfo {
   id: SourceId;
@@ -254,6 +254,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Skanimi dhe teksti grek nuk ribotohen; merren vetëm fjalët dhe kuptimet.",
       en: "The scan and the Greek text are not republished; only the words and their meanings are taken.",
+    },
+  },
+  "gazulli-1942": {
+    id: "gazulli-1942",
+    name: "Nikollë Gazulli, Fjalorth i ri – Fjalë të rralla të përdoruna në Veri të Shqipnis (Tiranë 1942)",
+    publisher: "Dom Nikollë Gazulli (1895–1946); botuar në «Visaret e Kombit», vëll. XI. Skanim në Internet Archive",
+    url: "https://archive.org/details/id-9-fjalorth-i-ri-fjale-te-rralla-te-perdoruna-ne-veri-te-shqipnis-visaret-e-kombit",
+    downloadUrl: "https://archive.org/details/id-9-fjalorth-i-ri-fjale-te-rralla-te-perdoruna-ne-veri-te-shqipnis-visaret-e-kombit",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Fjalë të rralla gege nga Veriu, me vendin ku përdoren dhe fjalën standarde kur ka. Përshkrimet shqip janë tonat. Vepra është në domen publik (autori vdiq më 1946).",
+      en: "Rare Gheg words from the North, with where they are used and the standard word where there is one. The Albanian descriptions are our own. The work is in the public domain (the author died in 1946).",
+    },
+    notUsed: {
+      sq: "Përkufizimet e Gazullit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre.",
+      en: "Gazulli's definitions are not copied; only the words and their meaning are taken.",
     },
   },
 };
