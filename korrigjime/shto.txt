@@ -17731,3 +17731,322 @@ biomjekësor | adj | biomedical
 unipolar | adj | unipolar
 turkofob | adj | Turcophobe
 njëpërdorimsh | adj | single-use
+# ── m7.new.tsv ──
+vetëcensurë | noun | self-censorship
+skoliozë | noun | scoliosis
+orkestracion | noun | orchestration
+europianizues | adj | Europeanizing
+kanatjerë | noun | vest, tank top
+palexueshëm | adj | illegible
+antimusliman | adj | anti-Muslim
+pashterrshëm | adj | inexhaustible
+impresiv | adj | impressive
+ambulantor | adj | outpatient
+hemodinamikë | noun | haemodynamics
+gjeohapësinor | adj | geospatial
+memuaristik | adj | memoir (adj.)
+shumëkulturor | adj | multicultural
+xhakuzi | noun | jacuzzi
+rivitalizim | noun | revitalization
+ulurimë | noun | howl
+lazanjë | noun | lasagne
+tifogrup | noun | fan group
+masonik | adj | Masonic
+deksametazon | noun | dexamethasone
+gjenotip | noun | genotype
+asocim | noun | association
+mbasdreke | noun | afternoon
+abuzivisht | adv | abusively
+mentol | noun | menthol
+sofistikim | noun | sophistication
+koheziv | adj | cohesive
+pozicional | adj | positional
+boshësi | noun | emptiness
+uniformitet | noun | uniformity
+negociueshëm | adj | negotiable
+hidromasazh | noun | hydromassage
+ngazëllyes | adj | exhilarating
+ankthioz | adj | anxious
+optimizim | noun | optimization
+kumulativ | adj | cumulative
+femicid | noun | femicide
+pezullues | adj | suspending
+distopik | adj | dystopian
+konservant | noun | preservative
+mobiliar | adj | furniture (adj.)
+relacional | adj | relational
+eurokomisioner | noun | European Commissioner
+diskutant | noun | discussant
+hakikat | noun | truth
+ungjillëzues | adj | evangelizing
+barkod | noun | barcode
+joperformues | adj | non-performing
+emocionant | adj | thrilling
+përvijim | noun | outlining
+distribuim | noun | distribution
+nëndarje | noun | subdivision
+bullizues | adj | bullying
+shizofren | adj | schizophrenic
+seksist | adj | sexist
+kompulsiv | adj | compulsive
+kuneiform | adj | cuneiform
+antikulturë | noun | anti-culture
+minishtet | noun | ministate
+nënzonë | noun | subzone
+kundërkombëtar | adj | anti-national
+eksploatues | adj | exploitative
+rrugaçëror | adj | thuggish
+impenjativ | adj | demanding
+parailir | adj | pre-Illyrian
+interseks | adj | intersex
+instrumentalizim | noun | instrumentalization
+humanistik | adj | humanistic
+opozitarizëm | noun | oppositionism
+buxhetim | noun | budgeting
+patetizëm | noun | pathos
+kriminalizim | noun | criminalization
+telomer | noun | telomere
+kuratorial | adj | curatorial
+akika | noun | aqiqah
+namazfalës | noun | worshipper
+selxhuk | adj | Seljuk
+sociopolitik | adj | socio-political
+fertilizim | noun | fertilization
+substancialisht | adv | substantially
+oksidant | noun | oxidant
+rikonfigurim | noun | reconfiguration
+zëvendësrektor | noun | vice-rector
+lavastovilje | noun | dishwasher
+legalist | adj | legalistic
+veriatlantik | adj | North Atlantic
+antikatolik | adj | anti-Catholic
+topogjeodezik | adj | topographic-geodetic
+duodenal | adj | duodenal
+vijimësisht | adv | continuously
+anafilaktik | adj | anaphylactic
+konfuzitet | noun | confusion
+përmbushës | adj | fulfilling
+jokritik | adj | uncritical
+ideues | noun | originator
+trilateral | adj | trilateral
+mielomë | noun | myeloma
+portabël | adj | portable
+fragjil | adj | fragile
+filantropist | noun | philanthropist
+këshilldhënës | noun | adviser
+mikrotoponim | noun | microtoponym
+guzhinier | noun | cook
+mizanskenë | noun | mise-en-scène
+veçanësi | noun | particularity
+nikah | noun | Islamic marriage contract
+franshizë | noun | franchise
+depolitizim | noun | depoliticization
+përkufizues | adj | defining
+anticivilizues | adj | anti-civilizing
+rialokim | noun | reallocation
+cionist | adj | Zionist
+gazjellës | noun | gas pipeline
+pasbizantin | adj | post-Byzantine
+mandibular | adj | mandibular
+kifle | noun | croissant
+riintegrim | noun | reintegration
+rikontroll | noun | re-check
+intramuskular | adj | intramuscular
+parafillor | adj | pre-primary
+bashkëekzistencë | noun | coexistence
+rikonceptim | noun | reconception
+planvendosje | noun | site plan
+klinicist | noun | clinician
+interdental | adj | interdental
+josteroid | adj | non-steroidal
+gjeopolitikisht | adv | geopolitically
+suksesion | noun | succession
+listim | noun | listing
+keratinë | noun | keratin
+prenotim | noun | booking
+gjysmëfinal | adj | semifinal (adj.)
+masazhator | noun | masseur
+maksilar | adj | maxillary
+monstruozitet | noun | monstrosity
+joekzistent | adj | non-existent
+preokupues | adj | worrying
+diskrecional | adj | discretionary
+sinovial | adj | synovial
+bergamask | adj | Bergamasque
+akuzator | noun | accuser
+kristianizëm | noun | Christianity
+tetanoz | noun | tetanus
+makroprudencial | adj | macroprudential
+trafikndarëse | noun | traffic divider
+apoptozë | noun | apoptosis
+neutrofil | noun | neutrophil
+mirëpërgatitur | adj | well-prepared
+gjenovez | adj | Genoese
+skuamoz | adj | squamous
+glamur | noun | glamour
+hidratant | noun | moisturizer
+fondatinë | noun | foundation (make-up)
+mostolerancë | noun | intolerance
+diskursiv | adj | discursive
+resveratrol | noun | resveratrol
+gjeomagnetik | adj | geomagnetic
+investiv | adj | investment (adj.)
+filorus | adj | pro-Russian
+ixhazet | noun | ijazah
+strukturalisht | adv | structurally
+ndërveprueshmëri | noun | interoperability
+adezion | noun | adhesion; accession
+organigramë | noun | organization chart
+bazilian | noun | Basilian
+pashitshëm | adj | unsellable
+topik | adj | topical
+fertilitet | noun | fertility
+gjyqësisht | adv | judicially
+vorioepirot | noun | "Northern Epirote"
+shenjëzim | noun | marking
+sociopat | noun | sociopath
+besmele | noun | basmala
+malus | noun | malus
+prosllav | adj | pro-Slavic
+poliuretan | noun | polyurethane
+persistent | adj | persistent
+papërsosmëri | noun | imperfection
+kromozomik | adj | chromosomal
+mualim | noun | religious teacher
+sedativ | noun | sedative
+konfliktualitet | noun | conflictuality
+postoperator | adj | postoperative
+sllavokomunist | adj | Slavo-communist
+antikolonial | adj | anti-colonial
+oshilacion | noun | oscillation
+koklear | adj | cochlear
+kantian | adj | Kantian
+ambivalencë | noun | ambivalence
+prekanceroz | adj | precancerous
+laparoskopik | adj | laparoscopic
+rabinik | adj | rabbinic
+spiritualitet | noun | spirituality
+antocianinë | noun | anthocyanin
+tavëll | noun | backgammon
+superushqim | noun | superfood
+fizibël | adj | feasible
+antisistem | adj | anti-establishment
+procesim | noun | processing
+katarzë | noun | catharsis
+studentesk | adj | student (adj.)
+kauzal | adj | causal
+antipsikotik | adj | antipsychotic
+remision | noun | remission
+kryeqeveritar | noun | head of government
+maratonomak | noun | marathon runner
+portbagazh | noun | roof rack
+reumatolog | noun | rheumatologist
+ligatinor | adj | wetland (adj.)
+aperturë | noun | aperture
+parasllav | adj | pre-Slavic
+turbodizel | adj | turbodiesel
+elektoralisht | adv | electorally
+gjenomik | adj | genomic
+ekzegjezë | noun | exegesis
+katalitik | adj | catalytic
+perinatal | adj | perinatal
+ndërmarrësi | noun | entrepreneurship
+azitromicinë | noun | azithromycin
+neuroshkencëtar | noun | neuroscientist
+lidokainë | noun | lidocaine
+detajim | noun | detailing
+multisplit | noun | multi-split air conditioner
+hamendësisht | adv | by guesswork
+kryediktator | noun | chief dictator
+torbesh | noun | Torbesh
+telebar | noun | TV-advertised remedy
+mosdakordësi | noun | disagreement
+kolostrum | noun | colostrum
+audiovizuel | adj | audiovisual
+paraekzistues | adj | pre-existing
+stomatit | noun | stomatitis
+radiofrekuencë | noun | radio frequency
+praktikim | noun | practising
+policentrik | adj | polycentric
+ikamet | noun | residence permit
+prebiotik | noun | prebiotic
+sportelist | noun | counter clerk
+intertekstual | adj | intertextual
+superjaht | noun | superyacht
+globalizues | adj | globalizing
+oleik | adj | oleic
+opinionbërës | noun | opinion-maker
+manipulativ | adj | manipulative
+subatomik | adj | subatomic
+imunoterapi | noun | immunotherapy
+ensar | noun | Ansar
+projugosllav | adj | pro-Yugoslav
+finalizues | adj | finishing
+ajvar | noun | ajvar
+flotilje | noun | flotilla
+disashekullor | adj | centuries-old
+fizikal | adj | physical
+hamendësi | noun | guess
+homocisteinë | noun | homocysteine
+detoks | noun | detox
+lumbar | adj | lumbar
+ridefinim | noun | redefinition
+egalitar | adj | egalitarian
+providencial | adj | providential
+kontradiksion | noun | contradiction
+prakticitet | noun | practicality
+mobileri | noun | furniture
+friksion | noun | friction
+lansim | noun | launch
+eminencë | noun | Eminence
+rrokadë | noun | castling
+sociokulturor | adj | sociocultural
+melaminë | noun | melamine
+selektim | noun | selection
+jugkorean | adj | South Korean
+batil | adj | void (Islam)
+jomoral | adj | immoral
+xhematli | noun | congregant
+antiinformalitet | noun | anti-informality
+juridiksional | adj | jurisdictional
+parakristian | adj | pre-Christian
+subkulturë | noun | subculture
+kapobandë | noun | gang leader
+veneracion | noun | veneration
+pitbul | noun | pit bull
+neozelandez | adj | New Zealand (adj.)
+alevi | noun | Alevi
+poliamid | noun | polyamide
+postkolonial | adj | postcolonial
+mbifaturim | noun | overbilling
+kodeinë | noun | codeine
+shumëgjuhësor | adj | multilingual
+estabilishment | noun | establishment
+mirëkuptueshëm | adj | understandable
+acetilkolinë | noun | acetylcholine
+acetilsalicilik | adj | acetylsalicylic
+rinegocim | noun | renegotiation
+vetëflijues | adj | self-sacrificing
+trotinet | noun | scooter
+koalicionim | noun | coalition-building
+vetërespekt | noun | self-respect
+kinoprovë | noun | screen test
+vetaksident | noun | single-vehicle accident
+gjithëpranishëm | adj | omnipresent
+pitoresk | adj | picturesque
+zhigolo | noun | gigolo
+shtatlartësi | noun | height
+zemzem | noun | Zamzam water
+supershtet | noun | superstate
+emfizemë | noun | emphysema
+observues | adj | observant
+traumatizues | adj | traumatizing
+trapezoidal | adj | trapezoidal
+teologjikisht | adv | theologically
+karmik | adj | karmic
+sekularist | noun | secularist
+urdu | noun | Urdu
+kategorisht | adv | categorically
+hipoglicemi | noun | hypoglycaemia
+hyjnisht | adv | divinely
+gjeotermik | adj | geothermal
