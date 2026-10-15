@@ -17101,3 +17101,291 @@ besimor | adj | religious
 interaksion | noun | interaction
 populizëm | noun | populism
 mbiveshkor | adj | adrenal
+# ── m5.new.tsv ──
+frustrues | adj | frustrating
+diplomatikisht | adv | diplomatically
+lartëcekur | adj | above-mentioned
+rekuperoj | verb | to recover
+reanimator | noun | intensive-care doctor
+influent | adj | influential
+zogist | adj | Zogist
+boshnjakisht | adv | in Bosnian
+penalizim | noun | penalization
+racionalitet | noun | rationality
+audioviziv | adj | audiovisual
+aranzhman | noun | package deal; arrangement
+mentorim | noun | mentoring
+penelatë | noun | brushstroke
+unikat | noun | one-of-a-kind item
+ambientalist | noun | environmentalist
+metastatik | adj | metastatic
+digjestiv | adj | digestive
+dizavantazh | noun | disadvantage
+kortizon | noun | cortisone
+agnostik | adj | agnostic
+agravoj | verb | to aggravate
+homofob | adj | homophobic
+mbikombëtar | adj | supranational
+konfesional | adj | confessional, denominational
+milanist | adj | AC Milan (adj.)
+fiorentin | adj | Florentine
+fibrilacion | noun | fibrillation
+lavanteri | noun | laundry
+tetraplegjik | adj | quadriplegic
+relativizoj | verb | to relativize
+celiak | adj | coeliac
+stagnim | noun | stagnation
+overdozë | noun | overdose
+imunoglobulinë | noun | immunoglobulin
+kryekomisar | noun | chief commissioner
+insistues | adj | insistent
+fjalëpak | adj | taciturn
+përdhunshëm | adj | forcible
+luzitan | adj | Lusitanian
+territorialisht | adv | territorially
+trekuartist | noun | attacking midfielder
+qytetërimor | adj | civilizational
+nënvariant | noun | subvariant
+makiato | noun | macchiato
+trushpëlarë | adj | brainwashed
+penitenciar | adj | penitentiary
+likujdim | noun | settlement
+drenicak | noun | native of Drenica
+gjobëvënie | noun | fining
+antimafia | adj | anti-mafia
+joverbal | adj | non-verbal
+shasi | noun | chassis
+policesk | adj | detective (adj.)
+rikujtesë | noun | reminder
+hendikep | noun | handicap
+sfidant | noun | challenger
+apologjetik | adj | apologetic (defending)
+konfident | noun | informant
+tonifikues | adj | toning
+antijugosllav | adj | anti-Yugoslav
+simultan | adj | simultaneous
+stërgjatur | adj | drawn-out
+vetëmlindur | adj | only-begotten
+fortifikues | adj | fortifying
+koncertal | adj | concert (adj.)
+statuskuo | noun | status quo
+pankreatit | noun | pancreatitis
+triptofan | noun | tryptophan
+metformin | noun | metformin
+bebush | noun | little baby
+kryeopozitar | noun | opposition leader
+agropërpunues | adj | agro-processing
+mendimor | adj | of thought
+hospitalizim | noun | hospitalization
+potez | noun | move, gesture
+ndërqytetas | adj | intercity
+përgjysmim | noun | halving
+kompensues | adj | compensatory
+bashkëpartiak | noun | party colleague
+fotogaleri | noun | photo gallery
+pjatancë | noun | dish
+kofano | noun | car boot
+rektal | adj | rectal
+leptinë | noun | leptin
+pakashumë | adv | more or less
+brohorimë | noun | cheer
+vaksinal | adj | vaccine (adj.)
+kontestimor | adj | contesting
+osmanisht | adv | in Ottoman Turkish
+paraplegjik | adj | paraplegic
+spunto | noun | cue, starting point
+oksigjenoterapi | noun | oxygen therapy
+frekuent | adj | frequent
+disponibilitet | noun | availability
+mikroplastikë | noun | microplastic
+skuderi | noun | racing team
+futuristik | adj | futuristic
+kalçeto | noun | five-a-side football
+lejtnant | noun | lieutenant
+irritues | adj | irritating
+biokarburant | noun | biofuel
+karakterial | adj | character (adj.)
+postal | adj | postal
+detoksifikues | adj | detoxifying
+avokim | noun | advocacy
+sistolik | adj | systolic
+somatik | adj | somatic
+stresant | adj | stressful
+restaurator | noun | restorer
+kishëz | noun | small church
+median | adj | median
+joliberal | adj | illiberal
+doktrinor | adj | doctrinal
+patronazhist | noun | canvasser
+sinuzit | noun | sinusitis
+sensualitet | noun | sensuality
+ekstern | adj | external
+remiks | noun | remix
+ezofageal | adj | oesophageal
+hidroizolim | noun | waterproofing
+motorsport | noun | motorsport
+zëvendëstrajner | noun | assistant coach
+talasemik | noun | thalassaemia patient
+parakolp | noun | bumper
+patatina | noun | crisps
+gjidhënës | adj | breastfeeding
+kazeinë | noun | casein
+trukim | noun | rigging
+parakualifikues | adj | pre-qualifying
+proevropian | adj | pro-European
+vazal | noun | vassal
+periapikal | adj | periapical
+kroçerë | noun | cruise ship
+disafish | adv | several times over
+psikikisht | adv | mentally
+sytjena | noun | bra
+madhërim | noun | glorification
+difensiv | adj | defensive
+autocensurë | noun | self-censorship
+ikindi | noun | afternoon prayer
+gurbet | noun | working abroad
+klering | noun | clearing
+faktoring | noun | factoring
+gjysmëvjetor | noun | half-year
+qejfmbetje | noun | offence taken
+enturazh | noun | entourage
+paluajtshmëri | noun | real estate
+hamletian | adj | Hamletian
+prenatal | adj | prenatal
+kryehajdut | noun | chief thief
+persekutues | adj | persecuting
+hafiz | noun | hafiz
+gjermanik | adj | Germanic
+karrexhatë | noun | carriageway
+kryendeshje | noun | headline match
+billbord | noun | billboard
+skudet | noun | Scudetto
+millosheviqian | adj | Milošević-era
+skijim | noun | skiing
+okluzal | adj | occlusal
+implantar | adj | implant (adj.)
+zhbllokues | adj | unblocking
+kavitet | noun | cavity
+persekutor | noun | persecutor
+fotomodele | noun | photo model
+vizualizim | noun | visualization
+dekoracion | noun | decoration
+artikulues | adj | articulating
+tarracim | noun | terracing
+prozhektor | noun | spotlight
+stalinian | adj | Stalinist
+antidoping | adj | anti-doping
+konjunkturor | adj | conjunctural
+antikrizë | adj | anti-crisis
+fungal | adj | fungal
+konfort | noun | comfort
+albanofobi | noun | Albanophobia
+tjetërsues | adj | alienating
+tabelar | adj | tabular
+gestacional | adj | gestational
+ferrokrom | noun | ferrochrome
+sulltanor | adj | sultan's
+nukleotid | noun | nucleotide
+vegan | adj | vegan
+kontributdhënës | noun | contributor (payer)
+soldateskë | noun | soldiery
+baner | noun | banner
+drastikisht | adv | drastically
+disponibël | adj | available
+maskilist | adj | male chauvinist
+ahlak | noun | morals
+papal | adj | papal
+obsesiv | adj | obsessive
+referencial | adj | reference (adj.)
+abnormal | adj | abnormal
+flirtues | adj | flirtatious
+histaminë | noun | histamine
+androlog | noun | andrologist
+laminat | noun | laminate
+grejpfrut | noun | grapefruit
+bodigard | noun | bodyguard
+parezistueshëm | adj | irresistible
+vizibilitet | noun | visibility
+dermatologjikisht | adv | dermatologically
+peptik | adj | peptic
+skrib | noun | scribe
+literalisht | adv | literally
+ultranacionalist | noun | ultranationalist
+skualifikim | noun | disqualification
+parasezonal | adj | pre-season
+epitelial | adj | epithelial
+hiperaktiv | adj | hyperactive
+avans | noun | advance
+frustracion | noun | frustration
+likid | adj | liquid
+hitlerian | adj | Hitlerite
+nukleik | adj | nucleic
+androgjen | adj | androgen
+koralor | adj | coral (adj.)
+spinal | adj | spinal
+futbolldashës | noun | football fan
+paralagje | noun | shanty town
+krematorium | noun | crematorium
+vulgaritet | noun | vulgarity
+jotolerant | adj | intolerant
+joshtetëror | adj | non-state
+grekofil | adj | philhellene
+paraislam | adj | pre-Islamic
+salçiçe | noun | sausage
+eskatologjik | adj | eschatological
+ndërbankar | adj | interbank
+pazbatueshëm | adj | unenforceable
+paraeliminator | adj | preliminary-round
+pragndeshje | noun | pre-match
+paragrek | adj | pre-Greek
+sëmundshmëri | noun | morbidity
+salicilik | adj | salicylic
+joparlamentar | adj | extra-parliamentary
+sheshxhirim | noun | film set
+multifetar | adj | multi-faith
+kolonist | noun | colonist
+klientelizëm | noun | clientelism
+dualitet | noun | duality
+rulotë | noun | caravan
+aksional | adj | share (adj.)
+vendparkim | noun | parking space
+gjeotermal | adj | geothermal
+shumëemëror | adj | multi-name
+kryeipeshkëv | noun | archbishop
+neonatal | adj | neonatal
+kurorëshkelje | noun | adultery
+postdiplomik | adj | postgraduate
+trinitar | adj | Trinitarian
+fiktivisht | adv | fictitiously
+plotëfuqishëm | adj | plenipotentiary
+valvol | noun | valve
+aramaik | adj | Aramaic
+triller | noun | thriller
+eurointegrues | adj | EU-integration (adj.)
+indikoj | verb | to indicate
+teknikalitet | noun | technicality
+jodiskriminues | adj | non-discriminatory
+alergolog | noun | allergist
+superluksoz | adj | ultra-luxurious
+kequshqyer | adj | malnourished
+filozofikisht | adv | philosophically
+neuroshkencë | noun | neuroscience
+konjuktivit | noun | conjunctivitis
+erogjen | adj | erogenous
+astrologjik | adj | astrological
+zëvendësambasador | noun | deputy ambassador
+benzodiazepinë | noun | benzodiazepine
+golshënues | noun | goalscorer
+diskrepancë | noun | discrepancy
+gabimtar | adj | error-prone
+biotinë | noun | biotin
+përkthimor | adj | translational
+monoetnik | adj | mono-ethnic
+klaster | noun | cluster
+hipotetikisht | adv | hypothetically
+indoktrinim | noun | indoctrination
+naivisht | adv | naively
+asambleist | noun | assembly member
+luteinë | noun | lutein
+keqqeverisur | adj | misgoverned
+turkmen | adj | Turkmen
