@@ -16557,3 +16557,274 @@ dopietë | noun | brace (two goals)
 saherë | adv | whenever
 përqas | verb | to compare
 monstër | noun | monster
+# ── m3.new.tsv ──
+aksesueshëm | adj | accessible
+superlativ | adj | superlative
+prokurorial | adj | prosecutorial
+ekskluzivitet | noun | exclusivity
+aparencë | noun | appearance
+inspirues | adj | inspiring
+modeling | noun | modelling
+flavonoid | noun | flavonoid
+steroid | noun | steroid
+bllof | noun | bluff
+katarsis | noun | catharsis
+minutazh | noun | playing time
+terapist | noun | therapist
+kremoz | adj | creamy
+lokalisht | adv | locally
+mosmbajtje | noun | failure to keep
+prevalencë | noun | prevalence
+diabetik | adj | diabetic
+masovik | adj | mass (adj.)
+tranzicional | adj | transitional
+mazhoritar | adj | majoritarian
+refluks | noun | reflux
+melatoninë | noun | melatonin
+mësimnxënie | noun | learning
+sharm | noun | charm
+destruktiv | adj | destructive
+klinikisht | adv | clinically
+spostim | noun | shift, relocation
+uellsian | adj | Welsh
+mahallë | noun | neighbourhood (old quarter)
+masterplan | noun | master plan
+destabilitet | noun | instability
+probiotik | noun | probiotic
+multifunksional | adj | multifunctional
+kavilje | noun | ankle
+delirant | adj | delirious
+dëshpërimisht | adv | desperately
+barcaletë | noun | joke
+konstelacion | noun | constellation
+interkoneksion | noun | interconnection
+minber | noun | minbar (pulpit)
+piksel | noun | pixel
+depresiv | adj | depressive
+estetikisht | adv | aesthetically
+dekoder | noun | decoder
+karshillëk | noun | contrariness
+surreal | adj | surreal
+karikim | noun | charging; top-up
+kontinuitet | noun | continuity
+prorus | adj | pro-Russian
+melodioz | adj | melodious
+murature | noun | masonry
+ankimim | noun | appeal, complaint
+statistikisht | adv | statistically
+iracional | adj | irrational
+xhest | noun | gesture
+korsi | noun | lane
+sistemik | adj | systemic
+sened | noun | title deed
+sinergji | noun | synergy
+incentivë | noun | incentive
+staminal | adj | stem (cell)
+polifenol | noun | polyphenol
+meritokraci | noun | meritocracy
+lipid | noun | lipid
+paranojak | adj | paranoid
+diabolik | adj | diabolical
+lojal | adj | loyal
+xhihadist | noun | jihadist
+krucial | adj | crucial
+antiplumb | adj | bulletproof
+fiksion | noun | fiction
+mendjehapur | adj | open-minded
+proamerikan | adj | pro-American
+torinez | adj | Turinese
+jolegjitim | adj | illegitimate
+dermatit | noun | dermatitis
+adult | adj | adult
+folikul | noun | follicle
+dyzinë | noun | dozen
+oksidativ | adj | oxidative
+llozhë | noun | box (theatre)
+autoshkollë | noun | driving school
+egjiptas | noun | Egyptian
+tribal | adj | tribal
+kolorektal | adj | colorectal
+transkript | noun | transcript
+kompozicional | adj | compositional
+matrimonial | adj | matrimonial
+mukus | noun | mucus
+akcion | noun | action, campaign
+ekzistent | adj | existing
+spekullim | noun | speculation
+supermodele | noun | supermodel
+transnacional | adj | transnational
+parizien | adj | Parisian
+tabulat | noun | phone records
+eksitues | adj | exciting
+sportivitet | noun | sportsmanship
+pandemik | adj | pandemic
+komplimentoj | verb | to compliment
+sheriatik | adj | sharia (adj.)
+eurobond | noun | Eurobond
+juventin | adj | Juventus (adj.)
+esencialisht | adv | essentially
+amendim | noun | amendment
+narkotrafik | noun | drug trafficking
+proaktiv | adj | proactive
+hepatik | adj | hepatic
+frenetik | adj | frenetic
+shezlong | noun | deckchair
+minishengen | noun | Mini-Schengen
+kapriço | noun | whim
+tripletë | noun | hat-trick
+islamist | noun | Islamist
+avokues | adj | advocacy (adj.)
+psiqikisht | adv | mentally
+endorfinë | noun | endorphin
+sedentar | adj | sedentary
+sherebelë | noun | sage
+rigjenerues | adj | regenerating
+detajisht | adv | in detail
+rigorozisht | adv | rigorously
+periodontit | noun | periodontitis
+elektronikisht | adv | electronically
+bardhekaltër | adj | white-and-blue
+nënforum | noun | subforum
+lobing | noun | lobbying
+barazpeshë | noun | balance
+stratosferik | adj | sky-high
+mesxhid | noun | small mosque
+turpërues | adj | shameful
+jokushtetues | adj | unconstitutional
+elaboroj | verb | to elaborate
+smog | noun | smog
+videokonferencë | noun | video conference
+endodontik | adj | endodontic
+vizuel | adj | visual
+moderim | noun | moderation
+videomesazh | noun | video message
+dentinë | noun | dentine
+mobilitet | noun | mobility
+abrahamik | adj | Abrahamic
+kryesocialist | noun | Socialist leader
+sharmant | adj | charming
+hipersonik | adj | hypersonic
+negativitet | noun | negativity
+firmëtar | noun | signatory
+kompleksitet | noun | complexity
+kafiteri | noun | café
+profitabil | adj | profitable
+banditesk | adj | thuggish
+subkoshiencë | noun | subconscious
+dhikër | noun | dhikr
+nënqiell | noun | the world under the sky
+nepotik | adj | nepotistic
+bastor | adj | betting (adj.)
+uruguajan | adj | Uruguayan
+megapiksel | noun | megapixel
+tentakul | noun | tentacle
+strehëz | noun | small shelter
+larmishmëri | noun | variety
+vizualisht | adv | visually
+manualisht | adv | manually
+arqipeshkëv | noun | archbishop
+progesteron | noun | progesterone
+mjaftueshmërisht | adv | sufficiently
+specialistik | adj | specialist (adj.)
+psikotrop | adj | psychotropic
+iluzor | adj | illusory
+venezuelian | adj | Venezuelan
+korrespondues | adj | corresponding
+kazamat | noun | dungeon
+antiinflamator | adj | anti-inflammatory
+kurrikular | adj | curricular
+keqazi | adv | badly
+skualifikoj | verb | to disqualify
+ndjesor | adj | sensory
+supremaci | noun | supremacy
+neglizhent | adj | negligent
+kubanez | adj | Cuban
+klientelist | adj | clientelist
+ireal | adj | unreal
+dakordim | noun | agreement
+nënkomision | noun | subcommittee
+startues | adj | starting (player)
+antishpifje | adj | anti-defamation
+kokteil | noun | cocktail
+pediatrik | adj | paediatric
+mamografi | noun | mammography
+interurban | adj | intercity
+kompetitiv | adj | competitive
+matematicien | noun | mathematician
+kortezi | noun | courtesy
+mikrofinancë | noun | microfinance
+rifiniturë | noun | finishing
+katalan | adj | Catalan
+sprej | noun | spray
+heshturazi | adv | silently
+supergol | noun | great goal
+psoriazë | noun | psoriasis
+prapseprapë | adv | nevertheless
+kulisë | noun | wings (of a stage)
+poetikisht | adv | poetically
+rrumpallë | noun | junk
+eolik | adj | wind (adj.)
+hemodializë | noun | haemodialysis
+predispozicion | noun | predisposition
+transmetueshëm | adj | transmissible
+konsolë | noun | console
+disbalancë | noun | imbalance
+mediatikisht | adv | in the media
+sakral | adj | sacred
+intervistim | noun | interviewing
+urdhërarrest | noun | arrest warrant
+vibrim | noun | vibration
+komponim | noun | compound
+verdheblu | adj | yellow-and-blue
+natyralisht | adv | naturally
+rafting | noun | rafting
+kryetrajner | noun | head coach
+fatalisht | adv | fatally
+inatçor | adj | irritable
+karantinim | noun | quarantine
+proteinik | adj | protein (adj.)
+multidisiplinar | adj | multidisciplinary
+fantashkencë | noun | science fiction
+motomjet | noun | motor vehicle (two-wheeler)
+iktus | noun | stroke
+protagonizëm | noun | self-promotion
+psikosocial | adj | psychosocial
+sediment | noun | sediment
+jostabil | adj | unstable
+hixhame | noun | cupping therapy
+shelf | noun | continental shelf
+krahasimisht | adv | comparatively
+judaik | adj | Judaic
+konfirmues | adj | confirming
+kundërkandidat | noun | rival candidate
+konkurrueshmëri | noun | competitiveness
+parakohe | adv | prematurely
+empatik | adj | empathetic
+muxhahid | noun | mujahid
+parapolitik | adj | para-political
+mizerabël | adj | miserable
+eskaloj | verb | to escalate
+kondom | noun | condom
+vetratë | noun | stained-glass window
+nënkontraktor | noun | subcontractor
+mikrogram | noun | microgram
+konfliktuoz | adj | quarrelsome
+autoritativ | adj | authoritative
+pejgamberik | adj | prophetic
+mesianik | adj | messianic
+obligativ | adj | obligatory
+ortodontik | adj | orthodontic
+implicit | adj | implicit
+fetal | adj | fetal
+kaligrafi | noun | calligraphy
+determinues | adj | determining
+gjidhënie | noun | breastfeeding
+virolog | noun | virologist
+lizing | noun | leasing
+zodiakal | adj | zodiacal
+precizion | noun | precision
+sorosian | adj | Soros-related
+fiskulturë | noun | physical education
+parashikueshmëri | noun | predictability
+pelvik | adj | pelvic
+tabernakull | noun | tabernacle
