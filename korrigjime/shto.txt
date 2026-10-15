@@ -15931,3 +15931,89 @@ nëndhesë | adj | underground
 përfillshëm | adj | noteworthy
 partishëm | adj | partisan, biased
 papërmirësueshëm | adj | incorrigible
+# ── e5.tsv ──
+porsazbuluar | adj | newly discovered
+qëmotshëm | adj | ancient, age-old
+shtrenjtoj | verb | to make more expensive
+stërmundoj | verb | to torment greatly
+farfuritës | adj | fluttering, flickering
+feksur | adj | lit up, dawning
+fshehës | noun | concealer
+hidromat | noun | press stud, snap fastener
+kokëngjeshur | adj | stubborn
+njëditësh | adj | one-day
+riprovuar | adj | re-tested
+sokëllimë | noun | loud cry, shout
+ekonomizuar | adj | economised, saved
+humanizoj | verb | to humanise
+pafarë | adj | seedless
+pulitur | adj | crouched, hidden
+sugjestionoj | verb | to influence by suggestion
+synues | adj | aiming
+tenderoj | verb | to put out to tender
+eternit | noun | asbestos-cement sheet
+karfosur | adj | pinned, nailed
+kronometruar | adj | timed
+pavulosur | adj | unsealed, unstamped
+balsamuar | adj | embalmed
+fren | noun | brake
+kundërshtor | adj | adversative
+pafilluar | adj | not begun
+paqëruar | adj | unpeeled
+pikësynoj | verb | to aim at, to target
+regëtimë | noun | twitch, flutter
+robtuar | adj | exhausted, worn out
+thyerës | adj | breaking
+verbëroj | verb | to blind, to dazzle
+zhuritës | adj | scorching
+kajzer | noun | Kaiser
+katërgjuhësh | adj | four-language
+predisponuar | adj | predisposed
+shirës | noun | thresher
+shumëmiliardësh | adj | multi-billion
+zymtuar | adj | gloomy
+dallgëzoj | verb | to ripple, to undulate
+distribuoj | verb | to distribute
+okazional | adj | occasional
+panjeri | noun | lack of people; inhumanity
+ripërkufizoj | verb | to redefine
+shkrehës | noun | trigger
+tafta | noun | taffeta
+zadrimor | noun | inhabitant of Zadrima
+çminuar | adj | demined
+pafrikë | adj | fearless
+shkarravitës | noun | scribbler
+turfullimë | noun | snort
+ardhmëni | noun | the future
+burues | adj | springing, flowing
+dehumanizoj | verb | to dehumanise
+gjëmimtar | adj | thundering
+gojëz | noun | muzzle
+gromësirë | noun | belch
+kashtor | adj | straw, straw-coloured
+ligjësoj | verb | to legalise
+njëdrejtimësh | adj | one-way
+palogjikë | adj | illogical
+paprogramuar | adj | unscheduled
+pashpenzuar | adj | unspent
+revolucionoj | verb | to revolutionise
+shuarës | noun | extinguisher
+vegulli | noun | illusion, apparition
+vetëlindur | adj | self-born
+demontoj | verb | to dismantle
+fantazim | noun | fantasising
+kleptomani | noun | kleptomania
+mbivotuar | adj | voted with a large majority
+porsaçliruar | adj | newly liberated
+rishitës | noun | reseller
+trokëllimë | noun | clatter
+gjashtëkatësh | adj | six-storey
+farfuritje | noun | fluttering
+fashitje | noun | calming, subsiding
+mballomë | noun | patch
+paplakur | adj | ageless
+shkretues | adj | devastating
+shkumëzues | adj | foaming
+tharmuar | adj | leavened
+valorizoj | verb | to valorise
+vidhosje | noun | screwing
