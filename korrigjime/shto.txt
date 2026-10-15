@@ -27772,4 +27772,67 @@ pasheshuar | adj |
 patransformuar | adj | 
 patunduar | adj | 
 pavizituar | adj | 
-pazaptuar | adj | 
+pazaptuar | adj |
+# ── si1.new.tsv ──
+bardhësi | noun | whiteness
+vështirësisht | adv | with difficulty
+vërtetësisht | adv | truly
+korrektësisht | adv | correctly
+fortësisht | adv | strongly
+shurdhëri | noun | deafness
+pafajësisht | adv | innocently
+harbutëri | noun | boorishness
+ngurtësisht | adv | rigidly
+mprehtësisht | adv | sharply
+pacipësi | noun | shamelessness
+pacipësisht | adv | shamelessly
+gjallësi | noun | liveliness
+gjallësisht | adv | vividly
+kryeneçësisht | adv | obstinately
+pafytyrësisht | adv | brazenly
+veçantësi | noun | particularity
+pafatësi | noun | misfortune
+syçelësi | noun | alertness
+verdhësi | noun | yellowness
+modestësisht | adv | modestly
+fatlumësisht | adv | fortunately
+fatlumësi | noun | good fortune
+kompaktësisht | adv | compactly
+njëjtësisht | adv | identically
+perfektësisht | adv | perfectly
+privatësisht | adv | privately
+brishtësisht | adv | fragilely
+zymtësisht | adv | gloomily
+kurnacëri | noun | stinginess
+njomësi | noun | tenderness, freshness
+majmëri | noun | fatness
+ndërsjellësisht | adv | mutually
+përkorësi | noun | moderation
+afatgjatësi | noun | long-term nature
+binjakëri | noun | twinship
+fetarësi | noun | religiousness
+syleshësi | noun | naivety
+zemërgjerësisht | adv | generously
+dashakeqësisht | adv | malevolently
+kryenaltësi | noun | pride
+lashtësisht | adv | anciently
+mendjemadhësisht | adv | arrogantly
+pamëshirësi | noun | mercilessness
+pamëshirësisht | adv | mercilessly
+vetjakësi | noun | individuality
+barabartësi | noun | equality
+barabartësisht | adv | equally
+huajësi | noun | foreignness
+prehtësi | noun | sharpness
+mashkullorësi | noun | masculinity
+poshtërësi | noun | baseness
+thartësi | noun | sourness
+zhdrejtësi | noun | obliqueness
+tinësisht | adv | sneakily
+shtrembëri | noun | crookedness
+padenjësisht | adv | unworthily
+paanësisht | adv | impartially
+ftohtësisht | adv | coldly
+shpejtësisht | adv | quickly
+fshehtësisht | adv | secretly
+ndërkombëtarësisht | adv | internationally
