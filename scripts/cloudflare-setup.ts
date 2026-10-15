@@ -13,6 +13,7 @@
  *
  *   npx tsx scripts/cloudflare-setup.ts          rules + main domain on the bucket + empty the cache (safe to re-run)
  *   npx tsx scripts/cloudflare-setup.ts --purge  only empty Cloudflare's cache
+ *   npx tsx scripts/cloudflare-setup.ts --rules-only  only the rules (no R2 call, no cache purge)
  *
  * Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN. Besides the Workers permissions, the token needs
  * for the zone: Zone Read, DNS Edit, Transform Rules Edit, Cache Rules Edit,
@@ -179,6 +180,10 @@ async function main() {
     await api("PUT", `/zones/${zone.id}/rulesets/phases/${phase}/entrypoint`, { rules: list });
     console.log(`rules: ${phase} (${list.length})`);
   }
+
+  // --rules-only: while the month's free R2 uploads are used up, only the rules change (no bucket call, no cache purge,
+  // which would make Cloudflare read every page from R2 again)
+  if (process.argv.includes("--rules-only")) return;
 
   // the private reports bucket must exist before the Worker that uses it is deployed
   const buckets = await api<{ buckets: { name: string }[] }>("GET", `/accounts/${account}/r2/buckets`);
