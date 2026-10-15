@@ -15827,3 +15827,107 @@ pandihmë | adj | helpless
 largues | noun | remover
 pashqyrtuar | adj | unexamined
 rrufjan | noun | rascal
+# ── e4.tsv ──
+stukoj | verb | to fill with putty, to plaster
+fëshfërimë | noun | rustle
+gumëzhitje | noun | hum, buzz
+lehoni | noun | confinement after childbirth
+fatbardhësi | noun | good fortune
+helmësi | noun | venomousness; bitterness
+rekuizitë | noun | props (theatre)
+plagomë | noun | wound, sore
+dhjamosje | noun | fatty degeneration
+laktat | noun | lactate
+agrofond | noun | agricultural land stock
+diorit | noun | diorite
+plasman | noun | placing; market placement
+trapezari | noun | refectory
+dekanat | noun | dean's office
+nefrit | noun | nephritis; jade
+teatralitet | noun | theatricality
+hedhurinë | noun | refuse, junk
+baltovinë | noun | muddy place
+begatim | noun | enrichment
+shtatanik | noun | child born at seven months
+brilantinë | noun | brilliantine
+kërleshje | noun | tousled hair
+thirrmë | noun | call, shout
+donzhuan | noun | Don Juan, womaniser
+xurxull | adj | soaked through
+tutkun | adj | infatuated
+pakripë | adj | saltless, insipid
+pakulturë | adj | uncultured
+urryes | adj | hating, hateful
+qethës | noun | shearer
+mprehës | noun | sharpener
+grirës | adj | grinding, mincing
+braktisës | noun | deserter, abandoner
+shtrydhës | adj | squeezing
+skalitës | noun | carver, engraver
+tjerrës | noun | spinner
+pëshpëritës | adj | whispering
+shndritës | adj | shining, luminous
+këlthitës | adj | shrieking
+dëfryes | adj | entertaining
+trullosës | adj | stupefying, dizzying
+kanosës | adj | threatening
+dalzotës | noun | guarantor, protector
+qindësh | noun | a hundred (note, group)
+dykrahësh | adj | two-winged, two-armed
+pesëkatësh | adj | five-storey
+njëaktësh | adj | one-act
+disaditësh | adj | lasting several days
+dyorësh | adj | two-hour
+treditësh | adj | three-day
+dyditësh | adj | two-day
+dyshkronjësh | adj | two-letter
+shumëformësh | adj | multiform
+disakatësh | adj | multi-storey
+gojartë | adj | golden-tongued
+fatmirë | adj | fortunate
+pavënë | adj | not placed, not set
+pangjarë | adj | unlike, peerless
+halleshumë | adj | troubled, burdened with cares
+pabujë | adj | quiet, unassuming
+gjelbërosh | adj | greenish
+centripet | adj | centripetal
+ezopik | adj | Aesopian
+rruajtje | noun | shaving
+vajosje | noun | oiling; anointing
+rinjohur | adj | recognised again
+inventarizuar | adj | inventoried
+nyjëtuar | adj | jointed; articled
+ndruajtur | adj | shy, timid
+ngazëlluar | adj | jubilant
+riinstaluar | adj | reinstalled
+doganuar | adj | customs-cleared
+matufosur | adj | senile
+emaluar | adj | enamelled
+gajasur | adj | laughing heartily
+borgjezuar | adj | bourgeoisified
+stërmadhuar | adj | exaggerated, inflated
+normëzuar | adj | standardised
+bojatisur | adj | painted
+dezorientuar | adj | disoriented
+trallisur | adj | dazed
+çngjyrosur | adj | discoloured
+stivuar | adj | stacked
+riregjistruar | adj | re-registered
+riedukuar | adj | re-educated
+keqpërdoruar | adj | misused, abused
+limuar | adj | filed, polished
+ripaketuar | adj | repackaged
+shkartisur | adj | dissolute
+sëkëlldisur | adj | worried, distressed
+lerosur | adj | soiled
+çelikosur | adj | steeled
+drunjëzuar | adj | lignified, stiffened
+ngjyruar | adj | coloured
+tejçuar | adj | transmitted
+pavotuar | adj | not voted
+papërsëritur | adj | unrepeated, unique
+parespektuar | adj | not respected
+nëndhesë | adj | underground
+përfillshëm | adj | noteworthy
+partishëm | adj | partisan, biased
+papërmirësueshëm | adj | incorrigible
