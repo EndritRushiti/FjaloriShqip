@@ -15453,3 +15453,5 @@ fullikj | verb | to dirty, to defile; to shame | fëlliq
 harzanë | noun | small oil lamp
 harrë | noun | walnut | arrë
 hel | noun | skewer, spit | hell
+# ── k74.tsv ──
+hiditë | noun | gelding
