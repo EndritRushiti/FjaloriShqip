@@ -24582,3 +24582,362 @@ bioshkencë | noun | bioscience
 keqkoordinim | noun | poor coordination
 dematerializim | noun | dematerialization
 kryeekzekutor | noun | chief executor
+# ── r4.new.tsv ──
+organicist | adj | organicist
+atlantizëm | noun | Atlanticism
+industrializëm | noun | industrialism
+klimatizues | noun | air conditioner
+ekzotizim | noun | exoticization
+rifuqizim | noun | re-empowerment
+autodemaskim | noun | self-exposure
+mosprocedim | noun | non-prosecution
+kundërzhvillim | noun | counter-development
+ponderim | noun | weighting
+pluripartitizëm | noun | multi-party system
+megakrim | noun | major crime
+paravlerësim | noun | pre-assessment
+parafinancim | noun | pre-financing
+intervencionizëm | noun | interventionism
+rianëtarësim | noun | re-admission
+kreacionizëm | noun | creationism
+kryeeditor | noun | editor-in-chief
+autarkist | adj | autarkist
+psikoneurotik | adj | psychoneurotic
+konsumacion | noun | consummation
+vetëpërçmim | noun | self-contempt
+biodinamik | adj | biodynamic
+resetim | noun | reset
+strukturist | noun | structuralist
+identifikator | noun | identifier
+biosensor | noun | biosensor
+rideklarim | noun | re-declaration
+radioskopik | adj | radioscopic
+automotorizim | noun | motorization
+ekstrahepatik | adj | extrahepatic
+kronicizim | noun | chronification
+pirolitik | adj | pyrolytic
+ekspirim | noun | expiration
+jetërrëfim | noun | life story
+mitomanik | adj | mythomaniac
+videoanalist | noun | video analyst
+rimobilizim | noun | remobilization
+onirologji | noun | oneirology
+substancialist | adj | substantialist
+diafragmatik | adj | diaphragmatic
+vasalizëm | noun | vassalage
+autotransportues | noun | road haulier
+miniaturizim | noun | miniaturization
+avidinë | noun | avidin
+bashkëpropozim | noun | joint proposal
+rivizitim | noun | revisit
+antropohistorik | adj | anthropo-historical
+vendgërmim | noun | excavation site
+albanofobik | adj | Albanophobic
+parakallëzim | noun | preliminary complaint
+terebentinë | noun | turpentine
+jahvist | adj | Yahwist
+elohist | adj | Elohist
+anovulacion | noun | anovulation
+prediktor | noun | predictor
+makrocitozë | noun | macrocytosis
+osifikim | noun | ossification
+virilizim | noun | virilization
+antikoagulim | noun | anticoagulation
+protezim | noun | prosthetic fitting
+indoeuropeist | noun | Indo-Europeanist
+granulometri | noun | granulometry
+resorbues | adj | absorbable
+jokooperues | adj | uncooperative
+vetëpërgjim | noun | self-surveillance
+dytarifor | adj | dual-tariff
+korporatizim | noun | corporatization
+detrusor | noun | detrusor
+volontarist | adj | voluntarist
+albanocentrist | adj | Albanocentric
+kaskadues | adj | cascading
+vetëgjykues | adj | self-judging
+jetëpërshkrim | noun | biography
+breglumor | adj | riverside
+sekretolitik | adj | secretolytic
+spektakolarizim | noun | spectacularization
+infodemik | adj | infodemic
+socialimperializëm | noun | social imperialism
+neurozhvillues | adj | neurodevelopmental
+mosfaturim | noun | non-invoicing
+mentalizëm | noun | mentalism
+riedicion | noun | re-edition
+jokapitalist | adj | non-capitalist
+gjermanizëm | noun | Germanism
+dollarizim | noun | dollarization
+statalist | adj | statist
+paranoizëm | noun | paranoia
+harmonikist | noun | harmonica player
+inkluzivizëm | noun | inclusivism
+korporativizëm | noun | corporativism
+inkrementalist | adj | incrementalist
+nacionalshovinizëm | noun | national chauvinism
+rizomatik | adj | rhizomatic
+jainizëm | noun | Jainism
+jokonfrontues | adj | non-confrontational
+digjitalizues | adj | digitizing
+imunobiologjik | adj | immunobiological
+aerobatik | adj | aerobatic
+arkeometri | noun | archaeometry
+tematologji | noun | thematology
+teoforik | adj | theophoric
+konservacionist | noun | conservationist
+prociklik | adj | procyclical
+viskoelastik | adj | viscoelastic
+bashkëpërkthim | noun | co-translation
+masonizëm | noun | Freemasonry
+vetëzhvlerësim | noun | self-depreciation
+neuronik | adj | neuronal
+telegjenik | adj | telegenic
+telurik | adj | telluric
+kalkulacion | noun | calculation
+kardiotoksik | adj | cardiotoxic
+gjeoturizëm | noun | geotourism
+osteopatik | adj | osteopathic
+personalistik | adj | personalistic
+multipolarizëm | noun | multipolarism
+superkondensator | noun | supercapacitor
+levofloksacinë | noun | levofloxacin
+balneoturistik | adj | spa-tourism
+depersonalizues | adj | depersonalizing
+melodizim | noun | setting to music
+nacionalromantik | adj | national-romantic
+mesianist | adj | messianist
+perifrazik | adj | periphrastic
+heteronim | noun | heteronym
+enogastronomi | noun | food and wine
+antitermik | adj | antipyretic
+rekognoscim | noun | reconnaissance
+antiserbizëm | noun | anti-Serbianism
+ndrangetist | noun | 'Ndranghetista
+abnormalizim | noun | abnormalization
+veridik | adj | veridical
+aminopurinë | noun | aminopurine
+terpininë | noun | terpinene
+ballkanistik | adj | Balkanistic
+josipërfaqësor | adj | non-superficial
+rikategorizim | noun | recategorization
+limerik | noun | limerick
+bashkëlexues | noun | co-reader
+vetëbllokim | noun | self-blocking
+kabaretist | noun | cabaret artist
+jogjuhësor | adj | non-linguistic
+muzikoterapi | noun | music therapy
+jovotues | noun | non-voter
+kryebankier | noun | chief banker
+radiotransmetim | noun | radio broadcast
+postmarksist | adj | post-Marxist
+shqiptarocentrizëm | noun | Albanocentrism
+naivizëm | noun | naïve art
+riungjillëzim | noun | re-evangelization
+triboelektrik | adj | triboelectric
+gjysmëpopullor | adj | semi-folk
+psikotropik | adj | psychotropic
+gjeodemografik | adj | geodemographic
+empiricizëm | noun | empiricism
+vaporizator | noun | vaporizer
+hipersalivacion | noun | hypersalivation
+embolik | adj | embolic
+hipersekrecion | noun | hypersecretion
+poezishkrim | noun | poetry writing
+riartikulim | noun | rearticulation
+gjenerativist | noun | generativist
+viktimist | adj | victimist
+vetëpërshkrim | noun | self-description
+rikorrigjim | noun | re-correction
+kombndërtim | noun | nation-building
+administrativizëm | noun | administrativism
+turkokraci | noun | Turkish rule
+licitim | noun | bidding
+grupizim | noun | grouping
+keltologji | noun | Celtic studies
+antirevolucion | noun | counter-revolution
+ritransferim | noun | retransfer
+sinergjizëm | noun | synergism
+monakist | adj | monastic
+ndihmësmjekësor | adj | paramedical
+videorealizim | noun | video production
+ripërmasim | noun | resizing
+animalistik | adj | animalistic
+rusofobik | adj | Russophobic
+hemistik | noun | hemistich
+toskëzim | noun | Toskization
+rishqiptarizim | noun | re-Albanianization
+desllavizim | noun | de-Slavicization
+profanizëm | noun | profanity
+infantilizim | noun | infantilization
+multietnizëm | noun | multi-ethnicity
+deheroizim | noun | deheroization
+onirist | adj | oneiric
+minitregim | noun | flash fiction
+bashkëcelebrim | noun | concelebration
+balkanologji | noun | Balkan studies
+bashkëshkrues | noun | co-writer
+nëntëjavor | adj | nine-week
+elektrifikues | adj | electrifying
+silicik | adj | silicic
+katastrofizëm | noun | catastrophism
+rafinozë | noun | raffinose
+periskopik | adj | periscopic
+muzeologjik | adj | museological
+abrahamist | adj | Abrahamic
+ekonomizues | adj | economizing
+keqkalkulim | noun | miscalculation
+hologramik | adj | holographic
+videomonitorim | noun | video surveillance
+elektrokoagulim | noun | electrocoagulation
+monoaminë | noun | monoamine
+veganizëm | noun | veganism
+dekantim | noun | decanting
+endourologjik | adj | endourological
+teatralizim | noun | theatricalization
+rapidograf | noun | technical pen
+permetrinë | noun | permethrin
+teknicist | adj | technicist
+himnologji | noun | hymnology
+oftalmopati | noun | ophthalmopathy
+tomografik | adj | tomographic
+hemokoncentrim | noun | haemoconcentration
+bromfeniraminë | noun | brompheniramine
+klemastinë | noun | clemastine
+klomipraminë | noun | clomipramine
+cefaklor | noun | cefaclor
+posologji | noun | posology
+doksorubicinë | noun | doxorubicin
+enterohepatik | adj | enterohepatic
+olanzapinë | noun | olanzapine
+antiastenik | adj | anti-asthenic
+dioptrik | adj | dioptric
+tokenizëm | noun | tokenism
+multilateralist | adj | multilateralist
+traduktologji | noun | translation studies
+enukleacion | noun | enucleation
+antimetafizik | adj | anti-metaphysical
+festivalor | adj | festival
+primordialist | adj | primordialist
+eksternalizim | noun | externalization
+psaltik | adj | psaltic
+antiklerikalizëm | noun | anticlericalism
+panoptik | adj | panoptic
+riterritorializim | noun | reterritorialization
+fizikalist | adj | physicalist
+antifrazë | noun | antiphrasis
+transformizëm | noun | transformism
+konspiracionizëm | noun | conspiracism
+psikohistorik | adj | psychohistorical
+soteriologji | noun | soteriology
+antimoralist | adj | anti-moralist
+trekëndëzim | noun | triangulation
+natalizëm | noun | natalism
+epiciklik | adj | epicyclic
+kryejurist | noun | chief legal officer
+antimaterialist | adj | anti-materialist
+stoicist | adj | stoic
+nonkonformist | adj | nonconformist
+rivaskularizim | noun | revascularization
+hipermutacion | noun | hypermutation
+demineralizues | adj | demineralizing
+fitoterapist | noun | phytotherapist
+bashkëkomplotist | noun | co-conspirator
+gradualizëm | noun | gradualism
+pietist | adj | pietist
+panenteizëm | noun | panentheism
+antropocentrist | adj | anthropocentrist
+antropocentrizëm | noun | anthropocentrism
+bashkëpërjetim | noun | shared experience
+antiracionalist | adj | anti-rationalist
+neoimperialist | adj | neo-imperialist
+hanefist | adj | Hanafi
+regjionalizëm | noun | regionalism
+antiosmanizëm | noun | anti-Ottomanism
+tomizëm | noun | Thomism
+laicizues | adj | secularizing
+uniformizëm | noun | uniformism
+antisovjetizëm | noun | anti-Sovietism
+ridikulizim | noun | ridiculing
+monarkofashist | adj | monarcho-fascist
+superorganizëm | noun | superorganism
+magnetofonik | adj | tape-recorded
+konfucianizëm | noun | Confucianism
+evroskeptik | adj | Eurosceptic
+libanizim | noun | Lebanonization
+nativizëm | noun | nativism
+superspecializim | noun | super-specialization
+disidentizëm | noun | dissidence
+kalendarizim | noun | scheduling
+deterritorializim | noun | deterritorialization
+diskograf | noun | discographer
+orientalistik | adj | Orientalist
+alfabetizëm | noun | literacy
+detronizim | noun | dethronement
+antiballkanik | adj | anti-Balkan
+baptizëm | noun | Baptism (denomination)
+onkotik | adj | oncotic
+iluminator | noun | illuminator
+aerostatik | adj | aerostatic
+rokfor | noun | Roquefort
+posesivizëm | noun | possessiveness
+konfederalist | adj | confederalist
+ristandardizim | noun | restandardization
+nëntekstor | adj | subtextual
+antropogjeograf | noun | anthropogeographer
+neuroinflamacion | noun | neuroinflammation
+deteriorim | noun | deterioration
+opozitarist | adj | oppositionist
+turqëzim | noun | Turkification
+intervencionues | adj | interventionist
+etnicizim | noun | ethnicization
+astrobiologjist | noun | astrobiologist
+psikofarmakologji | noun | psychopharmacology
+epifanik | adj | epiphanic
+hipertrofizim | noun | hypertrophying
+papagallizëm | noun | parroting
+trigonelinë | noun | trigonelline
+ataturkist | adj | Kemalist
+perioperator | adj | perioperative
+neonatologjik | adj | neonatological
+bronkodilatacion | noun | bronchodilation
+imunoterapik | adj | immunotherapeutic
+helikazë | noun | helicase
+albuminuri | noun | albuminuria
+sinefrinë | noun | synephrine
+aminotransferazë | noun | aminotransferase
+denacifikim | noun | denazification
+multiplikues | noun | multiplier
+idhujtarizëm | noun | idolatry
+aktinomicinë | noun | actinomycin
+koncentrator | noun | concentrator
+jotraumatik | adj | non-traumatic
+etnobotanist | noun | ethnobotanist
+postkubist | adj | post-Cubist
+kupletist | noun | couplet writer
+moralizator | noun | moralizer
+filoislamik | adj | pro-Islamic
+transfuziologji | noun | transfusion medicine
+sekuritizim | noun | securitization
+antimperialist | adj | anti-imperialist
+endoprotetik | adj | endoprosthetic
+etruskologji | noun | Etruscology
+antishovinist | adj | anti-chauvinist
+hidroakumulues | adj | pumped-storage
+hermeticizëm | noun | hermeticism
+rikodifikim | noun | recodification
+etnolinguist | noun | ethnolinguist
+vazongushtues | adj | vasoconstrictive
+pneumatologjik | adj | pneumatological
+fotoelektronik | adj | photoelectronic
+radiometrik | adj | radiometric
+panslavist | adj | pan-Slavist
+beatifikim | noun | beatification
+fonomorfologjik | adj | phonomorphological
+elitarist | adj | elitist
+entopik | adj | entopic
+sanguinik | adj | sanguine
+epigramist | noun | epigrammatist
+bilinguist | noun | bilingual person
+hipnoterapist | noun | hypnotherapist
+skanograf | noun | scanner
