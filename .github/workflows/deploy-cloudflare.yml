@@ -39,10 +39,25 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Check this month's free R2 usage (deploys stop at 95%)
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
         run: |
           code=0
           npx tsx scripts/usage-guard.ts || code=$?
-          if [ "$code" = 2 ] || [ "$code" = 4 ]; then echo "::error::Over 95% of a free R2 allowance this month: deploy blocked until next month."; exit 1; fi
+          if [ "$code" = 2 ]; then echo "::error::Over 95% of the free R2 reads or storage this month: deploy blocked until next month."; exit 1; fi
+          if [ "$code" = 4 ]; then
+            # uploads used up: no file goes to R2, but the zone rules and the Worker (with its R2 writes off) still
+            # update, since neither touches R2; no cache purge (that would make Cloudflare read every page again)
+            npx tsx scripts/cloudflare-setup.ts --rules-only
+            if [ -n "$CONTACT_EMAIL" ]; then
+              printf '\n[[send_email]]\nname = "CONTACT"\ndestination_address = "%s"\n' "$CONTACT_EMAIL" >> wrangler.toml
+              npx --yes wrangler@4 deploy --var "CONTACT_TO:$CONTACT_EMAIL" --var "R2_WRITES:off"
+            else
+              npx --yes wrangler@4 deploy --var "R2_WRITES:off"
+            fi
+            echo "::error::Over 95% of the free R2 uploads this month: rules and Worker updated, no files uploaded until next month."
+            exit 1
+          fi
           if [ "$code" = 3 ]; then echo "::error::Could not read the usage from Cloudflare (check the API token permissions)."; exit 1; fi
           if [ "$code" = 1 ]; then echo "::warning::Over 80% of a free R2 allowance this month."; fi
       - run: npm test
