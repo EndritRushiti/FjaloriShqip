@@ -4,8 +4,11 @@
  *   npx tsx scripts/usage-guard.ts
  *
  * Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN (the token needs "Account Analytics: Read").
- * Exit code: 0 = fine, 1 = warning (≥ WARN of an allowance used), 2 = stop (≥ STOP used), 3 = could not check.
- * The workflow .github/workflows/usage-guard.yml takes the site offline on exit code 2.
+ * Exit code: 0 = fine, 1 = warning (≥ WARN of an allowance used), 2 = stop (≥ STOP of reads or storage used),
+ * 3 = could not check, 4 = no uploads (≥ STOP of Class A used, reads and storage fine).
+ * The workflow .github/workflows/usage-guard.yml takes the site offline on exit code 2 only: visitors only read, so
+ * when just the Class A allowance (uploads, writes) is used up, the site stays online while deploys and the Worker's
+ * own writes (reports, notification sign-ups, open counter) stop until the next month.
  */
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
@@ -40,6 +43,15 @@ export function classify(rows: { action: string; requests: number }[]): Pick<Usa
     else if (CLASS_B.has(r.action)) classB += r.requests;
   }
   return { classA, classB };
+}
+
+export type Status = "OK" | "WARNING" | "NO_UPLOADS" | "STOP";
+
+/** What to do: STOP (offline) only for reads or storage; NO_UPLOADS when only the Class A allowance is used up. */
+export function decide(u: Usage): Status {
+  if (Math.max(u.classB / FREE.classB, u.storageBytes / FREE.storageBytes) >= STOP) return "STOP";
+  if (u.classA / FREE.classA >= STOP) return "NO_UPLOADS";
+  return worstShare(u) >= WARN ? "WARNING" : "OK";
 }
 
 /** The highest share of any free allowance used so far (0.5 = half). */
@@ -93,8 +105,7 @@ async function main() {
   const token = process.env.CLOUDFLARE_API_TOKEN;
   if (!account || !token) throw new Error("CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN are needed");
   const u = await fetchUsage(account, token);
-  const share = worstShare(u);
-  const status = share >= STOP ? "STOP" : share >= WARN ? "WARNING" : "OK";
+  const status = decide(u);
   const report = [
     `## R2 usage this month: ${status}`,
     "",
@@ -104,12 +115,12 @@ async function main() {
     `| Class B (reads) | ${u.classB.toLocaleString("en")} | ${FREE.classB.toLocaleString("en")} | ${pct(u.classB, FREE.classB)} |`,
     `| Storage | ${(u.storageBytes / 1e9).toFixed(2)} GB | ${FREE.storageBytes / 1e9} GB | ${pct(u.storageBytes, FREE.storageBytes)} |`,
     "",
-    `Warning at ${WARN * 100}%, site goes offline at ${STOP * 100}% of any allowance.`,
+    `Warning at ${WARN * 100}% of any allowance. At ${STOP * 100}% of Class A, deploys and the Worker's writes stop (the site stays online); at ${STOP * 100}% of reads or storage the site goes offline.`,
   ].join("\n");
   console.log(report);
   if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, report + "\n");
   if (process.env.GITHUB_OUTPUT) fs.appendFileSync(process.env.GITHUB_OUTPUT, `status=${status}\n`);
-  process.exitCode = status === "STOP" ? 2 : status === "WARNING" ? 1 : 0;
+  process.exitCode = { OK: 0, WARNING: 1, STOP: 2, NO_UPLOADS: 4 }[status];
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) {

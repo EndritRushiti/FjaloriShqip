@@ -42,7 +42,7 @@ jobs:
         run: |
           code=0
           npx tsx scripts/usage-guard.ts || code=$?
-          if [ "$code" = 2 ]; then echo "::error::Over 95% of a free R2 allowance this month: deploy blocked."; exit 1; fi
+          if [ "$code" = 2 ] || [ "$code" = 4 ]; then echo "::error::Over 95% of a free R2 allowance this month: deploy blocked until next month."; exit 1; fi
           if [ "$code" = 3 ]; then echo "::error::Could not read the usage from Cloudflare (check the API token permissions)."; exit 1; fi
           if [ "$code" = 1 ]; then echo "::warning::Over 80% of a free R2 allowance this month."; fi
       - run: npm test

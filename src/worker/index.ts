@@ -34,6 +34,8 @@ export interface Env {
   /** Contact form: the send_email binding and its destination (both added at deploy from a GitHub secret). */
   CONTACT?: EmailSender;
   CONTACT_TO?: string;
+  /** "off" when the month's free R2 writes (Class A) are used up: reports, sign-ups and the open counter stop writing (usage-guard.yml). */
+  R2_WRITES?: string;
   /** Reports and suggestions from the word pages (a private bucket; src/worker/report.ts). */
   REPORTS?: ReportBucket & PushBucket;
 }
@@ -124,10 +126,12 @@ async function notFound(env: Env, head: boolean): Promise<Response> {
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     if (new URL(request.url).pathname === "/kontakt") return handleContact(request, env.CONTACT, env.CONTACT_TO);
-    if (new URL(request.url).pathname === "/raporto") return handleReport(request, env.REPORTS);
+    // without the bucket the handlers answer "unavailable" (or, for /hap, just redirect) and write nothing
+    const writable = env.R2_WRITES === "off" ? undefined : env.REPORTS;
+    if (new URL(request.url).pathname === "/raporto") return handleReport(request, writable);
     // daily notifications and the app open counter (src/worker/push.ts)
-    if (new URL(request.url).pathname === "/njoftime") return handleSubscribe(request, env.REPORTS);
-    if (new URL(request.url).pathname === "/hap") return handleOpen(request, env.REPORTS);
+    if (new URL(request.url).pathname === "/njoftime") return handleSubscribe(request, writable);
+    if (new URL(request.url).pathname === "/hap") return handleOpen(request, writable);
     if (request.method === "OPTIONS") {
       return new Response(null, {
         status: 204,
@@ -176,6 +180,8 @@ export default {
    * morning and evening hour the next batch of daily notifications (src/worker/push.ts).
    */
   async scheduled(event: { cron?: string }, env: Env): Promise<void> {
+    // the month's free R2 writes are used up: no R2 calls at all until the next month (usage-guard.yml)
+    if (env.R2_WRITES === "off") return;
     if (event.cron === WEEKLY_CRON) await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO, new Date(), await weeklyStats(env.REPORTS));
     else await sendBatch(env.REPORTS);
   },

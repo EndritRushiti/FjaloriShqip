@@ -21,3 +21,14 @@ describe("usage guard", () => {
     expect(worstShare({ classA: 10, classB: 10, storageBytes: FREE.storageBytes / 2 })).toBeCloseTo(0.5);
   });
 });
+
+describe("decide", () => {
+  it("takes the site offline only for reads or storage", async () => {
+    const { decide } = await import("../scripts/usage-guard.js");
+    expect(decide({ classA: 0, classB: 0, storageBytes: 0 })).toBe("OK");
+    expect(decide({ classA: FREE.classA * 0.85, classB: 0, storageBytes: 0 })).toBe("WARNING");
+    expect(decide({ classA: FREE.classA * 0.99, classB: 0, storageBytes: 0 })).toBe("NO_UPLOADS");
+    expect(decide({ classA: 0, classB: FREE.classB * 0.96, storageBytes: 0 })).toBe("STOP");
+    expect(decide({ classA: FREE.classA, classB: 0, storageBytes: FREE.storageBytes })).toBe("STOP");
+  });
+});
