@@ -16357,3 +16357,203 @@ sunet | noun | sunnah
 zekat | noun | zakat (alms)
 ummet | noun | the Muslim community
 farz | noun | obligatory duty (Islam)
+# ── m2.new.tsv ──
+karizmatik | adj | charismatic
+kolateral | adj | collateral
+sfilatë | noun | fashion show
+identitar | adj | identity (adj.)
+biznesor | adj | business (adj.)
+miks | noun | mix
+pensional | adj | pension (adj.)
+konfliktual | adj | conflictual
+bashkëkombas | noun | fellow countryman
+kanceroz | adj | cancerous
+kaskadë | noun | cascade
+fundamental | adj | fundamental
+kurajoz | adj | courageous
+penalitet | noun | penalty
+remitancë | noun | remittance
+destabilizues | adj | destabilizing
+hidratues | adj | moisturizing
+tabloid | noun | tabloid
+fotovoltaik | adj | photovoltaic
+islamofob | adj | Islamophobic
+lezion | noun | lesion
+komplikacion | noun | complication
+gjithëpërfshirje | noun | inclusiveness
+gjenocidal | adj | genocidal
+bloger | noun | blogger
+kryediplomat | noun | chief diplomat
+shou | noun | show
+folik | adj | folic
+sunit | adj | Sunni
+pavion | noun | pavilion, ward
+thelbësisht | adv | essentially
+virtualisht | adv | virtually
+muzeal | adj | museum (adj.)
+rekat | noun | rak'ah (unit of prayer)
+akomodues | adj | accommodating
+lobim | noun | lobbying
+lobues | adj | lobbying
+hipotekor | adj | mortgage (adj.)
+admin | noun | admin
+kambio | noun | currency exchange office
+ekzaktësisht | adv | exactly
+hollivudian | adj | Hollywood (adj.)
+dominant | adj | dominant
+verset | noun | verse (of scripture)
+pozitivitet | noun | positivity
+dopio | adj | double
+rimbursim | noun | reimbursement
+dietik | adj | dietary
+përmbajtësor | adj | content (adj.)
+obez | adj | obese
+galopant | adj | galloping, rampant
+pulmonar | adj | pulmonary
+okult | adj | occult
+hidrosanitar | adj | plumbing (adj.)
+tavaf | noun | tawaf
+vulnerabël | adj | vulnerable
+selektiv | adj | selective
+shantazhoj | verb | to blackmail
+kriptovalutë | noun | cryptocurrency
+diversitet | noun | diversity
+portual | adj | port (adj.)
+konsistent | adj | consistent
+hutbe | noun | Friday sermon
+ekzil | noun | exile
+vakancë | noun | vacancy
+statutor | adj | statutory
+pasarelë | noun | footbridge; catwalk
+ekstremisht | adv | extremely
+imobiliar | adj | real-estate (adj.)
+reanimacion | noun | intensive care; resuscitation
+replikoj | verb | to reply; to replicate
+incidencë | noun | incidence
+silikon | noun | silicone
+serbosllav | adj | Serbo-Slavic
+jomusliman | adj | non-Muslim
+tifozeri | noun | fans, supporters
+tejzgjatur | adj | overlong
+pedonal | adj | pedestrian (adj.)
+karies | noun | tooth decay
+promocional | adj | promotional
+postmodern | adj | postmodern
+ekselent | adj | excellent
+lançoj | verb | to launch
+rutinor | adj | routine
+forumist | noun | forum member
+valid | adj | valid
+kulminant | adj | culminating
+audicion | noun | audition
+boksoj | verb | to box
+asimptomatik | adj | asymptomatic
+koshient | noun | quotient
+bitkoin | noun | bitcoin
+hosting | noun | web hosting
+efiçent | adj | efficient
+hit | noun | hit
+emoji | noun | emoji
+ikonik | adj | iconic
+kortizol | noun | cortisol
+antiviral | adj | antiviral
+kurator | noun | curator
+kontur | noun | contour
+planprogram | noun | syllabus, plan
+unifikues | adj | unifying
+opinionist | noun | commentator
+shehid | noun | martyr (Islam)
+serotoninë | noun | serotonin
+transgjinor | adj | transgender
+dialogoj | verb | to hold a dialogue
+klientelë | noun | clientele
+pakompromis | adj | uncompromising
+census | noun | census
+unanimitet | noun | unanimity
+distancim | noun | distancing
+renal | adj | renal
+fuoristradë | noun | off-road vehicle
+ndërpersonal | adj | interpersonal
+uebsajt | noun | website
+autoimun | adj | autoimmune
+antigjen | noun | antigen
+zbatueshmëri | noun | enforceability
+rugovian | adj | Rugovan
+sponsorizim | noun | sponsorship
+paradoksalisht | adv | paradoxically
+ofensiv | adj | offensive
+gjenom | noun | genome
+kulminacion | noun | culmination
+gurthemel | noun | cornerstone
+elektroshtëpiak | adj | household appliance (adj.)
+inovator | adj | innovative
+facilitet | noun | facility
+marcial | adj | martial
+diskrecion | noun | discretion
+verbalisht | adv | verbally
+koshiencë | noun | conscience
+opsional | adj | optional
+llotari | noun | lottery
+stanjacion | noun | stagnation
+intelektualisht | adv | intellectually
+periodontal | adj | periodontal
+dykrenar | adj | double-headed
+respektiv | adj | respective
+hashtag | noun | hashtag
+tolerim | noun | toleration
+paszgjedhor | adj | post-election
+lustracion | noun | lustration
+kulturalisht | adv | culturally
+multikulturor | adj | multicultural
+instalacion | noun | installation
+kanoe | noun | canoe
+inicoj | verb | to initiate
+karcinomë | noun | carcinoma
+migrator | adj | migratory
+grupacion | noun | grouping, faction
+autik | adj | autistic
+zgarë | noun | grill
+musafir | noun | guest
+përbashkues | adj | unifying
+kredibil | adj | credible
+investigues | adj | investigative
+kryenegociator | noun | chief negotiator
+kompromentues | adj | compromising
+kineast | noun | filmmaker
+verdhekuq | adj | yellow-and-red
+institucionalisht | adv | institutionally
+kapanon | noun | warehouse, shed
+dispozitiv | noun | operative part (of a ruling); device
+programacion | noun | programming
+kivi | noun | kiwi
+presupozoj | verb | to presuppose
+ujgur | noun | Uyghur
+dopaminë | noun | dopamine
+azilant | noun | asylum seeker
+gjithëpopullor | adj | nationwide
+sensor | noun | sensor
+ndërshqiptar | adj | inter-Albanian
+empati | noun | empathy
+patronat | noun | patronage
+narkoshtet | noun | narco-state
+tejmase | adv | excessively
+konfidencë | noun | confidence
+miokard | noun | myocardium
+serologjik | adj | serological
+konjukturë | noun | conjuncture
+garderobë | noun | wardrobe
+katunar | noun | villager
+triglicerid | noun | triglyceride
+roaming | noun | roaming
+zjarrvënie | noun | arson
+kredibilitet | noun | credibility
+famoz | adj | famous
+fizikant | noun | physicist
+sufi | noun | Sufi
+bashkëautor | noun | co-author
+diuretik | adj | diuretic
+telajo | noun | frame; canvas
+dopietë | noun | brace (two goals)
+saherë | adv | whenever
+përqas | verb | to compare
+monstër | noun | monster
