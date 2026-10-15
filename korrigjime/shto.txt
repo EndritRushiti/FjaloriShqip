@@ -15516,3 +15516,118 @@ katërvargësh | noun | quatrain
 redingotë | noun | frock coat
 shtjellë | noun | whirlwind; whirlpool
 rok | noun | rock (music)
+# ── e1.tsv ──
+pari | noun | the elite, notables
+post | noun | post, position
+turne | noun | tour; tournament
+klan | noun | clan
+prani | noun | presence
+foton | noun | photon
+rrumbullakët | adj | round
+rënduar | adj | aggravated, worsened
+norman | noun | Norman
+sirian | noun | Syrian
+haset | noun | envy, spite
+baron | noun | baron
+amanet | noun | solemn charge, sacred trust
+pjerrët | adj | sloping, slanted
+venecian | noun | Venetian
+shprehi | noun | habit
+morinë | noun | multitude, great number
+begati | noun | wealth, abundance
+hetuesi | noun | investigative office
+protektorat | noun | protectorate
+dukat | noun | ducat
+mangët | adj | incomplete, deficient
+pafat | adj | unlucky
+anomali | noun | anomaly
+mbiquajtur | adj | so-called
+sapokrijuar | adj | newly created
+sapoformuar | adj | newly formed
+sapoemëruar | adj | newly appointed
+sapondërtuar | adj | newly built
+karate | noun | karate
+tirani | noun | tyranny
+elektron | noun | electron
+lëngët | adj | liquid, juicy
+rapsodi | noun | rhapsody
+laureat | noun | laureate
+pabesi | noun | faithlessness, treachery
+domino | noun | dominoes
+iman | noun | faith (in Islam)
+metan | noun | methane
+domen | noun | domain
+zaman | noun | time, era (old)
+hijeshi | noun | grace, charm
+leksikon | noun | lexicon
+ulema | noun | ulema, Islamic scholars
+rabin | noun | rabbi
+mitropolit | noun | metropolitan (bishop)
+zbrazëti | noun | emptiness, void
+tepri | noun | excess
+buletin | noun | bulletin
+gjuajtës | noun | hunter; shooter (sport)
+puç | noun | coup
+surrat | noun | face, mug (pejorative)
+furi | noun | fury
+finesë | noun | finesse
+barbari | noun | barbarity
+krushqi | noun | in-laws, relationship by marriage
+tabaka | noun | layer; sheet
+njëdhomësh | adj | one-room
+dydhomësh | adj | two-room
+grafit | noun | graphite
+eter | noun | ether
+katran | noun | tar
+harman | noun | threshing floor
+dhëmbëzuar | adj | toothed, serrated
+takson | noun | taxon
+kuadrat | noun | square
+ngritës | adj | lifting; lifter
+ferman | noun | firman, sultan's decree
+tanin | noun | tannin
+evlia | noun | Muslim saint
+qeleshe | noun | white felt skullcap
+sajt | noun | website
+ripërdorur | adj | reused
+butan | noun | butane
+peshqesh | noun | gift
+zhytës | noun | diver
+trengjyrësh | adj | tricolour
+pambështetur | adj | unsupported, unfounded
+hedhës | noun | thrower
+kalifat | noun | caliphate
+meteorit | noun | meteorite
+rrëshqitës | adj | sliding, slippery
+përshtatës | noun | adapter
+përtëritje | noun | renewal
+feri | noun | ferry
+përgatitës | adj | preparatory
+bastun | noun | walking stick
+pluhurosur | adj | dusty
+termometër | noun | thermometer
+premi | noun | bonus, premium
+qepen | noun | shop shutter
+pirit | noun | pyrite
+lapsus | noun | slip of the tongue
+primat | noun | primacy; primate
+agar | noun | agar
+florinjtë | adj | golden
+çeçen | noun | Chechen
+bit | noun | bit
+car | noun | tsar
+rubin | noun | ruby
+puro | noun | cigar
+bajt | noun | byte
+rimorkio | noun | trailer
+korije | noun | grove, coppice
+xhin | noun | jinn
+ndërprerës | noun | switch
+kuban | noun | Cuban
+libian | noun | Libyan
+prusian | noun | Prussian
+peruan | noun | Peruvian
+napolitan | noun | Neapolitan
+sicilian | noun | Sicilian
+asirian | noun | Assyrian
+dominikan | noun | Dominican
