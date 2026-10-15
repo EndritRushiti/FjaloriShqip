@@ -21883,3 +21883,410 @@ disharmonik | adj | disharmonious
 termogjenik | adj | thermogenic
 koautorësi | noun | co-authorship
 apofatik | adj | apophatic
+# ── m19.new.tsv ──
+rrjetizim | noun | networking
+trezor | noun | safe, treasury
+higjienikisht | adv | hygienically
+jokënaqshëm | adj | unsatisfactory
+karburator | noun | carburettor
+etnodemografik | adj | ethno-demographic
+profaturë | noun | pro forma invoice
+dhunisht | adv | violently
+përvojëhidhur | adj | embittered by experience
+mesrrugë | noun | middle of the road
+makroplan | noun | master plan
+alarmizëm | noun | alarmism
+patrajtueshëm | adj | untreatable
+makropolitik | adj | macropolitical
+amshueshmërisht | adv | eternally
+palatalizim | noun | palatalization
+apodiktik | adj | apodictic
+novelëz | noun | short story
+konturor | adj | contour (adj.)
+kamorrist | noun | Camorrista
+madhështisht | adv | magnificently
+nacionalkomunist | adj | national-communist
+subtilitet | noun | subtlety
+fluvial | adj | fluvial
+fiziopatologjik | adj | physiopathological
+demagogjikisht | adv | demagogically
+eteror | adj | ethereal
+intrahospitalor | adj | in-hospital
+pentatonik | adj | pentatonic
+shushuritje | noun | rustling
+bashkëkohësisht | adv | contemporarily
+agrikultural | adj | agricultural
+vetëdashuri | noun | self-love
+regurgitim | noun | regurgitation
+subordinim | noun | subordination
+dekoncentrim | noun | loss of concentration
+tejkalueshëm | adj | surmountable
+teokrat | noun | theocrat
+budallakisht | adv | foolishly
+antipavarësi | adj | anti-independence
+oksidentalizëm | noun | Occidentalism
+mbitheksim | noun | overemphasis
+paramendueshëm | adj | foreseeable
+pitagorik | adj | Pythagorean
+filetim | noun | filleting
+antikohë | noun | anti-time
+parakontraktual | adj | pre-contractual
+divertikul | noun | diverticulum
+njëheras | adv | at once
+katundaresk | adj | rustic
+luminishent | adj | luminescent
+tromboembolizëm | noun | thromboembolism
+jofunksionalitet | noun | dysfunctionality
+joprioritar | adj | non-priority
+bashkorganizim | noun | co-organization
+midriazë | noun | mydriasis
+hidrofor | noun | booster pump
+mikoplazmë | noun | mycoplasma
+koagulopati | noun | coagulopathy
+famotidinë | noun | famotidine
+mikroglial | adj | microglial
+imunosupresiv | adj | immunosuppressive
+hipovolemi | noun | hypovolaemia
+hipovolemik | adj | hypovolaemic
+telekinetik | adj | telekinetic
+shumëdrejtimësh | adj | multi-directional
+hipostatik | adj | hypostatic
+narcisistik | adj | narcissistic
+vetëdhurim | noun | self-giving
+sapoarritur | adj | newly arrived
+hipokritik | adj | hypocritical
+spektrofotometër | noun | spectrophotometer
+padebatueshëm | adj | indisputable
+somatoform | adj | somatoform
+frontotemporal | adj | frontotemporal
+filokatolik | adj | pro-Catholic
+islamofashizëm | noun | Islamofascism
+shpinëkthyer | adj | with back turned
+monosilabik | adj | monosyllabic
+dhjetëherë | adv | ten times
+akupunkturor | adj | acupuncture (adj.)
+kundërfigurë | noun | counter-figure
+moringë | noun | moringa
+libërdashës | adj | book-loving
+filofrancez | adj | Francophile
+joformalitet | noun | informality
+kavaler | noun | cavalier
+menjëhershmërisht | adv | immediately
+joeuklidian | adj | non-Euclidean
+jospontan | adj | unspontaneous
+antigravitet | noun | antigravity
+endodonti | noun | endodontics
+fiziatër | noun | physiatrist
+vitaminoterapi | noun | vitamin therapy
+proliksitet | noun | prolixity
+opacitet | noun | opacity
+pandërmjetshëm | adj | immediate
+kenozoik | adj | Cenozoic
+dihidrotestosteron | noun | dihydrotestosterone
+lobotomi | noun | lobotomy
+egomaniak | adj | egomaniacal
+mitologjikisht | adv | mythologically
+snoubord | noun | snowboard
+profetizëm | noun | prophetism
+koreanisht | adv | in Korean
+pastotalitar | adj | post-totalitarian
+uellsisht | adv | in Welsh
+aneuploidi | noun | aneuploidy
+hipertrigliceridemi | noun | hypertriglyceridaemia
+neonatologji | noun | neonatology
+kuazidemokratik | adj | quasi-democratic
+rivalizim | noun | rivalry
+hidrofobik | adj | hydrophobic
+klepsidër | noun | clepsydra
+edenik | adj | Edenic
+radikalitet | noun | radicalness
+karakteristikisht | adv | characteristically
+paragjuhësor | adj | paralinguistic
+hipoksemi | noun | hypoxaemia
+orgjiastik | adj | orgiastic
+simplist | adj | simplistic
+inkonsistencë | noun | inconsistency
+kibernetikisht | adv | cybernetically
+gjeostacionar | adj | geostationary
+dignitet | noun | dignity
+batimetrik | adj | bathymetric
+elipsoidal | adj | ellipsoidal
+udhëhumbur | adj | lost
+pilastër | noun | pilaster
+hipomani | noun | hypomania
+mbishtresim | noun | overlaying
+profesorial | adj | professorial
+parahispanik | adj | pre-Hispanic
+subverziv | adj | subversive
+gjithëpranueshëm | adj | universally acceptable
+denotativ | adj | denotative
+vokacional | adj | vocational
+triklosan | noun | triclosan
+suprarenal | adj | adrenal
+sociodemografik | adj | sociodemographic
+paradiabetik | adj | prediabetic
+joqëndrueshmëri | noun | instability
+tëhuajtje | noun | alienation
+politikologjik | adj | political-science
+politikologji | noun | political science
+obsesivisht | adv | obsessively
+mbarëballkanik | adj | pan-Balkan
+ndërdikasterial | adj | interdepartmental
+salvadoran | adj | Salvadoran
+bronkospazëm | noun | bronchospasm
+institucionalizëm | noun | institutionalism
+meteorizëm | noun | flatulence
+imagjinativisht | adv | imaginatively
+pabesnikëri | noun | disloyalty
+tonizim | noun | toning
+htonik | adj | chthonic
+pamodifikueshëm | adj | unmodifiable
+kromozomopati | noun | chromosomal disorder
+meningeal | adj | meningeal
+fenil | noun | phenyl
+epikatekinë | noun | epicatechin
+betametazon | noun | betamethasone
+osteotomi | noun | osteotomy
+intrahepatik | adj | intrahepatic
+mononuklear | adj | mononuclear
+antiproton | noun | antiproton
+agroklimatik | adj | agroclimatic
+paramarrëveshje | noun | preliminary agreement
+fibrocistik | adj | fibrocystic
+ateromatoz | adj | atheromatous
+parodizim | noun | parodying
+ndërgjegjshmërisht | adv | consciously
+gjashtëjavor | adj | six-week
+mesverë | noun | midsummer
+fotodermatozë | noun | photodermatosis
+virusologjik | adj | virological
+fotombrojtës | adj | photoprotective
+bioreaktor | noun | bioreactor
+bioklimatik | adj | bioclimatic
+glamoroz | adj | glamorous
+bonapartist | adj | Bonapartist
+minikrizë | noun | mini-crisis
+ligjshkelës | noun | lawbreaker
+moslexim | noun | not reading
+postkonfliktual | adj | post-conflict
+euroizim | noun | euroization
+transhendentalisht | adv | transcendentally
+metagjuhësor | adj | metalinguistic
+sekuojë | noun | sequoia
+amilazë | noun | amylase
+pelagjik | adj | pelagic
+mosmbulim | noun | non-coverage
+kuartil | noun | quartile
+antinomik | adj | antinomic
+frigjid | adj | frigid
+kardiogjen | adj | cardiogenic
+taksonomik | adj | taxonomic
+narratologji | noun | narratology
+antimuskarinik | adj | antimuscarinic
+treking | noun | trekking
+paradontal | adj | periodontal
+paradontozë | noun | periodontal disease
+neurovegjetativ | adj | neurovegetative
+katabolik | adj | catabolic
+mikrolitër | noun | microlitre
+antivaksinë | adj | anti-vaccine
+oshilator | noun | oscillator
+mitologjizim | noun | mythologizing
+natriuretik | adj | natriuretic
+nonshalant | adj | nonchalant
+imtësirë | noun | trifle
+borsalino | noun | fedora
+koncertant | adj | concertante
+anagogjik | adj | anagogical
+bolshevist | adj | Bolshevist
+misofoni | noun | misophonia
+potencim | noun | potentiation
+hidroekonomik | adj | water-economy
+pulverizim | noun | pulverization
+anekdotal | adj | anecdotal
+ideopolitikisht | adv | ideologically and politically
+nevrotik | adj | neurotic
+akceptim | noun | acceptance
+internistik | adj | internal-medicine
+hiperkritik | adj | hypercritical
+inferencial | adj | inferential
+gjysmautoritar | adj | semi-authoritarian
+paskomunizëm | noun | post-communism
+socrealizëm | noun | socialist realism
+brendaspitalor | adj | in-hospital
+kompartiment | noun | compartment
+drenazhues | adj | draining
+mosintegrim | noun | non-integration
+neoosmanizëm | noun | neo-Ottomanism
+njërrokësh | adj | monosyllabic
+korrelativ | adj | correlative
+superproduksion | noun | blockbuster
+postpandemik | adj | post-pandemic
+interetnik | adj | inter-ethnic
+katekist | noun | catechist
+hiperuricemi | noun | hyperuricaemia
+makrovaskular | adj | macrovascular
+bioptik | adj | bioptic
+okulistik | adj | ocular
+ritrajnim | noun | retraining
+diskurziv | adj | discursive
+joshqipfolës | adj | non-Albanian-speaking
+mioklonik | adj | myoclonic
+sulfasalazinë | noun | sulfasalazine
+intraartikular | adj | intra-articular
+vazodilatues | adj | vasodilator
+reperkusion | noun | repercussion
+osteonekrozë | noun | osteonecrosis
+postsekondar | adj | post-secondary
+sharrëtar | noun | sawyer
+kombinatorik | adj | combinatorial
+liberist | adj | free-market
+kariogjen | adj | cariogenic
+hiperbolikisht | adv | hyperbolically
+serigrafi | noun | screen printing
+elitarizëm | noun | elitism
+reintegrim | noun | reintegration
+makadam | noun | macadam
+proklitik | adj | proclitic
+supergoditje | noun | super strike
+splenomegali | noun | splenomegaly
+antigravitacional | adj | antigravitational
+autohipnotik | adj | self-hypnotic
+shizoid | adj | schizoid
+subglacial | adj | subglacial
+inertësi | noun | inertness
+transkranial | adj | transcranial
+dekolorim | noun | bleaching
+fabulativ | adj | fabulative
+topologjik | adj | topological
+intonativ | adj | intonational
+biogjen | adj | biogenic
+hemiplegji | noun | hemiplegia
+sinklinal | noun | syncline
+triasik | adj | Triassic
+urologjik | adj | urological
+multimiliardësh | adj | multi-billion
+sensorik | adj | sensory
+perivaskular | adj | perivascular
+kaotikisht | adv | chaotically
+probabilist | adj | probabilistic
+ndërgrupor | adj | intergroup
+neurologjikisht | adv | neurologically
+autobllokues | adj | self-locking
+civilist | noun | civil lawyer
+ripunësim | noun | re-employment
+amalgamim | noun | amalgamation
+granatëhedhës | noun | grenade launcher
+antiracizëm | noun | anti-racism
+mikroqarkullim | noun | microcirculation
+plagjiarizëm | noun | plagiarism
+kalcit | noun | calcite
+paleontologjik | adj | palaeontological
+profanim | noun | profanation
+luminal | adj | luminal
+vetëcenzurë | noun | self-censorship
+postdiplomatik | adj | postgraduate
+orbitrek | noun | elliptical trainer
+rikonsolidim | noun | reconsolidation
+intracitoplazmatik | adj | intracytoplasmic
+hipospadi | noun | hypospadias
+kardigan | noun | cardigan
+intragastrik | adj | intragastric
+okluziv | adj | occlusive
+aduktor | noun | adductor
+septicemi | noun | septicaemia
+bengalisht | adv | in Bengali
+torakotomi | noun | thoracotomy
+peristaltik | adj | peristaltic
+skedulim | noun | scheduling
+pakopjueshëm | adj | inimitable
+flebotomi | noun | phlebotomy
+ambientalisht | adv | environmentally
+euforizëm | noun | euphoria
+konsensualitet | noun | consensuality
+urdhërmbrojtje | noun | protection order
+presimptomatik | adj | presymptomatic
+kondotier | noun | condottiere
+biodisponibilitet | noun | bioavailability
+progestativ | adj | progestational
+mikrokirurgji | noun | microsurgery
+mitotik | adj | mitotic
+fibrinolitik | adj | fibrinolytic
+hemopoetik | adj | haematopoietic
+polifenolik | adj | polyphenolic
+aerosolik | adj | aerosol (adj.)
+monotematik | adj | monothematic
+nazogastrik | adj | nasogastric
+neurokirurgjik | adj | neurosurgical
+imunogjen | adj | immunogenic
+jokancerogjen | adj | non-carcinogenic
+preskriptiv | adj | prescriptive
+menefregizëm | noun | couldn't-care-less attitude
+sensacionalist | adj | sensationalist
+ceremonialitet | noun | ceremoniousness
+imunoterapeutik | adj | immunotherapeutic
+kraniometrik | adj | craniometric
+autokratizëm | noun | autocratism
+oktopod | noun | octopus
+sizmografik | adj | seismographic
+vetëkandidim | noun | self-nomination
+nënurban | adj | suburban
+ribrandim | noun | rebranding
+autodestruktiv | adj | self-destructive
+mukolitik | adj | mucolytic
+renderim | noun | rendering
+platonist | noun | Platonist
+komunitarist | adj | communitarian
+profilaksë | noun | prophylaxis
+recitator | noun | reciter
+pulmologji | noun | pulmonology
+linearitet | noun | linearity
+refraktometër | noun | refractometer
+lizozimë | noun | lysozyme
+gravitacionalisht | adv | gravitationally
+kozmopolitanizëm | noun | cosmopolitanism
+antihumanizëm | noun | antihumanism
+ergoterapi | noun | occupational therapy
+italianistikë | noun | Italian studies
+poltronizëm | noun | cowardice
+vetëpromovim | noun | self-promotion
+dresurë | noun | dressage
+didaskali | noun | teaching
+pushkomitraloz | noun | light machine gun
+superpërhapës | noun | superspreader
+bizantinist | noun | Byzantinist
+karbonara | noun | carbonara
+sonoritet | noun | sonority
+vampirik | adj | vampiric
+futurologji | noun | futurology
+sigmatik | adj | sigmatic
+teomorfik | adj | theomorphic
+antropomorfist | adj | anthropomorphist
+anaplastik | adj | anaplastic
+bioterrorist | noun | bioterrorist
+sinergjikisht | adv | synergistically
+inventivitet | noun | inventiveness
+scientizëm | noun | scientism
+monologim | noun | monologuing
+mikrounivers | noun | microuniverse
+farmakoterapi | noun | pharmacotherapy
+mesmerizëm | noun | mesmerism
+dekonstruktivist | adj | deconstructivist
+frankmason | noun | Freemason
+etnofetar | adj | ethno-religious
+autotrof | adj | autotrophic
+heterotrof | adj | heterotrophic
+interglacial | adj | interglacial
+paranatal | adj | prenatal
+diabetologji | noun | diabetology
+rekuperator | noun | heat recovery unit
+asertiv | adj | assertive
+hipotoni | noun | hypotonia
+palpebral | adj | palpebral
+osteointegrim | noun | osseointegration
+biokompatibilitet | noun | biocompatibility
+transhumanist | adj | transhumanist
+okulomotor | adj | oculomotor
+kajganë | noun | scrambled eggs
+triherë | adv | three times
+vetëzhdukje | noun | self-annihilation
