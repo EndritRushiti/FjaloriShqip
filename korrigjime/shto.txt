@@ -17358,7 +17358,6 @@ postdiplomik | adj | postgraduate
 trinitar | adj | Trinitarian
 fiktivisht | adv | fictitiously
 plotëfuqishëm | adj | plenipotentiary
-valvol | noun | valve
 aramaik | adj | Aramaic
 triller | noun | thriller
 eurointegrues | adj | EU-integration (adj.)
