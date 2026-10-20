@@ -19865,3 +19865,9 @@ konjitivizëm | kognitivizëm
 socialrealizëm | socrealizëm
 monasticizëm | monakizëm
 autoritarianizëm | autoritarizëm
+# ── g6.new.tsv ──
+peshngritës | peshëngritës
+golëshënues | golashënues
+libërshitës | librashitës
+takspagues | taksapagues
+azilëkërkues | azilkërkues

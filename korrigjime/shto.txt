@@ -31550,4 +31550,42 @@ sllavomaqedonisht | adv | in Macedonian (Slavic)
 tendenciozisht | adv | 
 toksikisht | adv | 
 themeltarisht | adv | 
-vëzhguesisht | adv | 
+vëzhguesisht | adv |
+# ── g6.new.tsv ──
+zëvendësndihmës | noun | deputy assistant
+këpurdhëvrasës | noun | fungicide
+frytëdhënës | adj | fruit-bearing
+shtetëformues | adj | state-forming
+aeroplanbartës | noun | aircraft carrier
+botëpushtues | noun | world conqueror
+urëndërtues | noun | bridge builder
+ligjhartues | noun | law drafter
+rekordthyes | noun | record breaker
+baktervrasës | adj | bactericidal
+gjermanfolës | adj | German-speaking
+insektmbytës | noun | insecticide
+titullmbajtës | noun | title holder
+kartëmbajtës | noun | cardholder
+metalpërpunues | adj | metalworking
+qeradhënës | noun | lessor
+çmimfitues | noun | prizewinner
+fatvendosës | adj | decisive
+aksionmbajtës | noun | shareholder
+arsimdhënës | noun | educator
+malngjitës | noun | mountaineer
+punëkrijues | adj | job-creating
+radiodëgjues | noun | radio listener
+ryshfetmarrës | noun | bribe-taker
+dallgëthyes | noun | breakwater
+borxhmarrës | noun | borrower
+borxhdhënës | noun | lender
+raketëhedhës | noun | rocket launcher
+tatimmbledhës | noun | tax collector
+libërlidhës | noun | bookbinder
+këngëshkrues | noun | songwriter
+armëbërës | noun | gunsmith
+jetëkërcënues | adj | life-threatening
+verëshitës | noun | wine seller
+këpucëlustrues | noun | shoeshiner
+shteghapës | noun | pathfinder
+besëmbajtës | adj | trustworthy
