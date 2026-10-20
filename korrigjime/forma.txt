@@ -19871,3 +19871,8 @@ golëshënues | golashënues
 libërshitës | librashitës
 takspagues | taksapagues
 azilëkërkues | azilkërkues
+# ── g8.new.tsv ──
+mimber | minber
+sinozit | sinuzit
+garancion | garanci
+programer | programues

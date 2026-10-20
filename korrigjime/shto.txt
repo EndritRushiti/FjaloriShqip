@@ -31608,3 +31608,32 @@ delir | noun | delirium
 aset | noun | asset
 dijeni | noun | knowledge, awareness
 dismenore | noun | dysmenorrhoea
+# ── g8.new.tsv ──
+kible | noun | qibla
+kijamet | noun | Day of Judgement; chaos
+mustehab | adj | recommended (Islamic law)
+ixhma | noun | ijma (scholarly consensus)
+akide | noun | creed (Islamic)
+teuhid | noun | tawhid (oneness of God)
+mubah | adj | permissible (Islamic law)
+hatib | noun | khatib (preacher)
+kelam | noun | kalam (Islamic theology)
+misvak | noun | miswak (tooth stick)
+iffet | noun | chastity, modesty
+ihsan | noun | ihsan (spiritual excellence)
+miraxh | noun | Mi'raj
+hilafet | noun | caliphate
+dhimmi | noun | dhimmi
+umre | noun | umrah
+xhizje | noun | jizya
+tagut | noun | taghut (false deity)
+gusl | noun | ghusl (ritual bath)
+haker | noun | hacker
+stigmë | noun | stigma
+aterosklerozë | noun | atherosclerosis
+salmonelë | noun | salmonella
+rektum | noun | rectum
+cenzurë | noun | censorship
+galeon | noun | galleon
+gusla | noun | gusle
+njerëzillëk | noun | kindness, decency
