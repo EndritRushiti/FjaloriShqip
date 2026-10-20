@@ -38584,3 +38584,137 @@ lëngësirë | noun | liquid
 lëngështoj | verb | liquefy
 lëngështueshëm | adj | liquefiable
 lëshojkë | noun | release
+# ── fu6.new.tsv ──
+lëvorebrejtës | adj | bark-gnawing
+lëvorehollë | adj | thin-barked
+lëvorengrënës | adj | bark-eating
+lëvorëzim | noun | bark formation
+lëvozhgëbutë | adj | soft-shelled
+lëvozhgëfortë | adj | hard-shelled
+libraprerës | noun | paper knife
+ligësohem | verb | weaken
+lisnishtë | noun | oak grove
+litaroj | verb | rope
+litografoj | verb | lithograph
+logaritmoj | verb | take the logarithm
+lopërisht | adv | cow-like
+lugëlëngës | noun | ladle
+lugthellë | adj | deeply hollowed
+lulebletë | noun | bee flower
+lulekambanë | noun | bellflower
+luledimër | noun | winter flower
+lulemaj | noun | lily of the valley
+lulepatate | noun | potato blossom
+luleqyqe | noun | cuckooflower
+lulesapun | noun | soapwort
+lulezemër | noun | bleeding heart
+lulëbukur | adj | fine-flowered
+lulëtari | noun | floristry
+lumishtë | noun | riverbed
+lumpenproletar | noun | lumpenproletarian
+lumtësisht | adv | happily
+lymishtë | noun | silty ground
+lypësoj | verb | beg
+lyrësohem | verb | become greasy
+llafemadh | adj | talkative
+llafepakë | adj | taciturn
+llapëgjerë | adj | wide-mouthed
+llapëmadh | adj | big-mouthed
+llërëjashtë | adj | bare-armed
+llërëpërvjelur | adj | with rolled-up sleeves
+llërëzbuluar | adj | bare-armed
+llërëzhveshur | adj | bare-armed
+llokmëmadh | adj | gluttonous
+llumishtë | noun | slimy place
+magjethatë | adj | destitute
+majarak | adj | topmost
+malacak | noun | little highlander
+malsheshe | noun | mountain plateau
+mashkullorëzohem | verb | become masculine
+matanëlumas | adj | from across the river
+matanëmalas | adj | from across the mountain
+mbasbjeshkë | noun | far side of the mountain
+mbibisht | adv | above the tail
+mbidermë | noun | epidermis
+mbifaqe | adv | on the surface
+mbiftoh | verb | supercool
+mbiharxhoj | verb | overspend
+mbilodh | verb | overtire
+mbindriçoj | verb | overexpose
+mbingacmoj | verb | overstimulate
+mbingre | verb | overraise
+mbingrij | verb | deep-freeze
+mbinormativë | adj | above the norm
+mbipasnesër | adv | in three days
+mbipetk | noun | overgarment
+mbishpenzoj | verb | overspend
+mbiushqej | verb | overfeed
+mbivështroj | verb | oversee
+mbjelltar | noun | sower
+mbushtar | noun | filler
+mbushulloj | verb | fill up
+mbyllasyzash | adv | with eyes closed
+mendjekthjellët | adj | clear-headed
+mendjemirë | adj | well-intentioned
+mendjeplogët | adj | dull-witted
+mendjetrashësi | noun | obtuseness
+mercerizoj | verb | mercerize
+merinizoj | verb | merinize
+mermerizoj | verb | marbleize
+mesgjuhor | adj | mediodorsal
+metalshkrirës | noun | smelter
+metiloj | verb | methylate
+mëgjunjas | adv | kneeling
+mëkrahëzaj | adv | side by side
+mëmëzoj | verb | mother
+mërdhitje | noun | chill
+miellishtë | noun | flour store
+mielloj | verb | flour
+mijëfishoj | verb | multiply a thousandfold
+mikprerë | adj | friendless
+mikrobmbartës | noun | germ carrier
+mikrobmbytës | adj | germicidal
+mirëmbahem | verb | be well maintained
+mizambytës | adj | fly-killing
+mizangrënës | adj | fly-eating
+mjaltshëm | adj | honeyed
+moçalizohet | verb | become marshy
+modelësi | noun | modelling
+molladardhë | noun | pear-apple
+mollapjeshkë | noun | peach-apple
+monoftongizohet | verb | monophthongize
+morfologjizohet | verb | morphologize
+mosnjëherë | adv | never
+motërmëmë | noun | maternal aunt
+motërtatë | noun | paternal aunt
+mullëmadh | adj | big-humped
+mundimhumbur | adj | frustrated
+mynxyrëmadh | adj | very unfortunate
+nafakëbardhë | adj | lucky
+nafakëprerë | adj | unlucky
+nafakëzi | adj | ill-fated
+nakarmadh | adj | very bitter
+nazemadh | adj | coquettish
+ndajfoljezohet | verb | become an adverb
+ndasor | adj | divisive
+nderbërës | adj | honour-bringing
+ndërbisedoj | verb | converse
+ndërdepërtoj | verb | interpenetrate
+ndërhundëz | noun | internal nasal
+ndërmjetoj | verb | mediate
+ndërshtresë | noun | interlayer
+ndërzehet | verb | interbreed
+nektaror | adj | nectarous
+nepsmadh | adj | greedy
+nëndorës | noun | assistant
+nënëdajë | noun | maternal grandmother
+nënëgjyshe | noun | great-grandmother
+nënëshkretë | adj | motherless
+nënfaturoj | verb | underinvoice
+nëngrupoj | verb | subgroup
+nënkëmbëz | noun | sole
+nënmjekër | noun | underchin
+nënthonjëz | noun | nail bed
+nënvetull | noun | underbrow
+ngalaq | adj | clumsy
+ngathtësoj | verb | slow down
