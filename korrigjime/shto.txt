@@ -28291,3 +28291,94 @@ qymyror | adj | coal (adj.)
 vetëpllenim | noun | self-pollination
 dyanësisht | adv | bilaterally
 sihariqtar | noun | herald of good news
+# ── fg8.new.tsv ──
+ndërshtresor | adj | interlayer
+jashtëfisnor | adj | outside the clan
+borgjezoj | verb | to make bourgeois
+sekondant | noun | second (in a duel)
+papërthyeshëm | adj | unbending
+krahartë | adj | golden-winged
+helmatim | noun | poisoning
+vetëpërtëritje | noun | self-renewal
+kalldrëmoj | verb | to cobble
+rrokjeformues | adj | syllabic
+akullishtë | noun | icefield
+pseudomarksist | noun | pseudo-Marxist
+aktdënim | noun | sentence (document)
+bashkëvarësi | noun | interdependence
+raketambajtës | adj | rocket-carrying
+sondist | noun | driller
+barnatar | noun | apothecary
+gjymtyror | adj | limb (adj.)
+pafamilje | adj | without family
+ngjyrëmjaltë | adj | honey-coloured
+rikumbim | noun | resounding
+mustaqekuq | adj | red-moustached
+bojëgrurë | adj | wheat-coloured
+gështenjapjekës | noun | chestnut roaster
+shkualifikoj | verb | to disqualify
+nofullgjerë | adj | broad-jawed
+sqepkuq | adj | red-billed
+dekametër | noun | decametre
+qiribërës | noun | candle maker
+njëvalent | adj | monovalent
+kazanpunues | noun | boilermaker
+njëbazik | adj | monobasic
+shpatullor | adj | scapular
+hekurmbajtës | adj | iron-bearing
+armbajtës | noun | armed man
+cinkograf | noun | zincographer
+centigram | noun | centigram
+kapelabërës | noun | hatter
+vetëstërvitje | noun | self-training
+këmishëbërës | noun | shirtmaker
+hundëgjerë | adj | broad-nosed
+qimebutë | adj | soft-haired
+kokëpërpjetë | adv | with head held high
+gazmatës | noun | gas meter
+pesëlitërsh | adj | five-litre
+gjysmëbujqësor | adj | semi-agricultural
+gjysmëmalor | adj | semi-mountainous
+gazogjen | noun | gas producer
+alkoolmatës | noun | alcoholmeter
+autozjarrfikëse | noun | fire engine
+shtatgjatësi | noun | height
+dhëmbëbardhë | adj | white-toothed
+flokëprerë | adj | short-haired
+ballëmadh | adj | high-browed
+pavazhdimësi | noun | discontinuity
+majëhollë | adj | fine-pointed
+bronzim | noun | bronzing
+tejshtrirje | noun | overextension
+njëkuptimor | adj | unambiguous
+tehmprehtë | adj | sharp-edged
+abstraktësi | noun | abstractness
+autorepart | noun | motor unit
+padëm | adj | harmless
+ajrues | noun | ventilator
+jodialektik | adj | non-dialectical
+pavijueshmëri | noun | lack of continuity
+forcëdhënës | adj | invigorating
+gëzimprurës | adj | joy-bringing
+minavënës | noun | minelayer
+hundëdrejtë | adj | straight-nosed
+gjuhëgjarpër | adj | venom-tongued
+gështenjishtë | noun | chestnut grove
+tjegullabërës | noun | tile maker
+policentrizëm | noun | polycentrism
+ugrofin | adj | Finno-Ugric
+farëngrënës | adj | seed-eating
+vetënxitje | noun | self-motivation
+gjethengushtë | adj | narrow-leaved
+gjethegjatë | adj | long-leaved
+pendëgjatë | adj | long-feathered
+bashkëreferat | noun | co-report
+bashkëreferues | noun | co-speaker
+pluhurthithës | noun | vacuum cleaner
+piktografi | noun | pictography
+vetëqetësim | noun | self-reassurance
+vetëpërgatitje | noun | self-preparation
+vetërrotullues | adj | self-rotating
+shaptilografim | noun | duplicating
+vetëriprodhim | noun | self-reproduction
+themelfortë | adj | firmly founded
