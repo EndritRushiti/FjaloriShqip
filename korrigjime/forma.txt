@@ -19718,3 +19718,34 @@ bullafiqem | bullafiq
 tringëllij | tringëlloj
 # ── fg7.new.tsv ──
 vetëquaj | vetëquhem
+# ── fg12.new.tsv ──
+pasionohem | pasionoj
+riarmatosem | riarmatos
+alkoolizohem | alkoolizoj
+shestohet | shestoj
+stivohet | stivoj
+borgjezohem | borgjezoj
+taposet | tapos
+jargosem | jargos
+riafrohem | riafroj
+normëzohet | normëzoj
+shkualifikohem | shkualifikoj
+narkotizohem | narkotizoj
+zhgroposet | zhgropos
+tejshtrihet | tejshtrij
+shfarohem | shfaroj
+çrrethohet | çrrethoj
+athëtohem | athëtoj
+butësohem | butësoj
+cucërrohem | cucërroj
+gjethësohet | gjethësoj
+ajkohem | ajkoj
+kusarohem | kusaroj
+brishtohem | brishtoj
+cirkatem | cirkat
+copëlohem | copëloj
+harmohet | harmoj
+ngalosem | ngalos
+furrohet | furroj
+tororisem | tororis
+ferrohem | ferroj

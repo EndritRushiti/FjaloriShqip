@@ -28595,3 +28595,109 @@ vetëngrirje | noun | self-freezing
 mosshkelje | noun | non-violation
 nënvarg | noun | subsequence
 vetëvozitës | adj | self-driving
+# ── fg12.new.tsv ──
+shpërbashkim | noun | disunion
+pasaportizoj | verb | to issue passports to
+kapitaneri | noun | harbour master's office
+gjoksmadh | adj | big-chested
+latifond | noun | latifundium
+gujavë | noun | guava
+smaltim | noun | enamelling
+pluhuror | adj | powdery
+bashkëluftoj | verb | to fight alongside
+helikoptermbajtëse | noun | helicopter carrier
+silazhim | noun | ensiling
+fletëkërkesë | noun | application form
+sulfuroj | verb | to sulphurate
+argjendor | adj | silvery
+urdhërxhirim | noun | transfer order
+mbirrymë | noun | overcurrent
+rrafshësi | noun | flatness
+gëlqerim | noun | liming
+metalmbajtës | adj | metal-bearing
+kundërparullë | noun | counter-slogan
+distilator | noun | still, distiller
+kimizim | noun | chemicalization
+aktvdekje | noun | death certificate
+urdhërporosi | noun | purchase order
+sulfamid | noun | sulphonamide
+perimeshitës | noun | greengrocer
+rimilitarizim | noun | remilitarization
+ndëroqeanik | adj | interoceanic
+avullueshmëri | noun | volatility
+parafabrikoj | verb | to prefabricate
+joantagonist | adj | non-antagonistic
+bashkëkatundar | noun | fellow villager
+minapastrues | noun | mine clearer
+shtresëhollë | adj | thin-layered
+bankëprovë | noun | test bench
+shtizëmbajtës | noun | spear-bearer
+diafilm | noun | filmstrip
+tamburist | noun | tambura player
+kazermim | noun | quartering
+kundërterror | noun | counter-terror
+vetëregjistrues | adj | self-recording
+pikëgrumbullim | noun | collection point
+aktpajtim | noun | reconciliation deed
+autogarazh | noun | garage
+shpatëmbajtës | noun | sword-bearer
+nikelim | noun | nickel plating
+biorrymë | noun | bioelectric current
+njëformësi | noun | uniformity
+gjysmërrafsh | noun | half-plane
+jashtëqendror | adj | eccentric
+shinashtrues | noun | tracklayer
+ndërrueshmëri | noun | interchangeability
+shpopullzim | noun | depopulation
+shistor | adj | schistose
+vetëpjalmim | noun | self-pollination
+azotim | noun | nitrogenation
+antialkoolik | adj | anti-alcohol
+iktiolog | noun | ichthyologist
+bojëtrëndafil | adj | rose-coloured
+zarzavateshitës | noun | greengrocer
+ujëthithës | adj | water-absorbent
+fletëgaranci | noun | warranty card
+bojëmjaltë | adj | honey-coloured
+drushitës | noun | wood seller
+apolitizëm | noun | apoliticism
+llërëbardhë | adj | white-armed
+gjysmëproletar | noun | semi-proletarian
+barkgjerë | adj | wide-bellied
+armëshitës | noun | arms dealer
+hulloj | verb | to furrow
+gjakdhënës | noun | blood donor
+pjesëtueshmëri | noun | divisibility
+damkoj | verb | to brand
+vetëngarkim | noun | self-loading
+bungishtë | noun | oak wood
+faqezbehtë | adj | pale-cheeked
+letërgaranci | noun | letter of guarantee
+hijegjerë | adj | wide-shading
+kadastroj | verb | to register in the cadastre
+bojëshegë | adj | pomegranate-red
+minandezës | noun | detonator
+stenografim | noun | shorthand writing
+pajetërsueshëm | adj | inalienable
+bashkërritje | noun | growing together
+fjalëshpejtë | adj | fast-talking
+bakërmbajtës | adj | copper-bearing
+gazobeton | noun | aerated concrete
+minambajtës | adj | mine-carrying
+shpendërritës | noun | poultry farmer
+aktlirim | noun | release certificate
+anijedrejtues | noun | ship's navigator
+fizkultural | adj | physical-culture
+barograf | noun | barograph
+parceloj | verb | to parcel out
+kapelapunues | noun | hatter
+qofteshitës | noun | meatball seller
+peshkrritës | noun | fish farmer
+leshbutë | adj | soft-fleeced
+qymyrshitës | noun | coal merchant
+ndihmësveteriner | noun | veterinary assistant
+voltmatës | noun | voltmeter
+bojëtullë | adj | brick-red
+peshkshitës | noun | fishmonger
+vetëshfajësim | noun | self-justification
+lëkurënxirë | adj | tanned
