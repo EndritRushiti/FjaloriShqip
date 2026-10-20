@@ -32153,3 +32153,216 @@ pacifikim | noun | pacification
 latencë | noun | latency
 lipolizë | noun | lipolysis
 qeverisshmëri | noun | governability
+# ── g13.new.tsv ──
+hospitalitet | noun | hospitality
+dermatofit | noun | dermatophyte
+sahatkullë | noun | clock tower
+hibriditet | noun | hybridity
+fosfororganik | adj | organophosphorus
+dizigot | adj | dizygotic
+ekzacerbim | noun | exacerbation
+reversibilitet | noun | reversibility
+gjeolokalizim | noun | geolocation
+bronkodilator | noun | bronchodilator
+glibenklamid | noun | glibenclamide
+glukozinolat | noun | glucosinolate
+hipoglicemiant | noun | hypoglycaemic agent
+antitusiv | noun | antitussive
+hidromonument | noun | hydro-monument
+maniken | noun | mannequin
+ekuidistancë | noun | equidistance
+suplementim | noun | supplementation
+destinatar | noun | addressee
+fekonditet | noun | fecundity
+protozoë | noun | protozoan
+fakticitet | noun | facticity
+tatuazhist | noun | tattooist
+tabloidizim | noun | tabloidization
+vikendicë | noun | weekend house
+transcendim | noun | transcendence
+gravurist | noun | engraver
+multiplekser | noun | multiplexer
+farmaceut | noun | pharmacist
+ekstirpim | noun | extirpation
+tetraklorur | noun | tetrachloride
+cikloheksan | noun | cyclohexane
+polimiozit | noun | polymyositis
+hiperreaktivitet | noun | hyperreactivity
+konkretitet | noun | concreteness
+kolekalciferol | noun | cholecalciferol
+oksitetraciklinë | noun | oxytetracycline
+malinjizim | noun | malignant transformation
+fletëdëshmi | noun | certificate
+nanofibër | noun | nanofibre
+eurokrizë | noun | eurozone crisis
+trackpad | noun | trackpad
+masazhist | noun | masseur
+superinteligjencë | noun | superintelligence
+bodibilder | noun | bodybuilder
+inkrement | noun | increment
+heksetidinë | noun | hexetidine
+karnitinë | noun | carnitine
+kontemplim | noun | contemplation
+skrinim | noun | screening
+decertifikim | noun | decertification
+kamarillë | noun | camarilla
+sinusoidë | noun | sinusoid
+keqabsorbim | noun | malabsorption
+nitroprusid | noun | nitroprusside
+operabilitet | noun | operability
+bajaderë | noun | bayadère
+pneumokoniozë | noun | pneumoconiosis
+peptidazë | noun | peptidase
+nanokompjuter | noun | nanocomputer
+narkobos | noun | drug lord
+somatizim | noun | somatization
+bronkozgjerues | noun | bronchodilator
+etnifikim | noun | ethnicization
+brikolazh | noun | bricolage
+infosferë | noun | infosphere
+antivakser | noun | anti-vaxxer
+kriptokrishtërim | noun | crypto-Christianity
+lipomë | noun | lipoma
+postulim | noun | postulation
+bifidobakter | noun | bifidobacterium
+ekumenë | noun | ecumene
+kontrabasist | noun | double bass player
+akuatintë | noun | aquatint
+komutator | noun | commutator
+endonim | noun | endonym
+tutorim | noun | tutoring
+hematopoezë | noun | haematopoiesis
+shankroid | noun | chancroid
+mikrocit | noun | microcyte
+tipicitet | noun | typicality
+mikrokanal | noun | microchannel
+hipervigjilencë | noun | hypervigilance
+videodëshmi | noun | video testimony
+barikadim | noun | barricading
+interiorizim | noun | internalization
+flokulim | noun | flocculation
+betaglukan | noun | beta-glucan
+provajder | noun | provider
+bllokator | noun | blocker
+fletëdërgesë | noun | delivery note
+limfedemë | noun | lymphoedema
+globulinë | noun | globulin
+fotosensibilizim | noun | photosensitization
+telemedicinë | noun | telemedicine
+neurogjenezë | noun | neurogenesis
+multidimensionalitet | noun | multidimensionality
+desakralizim | noun | desacralization
+paleogjen | noun | Paleogene
+predelë | noun | predella
+pentan | noun | pentane
+fenacetinë | noun | phenacetin
+hipernatremi | noun | hypernatraemia
+aktverifikim | noun | verification report
+epiglotis | noun | epiglottis
+desulfurizim | noun | desulphurization
+trombolizë | noun | thrombolysis
+kreker | noun | cracker
+recensionim | noun | reviewing
+filigranist | noun | filigree maker
+termoformim | noun | thermoforming
+garzonierë | noun | studio flat
+mebendazol | noun | mebendazole
+ruter | noun | router
+konsilium | noun | medical consultation
+paleolog | noun | palaeographer
+laktoferrinë | noun | lactoferrin
+kriptoaset | noun | crypto-asset
+piroskaf | noun | steamship
+amiloidozë | noun | amyloidosis
+fosfodiesterazë | noun | phosphodiesterase
+lumineshencë | noun | luminescence
+diabaz | noun | diabase
+goblen | noun | tapestry embroidery
+idolizim | noun | idolization
+laringit | noun | laryngitis
+konvalidim | noun | validation
+katolicitet | noun | catholicity
+spermatocit | noun | spermatocyte
+poliamori | noun | polyamory
+sugjestibilitet | noun | suggestibility
+kalcitoninë | noun | calcitonin
+izoipsë | noun | contour line
+hialuronidazë | noun | hyaluronidase
+bizaritet | noun | bizarreness
+heliosferë | noun | heliosphere
+timariot | noun | timar holder
+antitrombinë | noun | antithrombin
+beneficiar | noun | beneficiary
+sarkomer | noun | sarcomere
+ortozë | noun | orthosis
+kromodinamikë | noun | chromodynamics
+merkaptopurinë | noun | mercaptopurine
+gjeneticien | noun | geneticist
+prostaciklinë | noun | prostacyclin
+psikolinguist | noun | psycholinguist
+termistor | noun | thermistor
+signifikancë | noun | significance
+izocianat | noun | isocyanate
+furunkul | noun | furuncle
+arbaletë | noun | crossbow
+amortizer | noun | shock absorber
+letërkredi | noun | letter of credit
+korporatokraci | noun | corporatocracy
+feminicid | noun | femicide
+kardiogramë | noun | cardiogram
+apolid | noun | stateless person
+pedikulozë | noun | pediculosis
+kongregatë | noun | congregation
+alkalizim | noun | alkalization
+ekskrement | noun | excrement
+ceramid | noun | ceramide
+mastocit | noun | mast cell
+koloraturë | noun | coloratura
+divertikulozë | noun | diverticulosis
+dekarboksilazë | noun | decarboxylase
+pubalgji | noun | pubalgia
+mutagjenezë | noun | mutagenesis
+neodiktator | noun | neo-dictator
+mioglobinuri | noun | myoglobinuria
+tireoglobulinë | noun | thyroglobulin
+raketing | noun | racketeering
+etnosferë | noun | ethnosphere
+amfiregulinë | noun | amphiregulin
+izopren | noun | isoprene
+psikoneurozë | noun | psychoneurosis
+manitol | noun | mannitol
+holter | noun | Holter monitor
+superbakter | noun | superbug
+modularizim | noun | modularization
+difamim | noun | defamation
+gametogjenezë | noun | gametogenesis
+organofosfat | noun | organophosphate
+krokus | noun | crocus
+polimiksinë | noun | polymyxin
+komprador | noun | comprador
+ruralitet | noun | rurality
+vakumim | noun | vacuuming
+halucinim | noun | hallucinating
+interseksual | noun | intersex person
+prolinë | noun | proline
+kreatininemi | noun | creatininaemia
+citomegalovirus | noun | cytomegalovirus
+neuroimazh | noun | neuroimaging
+encefalomielit | noun | encephalomyelitis
+militancë | noun | militancy
+konstituencë | noun | constituency
+miozinë | noun | myosin
+toksikozë | noun | toxicosis
+termolizë | noun | thermolysis
+proksimitet | noun | proximity
+stivador | noun | stevedore
+fotodiodë | noun | photodiode
+demodulim | noun | demodulation
+fibronektinë | noun | fibronectin
+anatoksinë | noun | toxoid
+suturim | noun | suturing
+bromid | noun | bromide
+privacitet | noun | privacy
+regjistraturë | noun | registry office
+dominatriks | noun | dominatrix
+tomatidinë | noun | tomatidine
