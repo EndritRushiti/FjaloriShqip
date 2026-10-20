@@ -38956,4 +38956,22 @@ rixhiroj | verb |
 rizaptoj | verb | 
 rizbarkoj | verb | 
 rizbërthej | verb | 
-rizhdëmtoj | verb | 
+rizhdëmtoj | verb |
+# ── ftpl.new.tsv ──
+bashkëfjalosem | verb | 
+bashkëgojëzoj | verb | 
+padruajtur | adj | 
+pagjuajtur | adj | 
+pangrënë | adj | 
+panisur | adj | 
+papëlqyer | adj | 
+papërfillur | adj | 
+papluguar | adj | 
+paprishur | adj | 
+pashkëputur | adj | 
+pashpallur | adj | 
+pashpërblyer | adj | 
+pashprehur | adj | 
+patokëzuar | adj | 
+mbiquaj | verb | nickname
+mbiquajtje | noun | nickname
