@@ -31041,4 +31041,11 @@ gjellitje | noun |
 murmurisje | noun | 
 zhdavaritje | noun | 
 zhubrosje | noun | 
-dëlirje | noun | 
+dëlirje | noun |
+# ── g3.new.tsv ──
+vendosshmëri | noun | 
+zgjedhshmëri | noun | 
+tërheqshmëri | noun | 
+njohshmëri | noun | 
+ripikturim | noun | 
+zgjidhshmëri | noun | 
