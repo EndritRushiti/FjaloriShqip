@@ -19879,3 +19879,6 @@ dimenzion | dimension
 procedurial | procedural
 konkurencë | konkurrencë
 prestigjoz | prestigjioz
+# ── t5.new.tsv ──
+proibicionizëm | prohibicionizëm
+konjitivizëm | kognitivizëm
