@@ -38718,3 +38718,154 @@ nënthonjëz | noun | nail bed
 nënvetull | noun | underbrow
 ngalaq | adj | clumsy
 ngathtësoj | verb | slow down
+# ── fu7.new.tsv ──
+ngërqeshje | noun | sneer
+ngrohtësimatës | noun | calorimeter
+ngulitës | adj | fixing
+ngushtësoj | verb | narrow
+ngjyrëbizele | adj | pea-green
+ngjyrëçelët | adj | light-coloured
+ngjyrëportokalle | adj | orange
+ngjyrëtullë | adj | brick-red
+nikeluar | adj | nickel-plated
+nitrifikoj | verb | nitrify
+njelmësoj | verb | make salty
+njelmishtë | noun | salt marsh
+njëatomësh | adj | monatomic
+njëboshtor | adj | uniaxial
+njëfazësh | adj | single-phase
+njëfillësh | adj | single-thread
+njëgishtësh | adj | one-fingered
+njëkilësh | adj | one-kilo
+njëkuptimësi | noun | univocality
+njëmbëdhjetërrokësh | adj | hendecasyllabic
+njëmijëlekësh | adj | thousand-lek
+njëmoshor | adj | of the same age
+njëqendror | adj | concentric
+njëqindfishim | noun | hundredfold increase
+njëqindfishoj | verb | increase a hundredfold
+njëqindor | adj | centenary
+njëshkronjësh | adj | one-letter
+njëtehësh | adj | single-edged
+njëtelësh | adj | single-wire
+njëtonësh | adj | monotone
+njëzetfishoj | verb | increase twentyfold
+njomësoj | verb | moisten
+njomëzim | noun | moistening
+opingabërës | noun | sandal maker
+opingagrisur | adj | ragged
+orëfikur | adj | ill-starred
+orëharruar | adj | forsaken
+ortakërisht | adv | jointly
+ortakisht | adv | in partnership
+ozonoj | verb | ozonize
+paardhur | adj | not yet arrived
+paarritur | adj | unripe
+pababa | adj | fatherless
+pabrumosur | adj | unkneaded
+paçelur | adj | unopened
+padhjamë | adj | lean
+paelektrifikuar | adj | unelectrified
+pafjetur | adj | sleepless
+pagatitur | adj | unprepared
+pagjunjëzueshëm | adj | indomitable
+pahekurosur | adj | unironed
+pakalitur | adj | untempered
+pakëmbë | adj | legless
+pakëputur | adj | unbroken
+pakorrigjuar | adj | uncorrected
+pakorrur | adj | unharvested
+pakrehur | adj | uncombed
+pakrijueshmëri | noun | uncreativity
+pakurdisur | adj | unwound
+palakmi | adj | unselfish
+palezetshëm | adj | charmless
+palëngshëm | adj | juiceless
+palyer | adj | unpainted
+pambjellë | adj | unsown
+pampiksur | adj | uncoagulated
+pandërvarur | adj | independent
+pandrequr | adj | unrepaired
+panginjur | adj | insatiate
+pangjeshur | adj | uncompressed
+pangjizur | adj | unconceived
+panikmadh | adj | panic-stricken
+panjollosur | adj | spotless
+paoreks | adj | without appetite
+papërdhok | adj | unused
+papërkapshëm | adj | elusive
+papërligjur | adj | unjustified
+papërmbushur | adj | unfulfilled
+papjellë | adj | barren
+paplotpjesëtueshëm | adj | not exactly divisible
+paprashitur | adj | unhoed
+paqethur | adj | unshorn
+parablej | verb | pre-purchase
+parabolizoj | verb | parabolize
+paragrafoj | verb | paragraph
+parakushtëzoj | verb | precondition
+parambroj | verb | protect in advance
+parapandeh | verb | presume
+parapërforcoj | verb | pre-reinforce
+parapërzgjedh | verb | preselect
+paraplëndës | noun | rumen
+parastomak | noun | forestomach
+parastudioj | verb | pre-study
+paratrajtoj | verb | pretreat
+paregjur | adj | untanned
+parkerizoj | verb | parkerize
+parrahur | adj | unbeaten
+pasbjeshkë | noun | beyond the mountains
+pasgrusht | noun | back of the fist
+pasjetoj | verb | outlive
+pasmbesë | noun | great-granddaughter
+pasmesditë | noun | afternoon
+pasrregull | adj | disorderly
+pastërvitur | adj | untrained
+pastolisur | adj | unadorned
+pashëndet | adj | unhealthy
+pashëtitur | adj | unexplored
+pashkoqur | adj | unshelled
+pashoshur | adj | unsifted
+pashtypur | adj | unprinted
+pathinjur | adj | not grey
+pauperizoj | verb | pauperize
+paushqyer | adj | unfed
+pavrarë | adj | unwounded
+pavuajtur | adj | unsuffered
+pazbardhur | adj | unbleached
+pazhveshur | adj | undressed
+pemësoj | verb | plant trees
+pendëzi | adj | black-feathered
+penguarazi | adv | haltingly
+perçebardhë | adj | white-haired
+perçethinjur | adj | grey-haired
+perçezi | adj | black-haired
+perçinoj | verb | rivet
+personizoj | verb | personify
+pesëdhjetëlekësh | adj | fifty-lek
+pesëdhjetëshe | noun | fifty note
+pesëgarësh | noun | pentathlon
+pesëgarist | noun | pentathlete
+pesëmbëdhjetësh | adj | fifteen-part
+pesëqindtë | num | five-hundredth
+peshkrritje | noun | fish farming
+peshkth | noun | small fish
+petrifikoj | verb | petrify
+petullicë | noun | small fritter
+përbashkësoj | verb | pool
+përbrendshme | adj | inner
+përdredhoj | verb | twist
+përflaktas | adv | ablaze
+përfshirës | adj | inclusive
+përmbidorë | adv | on the hand
+përmbipardje | adv | four days ago
+përmbipasnesër | adv | in four days
+përmendsh | adv | by heart
+përngjashmoj | verb | resemble
+përshenjtëroj | verb | sanctify
+përtejbregas | adj | across the shore
+përtejdetas | adj | overseas
+përtejlumas | adj | across the river
+përtejoqean | adj | transoceanic
+përultas | adv | humbly
