@@ -28382,3 +28382,82 @@ vetërrotullues | adj | self-rotating
 shaptilografim | noun | duplicating
 vetëriprodhim | noun | self-reproduction
 themelfortë | adj | firmly founded
+# ── fg9.new.tsv ──
+centilitër | noun | centilitre
+erëmatës | noun | anemometer
+tejshtrij | verb | to overextend
+aktzotërim | noun | title deed
+qytetarësi | noun | citizenship
+kungullishtë | noun | pumpkin patch
+pakujtueshëm | adj | unrememberable
+zhurmëthithës | adj | sound-absorbing
+kundërbërthamor | adj | anti-nuclear
+gjysmërrotullim | noun | half-turn
+kalldrëmim | noun | cobbling
+shëndetdhënës | adj | healthful
+qimeshkurtër | adj | short-haired
+zhurmëbërës | adj | noisy
+njëzetditor | adj | twenty-day
+reklamist | noun | advertiser
+shpirtlartë | adj | high-minded
+gëzimdhënës | adj | joy-giving
+djathëshitës | noun | cheesemonger
+leshbardhë | adj | white-fleeced
+agrumor | adj | citrus (adj.)
+kalldrëmshtrues | noun | paver
+samartar | noun | pack-saddle maker
+balestër | noun | crossbow
+projekttraktat | noun | draft treaty
+fytyrëverdhë | adj | sallow-faced
+rrugëtregues | noun | signpost; guidebook
+aktdëshmi | noun | certificate
+petrograf | noun | petrographer
+rrugërrëfyes | noun | guide
+hundësqep | adj | hook-nosed
+bacilmbartës | noun | carrier (of disease)
+limonishtë | noun | lemon grove
+këmbëbardhë | adj | white-footed
+kundërraketë | noun | anti-missile
+papërvetësueshëm | adj | unassimilable
+pseudosocializëm | noun | pseudo-socialism
+faqebutë | adj | soft-cheeked
+shumëtrajtshmëri | noun | polymorphism
+mustaqepërpjetë | adj | with upturned moustache
+leshragjatë | adj | long-fleeced
+shaptilografist | noun | duplicator operator
+shumëformësi | noun | multiformity
+ngjyrëvishnje | adj | cherry-red
+fatrrëfyes | noun | fortune-teller
+hektometër | noun | hectometre
+gjysmëkodrinor | adj | semi-hilly
+kundërgrusht | noun | counterpunch
+thjeshtueshëm | adj | simplifiable
+shtresëtrashë | adj | thick-layered
+përdymuajshëm | adj | bimonthly
+veshshkurtër | adj | short-eared
+fletëvogël | adj | small-leaved
+farëvogël | adj | small-seeded
+farëmadh | adj | large-seeded
+letërshpërndarës | noun | postman
+heshtëmbajtës | noun | spear-bearer
+porsapjellë | adj | newly calved
+farëgjatë | adj | long-seeded
+gjethehollë | adj | thin-leaved
+aktmartesë | noun | marriage certificate
+ngjyrëkaki | adj | khaki-coloured
+mjekërbutë | adj | soft-bearded
+shumëbazik | adj | polybasic
+njëditshëm | adj | one-day
+mbiharxhim | noun | overspending
+vullnetçelik | adj | iron-willed
+letërprerëse | noun | paper knife
+shumëpjellëshe | adj | multiparous
+pikëshkrirje | noun | melting point
+fytyrëzymtë | adj | sullen-faced
+fytyrëmprehtë | adj | sharp-featured
+fytyrëvrazhdë | adj | coarse-faced
+kokërrfortë | adj | hard-grained
+pangrënie | noun | going without food
+shumëllojësi | noun | variety
+qimerrallë | adj | sparse-haired
+fjalëvrazhdë | adj | rough-spoken
