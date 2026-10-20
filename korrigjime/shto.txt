@@ -39383,3 +39383,47 @@ thembroj | verb | heel
 therorizoj | verb | sacrifice
 thëngjillëzim | noun | carbonization
 thëngjillëzoj | verb | carbonize
+# ── fvet.new.tsv ──
+vetadministrohem | verb | 
+vetafirmohem | verb | 
+vetarsimohem | verb | 
+vetedukohem | verb | 
+vetemërohem | verb | 
+vetëdemaskohem | verb | 
+vetëdenoncohem | verb | 
+vetëgënjehem | verb | 
+vetëgradohem | verb | 
+vetëgroposem | verb | 
+vetëgjenerohet | verb | 
+vetëgjymtohem | verb | 
+vetëkomandohet | verb | 
+vetëkualifikohem | verb | 
+vetëkurdiset | verb | 
+vetëmbyllem | verb | 
+vetëmbytem | verb | 
+vetëmënjanohem | verb | 
+vetëndërgjegjësohem | verb | 
+vetëngarkohet | verb | 
+vetëngurtësohet | verb | 
+vetëngjizet | verb | 
+vetëpasurohem | verb | 
+vetëpengohem | verb | 
+vetëpërcaktohem | verb | 
+vetëpërgatitem | verb | 
+vetëplagosem | verb | 
+vetëprezantohem | verb | 
+vetëpunësohem | verb | 
+vetërrëfehem | verb | 
+vetërrotullohet | verb | 
+vetësugjestionohem | verb | 
+vetëshfajësohem | verb | 
+vetëshkarkohet | verb | 
+vetëshpërblehem | verb | 
+vetëshumëzohet | verb | 
+vetëtestohem | verb | 
+vetëtërhiqem | verb | 
+vetëzhvlerësohem | verb | 
+vetofrohem | verb | 
+vetoksidohet | verb | 
+vetorganizohem | verb | 
+vetushqehem | verb | 
