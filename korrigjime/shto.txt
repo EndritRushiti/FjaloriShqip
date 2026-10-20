@@ -29012,3 +29012,150 @@ nënkuptimisht | adv | implicitly
 patundueshëm | adj | unshakeable
 antiadeziv | adj | non-stick
 riindustrializim | noun | reindustrialization
+# ── d3.new.tsv ──
+kryeqeverisës | noun | supreme ruler
+kryeavokat | noun | lead lawyer
+kryemenaxher | noun | chief manager
+kryezyrtar | noun | chief official
+kryefeudal | noun | chief feudal lord
+kryedelegat | noun | head delegate
+kryekoordinator | noun | chief coordinator
+kryeideolog | noun | chief ideologist
+kryekameraman | noun | director of photography
+kryepatriark | noun | supreme patriarch
+kryeanalist | noun | chief analyst
+kryedëshmitar | noun | key witness
+kryediakon | noun | archdeacon
+kryeinstruktor | noun | chief instructor
+kryeepiskop | noun | archbishop
+kryedrejtor | noun | director-general
+kryetempull | noun | main temple
+kryenoter | noun | chief notary
+kryefshat | noun | chief village
+kryeasistent | noun | chief assistant
+kryeoficer | noun | chief officer
+kryefarmacist | noun | chief pharmacist
+kryebibliotekist | noun | chief librarian
+kryeportier | noun | first-choice goalkeeper
+kryemetropolit | noun | archmetropolitan
+kryelojtar | noun | star player
+mosfrekuentim | noun | non-attendance
+spiralisht | adv | spirally
+kundërmësyrë | noun | counteroffensive
+vesternizim | noun | westernization
+shumëvjetshëm | adj | long-standing
+mbikujdesje | noun | overprotection
+ristabilizim | noun | restabilization
+ripërshkrim | noun | redescription
+ufologjist | noun | ufologist
+gjysmëkohë | noun | half-time
+parafaturë | noun | pro forma invoice
+klorizim | noun | chlorination
+kullueshëm | adj | drainable
+riinspektim | noun | reinspection
+kundërqeveritar | adj | anti-government
+kundëriniciativë | noun | counter-initiative
+kulturist | noun | bodybuilder
+fiziologjist | noun | physiologist
+elipsor | adj | elliptical
+importueshëm | adj | importable
+mbipresion | noun | overpressure
+mbijetueshëm | adj | survivable
+kundërpresion | noun | counter-pressure
+mobilizueshëm | adj | mobilizable
+bashkëndërtim | noun | joint construction
+ndërspitalor | adj | inter-hospital
+nënprokuror | noun | deputy prosecutor
+nënguvernator | noun | deputy governor
+censurueshëm | adj | censorable
+stakanovizëm | noun | Stakhanovism
+garderobist | noun | wardrobe keeper
+zmadhueshëm | adj | enlargeable
+vetëmonitorim | noun | self-monitoring
+nënakullnajor | adj | subglacial
+ndëramerikan | adj | inter-American
+bashkëluftim | noun | joint fighting
+pamfletar | noun | pamphleteer
+bashkëdelegat | noun | fellow delegate
+drejtueshëm | adj | steerable
+mikrokirurg | noun | microsurgeon
+pandërhyrje | noun | non-intervention
+mosngjashmëri | noun | dissimilarity
+lokalizueshëm | adj | localizable
+profilaktikisht | adv | prophylactically
+moskonformizëm | noun | nonconformism
+tunelizim | noun | tunnelling
+tejprodhim | noun | overproduction
+ndërsindikal | adj | inter-union
+mosreciprocitet | noun | non-reciprocity
+rinormalizim | noun | renormalization
+pashpëtueshëm | adj | unsalvageable
+pafitueshëm | adj | unwinnable
+rianeksim | noun | reannexation
+rioksidim | noun | reoxidation
+gjysmëdemokratik | adj | semi-democratic
+biomekanikisht | adv | biomechanically
+determinueshëm | adj | determinable
+mospenalizim | noun | non-penalization
+zgjatueshëm | adj | extendable
+gjeoshkencëtar | noun | geoscientist
+kondensueshëm | adj | condensable
+sekuencialisht | adv | sequentially
+mikrometeorit | noun | micrometeorite
+rimineralizim | noun | remineralization
+preliminarisht | adv | preliminarily
+ortogonalisht | adv | orthogonally
+ripërdorueshëm | adj | reusable
+ndërmuskulor | adj | intermuscular
+subklinikisht | adv | subclinically
+dekompozueshëm | adj | decomposable
+bashkëadministrator | noun | co-administrator
+parapensionim | noun | early retirement
+onkologist | noun | oncologist
+bashkëiniciator | noun | co-initiator
+preventivisht | adv | preventively
+nënsegment | noun | subsegment
+kundërstatutor | adj | contrary to the statute
+mbithjeshtëzim | noun | oversimplification
+kontinualisht | adv | continually
+jashtëstatutor | adj | extra-statutory
+mbisekretim | noun | hypersecretion
+idiomatikisht | adv | idiomatically
+patentueshëm | adj | patentable
+kajakist | noun | kayaker
+eksplicitisht | adv | explicitly
+paraanëtarësim | noun | pre-accession
+kundërthërrmijë | noun | antiparticle
+rizhvendosje | noun | relocation
+melankolikisht | adv | melancholically
+nënrrjet | noun | subnet
+ekonometrikisht | adv | econometrically
+heterogjenësi | noun | heterogeneity
+korrektueshëm | adj | correctable
+kundërprovë | noun | counter-evidence
+mikrofotografi | noun | micrograph
+jashtështetëror | adj | non-state
+rinegocioj | verb | to renegotiate
+nënshtetëror | adj | sub-state
+rivalorizim | noun | revaluation
+normalizueshëm | adj | normalizable
+rrethpolar | adj | circumpolar
+tangjencialisht | adv | tangentially
+nënmarrëveshje | noun | sub-agreement
+nënfinancim | noun | underfunding
+zvogëlueshëm | adj | reducible
+efikasisht | adv | efficiently
+nënlejtnant | noun | second lieutenant
+bashkëministër | noun | co-minister
+rezervueshëm | adj | reservable
+vetëbotues | noun | self-publisher
+rifabrikim | noun | remanufacturing
+kompresueshëm | adj | compressible
+mbitheksoj | verb | to overemphasize
+indeksueshëm | adj | indexable
+nënzhvillim | noun | underdevelopment
+humanitarisht | adv | humanitarianly
+shumësektorial | adj | multisectoral
+tredimensionalisht | adv | three-dimensionally
+koleksionueshëm | adj | collectible
+audiometrist | noun | audiometrist
