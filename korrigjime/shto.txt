@@ -28461,3 +28461,63 @@ pangrënie | noun | going without food
 shumëllojësi | noun | variety
 qimerrallë | adj | sparse-haired
 fjalëvrazhdë | adj | rough-spoken
+# ── fg10.new.tsv ──
+fletanëtarësi | noun | membership card
+decentralizëm | noun | decentralism
+njerivrasje | noun | homicide
+letërpërcjellëse | noun | cover letter
+qimeverdhë | adj | yellow-haired
+bashkëzotërim | noun | co-ownership
+dypolarësi | noun | bipolarity
+ndajfoljezim | noun | adverbialization
+ngadhënjimisht | adv | triumphantly
+teknokratizëm | noun | technocratism
+qymyrbërës | noun | charcoal burner
+demokratizëm | noun | democratism
+samarbërës | noun | pack-saddle maker
+ultratingullor | adj | ultrasonic
+lëvrueshëm | adj | arable
+nektarmbajtës | adj | nectariferous
+gjoksngushtë | adj | narrow-chested
+dyfaqshëm | adj | two-faced
+carizëm | noun | tsarism
+empiriokriticizëm | noun | empiriocriticism
+njëmoshës | adj | of the same age
+gojëmprehtë | adj | sharp-tongued
+pamjekër | adj | beardless
+pamanovrueshëm | adj | unmanoeuvrable
+aktdelegim | noun | act of delegation
+largshikues | adj | far-sighted
+pandezshëm | adj | non-flammable
+zgjedhueshëm | adj | eligible
+parafinim | noun | paraffining
+sapunxhi | noun | soap maker
+gjoksgjerë | adj | broad-chested
+trupbrishtë | adj | frail
+minazbulues | noun | mine detector
+joproletar | adj | non-proletarian
+pavenitshëm | adj | unfading
+kumbullishtë | noun | plum orchard
+lëkurëverdhë | adj | yellow-skinned
+flokëbutë | adj | soft-haired
+kreshtëkuq | adj | red-crested
+paramonopolist | adj | pre-monopoly
+shpirtçiltër | adj | open-hearted
+ballëngushtë | adj | narrow-browed
+radiotelegram | noun | radiotelegram
+monarkizëm | noun | monarchism
+ndërkombëtarësi | noun | internationality
+dyqelizor | adj | two-celled
+agrobiologji | noun | agrobiology
+autoofiçinë | noun | car repair shop
+mjekërborë | adj | snow-bearded
+kockëhollë | adj | fine-boned
+mëngëshkurtër | adj | short-sleeved
+shumëtrajtshëm | adj | polymorphous
+qelqpunues | noun | glassworker
+kockëgjerë | adj | big-boned
+bajamishtë | noun | almond orchard
+gjumërëndë | adj | heavy sleeper
+paqumësht | adj | milkless
+papasje | noun | poverty
+gushëmadh | adj | big-throated
