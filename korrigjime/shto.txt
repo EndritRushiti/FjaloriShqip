@@ -35953,3 +35953,51 @@ shprehshëm | adj | expressible
 zgjatshëm | adj | extendable
 rizgjedhshëm | adj | re-electable
 rraskapitshëm | adj | exhausting
+# ── rv2.new.tsv ──
+nervaturë | noun | venation
+skilift | noun | ski lift
+hieromonak | noun | hieromonk
+hitparadë | noun | hit parade
+levonorgestrel | noun | levonorgestrel
+travesti | noun | transvestite
+bazileus | noun | basileus
+hugenot | noun | Huguenot
+euglenë | noun | euglena
+tetëfish | adv | eightfold
+shtatëfish | adv | sevenfold
+akordancë | noun | accordance
+nazofaring | noun | nasopharynx
+orofaring | noun | oropharynx
+antropogjenezë | noun | anthropogenesis
+oligospermi | noun | oligospermia
+psoralen | noun | psoralen
+benzopiren | noun | benzopyrene
+ferronikel | noun | ferronickel
+hematemezë | noun | haematemesis
+bifenil | noun | biphenyl
+trikomonas | noun | trichomonas
+vulvodini | noun | vulvodynia
+spliter | noun | splitter
+hiacint | noun | hyacinth
+epoletë | noun | epaulette
+lopinavir | noun | lopinavir
+mangrov | noun | mangrove
+jetski | noun | jet ski
+flakadë | noun | torch
+autodeklarim | noun | self-declaration
+sonotrodë | noun | sonotrode
+panenkë | noun | Panenka penalty
+bençmark | noun | benchmark
+gastarbeiter | noun | guest worker
+mediatekë | noun | media library
+bandokraci | noun | gang rule
+anhedoni | noun | anhedonia
+epididim | noun | epididymis
+organogjenezë | noun | organogenesis
+lavandulë | noun | lavender
+mbirregullim | noun | overregulation
+angjevin | adj | Angevin
+trialog | noun | trilogue
+superspektakël | noun | superspectacle
+konverter | noun | converter
+oppidum | noun | oppidum
