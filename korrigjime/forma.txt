@@ -19716,3 +19716,5 @@ barrohem | barroj
 bullafiqem | bullafiq
 # ── fg4.new.tsv ──
 tringëllij | tringëlloj
+# ── fg7.new.tsv ──
+vetëquaj | vetëquhem

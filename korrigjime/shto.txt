@@ -28207,3 +28207,87 @@ paraprovim | noun | preliminary examination
 stanar | noun | shepherd at the fold
 bimëz | noun | seedling
 farishtë | noun | seedbed
+# ── fg7.new.tsv ──
+salepçi | noun | salep seller
+vetësugjestionim | noun | autosuggestion
+pseudofilozof | noun | pseudo-philosopher
+kërmillor | adj | spiral, helical
+lajmdhënës | noun | informant
+hiçasgjë | pron | nothing at all
+fletëpranim | noun | receipt slip
+fizkulturist | noun | gymnast
+çanaklëpirës | noun | toady
+belbëzak | noun | stammerer
+meqenëqë | conj | since, as
+gëzimsjellës | adj | joy-bringing
+drithor | adj | cereal
+kromim | noun | chrome plating
+anijetar | noun | sailor
+jokërbishtor | adj | invertebrate
+arkërkues | noun | gold prospector
+pikëbashkim | noun | junction
+nishanxhi | noun | marksman
+trajtëformim | noun | inflection
+lashtërisht | adv | in ancient times
+mbidheshëm | adj | above-ground
+farëbardhë | adj | white-seeded
+vetëshkarkim | noun | self-discharge
+peshkngrënës | adj | fish-eating
+antithërrmijë | noun | antiparticle
+xhambazllëk | noun | horse-trading, trickery
+prestidigjitator | noun | conjurer
+xhamaprerës | noun | glazier
+gojëbilbil | adj | sweet-spoken
+kadril | noun | quadrille
+siderurgji | noun | iron and steel industry
+linotipist | noun | linotypist
+gjobim | noun | fining
+njëqindmetërsh | adj | hundred-metre
+mermerpunues | noun | marble worker
+dyvalent | adj | bivalent
+ortoepi | noun | orthoepy
+brumëgatues | noun | dough maker
+stearinë | noun | stearin
+fletëshpërngulje | noun | change-of-residence certificate
+pseudorevolucionar | noun | pseudo-revolutionary
+duhanshitës | noun | tobacconist
+njëlitërsh | adj | one-litre
+adaxhio | noun | adagio
+mosmbarëvajtje | noun | lack of success
+kundëratomik | adj | anti-nuclear
+parastudim | noun | preliminary study
+fjalëgjatë | adj | long-winded
+moçalizim | noun | bogging
+barkplot | adj | full-bellied
+dypushtet | noun | dual power
+jonxhishtë | noun | alfalfa field
+bashkëbanim | noun | cohabitation
+bashkëshkollar | noun | schoolmate
+mbishpenzim | noun | overspending
+sqepgjatë | adj | long-beaked
+anijethyerje | noun | shipwreck
+pedolog | noun | soil scientist
+kryearkëtar | noun | chief cashier
+bletëngrënës | noun | bee-eater
+helioterapi | noun | heliotherapy
+lagështidashës | adj | moisture-loving
+ciklostil | noun | mimeograph
+njëqindmijtë | num | hundred-thousandth
+jashtëbuxhetor | adj | off-budget
+rekordmbajtës | noun | record holder
+kohëshënues | noun | timekeeper
+agromekanikë | noun | agricultural mechanics
+labëreshë | noun | Lab woman
+samarpunues | noun | pack-saddle maker
+oxhakpastrues | noun | chimney sweep
+antihigjienik | adj | unhygienic
+gjithëfuqishmëri | noun | omnipotence
+gurpunues | noun | stonemason
+dritëdashës | adj | light-loving
+amoniakor | adj | ammoniacal
+joprodhimtar | adj | unproductive
+prapagjuhor | adj | velar
+qymyror | adj | coal (adj.)
+vetëpllenim | noun | self-pollination
+dyanësisht | adv | bilaterally
+sihariqtar | noun | herald of good news
