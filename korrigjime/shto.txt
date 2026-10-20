@@ -31984,3 +31984,172 @@ prokainamid | noun | procainamide
 trakeobronkit | noun | tracheobronchitis
 subspecialitet | noun | subspecialty
 liberaldemokrat | noun | liberal democrat
+# ── g12.new.tsv ──
+garibaldin | noun | Garibaldian
+ingjerencë | noun | interference
+proveditor | noun | provveditore (Venetian official)
+murshid | noun | murshid (Sufi guide)
+tanzimat | noun | Tanzimat
+piranjë | noun | piranha
+redakturë | noun | editing
+tantiemë | noun | royalty, bonus
+magnetosferë | noun | magnetosphere
+keqedukim | noun | miseducation
+sllavojugor | adj | South Slavic
+hiperaciditet | noun | hyperacidity
+ketoglutarat | noun | ketoglutarate
+talidomid | noun | thalidomide
+saldaturë | noun | weld
+mikrozonë | noun | microzone
+fitocenozë | noun | phytocoenosis
+metroseksual | noun | metrosexual
+kabalë | noun | Kabbalah; intrigue
+gjestikulim | noun | gesticulation
+bronzer | noun | bronzer
+marinaturë | noun | marinade
+gjeomonument | noun | geomonument
+randomizim | noun | randomization
+koksidiozë | noun | coccidiosis
+afrikanoamerikan | adj | African-American
+diatermi | noun | diathermy
+spondilartrozë | noun | spondylarthrosis
+melazmë | noun | melasma
+aspektualitet | noun | aspectuality
+parmezan | noun | Parmesan
+partikularitet | noun | particularity
+suzerenitet | noun | suzerainty
+kalkulozë | noun | lithiasis
+literaritet | noun | literariness
+esencialitet | noun | essentiality
+islamistikë | noun | Islamic studies
+sulkus | noun | sulcus
+neomarksist | noun | neo-Marxist
+streptokinazë | noun | streptokinase
+levirat | noun | levirate
+hantavirus | noun | hantavirus
+metanogjen | noun | methanogen
+efloreshencë | noun | efflorescence
+makroekonomist | noun | macroeconomist
+konduktivitet | noun | conductivity
+pllombë | noun | dental filling
+dizajnator | noun | designer
+hiperopi | noun | hyperopia
+investiturë | noun | investiture
+silabus | noun | syllabus
+histogram | noun | histogram
+titulaturë | noun | titles (style)
+aspartat | noun | aspartate
+rikontekstualizim | noun | recontextualization
+multiplicitet | noun | multiplicity
+marcipan | noun | marzipan
+regolit | noun | regolith
+monogjenezë | noun | monogenesis
+vaginozë | noun | vaginosis
+dimensionim | noun | sizing
+poliarki | noun | polyarchy
+katekolamin | noun | catecholamine
+profiterol | noun | profiterole
+osteosintezë | noun | osteosynthesis
+mukopolisakarid | noun | mucopolysaccharide
+fasadokraci | noun | façade democracy
+karting | noun | karting
+prepuc | noun | prepuce
+meningokok | noun | meningococcus
+inicializim | noun | initialization
+ekshumim | noun | exhumation
+eskalop | noun | escalope
+propionat | noun | propionate
+metilksantinë | noun | methylxanthine
+aksilë | noun | axilla
+trikonkë | noun | triconch
+lipazë | noun | lipase
+tematizim | noun | thematization
+komodifikim | noun | commodification
+ekipim | noun | equipment
+sinopsis | noun | synopsis
+hologram | noun | hologram
+flagjel | noun | flagellum
+eritrocitozë | noun | erythrocytosis
+diurezë | noun | diuresis
+ingranim | noun | meshing, engagement
+otosklerozë | noun | otosclerosis
+nimesulid | noun | nimesulide
+konjugat | noun | conjugate
+tuberkulë | noun | tubercle
+eskulinë | noun | aesculin
+propofol | noun | propofol
+eksplozivitet | noun | explosiveness
+fizicitet | noun | physicality
+propagim | noun | propagation
+neopren | noun | neoprene
+interfazë | noun | interphase
+hiperkapni | noun | hypercapnia
+mikroadenomë | noun | microadenoma
+konifer | noun | conifer
+diacetil | noun | diacetyl
+rodenticid | noun | rodenticide
+dihidrat | noun | dihydrate
+radikulit | noun | radiculitis
+altaik | adj | Altaic
+avitaminozë | noun | avitaminosis
+papilomavirus | noun | papillomavirus
+ketozë | noun | ketosis
+levodopë | noun | levodopa
+inaktivizim | noun | inactivation
+makrolid | noun | macrolide
+itrakonazol | noun | itraconazole
+rinit | noun | rhinitis
+plazminë | noun | plasmin
+koroid | noun | choroid
+klementinë | noun | clementine
+antocian | noun | anthocyanin
+angiomë | noun | angioma
+metafoni | noun | metaphony
+hemokromatozë | noun | haemochromatosis
+vernisazh | noun | vernissage
+njëgjuhësi | noun | monolingualism
+abhaz | noun | Abkhaz
+pericikël | noun | pericycle
+incisiv | adj | incisive
+kajman | noun | caiman
+retikul | noun | reticle, reticulum
+kinetozë | noun | motion sickness
+glomerul | noun | glomerulus
+instrumentarium | noun | set of instruments
+klorpromazinë | noun | chlorpromazine
+lipopolisakarid | noun | lipopolysaccharide
+glukokortikosteroid | noun | glucocorticosteroid
+prakticien | noun | practitioner
+prindësi | noun | parenthood
+kontaminant | noun | contaminant
+leukotrien | noun | leukotriene
+kuazar | noun | quasar
+kimiopreparat | noun | chemotherapeutic agent
+portabilitet | noun | portability
+galerist | noun | gallerist
+peticioner | noun | petitioner
+transduktor | noun | transducer
+esterazë | noun | esterase
+hidrops | noun | hydrops
+kaheksi | noun | cachexia
+kontraktilitet | noun | contractility
+katekumenat | noun | catechumenate
+tonicitet | noun | tonicity
+hiperventilim | noun | hyperventilation
+autoktonitet | noun | autochthony
+serotip | noun | serotype
+valproat | noun | valproate
+arkidhjak | noun | archdeacon
+trinitrat | noun | trinitrate
+hipoventilim | noun | hypoventilation
+epikondilit | noun | epicondylitis
+asistoli | noun | asystole
+semolinë | noun | semolina
+pustulë | noun | pustule
+eksklavë | noun | exclave
+infanticid | noun | infanticide
+kryedioqezë | noun | archdiocese
+pacifikim | noun | pacification
+latencë | noun | latency
+lipolizë | noun | lipolysis
+qeverisshmëri | noun | governability

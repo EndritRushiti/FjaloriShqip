@@ -19880,3 +19880,5 @@ programer | programues
 kurrikulum | kurrikulë
 # ── g10.new.tsv ──
 akcelerator | akselerator
+# ── g12.new.tsv ──
+papillomavirus | papilomavirus
