@@ -37599,3 +37599,263 @@ shkrumbtë | adj | charred
 çdollojtë | adj | of every kind
 murrçimë | noun | greyness
 zverdhemë | adj | yellowed
+# ── ft8.new.tsv ──
+kapsitje | noun | clipping
+përfalje | noun | bow
+radit | verb | arrange
+dhëmbës | adj | toothed
+mihës | noun | digger
+mohës | noun | denier
+myshkët | adj | mossy
+parambrojtës | noun | forward defender
+shkulës | noun | puller
+shurrim | noun | urination
+vorbullon | verb | swirl
+dymotorësh | adj | twin-engine
+limët | adj | smooth
+ngrehës | adj | tensioning
+palëndët | adj | immaterial
+hupje | noun | loss
+shumëkokësh | adj | many-headed
+amvisje | noun | housekeeping
+këndje | noun | singing
+mirosje | noun | soothing
+parambrojtje | noun | forward defence
+batërdis | verb | destroy
+gudulisës | adj | tickling
+gjashtërrokësh | adj | six-syllable
+kacavarës | adj | climbing
+këqyrës | noun | inspector
+mizëron | verb | swarm
+pëlcitës | adj | bursting
+tëhollës | adj | thinning
+livadhisje | noun | conversion to meadow
+mykje | noun | moulding
+çaprashitje | noun | straddling
+lagështit | verb | moisten
+nëpërduket | verb | show through
+shumëfarësh | adj | various
+ushtues | adj | echoing
+zemërdhembshuri | noun | compassion
+hyjnim | noun | deification
+lebetitem | verb | be terrified
+besëprerës | noun | traitor
+brufullon | verb | bubble up
+pudros | verb | powder
+gëlqerosje | noun | whitewashing
+kullotëse | noun | pasture
+mbrapsje | noun | repulsion
+krrokat | verb | croak
+erëzon | verb | scent
+kallajis | verb | tin-plate
+lartas | adv | high up
+leshje | noun | growth of wool
+verues | adj | summery
+zbardhëllen | verb | dawn
+ngashërehem | verb | be moved to tears
+çapkënëri | noun | mischief
+duarzbrazët | adj | empty-handed
+ndryshkët | adj | rusty
+vendfushim | noun | encampment
+zhveshës | noun | stripper
+llapje | noun | lapping
+pjerrje | noun | inclination
+tromaksje | noun | terrifying
+zoritje | noun | compulsion
+dyfletësh | adj | two-leaved
+hipës | noun | rider
+njëcopësh | adj | one-piece
+vjershëri | noun | versification
+ngjyerje | noun | dyeing
+gjashtëfaqësh | adj | six-page
+zbehtas | adv | palely
+vetëndezje | noun | self-ignition
+zgërlaqje | noun | goggling
+dyzetkëmbësh | noun | centipede
+fëshfëritës | adj | rustling
+fytafytas | adv | hand to hand
+ndërlidhuri | adv | interconnectedly
+rikumbon | verb | resound
+shkrumbos | verb | char
+ujqëri | noun | wolfishness
+këmbatisje | noun | crossbreeding
+krimbje | noun | becoming wormy
+dydegësh | adj | two-branched
+katërrokësh | adj | four-syllable
+kryqthi | adv | crosswise
+pjalmon | verb | pollinate
+zënës | noun | catcher
+epim | noun | bending
+mihëse | noun | excavator
+mpakem | verb | shrink
+vërehem | verb | be noticed
+dymbëdhjetërrokësh | adj | twelve-syllable
+fëshfërit | verb | rustle
+gjegjshëm | adj | corresponding
+krahje | noun | winging
+kundje | noun | stench
+mbathës | noun | shoer
+shthurës | adj | corrupting
+shumëfazësh | adj | multiphase
+babëzitje | noun | gluttony
+davaritje | noun | dispersal
+jargosje | noun | slobbering
+njëmendim | adj | unanimous
+shkulëse | noun | puller
+shtjerrje | noun | draining
+tharmohet | verb | ferment
+zbardhëse | noun | bleach
+drobitës | adj | exhausting
+melodishëm | adj | melodious
+mënjanëri | noun | isolation
+ndërsjellas | adv | mutually
+nxiros | verb | blacken
+përndarës | noun | distributor
+shumëherësh | adj | repeated
+shumëpjesësh | adj | multi-part
+shumëtonësh | adj | multi-tonal
+krehëse | noun | comb
+lemerisje | noun | horrifying
+planim | noun | planning
+qelbëzohet | verb | fester
+gjatas | adv | lengthwise
+katërmotorësh | adj | four-engine
+njëtrajtësh | adj | uniform
+shumështresësh | adj | multi-layered
+tredhës | noun | castrator
+vreros | verb | embitter
+laritje | noun | variegation
+përveshje | noun | rolling up
+zgjeshje | noun | ungirding
+mukon | verb | mould
+bukuran | adj | handsome
+eshtëri | noun | bones
+krehës | noun | comber
+llapatan | adj | blabbermouth
+mballos | verb | patch
+nipëri | noun | grandchildren
+njëanësh | adj | one-sided
+njëmotorësh | adj | single-engine
+shumëpikësh | adj | multi-point
+zemërdobët | adj | faint-hearted
+zhurmëron | verb | make noise
+batisje | noun | sinking
+breshëron | verb | hail
+dergjje | noun | lying ill
+huajtje | noun | alienation
+rrëmbushje | noun | snatch
+teptisje | noun | excess
+vërtetje | noun | verification
+vrerosje | noun | embitterment
+dytehësh | adj | double-edged
+dhunas | adv | forcibly
+fushas | adv | across the field
+kokëzbrazët | adj | empty-headed
+mbirës | adj | sprouting
+pesëmbëdhjetëditësh | adj | fortnight-long
+tetësh | adj | eightfold
+vogëlan | adj | little
+zbardhulët | adj | pale
+llahtarisem | verb | be horrified
+nxirosje | noun | blackening
+tulatem | verb | crouch
+çmagjepsje | noun | disenchantment
+llangosje | noun | lapping
+çakërrit | verb | bewilder
+fluron | verb | flutter
+gumëzhit | verb | hum
+gjyshëri | noun | grandparents
+hamendas | adv | by guesswork
+kalamendshëm | adj | dizzying
+mbyllas | adv | closed
+pesëlekësh | adj | five-lek
+petrokimi | noun | petrochemistry
+qelbëzon | verb | fester
+rrafshulët | adj | flattish
+vetëtit | verb | flash
+zvarrës | adj | crawling
+mjaullitje | noun | miaowing
+trenim | noun | training
+zhuzhit | verb | buzz
+agrokimi | noun | agrochemistry
+grykas | adv | by the neck
+ngucës | adj | teasing
+njëfletësh | adj | single-leaf
+njëformësh | adj | uniform
+rreshtas | adv | in a row
+sokëllit | verb | shout
+vështiros | verb | complicate
+njëlekëshe | noun | one-lek coin
+shpërnjohje | noun | disavowal
+lafit | verb | chatter
+bijësi | noun | filiation
+dykohësh | adj | two-stroke
+fërfërit | verb | rustle
+jashtëqitës | adj | excretory
+kundërgoditës | noun | counterattacker
+materializues | adj | materializing
+mjaullit | verb | miaow
+natyrësi | noun | naturalness
+prarues | noun | gilder
+qafos | verb | collar
+shpatullan | adj | broad-shouldered
+anasjellje | noun | inversion
+mahitje | noun | deception
+vrullim | noun | momentum
+zhdredhje | noun | untwisting
+çmallim | noun | reunion
+dytrajtësh | adj | two-form
+fleton | verb | leaf through
+frutari | noun | fruit
+ndërdymje | noun | vacillation
+strukët | adj | huddled
+shumëgjymtyrësh | adj | polynomial
+tallazon | verb | surge
+kopanisje | noun | beating
+mësyshje | noun | evil eye
+çmësyshje | noun | removal of evil eye
+gëlqeros | verb | whitewash
+gjashtëkëmbësh | adj | six-legged
+katërfletësh | adj | four-leaf
+rrënjësi | noun | roots
+shkyçës | noun | unlocker
+vijos | verb | line
+vetëlindje | noun | spontaneous generation
+cikatrizohet | verb | scar over
+avitshëm | adj | approachable
+derrëri | noun | swinishness
+fikatës | adj | stifling
+leshan | adj | hairy
+njëdegësh | adj | single-branch
+pesëkëmbësh | adj | five-legged
+shtatëngjyrësh | adj | seven-coloured
+vullnetdobët | adj | weak-willed
+zemërbujari | noun | generosity
+kopsitje | noun | buttoning
+bonboneri | noun | confectionery
+dyherësh | adj | twofold
+dyshimtas | adv | doubtfully
+ndërzyes | noun | breeder
+plogëti | noun | sluggishness
+zooveterinari | noun | veterinary science
+ëndërritës | noun | dreamer
+njëvëllimësh | adj | one-volume
+shumëditësh | adj | multi-day
+vërshëllyes | adj | whistling
+fërfëritje | noun | rustling
+ngushtësohet | verb | narrow
+shtrenjtësohet | verb | become dearer
+lëkurëtari | noun | tannery
+njëgjymtyrësh | adj | monomial
+pesëdhjetëvjetësh | adj | fifty-year
+polenizon | verb | pollinate
+shumëfijësh | adj | multi-strand
+gargaritje | noun | gargling
+sedimenton | verb | sediment
+dyradhësh | adj | two-row
+shumëkrerësh | adj | many-headed
+trefletësh | adj | three-leaved
+njëqindlekëshe | noun | hundred-lek note
+shfletosje | noun | browsing
+trokëllitje | noun | clatter
+njëqindgradësh | adj | centigrade
