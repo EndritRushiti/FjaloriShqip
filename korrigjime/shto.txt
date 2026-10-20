@@ -29315,3 +29315,121 @@ elektroterapi | noun | electrotherapy
 klanizëm | noun | clannism
 abdominoplastikë | noun | abdominoplasty
 uniformitarianizëm | noun | uniformitarianism
+# ── t2.new.tsv ──
+islamofobi | noun | Islamophobia
+specifikë | noun | specifics
+poetikë | noun | poetics
+psikikë | noun | psyche
+kulinari | noun | cuisine, culinary art
+plogështi | noun | sluggishness
+koprraci | noun | stinginess
+dredhi | noun | trick, ruse
+farmaceutikë | noun | pharmaceutics
+didaktikë | noun | didactics
+nazifashizëm | noun | Nazi-fascism
+analitikë | noun | analytics
+forenzikë | noun | forensics
+erotikë | noun | erotica
+ritmikë | noun | rhythmics
+kolikë | noun | colic
+apologjetikë | noun | apologetics
+frankofoni | noun | Francophonie
+celiaki | noun | coeliac disease
+biometrikë | noun | biometrics
+mizogjini | noun | misogyny
+fantastikë | noun | fantasy (genre)
+harmonikë | noun | accordion
+neoliberizëm | noun | neoliberalism
+tonikë | noun | tonic (music)
+pragmatikë | noun | pragmatics
+dolikocefali | noun | dolichocephaly
+evropeizëm | noun | Europeanism
+turkofobi | noun | Turkophobia
+iredentizëm | noun | irredentism
+mikrotoponimi | noun | microtoponymy
+epigrafikë | noun | epigraphy
+psikosomatikë | noun | psychosomatics
+rusofobi | noun | Russophobia
+patriarki | noun | patriarchy
+personalizëm | noun | personalism
+sofistikë | noun | sophistry
+brakicefali | noun | brachycephaly
+dekonstruktivizëm | noun | deconstructivism
+maksimalizëm | noun | maximalism
+skematikë | noun | schematics
+hidrostatikë | noun | hydrostatics
+homonimi | noun | homonymy
+jokonformizëm | noun | nonconformism
+operistikë | noun | opera (art)
+pietizëm | noun | pietism
+profilaktikë | noun | prophylaxis
+romanizëm | noun | Romanism (linguistics)
+sinkroni | noun | synchrony
+heterodoksi | noun | heterodoxy
+viktimizëm | noun | victimism
+kromatikë | noun | chromatics
+memorialistikë | noun | memoir writing
+antistalinizëm | noun | anti-Stalinism
+melodikë | noun | melodics
+metaforikë | noun | metaphoric (imagery)
+monakizëm | noun | monasticism
+hiperrealizëm | noun | hyperrealism
+hidroteknikë | noun | hydraulic engineering
+pneumatikë | noun | pneumatics
+biofizikë | noun | biophysics
+gjeomekanikë | noun | geomechanics
+kemalizëm | noun | Kemalism
+mnemonikë | noun | mnemonics
+elektroenergjetikë | noun | electric power engineering
+epigjenetikë | noun | epigenetics
+heteroseksizëm | noun | heterosexism
+zooteknikë | noun | animal husbandry science
+antiimperializëm | noun | anti-imperialism
+filogjenetikë | noun | phylogenetics
+karikaturizëm | noun | caricaturism
+magnetostatikë | noun | magnetostatics
+psikofizikë | noun | psychophysics
+fovizëm | noun | Fauvism
+hidronimi | noun | hydronymy
+mondializëm | noun | globalism
+biodinamikë | noun | biodynamics
+fejtonistikë | noun | feuilleton writing
+kejnsianizëm | noun | Keynesianism
+fotonikë | noun | photonics
+ideografi | noun | ideography
+nacionalkomunizëm | noun | national communism
+telematikë | noun | telematics
+bionikë | noun | bionics
+cirilikë | noun | Cyrillic script
+ekliptikë | noun | ecliptic
+fordizëm | noun | Fordism
+imunogjenetikë | noun | immunogenetics
+nautikë | noun | nautics, seamanship
+onirizëm | noun | oneirism
+patristikë | noun | patristics
+panortodoksi | noun | pan-Orthodoxy
+turkofili | noun | Turkophilia
+zogizëm | noun | Zogism
+ballizëm | noun | Ballism (Balli Kombëtar)
+leksikë | noun | vocabulary, lexis
+neurotikë | noun | neuroticism
+penalizëm | noun | penalism
+liberizëm | noun | free-trade liberalism
+romantikë | noun | romance, romanticism
+harmonizëm | noun | harmonism
+kolonizëm | noun | colonialism
+panhelenizëm | noun | Panhellenism
+toksikomani | noun | drug addiction
+grafomani | noun | graphomania
+albanocentrizëm | noun | Albanocentrism
+dermatoskopi | noun | dermatoscopy
+heteronomi | noun | heteronomy
+gjenerativizëm | noun | generativism
+sulltanizëm | noun | sultanism
+teknicizëm | noun | technicism
+kulturizëm | noun | bodybuilding
+ekspanzionizëm | noun | expansionism
+antimaterializëm | noun | anti-materialism
+sinoptikë | noun | synoptic meteorology
+ergonomikë | noun | ergonomics
+ultrasonikë | noun | ultrasonics

@@ -19870,3 +19870,6 @@ bilishtare | bilishtar
 fanarjotët | fanarjot
 # ── t1.new.tsv ──
 kemioterapi | kimioterapi
+# ── t2.new.tsv ──
+shizofreni | skizofreni
+induizëm | hinduizëm
