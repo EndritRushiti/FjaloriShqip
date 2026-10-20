@@ -28777,3 +28777,138 @@ talmudizëm | noun | Talmudism
 bojëvishnje | adj | cherry-coloured
 duhanishte | noun | tobacco field
 kërpishtë | noun | hemp field
+# ── d1.new.tsv ──
+diplomues | adj | graduating
+kondensues | adj | condensing
+tunelor | adj | tunnel (adj.)
+epitelizim | noun | epithelialization
+pedikyrist | noun | pedicurist
+investueshëm | adj | investable
+militim | noun | militancy, activism
+kateterizim | noun | catheterization
+anodizim | noun | anodizing
+shpaketim | noun | unpacking
+katalogoj | verb | to catalogue
+parazitoj | verb | to parasitize
+sinergjist | adj | synergistic
+dyfishues | adj | doubling
+proteinor | adj | protein (adj.)
+kanalor | adj | canal (adj.)
+ganglionar | adj | ganglionic
+akupunkturist | noun | acupuncturist
+molekularisht | adv | molecularly
+tërmetor | adj | seismic
+gjimnazor | adj | high-school (adj.)
+ushtarakizëm | noun | militarism
+fonemor | adj | phonemic
+operist | noun | opera composer
+biodegradueshmëri | noun | biodegradability
+kompostueshëm | adj | compostable
+ergoterapist | noun | occupational therapist
+kompensator | noun | compensator
+andrologist | noun | andrologist
+përpunueshmëri | noun | workability
+premtueshëm | adj | promising
+servisoj | verb | to service
+industrializues | adj | industrializing
+rigjenerueshëm | adj | regenerable
+pulmonologist | noun | pulmonologist
+bletishtë | noun | apiary
+shpërblyeshëm | adj | rewardable
+kreditueshëm | adj | creditworthy
+terapeutikisht | adv | therapeutically
+flluskim | noun | bubbling
+gravitim | noun | gravitation
+virologjist | noun | virologist
+naftor | adj | oil (adj.)
+insulinor | adj | insulin (adj.)
+indeksues | adj | indexing
+instrumentoj | verb | to orchestrate
+rezultim | noun | resulting
+përgjithshmëri | noun | generality
+transferueshmëri | noun | transferability
+fqinjor | adj | neighbouring
+gazifikues | adj | gasifying
+nofullor | adj | maxillary
+shkretëtiror | adj | desert (adj.)
+traumatologist | noun | traumatologist
+saldueshmëri | noun | weldability
+karikueshëm | adj | rechargeable
+pasterizues | adj | pasteurizing
+automatizues | adj | automating
+funksionueshmëri | noun | functionality
+blindues | adj | armouring
+ekstraktor | noun | extractor
+kuarcor | adj | quartz (adj.)
+ekstensivisht | adv | extensively
+zbatimor | adj | implementing
+grupues | adj | grouping
+elementarisht | adv | elementarily
+helmueshmëri | noun | toxicity
+kartelizim | noun | cartelization
+gradueshëm | adj | gradable
+plotësueshëm | adj | fulfillable
+kontrollueshmëri | noun | controllability
+formueshmëri | noun | formability
+klinikor | adj | clinic (adj.)
+termodinamikisht | adv | thermodynamically
+protezist | noun | prosthetist
+llogaritshmëri | noun | computability
+anticiklonar | adj | anticyclonic
+lundrueshmëri | noun | navigability
+përkufizueshëm | adj | definable
+filtrueshëm | adj | filterable
+vizualizues | adj | visualizing
+konspektim | noun | note-taking
+amortizueshëm | adj | depreciable
+lëngshmëri | noun | liquidity
+riciklueshmëri | noun | recyclability
+stilizues | adj | stylizing
+tolerueshmëri | noun | tolerability
+parashutim | noun | parachuting
+anekdotist | noun | anecdotist
+propozueshëm | adj | proposable
+radiovalor | adj | radio-wave
+koherentisht | adv | coherently
+cilindrikisht | adv | cylindrically
+kaligrafikisht | adv | calligraphically
+aksialisht | adv | axially
+neuroshkencor | adj | neuroscientific
+sintetizueshëm | adj | synthesizable
+komunikueshmëri | noun | communicativeness
+bakteriologjist | noun | bacteriologist
+publikueshëm | adj | publishable
+enzimatikisht | adv | enzymatically
+granulator | noun | granulator
+ortopedist | noun | orthopaedist
+precizisht | adv | precisely
+laparoskopist | noun | laparoscopist
+purpuror | adj | purple
+zhvillueshëm | adj | developable
+dinakisht | adv | cunningly
+ngarkueshëm | adj | loadable
+eksplorueshëm | adj | explorable
+edukueshëm | adj | educable
+shqyrtueshëm | adj | reviewable
+temporalisht | adv | temporally
+klientizëm | noun | clientelism
+konfirmueshëm | adj | confirmable
+promovueshëm | adj | promotable
+hidrogjenizim | noun | hydrogenation
+temperaturor | adj | temperature (adj.)
+eliminueshëm | adj | eliminable
+fluorizim | noun | fluoridation
+ciklonar | adj | cyclonic
+stomakor | adj | gastric
+reagueshëm | adj | reactive
+preparator | noun | preparator
+baletor | adj | ballet (adj.)
+interaktivisht | adv | interactively
+skrupulozisht | adv | scrupulously
+pneumatikisht | adv | pneumatically
+sistemikisht | adv | systemically
+deflacionar | adj | deflationary
+algor | adj | algal
+konservativisht | adv | conservatively
+zotërueshëm | adj | possessable
+radiografikisht | adv | radiographically
