@@ -1,7 +1,7 @@
 # Regular Gheg forms of standard verbs, found in the word counts of MaCoCu, HPLT v2 and Albanian Wikipedia (each used at least 10 times).
 # -ue / -ye are the Gheg participle and infinitive (me punue = standard punuar, me thye = thyer), -uem and -un the Gheg participle
 # adjectives (i punuem = i punuar, i lidhun = i lidhur). Forms that are also English words, standard accusatives (blogun) and
-# forms with another Gheg meaning (tutun "tobacco") are left out. Columns: form, dialect, word class, gender, standard word, English, page, note
+# Also native words with Gheg ue for standard ua (grue, muej, ruej). Forms with another Gheg meaning (tutun "tobacco") are left out. Columns: form, dialect, word class, gender, standard word, English, page, note
 abdikue	gheg	verb		abdikoj	Gheg participle and infinitive (me abdikue) of abdikoj		standard abdikuar; corpus uses: 20
 abortue	gheg	verb		abortoj	Gheg participle and infinitive (me abortue) of abortoj		standard abortuar; corpus uses: 24
 absorbue	gheg	verb		absorboj	Gheg participle and infinitive (me absorbue) of absorboj		standard absorbuar; corpus uses: 14
@@ -2145,3 +2145,34 @@ vetëshpallun	gheg	adj		vetëshpallur	Gheg form of the participle vetëshpallur 
 zemërhapun	gheg	adj		zemërhapur	Gheg form of the participle zemërhapur (i/e zemërhapun)		standard zemërhapur; corpus uses: 10
 zemërplasun	gheg	adj		zemërplasur	Gheg form of the participle zemërplasur (i/e zemërplasun)		standard zemërplasur; corpus uses: 68
 zgjebosun	gheg	adj		zgjebosur	Gheg form of the participle zgjebosur (i/e zgjebosun)		standard zgjebosur; corpus uses: 21
+mue	gheg	pron		mua	Gheg form of mua		ua → ue; corpus uses: 18852
+thue	gheg	noun		thua	Gheg form of thua		ua → ue; corpus uses: 5875
+grue	gheg	noun		grua	Gheg form of grua		ua → ue; corpus uses: 4796
+muej	gheg	noun		muaj	Gheg form of muaj		ua → ue; corpus uses: 4760
+juej	gheg	det		juaj	Gheg form of juaj		ua → ue; corpus uses: 2683
+pothuej	gheg	adv		pothuaj	Gheg form of pothuaj		ua → ue; corpus uses: 1734
+vuejtje	gheg	noun		vuajtje	Gheg form of vuajtje		ua → ue; corpus uses: 912
+pothuejse	gheg	particle		pothuajse	Gheg form of pothuajse		ua → ue; corpus uses: 844
+luen	gheg	noun		luan	Gheg form of luan		ua → ue; corpus uses: 722
+ruej	gheg	verb		ruaj	Gheg form of ruaj		ua → ue; corpus uses: 628
+hue	gheg	noun		hua	Gheg form of hua		ua → ue; corpus uses: 405
+vuej	gheg	verb		vuaj	Gheg form of vuaj		ua → ue; corpus uses: 393
+thuejse	gheg	adv		thuajse	Gheg form of thuajse		ua → ue; corpus uses: 392
+truell	gheg	noun		truall	Gheg form of truall		ua → ue; corpus uses: 367
+jueji	gheg	pron		juaji	Gheg form of juaji		ua → ue; corpus uses: 233
+duej	gheg	noun		duaj	Gheg form of duaj		ua → ue; corpus uses: 216
+përshkruej	gheg	verb		përshkruaj	Gheg form of përshkruaj		ua → ue; corpus uses: 168
+shuej	gheg	verb		shuaj	Gheg form of shuaj		ua → ue; corpus uses: 97
+bashkëvuejtës	gheg	noun		bashkëvuajtës	Gheg form of bashkëvuajtës		ua → ue; corpus uses: 76
+gjuej	gheg	verb		gjuaj	Gheg form of gjuaj		ua → ue; corpus uses: 68
+duerkryq	gheg	adv		duarkryq	Gheg form of duarkryq		ua → ue; corpus uses: 64
+gjuejtje	gheg	noun		gjuajtje	Gheg form of gjuajtje		ua → ue; corpus uses: 45
+ruejtje	gheg	noun		ruajtje	Gheg form of ruajtje		ua → ue; corpus uses: 38
+përmuejshëm	gheg	adj		përmuajshëm	Gheg form of përmuajshëm		ua → ue; corpus uses: 34
+nënshkruej	gheg	verb		nënshkruaj	Gheg form of nënshkruaj		ua → ue; corpus uses: 32
+kruerje	gheg	noun		kruarje	Gheg form of kruarje		ua → ue; corpus uses: 23
+gjuejtës	gheg	noun		gjuajtës	Gheg form of gjuajtës		ua → ue; corpus uses: 18
+duerbosh	gheg	adj		duarbosh	Gheg form of duarbosh		ua → ue; corpus uses: 14
+paqeruejtës	gheg	noun		paqeruajtës	Gheg form of paqeruajtës		ua → ue; corpus uses: 12
+zgjuersi	gheg	noun		zgjuarsi	Gheg form of zgjuarsi		ua → ue; corpus uses: 12
+paluejtshmëri	gheg	noun		paluajtshmëri	Gheg form of paluajtshmëri		ua → ue; corpus uses: 11
