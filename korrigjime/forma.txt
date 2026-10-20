@@ -19882,3 +19882,7 @@ prestigjoz | prestigjioz
 # ── t5.new.tsv ──
 proibicionizëm | prohibicionizëm
 konjitivizëm | kognitivizëm
+# ── t6.new.tsv ──
+socialrealizëm | socrealizëm
+monasticizëm | monakizëm
+autoritarianizëm | autoritarizëm

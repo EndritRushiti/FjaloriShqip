@@ -29815,3 +29815,241 @@ takometri | noun | tachometry
 konkretizëm | noun | concretism
 euroazianizëm | noun | Eurasianism
 cistoskopi | noun | cystoscopy
+# ── t6.new.tsv ──
+kryeepidemiolog | noun | chief epidemiologist
+esadizëm | noun | Esadism
+bioteknikë | noun | biotechnics
+rankoviqizëm | noun | Rankovićism
+nacionalshovenizëm | noun | national chauvinism
+dialektalizëm | noun | dialectalism
+pseudonacionalizëm | noun | pseudo-nationalism
+linografi | noun | linocut
+afrikanizëm | noun | Africanism
+eufuizëm | noun | euphuism
+avionikë | noun | avionics
+utopianizëm | noun | utopianism
+arkeobotanikë | noun | archaeobotany
+teosofi | noun | theosophy
+fotometri | noun | photometry
+spintronikë | noun | spintronics
+hipoparatiroidizëm | noun | hypoparathyroidism
+mastoidektomi | noun | mastoidectomy
+radioastronomi | noun | radio astronomy
+bioterapi | noun | biotherapy
+angiokardiografi | noun | angiocardiography
+neodarvinizëm | noun | neo-Darwinism
+triteizëm | noun | tritheism
+antibolshevizëm | noun | anti-Bolshevism
+algologji | noun | phycology
+tenotomi | noun | tenotomy
+shablonizëm | noun | stereotyped approach
+motociklizëm | noun | motorcycling
+pellazgologji | noun | Pelasgian studies
+filohelenizëm | noun | philhellenism
+vullkanologji | noun | volcanology
+etnokoreografi | noun | ethnochoreography
+françeskanizëm | noun | Franciscanism
+qytetarizëm | noun | civic spirit
+etruskolog | noun | Etruscologist
+aristotelizëm | noun | Aristotelianism
+gjeometrizëm | noun | geometrism
+dietoterapi | noun | diet therapy
+makrofotografi | noun | macro photography
+fiziopatologji | noun | pathophysiology
+gjermanologji | noun | German studies
+anglologji | noun | English studies
+radiotelegrafi | noun | radiotelegraphy
+psikobiologji | noun | psychobiology
+prezentizëm | noun | presentism
+nordizëm | noun | Nordicism
+poligjenizëm | noun | polygenism
+gerontokraci | noun | gerontocracy
+neuroradiolog | noun | neuroradiologist
+hegelizëm | noun | Hegelianism
+sociometri | noun | sociometry
+gaskromatografi | noun | gas chromatography
+karboksiterapi | noun | carboxytherapy
+trombofili | noun | thrombophilia
+antiintelektualizëm | noun | anti-intellectualism
+bizantologji | noun | Byzantine studies
+brakiterapi | noun | brachytherapy
+galvanometri | noun | galvanometry
+psikosociologji | noun | social psychology
+mazdeizëm | noun | Mazdaism
+modalizëm | noun | modalism
+donatizëm | noun | Donatism
+pielografi | noun | pyelography
+kolangiografi | noun | cholangiography
+bajronizëm | noun | Byronism
+eklesiologji | noun | ecclesiology
+tripofobi | noun | trypophobia
+konstruksionizëm | noun | constructionism
+fariseizëm | noun | pharisaism
+nekrofobi | noun | necrophobia
+imunobiologji | noun | immunobiology
+hidrobiolog | noun | hydrobiologist
+sumerologji | noun | Sumerology
+gjeopolitolog | noun | geopolitical analyst
+ostomi | noun | ostomy
+logoterapi | noun | logotherapy
+eurofobi | noun | Europhobia
+zhdanovizëm | noun | Zhdanovism
+dekonstruksionizëm | noun | deconstructionism
+bronkologji | noun | bronchology
+klimoterapi | noun | climatotherapy
+artrologji | noun | arthrology
+neuroanatomi | noun | neuroanatomy
+geshtaltizëm | noun | Gestalt psychology
+tubektomi | noun | tubectomy
+aktuaristikë | noun | actuarial science
+katalanizëm | noun | Catalanism
+defektologji | noun | defectology
+angiopati | noun | angiopathy
+gonioskopi | noun | gonioscopy
+zimologji | noun | zymology
+parodontopati | noun | periodontal disease
+veksillologji | noun | vexillology
+aortografi | noun | aortography
+trakeostomi | noun | tracheostomy
+destalinizim | noun | de-Stalinization
+pseudoarkeologji | noun | pseudoarchaeology
+esteticizëm | noun | aestheticism
+hidroekonomi | noun | water economics
+legjitimizëm | noun | legitimism
+adhokraci | noun | adhocracy
+pulsoksimetri | noun | pulse oximetry
+higroskopi | noun | hygroscopy
+radikulopati | noun | radiculopathy
+pneumonektomi | noun | pneumonectomy
+stetoskopi | noun | auscultation
+apriorizëm | noun | apriorism
+poliglotizëm | noun | polyglotism
+kolektomi | noun | colectomy
+tropologji | noun | tropology
+endourologji | noun | endourology
+intuicionizëm | noun | intuitionism
+mekanicizëm | noun | mechanism (philosophy)
+sovjetolog | noun | Sovietologist
+kraniologji | noun | craniology
+vagotomi | noun | vagotomy
+haplologji | noun | haplology
+farmakogjenetikë | noun | pharmacogenetics
+kabalistikë | noun | Kabbalistics
+didakticizëm | noun | didacticism
+paleoantropologji | noun | palaeoanthropology
+embolektomi | noun | embolectomy
+epistokraci | noun | epistocracy
+antiparlamentarizëm | noun | anti-parliamentarism
+ooforektomi | noun | oophorectomy
+otoskopi | noun | otoscopy
+autohemoterapi | noun | autohaemotherapy
+biobibliografi | noun | bio-bibliography
+pangjermanizëm | noun | Pan-Germanism
+komparativizëm | noun | comparativism
+hospitalizëm | noun | hospitalism
+hagiografi | noun | hagiography
+margjinalizëm | noun | marginalism
+antibiotikoterapi | noun | antibiotic therapy
+turanizëm | noun | Turanism
+bimetalizëm | noun | bimetallism
+virilizëm | noun | virilism
+diskopati | noun | discopathy
+patohistologji | noun | histopathology
+citometri | noun | cytometry
+paleomagnetizëm | noun | palaeomagnetism
+strabologji | noun | strabology
+neurooftalmologji | noun | neuro-ophthalmology
+bioenergjetikë | noun | bioenergetics
+fonematikë | noun | phonematics
+palatalizëm | noun | palatalization
+avifaunistikë | noun | avifaunal studies
+polipektomi | noun | polypectomy
+impersonalizëm | noun | impersonalism
+panseksualizëm | noun | pansexuality
+fotoperiodizëm | noun | photoperiodism
+indologji | noun | Indology
+hemorroidektomi | noun | haemorrhoidectomy
+trabekulektomi | noun | trabeculectomy
+romologji | noun | Romani studies
+pseudoromantizëm | noun | pseudo-romanticism
+endarterektomi | noun | endarterectomy
+dismorfofobi | noun | body dysmorphic disorder
+nozofobi | noun | nosophobia
+donzhuanizëm | noun | womanizing
+ideokraci | noun | ideocracy
+kapsulotomi | noun | capsulotomy
+iridotomi | noun | iridotomy
+ekotoksikologji | noun | ecotoxicology
+mikroteknologji | noun | microtechnology
+eugjenizëm | noun | eugenicism
+vaksinologji | noun | vaccinology
+oqeanologji | noun | oceanography
+primatolog | noun | primatologist
+neurofarmakologji | noun | neuropharmacology
+insulinoterapi | noun | insulin therapy
+biostratigrafi | noun | biostratigraphy
+ekzobiologji | noun | exobiology
+augustinizëm | noun | Augustinianism
+neokejnsianizëm | noun | New Keynesianism
+nanofotonikë | noun | nanophotonics
+antiferromagnetizëm | noun | antiferromagnetism
+sfigmomanometri | noun | sphygmomanometry
+tensiometri | noun | tensiometry
+antiliberalizëm | noun | anti-liberalism
+utilitarianizëm | noun | utilitarianism
+konfesionalizëm | noun | confessionalism
+lipektomi | noun | lipectomy
+krishterofobi | noun | Christianophobia
+otologji | noun | otology
+hidroponikë | noun | hydroponics
+peripatetikë | noun | Peripatetic philosophy
+sfinkterotomi | noun | sphincterotomy
+muzeografi | noun | museography
+transvestizëm | noun | transvestism
+adrenalektomi | noun | adrenalectomy
+mikroangiopati | noun | microangiopathy
+petrologji | noun | petrology
+agramatizëm | noun | agrammatism
+traducianizëm | noun | traducianism
+kazuistikë | noun | casuistry
+gastroenterostomi | noun | gastroenterostomy
+doketizëm | noun | Docetism
+teleradiografi | noun | teleradiography
+plutonizëm | noun | Plutonism
+ventrikulografi | noun | ventriculography
+neuroendokrinologji | noun | neuroendocrinology
+ferrimagnetizëm | noun | ferrimagnetism
+mielopati | noun | myelopathy
+sklerektomi | noun | sclerectomy
+komparatistikë | noun | comparative literature
+jansenizëm | noun | Jansenism
+etnofolkloristikë | noun | ethnofolkloristics
+torakoskopi | noun | thoracoscopy
+karakterologji | noun | characterology
+transplantologji | noun | transplantology
+ureteroskopi | noun | ureteroscopy
+transcendentalizëm | noun | transcendentalism
+osmanologji | noun | Ottoman studies
+mafiokraci | noun | mafiocracy
+panturqizëm | noun | Pan-Turkism
+patrimonializëm | noun | patrimonialism
+dendrologji | noun | dendrology
+katarizëm | noun | Catharism
+cezaropapizëm | noun | caesaropapism
+sfragjistikë | noun | sigillography
+neofunksionalizëm | noun | neofunctionalism
+hermafroditizëm | noun | hermaphroditism
+neopozitivizëm | noun | neopositivism
+milenarizëm | noun | millenarianism
+operacionalizëm | noun | operationalism
+semasiografi | noun | semasiography
+gemologji | noun | gemmology
+salpingektomi | noun | salpingectomy
+arabofobi | noun | Arabophobia
+tanatofobi | noun | thanatophobia
+revivalizëm | noun | revivalism
+arteriopati | noun | arteriopathy
+parnasizëm | noun | Parnassianism
+metamodernizëm | noun | metamodernism
+mikrolinguistikë | noun | microlinguistics
+odontologji | noun | odontology
