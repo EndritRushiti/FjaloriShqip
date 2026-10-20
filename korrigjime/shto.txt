@@ -38459,3 +38459,128 @@ kadebërës | noun | cooper
 kafexheshë | noun | café owner
 kafshërohem | verb | become brutish
 kajsishtë | noun | apricot orchard
+# ── fu5.new.tsv ──
+kaladredhas | adv | twisting
+kalagjunjas | adv | on one's knees
+kalakryq | adv | astride
+kalamendës | adj | dizzying
+kalbishte | noun | rotten place
+kalëdet | noun | sea horse
+kalëshalë | adv | on horseback
+kallafatoj | verb | caulk
+kallafatim | noun | caulking
+kallafatues | noun | caulker
+kambizëm | noun | use of bills of exchange
+kandërrvrasës | noun | insecticide
+kanxhoj | verb | hook
+kapitenari | noun | harbour master's office
+karafilor | adj | carnation-pink
+karbonat | noun | carbonate
+karfosje | noun | nailing
+kashtëbardhë | adj | white-strawed
+katërgrykësh | adj | four-mouthed
+katërpalësh | adj | four-party
+katërvendësh | adj | four-seater
+katranim | noun | tarring
+kateterizoj | verb | catheterize
+kaucionoj | verb | bail
+kauterizoj | verb | cauterize
+keqtingëllon | verb | sound bad
+këlyshëz | noun | whelp
+këmbargjend | adj | silver-footed
+këmbëdele | adj | weak-legged
+këmbëgjarpër | noun | creeper
+këmbëlepur | adj | fleet-footed
+këmbëlëpirës | noun | bootlicker
+këmbëpatë | noun | goosefoot
+këmbëpulë | noun | crowfoot
+këmbëqiri | adj | straight-legged
+këmbëshesh | adj | flat-footed
+këmbëtharë | adj | thin-legged
+këmbëthyerazi | adv | limping
+këmbëzënë | adj | hobbled
+këmishëqepës | noun | shirt maker
+kënetëzoj | verb | turn into marsh
+kënetizoj | verb | waterlog
+këngëtoj | verb | sing
+kërcellor | adj | stem
+kërcimthi | adv | hopping
+këshillëkeq | adj | ill-advising
+këtejdetas | adj | cisalpine
+këtejlumas | adj | on this side of the river
+kilolitër | noun | kilolitre
+kinodokumentar | noun | documentary film
+kockëbutë | adj | soft-boned
+kockërinë | noun | bones
+kockëzohet | verb | ossify
+kodrishtë | noun | hilly ground
+kokëbrokë | adj | pig-headed
+kokëdhënë | adj | devoted
+kokërrzezë | adj | black-grained
+kokërrzoj | verb | granulate
+kokërrzor | adj | granular
+kokëtrung | adj | blockheaded
+kokrrizohet | verb | granulate
+koksifikoj | verb | coke
+komisionoj | verb | commission
+kompaktësoj | verb | compact
+kongjill | noun | ember
+kotullim | noun | curling up
+kotullohem | verb | curl up
+krahatar | noun | supporter
+krahëmarr | verb | support
+krahëngrohtë | adj | warm-hearted
+krahitur | adj | winged
+kreshnikim | noun | heroism
+kreshnikohem | verb | become a hero
+kreshtan | adj | crested
+krimbëri | noun | worms
+kripërishtë | noun | saltworks
+kripësoj | verb | salt
+kripëzoj | verb | salinize
+kromosje | noun | chroming
+kryedasmor | noun | chief wedding guest
+kryegjetës | noun | chief inventor
+kryetitullar | noun | chief holder
+kryezbuluar | adj | bareheaded
+kseroksoj | verb | photocopy
+kthetroj | verb | claw
+kundërgodas | verb | counterattack
+kundërgodit | verb | strike back
+kundërkimik | adj | anti-chemical
+kundërmbështet | verb | buttress
+kundërmësyj | verb | counter-attack
+kundërshënoj | verb | countermark
+kundërzbuloj | verb | counter-spy
+kunjëz | noun | peg
+kunjëzoj | verb | peg
+kunjor | adj | peg-shaped
+kuqërron | verb | redden
+kuqësoj | verb | redden
+kushtetutëzoj | verb | constitutionalize
+kushtrimoj | verb | sound the alarm
+lagësoj | verb | moisten
+lagësim | noun | moistening
+lajkësoj | verb | flatter
+lajkamadh | adj | fawning
+lakadredhas | adv | in zigzags
+lamtumirem | verb | bid farewell
+lapëmjaltë | adj | honey-tongued
+larëzohem | verb | become mottled
+largalargas | adv | far away
+largqoftë | other | God forbid
+lebogër | noun | thick rind
+ledhishtë | noun | embanked place
+ledhoj | verb | embank
+lehtohem | verb | feel relieved
+leshashpër | adj | coarse-wooled
+leshlëshuar | adj | long-haired
+lëkurashpër | adj | rough-skinned
+lëkurëbutë | adj | soft-skinned
+lëkurërrjepës | noun | flayer
+lëmshor | adj | ball-like
+lëndëzohet | verb | materialize
+lëngësirë | noun | liquid
+lëngështoj | verb | liquefy
+lëngështueshëm | adj | liquefiable
+lëshojkë | noun | release
