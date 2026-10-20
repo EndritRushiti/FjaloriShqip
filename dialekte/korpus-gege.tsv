@@ -1,7 +1,7 @@
 # Regular Gheg forms of standard verbs, found in the word counts of MaCoCu, HPLT v2 and Albanian Wikipedia (each used at least 10 times).
 # -ue / -ye are the Gheg participle and infinitive (me punue = standard punuar, me thye = thyer), -uem and -un the Gheg participle
 # adjectives (i punuem = i punuar, i lidhun = i lidhur). Forms that are also English words, standard accusatives (blogun) and
-# Also native words with Gheg ue for standard ua (grue, muej, ruej). Forms with another Gheg meaning (tutun "tobacco") are left out. Columns: form, dialect, word class, gender, standard word, English, page, note
+# Also literary Gheg spellings with nasal vowels (gjâ, kâmbë, vênd), checked one by one, and native words with Gheg ue for standard ua (grue, muej, ruej). Forms with another Gheg meaning (tutun "tobacco") are left out. Columns: form, dialect, word class, gender, standard word, English, page, note
 abdikue	gheg	verb		abdikoj	Gheg participle and infinitive (me abdikue) of abdikoj		standard abdikuar; corpus uses: 20
 abortue	gheg	verb		abortoj	Gheg participle and infinitive (me abortue) of abortoj		standard abortuar; corpus uses: 24
 absorbue	gheg	verb		absorboj	Gheg participle and infinitive (me absorbue) of absorboj		standard absorbuar; corpus uses: 14
@@ -2204,3 +2204,70 @@ shquem	gheg	adj		shquaj	Gheg form of the participle shquar (i/e shquem)		corpus 
 shue	gheg	verb		shuaj	Gheg participle and infinitive (me shue) of shuaj; standard shuar		corpus uses: 2093
 shuem	gheg	adj		shuaj	Gheg form of the participle shuar (i/e shuem)		corpus uses: 936
 vuejtun	gheg	adj		vuaj	Gheg form of the participle vuar (i/e vuejtun)		corpus uses: 598
+mâ	gheg	adv		më	Gheg form of më (literary spelling with nasal vowel)		corpus uses: 16984
+gjâ	gheg	noun		gjë	Gheg form of gjë (literary spelling with nasal vowel)		corpus uses: 2251
+thânë	gheg	verb		them	Gheg participle of them (literary spelling)		corpus uses: 1395
+lânë	gheg	verb		lë	Gheg participle of lë (literary spelling)		corpus uses: 1055
+tashmâ	gheg	adv		tashmë	Gheg form of tashmë (literary spelling with nasal vowel)		corpus uses: 732
+bâmë	gheg	noun		bëmë	Gheg form of bëmë (literary spelling with nasal vowel)		corpus uses: 641
+mârrë	gheg	verb		marr	Gheg participle of marr (literary spelling)		corpus uses: 598
+bâj	gheg	verb		bëj	Gheg form of bëj (literary spelling with nasal vowel)		corpus uses: 376
+kurrgjâ	gheg	pron		kurrgjë	Gheg form of kurrgjë (literary spelling with nasal vowel)		corpus uses: 284
+asgjâ	gheg	pron		asgjë	Gheg form of asgjë (literary spelling with nasal vowel)		corpus uses: 240
+zânë	gheg	verb		zë	Gheg participle of zë (literary spelling)		corpus uses: 270
+dâm	gheg	noun		dëm	Gheg form of dëm (literary spelling with nasal vowel)		corpus uses: 258
+çâshtje	gheg	noun		çështje	Gheg form of çështje (literary spelling with nasal vowel)		corpus uses: 168
+rândë	gheg	adj		rëndë	Gheg form of rëndë (literary spelling with nasal vowel)		corpus uses: 164
+rândësi	gheg	noun		rëndësi	Gheg form of rëndësi (literary spelling with nasal vowel)		corpus uses: 68
+lâmë	gheg	noun		lëmë	Gheg form of lëmë (literary spelling with nasal vowel)		corpus uses: 154
+zâmadh	gheg	adj		zëmadh	Gheg form of zëmadh (literary spelling with nasal vowel)		corpus uses: 146
+gjâmë	gheg	noun		gjëmë	Gheg form of gjëmë (literary spelling with nasal vowel)		corpus uses: 129
+njâ	gheg	num		një	Gheg form of një (literary spelling with nasal vowel)		corpus uses: 100
+lândë	gheg	noun		lëndë	Gheg form of lëndë (literary spelling with nasal vowel)		corpus uses: 61
+kând	gheg	noun		kënd	Gheg form of kënd (literary spelling with nasal vowel)		corpus uses: 59
+âmbël	gheg	adj		ëmbël	Gheg form of ëmbël (literary spelling with nasal vowel)		corpus uses: 48
+plâng	gheg	noun		plëng	Gheg form of plëng (literary spelling with nasal vowel)		corpus uses: 47
+gjâsë	gheg	noun		gjasë	Gheg form of gjasë (literary spelling with nasal vowel)		corpus uses: 45
+hângër	gheg	verb		ha	Gheg past tense of ha (literary spelling)		corpus uses: 44
+mbâj	gheg	verb		mbaj	Gheg form of mbaj (literary spelling with nasal vowel)		corpus uses: 37
+shkâmb	gheg	noun		shkëmb	Gheg form of shkëmb (literary spelling with nasal vowel)		corpus uses: 33
+rrâzë	gheg	noun		rrëzë	Gheg form of rrëzë (literary spelling with nasal vowel)		corpus uses: 29
+dhâna	gheg	noun		dhëna	Gheg form of dhëna (literary spelling with nasal vowel)		corpus uses: 28
+rrânjë	gheg	noun		rrënjë	Gheg form of rrënjë (literary spelling with nasal vowel)		corpus uses: 25
+mbrâmje	gheg	noun		mbrëmje	Gheg form of mbrëmje (literary spelling with nasal vowel)		corpus uses: 22
+mbrâmë	gheg	noun		mbrëmë	Gheg form of mbrëmë (literary spelling with nasal vowel)		corpus uses: 22
+mâvonshëm	gheg	adj		mëvonshëm	Gheg form of mëvonshëm (literary spelling with nasal vowel)		corpus uses: 21
+mâparshëm	gheg	adj		mëparshëm	Gheg form of mëparshëm (literary spelling with nasal vowel)		corpus uses: 14
+mâsipërm	gheg	adj		mësipërm	Gheg form of mësipërm (literary spelling with nasal vowel)		corpus uses: 29
+njâjtë	gheg	adj		njëjtë	Gheg form of njëjtë (literary spelling with nasal vowel)		corpus uses: 21
+domethânë	gheg	conj		domethënë	Gheg form of domethënë (literary spelling with nasal vowel)		corpus uses: 20
+gjâsend	gheg	noun		gjësend	Gheg form of gjësend (literary spelling with nasal vowel)		corpus uses: 20
+dorëzânë	gheg	noun		dorëzanë	Gheg form of dorëzanë (literary spelling with nasal vowel)		corpus uses: 19
+zânore	gheg	noun		zanore	Gheg form of zanore (literary spelling with nasal vowel)		corpus uses: 22
+dhâmb	gheg	noun		dhëmb	Gheg form of dhëmb (literary spelling with nasal vowel)		corpus uses: 16
+unâ	gheg	pron		unë	Gheg form of unë (literary spelling with nasal vowel)		corpus uses: 17
+shtâzë	gheg	noun		shtazë	Gheg form of shtazë (literary spelling with nasal vowel)		corpus uses: 12
+nxânës	gheg	noun		nxënës	Gheg form of nxënës (literary spelling with nasal vowel)		corpus uses: 12
+kândshëm	gheg	adj		këndshëm	Gheg form of këndshëm (literary spelling with nasal vowel)		corpus uses: 11
+gojëdhânë	gheg	noun		gojëdhënë	Gheg form of gojëdhënë (literary spelling with nasal vowel)		corpus uses: 10
+skâj	gheg	noun		skaj	Gheg form of skaj (literary spelling with nasal vowel)		corpus uses: 68
+skâjshëm	gheg	adj		skajshëm	Gheg form of skajshëm (literary spelling with nasal vowel)		corpus uses: 12
+vâthë	gheg	noun		vathë	Gheg form of vathë (literary spelling with nasal vowel)		corpus uses: 31
+mâjtë	gheg	adj		majtë	Gheg form of majtë (literary spelling with nasal vowel)		corpus uses: 30
+prâni	gheg	noun		prani	Gheg form of prani (literary spelling with nasal vowel)		corpus uses: 22
+ândje	gheg	noun		ëndje	Gheg form of ëndje (literary spelling with nasal vowel)		corpus uses: 10
+shâj	gheg	verb		shaj	Gheg form of shaj (literary spelling with nasal vowel)		corpus uses: 12
+çâj	gheg	noun		çaj	Gheg form of çaj (literary spelling with nasal vowel)		corpus uses: 10
+bâr	gheg	noun		bar	Gheg form of bar (literary spelling with nasal vowel)		corpus uses: 25
+lâmsh	gheg	noun		lëmsh	Gheg form of lëmsh (literary spelling with nasal vowel)		corpus uses: 21
+vênd	gheg	noun		vend	Gheg form of vend (literary spelling with nasal vowel)		corpus uses: 542
+mênd	gheg	noun		mend	Gheg form of mend (literary spelling with nasal vowel)		corpus uses: 233
+sênd	gheg	noun		send	Gheg form of send (literary spelling with nasal vowel)		corpus uses: 27
+pêng	gheg	noun		peng	Gheg form of peng (literary spelling with nasal vowel)		corpus uses: 14
+brêz	gheg	noun		brez	Gheg form of brez (literary spelling with nasal vowel)		corpus uses: 51
+kênë	gheg	verb		jam	Gheg participle of jam (literary spelling)		corpus uses: 1517
+qênë	gheg	verb		jam	Gheg participle of jam (literary spelling)		corpus uses: 1590
+vû	gheg	verb		vë	Gheg participle of vë (literary spelling)		corpus uses: 1143
+mârrun	gheg	verb		marr	Gheg participle of marr (literary spelling)		corpus uses: 190
+dhânun	gheg	verb		jap	Gheg participle of jap (literary spelling)		corpus uses: 163
+kryevênd	gheg	noun		kryevend	Gheg form of kryevend (literary spelling with nasal vowel)		corpus uses: 13
