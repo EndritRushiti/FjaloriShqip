@@ -38013,3 +38013,145 @@ brymëzohet | verb | frost over
 brymishtë | noun | frosty place
 bubërrim | noun | shivering
 bubërroj | verb | shiver
+# ── fu2.new.tsv ──
+budallallepsem | verb | go silly
+bujarësi | noun | generosity
+bujkrobëroj | verb | enserf
+bujkrobëror | adj | serf
+bukëmbël | adj | hospitable
+bukëmirë | adj | generous
+bukurshqiptim | noun | orthoepy
+bukurzani | noun | euphony
+bukurzanor | adj | euphonious
+burravogël | adj | short man
+burrëzohem | verb | become a man
+butebërës | adj | softening
+buzëdjegur | adj | scalded
+buzëdredhur | adj | trembling-lipped
+buzëhelm | adj | venomous
+buzëlepur | adj | hare-lipped
+buzëlidhur | adj | tight-lipped
+buzënxirë | adj | dark-lipped
+buzëpjekur | adj | chapped-lipped
+buzëplasje | noun | chapped lips
+buzësheqer | adj | sweet-tongued
+buzështrembër | adj | wry-mouthed
+buzëvrer | adj | bitter-tongued
+buzëzi | adj | black-lipped
+bythëpulë | adj | pursed
+bythëzbuluar | adj | half-naked
+cakësor | adj | terminal
+caklartë | adj | ambitious
+cektësirë | noun | shallowness
+cektësoj | verb | make shallow
+celofanim | noun | cellophane wrapping
+celofanoj | verb | wrap in cellophane
+cepas | adv | in the corner
+cigarepërdredhës | noun | cigarette roller
+cilindroj | verb | roll
+cilindrues | noun | roller
+cingëllon | verb | jingle
+cinkografoj | verb | zincograph
+cipëbardhë | adj | fair-skinned
+cipëngrënë | adj | shamed
+cjapodhi | noun | goats
+copamadh | adj | chunky
+cullufedredhur | adj | curly-locked
+cullufeprerë | adj | cropped
+cullufeverdhë | adj | blond
+cullufezi | adj | dark-haired
+çacidizoj | verb | deacidify
+çadrandreqës | noun | umbrella repairer
+çaprazim | noun | crossing
+çaprazoj | verb | cross
+çarteroj | verb | charter
+çdomuajshëm | adj | monthly
+çehreëmbël | adj | sweet-faced
+çehrerëndë | adj | grave-looking
+çehreverdhë | adj | sallow
+çekanar | noun | hammerer
+çelikëzoj | verb | steel
+çfarëdollojtë | adj | of whatever kind
+çhidrogjenoj | verb | dehydrogenate
+çhidroj | verb | dehydrate
+çideologjizuar | adj | de-ideologized
+çinsektoj | verb | disinsect
+çlëndëzoj | verb | dematerialize
+çlëvozhgim | noun | shelling
+çlëvozhgoj | verb | shell
+çmallohem | verb | satisfy one's longing
+çmashkulloj | verb | emasculate
+çmeshtaroj | verb | defrock
+çmikrobizoj | verb | disinfect
+çmimtar | noun | prizewinner
+çnazifikoj | verb | denazify
+çnitrifikoj | verb | denitrify
+çobanak | noun | young shepherd
+çobanim | noun | shepherding
+dafinishtë | noun | laurel grove
+dafinor | adj | laurel
+dajëmadh | noun | eldest uncle
+dajëvogël | noun | youngest uncle
+dalëmendsh | adj | dazed
+dallimor | adj | distinctive
+damarthatë | adj | scrawny
+dashaligësisht | adv | maliciously
+decigradë | noun | decigrade
+defaktorizoj | verb | unfactor
+defragmentoj | verb | defragment
+degëdendur | adj | bushy
+dendësirë | noun | density
+dendurimatës | noun | densimeter
+depresonalizoj | verb | depersonalize
+derdhmas | adv | in a flood
+derëmadh | adj | of noble family
+derëshuar | adj | heirless
+desemantizohet | verb | be desemanticized
+destalinizoj | verb | de-Stalinize
+detabuizoj | verb | de-taboo
+dëborëpastrues | noun | snowplough
+dëllinjishtë | noun | juniper thicket
+dëmës | adj | harmful
+dërdëllitës | adj | babbling
+dërrasoj | verb | board
+diagnostifikoj | verb | diagnose
+dialogizoj | verb | dialogize
+diellishtë | noun | sunny spot
+diellohet | verb | bask
+dielluar | adj | sun-warmed
+digjepiq | adj | scorching
+dijekeqësi | noun | malevolence
+dimërishtë | noun | winter quarters
+disimiloj | verb | dissimilate
+diskhedhës | noun | discus thrower
+ditërrëfenjës | noun | calendar
+diversionizëm | noun | subversion
+djemurisht | adv | boyishly
+djepësor | adj | of the cradle
+djepoj | verb | rock
+djeppapërkundur | adj | unbred
+doktrinarizëm | noun | doctrinarism
+dorëdjathtë | adj | right-handed
+dorëhapësi | noun | generosity
+dorëkeq | adj | unlucky
+dorëlidhur | adj | bound
+dorëmenjë | adj | one-handed
+dorënjomë | adj | soft-handed
+dorëpërdorshëm | adj | hand-held
+dorërrudhur | adj | wrinkle-handed
+dorëshpuar | adj | spendthrift
+dorëzanoj | verb | vouch for
+drapërim | noun | reaping
+draproj | verb | reap
+drejtboshtor | adj | straight-axed
+drejtrreshtoj | verb | align
+drejtvendos | verb | position correctly
+dremitas | adv | drowsily
+dreqësisht | adv | devilishly
+dridhmoj | verb | shiver
+dritargjendtë | adj | silvery
+dritëgjatësi | noun | light length
+dritëlargësi | noun | far-sightedness
+dritëlargët | adj | far-sighted
+dritëpërshkueshëm | adj | translucent
+dritëshuar | adj | blinded
