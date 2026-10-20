@@ -6531,7 +6531,6 @@ suita | suitë
 zisë | zi
 specifikimin | specifikim
 portikë | portik
-mikroskopi | mikroskop
 demonstrimi | demonstrim
 konsumatorë | konsumator
 shtojë | shtoj
@@ -6579,7 +6578,6 @@ antilopa | antilopë
 topologjia | topologji
 binarët | binar
 shtatorin | shtator
-milici | milic
 idhullit | idhull
 kombinatin | kombinat
 guvernatorë | guvernator
@@ -6800,7 +6798,6 @@ bllokada | bllokadë
 keqtrajtimi | keqtrajtim
 amfora | amforë
 akropolin | akropol
-automatikë | automatik
 falënderimi | falënderim
 fosforit | fosfor
 konvertuesit | konvertues
@@ -7081,7 +7078,6 @@ qartësisë | qartësi
 mimika | mimikë
 ndalë | ndal
 leksikologjisë | leksikologji
-noteri | noter
 amplitudën | amplitudë
 minoritetin | minoritet
 ventilimi | ventilim
@@ -7495,7 +7491,6 @@ superstruktura | superstrukturë
 eprorit | epror
 kongregacionin | kongregacion
 priftërisë | priftëri
-dramatikë | dramatik
 imigrantë | imigrant
 eurozona | eurozonë
 kontraktimit | kontraktim
@@ -7585,7 +7580,6 @@ sllallomin | sllallom
 inspirimi | inspirim
 diarrenë | diarre
 grabisin | grabis
-hidraulikë | hidraulik
 spontanitetin | spontanitet
 shkuesi | shkues
 freskimi | freskim
@@ -7844,7 +7838,6 @@ dializa | dializë
 inkuadrimin | inkuadrim
 zilisë | zili
 ndërvarësisë | ndërvarësi
-ortopedi | ortoped
 dashnorë | dashnor
 kompletimi | kompletim
 regjentë | regjent
@@ -9871,7 +9864,6 @@ rrethanën | rrethanë
 moratoriumi | moratorium
 uzurpuesit | uzurpues
 hidroterapinë | hidroterapi
-mizantropi | mizantrop
 skafit | skaf
 pëshpërima | pëshpërimë
 bashkëvendësin | bashkëvendës
@@ -11353,7 +11345,6 @@ ventilin | ventil
 provitamina | provitaminë
 fraksionistë | fraksionist
 zhdavaritë | zhdavarit
-rusofili | rusofil
 vetëzhvillimit | vetëzhvillim
 bashkëpatriotin | bashkëpatriot
 spikama | spikamë
@@ -12135,7 +12126,6 @@ mjegullorë | mjegullor
 fërnetin | fërnet
 kriptokomunistë | kriptokomunist
 batakçillëkut | batakçillëk
-agroteknikë | agroteknik
 honepsë | honeps
 ngutësinë | ngutësi
 vetëgjykimi | vetëgjykim
@@ -12273,7 +12263,6 @@ musllukut | muslluk
 petavra | petavrë
 birmanët | birman
 centrimi | centrim
-bujkrobëri | bujkrobër
 merceologjia | merceologji
 merceologjisë | merceologji
 mbishartesës | mbishartesë
@@ -13058,7 +13047,6 @@ trashëgimtari | trashëgimtar
 seminari | seminar
 kontinenti | kontinent
 tavani | tavan
-telegrafi | telegraf
 riti | rit
 shiriti | shirit
 karburanti | karburant
@@ -13073,13 +13061,11 @@ rendësi | rendës
 kapedani | kapedan
 konsumatori | konsumator
 fari | far
-kusari | kusar
 minatori | minator
 detari | detar
 hepatiti | hepatit
 zografi | zograf
 kovaçi | kovaç
-kumbari | kumbar
 elektorati | elektorat
 kapllani | kapllan
 eprori | epror
@@ -13089,7 +13075,6 @@ inspektorati | inspektorat
 magjistrati | magjistrat
 gradienti | gradient
 narratori | narrator
-peshkatari | peshkatar
 kumari | kumar
 sulovari | sulovar
 analisti | analist
@@ -13110,8 +13095,6 @@ sulfati | sulfat
 farmacisti | farmacist
 nxitësi | nxitës
 lundërtari | lundërtar
-psikopati | psikopat
-meshtari | meshtar
 allçi | allç
 famullitari | famullitar
 shpërndarësi | shpërndarës
@@ -13123,7 +13106,6 @@ monitori | monitor
 matësi | matës
 kryeprokurori | kryeprokuror
 burrështetasi | burrështetas
-veterinari | veterinar
 karikatori | karikator
 kryqtari | kryqtar
 skocezi | skocez
@@ -13140,7 +13122,6 @@ kompasi | kompas
 literati | literat
 fitimtari | fitimtar
 trafikanti | trafikant
-xehetari | xehetar
 vendimmarrësi | vendimmarrës
 kontrabasi | kontrabas
 taksisti | taksist
@@ -13167,7 +13148,6 @@ kryegjykatësi | kryegjykatës
 nobelisti | nobelist
 peshëngritësi | peshëngritës
 voskopojari | voskopojar
-poçari | poçar
 reformisti | reformist
 informbyroisti | informbyroist
 shprehësi | shprehës
@@ -13178,7 +13158,6 @@ pulari | pular
 flautisti | flautist
 kryekëshilltari | kryekëshilltar
 tullari | tullar
-fetari | fetar
 shenjëtari | shenjëtar
 renegati | renegat
 puritani | puritan

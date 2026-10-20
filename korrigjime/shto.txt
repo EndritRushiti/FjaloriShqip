@@ -30321,3 +30321,25 @@ revivalist | noun | revivalist
 rigorist | noun | rigorist
 simbolog | noun | symbologist
 termografik | adj | thermographic
+# ── t7.new.tsv ──
+noteri | noun | notary's office
+veterinari | noun | veterinary medicine
+fetari | noun | religiosity
+ortopedi | noun | orthopaedics
+meshtari | noun | priesthood
+psikopati | noun | psychopathy
+bujkrobëri | noun | serfdom
+agroteknikë | noun | agrotechnics
+mikroskopi | noun | microscopy
+hidraulikë | noun | hydraulics; plumbing
+automatikë | noun | automation
+telegrafi | noun | telegraphy
+mizantropi | noun | misanthropy
+kumbari | noun | godparenthood
+rusofili | noun | Russophilia
+peshkatari | noun | fishing (trade)
+poçari | noun | pottery
+xehetari | noun | mining
+milici | noun | militia
+kusari | noun | brigandage, piracy
+dramatikë | noun | dramatic works
