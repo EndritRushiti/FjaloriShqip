@@ -28521,3 +28521,77 @@ gjumërëndë | adj | heavy sleeper
 paqumësht | adj | milkless
 papasje | noun | poverty
 gushëmadh | adj | big-throated
+# ── h1.new.tsv ──
+nënnivel | noun | sublevel
+nënmilimetrik | adj | submillimetre
+riqarkullues | adj | recycling
+nënsektorial | adj | subsectoral
+nënkriter | noun | subcriterion
+shumëvjetor | adj | perennial, multi-year
+ndërvertebral | adj | intervertebral
+ndërracial | adj | interracial
+antidiarreik | adj | antidiarrhoeal
+riprodhueshmëri | noun | reproducibility
+antitoksik | adj | antitoxic
+antikonvulsiv | adj | anticonvulsant
+paravertebral | adj | paravertebral
+parangrohje | noun | preheating
+moskonformitet | noun | nonconformity
+antimagnetik | adj | antimagnetic
+antibakteror | adj | antibacterial
+ndërmolekular | adj | intermolecular
+gjysmësintetik | adj | semi-synthetic
+kundërreformacion | noun | Counter-Reformation
+kundërprotestues | noun | counter-protester
+mbistrukturë | noun | superstructure
+josimptomatik | adj | asymptomatic
+mosmundësi | noun | impossibility
+joarsimor | adj | non-educational
+paraseleksionim | noun | preselection
+joindustrial | adj | non-industrial
+jostacionar | adj | non-stationary
+parapaketim | noun | prepackaging
+mbipagesë | noun | overpayment
+rinxeh | verb | to reheat
+antioksidim | noun | antioxidation
+nënkanal | noun | subchannel
+postdoktorant | noun | postdoctoral researcher
+superinfeksion | noun | superinfection
+antinarkotik | adj | anti-narcotics
+jofarmakologjik | adj | non-pharmacological
+kundërreplikë | noun | counter-reply
+antikorruptues | adj | anti-corruption
+jodiskriminim | noun | non-discrimination
+mikrofiltrim | noun | microfiltration
+jofederal | adj | non-federal
+ridëgjim | noun | rehearing
+ricaktoj | verb | to reassign
+rikultivim | noun | recultivation
+johormonal | adj | non-hormonal
+vetëvëzhgim | noun | self-observation
+mikroçarje | noun | microcrack
+antihemorragjik | adj | antihaemorrhagic
+vetëngjitës | adj | self-adhesive
+ribotues | noun | republisher
+riasfaltim | noun | resurfacing
+mosbashkëpunues | adj | uncooperative
+vetëmbyllës | adj | self-closing
+mosqëndrueshmëri | noun | instability
+antiinfektiv | adj | anti-infective
+mosngrënie | noun | not eating
+nënkonstruksion | noun | substructure
+jobregdetar | adj | landlocked
+jofajtor | adj | not guilty
+vetëmbështetje | noun | self-reliance
+vetëshpërndarje | noun | self-dispersal
+mikrofarad | noun | microfarad
+riplanifikoj | verb | to reschedule
+jomësimor | adj | non-teaching
+vetërregullator | adj | self-regulating
+vetëlargim | noun | voluntary departure
+ndërpopullor | adj | between peoples
+joekologjik | adj | non-ecological
+vetëngrirje | noun | self-freezing
+mosshkelje | noun | non-violation
+nënvarg | noun | subsequence
+vetëvozitës | adj | self-driving
