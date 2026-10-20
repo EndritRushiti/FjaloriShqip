@@ -29159,3 +29159,51 @@ shumësektorial | adj | multisectoral
 tredimensionalisht | adv | three-dimensionally
 koleksionueshëm | adj | collectible
 audiometrist | noun | audiometrist
+# ── dm1.new.tsv ──
+prishtinas | noun | person from Prishtina
+tropojan | noun | person from Tropoja
+sarandiot | noun | person from Saranda
+ballshiot | noun | person from Ballsh
+kërçovar | noun | person from Kërçova
+vushtrrias | noun | person from Vushtrri
+strugan | noun | person from Struga
+shijakas | noun | person from Shijak
+lipjanas | noun | person from Lipjan
+koplikas | noun | person from Koplik
+velipojak | noun | person from Velipoja
+gramshian | noun | person from Gramsh
+suliot | noun | person from Souli
+vitias | noun | person from Viti
+lazaratas | noun | person from Lazarat
+laçian | noun | person from Laç
+rrogozhinas | noun | person from Rrogozhina
+suharekas | noun | person from Suhareka
+rahovecas | noun | person from Rahovec
+gostivaras | noun | person from Gostivar
+kumanovar | noun | person from Kumanova
+dukatas | noun | person from Dukat
+klinas | noun | person from Klina
+cërrikas | noun | person from Cërrik
+opojan | noun | person from Opoja
+podujevas | noun | person from Podujeva
+tivaras | noun | person from Bar (Tivar)
+kuçovar | noun | person from Kuçova
+kastratas | noun | person from Kastrati
+hotjan | noun | person from Hoti
+shkrelas | noun | person from Shkreli
+librazhdiot | noun | person from Librazhd
+kosturiot | noun | person from Kastoria (Kostur)
+çorovodas | noun | person from Çorovoda
+libohovas | noun | person from Libohova
+prilepas | noun | person from Prilep
+prrenjasak | noun | person from Prrenjas
+shtipjan | noun | person from Štip
+frashëriot | noun | person from Frashër
+malishevas | noun | person from Malisheva
+poliçanas | noun | person from Poliçan
+zagoriot | noun | person from Zagoria
+podgoricas | noun | person from Podgorica
+bilishtar | noun | person from Bilisht
+ersekar | noun | person from Erseka
+rozhajas | noun | person from Rožaje
+fanarjot | noun | Phanariote

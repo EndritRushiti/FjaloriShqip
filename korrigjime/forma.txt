@@ -19749,3 +19749,15 @@ ngalosem | ngalos
 furrohet | furroj
 tororisem | tororis
 ferrohem | ferroj
+# ── dm1.new.tsv ──
+himariot | himarjot
+durrësak | durrsak
+lezhian | lezhjan
+pukian | pukjan
+kukësjan | kukësian
+kuksjan | kukësian
+laçjan | laçian
+rahovecian | rahovecas
+kumanovas | kumanovar
+podgorican | podgoricas
+gramshiot | gramshian
