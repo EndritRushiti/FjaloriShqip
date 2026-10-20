@@ -38975,3 +38975,118 @@ pashprehur | adj |
 patokëzuar | adj | 
 mbiquaj | verb | nickname
 mbiquajtje | noun | nickname
+# ── fu8.new.tsv ──
+përvjedhtas | adv | stealthily
+përrallohem | verb | become legendary
+përrëshqit | verb | glide
+pikakuq | adj | red-spotted
+pikëgjallë | adj | lively
+pikëpesë | noun | grade five
+pilcoj | verb | pinch
+pjellnim | noun | birth of young
+pjelloroj | verb | fertilize
+pjerrak | adj | sloping
+plaçkatar | noun | looter
+plaçkëroj | verb | plunder
+plakaruq | noun | little old man
+plakarush | noun | old fellow
+plepnajë | noun | poplar grove
+plisathyes | noun | clod crusher
+plogëtas | adv | sluggishly
+plotgojas | adv | with a full mouth
+plotpërpjesëtoj | verb | divide exactly
+plotpjesëtim | noun | exact division
+plotpjesëtoj | verb | divide exactly
+pluhurosës | noun | duster
+poligrafoj | verb | duplicate
+poliroj | verb | polish
+politeknizim | noun | polytechnization
+politeknizoj | verb | polytechnize
+pordhëmadh | adj | boastful
+porsaemëruar | adj | newly appointed
+porsafejuar | adj | newly engaged
+porsamartuar | adj | newly married
+portokallishtë | noun | orange grove
+portokalltë | adj | orange
+postëkomandant | noun | post commander
+poshtëshënoj | verb | footnote
+poshtëshkrim | noun | footnote
+pragshuar | adj | with a ruined house
+pranverizoj | verb | make spring-like
+prapakthej | verb | turn back
+prapamalas | adj | from behind the mountain
+prapambetem | verb | lag behind
+prapësisht | adv | backwards
+prapështoj | verb | repel
+prehërthatë | adj | childless
+preventivoj | verb | budget
+prishaqejfas | adv | spoiling the fun
+prishura | noun | broken things
+profanoj | verb | profane
+pudrim | noun | powdering
+pudrohem | verb | powder oneself
+pulastren | noun | pullet
+pulverizoj | verb | pulverize
+punëhumbur | adj | jobless
+punëmbaruar | adj | finished with work
+punëshpejtë | adj | quick-working
+punëthatë | adj | without profitable work
+pushkalagës | noun | gun-firer
+pushtetëroj | verb | empower
+pyllohem | verb | become forested
+qafëbuall | adj | bull-necked
+qafëderr | adj | thick-necked
+qafëdredhur | adj | wry-necked
+qafëkërrabë | adj | crook-necked
+qafëlakuriq | adj | bare-necked
+qafëlarmë | adj | ring-necked
+qafëmal | noun | mountain pass
+qafëpatë | adj | long-necked
+qafëpëllumb | adj | pigeon-necked
+qafëthi | adv | by the neck
+qarkatim | noun | encirclement
+qarkatoj | verb | encircle
+qarkkomandë | noun | district command
+qejfmadh | adj | jovial
+qendërsynim | noun | central aim
+qendrëzoj | verb | centre
+qengjërush | noun | lambkin
+qenthi | adv | like a dog
+qepallëpërveshur | adj | with turned-up eyelids
+qepallërëndë | adj | heavy-lidded
+qeselidhur | adj | tight-fisted
+qesemadh | adj | rich
+qeseshpuar | adj | spendthrift
+qesezgjidhur | adj | open-handed
+qiellhapur | adj | clear-skied
+qilarxhi | noun | cellarer
+qilimpunues | noun | carpet maker
+qimeartë | adj | golden-haired
+qimeegër | adj | coarse-haired
+qimethinjur | adj | grey-haired
+qimezbardhur | adj | white-haired
+qimëzohet | verb | grow hair
+qindfishim | noun | hundredfold increase
+qindlekëshe | noun | hundred-lek note
+qindmijtë | num | hundred-thousandth
+qirishitës | noun | candle seller
+qivurtar | noun | coffin maker
+qorrfishek | noun | blank cartridge
+qumështshitës | noun | milkman
+qurramadh | adj | snotty
+radhanik | noun | queuer
+rentabilizoj | verb | make profitable
+rëndësoj | verb | emphasize
+rëntgenizoj | verb | X-ray
+ribatinoj | verb | re-compact
+rikumbues | adj | resounding
+ripërtërirë | adj | renewed
+rishpërndahem | verb | be redistributed
+robtoj | verb | enslave
+rusifikoj | verb | Russify
+rrafshazi | adv | evenly
+rrafshkodër | noun | flat hill
+rrallas | adv | rarely
+rrallësoj | verb | thin out
+rrallishtë | noun | sparse wood
+rregullsishëm | adj | regular
