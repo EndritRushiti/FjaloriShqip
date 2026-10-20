@@ -35798,4 +35798,78 @@ riunifikoj | verb |
 vetëakuzues | noun | 
 vetëfinancueshëm | adj | 
 pavleftësueshëm | adj | 
-rizyrtarizoj | verb | 
+rizyrtarizoj | verb |
+# ── e1.new.tsv ──
+bashkësigurim | noun | coinsurance
+agropylltari | noun | agroforestry
+apartejd | noun | apartheid
+reflacion | noun | reflation
+florikulturë | noun | floriculture
+masmedia | noun | mass media
+duhanpirje | noun | smoking
+nënpopullim | noun | underpopulation
+jutë | noun | jute
+kontraceptim | noun | contraception
+riimportim | noun | reimportation
+derregullim | noun | deregulation
+nënushqyerje | noun | undernourishment
+parafinë | noun | paraffin
+hipermedia | noun | hypermedia
+potasë | noun | potash
+vanadium | noun | vanadium
+monokraci | noun | monocracy
+oligopson | noun | oligopsony
+marsupial | noun | marsupial
+gazohol | noun | gasohol
+kapok | noun | kapok
+guava | noun | guava
+etilen | noun | ethylene
+ksilen | noun | xylene
+bromur | noun | bromide
+jodur | noun | iodide
+greipfrut | noun | grapefruit
+pomelo | noun | pomelo
+limnologji | noun | limnology
+bulon | noun | bolt
+ester | noun | ester
+arak | noun | arak
+biometri | noun | biometrics
+bionaftë | noun | biodiesel
+vaporizim | noun | vaporization
+shnaps | noun | schnapps
+albuminë | noun | albumin
+spektrofotometri | noun | spectrophotometry
+spektrografi | noun | spectrography
+nanoelektronikë | noun | nanoelectronics
+rulot | noun | caravan
+vudu | noun | voodoo
+mykozë | noun | mycosis
+kripton | noun | krypton
+osteopat | noun | osteopath
+obstetri | noun | obstetrics
+karst | noun | karst
+inuit | noun | Inuit
+marmaladë | noun | marmalade
+ngrirës | noun | freezer
+pjatalarëse | noun | dishwasher
+duplikatë | noun | duplicate
+sinops | noun | synopsis
+rajonalizëm | noun | regionalism
+gjeokimi | noun | geochemistry
+fotokimi | noun | photochemistry
+stimulant | noun | stimulant
+mazut | noun | fuel oil
+sizmiologji | noun | seismology
+gjysmëliri | noun | semi-liberty
+skontim | noun | discounting
+petrokimikat | noun | petrochemical
+kolzë | noun | rapeseed
+transseksual | noun | transsexual
+minikompjuter | noun | minicomputer
+aragostë | noun | spiny lobster
+kriposje | noun | serfdom
+bioinxhinieri | noun | bioengineering
+hotelieri | noun | hotel industry
+shumëgjuhësi | noun | multilingualism
+malt | noun | malt
+zdrukthari | noun | carpentry
