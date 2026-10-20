@@ -33865,3 +33865,149 @@ glifosat | noun | glyphosate
 dihidroergotaminë | noun | dihydroergotamine
 hostilitet | noun | hostility
 timiditet | noun | timidity
+# ── n2.new.tsv ──
+mundial | adj | world (championship)
+relaksant | noun | relaxant
+glikolat | noun | glycolate
+mesapik | adj | Messapic
+bukureshtar | adj | of Bucharest
+bisoprolol | noun | bisoprolol
+sarkoplazmë | noun | sarcoplasm
+detraktor | noun | detractor
+zhdanovist | adj | Zhdanovist
+inkuizicionist | adj | inquisitorial
+dabigatran | noun | dabigatran
+vizionaritet | noun | visionariness
+evazionist | noun | tax evader
+kastrist | adj | Castroist
+spumant | noun | sparkling wine
+superdelegat | noun | superdelegate
+dostojevskian | adj | Dostoevskian
+panarit | noun | whitlow
+retoroman | adj | Romansh
+metamizol | noun | metamizole
+halotan | noun | halothane
+nebivolol | noun | nebivolol
+alopurinol | noun | allopurinol
+musketar | noun | musketeer
+diminutiv | noun | diminutive
+kaldean | adj | Chaldean
+parnasian | adj | Parnassian
+polistirol | noun | polystyrene
+disciplinar | adj | disciplinary
+brakial | adj | brachial
+amalekit | noun | Amalekite
+remitent | adj | remittent
+konspiracist | noun | conspiracy theorist
+albendazol | noun | albendazole
+babilonian | adj | Babylonian
+graal | noun | grail
+shambellan | noun | chamberlain
+sklerotizim | noun | sclerotization
+kryeklerik | noun | chief cleric
+hidrocefali | noun | hydrocephalus
+polimetal | adj | polymetallic
+propilenglikol | noun | propylene glycol
+tensioaktiv | adj | surfactant
+misticitet | noun | mysticalness
+meditant | noun | meditator
+etolian | adj | Aetolian
+baathist | adj | Baathist
+kognat | noun | cognate
+mesopotamian | adj | Mesopotamian
+projektant | noun | designer
+vazodilator | noun | vasodilator
+franciskan | adj | Franciscan
+incipit | noun | incipit
+kardiomegali | noun | cardiomegaly
+monoglicerid | noun | monoglyceride
+diglicerid | noun | diglyceride
+kondroprotektor | noun | chondroprotector
+segregacionist | adj | segregationist
+judeokristian | adj | Judaeo-Christian
+tortikol | noun | torticollis
+urbanitet | noun | urbanity
+legatar | noun | legatee
+periartikular | adj | periarticular
+dekongjestiv | noun | decongestant
+autoqefalitet | noun | autocephaly
+teoretizim | noun | theorizing
+invazivitet | noun | invasiveness
+unipolaritet | noun | unipolarity
+ndërministerial | adj | interministerial
+edomit | noun | Edomite
+ebionit | noun | Ebionite
+steviol | noun | steviol
+tiamazol | noun | thiamazole
+metimazol | noun | methimazole
+marketizim | noun | marketization
+etimologjizim | noun | etymologizing
+kristaloid | noun | crystalloid
+multikonfesionalitet | noun | multiconfessionalism
+efemerid | noun | ephemeris
+skuadrist | noun | squadrista
+dekstrometorfan | noun | dextromethorphan
+peticionist | noun | petitioner
+kalcitriol | noun | calcitriol
+kafestol | noun | cafestol
+trakeid | noun | tracheid
+radiofarmaceutik | noun | radiopharmaceutical
+serozit | noun | serositis
+ergativ | adj | ergative
+danazol | noun | danazol
+akean | adj | Achaean
+labializim | noun | labialization
+glukozuri | noun | glycosuria
+kardioid | noun | cardioid
+detersiv | noun | detergent
+kolestipol | noun | colestipol
+sorbit | noun | sorbitol
+klasicitet | noun | classicality
+lakonicitet | noun | laconicism
+eupatrid | noun | eupatrid
+sulfametoksazol | noun | sulfamethoxazole
+disopiramid | noun | disopyramide
+antitiroid | adj | antithyroid
+antireformist | adj | anti-reform
+sklerozant | adj | sclerosing
+trikomë | noun | trichome
+pilozitet | noun | hairiness
+multifunksionalitet | noun | multifunctionality
+kanaanit | noun | Canaanite
+bakteriozë | noun | bacteriosis
+fotosensitivitet | noun | photosensitivity
+intuitivitet | noun | intuitiveness
+fenician | adj | Phoenician
+madridist | noun | Real Madrid fan
+biometan | noun | biomethane
+protofashist | adj | proto-fascist
+mikrokriminalitet | noun | petty crime
+trihalometan | noun | trihalomethane
+amarant | noun | amaranth
+homonormativitet | noun | homonormativity
+sukcinilkolinë | noun | succinylcholine
+enverhoxhist | adj | Hoxhaist
+deideologjizim | noun | deideologization
+hiperborean | adj | Hyperborean
+tortonian | noun | Tortonian
+monoplan | noun | monoplane
+aminoglikozidik | adj | aminoglycoside
+kolorant | noun | colorant
+dekolorant | noun | bleach
+likvor | noun | cerebrospinal fluid
+kuranist | noun | Quranist
+hashemit | adj | Hashemite
+kalifatist | adj | caliphatist
+abbasit | adj | Abbasid
+josiguri | noun | insecurity
+keqorganizim | noun | poor organization
+keqplanifikim | noun | poor planning
+vetëcertifikim | noun | self-certification
+vetëdhembshuri | noun | self-compassion
+paraadoleshent | noun | preadolescent
+kryeshkencëtar | noun | chief scientist
+kryemisionar | noun | chief missionary
+kryeautor | noun | lead author
+ndihmësfarmacist | noun | pharmacy assistant
+bashkëshërbëtor | noun | fellow servant
+bashkëkrahinar | noun | fellow countryman
