@@ -28143,3 +28143,67 @@ shair | noun | folk bard
 shkualifikim | noun | disqualification
 qëmoçëm | adj | ancient
 belaxhi | noun | troublemaker
+# ── fg6.new.tsv ──
+gangrenizim | noun | gangrene formation
+proletarizim | noun | proletarianization
+parfumim | noun | perfuming
+shfaroj | verb | to exterminate
+ekzogami | noun | exogamy
+deltinor | adj | deltaic
+njëmiliontë | num | millionth
+narkotizoj | verb | to narcotize
+peshëmatje | noun | weighing
+troglodit | noun | troglodyte
+diftongim | noun | diphthongization
+qëmenatë | adv | early in the morning
+qerthullor | adj | circular
+kronometrim | noun | timing
+jargos | verb | to slobber on
+kundërshtetëror | adj | anti-state
+hamallëk | noun | porterage
+silurim | noun | torpedoing
+intendencë | noun | commissariat
+gurëhedhës | noun | stone-thrower
+padhembshëm | adj | merciless
+kallpak | noun | fur cap
+trumbetar | noun | trumpeter
+bashkëbanor | noun | co-resident
+ullishtar | noun | olive grower
+rikopjim | noun | recopying
+mjaltëdhënës | adj | melliferous
+pseudoatdhetar | noun | pseudo-patriot
+kosëtar | noun | mower
+sikundërqë | conj | just as
+bersalier | noun | bersagliere
+degazim | noun | degassing
+suficitar | adj | in surplus
+bujrëm | interj | welcome, please come in
+sakëz | noun | mastic
+zhgropos | verb | to dig up
+borgjezim | noun | embourgeoisement
+kundërvidhë | noun | nut (for a bolt)
+valëzor | adj | wave-like
+damkim | noun | branding
+bashkëkohëtar | noun | contemporary
+tatull | noun | jimsonweed
+paramarksist | adj | pre-Marxist
+kolipostë | noun | parcel post
+balsamues | noun | embalmer
+joklasor | adj | extracurricular
+vetakuzë | noun | self-accusation
+kryeregjisor | noun | chief director
+arabçe | adv | in Arabic
+kadastrim | noun | cadastral registration
+olivikulturë | noun | olive growing
+sëpatar | noun | axeman
+pendëkuq | adj | red-feathered
+duhanor | adj | tobacco (adj.)
+rrotullor | adj | rotary
+dyllor | adj | waxen
+talmudist | noun | Talmudist
+radiolokacion | noun | radiolocation
+minakërkues | noun | mine detector
+paraprovim | noun | preliminary examination
+stanar | noun | shepherd at the fold
+bimëz | noun | seedling
+farishtë | noun | seedbed
