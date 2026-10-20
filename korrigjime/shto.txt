@@ -29207,3 +29207,111 @@ bilishtar | noun | person from Bilisht
 ersekar | noun | person from Erseka
 rozhajas | noun | person from Rožaje
 fanarjot | noun | Phanariote
+# ── t1.new.tsv ──
+byrokraci | noun | bureaucracy
+konservatizëm | noun | conservatism
+kartografi | noun | cartography
+klimatologji | noun | climatology
+kibernetikë | noun | cybernetics
+numizmatikë | noun | numismatics
+semiotikë | noun | semiotics
+diagnostikë | noun | diagnostics
+gjeofizikë | noun | geophysics
+tektonikë | noun | tectonics
+balistikë | noun | ballistics
+mazohizëm | noun | masochism
+publicistikë | noun | journalism (writing)
+energjetikë | noun | energy sector
+urbanistikë | noun | urban planning
+kriminalistikë | noun | criminalistics
+robotikë | noun | robotics
+folkloristikë | noun | folkloristics
+eseistikë | noun | essay writing
+infografi | noun | infographic
+diskografi | noun | discography
+embrionologji | noun | embryology
+scintigrafi | noun | scintigraphy
+tragjikomizëm | noun | tragicomedy (quality)
+farmakokinetikë | noun | pharmacokinetics
+skolastikë | noun | scholasticism
+kriptorkizëm | noun | cryptorchidism
+eurocentrizëm | noun | Eurocentrism
+eskatologji | noun | eschatology
+tiroidektomi | noun | thyroidectomy
+tonsilektomi | noun | tonsillectomy
+ciklizëm | noun | cycling
+dozimetri | noun | dosimetry
+spektrograf | noun | spectrograph
+skizëm | noun | schism
+motorikë | noun | motor skills
+karierizëm | noun | careerism
+daktiloskopi | noun | fingerprinting
+mesoterapi | noun | mesotherapy
+sunizëm | noun | Sunnism
+automobilistikë | noun | motoring
+hidrogjeologji | noun | hydrogeology
+arkitektonikë | noun | architectonics
+krahinizëm | noun | regionalism
+narcizizëm | noun | narcissism
+epigrafi | noun | epigraphy; epigraph
+farmakodinamikë | noun | pharmacodynamics
+blefaroplastikë | noun | blepharoplasty
+neologji | noun | neology
+agroekologji | noun | agroecology
+gastrektomi | noun | gastrectomy
+cistografi | noun | cystography
+holografi | noun | holography
+albanistikë | noun | Albanian studies
+memuaristikë | noun | memoir literature
+vahabizëm | noun | Wahhabism
+hysteroskopi | noun | hysteroscopy
+elektrostatikë | noun | electrostatics
+hiperaldosteronizëm | noun | hyperaldosteronism
+hidrodinamikë | noun | hydrodynamics
+himnografi | noun | hymnography
+antropometri | noun | anthropometry
+arkivistikë | noun | archival science
+osmanolog | noun | Ottomanist
+ligamentotomi | noun | ligamentotomy
+hipertireoidizëm | noun | hyperthyroidism
+episiotomi | noun | episiotomy
+kronometri | noun | chronometry
+mormonizëm | noun | Mormonism
+avanturizëm | noun | adventurism
+gjermanistikë | noun | German studies
+kozmonautikë | noun | astronautics
+salafizëm | noun | Salafism
+bizantizëm | noun | Byzantinism
+ergometri | noun | ergometry
+antikapitalizëm | noun | anti-capitalism
+aksiologji | noun | axiology
+andrologji | noun | andrology
+gjeoteknikë | noun | geotechnics
+mykologji | noun | mycology
+salpingografi | noun | salpingography
+renegatizëm | noun | renegadism
+protetikë | noun | prosthetics
+mekatronikë | noun | mechatronics
+presidencializëm | noun | presidentialism
+ilirizëm | noun | Illyrianism
+etnicizëm | noun | ethnicism
+gjenomikë | noun | genomics
+kretinizëm | noun | cretinism
+iranolog | noun | Iranist
+iranologji | noun | Iranian studies
+vokalizëm | noun | vowel system
+rektoskopi | noun | rectoscopy
+timpanoplastikë | noun | tympanoplasty
+kraniotomi | noun | craniotomy
+mediokraci | noun | mediocracy
+urodinamikë | noun | urodynamics
+angjiografi | noun | angiography
+dermatovenerologji | noun | dermatovenereology
+dermatovenerolog | noun | dermatovenereologist
+apiterapi | noun | apitherapy
+bipartizanizëm | noun | bipartisanship
+neuropati | noun | neuropathy
+elektroterapi | noun | electrotherapy
+klanizëm | noun | clannism
+abdominoplastikë | noun | abdominoplasty
+uniformitarianizëm | noun | uniformitarianism

@@ -19868,3 +19868,5 @@ poliçanasve | poliçanas
 podgoricase | podgoricas
 bilishtare | bilishtar
 fanarjotët | fanarjot
+# ── t1.new.tsv ──
+kemioterapi | kimioterapi
