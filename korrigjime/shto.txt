@@ -37510,3 +37510,92 @@ zhargitje | noun | dragging
 besëthyerje | noun | breach of faith
 mekës | adj | fainting
 përkëdhelshëm | adj | pampered
+# ── ft7.new.tsv ──
+paparaparë | adj | unforeseen
+anasjellë | adj | inverse
+pipëtimë | noun | whisper
+qindtë | num | hundredth
+vidhë | noun | screw
+dylltë | adj | waxen
+paburrë | adj | husbandless
+shpeshtinë | noun | frequency
+pashkrirë | adj | unmelted
+apostrofë | noun | apostrophe (rhetoric)
+pakokë | adj | headless
+sedeftë | adj | mother-of-pearl
+verdhemë | adj | yellowish
+hingëllimë | noun | neigh
+patinë | noun | patina
+kohortë | noun | cohort
+suvalë | noun | billow
+vringëllimë | noun | clang
+përcëllimë | noun | scorching
+gërhimë | noun | snoring
+vetëtimtë | adj | lightning-fast
+rrezeartë | adj | golden-rayed
+lëbyrtë | adj | dazzling
+pushtë | adj | downy
+xixëllimë | noun | twinkle
+abshisë | noun | abscissa
+fshikullimë | noun | whiplash
+sfungjertë | adj | spongy
+fshehtinë | noun | secrecy
+njësojtë | adj | identical
+hakërrimë | noun | threatening shout
+grillë | noun | grille
+glinë | noun | clay
+fërfëllimë | noun | flutter
+limontë | adj | lemon-coloured
+shkundullimë | noun | shaking
+xhevahirtë | adj | jewel-like
+guximtë | adj | daring
+sheqertë | adj | sugary
+padhëmbë | adj | toothless
+zinxhirtë | adj | chained
+zhurmërimë | noun | din
+vrulltë | adj | impetuous
+alumintë | adj | aluminium
+pingultë | adj | vertical
+andejmë | adj | from over there
+tullumbë | noun | tulumba
+llumtë | adj | muddy
+akullimë | noun | freezing
+meshintë | adj | of soft leather
+rubintë | adj | ruby
+stralltë | adj | flint
+cefalopodë | noun | cephalopod
+zbardhëllemë | adj | off-white
+hijedritë | noun | chiaroscuro
+rrëzëllimë | noun | radiance
+aspaktë | adj | scanty
+mundimtë | adj | arduous
+shkëmbtë | adj | rocky
+gojëzënë | adj | tongue-tied
+vrertë | adj | bitter
+krakëllimë | noun | croak
+llahtartë | adj | horrible
+llastiktë | adj | elastic
+agimtë | adj | of dawn
+sermtë | adj | of silver thread
+njëqindfishtë | adj | hundredfold
+qindfishtë | adj | hundredfold
+bajamtë | adj | almond-shaped
+cingërimtë | adj | chirping
+dushktë | adj | oaken
+ibërshimtë | adj | silken
+torpedinierë | noun | torpedo boat
+teltë | adj | wire
+litartë | adj | rope
+lymtë | adj | silty
+trakullimë | noun | clatter
+brambullimë | noun | droning
+gjembtë | adj | thorny
+kuqërrimë | noun | reddening
+shkrofëtimë | noun | snorting
+zhguntë | adj | of coarse wool
+mekërimë | noun | bleating
+rrëkëllimë | noun | rumble
+shkrumbtë | adj | charred
+çdollojtë | adj | of every kind
+murrçimë | noun | greyness
+zverdhemë | adj | yellowed
