@@ -35873,3 +35873,83 @@ hotelieri | noun | hotel industry
 shumëgjuhësi | noun | multilingualism
 malt | noun | malt
 zdrukthari | noun | carpentry
+# ── rv1.new.tsv ──
+ndodhje | noun | occurrence
+trashje | noun | thickening
+kënaqje | noun | satisfaction
+shetisje | noun | stroll
+selitje | noun | settling
+villje | noun | harvesting
+ripajisje | noun | re-equipment
+paravendosje | noun | presetting
+pararendje | noun | precedence
+shpleksje | noun | untangling
+hirotonisje | noun | ordination
+përsëdytje | noun | reduplication
+ndërvendosje | noun | interposition
+shoshje | noun | sifting
+poemth | noun | short poem
+tregimth | noun | short story
+kryqth | noun | small cross
+flamurth | noun | small flag
+shkrimth | noun | short piece of writing
+ishullth | noun | islet
+liqenth | noun | small lake
+kukulltar | noun | puppeteer
+oxhaktar | noun | chimney sweep
+fosilor | adj | fossil
+zodiakor | adj | zodiacal
+mozaikor | adj | mosaic-like
+rabinor | adj | rabbinical
+orakullor | adj | oracular
+kitinor | adj | chitinous
+fantazmor | adj | ghostly
+monsunor | adj | monsoon
+hieroglifor | adj | hieroglyphic
+virusor | adj | viral
+paradigmor | adj | paradigmatic
+piramidor | adj | pyramidal
+zgjedhimor | adj | conjugational
+infinitivor | adj | infinitival
+sufiksor | adj | suffixal
+diatezor | adj | of voice (grammar)
+emërtimor | adj | denominative
+perceptimor | adj | perceptual
+autokrator | noun | autokrator
+separator | noun | separator
+tabulator | noun | tab key
+demonstrator | noun | demonstrator
+infiltrator | noun | infiltrator
+ekspeditor | noun | shipper
+goleador | noun | top scorer
+postulator | noun | postulator
+hidrokarburor | adj | hydrocarbon
+gipsor | adj | gypsum
+shmangës | adj | avoidant
+gjobitës | noun | fining officer
+krasitës | noun | pruner
+shkëputës | noun | disconnector
+mposhtës | adj | overpowering
+vulosës | noun | sealer
+derdhës | noun | foundry worker
+qëndisës | noun | embroiderer
+keqpërdorës | noun | abuser
+plagosës | noun | assailant
+kacavjerrës | adj | climbing
+nxehës | noun | heater
+faqebardhësi | noun | honour
+faqenxirësi | noun | disgrace
+zemërvogëlsi | noun | pettiness
+zemërgurësi | noun | hard-heartedness
+murgësi | noun | monkhood
+shumëpartiakësi | noun | multiparty system
+përciptësi | noun | superficiality
+shkujdesshëm | adj | careless
+mbjellshëm | adj | arable
+zbavitshëm | adj | entertaining
+magjepsshëm | adj | enchanting
+qeverisshëm | adj | governable
+shprehshëm | adj | expressible
+zgjatshëm | adj | extendable
+rizgjedhshëm | adj | re-electable
+rraskapitshëm | adj | exhausting
