@@ -38308,3 +38308,154 @@ gojëmbajtur | adj | reticent
 gojënepërkë | adj | viper-tongued
 gojëpalarë | adj | foul-mouthed
 gojëqershi | adj | cherry-lipped
+# ── fu4.new.tsv ──
+gojërëndë | adj | harsh-spoken
+gojërrudhur | adj | pursed-lipped
+gojësheqer | adj | sweet-tongued
+gojëshpellë | adj | big-mouthed
+gojëvrazhdë | adj | rough-tongued
+gomarazi | adv | stupidly
+gomarth | noun | little donkey
+gramatikalizohet | verb | be grammaticalized
+grimcueshëm | adj | crumbly
+gropshar | noun | digger
+gruparmatë | noun | armed group
+grurëkuq | noun | red wheat
+grykëbardhë | adj | white-throated
+grykësor | adj | of the throat
+grykëshkurtër | adj | short-necked
+grykëtharë | adj | thirsty
+guaskëfortë | adj | hard-shelled
+guaskëhollë | adj | thin-shelled
+guaskëtrashë | adj | thick-shelled
+guaskor | adj | shell
+gufueshëm | adj | bubbling
+gunëbardhë | adj | white-cloaked
+gunëgrisur | adj | ragged
+gungëzohem | verb | become humped
+guralicë | noun | pebble
+gurgacë | noun | pebble
+gurmprehës | noun | whetstone
+gurshkrepës | noun | flint
+gurzjarr | noun | flint
+gushëdalë | adj | goitrous
+gushëlarmë | adj | speckle-throated
+gushëmermer | adj | marble-throated
+gushëvarur | adj | double-chinned
+guximmadh | adj | very brave
+gjakbutë | adj | even-tempered
+gjakbutësi | noun | equanimity
+gjakfalur | adj | who has pardoned a blood feud
+gjakhidhur | adj | irascible
+gjakndalës | adj | haemostatic
+gjakndezje | noun | agitation
+gjakshuar | adj | anaemic
+gjakthartë | adj | sour-tempered
+gjashtëgarësh | noun | hexathlon
+gjashtëgishtësh | adj | six-fingered
+gjashtëmbëdhjetërrokësh | adj | sixteen-syllable
+gjashtëqindtë | num | six-hundredth
+gjashtorësh | adj | six-hour
+gjelbërushe | adj | greenish
+gjembbardhë | noun | white thistle
+gjembërishtë | noun | thorny place
+gjembëzim | noun | spinescence
+gjembishtë | noun | brier patch
+gjersotëm | adj | hitherto
+gjersotshëm | adj | previous
+gjetherrallë | adj | sparse-leaved
+gjethishtë | noun | foliage
+gjilpërim | noun | pricking
+gjimbushur | adj | full-breasted
+gjiplotë | adj | full-bosomed
+gjithanësi | noun | all-roundness
+gjithunjishëm | adj | uniform
+gjuhëbilbil | adj | silver-tongued
+gjuhëçarë | adj | fork-tongued
+gjuhëlëshuar | adj | loose-tongued
+gjuhëndalur | adj | stammering
+gjuhënepërkë | adj | viper-tongued
+gjuhëqen | adj | foul-mouthed
+gjuhërrënduar | adj | thick-tongued
+gjuhëspec | adj | sharp-tongued
+gjuhëshkurtër | adj | laconic
+gjuhështhurur | adj | loose-tongued
+gjumëlepur | noun | light sleep
+gjumëshumë | adj | sleepy-headed
+gjurmëshkelës | noun | tracker
+gjysmamendsh | adj | half-witted
+gjysmëditë | noun | half day
+gjysmëdjathtas | adv | half-right
+gjysmëflatror | adj | half-winged
+gjysmëkilësh | adj | half-kilo
+gjysmëlitërsh | adj | half-litre
+gjysmëmajtas | adv | half-left
+gjysmëmugëtirë | noun | half-light
+gjysmënatë | noun | midnight
+gjysmëndihmës | noun | part-time assistant
+gjysmëpërkulje | noun | half-bow
+gjysmëthellësi | noun | mid-depth
+gjysmoj | verb | halve
+gjyshstërgjysh | noun | ancestors
+hajnoj | verb | steal
+hajvanisht | adv | brutishly
+halëbardhë | adj | white-needled
+halogjenoj | verb | halogenate
+hallallim | noun | blessing
+hallalloj | verb | bless
+hambarmadhe | adj | well-stocked
+hambarthatë | adj | impoverished
+hapagojas | adv | open-mouthed
+hapakëmbas | adv | with legs apart
+hapshkurtër | adj | short-stepped
+harkmbajtës | noun | archer
+hasetqar | adj | envious
+hedhurazi | adv | by throwing
+hekto | noun | hecto-
+helmatoj | verb | poison
+helmësirë | noun | poison
+hellishtë | noun | spit
+hendekim | noun | trenching
+hendekoj | verb | dig trenches
+hiçgjëkafshë | pron | nothing at all
+hiçgjëkund | adv | nowhere
+hidhtas | adv | bitterly
+hingëllitje | noun | neighing
+hithërbutë | noun | dead-nettle
+hithërishtë | noun | nettle patch
+hollishtë | noun | fine stuff
+hondër | noun | fame
+hundëkërrabë | adj | hook-nosed
+hundëqiri | adj | straight-nosed
+hundërrjepur | adj | scraped-nosed
+hundëspec | adj | pepper-nosed
+humbishtë | noun | abyss
+hyjnohem | verb | be deified
+idiotizoj | verb | stupefy
+ilaçtar | noun | pharmacist
+ilirizoj | verb | Illyrianize
+insektar | noun | insect collector
+insektvrasës | noun | insecticide
+inseminoj | verb | inseminate
+jargëmadh | adj | slobbery
+jashtëgjinor | adj | extra-generic
+jashtëklasor | adj | extracurricular
+jashtënatyrshëm | adj | unnatural
+jashtëshkrim | noun | marginal note
+jeshilim | noun | greening
+jeshilohet | verb | turn green
+jetëngrysur | adj | ill-fated
+jetëpasosur | adj | everlasting
+jetëshkretë | adj | wretched
+jetëshkurtuar | adj | short-lived
+jetimoj | verb | orphan
+jofrutor | adj | fruitless
+johundor | adj | non-nasal
+jovetor | adj | impersonal
+kacafytas | adv | in a scuffle
+kacagjelthi | adv | cockily
+kaçubishtë | noun | scrubland
+kadebërës | noun | cooper
+kafexheshë | noun | café owner
+kafshërohem | verb | become brutish
+kajsishtë | noun | apricot orchard
