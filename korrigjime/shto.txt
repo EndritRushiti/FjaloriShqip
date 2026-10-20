@@ -29465,3 +29465,91 @@ feminitet | noun | femininity
 korespondencë | noun | correspondence
 nënregjion | noun | subregion
 gjenocidial | adj | genocidal
+# ── t4.new.tsv ──
+antisionizëm | noun | anti-Zionism
+biogjenetikë | noun | biogenetics
+elektromekanikë | noun | electromechanics
+fotovoltaikë | noun | photovoltaics
+liturgjikë | noun | liturgics
+petrografi | noun | petrography
+propedeutikë | noun | propaedeutics
+volontarizëm | noun | voluntarism
+egomani | noun | egomania
+fotorealizëm | noun | photorealism
+monarkofashizëm | noun | monarcho-fascism
+probabilizëm | noun | probabilism
+antropogjeografi | noun | human geography
+biomimetikë | noun | biomimetics
+helenistikë | noun | Hellenistic studies
+klerofashizëm | noun | clerical fascism
+komediografi | noun | comedy writing
+kriptokomunizëm | noun | crypto-communism
+makrobiotikë | noun | macrobiotics
+poststrukturalizëm | noun | post-structuralism
+radioteknikë | noun | radio engineering
+antimarksizëm | noun | anti-Marxism
+elektoralizëm | noun | electoralism
+gjeodinamikë | noun | geodynamics
+hidroenergjetikë | noun | hydropower engineering
+humanistikë | noun | humanities
+koleksionizëm | noun | collecting
+postkolonializëm | noun | postcolonialism
+animalizëm | noun | animalism
+antisocializëm | noun | anti-socialism
+autonomizëm | noun | autonomism
+dietetikë | noun | dietetics
+grekofili | noun | Grecophilia
+kartelizëm | noun | cartelism
+makropolitikë | noun | macropolitics
+politeknikë | noun | polytechnic
+psaltikë | noun | psaltic chant
+termoenergjetikë | noun | thermal power engineering
+abolicionizëm | noun | abolitionism
+diatonikë | noun | diatonic scale
+floristikë | noun | floristry
+pianizëm | noun | pianism
+teoricizëm | noun | theoreticism
+termoteknikë | noun | heat engineering
+antiestetikë | noun | anti-aesthetics
+antifeminizëm | noun | anti-feminism
+averroizëm | noun | Averroism
+kriogjenikë | noun | cryogenics
+moralistikë | noun | moralist literature
+panslavizëm | noun | Pan-Slavism
+primordializëm | noun | primordialism
+serbofili | noun | Serbophilia
+skautizëm | noun | scouting
+aerobatikë | noun | aerobatics
+aksiomatikë | noun | axiomatics
+bonapartizëm | noun | Bonapartism
+dokumentarizëm | noun | documentarism
+fizikalizëm | noun | physicalism
+idiomatikë | noun | idiomatics
+indoevropianizëm | noun | Indo-Europeanism
+neoimperializëm | noun | neo-imperialism
+neonacionalizëm | noun | neo-nationalism
+okultikë | noun | occultism
+organicizëm | noun | organicism
+sintagmatikë | noun | syntagmatics
+sizmotektonikë | noun | seismotectonics
+statalizëm | noun | statism
+aerobikë | noun | aerobics
+dermokozmetikë | noun | dermocosmetics
+elektromagnetikë | noun | electromagnetics
+etnobotanikë | noun | ethnobotany
+galenikë | noun | galenic pharmacy
+konfederalizëm | noun | confederalism
+laburizëm | noun | Labourism
+mitopoetikë | noun | mythopoetics
+shintoizëm | noun | Shintoism
+atomistikë | noun | atomism
+automekanikë | noun | auto mechanics
+biopolitikë | noun | biopolitics
+endodontikë | noun | endodontics
+ekuilibrizëm | noun | equilibrism
+fonografi | noun | phonography
+kabalizëm | noun | Kabbalism
+koloristikë | noun | use of colour
+postsocializëm | noun | post-socialism
+sizmografi | noun | seismography
+kundërkomunizëm | noun | anti-communism
