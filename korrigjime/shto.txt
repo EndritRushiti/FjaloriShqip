@@ -36001,3 +36001,236 @@ trialog | noun | trilogue
 superspektakël | noun | superspectacle
 konverter | noun | converter
 oppidum | noun | oppidum
+# ── ft1.new.tsv ──
+përkujdesur | adj | caring
+anipse | adv | even though
+çkado | pron | whatever
+vetanak | adj | personal
+mpleksur | adj | entangled
+invazion | noun | invasion
+arvanit | noun | Arvanite
+idilik | adj | idyllic
+sentiment | noun | sentiment
+papërzier | adj | unmixed
+halabak | adj | clumsy
+përndritur | adj | illustrious
+fillimvit | noun | beginning of the year
+vetëshpall | verb | declare oneself
+nëpërmend | verb | mention in passing
+indipendent | adj | independent
+tevona | adv | later
+kurrnjëherë | adv | never
+motmot | adv | year after year
+rishoh | verb | see again
+përngjashëm | adj | similar
+mëdyshur | adj | hesitant
+zhagitje | noun | dragging
+përndritje | noun | illumination
+paqëllim | adv | unintentionally
+squllur | adj | limp
+herëdokur | adv | at times
+përflet | verb | gossip about
+defektoz | adj | defective
+shkallëshkallshëm | adj | gradual
+sprucim | noun | adornment
+pangishëm | adj | insatiable
+turpërisht | adv | shamefully
+punëmirë | adj | beneficent
+përndarë | adj | divided
+potershëm | adj | noisy
+pashmangësisht | adv | inevitably
+përbrendshëm | adj | inner
+përzgjatur | adj | elongated
+painteres | adj | uninteresting
+paraprirje | noun | leadership
+ringre | verb | raise again
+tutjeshëm | adj | farther
+pasherr | adj | peaceable
+recensë | noun | review
+zhagitur | adj | dragged
+jargavitur | adj | slobbered
+tëhuajtur | adj | alienated
+dorëjashtë | adj | left out
+rrëshqanë | adv | crawling
+çkamos | pron | whatever it may be
+trushkulur | adj | scatterbrained
+yndyrosur | adj | greased
+pamarre | adj | unreceptive
+tërsëllëm | noun | disgrace
+ngucakeq | adj | teasing
+pëgërë | adj | filthy
+gjysmagjel | noun | weakling
+përskuqje | noun | blushing
+shqyese | adj | tearing
+rrëmet | noun | turmoil
+vramendje | noun | worry
+mendjelehtësisht | adv | frivolously
+praptas | adv | backwards
+sedërli | adj | proud
+mëpasmë | adj | subsequent
+stërhollë | adj | very thin
+zgjebur | adj | mangy
+bjerrakohës | noun | time-waster
+stërmundimshëm | adj | very toilsome
+tejmbush | verb | overfill
+krahaqafë | adv | arm in arm
+kokëtul | adj | dim-witted
+shpluhurosur | adj | dusted
+babiloni | noun | babel
+besëlidhur | adj | sworn
+brekëgrisur | adj | ragged
+gërvimë | noun | scratch
+mbitokë | adv | above ground
+shpirtkazmë | adj | wicked
+rrymon | verb | flow
+hundëlesh | adj | stubborn
+gërnjar | adj | quarrelsome
+zhgreh | verb | unharness
+kokolepsur | adj | dolled up
+mandatim | noun | mandating
+gagaç | adj | stammering
+fotolajm | noun | photo news
+mëdyshas | adv | hesitantly
+përndrit | verb | illuminate
+shkapet | verb | clamber
+rishpreh | verb | re-express
+plevit | verb | rot
+pavdirë | adj | immortal
+stërmbush | verb | overfill
+hipokrizisht | adv | hypocritically
+shpresëtar | adj | hopeful
+poende | adv | still
+përngaherë | adv | always
+djathore | adj | right-hand
+këtupari | adv | hereabouts
+rimbledh | verb | regather
+gjëmshëm | adj | thunderous
+fatthënë | adj | fortunate
+firifiu | adv | in a flash
+gurron | verb | gurgle
+tromaks | verb | terrify
+kaçakçe | adv | stealthily
+kurvërim | noun | fornication
+përshkënditur | adj | sparkling
+rrethas | adv | around
+barkderr | adj | pot-bellied
+sipërfaqësi | noun | superficiality
+epsharak | adj | pliant
+përskuq | verb | brown lightly
+ritmon | verb | rhythmize
+stërkalë | noun | splash
+përzgjatje | noun | elongation
+fillimshekull | noun | turn of the century
+fshesaxhi | noun | street sweeper
+keqqeveris | verb | misgovern
+pavënëre | adj | inattentive
+nënëloke | noun | dear mother
+përhënur | adj | moonlit
+shkrumbosur | adj | charred
+padashas | adv | unintentionally
+lëngësht | adj | watery
+dyzash | adj | two-voiced
+kullandris | verb | muddle
+përndritet | verb | light up
+rihedh | verb | throw again
+librushkë | noun | booklet
+dybrinjënjëshëm | adj | isosceles
+përdjegur | adj | scorched
+ringjit | verb | reattach
+zgërdhirje | noun | grin
+antigaz | adj | gas-protective
+pakrahasim | adv | incomparably
+vetëlind | verb | arise spontaneously
+vjeshtarak | adj | autumnal
+bardhëllemë | adj | snow-white
+jargavit | verb | slobber
+kullufit | verb | gobble
+përgjëratë | adj | imploring
+asgjëmangut | adv | without fail
+mbushullim | noun | filling up
+tejzgjat | verb | overextend
+tëhuaj | verb | estrange
+gjymysh | adj | silver
+ndërkall | verb | insert
+çaraveshur | adj | split open
+bukosur | adj | swollen
+riparaqit | verb | resubmit
+ferrëgjatë | adj | long-thorned
+kapërdimje | noun | swallowing
+mbilodhur | adj | overtired
+stazhionim | noun | stationing
+uluron | verb | howl
+mirëbesoj | verb | trust
+mendjemykur | adj | narrow-minded
+bishtgërshërë | noun | swallow
+yshmer | adj | keen
+zharit | verb | singe
+bishtpërdredhur | adj | curly-tailed
+djegore | adj | burning
+erëmon | verb | smell
+hundëshkabë | adj | hook-nosed
+njënjëshëm | adj | uniform
+pakalues | adj | impassable
+përshkëndit | verb | sparkle
+dëshpërimthi | adv | despairingly
+mikpres | verb | host
+rrumbullosur | adj | rounded
+hamendshëm | adj | conjectural
+harbutçe | adv | boorishly
+ligjim | noun | discourse
+trashëgimisht | adv | hereditarily
+ngathtësisht | adv | clumsily
+kokolepsje | noun | overdressing
+përzgjat | verb | prolong
+asodore | adj | of that time
+aspiranturë | noun | postgraduate studies
+deviator | noun | deflector
+dritëshumë | adj | bright
+kokërrzim | noun | granulation
+paravajtës | noun | forerunner
+përhedh | verb | scatter
+përtharje | noun | partial drying
+tejduket | verb | show through
+yndyrosje | noun | greasing
+fortafolës | noun | loudspeaker
+gromësitje | noun | belching
+përshkënditje | noun | sparkling
+vërdallosje | noun | whirling
+zhurmëshumë | adj | noisy
+paduk | adj | invisible
+përsys | verb | face
+ripyes | verb | ask again
+fuqiprerë | adj | enfeebled
+mendjezi | adj | evil-minded
+shpuploj | verb | pluck
+vuvosur | adj | withered
+ankimtar | noun | complainant
+furtunshëm | adj | stormy
+helenishte | noun | Hellenic
+pluhurizë | noun | fine dust
+përhedhur | adj | scattered
+shkaras | adv | in passing
+shtrembaluq | adj | crooked
+vetëtimshëm | adj | lightning-fast
+përkëmb | verb | trample
+brinjëndryshëm | adj | scalene
+bërlyket | verb | glitter
+zhbart | verb | unload
+barkzbrazur | adj | hungry
+bashkëndiej | verb | sympathize
+dreqnisht | adv | devilishly
+mbrëmjesore | adj | evening
+përngjashmëri | noun | similarity
+qoftexhi | noun | meatball seller
+stërlodh | verb | exhaust
+zëdredhur | adj | with a trembling voice
+nurshëm | adj | charming
+tokicë | noun | small plot
+bravos | verb | applaud
+fillimvjeshtë | noun | early autumn
+kapërderdhës | adj | overflowing
+kryekirurg | noun | chief surgeon
+lulëzore | adj | floral
+punëdhënie | noun | employment
+qejfpaprishur | adj | easy-going
+syshtrembër | adj | cross-eyed
