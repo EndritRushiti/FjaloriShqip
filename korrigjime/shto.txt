@@ -39090,3 +39090,135 @@ rrallas | adv | rarely
 rrallësoj | verb | thin out
 rrallishtë | noun | sparse wood
 rregullsishëm | adj | regular
+# ── fu9.new.tsv ──
+rrenësi | noun | falsehood
+rrethakues | noun | encircler
+rrethimtar | noun | besieger
+rrethkomandë | noun | district command
+rrethlule | noun | flower wreath
+rrethpres | verb | cut around
+rrethrrotulloj | verb | revolve
+rrethshkruaj | verb | circumscribe
+rrëgjatë | adj | lanky
+rrëmujëtar | noun | troublemaker
+rrëmujos | verb | jumble
+rrënjëshuar | adj | uprooted
+rrënjishtë | noun | root-filled ground
+rrëzëmalas | adj | foothill
+rrëzishtë | noun | foothill
+rripëzoj | verb | cut into strips
+rrjepan | noun | flayer
+rrobagrisur | adj | ragged
+rrobashitës | noun | clothes seller
+rrokullehem | verb | roll
+rrotullakëz | noun | small wheel
+rrudhacak | adj | wrinkled
+rrufemadh | adj | snuffly
+rrugacak | noun | urchin
+rrugëmadh | adj | far-travelled
+rrumbullakthi | adv | roundly
+rrumbullohem | verb | become round
+rrumbullos | verb | round
+rrumbullosje | noun | rounding
+rrushemë | adj | grape-like
+rrushzezë | noun | black grapes
+sajdisshëm | adj | respected
+sallamatas | adv | chaotically
+samaroj | verb | saddle
+samaros | verb | saddle
+sapunëzim | noun | soaping
+sapunëzoj | verb | soap
+sapunëzues | adj | saponifying
+sapunisem | verb | soap oneself
+sedërlënduar | adj | hurt in one's pride
+shkatërr | adj | ruined
+shkatërresë | noun | destruction
+sinkopoj | verb | syncopate
+sipërfaqas | adv | superficially
+sipërfaqtë | adj | superficial
+sipërkalim | noun | overpass
+sipërtreguar | adj | above-mentioned
+skarifikoj | verb | scarify
+skartuar | adj | rejected
+skremoj | verb | strip
+smeriloj | verb | emery
+sotpërsotshëm | adj | present-day
+spicamadh | adj | big-pointed
+sqeptrashë | adj | thick-billed
+sqepthatë | adj | thin-billed
+stazhionoj | verb | station
+stërfal | verb | lavish
+stërkuqem | verb | flush deeply
+stërmbesëri | noun | great-granddaughters
+stërnipëri | noun | great-grandchildren
+stërngop | verb | overfeed
+stërnxeh | verb | overheat
+stërpërsërit | verb | repeat over and over
+stërpyes | verb | keep asking
+stërshosh | verb | sift repeatedly
+stërvjedh | verb | rob blind
+strehacak | noun | small shelter
+sybutë | adj | soft-eyed
+sydhelpër | adj | sly-eyed
+syegër | adj | fierce-eyed
+syfortë | adj | keen-eyed
+syfshehur | adj | hiding one's eyes
+sygjel | noun | scarlet pimpernel
+sylëshuar | adj | bashful
+symëllenjë | adj | dark-eyed
+sypangopur | adj | greedy-eyed
+sypërmbys | adv | with downcast eyes
+sypërtokë | adv | looking down
+syshkruar | adj | lovely-eyed
+sytokas | adv | with eyes downcast
+syvetëm | adj | one-eyed
+syxixë | adj | bright-eyed
+syzënë | adj | bleary-eyed
+syzgjuar | adj | alert-eyed
+shalëpërkulje | noun | knee bend
+shalëshkurtër | adj | short-legged
+shalështrembër | adj | bandy-legged
+shenjëlënës | adj | marking
+shenjëmirë | adj | auspicious
+sherbetoj | verb | syrup
+sherrmadh | adj | troublesome
+sheshgropë | noun | shallow pit
+sheshinë | noun | flat ground
+sheshnajë | noun | plain
+shëndetdobët | adj | sickly
+shëndetësohem | verb | recover
+shfletosur | adj | leafed through
+shfonologjizohet | verb | dephonologize
+shfragmentoj | verb | defragment
+shfryrës | adj | venting
+shinandërrues | noun | switchman
+shkafeinizoj | verb | decaffeinate
+shkarbonizim | noun | decarbonization
+shkarbonizoj | verb | decarbonize
+shkathëtoj | verb | make nimble
+shkathtësoj | verb | make nimble
+shkelbaltës | adj | mud-treading
+shkencorizoj | verb | make scientific
+shkëlqerim | noun | brilliance
+shkëmbehem | verb | exchange
+shkëmbesë | noun | exchange
+shkolonizoj | verb | decolonize
+shkozishtë | noun | hornbeam wood
+shkoznajë | noun | hornbeam grove
+shkrepshëm | adj | easily struck
+shkresoman | noun | bureaucrat
+shkresomani | noun | red tape
+shkretëtirëzohet | verb | desertify
+shkrishëm | adj | fusible
+shkrishmëri | noun | fusibility
+shkronjëzoj | verb | spell out
+shkrumbëzim | noun | carbonization
+shkulturoj | verb | deculturate
+shkumëdalë | adj | foaming
+shkumëmadh | adj | frothy
+shkurrishtë | noun | scrubland
+shllapurit | verb | splash
+shlukëzim | noun | declumping
+shmendoj | verb | dissuade
+shmirëzohet | verb | deteriorate
+shpagëmarrës | noun | avenger
