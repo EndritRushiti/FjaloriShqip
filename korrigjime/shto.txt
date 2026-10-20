@@ -28701,3 +28701,79 @@ bojëtullë | adj | brick-red
 peshkshitës | noun | fishmonger
 vetëshfajësim | noun | self-justification
 lëkurënxirë | adj | tanned
+# ── fg13.new.tsv ──
+bojëverë | adj | wine-coloured
+nofulldalë | adj | with protruding jaw
+parastërvitje | noun | pre-training
+dërrasëz | noun | small board
+fushatizëm | noun | campaign-style work
+lagështimatës | noun | hygrometer
+asnjanësues | adj | neutralizing
+lëvoretrashë | adj | thick-barked
+fletëmadh | adj | large-leaved
+parafinoj | verb | to paraffin
+qimetrashë | adj | coarse-haired
+urdhërshërbim | noun | service order
+gjysmëmetërsh | adj | half-metre
+fijetrashë | adj | coarse-fibred
+baktermbytës | adj | bactericidal
+gështenjashitës | noun | chestnut seller
+degëplotë | adj | many-branched
+bojëgështenjë | adj | chestnut-brown
+papjesëtueshmëri | noun | indivisibility
+ajërngrohës | noun | air heater
+fytyrëthatë | adj | gaunt-faced
+ngjyrëlimon | adj | lemon-coloured
+ndërakt | noun | interlude
+sobaxhi | noun | stoker
+gojështrembër | adj | wry-mouthed
+hundëmprehtë | adj | sharp-nosed
+krahëshkurtër | adj | short-winged
+litarpunues | noun | rope maker
+fletëleje | noun | permit
+gazometër | noun | gasholder
+hapgjatë | adj | long-striding
+minalëshues | noun | minelayer
+togëkomandant | noun | platoon commander
+degëtrashë | adj | thick-branched
+zverktrashë | adj | thick-necked
+bashkëfisas | noun | clansman
+dhjetëgarist | noun | decathlete
+bojëlimon | adj | lemon-yellow
+bojëçelik | adj | steel-grey
+bojëbizele | adj | pea-green
+bojëtjegull | adj | tile-red
+makinandërtues | noun | machine builder
+agrozootekni | noun | agro-zootechnics
+antikolonializëm | noun | anti-colonialism
+degëhollë | adj | slender-branched
+perimerritës | noun | vegetable grower
+tymthithës | noun | smoke extractor
+dhëmbëmadh | adj | big-toothed
+këmbëvogël | adj | small-footed
+anëdetas | noun | coastal dweller
+ëmbëlsirashitës | noun | confectioner
+byrekshitës | noun | pie seller
+bojëkashtë | adj | straw-coloured
+njëcilindërsh | adj | single-cylinder
+baktermbartës | noun | carrier of bacteria
+bashkëpërpjekje | noun | joint effort
+kockëvogël | adj | small-boned
+vetëveprimtari | noun | self-activity
+kanalhapës | noun | ditch digger
+pashpërblyeshëm | adj | unrepayable
+pendëshkurtër | adj | short-feathered
+kufitregues | noun | boundary marker
+karropunues | noun | cartwright
+djathëpunues | noun | cheesemaker
+orëshitës | noun | watch seller
+duhangrirës | noun | tobacco cutter
+kundërmalarik | adj | antimalarial
+dendësimatës | noun | densimeter
+makroorganizëm | noun | macroorganism
+tërshërishtë | noun | oat field
+mëngëgjatë | adj | long-sleeved
+talmudizëm | noun | Talmudism
+bojëvishnje | adj | cherry-coloured
+duhanishte | noun | tobacco field
+kërpishtë | noun | hemp field
