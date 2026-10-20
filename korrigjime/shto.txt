@@ -32633,3 +32633,260 @@ gramatikalizim | noun | grammaticalization
 seleukid | adj | Seleucid
 gjimnaziark | noun | gymnasiarch
 linjinë | noun | lignin
+# ── v1.new.tsv ──
+surprizoj | verb | to surprise
+involvoj | verb | to involve
+targetoj | verb | to target
+suportoj | verb | to support
+arredoj | verb | to furnish
+sllavizoj | verb | to Slavicize
+liçensoj | verb | to license
+prezumoj | verb | to presume
+prevaloj | verb | to prevail
+fiskalizoj | verb | to fiscalize
+uniformoj | verb | to standardize
+mirëinformoj | verb | to inform well
+delegjitimoj | verb | to delegitimize
+ponderoj | verb | to weigh
+hendikepoj | verb | to handicap
+ingranoj | verb | to mesh, to engage
+federoj | verb | to federate
+detajizoj | verb | to detail
+vetëizoloj | verb | to self-isolate
+vetëkarantinoj | verb | to self-quarantine
+metabolizoj | verb | to metabolize
+profesionalizoj | verb | to professionalize
+barrikadoj | verb | to barricade
+problematizoj | verb | to problematize
+ideologjizoj | verb | to ideologize
+turqizoj | verb | to Turkify
+blasfemoj | verb | to blaspheme
+komercializoj | verb | to commercialize
+vetëflijoj | verb | to sacrifice oneself
+kulminoj | verb | to culminate
+pedaloj | verb | to pedal
+konfuzoj | verb | to confuse
+vandalizoj | verb | to vandalize
+afatizoj | verb | to set a deadline
+kolapsoj | verb | to collapse
+bashkëthemeloj | verb | to co-found
+pigmentoj | verb | to pigment
+mumifikoj | verb | to mummify
+mediatizoj | verb | to mediatize
+kundërindikoj | verb | to contraindicate
+dimensionoj | verb | to dimension
+tematizoj | verb | to thematize
+mirëmenaxhoj | verb | to manage well
+myslimanizoj | verb | to Islamize
+parakualifikoj | verb | to prequalify
+progresoj | verb | to progress
+revidoj | verb | to revise
+vetëofroj | verb | to volunteer oneself
+marxhinalizoj | verb | to marginalize
+kalcifikoj | verb | to calcify
+profiloj | verb | to profile
+agregoj | verb | to aggregate
+homologoj | verb | to homologate
+temperoj | verb | to temper
+titroj | verb | to titrate
+letrarizoj | verb | to make literary
+purifikoj | verb | to purify
+metastazoj | verb | to metastasize
+arabizoj | verb | to Arabize
+karamelizoj | verb | to caramelize
+plastifikoj | verb | to laminate (plastic)
+anestezoj | verb | to anaesthetize
+fuzionoj | verb | to merge
+notifikoj | verb | to notify
+mbishkroj | verb | to overwrite
+nivelizoj | verb | to level
+getoizoj | verb | to ghettoize
+postuloj | verb | to postulate
+gangrenizoj | verb | to gangrene
+propagoj | verb | to propagate
+osciloj | verb | to oscillate
+tiranizoj | verb | to tyrannize
+rrjetëzoj | verb | to network
+debllokoj | verb | to unblock
+kuantifikoj | verb | to quantify
+absolvoj | verb | to graduate; to absolve
+koketoj | verb | to flirt
+galopoj | verb | to gallop
+latinizoj | verb | to Latinize
+komprimoj | verb | to compress
+satanizoj | verb | to demonize
+monetizoj | verb | to monetize
+skematizoj | verb | to schematize
+vetësakrifikoj | verb | to sacrifice oneself
+robotizoj | verb | to robotize
+segregoj | verb | to segregate
+kontabilizoj | verb | to enter in the accounts
+vetëfinancoj | verb | to self-finance
+laminoj | verb | to laminate
+hipotetizoj | verb | to hypothesize
+krishterizoj | verb | to Christianize
+anonimizoj | verb | to anonymize
+federalizoj | verb | to federalize
+ekstrapoloj | verb | to extrapolate
+partizoj | verb | to politicize along party lines
+negativizoj | verb | to cast in a negative light
+reprizoj | verb | to rerun
+portretoj | verb | to portray
+persistoj | verb | to persist
+retardoj | verb | to retard
+sintonizoj | verb | to tune in
+vetërregulloj | verb | to self-regulate
+aplaudoj | verb | to applaud
+internacionalizoj | verb | to internationalize
+dilatoj | verb | to dilate
+konceptualizoj | verb | to conceptualize
+demobilizoj | verb | to demobilize
+vetëpërjashtoj | verb | to exclude oneself
+brutalizoj | verb | to brutalize
+defunksionalizoj | verb | to make dysfunctional
+fanatizoj | verb | to fanaticize
+nostrifikoj | verb | to recognize (a foreign diploma)
+deaktivizoj | verb | to deactivate
+emulsifikoj | verb | to emulsify
+inaktivoj | verb | to inactivate
+ekstremizoj | verb | to radicalize
+bashkëprodhoj | verb | to co-produce
+parcelizoj | verb | to parcel out
+konjugoj | verb | to conjugate
+mirëadministroj | verb | to administer well
+dekodifikoj | verb | to decode
+deziluzionoj | verb | to disillusion
+kundërbalancoj | verb | to counterbalance
+ekskomunikoj | verb | to excommunicate
+refraktoj | verb | to refract
+demistifikoj | verb | to demystify
+monitorizoj | verb | to monitor
+obstruktoj | verb | to obstruct
+keqorientoj | verb | to misdirect
+evadoj | verb | to escape; to evade
+recensionoj | verb | to review
+virtualizoj | verb | to virtualize
+divergjoj | verb | to diverge
+vetëmashtroj | verb | to deceive oneself
+internalizoj | verb | to internalize
+departizoj | verb | to depoliticize
+hidroizoloj | verb | to waterproof
+laicizoj | verb | to secularize
+vetëshkatërroj | verb | to self-destruct
+ordinoj | verb | to ordain
+vetëlavdëroj | verb | to praise oneself
+referencoj | verb | to reference
+serializoj | verb | to serialize
+depistoj | verb | to screen for
+diagnozoj | verb | to diagnose
+fraksionoj | verb | to fractionate
+enkodoj | verb | to encode
+feminizoj | verb | to feminize
+denazifikoj | verb | to denazify
+heroizoj | verb | to heroize
+skeduloj | verb | to schedule
+bashkëorganizoj | verb | to co-organize
+minimalizoj | verb | to minimize
+vertikalizoj | verb | to verticalize
+kundërargumentoj | verb | to counter-argue
+vaskularizoj | verb | to vascularize
+atomizoj | verb | to atomize
+frakturoj | verb | to fracture
+konfeksionoj | verb | to make up (garments)
+mimetizoj | verb | to mimic
+numerizoj | verb | to digitize
+inkludoj | verb | to include
+inaktivizoj | verb | to inactivate
+teleportoj | verb | to teleport
+matrikulloj | verb | to enrol
+inokuloj | verb | to inoculate
+hidrolizoj | verb | to hydrolyse
+denominoj | verb | to denominate
+totalizoj | verb | to total
+inkarceroj | verb | to incarcerate
+kolaboroj | verb | to collaborate
+korreloj | verb | to correlate
+erodoj | verb | to erode
+recidivoj | verb | to relapse
+kapsuloj | verb | to encapsulate
+legjitimizoj | verb | to legitimize
+vetëcensuroj | verb | to self-censor
+gjermanizoj | verb | to Germanize
+tejngarkoj | verb | to overload
+antagonizoj | verb | to antagonize
+insinuoj | verb | to insinuate
+subordinoj | verb | to subordinate
+vetëkorrigjoj | verb | to self-correct
+mesatarizoj | verb | to average
+italianizoj | verb | to Italianize
+deshqiptarizoj | verb | to de-Albanianize
+alfabetizoj | verb | to teach literacy; to alphabetize
+sedimentoj | verb | to sediment
+konotoj | verb | to connote
+barazvlerësoj | verb | to equate
+tabuizoj | verb | to make taboo
+hermetizoj | verb | to seal hermetically
+vetëkandidoj | verb | to put oneself forward
+sekularizoj | verb | to secularize
+polimerizoj | verb | to polymerize
+vetëorganizoj | verb | to self-organize
+pervertoj | verb | to pervert
+rajonalizoj | verb | to regionalize
+keqdrejtoj | verb | to mismanage
+inkarnoj | verb | to incarnate
+osmanizoj | verb | to Ottomanize
+atrofoj | verb | to atrophy
+autentifikoj | verb | to authenticate
+dogmatizoj | verb | to dogmatize
+akseleroj | verb | to accelerate
+ballkanizoj | verb | to Balkanize
+keqshfrytëzoj | verb | to misuse
+proliferoj | verb | to proliferate
+resorboj | verb | to resorb
+fluorizoj | verb | to fluoridate
+solemnizoj | verb | to solemnize
+idolizoj | verb | to idolize
+kancerizoj | verb | to become cancerous
+klimatizoj | verb | to air-condition
+nekrotizoj | verb | to necrotize
+seksualizoj | verb | to sexualize
+rifurnizoj | verb | to resupply
+inkapsuloj | verb | to encapsulate
+eskortoj | verb | to escort
+sakralizoj | verb | to sacralize
+multiplikoj | verb | to multiply
+priorizoj | verb | to prioritize
+kanibalizoj | verb | to cannibalize
+uniformizoj | verb | to standardize
+denacionalizoj | verb | to denationalize
+patronizoj | verb | to patronize
+amalgamoj | verb | to amalgamate
+interpeloj | verb | to interpellate
+dekompensoj | verb | to decompensate
+stereotipizoj | verb | to stereotype
+delimitoj | verb | to delimit
+fagocitoj | verb | to phagocytose
+oksidentalizoj | verb | to westernize
+detoksikoj | verb | to detoxify
+eksfolioj | verb | to exfoliate
+eksternalizoj | verb | to externalize
+dezintoksikoj | verb | to detoxify
+dekontaminoj | verb | to decontaminate
+disaprovoj | verb | to disapprove
+mirëtrajtoj | verb | to treat well
+deradikalizoj | verb | to deradicalize
+ritualizoj | verb | to ritualize
+parafoj | verb | to initial
+intelektualizoj | verb | to intellectualize
+profanizoj | verb | to profane
+koekzistoj | verb | to coexist
+incentivoj | verb | to incentivize
+tuteloj | verb | to protect
+dekoncentroj | verb | to decentralize
+deeskaloj | verb | to de-escalate
+kartelizoj | verb | to cartelize
+tamponoj | verb | to plug
+vetëshëroj | verb | to self-heal
+vetëkontrolloj | verb | to control oneself
+orientalizoj | verb | to orientalize
+esterifikoj | verb | to esterify
