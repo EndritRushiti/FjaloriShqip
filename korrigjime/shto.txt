@@ -36987,3 +36987,229 @@ rrethsjellje | noun | circulation
 rrëmujëmadh | adj | chaotic
 rrënore | adj | ruinous
 rrëzëllyer | adj | radiant
+# ── ft5.new.tsv ──
+rëndomtë | adj | ordinary
+shpeshtë | adj | frequent
+sheshtë | adj | flat
+shumëfishtë | adj | multiple
+trefishtë | adj | triple
+pesëfishtë | adj | fivefold
+katërfishtë | adj | fourfold
+njëfishtë | adj | single
+zakontë | adj | customary
+bronztë | adj | bronze
+kristaltë | adj | crystal
+mëndafshtë | adj | silken
+acartë | adj | steely
+mermertë | adj | marble
+qelqtë | adj | glass
+metaltë | adj | metallic
+trëndafiltë | adj | rosy
+kaftë | adj | brown
+ylbertë | adj | iridescent
+plumbtë | adj | leaden
+pambuktë | adj | cotton
+xhamtë | adj | glass
+kalldrëmtë | adj | cobbled
+qelibartë | adj | amber
+bruztë | adj | turquoise
+prushtë | adj | glowing red
+lëkurtë | adj | leather
+tultë | adj | fleshy
+tymtë | adj | smoky
+leshtë | adj | woollen
+gaztë | adj | gauzy
+njëmendtë | adj | real
+përnjëmendtë | adj | genuine
+ligshtë | adj | feeble
+ngulët | adj | dense
+squllët | adj | limp
+rrëpirët | adj | steep
+shtrembët | adj | crooked
+ngulmët | adj | insistent
+helmët | adj | bitter
+ortë | adj | upright
+rrashtë | adj | sparse
+paqetë | adj | restless
+pastajmë | adj | later
+rëndshëm | adj | heavy
+zbritshëm | adj | deductible
+gërditshëm | adj | repulsive
+lemerishëm | adj | horrific
+perëndishëm | adj | divine
+marrëzishëm | adj | foolish
+ndezshëm | adj | flammable
+rrokshëm | adj | graspable
+mendshëm | adj | sensible
+thekshëm | adj | pungent
+pafrymë | adj | breathless
+pashije | adj | tasteless
+pabukur | adj | unattractive
+pathemeltë | adj | unfounded
+paprerë | adj | uncut
+qartas | adv | clearly
+lehtas | adv | lightly
+keqas | adv | badly
+ndaras | adv | separately
+heshtas | adv | silently
+preras | adv | decisively
+ngjitas | adv | adjacent
+anas | adv | sideways
+kalas | adv | on horseback
+doras | adv | by hand
+qetas | adv | calmly
+anasjellas | adv | vice versa
+mënjan | adv | aside
+tejetej | adv | right through
+tanim | adv | now
+ngjat | adv | nearby
+fshehuri | adv | secretly
+përgjumësh | adv | drowsily
+kuturis | adv | at random
+gjithfarësh | adj | of all kinds
+pesëcepësh | adj | five-pointed
+katërkëmbësh | adj | four-legged
+dyvargësh | adj | two-line
+dyvendësh | adj | two-seater
+lënie | noun | leaving
+nxënie | noun | learning
+zënie | noun | quarrel
+fjalosje | noun | conversation
+krekosje | noun | swaggering
+kullotje | noun | grazing
+stisje | noun | contrivance
+kositje | noun | mowing
+faqosje | noun | page layout
+përbaltje | noun | muddying
+kotje | noun | dozing
+shëndoshje | noun | recovery
+rropatje | noun | struggle
+mplakje | noun | ageing
+prashitje | noun | hoeing
+kuturisje | noun | recklessness
+pulitje | noun | blinking
+puthitje | noun | tight fit
+shoshitje | noun | sifting
+lyrje | noun | coating
+zbutim | noun | softening
+rinim | noun | rejuvenation
+murmuritje | noun | murmuring
+zukatje | noun | buzzing
+gurgullimë | noun | gurgling
+gumëzhimë | noun | humming
+kërcëllimë | noun | gnashing
+flakërimë | noun | blaze
+thurimë | noun | weaving
+prerës | noun | cutter
+falës | noun | forgiver
+rënës | adj | falling
+soditës | noun | contemplator
+përzierës | noun | mixer
+ngelës | noun | repeater
+sitës | noun | sifter
+qarës | adj | weepy
+ngjethës | adj | chilling
+lëpirës | noun | toady
+përdredhës | noun | twister
+llupës | noun | glutton
+sharës | noun | reviler
+tharës | noun | dryer
+lodhës | adj | tiring
+ulës | noun | lowering device
+grishës | noun | inviter
+kositës | noun | mower
+stërvitës | noun | trainer
+shkrirës | noun | smelter
+bredhës | noun | wanderer
+fshirës | noun | wiper
+fikës | noun | extinguisher
+mpirës | adj | numbing
+lyrës | noun | painter
+shpotitës | adj | mocking
+vuajtës | noun | sufferer
+përtëritës | adj | renewing
+plotës | adj | complementary
+prerëse | noun | cutter
+kapëse | noun | clip
+tharëse | noun | dryer
+spërkatëse | noun | sprayer
+zgjedhëse | adj | electoral
+prangos | verb | shackle
+zvarrit | verb | drag
+kullot | verb | graze
+vajos | verb | oil
+baltos | verb | muddy
+djersit | verb | sweat
+gatit | verb | prepare
+davarit | verb | disperse
+shoshit | verb | sift
+krekos | verb | puff up
+qesëndis | verb | mock
+rrufit | verb | slurp
+kapsit | verb | clip
+fjalos | verb | converse
+tajit | verb | feed
+plasarit | verb | crack
+murmurit | verb | murmur
+rishes | verb | resell
+anos | verb | tilt
+zhargon | noun | jargon
+polen | noun | pollen
+revansh | noun | revenge match
+karat | noun | carat
+stafetë | noun | relay race
+barelë | noun | stretcher
+parukë | noun | wig
+poltronë | noun | armchair
+piketë | noun | stake
+filetë | noun | fillet
+gazelë | noun | gazelle
+grimasë | noun | grimace
+roletë | noun | roller blind
+llastikë | noun | elastic band
+granat | noun | garnet
+kastë | noun | caste
+materie | noun | matter
+revoltë | noun | revolt
+ofensivë | noun | offensive
+tribunë | noun | tribune
+gomone | noun | rubber dinghy
+zenit | noun | zenith
+saten | noun | satin
+miopi | noun | myopia
+anonimat | noun | anonymity
+rrafshinë | noun | plain
+rrugaçëri | noun | hooliganism
+angështi | noun | distress
+pjellori | noun | fertility
+shtymë | noun | push
+kronikan | noun | chronicler
+parfumeri | noun | perfumery
+fonderi | noun | foundry
+pallosh | noun | short sword
+kurbat | noun | migrant labour
+padijeni | noun | ignorance
+hidhësi | noun | bitterness
+lajmësi | noun | announcement
+biletari | noun | ticket office
+shortari | noun | lottery
+sekseri | noun | brokerage
+muratori | noun | masonry
+pamaturi | noun | imprudence
+parësi | noun | leadership
+zbrazësi | noun | emptiness
+pritmëri | noun | expectation
+myftini | noun | mufti's office
+cicerone | noun | tour guide
+strumë | noun | goitre
+shilte | noun | thin mattress
+dukatë | noun | ducat
+pusetë | noun | manhole
+shish | noun | skewer
+mijëshe | noun | thousand note
+tetëshe | noun | eight
+gjashtëshe | noun | six
+qenushë | noun | puppy
+barkushe | noun | small boat
+shtazan | adj | beastly
+qyqan | adj | wretched
