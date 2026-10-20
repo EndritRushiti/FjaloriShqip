@@ -39222,3 +39222,164 @@ shlukëzim | noun | declumping
 shmendoj | verb | dissuade
 shmirëzohet | verb | deteriorate
 shpagëmarrës | noun | avenger
+# ── fu10.new.tsv ──
+shpartallinë | noun | rout
+shpatthi | adv | with the sword
+shpellinë | noun | small cave
+shpenalizoj | verb | decriminalize
+shpendkeq | adj | unlucky
+shpersonalizoj | verb | depersonalize
+shpeshtak | adj | dense
+shpëlakës | noun | rinser
+shpërbetim | noun | abjuration
+shpërbetoj | verb | abjure
+shpërblesëtar | noun | rewarder
+shpërderdhje | noun | spilling
+shpërmiratim | noun | disapproval
+shpërmiratoj | verb | disapprove
+shpërngjashmim | noun | dissimilarity
+shpërngjashmoj | verb | dissimilate
+shpërnjohës | noun | disowner
+shpërpjesëtoj | verb | disproportion
+shpërthimor | adj | explosive
+shpërvetim | noun | misappropriation
+shpërvetoj | verb | misappropriate
+shpinëkuk | adj | hunchbacked
+shpinëmarrje | noun | piggyback
+shpirtashpër | adj | hard-hearted
+shpirtashpërsi | noun | hard-heartedness
+shpirtçiltërsi | noun | sincerity
+shpirtdobët | adj | faint-hearted
+shpirtegër | adj | savage
+shpirtegërsi | noun | savagery
+shpirtfëlliqur | adj | foul-souled
+shpirtkulluar | adj | pure-hearted
+shpirtlartësi | noun | magnanimity
+shpirtlepur | adj | cowardly
+shpirtlig | adj | wicked
+shpirtpaktë | adj | pusillanimous
+shpirtpangopur | adj | insatiable
+shpirttrazuar | adj | troubled
+shpirtulët | adj | mean-spirited
+shpluhurim | noun | dusting
+shpolarizim | noun | depolarization
+shpolarizoj | verb | depolarize
+shpolitizoj | verb | depoliticize
+shprangos | verb | unshackle
+shpresëshuar | adj | hopeless
+shproletarizoj | verb | deproletarianize
+shpronësueshëm | adj | expropriable
+shpunësoj | verb | dismiss
+shpupurish | verb | ruffle
+shqendërsoj | verb | decentralize
+shqepëz | noun | small beak
+shtangësoj | verb | stun
+shtatbilonjë | adj | slender
+shtatçetinë | adj | tall as a fir
+shtatëballësh | adj | seven-sided
+shtatëqindtë | num | seven-hundredth
+shtatërrokësh | adj | seven-syllable
+shtatfiliz | adj | willowy
+shtazërohem | verb | become bestial
+shterpak | adj | barren
+shterpërohem | verb | become barren
+shtëllungor | adj | billowing
+shtëpiprishës | noun | homewrecker
+shtizim | noun | knitting
+shtjellëzim | noun | exposition
+shtratëzim | noun | stratification
+shtratëzoj | verb | stratify
+shtratngushtë | adj | narrow-bedded
+shtrembësirë | noun | distortion
+shtrembtas | adv | crookedly
+shtrenjtësirë | noun | expensiveness
+shtrenjtësoj | verb | raise prices
+shtrishmëri | noun | stretchability
+shtyllërrahës | noun | pile driver
+shtypshkruaj | verb | print by hand
+shumanësi | noun | versatility
+shumatomik | adj | polyatomic
+shumëbërthamor | adj | multinucleate
+shumëdëshiruar | adj | much-desired
+shumëfjalësh | adj | wordy
+shumëgarist | noun | all-round athlete
+shumëkanalësh | adj | multichannel
+shumënderuar | adj | much-honoured
+shumësektorësh | adj | multisector
+shumëtrajtësh | adj | multiform
+shumëvariantësh | adj | multivariant
+shumëvendësh | adj | multi-seat
+shumëzueshëm | adj | multipliable
+shurdhjesë | noun | deafening
+shushuritës | adj | rustling
+tagrapagues | noun | taxpayer
+tapetoj | verb | paper
+tapiceroj | verb | upholster
+tavanbërës | noun | ceiling maker
+tavanpunues | noun | ceiling worker
+tavapjekës | noun | baker
+tehemteh | adv | edge to edge
+tehndryshkur | adj | rusty-bladed
+tejdet | adv | overseas
+tejdetas | adj | overseas
+tejefund | adv | from end to end
+tejfryj | verb | overinflate
+tejftoh | verb | overcool
+tejlodh | verb | overtire
+tejlumas | adj | across the river
+tejlumë | adv | beyond the river
+tejmalas | adj | across the mountain
+tejmbartës | noun | transporter
+tejmbartje | noun | transfer
+tejmbjell | verb | oversow
+tejndot | verb | overpollute
+tejndotje | noun | overpollution
+tejnesër | adv | the day after tomorrow
+tejngroh | verb | overheat
+tejpaguaj | verb | overpay
+tejpardje | adv | three days ago
+tejparvjet | adv | three years ago
+tejpasnesër | adv | in three days
+tejpeshoj | verb | overweigh
+tejpërdor | verb | overuse
+tejpiqem | verb | overripen
+tejpjek | verb | overbake
+tejshkruaj | verb | overwrite
+telefonizim | noun | telephone installation
+telefonizoj | verb | install telephones
+telëzim | noun | wire drawing
+telëzues | noun | wire drawer
+tellallis | verb | cry out publicly
+tërfilishtë | noun | clover field
+tingullimitim | noun | onomatopoeia
+tjegullar | noun | tile maker
+tjetërmendas | adv | absent-mindedly
+tkurrshëm | adj | contractile
+topahipas | adv | mounted
+torpiloj | verb | torpedo
+tragjedizoj | verb | tragedize
+transbordoj | verb | transship
+trapiantoj | verb | transplant
+trashëkofshë | adj | thick-thighed
+trashohem | verb | thicken
+tredhëmbësh | adj | three-pronged
+treqenike | noun | bindweed
+treshas | adv | in threes
+tretdhe | adv | thirdly
+tridhëbotë | adv | at the ends of the earth
+truparmatë | noun | armed body
+tryezar | noun | table maker
+tubëzohem | verb | gather
+tullabërës | noun | brickmaker
+tunelizoj | verb | tunnel
+tungjatjetoj | verb | greet
+turidhelpër | adj | foxy
+turpemadh | adj | very shy
+tymshuar | adj | without hearth
+thadërtar | noun | axe maker
+thashethemanjë | noun | gossip
+thekërishtë | noun | rye field
+thembroj | verb | heel
+therorizoj | verb | sacrifice
+thëngjillëzim | noun | carbonization
+thëngjillëzoj | verb | carbonize
