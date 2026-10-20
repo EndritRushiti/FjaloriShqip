@@ -28087,3 +28087,59 @@ riarmatos | verb | to rearm
 dymuajsh | adj | two-month
 stivoj | verb | to stack
 kallogre | noun | nun
+# ── fg5.new.tsv ──
+grarisht | adv | in a womanly way
+dytëshor | adj | dual, binary
+asgjësend | pron | nothing at all
+çakçirë | noun | traditional woollen trousers
+sorgum | noun | sorghum
+djallush | noun | little devil, imp
+poetuc | noun | poetaster
+litrosh | adj | one-litre
+pazemër | adj | heartless; faint-hearted
+kapsallit | verb | to blink
+habertar | noun | messenger
+kamxhikoj | verb | to whip
+pagjak | adj | bloodless, pale
+bishtkali | noun | horsetail
+palcor | adj | medullary
+dibrançe | noun | woman from Dibër
+elbasançe | noun | woman from Elbasan
+shpërvjel | verb | to roll up (sleeves)
+paguximshëm | adj | cowardly
+zaif | adj | feeble, sickly
+joshterues | adj | inexhaustible
+shfronësim | noun | dethronement
+drunjëzim | noun | lignification
+alkoolizoj | verb | to alcoholize
+djathtak | noun | right-winger
+vetëmburrem | verb | to boast
+fletëlavdërim | noun | certificate of merit
+rrokëzoj | verb | to syllabify
+hundak | adj | big-nosed
+zverdhoj | verb | to turn yellow
+fatmadh | adj | very lucky
+pandier | adj | imperceptible, unheard
+kanunar | noun | expert in customary law
+plutokrat | noun | plutocrat
+kundërtezë | noun | antithesis
+përmatanë | adv | beyond, across
+trokëllij | verb | to clatter
+besëpakë | adj | of little faith
+mandatpagesë | noun | payment order
+tapos | verb | to cork
+posaqë | conj | as soon as
+aktivim | noun | activation
+burnot | noun | snuff
+projektdeklaratë | noun | draft declaration
+parcelim | noun | parcelling
+tesprot | noun | Thesprotian
+heshtar | noun | spearman
+paqejf | adj | out of sorts
+kënetëzim | noun | waterlogging
+thimjam | noun | incense
+fijezor | adj | fibrous
+shair | noun | folk bard
+shkualifikim | noun | disqualification
+qëmoçëm | adj | ancient
+belaxhi | noun | troublemaker
