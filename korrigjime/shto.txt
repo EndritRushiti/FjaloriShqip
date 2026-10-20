@@ -28020,3 +28020,38 @@ vetëveproj | verb | to act automatically
 pëllëmbor | adj | palmar
 sheqermbajtës | adj | sugar-bearing
 mbitension | noun | overvoltage
+# ── fg2.new.tsv ──
+fundmë | adj | latest, last
+përkundrejt | prep | opposite; compared to
+anasjell | adj | converse, reciprocal
+jashtëqit | verb | to excrete
+përnjëherë | adv | at once
+taulant | noun | Taulantian
+dasaret | noun | Dassaretan
+avar | noun | Avar
+vetëquhem | verb | to call oneself
+vjetërsoj | verb | to make obsolete
+mineralizoj | verb | to mineralize
+shortoj | verb | to draw lots
+ngashëroj | verb | to move to tears
+përzënie | noun | expulsion
+tollovi | noun | turmoil
+paragjuhor | adj | paralinguistic
+veshëz | noun | auricle
+përgjithnjë | adv | forever
+përngjit | verb | to stick onto
+gjeldet | noun | turkey
+rrëgjim | noun | atrophy, withering
+zotrote | pron | your lordship
+myhib | noun | initiated Bektashi
+përskaj | adv | alongside
+fërkimor | adj | frictional
+dede | noun | Bektashi leader (dede)
+përkëtej | adv | on this side
+leshtak | adj | shaggy
+rinoj | verb | to rejuvenate
+parehatshëm | adj | uncomfortable
+sergjen | noun | dish shelf
+kapanxhë | noun | trap
+burizan | noun | horn player
+përkarshi | adv | opposite

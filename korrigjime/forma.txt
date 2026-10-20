@@ -19470,3 +19470,12 @@ dallgëzohet | dallgëzoj
 përzhitem | përzhit
 kolaudohet | kolaudoj
 vargohem | vargoj
+# ── fg2.new.tsv ──
+rrëshqit | rrëshqas
+shlyhem | shlyej
+ngjyhem | ngjyej
+përdridhem | përdredh
+ngjishem | ngjesh
+shqyhem | shqyej
+tridhem | tredh
+përflitem | përflas
