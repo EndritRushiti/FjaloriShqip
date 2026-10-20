@@ -37859,3 +37859,157 @@ njëqindlekëshe | noun | hundred-lek note
 shfletosje | noun | browsing
 trokëllitje | noun | clatter
 njëqindgradësh | adj | centigrade
+# ── fu1.new.tsv ──
+abortar | noun | abortionist
+acidedurues | adj | acid-resistant
+adjudikoj | verb | adjudicate
+afërmendësi | noun | intelligibility
+afërsipërfaqësor | adj | near-surface
+agimtar | adj | early-rising
+aglomeroj | verb | agglomerate
+agullon | verb | dawn
+ajërftohës | adj | air-cooled
+ajërmatës | noun | air meter
+akëkush | pron | somebody
+akëqysh | adv | somehow
+aksiomatizoj | verb | axiomatize
+aktpagesë | noun | payment record
+aktpronësi | noun | title deed
+alambikoj | verb | distil
+albërishtë | noun | old Albanian
+alelujë | noun | hallelujah
+alkalinizoj | verb | alkalize
+aluvionor | adj | alluvial
+anapraptas | adv | backwards
+anaprapthi | adv | inside out
+anatomizoj | verb | anatomize
+andrallëmadh | adj | troubled
+andrallos | verb | trouble
+andrallosje | noun | trouble
+anëlumë | noun | riverbank
+anëshkruaj | verb | write in the margin
+anglicizoj | verb | anglicize
+antidatoj | verb | backdate
+antikuar | adj | antiquated
+aratoj | verb | plough
+arkaizoj | verb | archaize
+arnesar | noun | mender
+arnishtë | noun | small field
+ashensorist | noun | lift operator
+ashpërak | adj | coarse
+astaroj | verb | line
+asgjëshëm | adj | worthless
+asnjanshmëri | noun | neutrality
+aullin | verb | howl
+autarkizoj | verb | make self-sufficient
+autoinspektorat | noun | vehicle inspectorate
+autoreklamohem | verb | promote oneself
+autotransportoj | verb | transport by road
+aviotransport | noun | air transport
+axhustoj | verb | adjust
+axhusteri | noun | fitting shop
+babamadh | noun | grandfather
+babazot | noun | God the Father
+bagëtisht | adv | like cattle
+baletmaestre | noun | ballet mistress
+balsamtë | adj | balmy
+baltanik | noun | muddy ground
+baltësirë | noun | mire
+ballëhënë | adj | fair-browed
+ballëverdhë | adj | yellow-browed
+ballëvrenjtur | adj | scowling
+ballëzymtë | adj | gloomy-faced
+ballukedredhur | adj | curly-fringed
+bananishte | noun | banana plantation
+banjëzim | noun | immersion bath
+banjëzoj | verb | immerse
+barasditë | noun | equinox
+baraslargoj | verb | space equally
+barashtim | noun | levelling
+barazimtar | noun | egalitarian
+barazimtarizëm | noun | egalitarianism
+bardhëditë | adj | lucky
+bardhëllosh | adj | fair-haired
+barishtak | adj | grassy
+barkalartas | adv | belly up
+barkaposhtas | adv | face down
+barkbuall | adj | pot-bellied
+barkdërrasë | adj | flat-bellied
+barkkeq | adj | ill-natured
+barkngushtë | adj | narrow-bellied
+barkshpuar | adj | insatiable
+barkzbuluar | adj | bare-bellied
+barnatoj | verb | medicate
+barrësoj | verb | burden
+bashkadministroj | verb | co-administer
+bashkëbetohem | verb | swear together
+bashkëgjykohem | verb | be co-defendant
+bashkëlind | verb | be born together
+bashkëmbartje | noun | joint transport
+bashkëmbyll | verb | close jointly
+bashkënënshkruaj | verb | co-sign
+bashkëpërjetoj | verb | share an experience
+bashkëpilotoj | verb | co-pilot
+bashkëqenie | noun | coexistence
+bashkërrjedh | verb | flow together
+bashkëzotëroj | verb | co-own
+bashkinvestoj | verb | co-invest
+bashtinar | noun | hereditary landowner
+bejkush | pron | anyone
+bektashian | adj | Bektashi
+belaqar | adj | troublemaking
+belkëputur | adj | worn out
+belngushtë | adj | slim-waisted
+beltrashë | adj | thick-waisted
+besëkotë | adj | faithless
+besëlig | adj | treacherous
+besëqen | adj | treacherous
+betontë | adj | concrete
+bijëvrasës | noun | daughter-killer
+bijëvrasje | noun | murder of a daughter
+bilbiloj | verb | warble
+bilurtë | adj | crystal
+bimishtë | noun | vegetation patch
+bipolarizoj | verb | polarize
+birvrasje | noun | filicide
+bishtgjele | noun | cockscomb
+bishtkuq | noun | redstart
+bishtlagur | adj | crestfallen
+bishtlepur | noun | hare's-tail grass
+bishthollë | adj | thin-tailed
+bitumim | noun | asphalting
+bitumoj | verb | asphalt
+bjerrafat | adj | ill-fated
+blegëritje | noun | bleating
+blertësi | noun | greenness
+blojtës | noun | buyer
+blozak | adj | sooty
+blozar | noun | chimney sweep
+bluzhdoj | verb | wander aimlessly
+bojëshitës | noun | paint seller
+bolshevizoj | verb | bolshevize
+bonderizoj | verb | bonderize
+bostanishtë | noun | melon field
+botanizoj | verb | botanize
+botëndijim | noun | world-feeling
+brambullij | verb | buzz
+brambullitje | noun | buzzing
+brashnjar | noun | grinder
+bregishtë | noun | bank
+bregëzoj | verb | embank
+brekëçjerrë | adj | ragged
+brendatrupëzoj | verb | internalize
+breshnoj | verb | hail
+bridrejtë | adj | straight-horned
+bridredhur | adj | curly-horned
+brirëzim | noun | keratinization
+brirëzuar | adj | horny
+britmarak | adj | loud-mouthed
+britmëtar | adj | shouting
+brumaç | noun | doughy bread
+brumshëm | adj | doughy
+brymak | adj | frosty
+brymëzohet | verb | frost over
+brymishtë | noun | frosty place
+bubërrim | noun | shivering
+bubërroj | verb | shiver
