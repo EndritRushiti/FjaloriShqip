@@ -19873,3 +19873,9 @@ kemioterapi | kimioterapi
 # ── t2.new.tsv ──
 shizofreni | skizofreni
 induizëm | hinduizëm
+# ── t3.new.tsv ──
+intenzitet | intensitet
+dimenzion | dimension
+procedurial | procedural
+konkurencë | konkurrencë
+prestigjoz | prestigjioz

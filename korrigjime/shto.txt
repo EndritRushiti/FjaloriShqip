@@ -29433,3 +29433,35 @@ antimaterializëm | noun | anti-materialism
 sinoptikë | noun | synoptic meteorology
 ergonomikë | noun | ergonomics
 ultrasonikë | noun | ultrasonics
+# ── t3.new.tsv ──
+plangprishës | noun | spoilsport
+ballëpërballë | adv | face to face
+gjithëkund | adv | everywhere
+vetmohues | adj | self-sacrificing
+fletëarrest | noun | arrest warrant
+gazlotsjellës | adj | tear-inducing (gas)
+faqeshënues | noun | bookmark
+fjalëpërpunues | noun | word processor
+luleshpatë | noun | iris (plant)
+fletëllogaritës | noun | spreadsheet
+kalorimetër | noun | calorimeter
+trushpëlarje | noun | brainwashing
+kohëplotë | adj | full-time
+gjithëanshëm | adj | all-round, comprehensive
+gjithësecili | pron | each and every one
+ekstrapiramidal | adj | extrapyramidal
+informalitet | noun | informality
+kontraktual | adj | contractual
+remitencë | noun | remittance
+konvent | noun | convent
+medalion | noun | medallion
+seleksion | noun | selective breeding
+sabotazh | noun | sabotage
+segregacion | noun | segregation
+audiovizual | adj | audiovisual
+drakonik | adj | draconian
+kavitacion | noun | cavitation
+feminitet | noun | femininity
+korespondencë | noun | correspondence
+nënregjion | noun | subregion
+gjenocidial | adj | genocidal
