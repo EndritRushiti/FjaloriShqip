@@ -39426,4 +39426,130 @@ vetëzhvlerësohem | verb |
 vetofrohem | verb | 
 vetoksidohet | verb | 
 vetorganizohem | verb | 
-vetushqehem | verb | 
+vetushqehem | verb |
+# ── fu11.new.tsv ──
+thikashpinas | adv | treacherously
+thinisht | adv | swinishly
+thjerrëzor | adj | lenticular
+thonjgjatë | adj | long-nailed
+thundërmushkë | noun | coltsfoot
+thundror | adj | hoof
+udhëdëftues | noun | guide
+ujëdashës | adj | water-loving
+uthullnik | noun | vinegar cruet
+uthullor | adj | acetic
+vajtojcë | noun | professional mourner
+valëmadh | adj | billowy
+valëshpejtë | adj | fast-flowing
+vapëherë | noun | hot spell
+varrhapur | adj | open-graved
+varrimtar | noun | gravedigger
+varrjashtë | adj | unburied
+varrpagjetur | adj | whose grave is unknown
+varrzbuluar | adj | exhumed
+vatërshuar | adj | homeless
+vdekjesor | adj | mortal
+veglatar | noun | toolmaker
+veshflori | adj | gold-earringed
+veshgomar | adj | donkey-eared
+veshmadh | adj | big-eared
+veshrëndë | adj | hard of hearing
+veshshpuar | adj | pierced-eared
+vetëndezës | adj | self-igniting
+vetëpërhapje | noun | self-propagation
+vetëshkrehës | adj | self-firing
+vetëshumëzim | noun | self-replication
+vetizoluar | adj | self-isolated
+vetullarënë | adj | downcast
+vetullgajtan | adj | arch-browed
+vetullgjilpërë | adj | pencil-browed
+vetullhënë | adj | crescent-browed
+vetullkalem | adj | pencilled-browed
+vetullrrudhur | adj | frowning
+vetullshkruar | adj | fine-browed
+vetullvrenjtur | adj | scowling
+vezëpjellës | adj | oviparous
+vëllimmatës | noun | volumeter
+vëngërisht | adv | askance
+vijëshënim | noun | underlining
+vithapraptas | adv | backwards
+vjedharash | adv | furtively
+vogëlimthi | adv | since childhood
+vonimtar | adj | late
+vraptor | adj | running
+vrazhdësoj | verb | coarsen
+vrenjtësirë | noun | gloom
+vringëllues | adj | clanging
+vrumbullimë | noun | rumbling
+xeherormbajtës | adj | ore-bearing
+xhamapastrues | noun | window cleaner
+xhamëzim | noun | vitrification
+xhamëzohet | verb | vitrify
+xhamor | adj | glassy
+xhamtar | noun | glazier
+xhepshpuar | adj | spendthrift
+xhepthatë | adj | broke
+yllëzon | verb | twinkle
+yllshuar | adj | ill-starred
+yndyrëzim | noun | fat accumulation
+yndyrëzoj | verb | grease
+zahmetshëm | adj | toilsome
+zallishtor | adj | gravelly
+zbardhulim | noun | paling
+zbardhulinë | noun | dawn
+zbërthyeshmëri | noun | decomposability
+zbutohem | verb | soften
+zemërborë | adj | cold-hearted
+zemërbrengosur | adj | sorrowful
+zemërcopëtuar | adj | heartbroken
+zemërçartur | adj | heartbroken
+zemërdëlirësi | noun | purity of heart
+zemërdragua | adj | dragon-hearted
+zemërfikur | adj | despondent
+zemërfisnik | adj | noble-hearted
+zemërfryrë | adj | sulking
+zemërgëzuar | adj | glad-hearted
+zemërkalbur | adj | rotten-hearted
+zemërlëshuar | adj | disheartened
+zemërndryshkur | adj | rusty-hearted
+zemërnxirë | adj | grieving
+zemërpezmatuar | adj | aggrieved
+zemërqengj | adj | lamb-hearted
+zemërshkretë | adj | desolate
+zemërshuar | adj | dispirited
+zemërujk | adj | wolf-hearted
+zemërulët | adj | mean-spirited
+zemërvdekur | adj | dead at heart
+zëashpër | adj | gruff-voiced
+zëfikur | adj | voiceless
+zëmatës | noun | sound meter
+zështerur | adj | hoarse
+zëthekur | adj | shrill
+zjarrshuar | adj | with extinguished fire
+zoglarë | noun | speckled birds
+zogjëri | noun | birds
+zorrëbosh | adj | famished
+zorrëhollë | adj | thin
+zorrëngushtë | adj | stingy
+zverkderr | adj | thick-necked
+zhburgim | noun | release from prison
+zhburokratizim | noun | debureaucratization
+zhburokratizoj | verb | debureaucratize
+zhdetyroj | verb | exempt
+zhdymëzim | noun | degemination
+zhdymëzoj | verb | degeminate
+zhdhjamos | verb | degrease
+zhdhjamosje | noun | degreasing
+zhgëlqerëzim | noun | decalcification
+zhgëlqerëzoj | verb | decalcify
+zhgozhdim | noun | unnailing
+zhgozhdoj | verb | unnail
+zhgradoj | verb | demote
+zhgjakësim | noun | bleeding
+zhgjymtyroj | verb | dismember
+zhvarruar | adj | exhumed
+zhvërtetim | noun | refutation
+zhvërtetoj | verb | refute
+zhvulos | verb | unseal
+zhvulosje | noun | unsealing
+zhvullnetur | adj | listless
