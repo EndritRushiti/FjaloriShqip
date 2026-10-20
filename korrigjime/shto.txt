@@ -36760,3 +36760,230 @@ risaktësoj | verb | re-specify
 rrugënajë | noun | long road
 shkronjëbardhë | adj | illiterate
 shpënie | noun | conveyance
+# ── ft4.new.tsv ──
+shpëtesë | noun | rescue
+shtatvigan | adj | giant-statured
+shumënduarshëm | adj | multifarious
+sitëse | noun | sifter
+tjetërpasnesër | adv | in three days
+verdhëllemë | adj | bright yellow
+vetullvarur | adj | glum
+vishnjak | noun | cherry liqueur
+vitpasvitshëm | adj | yearly
+ymërgjatë | adj | long-lived
+ymërshkurtër | adj | short-lived
+zagushitur | adj | sultry
+zellmadh | adj | zealous
+zemërnik | adj | kind-hearted
+zhagitem | verb | drag oneself
+ëndrrashumë | adj | dreamy
+armatues | noun | steel fixer
+athtësoj | verb | sour
+beqarllëk | noun | bachelorhood
+buzëpërdredhur | adj | sneering
+dorëngushtë | adj | stingy
+dyvlershëm | adj | two-valued
+ethacak | adj | feverish
+flokëdendur | adj | thick-haired
+fshikurazi | adv | with lashes
+gjuhëtharë | adj | parched
+gramor | adj | gram
+kapërdimthi | adv | gulping
+kërthazi | adv | sideways
+llafatar | adj | talkative
+llafeshumë | adj | chatty
+lulekadife | noun | marigold
+lulemëllagë | noun | mallow flower
+mbifitoj | verb | overearn
+mbikrah | adv | on the arm
+mbilëkurë | adj | on the skin
+mbivetull | adv | above the brow
+merimangore | adj | spidery
+mustaqepërdredhur | adj | with twirled moustache
+mëmëzim | noun | mothering
+njëhopshëm | adj | sudden
+njëzaj | adv | alike
+nurmadh | adj | very charming
+nyjëtues | adj | articulating
+pagjykim | adv | thoughtlessly
+pangjyrësi | noun | colourlessness
+papandehurazi | adv | unexpectedly
+parakuptoj | verb | presuppose
+pashquarsi | noun | indistinctness
+pazanat | adj | unskilled
+pluhurim | noun | pulverization
+porsavjelë | adj | freshly picked
+prejemëror | adj | denominal
+përvajtim | noun | lamentation
+qafëkëputur | adj | wretched
+qimedendur | adj | thick-haired
+qimerënë | adj | balding
+qiqërim | noun | chirping
+rigëlltit | verb | re-swallow
+shpirtbrengosur | adj | sorrowful
+squllem | verb | wilt
+stërkal | verb | splash
+tamahqarllëk | noun | greed
+tejbart | verb | transfer
+tekandej | adv | that way
+themeldalë | adj | collapsed
+tjetëror | adj | other's
+tjetërpardje | adv | three days ago
+topsheqer | noun | sugar lump
+tradhmend | adj | scheming
+tufalak | noun | small bunch
+turimajmun | adj | monkey-faced
+tërholl | verb | draw out
+ullinjore | adj | olive
+vetëfajësues | adj | self-blaming
+vetëshlyerje | noun | self-cancellation
+xunkthore | adj | rushy
+zemërdhembshëm | adj | compassionate
+zgajtje | noun | lengthening
+zhbrej | verb | lower
+zëmërherë | adv | sometimes
+aksidentoj | verb | have an accident
+akuadrom | noun | water stadium
+akullirë | noun | thin ice
+baltishtë | noun | muddy place
+barrësim | noun | burdening
+bashkëmbështetur | adj | mutually supported
+belgjerë | adj | broad-waisted
+besëkotësi | noun | faithlessness
+bishtarak | adj | tailed
+bukësheqere | noun | sweet bread
+bullamaç | noun | flour porridge
+dengëza | noun | small bundle
+dhjamëzim | noun | fattening
+djerroj | verb | leave fallow
+dyllojtë | adj | of two kinds
+dyzanor | adj | diphthong
+ekuivalentoj | verb | equate
+eptueshëm | adj | flexible
+errtas | adv | in the dark
+faqeverdhë | adj | sallow
+ferrëbutë | noun | soft bramble
+fishkëllor | adj | whistling
+fismëri | noun | nobility
+fuqishumë | adj | mighty
+gjysmëburrë | noun | weakling
+gojëqepur | adj | tight-lipped
+gropthi | adv | into a hole
+gërgërimë | noun | gargling
+hapakrah | adv | with open arms
+hapshpejtë | adj | fast-paced
+hiçgjësend | pron | nothing at all
+koperton | noun | tyre
+kriptogame | noun | cryptogam
+kthjelltësoj | verb | clarify
+kushtetim | noun | conditioning
+leshhollë | adj | fine-wooled
+leskërim | noun | peeling
+lezetim | noun | embellishment
+lugëtar | noun | spoon maker
+lulembajtëse | noun | flower holder
+lulenuse | noun | bride flower
+lulezonjë | noun | lady flower
+mpleksem | verb | get entangled
+mustaqefshesë | adj | bushy-moustached
+ndajnatëherë | adv | at that time
+ngjyrëtrëndafil | adj | rose-coloured
+ngrohtar | noun | heater
+njollim | noun | staining
+njëmenjë | adj | unanimous
+njësojshmëri | noun | sameness
+pakureshtje | noun | incuriosity
+pangjyrshëm | adj | colourless
+pavendosmërisht | adv | indecisively
+picigjatë | adj | long-feathered
+pjektore | adj | baking
+plotpjesëtues | noun | exact divisor
+poshtas | adv | below
+preventivim | noun | budgeting
+përbluaj | verb | grind
+përbrendëse | adj | inner
+përfundëse | adj | final
+përherëblertë | adj | evergreen
+përpuqje | noun | collision
+përtejas | adv | beyond
+ribetohem | verb | swear again
+rraptim | noun | snatching
+rriskim | noun | slicing
+shpërball | verb | confront
+shtatëdhjetëvjetor | noun | seventieth anniversary
+shtrembanik | adj | contrary
+syqershi | adj | cherry-eyed
+syëmbël | adj | sweet-eyed
+tejzgjatem | verb | overextend
+tharmëtues | adj | leavening
+thjeshtligjërimor | adj | of reported speech
+topore | adj | cannon
+triare | adj | threefold
+trupazi | adj | dark-bodied
+trupicë | noun | small body
+vetmueshëm | adj | solitary
+vonestar | adj | tardy
+xixëllimtar | adj | twinkling
+ylberim | noun | iridescence
+zezoj | verb | blacken
+zgavrim | noun | hollowing
+zhurmërues | adj | noisy
+zjarrtar | adj | fiery
+çehrevrenjtur | adj | scowling
+afërsishëm | adj | approximate
+asfarëgjë | pron | nothing
+avullmatës | noun | steam gauge
+avullsjellës | noun | steam pipe
+besëshkelje | noun | betrayal
+birvrasës | noun | filicide
+buzëkyçur | adj | tight-lipped
+dashalig | adj | malevolent
+djersëhumbur | adj | worn out
+dritëpritëse | adj | light-receiving
+faqeprush | adj | rosy-cheeked
+fillimmuaj | noun | beginning of the month
+fjalënuse | adj | honey-tongued
+flokëpërpjetë | adj | with hair on end
+frymëkëputur | adj | breathless
+frymënxjerrës | adj | exhaling
+gjysmëdremitje | noun | doze
+gojëlirë | adj | outspoken
+hamallisht | adv | like a porter
+kokërrbardhë | adj | white-grained
+kryebosh | adj | empty-headed
+kryeshkallë | noun | top step
+këshillëmirë | adj | well-advising
+lidhtar | noun | binder
+lulerritës | noun | flower grower
+mbibishtëz | noun | tail covert
+mbifushë | adv | above the field
+mbingroh | verb | overheat
+mbiprodukt | noun | surplus product
+mbylltësi | noun | reticence
+mirëseardh | verb | welcome
+mullarthi | adv | in a heap
+ndërgishte | adv | between the fingers
+ngutthi | adv | hastily
+njësojshëm | adj | identical
+orëvdekur | adj | ill-starred
+paerrësueshëm | adj | unfading
+pamotër | adj | sisterless
+parimorësi | noun | principledness
+pellgishte | noun | marshland
+peshimthi | adv | by weight
+pikëderdhje | noun | outflow point
+plakarec | noun | little old man
+prapavendosje | noun | postponement
+proverbor | adj | proverbial
+prushërimë | noun | embers
+përmbylltas | adv | face down
+përthelloj | verb | deepen
+qindare | noun | coin
+qëlashti | adv | since ancient times
+rrafshatak | adj | flat
+rrafshnajë | noun | plain
+rrethatim | noun | encirclement
+rrethsjellje | noun | circulation
+rrëmujëmadh | adj | chaotic
+rrënore | adj | ruinous
+rrëzëllyer | adj | radiant
