@@ -38155,3 +38155,156 @@ dritëlargësi | noun | far-sightedness
 dritëlargët | adj | far-sighted
 dritëpërshkueshëm | adj | translucent
 dritëshuar | adj | blinded
+# ── fu3.new.tsv ──
+drithëngrënës | adj | grain-eating
+drithërishtë | noun | grain field
+druajturazi | adv | timidly
+drunjëzohet | verb | lignify
+drunjëzon | verb | lignify
+drungrënës | adj | wood-boring
+duajlidhës | noun | sheaf binder
+duarmpirë | adj | numb-handed
+duarngrirë | adj | frozen-handed
+durimthi | adv | patiently
+dushkishtë | noun | oak scrub
+dybarkor | adj | biventral
+dyfijësh | adj | two-ply
+dyflatror | adj | two-winged
+dyfytyrak | adj | two-faced
+dykalimësh | adj | two-pass
+dykurrizor | adj | two-humped
+dyllojshmëri | noun | duality
+dymbëdhjetëgishtëz | noun | duodenum
+dyqindtë | num | two-hundredth
+dyshas | adv | in pairs
+dyshekpunues | noun | mattress maker
+dyshkolonë | adj | two-column
+dytehtë | adj | double-edged
+dythelbor | adj | two-cored
+dhallëshitës | noun | buttermilk seller
+dhembjeprurës | adj | painful
+dhembjeqetësues | adj | pain-relieving
+dhëmbëbrisk | adj | sharp-toothed
+dhëmbëfildishtë | adj | ivory-toothed
+dhëmbëhapur | adj | gap-toothed
+dhëmbëjashtë | adj | buck-toothed
+dhëmbëqen | adj | dog-toothed
+dhëmbërruazë | adj | pearly-toothed
+dhëmbëzezë | adj | black-toothed
+dhëndërisht | adv | like a bridegroom
+dhëndërohem | verb | become a bridegroom
+dhjamësi | noun | fatness
+dhjamëzoj | verb | fatten
+dhjetëkëmbësh | noun | decapod
+dhjetëqindarkësh | adj | ten-qindarka
+dhjetërrokësh | adj | decasyllabic
+dhjetësoj | verb | decimalize
+dhjetëzaj | adv | tenfold
+egras | adv | fiercely
+egjërishtë | noun | darnel field
+ekstrakttanin | noun | tannin extract
+elbërishtë | noun | barley field
+emërharruar | adj | forgotten
+emërshuar | adj | nameless
+erëdredhë | adj | scatterbrained
+eshtërak | adj | big-boned
+eshtërohet | verb | ossify
+eshtërtrashë | adj | heavy-boned
+etimologjizoj | verb | etymologize
+ëmbëlosh | adj | sweetish
+ëmbëltohem | verb | sweeten
+ëndërritje | noun | dreaming
+ëndrras | adv | dreamily
+faqedjersitur | adj | sweaty-faced
+faqembushur | adj | chubby-cheeked
+faqepalarë | adj | disgraced
+faqepjeshkë | adj | peach-cheeked
+faqerrumbullak | adj | round-cheeked
+faqeshegë | adj | rosy-cheeked
+faqetrëndafil | adj | rose-cheeked
+faqethatë | adj | hollow-cheeked
+farefisni | noun | kinsfolk
+farëhumbur | adj | without offspring
+farëshuar | adj | extinct
+farkëtueshmëri | noun | malleability
+fatbardhësoj | verb | make lucky
+fatkeqësoj | verb | make unhappy
+fatmirësoj | verb | make happy
+fathumbur | adj | luckless
+ferrëmi | noun | bramble
+festemënjanë | adj | cocky
+fijeshkurtër | adj | short-fibred
+fillkeq | adj | ill-starred
+fillmirë | adj | auspicious
+fillnisës | noun | beginner
+fillruajtës | noun | insulator
+filxhanthi | noun | small cup
+fitimdhënës | adj | profitable
+fitilvënës | noun | fuse setter
+fjalashpër | adj | harsh-spoken
+fjalëkëmbim | noun | exchange of words
+fjalëlashtë | adj | archaic-worded
+fjalëthyer | adj | broken-tongued
+flakërueshëm | adj | flammable
+flakëshues | adj | fire-extinguishing
+flashkësi | noun | flabbiness
+fletëdendur | adj | leafy
+fletëhollë | adj | thin-leaved
+fletëlirim | noun | discharge paper
+fletëpajtim | noun | subscription form
+fletërënës | adj | deciduous
+fletëshërbim | noun | service order
+fletëshoqërim | noun | delivery note
+fletëtrashë | adj | thick-leaved
+flokargjend | adj | silver-haired
+flokashpër | adj | coarse-haired
+flokëlëshuar | adj | with loose hair
+flokëpalarë | adj | unkempt
+flokëpërhimë | adj | grey-haired
+flokëpraruar | adj | golden-haired
+flokërrallë | adj | thin-haired
+flokëshpeshtë | adj | thick-haired
+flokështrigë | adj | wild-haired
+flokor | adj | hair
+fluturashkë | noun | small butterfly
+fonetikan | noun | phonetician
+forcëmatës | noun | dynamometer
+fosfatoj | verb | phosphate
+fosforoj | verb | phosphorize
+fotomontim | noun | photomontage
+fotoreklamë | noun | photo advertisement
+fronëzoj | verb | enthrone
+frymëmbaruar | adj | out of breath
+frymëshuar | adj | lifeless
+fshesëtar | noun | broom maker
+fuçibërës | noun | cooper
+fuçipunues | noun | cooper
+fugëzoj | verb | grout
+fundmbrëmje | noun | late evening
+fuqipaktë | adj | feeble
+fushëpyll | noun | wooded plain
+fytyrëmace | adj | cat-faced
+fytyrëmajmun | adj | monkey-faced
+fytyrëpalarë | adj | shamed
+fytyrëqen | adj | shameless
+gardhënoj | verb | fence
+gardhëtar | noun | fence maker
+gazmendshëm | adj | cheerful
+gdhendari | noun | carving
+gëlqerinë | noun | lime
+gëlqerishtë | noun | limestone area
+gëlqerizoj | verb | lime
+gëlqerohet | verb | be limed
+gëlltimë | noun | gulp
+gërgëritje | noun | gargle
+gërmadhoj | verb | ruin
+gishtëzim | noun | digitation
+gojëfarkuar | adj | sharp-tongued
+gojëgjarpër | adj | venomous
+gojëkuti | adj | tight-lipped
+gojëlëshuar | adj | loose-tongued
+gojëluan | adj | lion-mouthed
+gojëmbajtur | adj | reticent
+gojënepërkë | adj | viper-tongued
+gojëpalarë | adj | foul-mouthed
+gojëqershi | adj | cherry-lipped
