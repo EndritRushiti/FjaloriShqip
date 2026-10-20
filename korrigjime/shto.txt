@@ -36480,3 +36480,283 @@ gjysmëndenjur | adj | half-seated
 gjysmërruzull | noun | hemisphere
 hungërues | adj | grumbling
 kokrrizim | noun | granulation
+# ── ft3.new.tsv ──
+mashtrapë | noun | water jug
+njësisht | adv | equally
+njëtash | adv | right now
+paravesh | verb | coat beforehand
+pjellak | adj | fertile
+përshëndoshje | noun | recovery
+rindreq | verb | repair again
+shimbledhës | noun | rain collector
+vetëqenie | noun | self-existence
+vjetërsisht | adv | in the old way
+atdhesor | adj | patriotic
+barkdreq | adj | wicked
+bishttundur | adj | fawning
+byreçkë | noun | small pie
+dokthi | adv | customarily
+fitimshëm | adj | profitable
+gatitor | adj | preparatory
+gjysmëgjallë | adj | half-dead
+guximdhënës | adj | encouraging
+kokodash | noun | blockhead
+kokëmish | adj | dim-witted
+krikëllimë | noun | creaking
+kripth | noun | pinch of salt
+kryebashki | noun | main municipality
+ksenoman | noun | xenomaniac
+këmbëlesh | adj | hairy-legged
+mandapostë | noun | postal order
+miellzim | noun | milling
+mjekërcjap | adj | goatee-bearded
+nëpërdhëmb | verb | mutter
+pafisëm | adj | lowborn
+pakmos | adv | at least
+parapres | verb | precut
+pikëmadh | adj | large-spotted
+pyetshëm | adj | interrogative
+përthinjur | adj | greying
+skuthëri | noun | laziness
+stërshes | verb | resell
+superstrukturor | adj | superstructural
+tekamadh | adj | capricious
+telekronikë | noun | TV news report
+teptis | verb | overdo
+vetëmohueshëm | adj | self-denying
+ëndërrvrarë | adj | disillusioned
+barkashor | adj | pot-bellied
+beharor | adj | spring
+degëvarur | adj | drooping
+diellim | noun | sunning
+fqinjësisht | adv | neighbourly
+gjashtare | noun | six
+imambajalldi | noun | imam bayildi
+inondatë | noun | flood
+kafshërim | noun | brutalization
+ledhim | noun | embanking
+ligaç | adj | feeble
+melth | noun | liver
+mizërim | noun | multitude
+orëzi | adj | ill-fated
+paajër | adj | airless
+parakthinë | noun | antechamber
+paraprurës | noun | harbinger
+pushatak | adj | downy
+pushbutë | adj | soft-downed
+qerthullim | noun | encirclement
+shtronjar | noun | layer
+sygacë | adj | fiery-eyed
+syvëngër | adj | squint-eyed
+tejas | adv | right through
+thëthitje | noun | sucking
+trashullak | adj | chubby
+turiderr | adj | pig-faced
+vetëngarkues | adj | self-loading
+vogëlak | adj | tiny
+zhdetyrim | noun | exemption
+zhdryj | verb | unlock
+çehreprishur | adj | sullen
+apasionohem | verb | become passionate
+athëtirë | noun | tartness
+ballëngrysur | adj | frowning
+bregëzim | noun | shoreline formation
+brinjëdalë | adj | gaunt
+brufullim | noun | swelling
+cingërues | adj | chirping
+dosidoshëm | adj | ordinary
+fjalëkotë | adj | idle-talking
+gjakndezur | adj | hot-blooded
+gjysmëvdekur | adj | half-dead
+gozhdar | noun | nail maker
+handakos | verb | crush
+kaditshëm | adj | pleasing
+kaluarthi | adv | in passing
+kambaneri | noun | bell tower
+katundarisht | adv | rustically
+kohëqëndrim | noun | length of stay
+kristianizoj | verb | Christianize
+lanetisur | adj | cursed
+luletogëz | noun | daisy
+luspak | adj | scaly
+mbisup | adj | shoulder-borne
+mendjendryshkur | adj | rusty-minded
+nostrom | noun | boatswain
+paranderë | noun | advance honour
+pularritës | noun | poultry farmer
+përtejvarr | adv | beyond the grave
+riparaqes | verb | resubmit
+rithith | verb | reabsorb
+shpërgjum | verb | awaken
+shtazëror | adj | bestial
+shtratim | noun | bed rest
+stërhell | noun | big spit
+tejdukje | noun | transparency
+tjetërparvjet | adv | three years ago
+vjeturinë | noun | old stuff
+çdojavshëm | adj | weekly
+aeronaut | noun | aeronaut
+afshon | verb | steam
+akullsirë | noun | frost
+baltëpunues | noun | potter
+barasnatë | noun | equinox
+barkpangopur | adj | insatiable
+currufjasur | adj | badly shaven
+decigram | noun | decigram
+dhëmbëkrimbur | adj | with decayed teeth
+dijekeq | adj | malicious
+dredhisht | adv | cunningly
+fjalëmprehtë | adj | sharp-tongued
+fjalëshpatë | adj | cutting
+flokëkashtë | adj | straw-haired
+ftillëzim | noun | explanation
+fundërresë | noun | sediment
+gjakpërlyer | adj | blood-smeared
+gjilpëryer | adj | pricked
+gjysmëmbrojtje | noun | partial defence
+grykëzënë | adj | choked
+hatërmadh | adj | highly esteemed
+ideshëm | adj | imaginative
+lepurushkë | noun | little hare
+mbiujshëm | adj | above water
+mëveshti | adv | by ear
+ndërkëmbje | noun | exchange
+njëkombës | adj | mono-national
+nënuje | adj | underwater
+orëprerë | adj | ill-fated
+pafillë | adj | threadless
+palodhshmërisht | adv | tirelessly
+pavëlla | adj | brotherless
+përpuqur | adj | collided
+përtokas | adv | on the ground
+ripërshtat | verb | readapt
+sedërqar | adj | proud
+shahthi | adv | chess-like
+shkresaxhi | noun | clerk
+shkrumbosje | noun | charring
+shtiekeq | adj | poor shot
+siprazi | adv | superficially
+stilokalem | noun | ballpoint pen
+sypërgjumur | adj | sleepy-eyed
+tepelek | noun | hilltop
+tharmues | adj | fermenting
+thikshëm | adj | knife-sharp
+trudalë | adj | crazy
+trupselvi | adj | slender
+udhishtë | noun | path
+veremos | verb | consume
+vetëkomandim | noun | self-command
+zezelinë | noun | blackness
+zhulaq | adj | grubby
+zilishëm | adj | envious
+ballërrudhur | adj | frowning
+bishtkëputur | adj | bobtailed
+bojëmanushaqe | adj | violet
+bregujor | adj | coastal
+buçimtar | adj | booming
+bythëpraptas | adv | backwards
+derrërisht | adv | piggishly
+djerrishtë | noun | fallow land
+dritëpakë | adj | dim
+dumbushere | adj | plump
+faqelarë | adj | honourable
+farishtore | noun | seedbed
+fjalëtar | noun | lexicographer
+fletëmbajtës | noun | paper holder
+fytyrëpaqeshur | adj | unsmiling
+gjuhëzënë | adj | tongue-tied
+gjysmëpeshk | noun | half-fish
+gojëmbërthyer | adj | tight-lipped
+gulçueshëm | adj | panting
+hënëplotë | noun | full moon
+jetëkëputur | adj | short-lived
+katërnjak | noun | quatrain
+kockanjar | adj | bony
+kokështypur | adj | crestfallen
+kryefill | noun | main thread
+kundërmësymës | noun | counterattacker
+kuturli | adj | reckless
+lëngështim | noun | liquefaction
+mllefqar | adj | spiteful
+mosmëprek | noun | touch-me-not
+ndërkëmbës | noun | exchanger
+ndërvarem | verb | be interdependent
+nurzi | adj | plain-looking
+orëlig | adj | unlucky
+orëmadh | adj | lucky
+parapleqëri | noun | late middle age
+pushëzim | noun | downiness
+përqethur | adj | trimmed
+qimëzim | noun | hair growth
+riderdh | verb | recast
+rimishëroj | verb | reincarnate
+rrezeplotë | adj | radiant
+rëndësirë | noun | heaviness
+rëntgenografi | noun | radiography
+shegore | adj | pomegranate-red
+shenjëdhënës | noun | signaller
+shkreptimtar | adj | flashing
+shkrifërues | noun | loosener
+shpirtthatë | adj | callous
+shtatpaktë | adj | short
+shtatëvjeç | adj | seven-year-old
+shtratgjerë | adj | broad-bedded
+syblertë | adj | green-eyed
+sygjarpër | adj | snake-eyed
+udhore | adj | road
+vajtimthi | adv | wailing
+veshngritur | adj | alert
+vetëkurdisje | noun | self-winding
+xhiblik | noun | head ornament
+zezim | noun | blackening
+zëzëllimë | noun | buzzing
+çfarëmos | pron | whatever
+akaparues | noun | hoarder
+banjore | adj | bath
+bukosje | noun | swelling
+derëkyçur | adj | behind closed doors
+dorëbutë | adj | gentle-handed
+engjëllzim | noun | angelization
+esëllim | noun | clearing
+fillzi | adj | pitch-black
+fotokronikë | noun | photo report
+gjelbëremë | adj | greenish
+gjuhënuse | adj | sweet-tongued
+gjysmim | noun | halving
+gjysmëkalë | noun | centaur
+gojëshpatë | adj | sharp-tongued
+grunishtë | noun | wheat field
+gulfë | noun | gulp
+gushëpëllumb | adj | pigeon-breasted
+hijekeq | adj | sinister-looking
+hithërore | adj | nettle
+jargëzor | adj | slimy
+kokëbuall | adj | bull-headed
+kokëshinik | adj | big-headed
+krimbalesh | adj | wormy
+kryethatë | adj | dull
+kuqësi | noun | redness
+lavomë | noun | washbasin
+luleqershi | noun | cherry blossom
+mirëqeveris | verb | govern well
+mëmëzonjë | noun | lady of the house
+ngacmimtar | adj | provocative
+nocionor | adj | notional
+nëpërdhëmbje | noun | muttering
+pendërënë | adj | moulting
+prapavendos | verb | postpone
+puplajë | noun | feather
+përmut | verb | befoul
+përshkoqur | adj | husked
+përthaj | verb | partly dry
+përtymur | adj | smoked
+përvajtueshëm | adj | lamentable
+qafërrjepur | adj | scraped-necked
+qerratallëk | noun | trickery
+qyshmos | adv | however
+rikoshetoj | verb | ricochet
+ringjyros | verb | recolour
+risaktësoj | verb | re-specify
+rrugënajë | noun | long road
+shkronjëbardhë | adj | illiterate
+shpënie | noun | conveyance
