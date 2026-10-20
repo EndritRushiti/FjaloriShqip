@@ -36234,3 +36234,249 @@ lulëzore | adj | floral
 punëdhënie | noun | employment
 qejfpaprishur | adj | easy-going
 syshtrembër | adj | cross-eyed
+# ── ft2.new.tsv ──
+telendi | noun | idler
+llurbëtirë | noun | slush
+tymtar | noun | heavy smoker
+karkacul | noun | dry twig
+kreshmim | noun | Lenten fasting
+mërdhez | verb | shiver with cold
+përndritshëm | adj | shining
+shkullore | noun | retting place
+sypamës | adj | inexperienced
+kokëgdhe | adj | thick-headed
+shpirtdjegur | adj | heartbroken
+tullaxhi | noun | brickmaker
+vetullzi | adj | dark-browed
+kryengul | adj | stubborn
+namusqar | adj | honourable
+zëmekur | adj | faint-voiced
+çalltis | verb | botch
+muzikim | noun | setting to music
+nepsqar | adj | greedy
+qeshqek | adj | giggly
+varavinga | adv | dangling
+çapkënçe | adv | mischievously
+krupshëm | adj | disgusting
+njëviti | adj | one-year-old
+përpirje | noun | devouring
+shtrëngicë | noun | predicament
+doketar | noun | traditionalist
+emërndritur | adj | renowned
+fytyrëndritur | adj | beaming
+gjithunji | adv | all alike
+kopirajt | noun | copyright
+kërkëllin | verb | crackle
+lapërdhar | adj | foul-mouthed
+lodërti | noun | playfulness
+thatak | adj | scrawny
+burbujë | noun | bubble
+dekagram | noun | decagram
+foshnjërisht | adv | childishly
+llangos | verb | lap up
+mustaqepadirsur | adj | beardless youth
+pëgërje | noun | soiling
+riburgos | verb | reimprison
+stërkuqur | adj | deep red
+tekëndej | adv | this way
+arratiak | noun | fugitive
+bishtpërpjetë | adj | cocky
+hapërdarje | noun | dispersal
+ksenomani | noun | xenomania
+lëkurçe | adj | leathern
+mërdhitur | adj | chilled
+pabarazisht | adv | unequally
+padashka | adv | inadvertently
+përtejbotë | noun | afterlife
+shpatuk | adj | flat
+besëshkelës | noun | oath-breaker
+dallgore | adj | wavy
+puthadoras | adv | hand-kissing
+stërlagës | adj | drenching
+tejngop | verb | surfeit
+zemërdredhur | adj | faint-hearted
+ballëfshehur | adj | shamefaced
+bredhëritje | noun | wandering
+dytrajtësi | noun | duality of form
+eshtërmadh | adj | big-boned
+fundbotë | noun | end of the world
+kinoditar | noun | newsreel
+kopanis | verb | beat
+magnetoskop | noun | video recorder
+mbrëmjesor | adj | evening
+ndërdyshur | adj | torn
+shpështjell | verb | unwrap
+vrumbullit | verb | rumble
+anëdet | noun | seashore
+ballëdjersitur | adj | hard-working
+bythëpërpjetë | adv | head over heels
+djegësim | noun | burning sensation
+fshehurisht | adv | secretly
+kokëngulthi | adv | headlong
+mendjefjetur | adj | slow-witted
+mendjefyell | adj | empty-headed
+paburrërisht | adv | cowardly
+perçegjatë | adj | long-haired
+spirilëng | adj | threadlike
+strehore | adj | sheltering
+sylarmë | adj | with speckled eyes
+sylynjar | adj | glassy-eyed
+veshngrehur | adj | alert
+buzëburbuqe | adj | rosebud-lipped
+fërfërimë | noun | rustle
+gjuhustër | adj | sharp-tongued
+kafkull | noun | small skull
+kokëdele | adj | sheepish
+kryekrushk | noun | chief wedding guest
+kërcimore | adj | dance
+liqenzë | noun | pond
+lëndimthi | adv | hurtfully
+pakënd | adj | listless
+rindodh | verb | recur
+shkrifërim | noun | loosening
+syjeshil | adj | green-eyed
+trundryshkur | adj | rusty-brained
+fytyrënxirë | adj | disgraced
+invazor | noun | invader
+kockëdalë | adj | bony
+mendjeshkretë | adj | empty-headed
+prishaqejf | noun | killjoy
+përhedhje | noun | scattering
+përngjashmim | noun | resemblance
+qimendritur | adj | glossy-haired
+sipërvendosur | adj | superimposed
+squllje | noun | limpness
+syhaptësi | noun | vigilance
+symëshqerrë | adj | doe-eyed
+vetëpërmbahem | verb | restrain oneself
+asgjëkafshë | pron | nothing at all
+barkngopur | adj | well-fed
+bubullitës | adj | thundering
+fatpadalë | adj | unlucky
+fytyrim | noun | imagining
+hijemadh | adj | imposing
+hutimthi | adv | bewilderedly
+kalamallëk | noun | trifle
+përndrydhje | noun | twisting
+përvjedhje | noun | pilfering
+ringroh | verb | reheat
+rrethnajë | noun | surroundings
+siglim | noun | abbreviating
+stërmoçëm | adj | ancient
+stërngopje | noun | surfeit
+sybajame | adj | almond-eyed
+vetëndizet | verb | self-ignite
+vrenjtësi | noun | gloominess
+aksidentim | noun | accident
+anëcak | adj | lateral
+buzëpaqeshur | adj | unsmiling
+dallgëshumë | adj | billowy
+dorëshkrues | noun | scribe
+mëdyshem | verb | waver
+pajandër | adj | lifeless
+përanshëm | adj | lateral
+përngjarje | noun | resemblance
+shpagesë | noun | payment
+shumëhershëm | adj | very early
+sipërvendos | verb | superimpose
+thatuk | adj | skinny
+verdhushkë | adj | yellowish
+anepërqark | adv | all around
+barkjashtë | adj | pot-bellied
+bojëgjak | adj | blood-red
+buzëçarë | adj | chapped-lipped
+flokërënë | adj | bald
+gjallshëm | adj | lively
+gjuhëshpatë | adj | sharp-tongued
+gojëbrisk | adj | sharp-tongued
+jokryesor | adj | secondary
+kompaktdisk | noun | compact disc
+mashkullim | noun | manhood
+mbingop | verb | overfeed
+petëzues | noun | rolling mill
+rizgjat | verb | re-extend
+sedërtar | adj | proud
+shpluhurosje | noun | dusting
+shtunak | adj | born on Saturday
+smerilim | noun | emery polishing
+sypërdhe | adv | downcast
+vetëkritikues | adj | self-critical
+zemërkatran | adj | black-hearted
+besëshkalë | adj | faithless
+brinjënjëshëm | adj | equilateral
+buzëtrashë | adj | thick-lipped
+gungalec | adj | hunchbacked
+hënajashtë | adv | in the moonlight
+kokëlopë | adj | dull-witted
+konfliktohem | verb | clash
+kryeultësi | noun | humility
+mendjefemër | adj | flighty
+mendjeshumë | adj | wise
+ndjellazi | adj | ominous
+ngrohtësirë | noun | warmth
+njëqindpërqindtë | adj | hundred-percent
+oborrësi | noun | courtliness
+rihyj | verb | re-enter
+zeherosur | adj | poisoned
+armëngjeshur | adj | armed
+ballësor | adj | frontal
+bardhësirë | noun | whiteness
+frymëprerë | adj | breathless
+fundërron | verb | settle
+gjunjëprerë | adj | worn out
+krahosh | adj | broad-shouldered
+këmbëters | adj | bow-legged
+lezetoj | verb | embellish
+mustaqespicë | adj | with pointed moustache
+mëngjesim | noun | breakfasting
+përkëdhelisht | adv | tenderly
+përngjasje | noun | resemblance
+përthur | verb | interweave
+qafëlesh | adj | stiff-necked
+qëmtesë | noun | gleaning
+shembëtirë | noun | ruin
+shpërblimtar | adj | rewarding
+shtatderdhur | adj | shapely
+smerilues | noun | emery polisher
+tëholl | verb | thin
+veshlepur | adj | long-eared
+veskeq | adj | vicious
+viganor | adj | gigantic
+zvarem | verb | crawl
+afërndenjës | noun | neighbour
+brumje | noun | kneading
+buçimtare | adj | roaring
+destemel | noun | hand towel
+epokëbërës | adj | epoch-making
+gjethedendur | adj | leafy
+hidhtësi | noun | bitterness
+jetëhumbur | adj | wasted
+kreshnikisht | adv | heroically
+këmbëzvarrë | adv | shuffling
+mbushamendje | noun | persuasion
+papartishëm | adj | non-partisan
+prushanë | noun | embers
+ripërkul | verb | rebend
+rakixhi | noun | raki maker
+shpirtar | adj | spiritual
+asnjëfarëlloj | pron | no kind of
+gjysmështrirë | adj | half-lying
+hapadollapa | noun | busybody
+mbërritshëm | adj | reachable
+mustaqebigë | adj | with forked moustache
+përvjedhurazi | adv | stealthily
+rivij | verb | come again
+rrethak | adj | round
+xhepzbrazur | adj | penniless
+zemërtharë | adj | hard-hearted
+anëpëranë | adv | everywhere
+bishtdhelpër | noun | foxtail
+dashatar | noun | well-wisher
+dhembjemadh | adj | grief-stricken
+farëhedhës | noun | sower
+fushator | adj | campaign
+gjithnjëshëm | adj | perpetual
+gjysmëndenjur | adj | half-seated
+gjysmërruzull | noun | hemisphere
+hungërues | adj | grumbling
+kokrrizim | noun | granulation
