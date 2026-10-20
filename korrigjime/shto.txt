@@ -31816,3 +31816,171 @@ feokromocitomë | noun | pheochromocytoma
 iteracion | noun | iteration
 reziliencë | noun | resilience
 koagul | noun | clot
+# ── g11.new.tsv ──
+biomarker | noun | biomarker
+piruvat | noun | pyruvate
+kanulë | noun | cannula
+amigdalë | noun | amygdala
+pafillimësi | noun | beginninglessness
+nanostrukturë | noun | nanostructure
+tastaturë | noun | keyboard
+simvastatinë | noun | simvastatin
+fronton | noun | pediment
+dekarboksilim | noun | decarboxylation
+endotel | noun | endothelium
+hemofiltrim | noun | haemofiltration
+ulçerim | noun | ulceration
+teniser | noun | tennis player
+problematizim | noun | problematization
+disparitet | noun | disparity
+rusifikim | noun | Russification
+kryesindikalist | noun | union leader
+libertin | noun | libertine
+katekumen | noun | catechumen
+hiperinsulinemi | noun | hyperinsulinaemia
+sekuencim | noun | sequencing
+gjeosferë | noun | geosphere
+krisobul | noun | chrysobull
+endospermë | noun | endosperm
+vazokonstriksion | noun | vasoconstriction
+permakulturë | noun | permaculture
+fletobligacion | noun | bond (finance)
+ndihmëskomisioner | noun | assistant commissioner
+solvencë | noun | solvency
+slajd | noun | slide
+departizim | noun | depoliticization of institutions
+judikaturë | noun | judiciary; case law
+laktobacil | noun | lactobacillus
+implikacion | noun | implication
+denominacion | noun | denomination
+pneumotoraks | noun | pneumothorax
+plejof | noun | play-off
+jugafrikan | adj | South African
+akaricid | noun | acaricide
+acetabul | noun | acetabulum
+amonium | noun | ammonium
+interoperabilitet | noun | interoperability
+angioedemë | noun | angioedema
+ejakulat | noun | ejaculate
+heterozid | noun | heteroside
+hipoalbuminemi | noun | hypoalbuminaemia
+disulfid | noun | disulphide
+leproz | adj | leprous
+deformitet | noun | deformity
+infiltrat | noun | infiltrate
+projektdokument | noun | draft document
+astrocitomë | noun | astrocytoma
+pejsmejker | noun | pacemaker
+macerim | noun | maceration
+mononitrat | noun | mononitrate
+inekzistencë | noun | non-existence
+glutaminë | noun | glutamine
+kondilomë | noun | condyloma
+aspiracion | noun | aspiration
+retinoid | noun | retinoid
+centralitet | noun | centrality
+nanorobot | noun | nanorobot
+hipervitaminozë | noun | hypervitaminosis
+peletizim | noun | pelletizing
+duktilitet | noun | ductility
+endoprotezë | noun | endoprosthesis
+autotransformator | noun | autotransformer
+resekcion | noun | resection
+makrorajon | noun | macro-region
+hialuronat | noun | hyaluronate
+hidroklorur | noun | hydrochloride
+uebkamerë | noun | webcam
+ondulim | noun | undulation
+peshmergë | noun | Peshmerga
+etnizim | noun | ethnicization
+radiokirurgji | noun | radiosurgery
+historicitet | noun | historicity
+patentshofer | noun | driving licence
+kuboid | noun | cuboid
+stromatolit | noun | stromatolite
+devastim | noun | devastation
+kolokvium | noun | colloquium
+hibernim | noun | hibernation
+asimilat | noun | assimilate
+hemicelulozë | noun | hemicellulose
+instruktazh | noun | briefing, instruction
+patelë | noun | patella
+koloid | noun | colloid
+privativ | adj | privative
+felodipinë | noun | felodipine
+epididimis | noun | epididymis
+mineralokortikoid | noun | mineralocorticoid
+imipraminë | noun | imipramine
+autorrugë | noun | motorway
+hibiskus | noun | hibiscus
+flatulencë | noun | flatulence
+heksan | noun | hexane
+gëlqerëzim | noun | calcification
+metabisulfit | noun | metabisulphite
+angioplastikë | noun | angioplasty
+fenotiazinë | noun | phenothiazine
+katafalk | noun | catafalque
+hemiparezë | noun | hemiparesis
+kartilag | noun | cartilage
+transudat | noun | transudate
+epoksid | noun | epoxide
+nanotub | noun | nanotube
+dermatofitozë | noun | dermatophytosis
+eritritol | noun | erythritol
+mikrogjallesë | noun | microorganism
+pseudovlerë | noun | pseudo-value
+pelikulë | noun | film, thin layer
+ekstremum | noun | extremum
+bilardist | noun | billiards player
+centriol | noun | centriole
+glukoneogjenezë | noun | gluconeogenesis
+osteomalaci | noun | osteomalacia
+vaksinator | noun | vaccinator
+koitus | noun | coitus
+makromolekulë | noun | macromolecule
+misteriozitet | noun | mysteriousness
+konkuistador | noun | conquistador
+muzealizim | noun | musealization
+monetizim | noun | monetization
+konfeksionim | noun | garment making
+instrumentim | noun | instrumentation
+barotraumë | noun | barotrauma
+videoinstalacion | noun | video installation
+postmodernitet | noun | postmodernity
+endotoksinë | noun | endotoxin
+paradiabet | noun | prediabetes
+triazhim | noun | triage
+starletë | noun | starlet
+kasting | noun | casting
+meningeomë | noun | meningioma
+lobul | noun | lobule
+fumarat | noun | fumarate
+anandamid | noun | anandamide
+venotonik | noun | venotonic
+paramedik | noun | paramedic
+neurodermatit | noun | neurodermatitis
+hoplit | noun | hoplite
+oksiacid | noun | oxyacid
+katehinë | noun | catechin
+debutant | noun | debutant
+mikrogrimcë | noun | microparticle
+variancë | noun | variance
+plejmejker | noun | playmaker
+anafazë | noun | anaphase
+dekontekstualizim | noun | decontextualization
+hiperhidrozë | noun | hyperhidrosis
+apostilim | noun | apostille certification
+diastazë | noun | diastase
+gjeomjedis | noun | geo-environment
+serpentin | noun | serpentine
+klirens | noun | clearance (renal)
+konkubinazh | noun | concubinage
+toster | noun | toaster
+frenulum | noun | frenulum
+aminofilinë | noun | aminophylline
+ekzon | noun | exon
+superfitim | noun | windfall profit
+prokainamid | noun | procainamide
+trakeobronkit | noun | tracheobronchitis
+subspecialitet | noun | subspecialty
+liberaldemokrat | noun | liberal democrat
