@@ -31589,3 +31589,22 @@ verëshitës | noun | wine seller
 këpucëlustrues | noun | shoeshiner
 shteghapës | noun | pathfinder
 besëmbajtës | adj | trustworthy
+# ── g7.new.tsv ──
+fikh | noun | Islamic jurisprudence
+sunnet | noun | Sunnah
+ixhtihad | noun | ijtihad
+medhheb | noun | madhhab (school of Islamic law)
+hixhri | adj | Hijri
+ilahi | noun | ilahi (religious hymn)
+umet | noun | ummah
+sahab | noun | companion of the Prophet
+sure | noun | sura
+hanefi | adj | Hanafi
+ihram | noun | ihram
+mekruh | adj | disliked (Islamic law)
+halal | adj | halal
+shejh | noun | sheikh
+delir | noun | delirium
+aset | noun | asset
+dijeni | noun | knowledge, awareness
+dismenore | noun | dysmenorrhoea
