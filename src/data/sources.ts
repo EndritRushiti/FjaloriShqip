@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege";
 
 export interface SourceInfo {
   id: SourceId;
@@ -287,6 +287,31 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet e Dozonit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre. Fjalët turke e greke të fjalorthit lihen jashtë.",
       en: "Dozon's definitions are not copied; only the words and their meaning are taken. The Turkish and Greek loans in the vocabulary are left out.",
+    },
+  },
+
+  hplt: {
+    id: "hplt",
+    name: "HPLT v2, korpusi i pastruar shqip / cleaned Albanian web corpus",
+    publisher: "High Performance Language Technologies (HPLT) project",
+    url: "https://hplt-project.org/datasets/v2.0",
+    licence: "CC0 1.0",
+    licenceUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+    usedFor: {
+      sq: "Vetëm numërimi i fjalëve: për të konfirmuar se një fjalë ose një formë dialektore përdoret. Nuk kopjohet asnjë tekst.",
+      en: "Word counts only: to confirm that a word or a dialect form is in use. No text is copied.",
+    },
+  },
+  "korpus-gege": {
+    id: "korpus-gege",
+    name: "FjaloriShqip: forma gege të rregullta të gjetura në korpuse / regular Gheg forms found in the corpora",
+    publisher: "FjaloriShqip, nga numërimet e fjalëve në MaCoCu, HPLT dhe Wikipedia shqip",
+    url: "https://github.com/EndritRushiti/FjaloriShqip/blob/main/dialekte/korpus-gege.tsv",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Pjesoret dhe paskajoret gege në -ue (me punue) dhe mbiemrat në -uem (i punuem) të foljeve në -oj, secila e lidhur me fjalën standarde. Merren vetëm format që përdoren të paktën 10 herë në korpuse.",
+      en: "Gheg participles and infinitives in -ue (me punue) and adjectives in -uem (i punuem) of verbs in -oj, each linked to its standard word. Only forms used at least 10 times in the corpora are taken.",
     },
   },
 
