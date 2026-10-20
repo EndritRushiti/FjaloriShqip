@@ -5,24 +5,24 @@
 # plain dropping of a final -ë (balt for baltë) is not listed. Meanings translated from Jungg's Italian into English.
 # Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word (empty if none)<TAB>English meaning<TAB>page<TAB>Jungg's spelling
 akikat	gheg	noun	m	sinqeritet	sincerity		akikat, hakikat
-akikatli	gheg	adj			sincere		akikatlii
+akikatli	gheg	adj		sinqertë	sincere		akikatlii
 aksham	gheg	noun	m	mbrëmje	sunset, evening		akscam
 ashçihane	gheg	noun	f	kuzhinë	kitchen		akscihane
 ashçi	gheg	noun	m	kuzhinier	cook		akscii
 hal	gheg	noun	f	halë	fishbone		al, hal
 ala	gheg	adv		ende	still, yet		alaa
 alamet	gheg	noun	m		document; sign		alamet
-allagak	gheg	noun	m		credit		aXagak
-allagakçi	gheg	adj			creditor		aXagakcii
-allçi	gheg	noun	f	allçi	plaster		aXcii
+allagak	gheg	noun	m	hua	credit		aXagak
+allagakçi	gheg	adj		huadhënës	creditor		aXagakcii
+allçi	gheg	noun	f	gips	plaster		aXcii
 allishverish	gheg	noun	m	tregti	trade, commerce		aXiscverisc
-amanetçar	gheg	noun	m		depositary, trustee		amanetcaar
+amanetçar	gheg	noun	m	depozitar	depositary, trustee		amanetcaar
 ambël	gheg	adj		ëmbël	sweet		ãmel
 ambëlsi	gheg	noun	f	ëmbëlsi	sweetness		amelzin
 amshim	gheg	noun	m	përjetësi	eternity		amescim
 amshoj	gheg	verb		përjetësoj	to eternalize		amescue
 an	gheg	noun	f	anë	side, part		an
-anagore	gheg	adv			likewise, similarly		anagore
+anagore	gheg	adv		njëlloj	likewise, similarly		anagore
 anmik	gheg	noun	m	armik	enemy		anmik
 anmike	gheg	noun	f	armike	female enemy		anmike
 anmiqësi	gheg	noun	f	armiqësi	enmity		anmiksii
@@ -43,7 +43,7 @@ atbotë	gheg	adv		atëherë	then, at that time		atbot
 athere	gheg	adv		atëherë	then		ather, athera
 atypari	gheg	adv		aty pari	thereabouts, about		atapari
 avam	gheg	noun	m	popull	the common people		avam
-avdall	gheg	adj			stupid, dazed		avdaX
+avdall	gheg	adj		budalla	stupid, dazed		avdaX
 avdes	gheg	noun	m		ritual ablution (Islam)		avdes
 bab	gheg	noun	m	baba	father		bab
 babaxhan	gheg	adj			good-natured, kind		babagan
@@ -56,7 +56,7 @@ bakall	gheg	noun	m	bakall	grocer		bakaX
 bakallëk	gheg	noun	m		grocery shop		bakaXek
 bakshish	gheg	noun	m	bakshish	tip, gift		bakscisc
 bagëti	gheg	noun	f	bagëti	livestock		baktii
-ballaface	gheg	adv		ballë për ballë	face to face, openly		baXaface
+ballaface	gheg	adv		ballaballë	face to face, openly		baXaface
 baltë	gheg	noun	f	baltë	mud		balt
 barot	gheg	noun	m	barut	gunpowder		barot
 barotxhi	gheg	noun	m		gunpowder maker or seller		barotgii
@@ -72,7 +72,7 @@ bastan	gheg	noun	m	bostan	melon field; melon		bastan
 beçar	gheg	noun	m	beqar	bachelor		becaar
 beçari	gheg	noun	f	beqari	bachelorhood		becarii
 bejleg	gheg	noun	m	dyluftim	duel, challenge		beilegh
-bejlegtar	gheg	noun	m		challenger, duellist		beileghtaar
+bejlegtar	gheg	noun	m	sfidues	challenger, duellist		beileghtaar
 besbeli	gheg	adv		sigurisht	certainly, of course		besbeli
 beledije	gheg	noun	f	bashki	municipality		beledie
 binjok	gheg	noun	m	binjak	twin		bignok
@@ -130,7 +130,7 @@ dishir	gheg	noun	m	dëshirë	desire		disciir
 dishmi	gheg	noun	f	dëshmi	testimony		discmii
 dishmitar	gheg	noun	m	dëshmitar	witness; martyr		discmitaar
 dishprim	gheg	noun	m	dëshpërim	despair		disprim
-divit	gheg	noun	m		inkwell		divit
+divit	gheg	noun	m	kallamar	inkwell		divit
 dnim	gheg	noun	m	dënim	condemnation		dnim
 dorzan	gheg	noun	m	dorëzanë	guarantor		dorzan
 dorzani	gheg	noun	f	dorëzani	guarantee		dorzanii
@@ -173,7 +173,7 @@ hudut	gheg	noun	m	kufi	boundary, border		huduud
 jahudi	gheg	noun	m	hebre	Jew		jahudii
 jallan	gheg	adj		rremë	false, vain		jaXan
 javash	gheg	adv		ngadalë	slowly		javasc
-ibrishim	gheg	noun	m		silk thread		iberscim
+ibrishim	gheg	noun	m	mëndafsh	silk thread		iberscim
 ihtiaç	gheg	noun	m	nevojë	need		ihtiaa
 jesir	gheg	noun	m	rob	prisoner		jesiir
 ikrar	gheg	noun	m	premtim	promise, pact		ikraar, inkraar
@@ -197,7 +197,7 @@ kapidan	gheg	noun	m	kapiten	captain		kapidan
 kaplan	gheg	noun	m	leopard	leopard		kaplan
 kartoll	gheg	noun	f	patate	potato		kartoł
 katundare	gheg	noun	f	fshatare	peasant woman		katunnare
-kaur	gheg	noun	m		infidel (Turkish term of contempt for Christians)		kaur
+kaur	gheg	noun	m	qafir	infidel (Turkish term of contempt for Christians)		kaur
 kmishë	gheg	noun	f	këmishë	shirt		kmisc
 knetë	gheg	noun	f	kënetë	swamp		knet
 knej	gheg	adv		këndej	on this side, hither		knnei

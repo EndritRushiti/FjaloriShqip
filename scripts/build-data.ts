@@ -969,6 +969,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   console.log("reading the Hunspell word list…");
   console.log(`hunspell: ${addHunspell(deduper, dic)} new words confirmed by Wikipedia/MaCoCu`);
 
+
   // Reviewed corrections: words that are not words of their own (korrigjime/hiq.txt)
   const removed = readRemoveList();
   for (const r of removed) words.delete(r);
@@ -1015,6 +1016,41 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     fromMain++;
   }
   console.log(`descriptions: ${fromMain} other spellings described from their main word`);
+
+  // A standard word spelled like a dialect form in one of the books (kopsë "button" and Arvanitika kopsë
+  // "boaster") is its own word: it keeps the dialect meaning as an extra sense, but its page is not
+  // turned into "Arvanitika form of mburravec". The book form still shows on the other word's page.
+  const BOOK = new Set(fs.existsSync(path.join(process.cwd(), "dialekte")) ? fs.readdirSync(path.join(process.cwd(), "dialekte")).filter((x) => x.endsWith(".tsv")).map((x) => x.replace(/\.tsv$/, "")) : []);
+  let homographs = 0;
+  for (const w of words.values()) {
+    if (!w.variantOf?.some((v) => BOOK.has(v.source))) continue;
+    const own = w.entries.flatMap((e) => e.senses).some((s) => !BOOK.has(s.source) && !FORM_OF.test(s.gloss));
+    if (!own) continue;
+    w.variantOf = w.variantOf.filter((v) => !BOOK.has(v.source));
+    if (!w.variantOf.length) delete w.variantOf;
+    homographs++;
+  }
+  console.log(`dialect books: ${homographs} standard words spelled like a book's dialect form kept as words of their own`);
+
+  // Book rows whose standard word arrived only with a later source (Albanet, Hunspell…) were left as
+  // dialect words of their own: link them now, both ways.
+  let late = 0;
+  for (const file of [...BOOK].sort()) {
+    for (const raw of fs.readFileSync(path.join(process.cwd(), "dialekte", file + ".tsv"), "utf8").split("\n")) {
+      const line = raw.replace(/\r$/, "");
+      if (!line.trim() || line.startsWith("#")) continue;
+      const [form, dialect, , , standard] = line.split("\t").map((x) => x.trim());
+      if (!standard || standard === form || !(dialect in DIALECT_TAG)) continue;
+      const w = words.get(form);
+      const std = words.get(standard);
+      if (!w || !std?.entries.length || std.dialectOnly || w.variantOf?.length || !w.dialectOnly) continue;
+      w.variantOf = [{ word: std.word, kind: dialect as Dialect, source: file as SourceId }];
+      delete w.dialectOnly;
+      addDialect(std, { form, dialect: dialect as Dialect, source: file as SourceId });
+      late++;
+    }
+  }
+  console.log(`dialect books: ${late} more forms linked to standard words added by later sources`);
 
   // Borrowed words, usage labels, word classes that the sources got wrong
   console.log(`labels: ${addLabels()}`);

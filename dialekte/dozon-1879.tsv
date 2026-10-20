@@ -3,16 +3,16 @@
 # ky→q, gy→gj, ly→l, lh→ll, rh→rr). Only the words and their meaning are taken; descriptions are our own. Turkish and Greek loans are left out.
 # Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region in the book
 afëroj	tosk	verb		afroj	to bring near; to approach		Toskëri
-anëruar	tosk	adj		arnuar	patched, mended		Toskëri
+anëruar	tosk	adj		arnoj	patched, mended		Toskëri
 ardhiçkë	tosk	noun	f	hardhucë	grey lizard		Toskëri
 egrësisht	tosk	adv		egërsisht	savagely		Toskëri
 egrësoj	tosk	verb		egërsoj	to make wild		Toskëri
 ergjendë	tosk	adj		argjendtë	made of silver		Toskëri
 ergjent	tosk	noun	m	argjend	silver		Toskëri
 ergjencerë	tosk	noun	f	argjenteri	silverware		Toskëri
-errem	tosk	verb		ngrysem	to be overtaken by nightfall		Toskëri
+errem	tosk	verb		ngrys	to be overtaken by nightfall		Toskëri
 errëcirë	tosk	noun	f	errësirë	darkness		Toskëri
-errëcanem	tosk	verb		errësohem	to grow dark		Toskëri
+errëcanem	tosk	verb		errësoj	to grow dark		Toskëri
 esëllë	tosk	adj		esëll	fasting, on an empty stomach		Toskëri
 etuarë	tosk	adj		etur	thirsty		Toskëri
 ëmbëlcoj	tosk	verb		ëmbëlsoj	to sweeten, to soften		Toskëri
@@ -106,12 +106,12 @@ hethtur	tosk	adj		djerr	fallow		Toskëri
 hupët	tosk	adj		bajat	stale (of bread)		Toskëri
 hurth	tosk	noun	m	urth	ivy		Toskëri
 jashtësëm	tosk	adj		jashtëm	outer		Toskëri
-japi	tosk	noun	m		green lizard		Toskëri
+japi	tosk	noun	m	zhapi	green lizard		Toskëri
 jukë	tosk	noun	f	xunkth	rush (plant)		Toskëri
 jyej	tosk	verb		ndyj	to soil		Toskëri
 kakërzozë	tosk	noun	f	bretkosë	frog		Toskëri
 kallambak	tosk	noun	m	misër	maize		Toskëri
-kalëri	tosk	noun	f	kalorësi	cavalry; horses		Toskëri
+kalëri	tosk	noun	f	kalorës	cavalry; horses		Toskëri
 kapërcer	tosk	noun	m	fyt	throat		Zagori
 kapëtoj	tosk	verb		kapërcej	to go beyond		Zagori
 karcallec	tosk	noun	m	karkalec	grasshopper		Toskëri
@@ -144,14 +144,14 @@ letëshoj	tosk	verb		lehtësoj	to relieve		Toskëri
 levajgë	tosk	noun	f	lëvozhgë	nutshell		Toskëri
 lëftoj	tosk	verb		luftoj	to fight		Toskëri
 lipjetë	tosk	noun	f	lëpjetë	dock (plant)		Toskëri
-lipsem	tosk	verb		lypset	to be needed		Toskëri
+lipsem	tosk	verb		duhet	to be needed		Toskëri
 lumur	tosk	adj		lumtur	happy, fortunate		Toskëri
 luvgi	tosk	noun	f	stuhi	hurricane		Toskëri
 majtur	tosk	adj		majmur	fattened		Toskëri
 mallëkim	tosk	noun	m	mallkim	curse		Toskëri
 mallëkoj	tosk	verb		mallkoj	to curse		Toskëri
 marth	tosk	verb		mardh	to shiver with cold		Toskëri
-marrosh	tosk	noun	m		madman		Toskëri
+marrosh	tosk	noun	m	marrë	madman		Toskëri
 mbëshell	tosk	verb		mbyll	to block up		Toskëri
 mbëshikë	tosk	noun	f	fshikëz	bladder		Toskëri
 mblak	tosk	verb		plak	to make old		Toskëri
@@ -160,7 +160,7 @@ mbrëmësëm	tosk	adj		brendshëm	inner		Toskëri
 mbreh	tosk	verb		mpreh	to sharpen		Toskëri
 mbrëmëje	tosk	noun	f	mbrëmje	evening		Toskëri
 mbsheh	tosk	verb		fsheh	to hide		Toskëri
-mejtohem	tosk	verb		mendohem	to ponder		Toskëri
+mejtohem	tosk	verb		mendoj	to ponder		Toskëri
 melingonë	tosk	noun	f	milingonë	ant		Toskëri
 mëllënë	tosk	noun	f	mëllenjë	blackbird		Toskëri
 mënjash	tosk	noun	m	mëngjarash	left-handed person		Toskëri
@@ -175,7 +175,7 @@ mishkonë	tosk	noun	f	mushkonjë	gnat, mosquito		Toskëri
 mishëm	tosk	adj		mishtor	fleshy		Toskëri
 mishtë	tosk	adj			of meat		Toskëri
 muajshëm	tosk	adj		mujor	monthly		Toskëri
-muget	tosk	verb		ngryset	to grow dusky		Toskëri
+muget	tosk	verb		ngrys	to grow dusky		Toskëri
 muk	tosk	noun	m	muzg	dusk		Toskëri
 mukëlloj	tosk	verb		myk	to make mouldy		Toskëri
 mullëzë	tosk	noun	f	stomak	stomach		Toskëri
@@ -191,11 +191,11 @@ ndëjesë	tosk	noun	f	ndjesë	forgiveness		Toskëri
 ndigjuarshëm	tosk	adj		bindur	obedient		Toskëri
 ndrashem	tosk	verb		trashem	to grow fat		Toskëri
 ndruaj	tosk	verb		trembem	to fear		Toskëri
-ndyhem	tosk	verb		neveritem	to feel disgust		Toskëri
+ndyhem	tosk	verb		neverit	to feel disgust		Toskëri
 ndyrsi	tosk	noun	f	ndyrësi	filth		Toskëri
 nëmëroj	tosk	verb		numëroj	to count		Toskëri
-nëndur	tosk	adj		dendur	dense; frequent		Toskëri
-ngdhin	tosk	verb		gdhin	to dawn		Toskëri
+nëndur	tosk	adj		dend	dense; frequent		Toskëri
+ngdhin	tosk	verb		gdhij	to dawn		Toskëri
 ngeshëm	tosk	adj		nge	at leisure		Toskëri
 ngorth	tosk	verb		ngordh	to die (of animals); to slaughter		Toskëri
 ngrirak	tosk	noun	m	gurmaz	gullet		Zagori
@@ -218,17 +218,17 @@ përgjunj	tosk	verb		gjunjëzoj	to make kneel; to subdue		Toskëri
 përint	tosk	noun	m	prind	father; ancestor		Toskëri
 përmbytëje	tosk	noun	f	përmbytje	flood, deluge		Toskëri
 përmënt	tosk	verb		përmend	to recall; to mention		Toskëri
-përnatë	tosk	adv		natën	by night		Toskëri
+përnatë	tosk	adv		natë	by night		Toskëri
 përparësëm	tosk	adj		përparmë	front		Toskëri
 përtejmazi	tosk	adv		përtej	beyond		Toskëri
 përtim	tosk	noun	m	përtesë	sloth, idleness		Toskëri
 përunjem	tosk	verb		përulem	to humble oneself		Toskëri
-përunjur	tosk	adj		përulur	humbled		Toskëri
+përunjur	tosk	adj		përul	humbled		Toskëri
 pikët	tosk	adj		hidhur	bitter, rancid		Toskëri
 pishq	tosk	noun	m	nyjë	double knot		Toskëri
 pishtë	tosk	adj			of pine wood		Toskëri
 pitar	tosk	noun	m	huall	empty honeycomb		Toskëri
-pllucë	tosk	adj			overripe		Toskëri
+pllucë	tosk	adj		tejpjekur	overripe		Toskëri
 plekëri	tosk	noun	f	pleqëri	old age; elders		Toskëri
 postimë	tosk	noun	f	tuberkuloz	consumption (disease)		Toskëri
 prall	tosk	noun	m	ilqe	holm oak		Toskëri
@@ -250,7 +250,7 @@ rëkoj	tosk	verb		rënkoj	to sigh, to groan		Toskëri
 rremb	tosk	noun	m	rrudhë	wrinkle, fold		Toskëri
 rëpëtirë	tosk	noun	f	rrëpirë	scree slope		Toskëri
 rjedhije	tosk	noun	f	rrjedhje	flow		Toskëri
-rjepës	tosk	noun	m	rripës	skinner		Toskëri
+rjepës	tosk	noun	m	rrjepës	skinner		Toskëri
 rjet	tosk	noun	m	rrjetë	fishing net		Toskëri
 ruanës	tosk	noun	m	rojtar	guard		Toskëri
 rrushkull	tosk	noun	m	shqemë	smoke tree		Toskëri
@@ -272,15 +272,15 @@ sheqe	tosk	noun	f	kovë	milking pail		Toskëri
 shellek	tosk	noun	m	qengj	lamb of six months to a year		Toskëri
 shelk	tosk	noun	m	shelg	willow		Toskëri
 shëgjetë	tosk	noun	f	shigjetë	arrow; weaver's shuttle		Toskëri
-shëmbem	tosk	verb		ngopem	to be full (of food)		Toskëri
+shëmbem	tosk	verb		ngop	to be full (of food)		Toskëri
 shëmp	tosk	verb		lëndoj	to bruise		Toskëri
 shëntërë	tosk	adj		shenjtë	holy		Toskëri
 shishëm	tosk	adj		shijshëm	tasty		Toskëri
-shkëndej	tosk	verb		shkëndijoj	to sparkle		Toskëri
+shkëndej	tosk	verb		shkëndij	to sparkle		Toskëri
 shkrepëtin	tosk	verb		vetëtin	to flash with lightning		Toskëri
 shkrepëtirë	tosk	noun	f	rrufe	lightning bolt		Toskëri
 shkronjës	tosk	noun	m	shkrimtar	writer		Toskëri
-shqemëzë	tosk	noun	f		kind of oak		Toskëri
+shqemëzë	tosk	noun	f	bungë	kind of oak		Toskëri
 shqetullë	tosk	noun	f	sqetull	armpit		Toskëri
 shqinde	tosk	noun	f	xinë	mastic tree		Toskëri
 shqipëtar	tosk	noun	m	shqiptar	Albanian (person)		Toskëri
@@ -323,7 +323,7 @@ cqotë	tosk	noun	f	llohë	slush		Toskëri
 çdredh	tosk	verb		zhdredh	to untwist		Toskëri
 çfryj	tosk	verb		shfryj	to blow (one's nose)		Toskëri
 çillimi	tosk	noun	m	çun	small boy		Toskëri
-çkrin	tosk	verb		shkrin	to thaw		Toskëri
+çkrin	tosk	verb		shkrij	to thaw		Toskëri
 çqyej	tosk	verb		shqyej	to tear apart		Toskëri
 çumbë	tosk	noun	f	vile	cluster		Toskëri
 çumë	tosk	noun	f	kovë	well bucket		Toskëri
@@ -337,10 +337,10 @@ vjelm	tosk	adj		vjetshëm	of last year		Toskëri
 vojs	tosk	noun	m	çun	child (up to twelve)		Toskëri
 vrajët	tosk	adj		vrazhdë	rough, harsh		Toskëri
 vrapëtoj	tosk	verb		vrapoj	to run		Toskëri
-vrarërohem	tosk	verb		vrenjtem	to cloud over		Toskëri
+vrarërohem	tosk	verb		vrenjt	to cloud over		Toskëri
 vrih	tosk	noun	m	bredh	fir		Toskëri
 zagall	tosk	noun	m	zekth	gadfly		Toskëri
 zavë	tosk	noun	f	tokëz	buckle		Toskëri
-zbardhëllej	tosk	verb		zbardhëllon	to dawn		Toskëri
+zbardhëllej	tosk	verb		zbardhëlloj	to dawn		Toskëri
 zëmbratë	tosk	noun	f	zemërim	anger		Toskëri
 zëmërtë	tosk	adj		guximshëm	bold		Toskëri

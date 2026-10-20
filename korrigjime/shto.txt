@@ -27885,3 +27885,4 @@ tridrahmë | noun | tridrachm
 jorritës | adj | non-increasing
 jozvogëlues | adj | non-decreasing
 ndjesëhollë | adj | sensitive
+kokërdhok | noun | eyeball

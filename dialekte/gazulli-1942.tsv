@@ -4,7 +4,7 @@
 aejkue	gheg	verb		ajkoj	to smear with cream		Malësi e Madhe
 agullue	gheg	verb		errësoj	to dim (of the eyes)		Pukë
 aktund	gheg	noun	m	radhë	turn, one's turn		Zadrimë
-akulltar	gheg	adj			cool-headed, measured		Zadrimë
+akulltar	gheg	adj		gjakftohtë	cool-headed, measured		Zadrimë
 alivër	gheg	noun	m		reticulum (second stomach of ruminants)		Mirditë
 allçënik	gheg	noun	m		realgar (an arsenic mineral)		Pukë
 angërr	gheg	noun	f		membrane (pleura, peritoneum)		Pukë
@@ -22,7 +22,7 @@ bagjë	gheg	noun	f		maize husk		Pult
 bahlul	gheg	adj		budalla	fool, silly		Mirditë
 bajuk	gheg	noun	f	balë	cow with a white spot on the forehead		Malësi e Madhe
 bakalimth	gheg	adj			small for its age		Pukë
-balbëtimë	gheg	noun	f		indigestion, heavy stomach		Malësi e Madhe
+balbëtimë	gheg	noun	f	dispepsi	indigestion, heavy stomach		Malësi e Madhe
 balç	gheg	noun	m	melhem	ointment, salve		Pukë
 balcim	gheg	noun	m		pipe residue (tobacco tar)		Malësi e Madhe
 balishë	gheg	noun	f	baluke	fringe, forelock		Malësi e Madhe
@@ -38,7 +38,7 @@ bangëc	gheg	noun	m	top	snowball		Pukë
 barnatue	gheg	verb		mjekoj	to treat with herbs		Pult
 bastarr	gheg	noun	m	kasolle	small hut (for a watchman)		Mirditë
 basterr	gheg	adj			(dog) that does not bark; idler		Malësi e Madhe
-bashë	gheg	noun	f		brother-in-law (as form of address)		Shkodër
+bashë	gheg	noun	f	kunat	brother-in-law (as form of address)		Shkodër
 bashkëni	gheg	noun	f	shoqëri	company, companionship		Shkodër
 batue	gheg	verb			to sink in; to be exhausted		Malësi e Madhe
 benue	gheg	verb		betoj	to make swear		Malësi e Madhe
@@ -51,8 +51,8 @@ bërbjek	gheg	noun	m		unripe melon; puny child		Pukë
 bërcanë	gheg	adj			prolific (animal that breeds often)		Malësi e Madhe
 bërdhac	gheg	noun	m	morr	louse (euphemism)		Malësi e Madhe
 bërdhaç	gheg	noun	m	guralec	small round pebble		Kelmend
-bërdhamët	gheg	adj			whitish, pale		Shkodër
-bërgajnë	gheg	noun	f	plehra	chaff, rubbish from the threshing floor		Zadrimë
+bërdhamët	gheg	adj		bardhemë	whitish, pale		Shkodër
+bërgajnë	gheg	noun	f	byk	chaff, rubbish from the threshing floor		Zadrimë
 bërllok	gheg	noun	m		chaff and dust of the threshing floor		Shkodër
 bërshë	gheg	noun	m		stinking juniper		Mirditë
 bërshëllizë	gheg	noun	f	kulpër	field bindweed		Malësi e Madhe
@@ -69,11 +69,11 @@ bishtpelëz	gheg	noun	f		tall fescue (meadow grass)		Malësi e Madhe
 bishtues	gheg	noun	m		train (of a dress); following crowd		Malësi e Madhe
 bitërr	gheg	adv			bewildered, out of one's mind		Pukë
 bjezgë	gheg	noun	f	ashkël	fine splinter		Malësi e Madhe
-bljedë	gheg	noun	f		vein (of stone); split in rock		Kelmend
+bljedë	gheg	noun	f	damar	vein (of stone); split in rock		Kelmend
 blogur	gheg	noun	f	lëvozhgë	peel; bark		Malësi e Madhe
 blojë	gheg	noun	f	bluajtje	ground grain		Malësi e Madhe
 blysh	gheg	noun	m		freshwater fish like the carp		Shkodër
-bobe	gheg	noun	f		oak gall		Malësi e Madhe
+bobe	gheg	noun	f	gogëlë	oak gall		Malësi e Madhe
 boçë	gheg	noun	f	gurmaz	Adam's apple; pine cone		Pukë
 bodrozhële	gheg	noun	f		weak, flimsy board		Pult
 bofte	gheg	noun	f	mënyrë	manner, way; sample		Kelmend
@@ -85,7 +85,7 @@ brengëç	gheg	noun	f		fleabane (a yellow-flowered plant)		Malësi e Madhe
 brezhël	gheg	noun	f		sea urchin		Zadrimë
 bricue	gheg	verb		brej	to nibble, to gnaw		Malësi e Madhe
 brie	gheg	noun	f		bone decay, caries		Malësi e Madhe
-brienue	gheg	verb			to fall out, to quarrel		Pult
+brienue	gheg	verb		zihem	to fall out, to quarrel		Pult
 brigue	gheg	verb		qortoj	to scold harshly		Pult
 brijoke	gheg	noun	f		small mountain ridge		Malësi e Madhe
 brijue	gheg	verb		përkul	to bend, to curve		Malësi e Madhe
@@ -102,7 +102,7 @@ brraukue	gheg	verb			to talk loudly in a hoarse voice		Malësi e Madhe
 brreukaçë	gheg	noun	f		spinning toy, propeller		Malësi e Madhe
 brrezë	gheg	noun	f		worn-out person; crumbled cheese		Mirditë
 bubaç	gheg	noun	m		cockchafer, May beetle		Pult
-bucilah	gheg	noun	m		delicacy, titbit		Shkodër
+bucilah	gheg	noun	m	delikatesë	delicacy, titbit		Shkodër
 buçinë	gheg	noun	f		downy oak		Malësi e Madhe
 bufnjak	gheg	adj			light and loose (of soil, snow)		Pukë
 buhnajë	gheg	noun	f	pluhur	cloud of dust		Pukë
@@ -138,7 +138,7 @@ cimar	gheg	noun	m		temple (of a loom)		Zadrimë
 cingiluer	gheg	adj			light, nimble		Malësi e Madhe
 cirlikë	gheg	verb		kërcas	to creak		Zadrimë
 cmbërdhazët	gheg	adj			thin and pale		Malësi e Madhe
-cofdël	gheg	adj			miserable, wretched		Zadrimë
+cofdël	gheg	adj		qyqar	miserable, wretched		Zadrimë
 copëç	gheg	adj			coarsely ground		Malësi e Madhe
 crangth	gheg	noun	m		creeping thistle		Zadrimë
 crolë	gheg	verb			to weaken, to lose strength		Malësi e Madhe
@@ -156,12 +156,12 @@ qafol	gheg	noun	m		horse collar		Malësi e Madhe
 qallue	gheg	verb			to get chapped, cracked (of feet)		Pukë
 qarrabutë	gheg	noun	m		downy oak		Malësi e Madhe
 qasë	gheg	verb		largoj	to move away		Kelmend
-qejt	gheg	adv		shpërndarë	scattered		Malësi e Madhe
+qejt	gheg	adv		shpërndaj	scattered		Malësi e Madhe
 qekth	gheg	noun	m	vesë	honeydew; falling earth		Malësi e Madhe
 qëllimtar	gheg	adj			deliberate; adventurer		Pukë
-qëmër	gheg	noun	f		winding, sinuous line		Mirditë
+qëmër	gheg	noun	f	gjarpërim	winding, sinuous line		Mirditë
 qepël	gheg	noun	m		stonemason's pick		Malësi e Madhe
-qepurar	gheg	adj			haughty, scornful		Malësi e Madhe
+qepurar	gheg	adj		mendjemadh	haughty, scornful		Malësi e Madhe
 qeradhyke	gheg	noun	f		half-burnt piece of wood		Shkodër
 qestar	gheg	adj			of oxen; pastoral		Zadrimë
 qesllue	gheg	verb			to exhale gently		Malësi e Madhe
@@ -169,12 +169,12 @@ qestistuer	gheg	adj			mocking, teasing		Zadrimë
 qiellëz	gheg	noun	f	qiellzë	palate; vault		Malësi e Madhe
 qiqillim	gheg	noun	m		whispered chatter		Malësi e Madhe
 qiqillue	gheg	verb			to whisper, to chatter softly		Malësi e Madhe
-qillës	gheg	noun	f		cart cover; ceiling		Zadrimë
+qillës	gheg	noun	f	tavan	cart cover; ceiling		Zadrimë
 qipzue	gheg	verb			to snow lightly		Pult
-qokë	gheg	noun	f		mortise, slot		Pukë
+qokë	gheg	noun	f	zgavër	mortise, slot		Pukë
 qukë	gheg	noun	f		small hollow, dimple		Malësi e Madhe
 quklinë	gheg	noun	f		tiny hollow		Malësi e Madhe
-quladë	gheg	noun	f		beak; tall lanky person		Pult
+quladë	gheg	noun	f	sqep	beak; tall lanky person		Pult
 qunëz	gheg	adv		galiç	squatting		Malësi e Madhe
 quplue	gheg	verb		topit	to blunt		Malësi e Madhe
 qylisë	gheg	verb			to sink in mud; to ruin		Malësi e Madhe
@@ -202,7 +202,7 @@ qyrlek	gheg	noun	m		plover (bird)		Malësi e Madhe
 çmbushë	gheg	verb		zbraz	to empty out		Malësi e Madhe
 çmbushcë	gheg	noun	f		small spoon for cleaning a gun barrel		Malësi e Madhe
 çmundue	gheg	verb		mbyt	to overwhelm, to defeat		Malësi e Madhe
-çngulë	gheg	verb		shpërngulem	to move away		Malësi e Madhe
+çngulë	gheg	verb		shpërngul	to move away		Malësi e Madhe
 çojë	gheg	noun	f	shtegtim	seasonal moving of flocks		Malësi e Madhe
 çpla	gheg	verb			to bulge (of a wall)		Malësi e Madhe
 çrrasë	gheg	verb			to pull out (something wedged)		Malësi e Madhe
@@ -212,15 +212,15 @@ qyrlek	gheg	noun	m		plover (bird)		Malësi e Madhe
 çukërmue	gheg	verb		gërmoj	to paw the ground		Malësi e Madhe
 çukulinë	gheg	noun	f	zhele	rag, torn garment		Malësi e Madhe
 çveshkë	gheg	verb			to revive (of a plant)		Malësi e Madhe
-çvjedhaza	gheg	adv			stealthily and quickly		Malësi e Madhe
+çvjedhaza	gheg	adv		vjedhurazi	stealthily and quickly		Malësi e Madhe
 çyçafëll	gheg	adj			wry-mouthed		Zadrimë
-dafrungë	gheg	noun	f		pomp; extravagance		Malësi e Madhe
+dafrungë	gheg	noun	f	salltanet	pomp; extravagance		Malësi e Madhe
 dafrunga	gheg	adv			pompously		Malësi e Madhe
 damtuer	gheg	adj		dëmtues	harmful		Zadrimë
 danik	gheg	noun	m		separate room		Pukë
 danisë	gheg	verb		vendos	to decide		Pukë
-darallosë	gheg	verb			to drive mad; to become delirious		Malësi e Madhe
-dasë	gheg	noun	f		share; mill sluice		Malësi e Madhe
+darallosë	gheg	verb		çmendoj	to drive mad; to become delirious		Malësi e Madhe
+dasë	gheg	noun	f	hise	share; mill sluice		Malësi e Madhe
 dasik	gheg	noun	m		small piece; share of water		Malësi e Madhe
 dasue	gheg	verb		ndaj	to divide, to share out		Malësi e Madhe
 dashtënim	gheg	noun	m	dashuri	love; goodwill		Malësi e Madhe
@@ -232,9 +232,9 @@ dëjë	gheg	noun	f		shallow place; flat field		Pult
 dejkë	gheg	noun	f	dallëndyshe	swallow		Malësi e Madhe
 dekësue	gheg	verb			to mortify		Malësi e Madhe
 dëkue	gheg	verb		derdh	to pour		Malësi e Madhe
-delendrisë	gheg	verb			to corrupt, to make degenerate		Mirditë
+delendrisë	gheg	verb		çnjerëzoj	to corrupt, to make degenerate		Mirditë
 dendë	gheg	verb			to stuff (oneself)		Kelmend
-dengël	gheg	noun	f		nonsense, idle talk		Pult
+dengël	gheg	noun	f	dokrra	nonsense, idle talk		Pult
 derdelinë	gheg	noun	f		red clover		Zadrimë
 derdhoshë	gheg	verb			to smash down		Pukë
 dërkanë	gheg	noun	f	dosë	sow		Zadrimë
@@ -244,13 +244,13 @@ dërrç	gheg	noun	m		runt (last piglet of the litter)		Malësi e Madhe
 dërrpë	gheg	noun	f	pyll	dense wood, thicket		Malësi e Madhe
 drrasim	gheg	noun	m		boarding; platform		Pukë
 dëtuer	gheg	adj		detar	of the sea, marine		Pukë
-devedyç	gheg	adj			clumsy		Malësi e Madhe
+devedyç	gheg	adj		ngathët	clumsy		Malësi e Madhe
 dielshëm	gheg	adj			of Sunday		Shkodër
 dimnak	gheg	adj			cold-resistant		Malësi e Madhe
 dimnishtë	gheg	noun	f		winter quarters; winter fodder		Malësi e Madhe
-ding	gheg	adv			chock-full		Shkodër
+ding	gheg	adv		plotpërplot	chock-full		Shkodër
 dizoti	gheg	adv		vërtet	truly, indeed		Shkodër
-djergë	gheg	verb			to lie down, to be bedridden		Dukagjin
+djergë	gheg	verb		dergj	to lie down, to be bedridden		Dukagjin
 domçik	gheg	noun	m		nine men's morris (game)		Malësi e Madhe
 domën	gheg	noun	f	pasiguri	indecision, uncertainty		Malësi e Madhe
 dordull	gheg	adv			full to bursting		Malësi e Madhe
@@ -263,7 +263,7 @@ druejshëm	gheg	adj		tmerrshëm	terrible, fearsome		Pukë
 drunue	gheg	verb		drunjëzohem	to harden like wood		Malësi e Madhe
 dufi	gheg	noun	m	aromë	fragrance		Zadrimë
 duhaç	gheg	noun	m	shakullinë	whirlwind; big gust		Malësi e Madhe
-duhak	gheg	adj			very strong, powerful		Malësi e Madhe
+duhak	gheg	adj		fuqishëm	very strong, powerful		Malësi e Madhe
 dulltak	gheg	noun	m	granit	granite		Pukë
 dumak	gheg	noun	m	tra	beam		Malësi e Madhe
 dumllue	gheg	verb		gjëmoj	to boom, to resound		Zadrimë
@@ -279,7 +279,7 @@ dhandrrorë	gheg	noun	m		newlyweds		Malësi e Madhe
 dhandrrue	gheg	verb			to get married; to become in-laws		Zadrimë
 dhapë	gheg	verb		dhemb	to ache		Kelmend
 dhesk	gheg	noun	m	zekth	horsefly		Malësi e Madhe
-dhëulë	gheg	noun	f		small insect; ant		Malësi e Madhe
+dhëulë	gheg	noun	f	milingonë	small insect; ant		Malësi e Madhe
 efull	gheg	noun	m		frost pillars; earth pillar		Malësi e Madhe
 egërti	gheg	noun	f		wild beast; dry-stone wall		Malësi e Madhe
 ëmnesë	gheg	noun	f		memorable event		Zadrimë
@@ -287,9 +287,9 @@ egërti	gheg	noun	f		wild beast; dry-stone wall		Malësi e Madhe
 ëndëz	gheg	noun	f	lule	blossom		Pult
 ëndëzue	gheg	verb		lulëzoj	to blossom		Pult
 eracak	gheg	adj			keen-scented		Malësi e Madhe
-erëx	gheg	noun	f	milisë	lemon balm		Zadrimë
+erëx	gheg	noun	f	melisa	lemon balm		Zadrimë
 erue	gheg	verb			to give off a smell; to be smelt		Malësi e Madhe
-errgjë	gheg	noun	f		ailment, infirmity		Malësi e Madhe
+errgjë	gheg	noun	f	lëngatë	ailment, infirmity		Malësi e Madhe
 ethçë	gheg	noun	f		winged seed (of plane, beech, elm)		Malësi e Madhe
 ësull	gheg	noun	m	agjërim	strict fast		Zadrimë
 fajkone	gheg	noun	f		monk vulture, golden eagle		Malësi e Madhe
@@ -301,7 +301,7 @@ fatue	gheg	verb		uroj	to congratulate		Kelmend
 flitë	gheg	noun	f		division; crack (in timber)		Malësi e Madhe
 fluskë	gheg	noun	f	barkë	boat		Pukë
 fëmëz	gheg	noun	f		female part (socket)		Zadrimë
-fëmni	gheg	noun	f		rot (in wood)		Malësi e Madhe
+fëmni	gheg	noun	f	kalbësirë	rot (in wood)		Malësi e Madhe
 fëmnue	gheg	verb			to bear female young		Mirditë
 fërcalle	gheg	noun	f	stuhi	snow and rain storm		Pukë
 ferkëm	gheg	noun	m	ilaç	medicine		Malësi e Madhe
@@ -334,19 +334,19 @@ fisanak	gheg	adj			of the same clan		Malësi e Lezhës
 fisk	gheg	noun	m	thupër	straight thin rod; sapling		Pult
 fiskajë	gheg	noun	f		thicket of young straight saplings		Pukë
 fjetë	gheg	verb			to bed down (flocks) for the night		Malësi e Madhe
-flakra	gheg	adv			in a flash, at once		Dukagjin
+flakra	gheg	adv		menjëherë	in a flash, at once		Dukagjin
 flamër	gheg	noun	m	flamur	flag; burning bundles of St John's night		Pukë
 flandër	gheg	noun	f	pendë	feather		Pukë
 flangër	gheg	noun	f	mushicë	gnat		Mirditë
 flashk	gheg	noun	m		gush (of blood, water); breaking wave		Malësi e Madhe
 flauri	gheg	adv			up in the air		Pult
-flutrak	gheg	adj			flying; aeroplane		Zadrimë
+flutrak	gheg	adj		fluturak	flying; aeroplane		Zadrimë
 fogë	gheg	verb			to chase away; to run off		Malësi e Madhe
 foje	gheg	noun	f		layer of stone; stone chip		Malësi e Madhe
 folë	gheg	noun	f		speech; promise		Kelmend
 fore	gheg	noun	f	ngushticë	great distress		Malësi e Madhe
 forolëc	gheg	adj		mendjelehtë	flighty, frivolous		Pukë
-forulli	gheg	noun	f		dizziness		Malësi e Madhe
+forulli	gheg	noun	f	marramendje	dizziness		Malësi e Madhe
 foskë	gheg	noun	f	gropë	small pit		Pukë
 foshkim	gheg	noun	m	kujdes	care, nursing		Pukë
 foshkue	gheg	verb		kujdesem	to nurse, to tend		Pukë
@@ -356,7 +356,7 @@ frangi	gheg	noun	f	frëngji	loophole (in a wall)		Pult
 frashinë	gheg	noun	f		bundle of cut branches		Malësi e Madhe
 frecë	gheg	noun	f		goat white-bellied and black-backed		Malësi e Madhe
 fregjue	gheg	verb			to cure, to mellow (of tobacco)		Malësi e Madhe
-frucan	gheg	adj			malicious		Zadrimë
+frucan	gheg	adj		keqdashës	malicious		Zadrimë
 frymosë	gheg	verb			to catch one's breath		Malësi e Madhe
 frymsi	gheg	noun	f	thithje	inhalation		Malësi e Madhe
 frymue	gheg	verb			to inflate; to be filled with anger		Pukë
@@ -380,10 +380,10 @@ fyllc	gheg	adj			hollow		Zadrimë
 fytë	gheg	noun	f		honeycomb cell		Pukë
 gabe	gheg	noun	f		ruin, dilapidated state		Pult
 gabrrëc	gheg	adj			hollow inside (of a tree)		Mirditë
-gacëngjigjë	gheg	noun	f		firefly		Pukë
+gacëngjigjë	gheg	noun	f	xixëllonjë	firefly		Pukë
 gallmue	gheg	verb			to push, to thrust		Malësi e Madhe
 gamill	gheg	noun	m		tiny man		Malësi e Madhe
-gandrri	gheg	noun	f		rot; tangle		Zadrimë
+gandrri	gheg	noun	f	kalbësirë	rot; tangle		Zadrimë
 gagjanisë	gheg	verb			to scrape a living		Pukë
 galavër	gheg	noun	f		withy for dragging logs; dog collar		Mirditë
 gap	gheg	adv			staring, wide-eyed		Shkodër
@@ -422,8 +422,8 @@ gërzhim	gheg	noun	m		parching, dryness		Pukë
 gërraç	gheg	noun	m		broken pot; flowerpot		Zadrimë
 gërrnaç	gheg	noun	m		copper basin; broken crockery		Malësi e Madhe
 gërrsh	gheg	noun	m		gourd flask		Malësi e Madhe
-gëzhaç	gheg	adj			troublemaker		Malësi e Madhe
-gëzhatë	gheg	verb			to provoke, to stir up trouble		Malësi e Madhe
+gëzhaç	gheg	adj		ngatërrestar	troublemaker		Malësi e Madhe
+gëzhatë	gheg	verb		ngacmoj	to provoke, to stir up trouble		Malësi e Madhe
 gëzhiçëm	gheg	adj			bone-dry		Malësi e Madhe
 gëzholle	gheg	noun	f		poor-quality duck		Zadrimë
 gëzhollët	gheg	adj		zbrazët	hollow		Zadrimë
@@ -463,7 +463,7 @@ grapcue	gheg	verb		gdhend	to notch, to engrave		Malësi e Madhe
 grasim	gheg	noun	m	kursim	frugality, restraint		Mirditë
 grasue	gheg	verb		përmbahem	to restrain oneself, to abstain		Mirditë
 gratue	gheg	verb		fitoj	to profit		Malësi e Madhe
-grathël	gheg	noun	m		thistle		Pukë
+grathël	gheg	noun	m	gjemb	thistle		Pukë
 grathue	gheg	verb			to clean (flax) of shives		Zadrimë
 grraç	gheg	noun	m	grep	hook		Zadrimë
 grrath	gheg	noun	m		serrated leaf		Malësi e Madhe
@@ -473,8 +473,8 @@ grebue	gheg	verb		krehër	to rake		Malësi e Madhe
 grehullue	gheg	verb			to scratch the ground (of hens)		Malësi e Madhe
 grësë	gheg	noun	f	ashpërsi	harshness		Shkodër
 grezhë	gheg	noun	f		bristle; stubble of beard		Shkodër
-gridhë	gheg	noun	f		schist, slate stone		Zadrimë
-grigji	gheg	adj			chestnut-coloured, tawny		Zadrimë
+gridhë	gheg	noun	f	rrasë	schist, slate stone		Zadrimë
+grigji	gheg	adj		gështenjtë	chestnut-coloured, tawny		Zadrimë
 grisë	gheg	noun	f		curved knife		Malësi e Madhe
 griskël	gheg	noun	f	luspë	fish scale		Zadrimë
 grizë	gheg	noun	f	laraskë	magpie		Zadrimë
@@ -495,7 +495,7 @@ gulshue	gheg	verb		lakmoj	to crave		Malësi e Madhe
 gurapësh	gheg	noun	m		stone-throwing contest		Mirditë
 gurënue	gheg	verb		administroj	to manage thriftily		Pukë
 gurëgrihëç	gheg	noun	m	grihë	whetstone		Pult
-guriç	gheg	noun	m		pebble		Zadrimë
+guriç	gheg	noun	m	guralec	pebble		Zadrimë
 gurinë	gheg	noun	f		stony place; quarry		Malësi e Madhe
 gurënar	gheg	adj			thrifty manager		Malësi e Madhe
 gurrç	gheg	adj			hard as stone (of nuts)		Malësi e Madhe
@@ -513,10 +513,10 @@ gjëmën	gheg	noun	f		shelter under a rock		Malësi e Madhe
 gjëmue	gheg	verb			to perform the ritual lament		Dukagjin
 gjasël	gheg	noun	f		navelwort		Malësi e Madhe
 gjavue	gheg	verb		gjuaj	to hunt		Pukë
-gjavorr	gheg	noun	m		gravel; rubble		Malësi e Madhe
+gjavorr	gheg	noun	m	zhavorr	gravel; rubble		Malësi e Madhe
 gjedhështër	gheg	noun	f	kamatë	interest (on money)		Kelmend
 gjelacë	gheg	noun	f	qukapik	woodpecker		Malësi e Madhe
-gjelafitë	gheg	verb			to grapple, to come to blows		Malësi e Madhe
+gjelafitë	gheg	verb		kacafytem	to grapple, to come to blows		Malësi e Madhe
 gjelbëzue	gheg	verb			to eat (bread) with a relish		Pukë
 gjëmtë	gheg	adj		vëngër	cross-eyed		Dukagjin
 gjermë	gheg	noun	f	vatër	hearth		Krasniqe
@@ -527,7 +527,7 @@ gjeshme	gheg	noun	f	xhezve	coffee pot		Pukë
 gjimue	gheg	verb		ndjek	to chase, to pursue		Malësi e Madhe
 gjitare	gheg	adj			with full udders		Zadrimë
 gjollë	gheg	noun	f		salt stone (for flocks)		Pukë
-gjuratë	gheg	verb			to glean		Malësi e Madhe
+gjuratë	gheg	verb		qëmtoj	to glean		Malësi e Madhe
 gjukue	gheg	verb		mundoj	to torment; to throw out		Malësi e Madhe
 gjurak	gheg	adj			short but sturdy		Dukagjin
 gjuestar	gheg	adj		gjuetar	good at hunting		Shkodër
@@ -554,7 +554,7 @@ harcëk	gheg	adj		shkathët	nimble, lively		Malësi e Madhe
 harkiç	gheg	adv			stiff, frozen stiff		Zadrimë
 harmoz	gheg	noun	m	hamshor	stallion		Zadrimë
 hastar	gheg	adj		grykës	gluttonous		Malësi e Madhe
-heqame	gheg	noun	f		cloudburst, downpour		Pukë
+heqame	gheg	noun	f	rrebesh	cloudburst, downpour		Pukë
 hëjkue	gheg	verb		vajtoj	to wail in lament		Malësi e Madhe
 helmzë	gheg	noun	f		water hemlock		Malësi e Madhe
 herak	gheg	adj		herët	early riser		Malësi e Madhe
@@ -564,10 +564,10 @@ herdhaqën	gheg	noun	m		spindle tree		Zadrimë
 hermoq	gheg	noun	m	hendek	drainage ditch		Pukë
 hermue	gheg	verb		gërmoj	to dig		Pukë
 heshëm	gheg	noun	m		great hardship		Zadrimë
-hjekakeq	gheg	adj			long-suffering		Zadrimë
+hjekakeq	gheg	adj		përvuajtur	long-suffering		Zadrimë
 hjekë	gheg	noun	f	agoni	agony; attempt (on someone's life)		Malësi e Madhe
 hjeksë	gheg	noun	f	bishtkalë	field horsetail		Kelmend
-hijeçe	gheg	adj			shade-loving		Malësi e Madhe
+hijeçe	gheg	adj		hijedashës	shade-loving		Malësi e Madhe
 hijelehtë	gheg	adj			pleasant, likeable		Pukë
 hijenue	gheg	verb			to rest in the shade at noon		Pukë
 hirraq	gheg	adj			whey-like		Zadrimë
@@ -580,7 +580,7 @@ huqë	gheg	verb		mungoj	to be absent		Pukë
 hudizë	gheg	noun	f		clod-strewn mountain spot		Pukë
 hukubël	gheg	adj			tall and gangly		Malësi e Madhe
 hulumtue	gheg	verb		hulumtoj	to search, to investigate		Pukë
-humbllue	gheg	verb			to sink in (mud)		Zadrimë
+humbllue	gheg	verb		zhytem	to sink in (mud)		Zadrimë
 humbëllë	gheg	noun	f	humnerë	natural pit; abyss		Malësi e Madhe
 humbënërë	gheg	noun	f	humnerë	bottomless pit		Pult
 hundëc	gheg	adj		krenar	haughty		Dukagjin
@@ -619,17 +619,17 @@ kacibulë	gheg	noun	f		pomegranate blossom		Shkodër
 kacimare	gheg	noun	f		water chestnut		Malësi e Madhe
 kacirutan	gheg	noun	m		crested bird		Malësi e Madhe
 kacol	gheg	noun	m		sparse maize cob		Pukë
-kacorr	gheg	noun	m		leveret		Pukë
+kacorr	gheg	noun	m	lepurush	leveret		Pukë
 kacub	gheg	noun	m		goblin, poltergeist		Pukë
 kacu	gheg	noun	m	kon	cone (geometry)		Malësi e Madhe
 kacë	gheg	adv		galiç	squatting		Malësi e Madhe
 kaçadël	gheg	noun	m		cattail stalk		Malësi e Madhe
-kaçep	gheg	noun	m		side branch; forked stick		Zadrimë
+kaçep	gheg	noun	m	çatall	side branch; forked stick		Zadrimë
 kaçërr	gheg	noun	m		ice on trees		Malësi e Madhe
 kaçik	gheg	noun	m		cockerel		Malësi e Madhe
 kaçinë	gheg	noun	f	kasolle	hut		Malësi e Madhe
 kaçubët	gheg	noun	m	sokol	falcon		Pult
-kaçubël	gheg	noun	f		forelock; crested bird		Malësi e Madhe
+kaçubël	gheg	noun	f	balluke	forelock; crested bird		Malësi e Madhe
 kaçullar	gheg	noun	m	mburravec	braggart		Pukë
 kadalue	gheg	verb		ngadalësoj	to go slowly		Malësi e Madhe
 kaf	gheg	noun	m	eshkë	tinder fungus		Malësi e Madhe
@@ -637,10 +637,10 @@ kafkan	gheg	noun	m		gable, roof ridge		Pult
 kajë	gheg	noun	f		baying of hounds		Malësi e Madhe
 kajzi	gheg	noun	m		gouge (chisel)		Pukë
 kakërdhoçë	gheg	noun	f		fire salamander; saffron crocus		Malësi e Madhe
-kakujë	gheg	noun	f		blister		Mirditë
+kakujë	gheg	noun	f	fshikë	blister		Mirditë
 kaladredh	gheg	adj		kaçurrel	curly		Malësi e Madhe
 kalbëç	gheg	adj			partly rotten		Malësi e Madhe
-kalbësiq	gheg	adj			rotting		Zadrimë
+kalbësiq	gheg	adj		kalbur	rotting		Zadrimë
 kalëç	gheg	adv		ngadalë	softly, quietly		Zadrimë
 kalikaç	gheg	adv		kaliqafë	piggyback		Shkodër
 kalkare	gheg	noun	f		rotten driftwood		Zadrimë
@@ -652,7 +652,7 @@ kambëc	gheg	noun	f		greave, leg armour		Shkodër
 kambëcue	gheg	verb		mbërthej	to nail shut		Pukë
 kambëcuer	gheg	noun	m	piedestal	pedestal, base		Malësi e Madhe
 kambështue	gheg	verb		marshoj	to march		Malësi e Madhe
-kambëshum	gheg	noun	m		centipede		Malësi e Madhe
+kambëshum	gheg	noun	m	shumëkëmbësh	centipede		Malësi e Madhe
 kambëzezë	gheg	noun	f		scaly-leg disease of poultry		Zadrimë
 kandëtë	gheg	verb		kënaq	to content		Malësi e Madhe
 kandisë	gheg	verb		pëlqej	to please; to agree		Pult
@@ -664,9 +664,9 @@ kaplluk	gheg	adj		budalla	foolish		Pult
 kapër	gheg	noun	f		vine prop		Malësi e Madhe
 kapistallë	gheg	verb			to dress up well		Malësi e Madhe
 kaprëç	gheg	noun	m	kokëkrisur	ringleader; serious person		Zadrimë
-kaproç	gheg	noun	m		roebuck; strong man		Malësi e Madhe
+kaproç	gheg	noun	m	kaproll	roebuck; strong man		Malësi e Madhe
 kaprroz	gheg	noun	m		frozen snow on trees; frozen river waves		Pukë
-kapula	gheg	noun	m		petty demagogue		Pukë
+kapula	gheg	noun	m	demagog	petty demagogue		Pukë
 karahajt	gheg	adv			wrongly, the wrong way		Pukë
 karaskaq	gheg	adj		paturp	shameless		Pukë
 karmshi	gheg	verb		copëtoj	to break into pieces		Pukë
@@ -674,8 +674,8 @@ karmshinë	gheg	noun	f		place of rotting wood; carnage		Pukë
 karmue	gheg	verb			to break one's neck; to fall headlong		Mirditë
 karriname	gheg	noun	f	naze	affectation		Malësi e Madhe
 karrapuc	gheg	adj		kërrusur	hunched		Zadrimë
-karrumull	gheg	noun	f		gully, ravine		Zadrimë
-karrup	gheg	noun	m		fish trap		Malësi e Madhe
+karrumull	gheg	noun	f	përrua	gully, ravine		Zadrimë
+karrup	gheg	noun	m	vallkua	fish trap		Malësi e Madhe
 kaskatue	gheg	verb		ndryshk	to rust		Zadrimë
 kaski	gheg	noun	f		small rusty-coloured pear		Mirditë
 kashtërmend	gheg	adj			hardened by hardship		Malësi e Madhe
@@ -690,22 +690,22 @@ katërliq	gheg	adj			four-heddle (weave)		Zadrimë
 katicë	gheg	noun	f	lafshë	comb, crest		Malësi e Madhe
 katik	gheg	noun	m		medal for bravery		Malësi e Madhe
 katramëzi	gheg	noun	m	tokëz	belt buckle		Malësi e Madhe
-katrasjël	gheg	adv			head over heels		Malësi e Madhe
+katrasjël	gheg	adv		kokëposhtë	head over heels		Malësi e Madhe
 kecan	gheg	noun	m	skllav	slave; servile		Zadrimë
 kecë	gheg	noun	f		yarn reel		Shkodër
 këhu	gheg	adv		kështu	thus		Mirditë
 kejt	gheg	interj		medet	alas		Malësi e Madhe
 kelan	gheg	adj		rrugaç	vagabond		Shkodër
-kelboqë	gheg	noun	f		phlegm		Malësi e Madhe
-kelcar	gheg	adj			rotten, brittle		Mirditë
-kelcue	gheg	verb			to crumble; to rot		Mirditë
-këllaçë	gheg	noun	f		marshy place		Malësi e Madhe
+kelboqë	gheg	noun	f	gëlbazë	phlegm		Malësi e Madhe
+kelcar	gheg	adj		kalbur	rotten, brittle		Mirditë
+kelcue	gheg	verb		thërrmoj	to crumble; to rot		Mirditë
+këllaçë	gheg	noun	f	moçal	marshy place		Malësi e Madhe
 këllanë	gheg	noun	f		New Year's Eve		Malësi e Madhe
 këndajësi	gheg	noun	f	kënaqësi	amusement, pastime		Malësi e Madhe
 këndëllë	gheg	verb		gjallëroj	to enliven, to refresh		Malësi e Madhe
 këndajtë	gheg	noun	f	ëndje	desire, pleasure		Zadrimë
-këndirë	gheg	verb			to suffocate		Shkodër
-kënëc	gheg	adj			tiny, dwarfish		Shkodër
+këndirë	gheg	verb		mbytem	to suffocate		Shkodër
+kënëc	gheg	adj		xhuxh	tiny, dwarfish		Shkodër
 kërboç	gheg	noun	m		red stone used in forging		Pult
 kërbojë	gheg	noun	f		dark red maize cob		Dukagjin
 kërbotull	gheg	noun	f		red clay		Dukagjin
@@ -714,8 +714,8 @@ kërcël	gheg	noun	m	kërc	cartilage		Malësi e Madhe
 kërcuq	gheg	adj		mjerë	wretched		Dukagjin
 kërcue	gheg	verb			to nick lightly (chestnuts)		Malësi e Madhe
 kërçëp	gheg	noun	m		side branch; splinter		Malësi e Madhe
-kërcingël	gheg	adj			skinny		Pult
-kërkëth	gheg	adj			tiny (child)		Malësi e Madhe
+kërcingël	gheg	adj		thatanik	skinny		Pult
+kërkëth	gheg	adj		vogël	tiny (child)		Malësi e Madhe
 kërsiçël	gheg	noun	f		crackling seeds		Malësi e Madhe
 kërthëndezë	gheg	verb			to take heart; to blush		Malësi e Madhe
 kërthiçë	gheg	verb		qaravitem	to whimper, to blubber		Malësi e Madhe
@@ -724,19 +724,19 @@ kërthigël	gheg	noun	f		forked pole (for hanging leaves)		Malësi e Madhe
 kërrajlë	gheg	noun	f	skelet	skeleton		Malësi e Madhe
 kërrmë	gheg	noun	f		dense thicket		Malësi e Madhe
 kërrmëz	gheg	noun	f		wheeze, rattle in the chest		Malësi e Madhe
-kërrni	gheg	noun	f		woodworm		Zadrimë
+kërrni	gheg	noun	f	krimb	woodworm		Zadrimë
 kësulhumb	gheg	adv		dëm	to waste, to ruin		Malësi e Madhe
 këshexë	gheg	noun	f	sirenë	siren, water spirit		Zadrimë
 kështallue	gheg	verb			to splint, to brace		Malësi e Madhe
 kthejç	gheg	adj			fickle		Zadrimë
-kthellojë	gheg	noun	f		underground pit; dungeon		Malësi e Madhe
+kthellojë	gheg	noun	f	kazamat	underground pit; dungeon		Malësi e Madhe
 kthismë	gheg	noun	f		false note		Pukë
-kiciribë	gheg	noun	f		lapwing		Malësi e Madhe
+kiciribë	gheg	noun	f	pupëz	lapwing		Malësi e Madhe
 kiem	gheg	adj		tërthortë	diagonal, slanting		Pult
 kilikue	gheg	verb		gudulis	to tickle		Zadrimë
 killue	gheg	verb		angullin	to yelp (of a beaten dog)		Pult
 kind	gheg	noun	m	qoshe	corner		Shkodër
-kipëc	gheg	noun	m		double, lookalike; twin		Malësi e Madhe
+kipëc	gheg	noun	m	binjak	double, lookalike; twin		Malësi e Madhe
 kipëcue	gheg	verb			to pair		Malësi e Madhe
 kjanë	gheg	noun	f	lugëz	gouge (chisel)		Dukagjin
 kjasinë	gheg	noun	f		seeping ground		Zadrimë
@@ -745,29 +745,29 @@ klitë	gheg	noun	f		film over the eyes; ice film		Pult
 kllaçë	gheg	noun	f	moçal	swamp		Malësi e Madhe
 kllagër	gheg	noun	f		furrow ridge; ice block		Malësi e Madhe
 kllimcë	gheg	noun	f		plover		Kelmend
-knajë	gheg	verb			to soil, to dirty		Malësi e Madhe
+knajë	gheg	verb		ndyj	to soil, to dirty		Malësi e Madhe
 knarë	gheg	verb		ngërdhesh	to scowl, to bare one's teeth		Pukë
 kobue	gheg	adj		trashë	dull-witted		Malësi e Madhe
 kllapi	gheg	noun	f	jerm	delirium; fantasy		Malësi e Madhe
-kllapuritë	gheg	verb		jermoj	to rave		Malësi e Madhe
+kllapuritë	gheg	verb		përçart	to rave		Malësi e Madhe
 kocan	gheg	noun	m		black he-goat		Malësi e Madhe
 koçak	gheg	noun	m		trap for thrushes		Mirditë
-koçallak	gheg	noun	m		thigh bone, femur		Malësi e Madhe
+koçallak	gheg	noun	m	femur	thigh bone, femur		Malësi e Madhe
 koçanue	gheg	verb			to freeze stiff		Malësi e Madhe
-koçëk	gheg	noun	m		cabbage stalk; knuckle bone		Malësi e Madhe
+koçëk	gheg	noun	m	koçan	cabbage stalk; knuckle bone		Malësi e Madhe
 koçik	gheg	noun	m		portion (of meat); joint		Malësi e Madhe
 koçiram	gheg	adj			partly paralysed		Malësi e Madhe
 koçkë	gheg	noun	m		thick thorn, dry twig		Malësi e Madhe
 koçomila	gheg	noun	f		big bones		Malësi e Madhe
-kodrak	gheg	noun	m		hilltop		Pukë
-kodrëc	gheg	noun	m		hillock		Pukë
+kodrak	gheg	noun	m	majë	hilltop		Pukë
+kodrëc	gheg	noun	m	kodrinë	hillock		Pukë
 kodrishe	gheg	noun	f		grassy hill		Pukë
 kodhele	gheg	noun	f	ledhatim	caress; flirt		Zadrimë
 kofilë	gheg	noun	f		feather grass		Shkodër
 kojlik	gheg	noun	m		plover-like bird		Zadrimë
 kokërrduçe	gheg	noun	f	gogëzhinë	oak gall		Shkodër
 kokrrue	gheg	verb			to pick one by one; to withdraw into oneself		Malësi e Madhe
-kokull	gheg	adj		mysët	convex, rounded		Pult
+kokull	gheg	adj		konveks	convex, rounded		Pult
 kolik	gheg	noun	m	kodër	knoll		Pukë
 kolir	gheg	noun	m		cloth collar strip		Mirditë
 kollap	gheg	noun	m	krah	upper arm bone		Pukë
@@ -790,11 +790,11 @@ kotar	gheg	noun	m		dairy shed; bird trap		Mirditë
 koteshë	gheg	noun	f		belongings; item of merchandise		Zadrimë
 kotrosël	gheg	adv		rrokullimthi	head over heels		Malësi e Madhe
 koturaç	gheg	noun	m		strangles (horse disease); bad cough		Malësi e Madhe
-kove	gheg	noun	f		crust (of bread); flaking plaster		Malësi e Madhe
+kove	gheg	noun	f	kore	crust (of bread); flaking plaster		Malësi e Madhe
 koxholl	gheg	noun	m		sheepskin rug		Shkodër
-krahanë	gheg	noun	f		faction; family branch		Mirditë
+krahanë	gheg	noun	f	palë	faction; family branch		Mirditë
 krahazue	gheg	verb		krahasoj	to compare; to take as partner		Mirditë
-krahisht	gheg	adv			side by side, in order		Malësi e Madhe
+krahisht	gheg	adv		krahpërkrah	side by side, in order		Malësi e Madhe
 krahishtue	gheg	verb		rregulloj	to put in order		Malësi e Madhe
 krahol	gheg	noun	m	jelek	waistcoat		Dukagjin
 kraj	gheg	noun	m	hero	hero (in laments)		Dukagjin
@@ -807,12 +807,12 @@ krapullitë	gheg	verb		jermoj	to rave in fever		Malësi e Madhe
 krape	gheg	noun	f	vezore	ovary (of a hen)		Kelmend
 krasat	gheg	noun	m		meat stew		Zadrimë
 krashtje	gheg	noun	f		poor brushwood		Malësi e Madhe
-krathel	gheg	noun	m		heath; bramble		Mirditë
+krathel	gheg	noun	m	shqopë	heath; bramble		Mirditë
 krefcë	gheg	noun	f		trap for birds and mice		Pukë
 krehue	gheg	verb			to rake (a haystack)		Malësi e Madhe
 krë	gheg	noun	f		top layer (of the pot)		Pukë
-krekacuer	gheg	adj			ironic, mocking		Kelmend
-krekcar	gheg	adj			boastful; brittle		Malësi e Madhe
+krekacuer	gheg	adj		ironik	ironic, mocking		Kelmend
+krekcar	gheg	adj		mburravec	boastful; brittle		Malësi e Madhe
 krekcue	gheg	verb		krasit	to prune; to lop		Zadrimë
 krënë	gheg	noun	f		embroidered panel		Malësi e Madhe
 kreshtënue	gheg	verb			to rear up (of a horse)		Malësi e Madhe
@@ -826,25 +826,25 @@ krocë	gheg	noun	f		limescale; burnt crust		Shkodër
 krojçe	gheg	noun	f		small spring		Malësi e Madhe
 krovak	gheg	noun	m		tall pasture grass		Kelmend
 krovë	gheg	noun	f		hay chaff		Kelmend
-krushkë	gheg	noun	f		mother-in-law (of one's daughter)		Malësi e Madhe
+krushkë	gheg	noun	f	krushqi	mother-in-law (of one's daughter)		Malësi e Madhe
 kryqe	gheg	noun	f	çerek	quarter (of a round loaf)		Malësi e Madhe
 kryqëz	gheg	noun	f		crossbar; mill rynd		Malësi e Madhe
-kryekeq	gheg	adj			foul-mouthed		Malësi e Madhe
+kryekeq	gheg	adj		gojëkeq	foul-mouthed		Malësi e Madhe
 kryelanë	gheg	noun	f		oiled cabbage pie		Zadrimë
 kryeshtrëmbët	gheg	noun	f	luleborë	snowdrop		Malësi e Madhe
-krrëme	gheg	noun	f		claim, right		Mirditë
-krratë	gheg	verb			to claim		Mirditë
+krrëme	gheg	noun	f	pretendim	claim, right		Mirditë
+krratë	gheg	verb		pretendoj	to claim		Mirditë
 krrigë	gheg	noun	f	gjilpërë	needle		Kurbin
 krrokë	gheg	verb		krakëllij	to croak		Mirditë
-krrokullë	gheg	noun	f		saffron crocus; hip joint		Malësi e Madhe
+krrokullë	gheg	noun	f	shafran	saffron crocus; hip joint		Malësi e Madhe
 krrutzue	gheg	verb		kërrus	to hunch		Pukë
 kue	gheg	verb			to give water; to brood (of a hen)		Zadrimë
 kuqeshë	gheg	noun	f		red cow		Malësi e Madhe
 kuqlue	gheg	verb		skuq	to redden		Malësi e Madhe
 kujth	gheg	noun	m		fibres (of melon); stomach hairs		Zadrimë
-kulmri	gheg	noun	f		hawthorn		Malësi e Madhe
-kulim	gheg	adj			scoundrel		Zadrimë
-kulnue	gheg	verb			to bulge		Pukë
+kulmri	gheg	noun	f	murriz	hawthorn		Malësi e Madhe
+kulim	gheg	adj		horr	scoundrel		Zadrimë
+kulnue	gheg	verb		fryhem	to bulge		Pukë
 kulihum	gheg	adv		kokëposhtë	headlong		Pukë
 kullëm	gheg	adj			honey-coloured		Malësi e Madhe
 kullëx	gheg	noun	f		whinchat		Malësi e Madhe
@@ -854,40 +854,40 @@ kundë	gheg	verb		lëkund	to shake, to move		Kelmend
 kungar	gheg	noun	m		corner post; roof hip beam		Pukë
 kungëzuer	gheg	adj		këndor	angular		Pukë
 kungue	gheg	noun	m		bladder campion		Malësi e Madhe
-kungullaç	gheg	noun	m		skull; empty-headed person		Malësi e Madhe
+kungullaç	gheg	noun	m	kafkë	skull; empty-headed person		Malësi e Madhe
 kungullore	gheg	adj			round like a pumpkin		Malësi e Madhe
 kunija	gheg	noun	f		metal pendants of a bride's necklace		Shkodër
 kurmzue	gheg	verb			to writhe, to wriggle		Zadrimë
-kusufërr	gheg	adj			schemer, troublemaker		Mirditë
+kusufërr	gheg	adj		intrigant	schemer, troublemaker		Mirditë
 kylë	gheg	verb		mbush	to fill		Mirditë
 labër	gheg	adj		lirshëm	loose (of clothes, rope)		Malësi e Madhe
 labrëdë	gheg	noun	m	hapësirë	open space, room		Malësi e Madhe
 lacë	gheg	noun	f	shenjë	distinguishing mark		Zadrimë
 laqemi	gheg	adv			unguarded, unattended		Malësi e Madhe
-ladicë	gheg	noun	f		stocks, fetters		Pukë
+ladicë	gheg	noun	f	pranga	stocks, fetters		Pukë
 lahura	gheg	noun	m	tra	beam		Malësi e Madhe
 lahuri	gheg	noun	f	gjallëri	liveliness, verve		Pult
 lakëçë	gheg	noun	f		young carp		Shkodër
 laknishtë	gheg	noun	f		water crowfoot		Pult
 land	gheg	noun	m		big chunk; hulk		Malësi e Madhe
-lamuç	gheg	noun	m		jumble, mess		Zadrimë
+lamuç	gheg	noun	m	rrëmujë	jumble, mess		Zadrimë
 lanë	gheg	noun	f	trashëgim	bequest; omission		Malësi e Madhe
-lanës	gheg	noun	m		testator		Malësi e Madhe
+lanës	gheg	noun	m	trashëgimlënës	testator		Malësi e Madhe
 langshtue	gheg	verb			to weep serum (of a wound)		Pukë
 langue	gheg	verb			to bleed sap; to sprinkle with brine		Pukë
-lapetë	gheg	noun	f		darn (in a sock)		Shkodër
+lapetë	gheg	noun	f	arnë	darn (in a sock)		Shkodër
 lapotë	gheg	adj		veshmadh	big-eared		Pukë
 laramanue	gheg	verb		falsifikoj	to falsify; to dissemble		Zadrimë
 laran	gheg	adj		laraman	spotted		Malësi e Madhe
 laravi	gheg	noun	f	dyfytyrësi	duplicity		Malësi e Madhe
-larëc	gheg	adj			spotted (goat)		Pult
+larëc	gheg	adj		laraman	spotted (goat)		Pult
 larës	gheg	noun	m		multicoloured twisted thread		Malësi e Madhe
 laricë	gheg	noun	f		multicoloured cloth		Malësi e Madhe
 larukë	gheg	noun	f		spotted cow		Kelmend
-lasë	gheg	noun	f		washing (of hands)		Dukagjin
+lasë	gheg	noun	f	larje	washing (of hands)		Dukagjin
 laskënue	gheg	verb		grimcoj	to crumble; to tear		Malësi e Madhe
 lastojë	gheg	noun	f		wooden yard gate		Pukë
-lashdë	gheg	noun	f		chunk (of bread)		Zadrimë
+lashdë	gheg	noun	f	copë	chunk (of bread)		Zadrimë
 lashtinue	gheg	verb		lagështoj	to moisten		Malësi e Madhe
 lashtue	gheg	verb		nxitoj	to hurry; to do early		Malësi e Madhe
 latue	gheg	noun	m	tunxh	brass		Malësi e Madhe
@@ -899,7 +899,7 @@ lazdrue	gheg	verb		llastoj	to spoil, to pamper		Pukë
 lbogur	gheg	noun	f	lëvore	bark		Malësi e Madhe
 lbogurue	gheg	verb			to strip bark		Malësi e Madhe
 lbokë	gheg	noun	f	lëvozhgë	thin peel		Kelmend
-lbyr	gheg	noun	m		film over the eyes; rainbow		Pukë
+lbyr	gheg	noun	m	ylber	film over the eyes; rainbow		Pukë
 lbyrë	gheg	verb			to cloud over (of the eyes)		Pukë
 lebarue	gheg	verb		belbëzoj	to stammer		Kelmend
 lëqëth	gheg	noun	m		small lake		Malësi e Madhe
@@ -909,33 +909,33 @@ lejthiç	gheg	noun	m	aguliçe	primrose		Pult
 lëmesë	gheg	noun	f		unresolved state		Pukë
 lënue	gheg	verb		lehtësoj	to relieve; to console		Zadrimë
 lepuri	gheg	verb		agon	to begin to dawn		Malësi e Madhe
-lërth	gheg	noun	m		wild garlic		Pukë
+lërth	gheg	noun	m	hudhër	wild garlic		Pukë
 lëshëc	gheg	noun	m		Yorkshire fog grass		Zadrimë
 leshujë	gheg	noun	f		shaggy cow		Malësi e Madhe
 lëtue	gheg	verb		lehtësoj	to relieve		Malësi e Madhe
 leudh	gheg	noun	m	insekt	insect; ant		Malësi e Madhe
-lëvic	gheg	adj			restless, fickle		Malësi e Madhe
-lezar	gheg	noun	m		small ladder; drying rack		Pukë
+lëvic	gheg	adj		paqetësueshëm	restless, fickle		Malësi e Madhe
+lezar	gheg	noun	m	shkallëz	small ladder; drying rack		Pukë
 lezmue	gheg	verb		iki	to flee		Mirditë
-lidhak	gheg	adj			sturdy, sinewy		Dukagjin
+lidhak	gheg	adj		fortë	sturdy, sinewy		Dukagjin
 lidhë	gheg	noun	f	lidhëse	tether		Malësi e Madhe
 ligcinë	gheg	noun	f		drizzle; exhaustion		Malësi e Madhe
 ligcue	gheg	verb		vesë	to drizzle		Malësi e Madhe
-ligesë	gheg	noun	f		moral failing		Pukë
+ligesë	gheg	noun	f	ligësi	moral failing		Pukë
 ligsue	gheg	verb			to diminish; to fall out		Malësi e Madhe
 ligrue	gheg	verb		vesë	to drizzle		Malësi e Madhe
-ligue	gheg	verb			to go astray; to sin		Pukë
+ligue	gheg	verb		gaboj	to go astray; to sin		Pukë
 lizhëm	gheg	noun	f	ndalim	prohibition, restriction		Malësi e Madhe
 lkojë	gheg	noun	f	kore	crust		Pukë
 lkuqë	gheg	verb		skuq	to redden		Pukë
 lmaque	gheg	verb		llastoj	to pamper; to refine		Malësi e Madhe
 lmaqi	gheg	noun	f	hollësi	refinement (in speech)		Malësi e Madhe
 lmajë	gheg	noun	f	hark	bow (for arrows)		Pukë
-lmashk	gheg	noun	m		slime; mouth crust		Malësi e Madhe
-lmbarë	gheg	verb		nisem	to set off; to start		Dukagjin
+lmashk	gheg	noun	m	gëlbazë	slime; mouth crust		Malësi e Madhe
+lmbarë	gheg	verb		nis	to set off; to start		Dukagjin
 lmyshkë	gheg	noun	f	myshk	moss		Malësi e Madhe
 lodhënim	gheg	noun	m	lodhje	fatigue; illness		Pult
-logorisë	gheg	verb			to long for		Malësi e Madhe
+logorisë	gheg	verb		dëshiroj	to long for		Malësi e Madhe
 lojbë	gheg	noun	f		large scaleless sea fish		Malësi e Madhe
 logue	gheg	verb		rrafshoj	to level		Pult
 loket	gheg	noun	f		young calves		Zadrimë
@@ -943,31 +943,31 @@ lopan	gheg	noun	m		oaf		Zadrimë
 lozër	gheg	noun	f		small dormouse		Malësi e Madhe
 lpandër	gheg	noun	f	pendë	feather; rag		Zadrimë
 lpa	gheg	noun	m	qetësi	calm (of the sea)		Pukë
-lpatë	gheg	adj			smooth, flat; calm		Pult
+lpatë	gheg	adj		lëmuar	smooth, flat; calm		Pult
 lpë	gheg	noun	f	mjegull	fog		Pukë
 lpiskë	gheg	adj			finest (of cloth)		Shkodër
 lpishkë	gheg	noun	f		evergreen mountain grass		Malësi e Madhe
 lpishtë	gheg	noun	f		enclosed pasture		Malësi e Madhe
 lpoz	gheg	noun	m	tavan	ceiling		Pukë
 lpushtër	gheg	noun	f		marsh marigold		Malësi e Madhe
-ltë	gheg	noun	f		marble; smooth calm		Malësi e Madhe
+ltë	gheg	noun	f	mermer	marble; smooth calm		Malësi e Madhe
 lthurë	gheg	verb			to bind tightly together		Pukë
 lubardhë	gheg	noun	f		rare wild animal (folk)		Kelmend
-lugan	gheg	adj			limp, feeble		Kelmend
+lugan	gheg	adj		plogësht	limp, feeble		Kelmend
 lugare	gheg	noun	f	govatë	trough		Malësi e Madhe
-lugç	gheg	adj		luguar	scooped, hollowed		Malësi e Madhe
+lugç	gheg	adj		lugoj	scooped, hollowed		Malësi e Madhe
 lugati	gheg	noun	f	grykësi	greed		Malësi e Madhe
 lulue	gheg	verb		lulëzoj	to blossom		Malësi e Madhe
 luzhi	gheg	noun	f	vërshim	flood		Zadrimë
 lypësi	gheg	noun	f	lypje	begging; alms		Malësi e Madhe
-llaqemi	gheg	adv			unattended		Malësi e Madhe
+llaqemi	gheg	adv		lirshëm	unattended		Malësi e Madhe
 llokajë	gheg	noun	f		muddy runoff		Malësi e Madhe
 llokatiq	gheg	noun	m	dhallë	buttermilk		Dukagjin
 llokë	gheg	verb		tund	to shake (a liquid)		Zadrimë
-llovrak	gheg	noun	m		chaff, husks		Malësi e Madhe
-macolle	gheg	noun	f		tree trunk		Malësi e Madhe
+llovrak	gheg	noun	m	byk	chaff, husks		Malësi e Madhe
+macolle	gheg	noun	f	trung	tree trunk		Malësi e Madhe
 maqën	gheg	noun	f		cow calving at three years		Malësi e Madhe
-maçarungë	gheg	noun	f		tadpole; big-headed person		Malësi e Madhe
+maçarungë	gheg	noun	f	fulterëz	tadpole; big-headed person		Malësi e Madhe
 madhue	gheg	verb		madhoj	to enlarge		Malësi e Madhe
 madhosh	gheg	adj			big and well-built		Malësi e Madhe
 mae	gheg	noun	f	majë	tip, top		Shkodër
@@ -989,12 +989,12 @@ mangalle	gheg	noun	f		door latch		Zadrimë
 mallue	gheg	verb		ndot	to soil; to profane		Mirditë
 magëla	gheg	noun	m	piskatore	tweezers, pincers		Kelmend
 mangën	gheg	noun	f		flax brake		Zadrimë
-mangulaq	gheg	adj			caressing; beloved		Malësi e Madhe
+mangulaq	gheg	adj		ledhatues	caressing; beloved		Malësi e Madhe
 mangulue	gheg	verb		përkëdhel	to caress, to cuddle		Malësi e Madhe
-maranaje	gheg	noun	f	Rrëshajë	Pentecost		Pult
+maranaje	gheg	noun	f	rrëshajë	Pentecost		Pult
 margjënuer	gheg	noun	m		rock shelter		Malësi e Madhe
-marmith	gheg	adj			sly, underhand		Shkodër
-marrakotë	gheg	verb			to stagger; to doze		Dukagjin
+marmith	gheg	adj		dinak	sly, underhand		Shkodër
+marrakotë	gheg	verb		lëkund	to stagger; to doze		Dukagjin
 mashkullue	gheg	verb			to bear male calves		Malësi e Madhe
 mashk	gheg	noun	m	sahan	dish		Kelmend
 matosë	gheg	verb			to lean over; to rush		Malësi e Madhe
@@ -1010,9 +1010,9 @@ mballue	gheg	verb		kullot	to graze, to spread out grazing		Malësi e Madhe
 mbarashtue	gheg	verb		mbarështoj	to manage, to administer		Zadrimë
 mbarrabetë	gheg	noun	f	murgeshë	nun		Shkodër
 mbasgrushtë	gheg	noun	f		cuff; wrist		Kelmend
-mbëdhexë	gheg	noun	f		hornbeam		Malësi e Madhe
-mbëkatni	gheg	noun	f	mëkatësi	sinfulness		Malësi e Madhe
-mbledhëtar	gheg	noun	m		assembly member		Malësi e Madhe
+mbëdhexë	gheg	noun	f	shkozë	hornbeam		Malësi e Madhe
+mbëkatni	gheg	noun	f	mëkat	sinfulness		Malësi e Madhe
+mbledhëtar	gheg	noun	m	asamblist	assembly member		Malësi e Madhe
 mbllugjë	gheg	noun	f		razor handle		Malësi e Madhe
 mbelmesë	gheg	noun	f		fat for cooking; unction		Zadrimë
 mbëndore	gheg	noun	f	mjet	means		Malësi e Madhe
@@ -1021,8 +1021,8 @@ mbërdheztë	gheg	adj			flushed		Malësi e Madhe
 mbërdhezë	gheg	verb		skuqem	to blush		Zadrimë
 mbërdhuzë	gheg	verb		ngërdhesh	to scowl		Malësi e Madhe
 mbërzanë	gheg	verb		nxë	to hold, to contain		Malësi e Madhe
-mbërrolët	gheg	adj			severe, stern		Pukë
-mbëshënjue	gheg	verb			to distinguish oneself		Malësi e Madhe
+mbërrolët	gheg	adj		rreptë	severe, stern		Pukë
+mbëshënjue	gheg	verb		shquhem	to distinguish oneself		Malësi e Madhe
 mbëshenjim	gheg	noun	m	privilegj	distinction, privilege		Malësi e Madhe
 mbëshic	gheg	noun	m	kapak	lid		Kelmend
 mbështetsë	gheg	noun	f	bazë	base, support		Zadrimë
@@ -1031,13 +1031,13 @@ mbëzuçkë	gheg	noun	f	turi	snout		Dukagjin
 mbëza	gheg	verb		thërras	to call out		Malësi e Madhe
 mbohol	gheg	adj		budalla	foolish		Malësi e Madhe
 mbolladane	gheg	adv		çiltas	openly, frankly		Pult
-mbollungë	gheg	noun	f		bump, swelling; projection		Malësi e Madhe
+mbollungë	gheg	noun	f	ënjtje	bump, swelling; projection		Malësi e Madhe
 mbrapshti	gheg	noun	f	hije	shady side		Dukagjin
 mbrapshtue	gheg	verb			to act perversely		Pukë
 mbregën	gheg	adj			with spinal disease (of a cow)		Zadrimë
-mbrijash	gheg	adv			from the sides		Malësi e Madhe
+mbrijash	gheg	adv		anash	from the sides		Malësi e Madhe
 mbrijaza	gheg	adv		tërthorazi	sideways, askance		Malësi e Madhe
-mbrrakullue	gheg	verb			to joke		Malësi e Madhe
+mbrrakullue	gheg	verb		tall	to joke		Malësi e Madhe
 mbrrutë	gheg	verb			to wither from drought		Malësi e Madhe
 mbuhovinë	gheg	noun	f	pluhur	cloud of dust		Malësi e Madhe
 mbushcë	gheg	noun	f		powder loader; battery		Malësi e Madhe
@@ -1045,7 +1045,7 @@ mbushullue	gheg	verb			to fill to overflowing		Zadrimë
 mges	gheg	noun	m	mrizë	noontime rest of flocks		Malësi e Madhe
 mëcukth	gheg	noun	m		sand sedge		Zadrimë
 meqafe	gheg	noun	f	përgjegjësi	responsibility		Pukë
-meqave	gheg	noun	f		snowdrift		Pukë
+meqave	gheg	noun	f	mjellazë	snowdrift		Pukë
 megue	gheg	verb		agon	to dawn		Pult
 mekashna	gheg	conj		së paku	at least		Zadrimë
 mëkue	gheg	verb		mbërrij	to arrive, to reach		Malësi e Madhe
@@ -1053,19 +1053,19 @@ melcë	gheg	noun	f		small bird of the thickets		Malësi e Madhe
 melqys	gheg	noun	m		fine mud		Malësi e Madhe
 mëllaxë	gheg	noun	f		vine stake		Malësi e Madhe
 mendar	gheg	adj		mençur	wise, sensible		Mirditë
-merandue	gheg	verb			to balance		Pukë
+merandue	gheg	verb		baraspeshoj	to balance		Pukë
 merdak	gheg	noun	m		vine stake; thin pole		Malësi e Madhe
-merdostë	gheg	adj			rough, coarse (of skin, person)		Malësi e Madhe
+merdostë	gheg	adj		vrazhdë	rough, coarse (of skin, person)		Malësi e Madhe
 merdhac	gheg	adj			sensitive to cold		Shkodër
 mërimangë velgjëni	gheg	noun	f		pine processionary		Malësi e Madhe
 merlë	gheg	noun	f	stuhi	storm		Malësi e Madhe
-mertiç	gheg	noun	m		osprey		Malësi e Madhe
-mertik	gheg	noun	m		castor-oil plant		Pukë
+mertiç	gheg	noun	m	shqiponjë	osprey		Malësi e Madhe
+mertik	gheg	noun	m	ricin	castor-oil plant		Pukë
 mertosë	gheg	verb		mbërthej	to fasten, to nail		Malësi e Madhe
 mërrkotë	gheg	noun	f		lump of congealed fat		Pukë
 mërrnjoshk	gheg	adj		vëngër	cross-eyed		Zadrimë
 mestitë	gheg	verb		majm	to fatten		Mirditë
-meshni	gheg	noun	f		childishness		Malësi e Madhe
+meshni	gheg	noun	f	fëmijëri	childishness		Malësi e Madhe
 meshnue	gheg	verb		matufosem	to become childish (in old age)		Zadrimë
 meshnuer	gheg	adj		fëmijëror	childish		Zadrimë
 meti	gheg	noun	f		liver fluke disease		Pukë
@@ -1087,7 +1087,7 @@ mixuer	gheg	adj		mizor	cruel		Malësi e Madhe
 mjaftim	gheg	noun	m		sufficiency		Malësi e Madhe
 mjah	gheg	adv		mjaft	enough		Zadrimë
 mjeçkë	gheg	noun	f	kovë	milking pail		Kelmend
-mjekatar	gheg	noun	m		quack		Zadrimë
+mjekatar	gheg	noun	m	shërues	quack		Zadrimë
 mjekërrdhizë	gheg	noun	f		St Bernard's lily		Malësi e Madhe
 mjerthi	gheg	prep		deri	until, up to		Mirditë
 mjeti	gheg	noun	m		partition of rooms		Pult
@@ -1102,8 +1102,8 @@ molli	gheg	noun	f	baltë	mud		Zadrimë
 mollishëm	gheg	adj		baltë	muddy		Zadrimë
 monokal	gheg	adv		enkas	on purpose, specially		Pukë
 moraçë	gheg	noun	f	maraq	fennel; water spirit		Malësi e Madhe
-morë	gheg	noun	f		fate (Parca)		Malësi e Madhe
-morrc	gheg	noun	m		poultry louse; aphid		Malësi e Madhe
+morë	gheg	noun	f	fat	fate (Parca)		Malësi e Madhe
+morrc	gheg	noun	m	morr	poultry louse; aphid		Malësi e Madhe
 mosmerë	gheg	noun	f	përbindësh	monster		Malësi e Madhe
 mozi	gheg	noun	f	vdekshmëri	mortality; mourning		Zadrimë
 motisë	gheg	verb		plakem	to grow old		Malësi e Madhe
@@ -1112,14 +1112,14 @@ motmotak	gheg	adj		njëvjeçar	one year old		Malësi e Madhe
 motmotar	gheg	adj		njëvjeçar	yearling		Mirditë
 motërzue	gheg	verb			to become like sisters; to find alike		Malësi e Madhe
 motsi	gheg	noun	f		ripening season		Malësi e Madhe
-motsue	gheg	verb		piqem	to ripen		Malësi e Madhe
+motsue	gheg	verb		pjek	to ripen		Malësi e Madhe
 mrejçë	gheg	noun	f	shqopë	tree heath		Pukë
 mreshtë	gheg	noun	f		heath scrub		Pukë
 mrragël	gheg	noun	f		large ant		Malësi e Madhe
-mrrodel	gheg	adj			uncouth		Malësi e Madhe
-mrrodh	gheg	adj		vrenjtur	sullen		Kelmend
-mrrole	gheg	adj		vrenjtur	sullen		Pukë
-mrrolë	gheg	verb		ngrysem	to sulk		Pukë
+mrrodel	gheg	adj		pagdhendur	uncouth		Malësi e Madhe
+mrrodh	gheg	adj		vrenjt	sullen		Kelmend
+mrrole	gheg	adj		vrenjt	sullen		Pukë
+mrrolë	gheg	verb		vrenjt	to sulk		Pukë
 mrrutë	gheg	verb		thahet	to shrivel from drought		Malësi e Madhe
 msukadël	gheg	adj			thick-set, thick-lipped		Zadrimë
 mtue	gheg	verb		pretendoj	to claim		Dukagjin
@@ -1129,32 +1129,32 @@ mugëz	gheg	noun	m	muzg	dusk		Malësi e Madhe
 mugullue	gheg	verb			to dim (of the eyes)		Pult
 muhanak	gheg	adj		mbyllur	gloomy, withdrawn		Malësi e Madhe
 muhar	gheg	noun	m		timothy grass		Malësi e Madhe
-mujaksinë	gheg	noun	f		damp ground		Zadrimë
-mujue	gheg	verb		hedh poshtë	to refute		Malësi e Madhe
+mujaksinë	gheg	noun	f	lagështi	damp ground		Zadrimë
+mujue	gheg	verb		përgënjeshtroj	to refute		Malësi e Madhe
 mukue	gheg	verb		pëllet	to low softly (of a cow)		Malësi e Madhe
-mullac	gheg	adj			thick-necked, fat-faced		Zadrimë
-mullacue	gheg	verb			to swell up (of the face)		Zadrimë
+mullac	gheg	adj		qafëtrashë	thick-necked, fat-faced		Zadrimë
+mullacue	gheg	verb		fryhem	to swell up (of the face)		Zadrimë
 mullzë	gheg	noun	f		abomasum; rennet		Malësi e Madhe
 mun	gheg	adv		ndoshta	perhaps		Kelmend
-mundac	gheg	adj			hard-working, toiling		Mirditë
+mundac	gheg	adj		punëtor	hard-working, toiling		Mirditë
 mundsue	gheg	verb		mundoj	to torment		Pukë
 mundshtim	gheg	noun	m	qortim	reprimand		Pukë
 mundshtue	gheg	verb		qortoj	to reprimand		Pukë
 murajzë	gheg	noun	f		wild parsley-like plant		Malësi e Madhe
 murrçak	gheg	noun	m		whinchat		Malësi e Madhe
 murrçim	gheg	adj			olive-brown		Pukë
-murrëlë	gheg	noun	f		horsefly		Zadrimë
-murrficak	gheg	adj		veriut	northern, arctic		Kelmend
+murrëlë	gheg	noun	f	zekth	horsefly		Zadrimë
+murrficak	gheg	adj		verior	northern, arctic		Kelmend
 murrfice	gheg	noun	f		shady north side		Kelmend
 muskadi	gheg	adj			muscat (grape)		Pult
 mush	gheg	noun	m	push	down, fuzz		Shkodër
-mushkazëm	gheg	adj			honey-blond		Malësi e Madhe
+mushkazëm	gheg	adj		bjond	honey-blond		Malësi e Madhe
 mushtrak	gheg	noun	m		yellow clover		Shkodër
-myzyrë	gheg	noun	f		measure; boundary		Malësi e Madhe
+myzyrë	gheg	noun	f	masë	measure; boundary		Malësi e Madhe
 myzhevinë	gheg	noun	f		salted cream		Malësi e Madhe
 nafele	gheg	noun	f		white patch (on hide)		Pukë
 najue	gheg	verb		pres	to wait a little		Shkodër
-nagjël	gheg	noun	f		leftovers		Pukë
+nagjël	gheg	noun	f	mbeturinë	leftovers		Pukë
 naklim	gheg	noun	m	përshtypje	impression, anxious thought		Malësi e Madhe
 naklue	gheg	verb			to be deeply affected		Malësi e Madhe
 nanshore	gheg	noun	f	mëndeshë	foster mother, nurse		Zadrimë
@@ -1163,25 +1163,25 @@ natare	gheg	adj			skilled housewife		Zadrimë
 navig	gheg	noun	m	shul	door bar		Kelmend
 nepshue	gheg	verb		mungoj	to fall short		Malësi e Madhe
 nërkue	gheg	verb			to hibernate		Pukë
-neshtrashë	gheg	noun	f		omen, presentiment		Malësi e Madhe
-netue	gheg	verb			to prick (one's hands)		Pukë
-nevestër	gheg	noun	f		restharrow		Pukë
+neshtrashë	gheg	noun	f	ogur	omen, presentiment		Malësi e Madhe
+netue	gheg	verb		shpoj	to prick (one's hands)		Pukë
+nevestër	gheg	noun	f	athje	restharrow		Pukë
 ngjomë	gheg	verb		zbukuroj	to adorn with greenery		Dukagjin
 nkastëshëm	gheg	adj		artificial	artificial; skilful		Malësi e Madhe
 nkote	gheg	adv		kot	in vain		Malësi e Madhe
-nocë	gheg	noun	f		small coin; spangle		Malësi e Madhe
+nocë	gheg	noun	f	metelik	small coin; spangle		Malësi e Madhe
 nogë	gheg	noun	f		crown of the head; knuckle		Zadrimë
 nokël	gheg	noun	f	kokërr	grain, bead		Shkodër
-norushë	gheg	noun	f		grebe		Shkodër
+norushë	gheg	noun	f	karabatak	grebe		Shkodër
 nrate	gheg	noun	f	nadje	early morning		Mirditë
 nunukue	gheg	verb		murmuris	to grumble		Malësi e Madhe
 ndëjshëm	gheg	adv		qetësisht	calmly, leisurely		Malësi e Madhe
 ndëjë	gheg	verb		fal	to forgive		Malësi e Madhe
 ndënkambcë	gheg	noun	f		treadle cords; trap, trick		Zadrimë
 ndërdy	gheg	verb		ngurroj	to hesitate		Malësi e Madhe
-ndërgishtëz	gheg	noun	f		whitlow		Malësi e Madhe
+ndërgishtëz	gheg	noun	f	zgjuath	whitlow		Malësi e Madhe
 ndërhundëzue	gheg	verb			to speak through the nose		Pukë
-ndërisht	gheg	adv		nderisht	respectfully		Malësi e Madhe
+ndërisht	gheg	adv		ndershëm	respectfully		Malësi e Madhe
 ndërklisë	gheg	verb			to miss each other		Pukë
 ndërkye	gheg	verb			to get gid; to be obstinate		Mirditë
 ndërlymna	gheg	noun	f		delta, land between rivers		Pukë
@@ -1193,21 +1193,21 @@ ndeshëtar	gheg	noun	m		wrestler, contender		Malësi e Madhe
 ndeshëzi	gheg	adj		ogurzi	ill-omened		Malësi e Madhe
 ndëzçë	gheg	noun	f	çakmak	flint and steel		Shkodër
 ndezç	gheg	adj		djegshëm	flammable		Malësi e Madhe
-ndezulli	gheg	noun	f		ardour, zeal		Malësi e Madhe
+ndezulli	gheg	noun	f	zell	ardour, zeal		Malësi e Madhe
 ndiçë	gheg	verb		bajatet	to go stale		Shkodër
 ndiçëm	gheg	adj		bajat	stale, days old		Shkodër
 ndihmim	gheg	noun	m	ndihmë	help		Pukë
 ndojnik	gheg	noun	m		south-east wind		Malësi e Madhe
-ndojsë	gheg	prep			somehow		Malësi e Madhe
+ndojsë	gheg	prep		disi	somehow		Malësi e Madhe
 ndoshti	gheg	adv		ndoshta	perhaps		Malësi e Madhe
-ndri	gheg	noun	f		swaddling band		Zadrimë
+ndri	gheg	noun	f	fashë	swaddling band		Zadrimë
 ndrijue	gheg	verb			to cramp up		Pukë
 ndryçë	gheg	verb		shtyp	to press		Malësi e Madhe
 ndrydhët	gheg	adj			half-baked		Pult
 ndukë	gheg	noun	f		tuft of wool		Mirditë
 ndujtë	gheg	verb		lag	to soak (of rain)		Zadrimë
-ngallicue	gheg	verb			to sprout		Pukë
-ngallue	gheg	verb			to put out shoots		Zadrimë
+ngallicue	gheg	verb		mbij	to sprout		Pukë
+ngallue	gheg	verb		mbij	to put out shoots		Zadrimë
 ngarue	gheg	verb		vazhdoj	to continue		Pukë
 ngarrue	gheg	verb		rrethoj	to surround, to crowd round		Malësi e Madhe
 ngërdhucue	gheg	verb			to speak affectedly		Malësi e Madhe
@@ -1216,9 +1216,9 @@ ngjijaz	gheg	adv		gjunjazi	on one's knees		Malësi e Madhe
 ngolë	gheg	noun	f	gozhdë	nail		Zadrimë
 ngredhë	gheg	verb		ngacmoj	to irritate		Zadrimë
 nguli	gheg	noun	m	natyrë	nature, character		Pukë
-ngulue	gheg	verb		ngulem	to settle		Mirditë
+ngulue	gheg	verb		ngul	to settle		Mirditë
 ngurë	gheg	verb		mbyll	to shut		Malësi e Madhe
-njak	gheg	noun	m		bruise		Malësi e Madhe
+njak	gheg	noun	m	mavijosje	bruise		Malësi e Madhe
 njësh	gheg	adj			of one piece; corner stone		Malësi e Madhe
 njelmësinë	gheg	noun	f		salty food		Zadrimë
 njomtue	gheg	verb			to give alms		Malësi e Madhe
@@ -1231,7 +1231,7 @@ ogrishtë	gheg	noun	f		prickly lettuce		Malësi e Madhe
 ojnik	gheg	noun	m		east wind		Malësi e Madhe
 orbënue	gheg	verb		verboj	to blind		Ulqin
 ordisë	gheg	verb		fajësoj	to blame		Malësi e Madhe
-paesuer	gheg	noun	m		visitor; matchmaker		Kelmend
+paesuer	gheg	noun	m	vizitor	visitor; matchmaker		Kelmend
 pagjandërr	gheg	noun	f	levë	lever; vine prop		Malësi e Madhe
 pahi	gheg	noun	f		paling fence		Malësi e Madhe
 pajue	gheg	verb		pajis	to give a dowry		Malësi e Madhe
@@ -1247,7 +1247,7 @@ pamollë	gheg	noun	f		bridge pier		Kelmend
 pandritë	gheg	verb			to plague, to pester		Kelmend
 pandë	gheg	noun	f	çati	roof frame		Pukë
 paragashë	gheg	noun	m		early fig variety		Shkodër
-paragun	gheg	adj			strong, solid		Malësi e Madhe
+paragun	gheg	adj		fortë	strong, solid		Malësi e Madhe
 paralë	gheg	adv		horizontalisht	horizontally		Shkodër
 paran	gheg	adv		përpara	forward		Malësi e Madhe
 paranë	gheg	adj		pagan	pagan, heathen		Zadrimë
@@ -1255,7 +1255,7 @@ paravang	gheg	adj		pjerrët	slanting, skewed		Zadrimë
 paresh	gheg	adv			a short while ago		Malësi e Madhe
 parri	gheg	noun	m	djall	evil spirit		Mirditë
 paskaq	gheg	noun	m		finest flour		Malësi e Madhe
-pasuer	gheg	noun	m		visitor		Malësi e Madhe
+pasuer	gheg	noun	m	vizitor	visitor		Malësi e Madhe
 pasue	gheg	verb		vizitoj	to visit		Kelmend
 pastër deti	gheg	noun	m		starfish		Shkodër
 pasyç	gheg	adv			carelessly		Zadrimë
@@ -1264,9 +1264,9 @@ pashi	gheg	noun	m		dark maize		Pult
 patajkë	gheg	noun	f	shputë	sole of the foot		Zadrimë
 patalik	gheg	noun	m	raft	shelf		Malësi e Madhe
 patalog	gheg	noun	m	shesh	clearing		Malësi e Madhe
-patushue	gheg	verb			to slap		Kelmend
+patushue	gheg	verb		shuplakë	to slap		Kelmend
 pavajçëm	gheg	adj		nevojshëm	needy		Zadrimë
-pegelë	gheg	noun	f		safety pin		Shkodër
+pegelë	gheg	noun	f	karficë	safety pin		Shkodër
 pendë	gheg	noun	f		pair; spring; hook		Malësi e Madhe
 pëllaskë	gheg	noun	f		gob of phlegm		Malësi e Madhe
 pëndël	gheg	noun	f	pupël	feather		Pukë
@@ -1278,7 +1278,7 @@ përbythë	gheg	verb		shkel	to trample, to humiliate		Malësi e Madhe
 perce	gheg	noun	f	pjesë	portion		Malësi e Madhe
 përqadhë	gheg	verb			to fawn upon		Shkodër
 përdahë	gheg	verb		rrah	to beat		Zadrimë
-përdredhëc	gheg	adj			vain, affected		Zadrimë
+përdredhëc	gheg	adj		mendjemadh	vain, affected		Zadrimë
 përdorcak	gheg	adj		shkathët	handy, nimble		Malësi e Madhe
 përdylpkue	gheg	verb		përkul	to bend		Malësi e Madhe
 përdhëc	gheg	noun	m		ploughshare tip		Malësi e Madhe
@@ -1296,7 +1296,7 @@ përgim	gheg	noun	m		vigil; feast		Malësi e Madhe
 përgojisht	gheg	adv		gojarisht	orally		Malësi e Madhe
 përhjekë	gheg	verb			to draw (breath)		Malësi e Madhe
 përhoshë	gheg	verb		josh	to entice		Zadrimë
-përirun	gheg	adj			tasteless (of bread)		Malësi e Madhe
+përirun	gheg	adj		pashijshëm	tasteless (of bread)		Malësi e Madhe
 përkrahë	gheg	verb		përkrah	to support		Malësi e Madhe
 përkrejcë	gheg	noun	f		livestock lent on shares		Pukë
 përkryeti	gheg	adv		kryeposhtë	headlong		Pukë
@@ -1307,7 +1307,7 @@ përlim	gheg	noun	m	detyrë	duty, obligation		Pukë
 përlinë	gheg	adj		thepisur	steep		Malësi e Madhe
 përloshan	gheg	adj		qaraman	tearful		Pukë
 përloshë	gheg	verb		përlotem	to well up with tears		Pukë
-përlugtue	gheg	verb			to overeat		Malësi e Madhe
+përlugtue	gheg	verb		teproj	to overeat		Malësi e Madhe
 përmaje	gheg	prep		mbi	above, on top of		Malësi e Madhe
 përmbishëm	gheg	adv		përsipër	from above		Zadrimë
 përmjetue	gheg	verb			to half-fill		Pukë
@@ -1318,14 +1318,14 @@ përnjallë	gheg	verb		ringjall	to revive; to mention		Malësi e Madhe
 perof	gheg	noun	m	humnerë	abyss		Pult
 përpajnue	gheg	verb			to layer (vines)		Pukë
 përpalnë	gheg	noun	f		vine layer		Pukë
-përpis	gheg	adj			insatiable		Malësi e Madhe
+përpis	gheg	adj		pangopur	insatiable		Malësi e Madhe
 përpjetue	gheg	verb		lartësoj	to raise		Malësi e Madhe
 përspjek	gheg	prep		kundër	opposite		Malësi e Madhe
 përsynue	gheg	verb		synoj	to aim at		Malësi e Madhe
 përsheshë	gheg	verb		thërrmoj	to crumble		Pukë
 përshkardhë	gheg	verb		robëroj	to enslave		Pukë
 përtrue	gheg	verb		mallkoj	to anathematize		Malësi e Madhe
-përvashë	gheg	noun	f		wild pink		Pult
+përvashë	gheg	noun	f	karafil	wild pink		Pult
 përvim	gheg	noun	m	provë	trial, experience		Pukë
 përvimtar	gheg	adj		sprovues	testing; experienced		Pukë
 përvjedhë	gheg	verb		vjedh	to pilfer; to slip away		Pukë
@@ -1334,18 +1334,18 @@ përvu	gheg	verb			to set about		Malësi e Madhe
 përzhurgë	gheg	verb		ndot	to smear, to soil		Pult
 përrallë	gheg	verb			to mock		Malësi e Madhe
 përrieje	gheg	noun	m	përrua	streams		Malësi e Madhe
-perrik	gheg	noun	m		reserve, savings		Pukë
+perrik	gheg	noun	m	rezervë	reserve, savings		Pukë
 përshim	gheg	adv		tamam	exactly		Malësi e Madhe
 përrlë	gheg	noun	f		stone chip		Malësi e Madhe
 përrn	gheg	noun	m	levë	lever		Malësi e Madhe
 peshak	gheg	adj		mendjelehtë	scatterbrained		Malësi e Madhe
 pshikëshurrë	gheg	noun	f	fshikëz	bladder		Malësi e Madhe
-pështjellcë	gheg	noun	f		bindweed		Malësi e Madhe
+pështjellcë	gheg	noun	f	morënzë	bindweed		Malësi e Madhe
 pët pët	gheg	adv		ngadalë	softly		Dukagjin
 petanuer	gheg	adj			terraced		Malësi e Madhe
 pëshqitë	gheg	verb		rrëshqas	to slip		Malësi e Madhe
 pështjerrë	gheg	noun	f	mushqerrë	yearling heifer		Zadrimë
-pështueshëm	gheg	adj		shpëtuar	spared, unharmed		Pult
+pështueshëm	gheg	adj		shëndoshë	spared, unharmed		Pult
 pështjerzë	gheg	noun	f		place with pits		Malësi e Madhe
 petullue	gheg	verb		spitullohem	to show off, to act affectedly		Malësi e Madhe
 pëth	gheg	noun	m		tongue frenulum		Zadrimë
@@ -1353,7 +1353,7 @@ pëzatë	gheg	verb			to set to work		Pukë
 pi	gheg	prep		mbi	above, over		Malësi e Madhe
 picël	gheg	noun	f		needle stitch		Malësi e Madhe
 picëlim	gheg	noun	m		fine embroidery; dressing up		Malësi e Madhe
-picëlue	gheg	verb		stolisem	to dress up		Malësi e Madhe
+picëlue	gheg	verb		stolis	to dress up		Malësi e Madhe
 picërrue	gheg	verb			to pilfer bit by bit		Malësi e Madhe
 picrrak	gheg	noun	m	salamandër	fire salamander		Pukë
 picorr	gheg	adj		vogël	little (child)		Zadrimë
@@ -1361,33 +1361,33 @@ pidiposhtë	gheg	adv		tatëpjetë	downhill		Malësi e Madhe
 piejëshëm	gheg	adj		pijshëm	drinkable		Pukë
 piellue	gheg	verb		këputem	to be exhausted		Zadrimë
 pigali	gheg	noun	m	çep	spout		Mirditë
-pikatë	gheg	verb		dallohem	to excel		Zadrimë
+pikatë	gheg	verb		shquhem	to excel		Zadrimë
 pikatshëm	gheg	adv			distinctly, with distinction		Zadrimë
 pikalarëm	gheg	adj		pikalosh	freckled		Zadrimë
 pihë	gheg	verb		qëlloj	to hit		Malësi e Madhe
 pikësore	gheg	noun	f		ridge tile; eaves board		Pult
 piklue	gheg	verb		pikoj	to drip; to drop unripe		Malësi e Madhe
-piktue	gheg	verb			to nibble		Malësi e Madhe
+piktue	gheg	verb		brej	to nibble		Malësi e Madhe
 pikullue	gheg	verb		fiket	to die down (of fire)		Malësi e Madhe
 pilci	gheg	noun	f	pabesi	treachery		Pukë
 pilcue	gheg	verb			to plot against		Pukë
-piliherdhe	gheg	noun	f		shrewish woman		Shkodër
+piliherdhe	gheg	noun	f	grindavec	shrewish woman		Shkodër
 pilipuç	gheg	adj			small and neat; tight-fitting		Malësi e Madhe
 piloz	gheg	noun	m	jugë	wet weather		Mirditë
 pille	gheg	noun	f		wall shelf		Pukë
-pingullë	gheg	adv			faint (from hunger)		Malësi e Madhe
+pingullë	gheg	adv		alivanos	faint (from hunger)		Malësi e Madhe
 pipanollë	gheg	noun	f		meadow rue		Malësi e Madhe
 piptue	gheg	verb			to sprout pipes; to nibble		Malësi e Madhe
 piskim	gheg	noun	m		basting stitch		Malësi e Madhe
-pishak	gheg	noun	m		torch; blazing heat		Malësi e Madhe
+pishak	gheg	noun	m	pishtar	torch; blazing heat		Malësi e Madhe
 pishkullue	gheg	verb		pëshpëris	to whisper		Pukë
 pishkuricë	gheg	noun	f	vogëlsirë	trifle		Malësi e Madhe
 pishtër	gheg	noun	f		enclosed pasture		Malësi e Madhe
-pitigonë	gheg	noun	f	llafazane	chatterbox (woman)		Shkodër
-pitërr	gheg	adv		dendur	densely		Pukë
+pitigonë	gheg	noun	f	llafazan	chatterbox (woman)		Shkodër
+pitërr	gheg	adv		dend	densely		Pukë
 pitush	gheg	noun	m	kulaç	small loaf		Zadrimë
 piurrlë	gheg	noun	f	grimcë	tiny chip		Malësi e Madhe
-pizar	gheg	adj		penduar	sorry, regretful		Pukë
+pizar	gheg	adj		pendoj	sorry, regretful		Pukë
 pizatë	gheg	verb			to set to work		Malësi e Madhe
 pizël	gheg	noun	f	grimcë	speck, atom		Pukë
 pizgull	gheg	noun	f	ashkël	splinter		Malësi e Madhe
@@ -1410,13 +1410,13 @@ plarue	gheg	verb		praroj	to gild		Shkodër
 plaze	gheg	noun	f		livestock disease		Zadrimë
 plizgë	gheg	noun	f	bisk	twig		Malësi e Madhe
 plotonicë	gheg	noun	f		ear ornament		Malësi e Madhe
-plumbçore	gheg	noun	f	fallxhore	fortune-teller (with lead)		Malësi e Madhe
+plumbçore	gheg	noun	f	fallxheshë	fortune-teller (with lead)		Malësi e Madhe
 pllojc	gheg	adj		binjak	twin; stoneless (plum)		Zadrimë
 podizue	gheg	verb		shtroj	to floor, to pave		Pukë
 podeur	gheg	noun	m	kalldrëm	paving		Pukë
 pojavë	gheg	noun	f		woollen blanket		Pukë
 pojmend	gheg	noun	m	përmendore	memorial		Pukë
-pojtë	gheg	verb			to water (livestock)		Shkodër
+pojtë	gheg	verb		ujit	to water (livestock)		Shkodër
 polastër	gheg	noun	f		cluster of maize ears		Zadrimë
 polikë	gheg	noun	f	çimkë	bedbug		Mirditë
 pollovinë	gheg	noun	f		throwing stone		Malësi e Madhe
@@ -1427,13 +1427,13 @@ porkë	gheg	noun	f		ridge between furrows		Shkodër
 porrcak	gheg	noun	m	gavetë	mess tin		Zadrimë
 poshtrënjanë	gheg	noun	f		lower side		Pukë
 potamisë	gheg	verb		qortoj	to scold		Malësi e Madhe
-pozhir	gheg	noun	m		pike (fish)		Malësi e Madhe
+pozhir	gheg	noun	m	mlysh	pike (fish)		Malësi e Madhe
 prajë	gheg	noun	f	pushim	rest; subjection		Shkodër
-prajës	gheg	noun	m		resting place		Malësi e Madhe
+prajës	gheg	noun	m	vendprehje	resting place		Malësi e Madhe
 prajshëm	gheg	adj		qetë	calm, peaceful		Pukë
 prask	gheg	noun	m	cipë	thin film, skin		Malësi e Madhe
 pravullim	gheg	noun	m		hot bath		Pukë
-pravullue	gheg	verb			to bathe (in warm water)		Pukë
+pravullue	gheg	verb		lahem	to bathe (in warm water)		Pukë
 prazë	gheg	noun	f		crossbar		Malësi e Madhe
 prazhë	gheg	noun	f	cipë	film, crust		Malësi e Madhe
 preq	gheg	noun	m		forked stake (on a haystack)		Mirditë
@@ -1442,29 +1442,29 @@ prefatitë	gheg	verb		gostit	to treat		Malësi e Madhe
 prefetue	gheg	verb		tregoj	to tell, to reveal		Mirditë
 prehaluc	gheg	adj			comely, well-shaped		Zadrimë
 prehalue	gheg	verb			to grow comely		Zadrimë
-prekatar	gheg	adj			tactful; virtuoso		Pult
+prekatar	gheg	adj		virtuoz	tactful; virtuoso		Pult
 prekë	gheg	noun	f		blight (of plants)		Malësi e Madhe
 prekëcar	gheg	adj		prekshëm	touchy		Malësi e Madhe
-prendue	gheg	verb			to become infatuated, to follow		Zadrimë
+prendue	gheg	verb		dashurohem	to become infatuated, to follow		Zadrimë
 prësë	gheg	noun	f	tradhti	betrayal		Malësi e Madhe
 prese	gheg	noun	f		sweet flag		Malësi e Madhe
 prës	gheg	noun	m	brisk	penknife; ship's prow		Malësi e Madhe
-prialë	gheg	noun	m	pulsi	pulse (at the wrist)		Arbëresh
-prianue	gheg	verb			to step aside		Pukë
+prialë	gheg	noun	m	puls	pulse (at the wrist)		Arbëresh
+prianue	gheg	verb		mënjanoj	to step aside		Pukë
 pritshëm	gheg	adj		mikpritës	hospitable		Zadrimë
 profulitë	gheg	verb		përcëlloj	to singe		Malësi e Madhe
 provanik	gheg	noun	m		provident person		Pukë
 provanikzue	gheg	verb			to provide; to manage		Pukë
-provanue	gheg	verb			to provide		Pukë
+provanue	gheg	verb		siguroj	to provide		Pukë
 prozh	gheg	noun	m		goat dung		Malësi e Madhe
 prue	gheg	verb		plaçkit	to plunder		Zadrimë
 pruzhë	gheg	noun	f	puçërr	rash		Zadrimë
 prrëz	gheg	noun	m	mrizë	shady resting place		Mirditë
-prridhë	gheg	verb		mbys	to smother		Malësi e Madhe
+prridhë	gheg	verb		mbyt	to smother		Malësi e Madhe
 prrike	gheg	noun	f		chimney hole		Malësi e Madhe
-ptër	gheg	noun	m		uncastrated billy goat		Zadrimë
+ptër	gheg	noun	m	cjap	uncastrated billy goat		Zadrimë
 puqë	gheg	verb		puthit	to fit together		Shkodër
-puqrrue	gheg	verb			to singe; to break out in pimples		Malësi e Madhe
+puqrrue	gheg	verb		përcëlloj	to singe; to break out in pimples		Malësi e Madhe
 puçëk	gheg	noun	m		hollow holding water		Malësi e Madhe
 puligare	gheg	noun	f		weeds		Zadrimë
 pulith	gheg	noun	m		groundsel		Zadrimë
@@ -1477,14 +1477,14 @@ pulveshe	gheg	noun	f	shytë	mumps		Zadrimë
 pullazinë	gheg	noun	f		roof boarding		Malësi e Madhe
 punëmadh	gheg	adj		mburravec	boastful		Zadrimë
 punëmadhënue	gheg	verb		mburrem	to boast		Malësi e Madhe
-punërryeshëm	gheg	adj			efficient, hard-working		Malësi e Madhe
+punërryeshëm	gheg	adj		efikas	efficient, hard-working		Malësi e Madhe
 pupleshe	gheg	noun	f	pantofla	slippers		Shkodër
 pupërr	gheg	noun	f	puçërr	pimple		Malësi e Madhe
 puprrue	gheg	verb			to break out in pimples		Malësi e Madhe
 purri buçi	gheg	noun	m		St Bernard's lily		Malësi e Madhe
 puskaç	gheg	noun	m		ploughstaff scraper		Malësi e Madhe
-putajë	gheg	noun	f		bruise (on the skin)		Malësi e Madhe
-putan	gheg	adj		shytë	hornless		Dukagjin
+putajë	gheg	noun	f	mavijosje	bruise (on the skin)		Malësi e Madhe
+putan	gheg	adj		shyt	hornless		Dukagjin
 puthëtue	gheg	verb		puthit	to fit together		Malësi e Madhe
 pyjkë	gheg	noun	f	pykë	wedge		Malësi e Madhe
 ramë	gheg	adv			seated, at rest		Malësi e Madhe
@@ -1504,7 +1504,7 @@ rosë deti	gheg	noun	f		goosander		Malësi e Madhe
 roshk	gheg	noun	m		parched throat		Malësi e Madhe
 roshkue	gheg	verb		rreshkem	to be parched		Malësi e Madhe
 roshkueshëm	gheg	adv			parched with thirst		Malësi e Madhe
-rudaç	gheg	noun	m		curly-fleeced (animal)		Malësi e Madhe
+rudaç	gheg	noun	m	kaçurrel	curly-fleeced (animal)		Malësi e Madhe
 ruk	gheg	adj		horr	base, dishonourable		Zadrimë
 rukëm	gheg	adj			wheat-coloured		Zadrimë
 rupak	gheg	adj			common wheat		Malësi e Madhe
@@ -1526,7 +1526,7 @@ rramël	gheg	noun	m		distaff stick		Malësi e Madhe
 rrangçuer	gheg	adj		dëmtues	harmful		Dukagjin
 rrang	gheg	noun	m	dëm	damage		Pult
 rrapatosë	gheg	verb			to fling; to bustle noisily		Malësi e Madhe
-rrasët	gheg	adv			fully, thoroughly		Malësi e Madhe
+rrasët	gheg	adv		plotësisht	fully, thoroughly		Malësi e Madhe
 rrashpatue	gheg	verb		niveloj	to level		Malësi e Madhe
 rrebane	gheg	adj		tekanjoz	moody		Pukë
 rrebe	gheg	noun	f	tekë	whim		Malësi e Madhe
@@ -1534,7 +1534,7 @@ rrebnim	gheg	noun	m		gid, staggers (in sheep)		Malësi e Madhe
 rrebnue	gheg	verb			to get the staggers		Malësi e Madhe
 rrebullar	gheg	noun	m		scalp eczema		Pult
 rrebulli	gheg	noun	f		scalp itch; craving		Malësi e Madhe
-rredhe	gheg	noun	f		curse, ill wish		Pukë
+rredhe	gheg	noun	f	mallkim	curse, ill wish		Pukë
 rrëfangull	gheg	noun	f	vrimë	buttonhole		Malësi e Madhe
 rrëgalle	gheg	noun	f	zallishtë	scree		Pukë
 rrëgallinë	gheg	noun	f	zallishtë	stony ground		Malësi e Madhe
@@ -1544,22 +1544,22 @@ rrë	gheg	noun	f	krimb	earthworm		Malësi e Madhe
 rrëjë	gheg	noun	f	ujëndarëse	watershed		Malësi e Madhe
 rrekë	gheg	verb		përpiqem	to try		Malësi e Madhe
 rremsiq	gheg	adj		leckos	ragged		Zadrimë
-rremsiqe	gheg	noun	f	lecka	rags		Zadrimë
-rrënojc	gheg	adj			durable		Zadrimë
+rremsiqe	gheg	noun	f	leckë	rags		Zadrimë
+rrënojc	gheg	adj		qëndrueshëm	durable		Zadrimë
 rrëshim	gheg	noun	m		short heavy shower		Malësi e Madhe
 rreshpak	gheg	noun	m		kind of snake		Pult
 rrëshyell	gheg	noun	m		wild lettuce		Malësi e Madhe
 rrethatue	gheg	verb		rrethoj	to encircle		Malësi e Madhe
 rrethe	gheg	noun	f		walled enclosure		Malësi e Madhe
 rrëth	gheg	noun	m	njerith	uvula		Pukë
-rrezga	gheg	adv			in a flash		Malësi e Madhe
+rrezga	gheg	adv		vrullshëm	in a flash		Malësi e Madhe
 rrezg	gheg	noun	m	vrull	force, momentum		Pukë
 rrezigall	gheg	noun	m	jeshile bakri	verdigris		Shkodër
 rrezm	gheg	noun	m	pjellori	fertility (of soil)		Pukë
 rrezmue	gheg	verb		nxij	to blacken; to discredit		Malësi e Madhe
 rrëshgatë	gheg	noun	f		mudslide, alluvium		Zadrimë
 rrëx	gheg	noun	m	bri	horn		Mirditë
-rrëxim	gheg	noun	m		sloping meadow		Malësi e Madhe
+rrëxim	gheg	noun	m	rrëzim	sloping meadow		Malësi e Madhe
 rrgjavisët	gheg	adj		argjendtë	silvery		Malësi e Madhe
 rrihna	gheg	noun	f	livadhe	cleared land; meadows		Pukë
 rrille	gheg	noun	f		early pea		Pukë
@@ -1567,7 +1567,7 @@ rrill	gheg	noun	m		spurge; mullein		Zadrimë
 rrilue	gheg	verb			to poison fish		Zadrimë
 rriollcë	gheg	noun	f		cypress spurge		Malësi e Madhe
 rrgjue	gheg	verb		pakësoj	to shrink, to dwindle		Zadrimë
-rrjedhcë	gheg	noun	f		trickle		Malësi e Madhe
+rrjedhcë	gheg	noun	f	rrjedhë	trickle		Malësi e Madhe
 rrhatë	gheg	verb		gërhas	to gasp; to be dying		Malësi e Madhe
 rrkath	gheg	adj		smirëzi	spiteful		Malësi e Madhe
 rrkuth	gheg	noun	m	smirë	spite		Malësi e Madhe
@@ -1586,13 +1586,13 @@ rrollëz	gheg	noun	f		soapwort		Malësi e Madhe
 rropak	gheg	noun	m		lean-to room		Malësi e Madhe
 rropjue	gheg	verb			to ransack		Malësi e Madhe
 rrotue	gheg	verb			to fell, to lop		Pukë
-rroth	gheg	noun	m		dodder		Zadrimë
-rroxë	gheg	noun	f		small wheel; spindle wheel		Malësi e Madhe
-rrpjekë	gheg	verb		stërpjek	to sear, to roast hard		Pukë
+rroth	gheg	noun	m	kuskutë	dodder		Zadrimë
+rroxë	gheg	noun	f	rrotëz	small wheel; spindle wheel		Malësi e Madhe
+rrpjekë	gheg	verb		përzhit	to sear, to roast hard		Pukë
 rrpujë	gheg	noun	f	flluskë	blister (from a burn)		Malësi e Madhe
 rrucue	gheg	verb		gëlltis	to gulp down		Malësi e Madhe
-rruçak	gheg	adj			very old		Zadrimë
-rraç	gheg	noun	m	vadhë e egër	rowan		Malësi e Madhe
+rruçak	gheg	adj		stërvjetër	very old		Zadrimë
+rraç	gheg	noun	m	vadhë	rowan		Malësi e Madhe
 rrudhue	gheg	verb		rrotullohem	to revolve; to shake out		Pukë
 rrufak	gheg	adj			ruddy-faced		Zadrimë
 rrufçë	gheg	noun	f	kaçurrel	lock of hair; veil		Malësi e Madhe
@@ -1600,7 +1600,7 @@ rrufsh	gheg	adj		kaçurrel	curly		Malësi e Madhe
 rruke	gheg	noun	f		cranesbill		Malësi e Madhe
 rrumadak	gheg	noun	m	kalli	ear of maize		Zadrimë
 rrumbullakzue	gheg	verb		rrumbullakos	to round off		Malësi e Madhe
-rrumbullëzue	gheg	verb			to lop, to truncate		Malësi e Madhe
+rrumbullëzue	gheg	verb		cungoj	to lop, to truncate		Malësi e Madhe
 rrumbullicë	gheg	noun	f		round log		Mirditë
 rrunë	gheg	noun	f	radhë	turn		Malësi e Madhe
 rrunëz	gheg	noun	f		ewe that has lambed once		Malësi e Madhe
@@ -1613,17 +1613,17 @@ rrye	gheg	verb			to struggle to grow		Malësi e Madhe
 rryeshëm	gheg	adv		mezi	with difficulty		Zadrimë
 rryl	gheg	noun	m		tall lanky man		Malësi e Madhe
 rrypak	gheg	adj			tough as leather		Malësi e Madhe
-rrypç	gheg	adj			stringy (meat)		Zadrimë
+rrypç	gheg	adj		fijor	stringy (meat)		Zadrimë
 rrypetë	gheg	noun	f		long strip (of meat)		Malësi e Madhe
 sabitë	gheg	verb		fik	to put out		Mirditë
 sakicim	gheg	noun	m	kërdi	carnage		Shkodër
 sakicue	gheg	verb		copëtoj	to hack to pieces		Shkodër
 samakrës	gheg	noun	m		toy gun		Malësi e Madhe
 samadak	gheg	adj		bujar	noble, generous		Dukagjin
-samatok	gheg	adj			sturdy		Pult
+samatok	gheg	adj		fortë	sturdy		Pult
 samtim	gheg	noun	m	amshti	insipidness		Pult
 sëmtue	gheg	verb			to go flat (of food)		Pult
-sanëz	gheg	noun	f		gentian		Malësi e Madhe
+sanëz	gheg	noun	f	agnushe	gentian		Malësi e Madhe
 sarique	gheg	verb			to mend nets		Shkodër
 sarushtë	gheg	noun	f		figwort		Pukë
 saza	gheg	adv		pak	a little		Pult
@@ -1632,7 +1632,7 @@ satraplak	gheg	noun	m		enforcer of elders' verdicts		Mirditë
 sbehë	gheg	verb		befasoj	to arrive unexpectedly		Malësi e Madhe
 sbute	gheg	noun	f	bungë	downy oak		Pukë
 sqimët	gheg	adj		saktë	genuine, exact		Mirditë
-sdrysë	gheg	verb		ngul këmbë	to press, to insist		Mirditë
+sdrysë	gheg	verb		ngul	to press, to insist		Mirditë
 selikal	gheg	noun	m	narcis	poet's narcissus		Pult
 selvue	gheg	verb		rrah	to beat		Zadrimë
 serrë	gheg	noun	f		steep rocks; heap of stones		Malësi e Madhe
@@ -1645,9 +1645,9 @@ skërthëq	gheg	adj		qaraman	tearful		Malësi e Madhe
 skërvalë	gheg	verb		rrëzoj	to knock down		Malësi e Madhe
 skjepgjatë	gheg	noun	f		kingfisher		Malësi e Madhe
 skllot	gheg	noun	m	mjegull	murk, darkness		Pukë
-skllotinë	gheg	noun	f		sleet		Pukë
-skrati	gheg	noun	m		blaze, bonfire		Zadrimë
-skrimtë	gheg	adj		kursyer	frugal (in food)		Mirditë
+skllotinë	gheg	noun	f	llohë	sleet		Pukë
+skrati	gheg	noun	m	flakë	blaze, bonfire		Zadrimë
+skrimtë	gheg	adj		kursej	frugal (in food)		Mirditë
 skrrek	gheg	noun	m	mburrje	conceit, airs		Pukë
 skubëla	gheg	noun	f	ashkël	chip of wood		Malësi e Madhe
 skundti	gheg	noun	m	veshje	garment		Shkodër
@@ -1657,18 +1657,18 @@ skylfër	gheg	noun	m	skifter	falcon		Mirditë
 skurrjalë	gheg	noun	f	skelet	skeleton		Malësi e Madhe
 smajk	gheg	noun	m	zdralë	grime, crust of dirt		Zadrimë
 smilue	gheg	verb		nis	to set off		Pukë
-smuritë	gheg	verb		zbutet	to soften		Malësi e Madhe
+smuritë	gheg	verb		zbut	to soften		Malësi e Madhe
 somin	gheg	noun	m	sumënë	savin juniper		Malësi e Madhe
 sorrmë	gheg	adj		larosh	speckled black and white		Malësi e Madhe
 spagjë	gheg	noun	f	shqetësim	unrest		Malësi e Madhe
 sparë	gheg	noun	f		head pad (for carrying)		Zadrimë
 spar	gheg	noun	m		goat stench		Malësi e Madhe
-sparue	gheg	verb		qelbem	to stink		Malësi e Madhe
+sparue	gheg	verb		qelb	to stink		Malësi e Madhe
 spathokë	gheg	noun	f	zhele	rag; tuft of wool		Mirditë
 spig	gheg	noun	m		lookout		Malësi e Madhe
 spigë	gheg	noun	f	hetim	inquiry		Malësi e Madhe
 spihë	gheg	verb			to drift (of snow)		Pukë
-spilik	gheg	adj			thin-legged		Zadrimë
+spilik	gheg	adj		këmbëhollë	thin-legged		Zadrimë
 spinuk	gheg	noun	m		milk tooth; sharp tooth		Zadrimë
 spron	gheg	noun	m	fallxhor	fortune-teller		Pukë
 spëç	gheg	adj		nevrik	hot-tempered		Malësi e Madhe
@@ -1693,8 +1693,8 @@ stihë	gheg	verb		ngacmoj	to provoke		Pukë
 strangël	gheg	noun	f	zhele	rag		Malësi e Madhe
 strengël	gheg	noun	f		goosegrass		Mirditë
 strenj	gheg	noun	m	burg	prison		Shkodër
-strep	gheg	noun	m		cheese mite		Pult
-strujak	gheg	noun	m	gjahtar pa leje	poacher		Pult
+strep	gheg	noun	m	shtrep	cheese mite		Pult
+strujak	gheg	noun	m	gjahtar	poacher		Pult
 strukël	gheg	noun	f	zhele	rag		Malësi e Madhe
 strukshëm	gheg	adj		përmbajtur	reserved, modest		Pult
 strupë	gheg	noun	f		scalp crust (in children)		Malësi e Madhe
@@ -1709,16 +1709,16 @@ sykëm	gheg	adj		larmë	multicoloured		Malësi e Madhe
 syrëm	gheg	adj		larmë	many-coloured		Malësi e Madhe
 syzim	gheg	noun	m	skicë	sketch, outline		Pukë
 syzue	gheg	verb		skicoj	to outline; to face		Pukë
-shabakë	gheg	verb			to carouse		Mirditë
+shabakë	gheg	verb		qejf	to carouse		Mirditë
 shakëre	gheg	noun	f		bad joke		Malësi e Madhe
 shalakuqë	gheg	verb			to brown (by the fire)		Malësi e Madhe
 shalakuq	gheg	noun	m		red maize		Malësi e Madhe
 shalkë	gheg	noun	m	shalqi	watermelon		Malësi e Madhe
 shahër	gheg	adv		përdhe	flat on the ground		Malësi e Madhe
 shajkë	gheg	noun	f		mill wheel		Pukë
-shambë	gheg	verb		shembet	to collapse		Zadrimë
+shambë	gheg	verb		shemb	to collapse		Zadrimë
 shamërkue	gheg	verb		mavijos	to bruise		Malësi e Madhe
-shëmue	gheg	verb			to curse, to blaspheme		Malësi e Madhe
+shëmue	gheg	verb		mallkoj	to curse, to blaspheme		Malësi e Madhe
 shapkore	gheg	noun	f	shapkë	woodcock		Malësi e Madhe
 sharan	gheg	adj			grey-muzzled		Malësi e Madhe
 sharavade	gheg	noun	f		weeds		Malësi e Madhe
@@ -1746,30 +1746,30 @@ shejni	gheg	noun	f	shenjë	sign, symptom		Malësi e Madhe
 shelqnuer	gheg	noun	m		small ladder; vine prop		Malësi e Madhe
 shëmbtim	gheg	noun	m	përbindësh	monster		Pukë
 shendë	gheg	verb		endem	to roam		Malësi e Madhe
-shendue	gheg	verb		lëkundem	to sway, to totter		Shkodër
+shendue	gheg	verb		lëkund	to sway, to totter		Shkodër
 shë	gheg	noun	m		spring brook		Shkodër
 shërbelue	gheg	verb		plagos	to wound		Malësi e Madhe
 shmërim	gheg	noun	m	përbindësh	monster		Pukë
 shëplakë	gheg	noun	f	shuplakë	slap		Malësi e Madhe
 shflukët	gheg	adj		flashkët	limp, feeble		Malësi e Madhe
-shgalë	gheg	verb		shembet	to collapse		Malësi e Madhe
+shgalë	gheg	verb		shemb	to collapse		Malësi e Madhe
 shgorëç	gheg	adj		zgavruar	hollow		Malësi e Madhe
-shigmue	gheg	verb		mërzitem	to be fed up		Malësi e Madhe
+shigmue	gheg	verb		mërzit	to be fed up		Malësi e Madhe
 shijueme	gheg	noun	f	karrem	bait		Malësi e Madhe
 shikullë	gheg	noun	f	thupër	switch, rod		Malësi e Madhe
 shiluer	gheg	noun	m		yoke; carrying pole; mountain saddle		Zadrimë
 shinuer	gheg	noun	m	qafë	mountain pass		Pukë
-shiosë	gheg	noun	f		red earth, ochre		Pukë
+shiosë	gheg	noun	f	okër	red earth, ochre		Pukë
 shirq	gheg	noun	m	shishe	small flask		Malësi e Madhe
 shishi	gheg	prep		përballë	opposite		Zadrimë
-shitë	gheg	noun	f		foot rot (of sheep)		Malësi e Madhe
+shitë	gheg	noun	f	çalë	foot rot (of sheep)		Malësi e Madhe
 shkabetë	gheg	verb		përplas	to throw down		Zadrimë
 shkadhëc	gheg	noun	m		levelling board		Pukë
 shkac	gheg	noun	m	inat	spite		Lezhë
 shkalë	gheg	verb		shembet	to slide down		Malësi e Madhe
-shkalzue	gheg	verb		dobësohem	to weaken		Pult
+shkalzue	gheg	verb		dobësoj	to weaken		Pult
 shkalvitë	gheg	verb			to become shabby		Malësi e Madhe
-shkallka	gheg	adv			haphazardly		Malësi e Madhe
+shkallka	gheg	adv		rrëmujshëm	haphazardly		Malësi e Madhe
 shkambëcue	gheg	verb		shpërthej	to burst open		Pukë
 shkapërcye	gheg	verb		kapërcej	to cross; to transgress		Pukë
 shkapërthye	gheg	verb			to wreck while passing		Malësi e Madhe
@@ -1779,11 +1779,11 @@ shkardhinë	gheg	noun	f		open-sided shed; ruined house		Malësi e Madhe
 shkarki	gheg	noun	f	shfajësim	excuse		Zadrimë
 shkartinë	gheg	noun	f		worm-eaten wood		Malësi e Madhe
 shkartue	gheg	verb			to be worm-eaten		Malësi e Madhe
-shkecë	gheg	verb		pengohem	to stumble		Malësi e Madhe
-shkëlëc	gheg	noun	m	shkelëz	step, tread		Malësi e Madhe
-shkelqarë	gheg	verb		kthjellohet	to clear up (of weather)		Zadrimë
+shkecë	gheg	verb		pengoj	to stumble		Malësi e Madhe
+shkëlëc	gheg	noun	m	shkallë	step, tread		Malësi e Madhe
+shkelqarë	gheg	verb		kthjelloj	to clear up (of weather)		Zadrimë
 shkëlqarëm	gheg	adj		kthjellët	clear		Zadrimë
-shkelzye	gheg	verb		shqepet	to fray		Zadrimë
+shkelzye	gheg	verb		shqep	to fray		Zadrimë
 shkëmë	gheg	verb		gjethon	to come into leaf		Pukë
 shkepë	gheg	verb		shqep	to unstitch; to broach		Pult
 shkerbë	gheg	noun	f	bishë	wild beast or bird		Pult
@@ -1799,7 +1799,7 @@ shkjepuq	gheg	adj		shkjepët	hare-lipped		Malësi e Madhe
 shkjukë	gheg	verb		shkloçkoj	to stop a hen brooding		Shkodër
 shkojë	gheg	noun	f	kalim	passage		Malësi e Madhe
 shkore	gheg	noun	f		red bartsia		Dukagjin
-shkorret	gheg	noun	m	shkorret	scrubland		Mirditë
+shkorret	gheg	noun	m	shkurrnajë	scrubland		Mirditë
 shkozëbardhë	gheg	noun	f		hop hornbeam		Malësi e Madhe
 shkozet	gheg	noun	m		hornbeam wood		Pukë
 shkretan	gheg	adj		shkretë	wretched; idle talker		Pukë
@@ -1807,13 +1807,13 @@ shkrepsue	gheg	verb		pulis	to blink; to wink		Malësi e Madhe
 shkrymbë	gheg	verb		dezinfektoj	to clear of worms; to disinfect		Malësi e Madhe
 shkrythët	gheg	adj		freskët	fresh-baked		Zadrimë
 shkrrabojë	gheg	noun	f	gërvishtës	scratcher, scrawler		Malësi e Madhe
-shkrrithë	gheg	verb		rrotullohet	to roll (in the dust)		Malësi e Madhe
+shkrrithë	gheg	verb		rrotulloj	to roll (in the dust)		Malësi e Madhe
 shkueri	gheg	noun	f	nomadizëm	wandering life		Malësi e Madhe
 shkuj	gheg	noun	m	rrymë	draught		Malësi e Madhe
 shkujkë	gheg	noun	f	rojë	lookout post; boundary branch		Zadrimë
 shkullojë	gheg	noun	f	mashë	poker		Mirditë
 shkumbëze	gheg	noun	f		soapwort		Malësi e Madhe
-shkumbë deti	gheg	noun	f	shtufë	pumice		Shkodër
+shkumbë deti	gheg	noun	f	shtuf	pumice		Shkodër
 shkundadimën	gheg	noun	m		last cold days of winter		Zadrimë
 shkurue	gheg	verb		shkrumbohet	to be scorched		Malësi e Madhe
 shkurrue	gheg	verb		shkurros	to clear scrub		Mirditë
@@ -1821,7 +1821,7 @@ shkyeni	gheg	noun	f	grabitje	plunder		Zadrimë
 shkyesi	gheg	noun	f	grabitje	plunder		Malësi e Madhe
 shkype	gheg	noun	f	shqiponjë	eagle		Pukë
 shlizë	gheg	noun	f	kanal	groove		Shkodër
-shllat	gheg	noun	m	pjerrinë	slope		Pukë
+shllat	gheg	noun	m	tatëpjetë	slope		Pukë
 shmirëzue	gheg	verb		përkeqësoj	to spoil		Mirditë
 shmijue	gheg	verb		prish	to spoil (a child)		Malësi e Madhe
 shndrizë	gheg	noun	f	xhevahir	jewel		Malësi e Madhe
@@ -1829,13 +1829,13 @@ shnegullë	gheg	noun	f		embroidered back-sack		Malësi e Madhe
 shnjorr	gheg	noun	m	vëngër	squinter		Zadrimë
 shnue	gheg	verb			to go back on one's word		Malësi e Madhe
 shojzë	gheg	noun	f		winged seed		Malësi e Madhe
-shokëz	gheg	noun	f		hem, edging		Malësi e Madhe
+shokëz	gheg	noun	f	tegel	hem, edging		Malësi e Madhe
 shop	gheg	adv			misfire		Mirditë
 shorde	gheg	noun	f		small plot of land		Malësi e Madhe
 shortas	gheg	adv		rastësisht	by chance		Malësi e Madhe
-shoshlue	gheg	verb		shoshit	to sift; to criticise		Zadrimë
-shpartall	gheg	adv		shkatërr	in disarray		Pukë
-shpa	gheg	verb		lirshoj	to loosen		Zadrimë
+shoshlue	gheg	verb		shosh	to sift; to criticise		Zadrimë
+shpartall	gheg	adv		shpartalloj	in disarray		Pukë
+shpa	gheg	verb		liroj	to loosen		Zadrimë
 shpatë	gheg	adj		lirshëm	slack		Zadrimë
 shpatullë	gheg	noun	f		saddle board		Malësi e Madhe
 shpatulltar	gheg	noun	m		diviner by shoulder blades		Dukagjin
@@ -1846,22 +1846,22 @@ shpërdhi	gheg	verb		shkathtësoj	to make nimble		Pukë
 shpërdhitë	gheg	adj		shkathët	nimble		Pukë
 shpërnjoftë	gheg	verb		mohoj	to disown, to be ungrateful		Zadrimë
 shpërnjoftës	gheg	adj		mosmirënjohës	ungrateful		Zadrimë
-shpërralëc	gheg	adj		përrallës	fabricator		Shkodër
+shpërralëc	gheg	adj		trillues	fabricator		Shkodër
 shpërrallë	gheg	verb		përflas	to make up stories; to slander		Zadrimë
 shpikë	gheg	verb		mbush	to draw (water)		Malësi e Madhe
-shpjekë	gheg	verb		thahet	to wither		Zadrimë
+shpjekë	gheg	verb		fishk	to wither		Zadrimë
 shpjerrë	gheg	verb		shqyej	to tear		Pukë
 shplakan	gheg	adj		shkurtuar	clipped		Malësi e Madhe
 shpneshë	gheg	noun	f	amvisë	housewife		Malësi e Madhe
-shporez	gheg	adv			a moment ago		Mirditë
+shporez	gheg	adv		tani	a moment ago		Mirditë
 shpotë	gheg	noun	f	tallje	mockery		Malësi e Madhe
 shprishalesh	gheg	noun	m	ujk	wolf		Malësi e Madhe
-shprunë	gheg	verb		shembet	to cave in		Malësi e Madhe
+shprunë	gheg	verb		shemb	to cave in		Malësi e Madhe
 shpufë	gheg	verb			to puff; to fizzle out		Malësi e Madhe
 shpundër	gheg	noun	f		six-fingered hand		Pult
 shpundrak	gheg	adj			six-fingered		Pult
 shputë	gheg	noun	f	shputë	sock sole		Mirditë
-shputue	gheg	verb		shqyhet	to unravel		Pukë
+shputue	gheg	verb		shthur	to unravel		Pukë
 shrandë	gheg	noun	f		crushing burden		Zadrimë
 shrregull	gheg	noun	m		cradle strap		Pult
 shtë	gheg	verb		ngut	to urge, to press		Malësi e Madhe
@@ -1871,11 +1871,11 @@ shtalbak	gheg	adj		qumësht	milky (of maize)		Pukë
 shtalkue	gheg	verb			to square off		Malësi e Madhe
 shtallue	gheg	verb			to trestle		Malësi e Madhe
 shtarpë	gheg	noun	f		johnsongrass		Malësi e Madhe
-shtërgat	gheg	noun	m		graupel, sleet		Malësi e Madhe
+shtërgat	gheg	noun	m	llohë	graupel, sleet		Malësi e Madhe
 shtërpënim	gheg	noun	m	sterilizim	barrenness; sterilization		Malësi e Madhe
 shtërpënue	gheg	verb			to become barren		Pult
 shtërzye	gheg	verb			to labour hard		Malësi e Madhe
-shtizue	gheg	verb			to spear		Mirditë
+shtizue	gheg	verb		shpoj	to spear		Mirditë
 shtjelb	gheg	noun	m	shqelm	kick		Malësi e Madhe
 shtjelbue	gheg	verb		shqelmoj	to kick		Malësi e Madhe
 shtjellë	gheg	verb		hedh	to hurl		Shkodër
@@ -1885,25 +1885,25 @@ shtrërue	gheg	verb		shtroj	to carpet, to deck		Malësi e Madhe
 shtrodh	gheg	noun	m		wax residue		Mirditë
 shtrojlër	gheg	noun	m	lëndinë	level ground		Malësi e Madhe
 shtrëngë	gheg	noun	f	shtrungë	milking pen		Malësi e Madhe
-shtrigati	gheg	noun	m		sleet		Zadrimë
+shtrigati	gheg	noun	m	llohë	sleet		Zadrimë
 shtrrak	gheg	noun	m	mëngë	sleeve		Mirditë
 shtrydhëtar	gheg	adj		egoist	selfish		Malësi e Madhe
 shtërrijakë	gheg	noun	m		newborn lambs and kids		Malësi e Madhe
 shujkë	gheg	noun	f	flamur	banner; insignia		Malësi e Madhe
 shufël	gheg	noun	f		tissue paper		Pukë
-shugullue	gheg	verb		gjëmon	to echo		Malësi e Madhe
+shugullue	gheg	verb		ushton	to echo		Malësi e Madhe
 shulajkë	gheg	noun	f		small bolt		Malësi e Madhe
 shurqël	gheg	noun	m	ujëvarë	waterfall		Pult
 shurdhac	gheg	noun	m	shavar	bulrush		Zadrimë
 shurukamë	gheg	noun	f	zhurmë	roar, great noise		Pukë
-shurukatë	gheg	verb			to roar		Pukë
+shurukatë	gheg	verb		buças	to roar		Pukë
 shur	gheg	noun	m	nam	fame		Malësi e Madhe
 shyl e byl	gheg	adv			staggering		Pukë
 shyllë	gheg	noun	f		filthy person		Malësi e Madhe
 shvalë	gheg	verb		shembet	to slide down		Malësi e Madhe
 shvalinë	gheg	noun	f	ortek	landslide; avalanche		Malësi e Madhe
-shvarë	gheg	verb		kthjellohet	to clear up		Malësi e Madhe
-takë	gheg	noun	f	daulle e veshit	eardrum		Pult
+shvarë	gheg	verb		kthjelloj	to clear up		Malësi e Madhe
+takë	gheg	noun	f	timpan	eardrum		Pult
 tamalar	gheg	noun	m		shrike		Malësi e Madhe
 tambëlthit	gheg	noun	m		martagon lily		Pult
 tambëlza	gheg	noun	f	tëmth	temples (of the head)		Pult
@@ -1920,18 +1920,18 @@ tefe	gheg	noun	f		reed frame (loom)		Zadrimë
 tef	gheg	noun	m	anë	edge; end		Zadrimë
 tehak	gheg	noun	m		stonemason's hammer		Malësi e Madhe
 tëhollue	gheg	verb		holloj	to thin		Malësi e Madhe
-tëlanue	gheg	verb			to dilute		Malësi e Madhe
+tëlanue	gheg	verb		holloj	to dilute		Malësi e Madhe
 telish	gheg	noun	m		cocksfoot grass		Malësi e Madhe
 tëke	gheg	noun	f	kokërr	single grain		Malësi e Madhe
 tekël	gheg	adv		pak	a little		Mirditë
-tënto	gheg	adv			still, motionless		Shkodër
+tënto	gheg	adv		palëvizur	still, motionless		Shkodër
 terak	gheg	noun	m	ptër	uncastrated goat		Malësi e Madhe
 teri	gheg	noun	f		rutting season of cattle		Malësi e Madhe
 tërmegjë	gheg	verb		shpërndaj	to scatter		Mirditë
 tërthurak	gheg	adj		tërthortë	transverse		Malësi e Madhe
 tërthuer	gheg	adv		tërthorazi	crosswise; indirectly		Pult
 tërrkatë	gheg	verb			to play out of tune		Malësi e Madhe
-tërrnaç	gheg	noun	m		phase; change of moon		Malësi e Madhe
+tërrnaç	gheg	noun	m	fazë	phase; change of moon		Malësi e Madhe
 tërrnue	gheg	verb		ndërroj	to change		Malësi e Madhe
 tërrtakue	gheg	verb		llomotis	to chatter		Malësi e Madhe
 terrue	gheg	verb		errësoj	to darken		Malësi e Madhe
@@ -1939,7 +1939,7 @@ tetëhë	gheg	adv		këtej	this way, over here		Mirditë
 tetjë	gheg	adv		andej	that way, over there		Mirditë
 tirë	gheg	noun	f	shkulë	skein		Pukë
 toçë	gheg	verb			to drink heavily		Zadrimë
-tode	gheg	noun	f	budallaqe	silly woman		Shkodër
+tode	gheg	noun	f	budalla	silly woman		Shkodër
 toçillë	gheg	noun	f		role, part		Zadrimë
 toj	gheg	adv		gjoja	as if, supposedly		Malësi e Madhe
 tojë	gheg	noun	f	lidhëse	sandal lace		Pukë
@@ -1948,7 +1948,7 @@ tokës	gheg	noun	m	gjarpër	snake; millipede		Pukë
 torrec	gheg	noun	m	kompas	compass (for drawing)		Pukë
 torrlë	gheg	noun	f	burmë	screw; link; troublemaker		Zadrimë
 torrlue	gheg	verb		mashtroj	to trick cleverly		Malësi e Madhe
-torrkaç	gheg	noun	m		cricket; woodpecker		Pult
+torrkaç	gheg	noun	m	bulkth	cricket; woodpecker		Pult
 totlosh	gheg	noun	m		chestnut burr		Malësi e Madhe
 treskëtar	gheg	adj		ogurzi	ill-omened, fateful		Malësi e Madhe
 trestë	gheg	adj		diagonal	diagonal		Malësi e Madhe
@@ -1956,7 +1956,7 @@ trest	gheg	adv		diagonalisht	diagonally		Malësi e Madhe
 trevestar	gheg	noun	m	bashkëngrënës	table companion		Pukë
 triqë	gheg	verb		afrohem	to approach; to pester		Malësi e Madhe
 trincë	gheg	noun	f	bishtatundës	wagtail		Malësi e Madhe
-trizë	gheg	noun	f		swaddling band		Zadrimë
+trizë	gheg	noun	f	fashë	swaddling band		Zadrimë
 trocan	gheg	adj		trokë	broke, penniless		Malësi e Madhe
 troke	gheg	noun	f	këmborë	cattle bell		Malësi e Madhe
 trokë	gheg	noun	f		dry ground		Malësi e Madhe
@@ -1968,7 +1968,7 @@ trint	gheg	noun	m	vatër	hearthside		Malësi e Madhe
 trushull	gheg	adv		turbull	cloudy, murky		Mirditë
 trushullue	gheg	verb		turbulloj	to muddy		Mirditë
 tucman	gheg	adj		frikacak	cowardly		Malësi e Madhe
-tudi	gheg	noun	m	stoli	jewel, necklace stone		Zadrimë
+tudi	gheg	noun	m	gjerdan	jewel, necklace stone		Zadrimë
 tufk	gheg	noun	m	pjalm	pollen		Pult
 tufue	gheg	verb			to tassel (of maize)		Pult
 tuhar	gheg	noun	m	duhan	tobacco		Mirditë
@@ -1996,13 +1996,13 @@ thas	gheg	noun	m	thes	sack		Shkodër
 thëllanëx	gheg	noun	f	thëllëzë	partridge		Zadrimë
 thellinë	gheg	noun	f	thellësi	deep place		Malësi e Madhe
 thëmbërzue	gheg	verb			to shape like a heel; to layer (vine)		Malësi e Madhe
-thepëc	gheg	adj			jagged; sharp-tongued		Shkodër
+thepëc	gheg	adj		thepisur	jagged; sharp-tongued		Shkodër
 thër	gheg	noun	m	thelb	kernel		Pukë
 thimc	gheg	noun	m	thumb	sting		Zadrimë
-thineshë	gheg	noun	f		sow; wry-headed woman		Malësi e Madhe
+thineshë	gheg	noun	f	dosë	sow; wry-headed woman		Malësi e Madhe
 thuepulë	gheg	adv			hemmed		Zadrimë
 thuprak	gheg	adj		lidhak	wiry, sinewy		Pult
-thyezue	gheg	verb			to fold, to pleat		Malësi e Madhe
+thyezue	gheg	verb		palos	to fold, to pleat		Malësi e Madhe
 ujcue	gheg	verb			to run with sap		Malësi e Madhe
 ujërk	gheg	noun	m		watery discharge (of a wound)		Malësi e Madhe
 udhak	gheg	noun	m		regular visitor		Malësi e Madhe
@@ -2011,13 +2011,13 @@ undajë	gheg	noun	f	qull	thick porridge, mash		Zadrimë
 unëc	gheg	adj		nevrik	touchy		Shkodër
 unëzezë	gheg	noun	f		fuse; bitter quarrel		Malësi e Madhe
 ungër	gheg	noun	m	ujk	wolf		Malësi e Madhe
-unshue	gheg	verb		mërzis	to grieve		Malësi e Madhe
+unshue	gheg	verb		hidhëroj	to grieve		Malësi e Madhe
 untue	gheg	verb		ha	to trim, to pare		Malësi e Madhe
 unt	gheg	noun	m	ijë	flank		Malësi e Madhe
 urëzak	gheg	adv		buzë	at the edge		Pukë
 urojmë	gheg	noun	f	shtyllë	pillar		Pult
 urye	gheg	verb		vuaj	to suffer		Malësi e Madhe
-urrashëm	gheg	adv		vrenjtur	sternly		Malësi e Madhe
+urrashëm	gheg	adv		vrenjt	sternly		Malësi e Madhe
 urrc	gheg	noun	m	ith	hiccup		Malësi e Madhe
 urrelë	gheg	noun	f		irrigation channel		Malësi e Madhe
 urrxë	gheg	noun	f	urth	ivy; lichen		Malësi e Madhe
@@ -2025,7 +2025,7 @@ ushojzë	gheg	noun	f		stemless carline thistle		Malësi e Madhe
 ushtue	gheg	verb		provoj	to test		Zadrimë
 ushtuer	gheg	noun	m		field and forest warden		Zadrimë
 uvill	gheg	noun	m	yll	star		Malësi e Madhe
-vadarosh	gheg	noun	m		cluster; pair		Malësi e Madhe
+vadarosh	gheg	noun	m	vile	cluster; pair		Malësi e Madhe
 vajaçëm	gheg	adj		ngadalshëm	slow		Malësi e Madhe
 vajacë	gheg	noun	f	ujk	wolf		Malësi e Madhe
 vajaçim	gheg	adv		ngadalë	slowly		Malësi e Madhe
@@ -2041,18 +2041,18 @@ vastak	gheg	noun	m		butcher's knife		Malësi e Madhe
 vatarosh	gheg	noun	m		hanging pair		Malësi e Madhe
 vazhdar	gheg	noun	m	varg	procession, convoy		Pukë
 veglue	gheg	verb		përdor	to use; to organize		Malësi e Madhe
-vegue	gheg	verb		vegon	to glimmer; to glimpse		Zadrimë
-vegullue	gheg	verb		vegon	to glimmer		Malësi e Madhe
+vegue	gheg	verb		vagëlloj	to glimmer; to glimpse		Zadrimë
+vegullue	gheg	verb		vezullon	to glimmer		Malësi e Madhe
 vejan	gheg	noun	m	burrë i ve	widower		Malësi e Madhe
 vëjë	gheg	adj			meatless (of cabbage)		Malësi e Madhe
 vëjesë	gheg	noun	f	përparim	progress; worth		Zadrimë
 veldrue	gheg	verb		lecketohet	to fall to rags		Malësi e Madhe
 vele	gheg	noun	f		gill; door hinge		Malësi e Madhe
-vlesë	gheg	noun	f		decoction		Malësi e Madhe
+vlesë	gheg	noun	f	dekokt	decoction		Malësi e Madhe
 vendue	gheg	verb		ushqej	to stall-feed		Zadrimë
-vërcakue	gheg	verb			to fidget		Malësi e Madhe
+vërcakue	gheg	verb		nervozoj	to fidget		Malësi e Madhe
 vërglue	gheg	verb		dridhem	to quiver; to blink		Malësi e Madhe
-vërtëllue	gheg	verb		rrotullohem	to spin		Zadrimë
+vërtëllue	gheg	verb		rrotulloj	to spin		Zadrimë
 vërzëlue	gheg	verb		lëviz	to move		Malësi e Madhe
 vërzhgallët	gheg	adj			yellowish-blue		Pukë
 vërzhgatë	gheg	verb		turpëroj	to shame		Pukë
@@ -2071,11 +2071,11 @@ vezhgue	gheg	verb		përgjoj	to eavesdrop		Malësi e Madhe
 viaskë	gheg	noun	f		groats		Pult
 vic	gheg	adj			bluish-brown		Malësi e Madhe
 vidrak	gheg	adj			marbled, streaked		Malësi e Madhe
-vijanëc	gheg	adv			resolutely		Malësi e Madhe
+vijanëc	gheg	adv		vendosmërisht	resolutely		Malësi e Madhe
 vilikue	gheg	verb		nxitoj	to hurry		Malësi e Madhe
 virgjilët	gheg	adj		shkathët	nimble, hard-working		Zadrimë
 vir	gheg	noun	m		inlet, backwater		Malësi e Madhe
-virlime	gheg	noun	f		agitation, nerves		Malësi e Madhe
+virlime	gheg	noun	f	nervozizëm	agitation, nerves		Malësi e Madhe
 viro	gheg	adv			with full force		Malësi e Madhe
 virrmë	gheg	noun	f	britmë	shriek		Malësi e Madhe
 vistrak	gheg	adv		varg	in single file		Malësi e Madhe
@@ -2106,33 +2106,33 @@ vorbëtinë	gheg	noun	f	gropë karstike	sinkhole		Pukë
 vorbullë	gheg	noun	f	vorbull	whirlpool		Pukë
 voskë	gheg	noun	f	guaskë	seashell		Zadrimë
 vraçi	gheg	noun	f	kërdi	slaughter		Pukë
-vraçue	gheg	verb			to massacre		Pukë
+vraçue	gheg	verb		masakroj	to massacre		Pukë
 vrasti	gheg	noun	f	vrasje	homicide		Malësi e Madhe
 vrashëm	gheg	adj		ashpër	harsh; stern		Malësi e Madhe
-vred	gheg	noun	m		serum, discharge		Malësi e Madhe
+vred	gheg	noun	m	qelb	serum, discharge		Malësi e Madhe
 vregnue	gheg	verb		fshikulloj	to flog		Malësi e Madhe
 vrëm	gheg	noun	m	mend	thought		Pukë
 vrieskë	gheg	noun	f	trumzë	thyme		Malësi e Madhe
 vridn	gheg	noun	m	burim	spring (source)		Pukë
 vrizëm	gheg	noun	f		short shower		Mirditë
-vrugë	gheg	adj		vrenjtur	gloomy		Malësi e Madhe
+vrugë	gheg	adj		vrenjt	gloomy		Malësi e Madhe
 vruell	gheg	noun	m		a horse-load		Malësi e Madhe
 vrujëkth	gheg	noun	m		bad blood		Pult
 vudhëni	gheg	noun	f	furi	fury, frenzy		Shkodër
-zalitë	gheg	verb		mërzitem	to fret		Pukë
+zalitë	gheg	verb		brengosem	to fret		Pukë
 zanue	gheg	verb		shtang	to stun, to bewitch		Malësi e Madhe
 zbardhëç	gheg	noun	m		sapwood		Malësi e Madhe
 zbardhulue	gheg	verb		zbardh	to whiten		Malësi e Madhe
 zblogurue	gheg	verb		qëroj	to husk, to peel		Malësi e Madhe
-zbunim	gheg	noun	m		appeasement; endearment		Malësi e Madhe
-zërhallë	gheg	verb			to revel		Malësi e Madhe
+zbunim	gheg	noun	m	pajtim	appeasement; endearment		Malësi e Madhe
+zërhallë	gheg	verb		argëtohem	to revel		Malësi e Madhe
 zdranglue	gheg	verb		lecketoj	to tear to rags		Malësi e Madhe
 zdritë	gheg	verb		tejdukem	to show through		Malësi e Madhe
 zdritshëm	gheg	adj		tejdukshëm	translucent		Malësi e Madhe
 zduhue	gheg	verb		shpërthen	to burst into leaf		Pukë
 zë	gheg	noun	f		black cow		Zadrimë
-zgrypëtas	gheg	adv		kursyeshëm	sparingly		Mirditë
-zgrrojç	gheg	adj		vrimuar	porous		Malësi e Madhe
+zgrypëtas	gheg	adv		kursim	sparingly		Mirditë
+zgrrojç	gheg	adj		poroz	porous		Malësi e Madhe
 zgurdhullue	gheg	verb		zgurdulloj	to goggle		Malësi e Madhe
 zguer	gheg	noun	m	zgavër	cavity		Pukë
 zgurtue	gheg	verb		zgavroj	to hollow out		Malësi e Madhe
@@ -2144,7 +2144,7 @@ zie	gheg	verb		ngjitet	to fuse, to knit		Malësi e Madhe
 zit	gheg	noun	m	merak	eagerness		Zadrimë
 zitue	gheg	verb		nxit	to incite		Malësi e Madhe
 zjarth	gheg	noun	m		thrush (in infants)		Shkodër
-zjarmishtë	gheg	noun	f		room with a stove		Malësi e Madhe
+zjarmishtë	gheg	noun	f	sobë	room with a stove		Malësi e Madhe
 zjerrçë	gheg	noun	f		leather strip		Malësi e Madhe
 zojni	gheg	noun	f	zotësi	ability, means		Malësi e Madhe
 zonak	gheg	adj			poorly filled (of grain)		Malësi e Madhe
@@ -2158,7 +2158,7 @@ zungal	gheg	noun	m		hedgehog's den		Malësi e Madhe
 zhabërdhinë	gheg	noun	f		ill-fitting		Malësi e Madhe
 zhabllue	gheg	verb			to rustle		Malësi e Madhe
 zhavar	gheg	noun	m		feather grass		Zadrimë
-zhang	gheg	noun	m		dewlap		Malësi e Madhe
+zhang	gheg	noun	m	lafshë	dewlap		Malësi e Madhe
 zhag	gheg	adv		zvarrë	dragging		Malësi e Madhe
 zhangllue	gheg	verb			to sound off-key		Mirditë
 zhargë	gheg	noun	f		bark; worn-out shoe		Shkodër
@@ -2167,9 +2167,9 @@ zhavrak	gheg	noun	m	çengel	grappling hook		Malësi e Madhe
 zhqyrtue	gheg	verb		shqyrtoj	to examine		Malësi e Madhe
 zhdërhallë	gheg	verb		harlis	to grow rank		Malësi e Madhe
 zhërmak	gheg	noun	m	thatësirë	scorching drought		Zadrimë
-zhigmue	gheg	verb		neveritem	to loathe		Malësi e Madhe
+zhigmue	gheg	verb		neverit	to loathe		Malësi e Madhe
 zhigë farke	gheg	noun	f		forge slag		Malësi e Madhe
-zhigël	gheg	adj			empty (of a nut)		Malësi e Madhe
+zhigël	gheg	adj		bosh	empty (of a nut)		Malësi e Madhe
 zhgalë	gheg	verb		këputem	to be exhausted		Malësi e Madhe
 zhgorrç	gheg	adj		zgavruar	hollow		Malësi e Madhe
 zhgjertue	gheg	verb		korrigjoj	to correct		Malësi e Madhe
@@ -2200,10 +2200,10 @@ cingulue	gheg	verb		zbukuroj	to adorn		Malësi e Madhe
 qafëqyl	gheg	adv		përdredhur	twisted		Shkodër
 qepue	gheg	verb		qëlloj	to lash		Malësi e Madhe
 qukaç	gheg	noun	m	qukapik	woodpecker		Malësi e Madhe
-çapi	gheg	noun	m	hardhucë e gjelbër	green lizard		Zadrimë
+çapi	gheg	noun	m	zhapi	green lizard		Zadrimë
 çaprok	gheg	adj		trashaluq	chubby		Mirditë
 çepër	gheg	noun	f		chamois		Shkodër
-çikli mikli	gheg	noun	m	vogëlsira	odds and ends		Malësi e Madhe
+çikli mikli	gheg	noun	m	rraqe	odds and ends		Malësi e Madhe
 çjasë	gheg	verb		largoj	to move away		Malësi e Madhe
 çmlushët	gheg	adj		zbrazët	empty		Malësi e Madhe
 çung	gheg	adj		cung	stumpy		Pult
@@ -2230,7 +2230,7 @@ galtinë	gheg	noun	f	gërmadhë	rubble		Malësi e Madhe
 gërzhitë	gheg	adj			scrawny (of a child)		Shkodër
 gjataman	gheg	adj		gjatosh	lanky		Malësi e Madhe
 golumere	gheg	noun	f	gamile	cairn		Pukë
-golare	gheg	noun	f		necklace		Pukë
+golare	gheg	noun	f	gjerdan	necklace		Pukë
 gungël	gheg	noun	m	top	ball		Malësi e Madhe
 gjake	gheg	noun	f	suxhuk	blood sausage		Zadrimë
 gjakpis	gheg	adj		gjakpirës	ruthless profiteer		Shkodër
@@ -2246,7 +2246,7 @@ huell	gheg	noun	m	hulli	furrow line		Malësi e Madhe
 hulumti	gheg	noun	f	kërkim	search, research		Malësi e Madhe
 irasë	gheg	verb		zemërohem	to take offence		Malësi e Madhe
 jermsinë	gheg	noun	f	sumënë	savin juniper		Pukë
-kaduç	gheg	adv		kapërthyer	askew, crosswise		Malësi e Madhe
+kaduç	gheg	adv		tërthor	askew, crosswise		Malësi e Madhe
 kaçël	gheg	adj		shkjepët	hare-lipped		Malësi e Madhe
 kaçi	gheg	noun	f	ijë	hip		Pukë
 kaçirudë	gheg	noun	f		tiny creature		Malësi e Madhe
@@ -2265,7 +2265,7 @@ kundruell	gheg	noun	m	përballë	opposite side		Malësi e Madhe
 kusufër	gheg	adj		ngatërrestar	stirrer, schemer		Mirditë
 lacan	gheg	adj		laraman	spotted		Malësi e Madhe
 lacëm	gheg	adj		laraman	piebald		Malësi e Madhe
-lapur	gheg	noun	m		disorder, commotion		Malësi e Madhe
+lapur	gheg	noun	m	rrëmujë	disorder, commotion		Malësi e Madhe
 lofkë	gheg	noun	f	valvul	valve, flap		Mirditë
 lëmushk	gheg	noun	m	mpiksje	clot (of blood)		Malësi e Madhe
 llaputë	gheg	noun	f		shapeless, worn-out thing		Malësi e Madhe
@@ -2279,7 +2279,7 @@ mendueme	gheg	noun	f	paramendim	premeditation		Zadrimë
 mënelë	gheg	noun	f	shpërgënj	swaddling clothes		Malësi e Madhe
 mjergullë	gheg	noun	f	mjegull	fog		Pukë
 mjetë	gheg	noun	f		short wool		Malësi e Madhe
-molinë	gheg	adj			dry (of soil)		Pukë
+molinë	gheg	adj		thatë	dry (of soil)		Pukë
 mollaftue	gheg	noun	m		apple-quince		Shkodër
 mori	gheg	noun	f	zi	mourning; mortality		Zadrimë
 moricë	gheg	noun	f	shtrigë	witch		Malësi e Madhe
@@ -2292,7 +2292,7 @@ ngrishëm	gheg	adv			freezing		Malësi e Madhe
 ngurrë	gheg	verb		ngurtësoj	to petrify, to solidify		Malësi e Madhe
 oll	gheg	noun	m	yll	star		Arbëresh
 pajmak	gheg	adj			splay-footed		Pult
-përbat	gheg	adj			fallow		Malësi e Madhe
+përbat	gheg	adj		djerr	fallow		Malësi e Madhe
 përdatë	gheg	verb		tmerroj	to terrify		Malësi e Madhe
 përërue	gheg	verb			to reek		Malësi e Madhe
 përfalë	gheg	verb			to greet in return		Malësi e Madhe
@@ -2306,9 +2306,9 @@ piculi	gheg	noun	f	stoli	adornment		Malësi e Madhe
 picu	gheg	noun	m	vogëlush	little one		Malësi e Madhe
 piflue	gheg	verb		marr frymë	to breathe		Mirditë
 pihaa	gheg	interj			gosh!		Malësi e Madhe
-pingil	gheg	noun	m	vesvese	obsession, fixation		Malësi e Madhe
+pingil	gheg	noun	m	fiksim	obsession, fixation		Malësi e Madhe
 pipiricue	gheg	verb		ngrihem	to perk up		Shkodër
-pistallë	gheg	verb		stolisem	to dress up		Mirditë
+pistallë	gheg	verb		stolis	to dress up		Mirditë
 porcëk	gheg	noun	m	rrashtë	bare skull		Pukë
 pruzhe	gheg	noun	f	push	fuzz, nap		Mirditë
 pujkue	gheg	verb		dobësohem	to waste away		Malësi e Madhe
@@ -2322,10 +2322,10 @@ rraçkë	gheg	noun	f		household utensils		Malësi e Madhe
 rranicë	gheg	noun	f		thick chunk (of bread, meat)		Zadrimë
 rrapja	gheg	adv		copë	to pieces		Pult
 rrbokullë	gheg	noun	f	brokë	knot, kink		Pukë
-rruçëk	gheg	adj		rrudhur	shrivelled		Malësi e Madhe
+rruçëk	gheg	adj		rrudh	shrivelled		Malësi e Madhe
 rrukajë	gheg	noun	f	rrëkajë	rivulet		Malësi e Madhe
 rrumçakue	gheg	verb		këput	to lop off		Malësi e Madhe
-rrymuer	gheg	adj			sloping (of land)		Malësi e Madhe
+rrymuer	gheg	adj		pjerrët	sloping (of land)		Malësi e Madhe
 rrypue	gheg	verb			to cut into strips		Malësi e Madhe
 sendth	gheg	noun	m	sendi	thingummy		Pukë
 skapërdhinë	gheg	noun	f		throwing stone		Malësi e Madhe
