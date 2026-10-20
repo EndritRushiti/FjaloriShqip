@@ -34011,3 +34011,364 @@ kryeautor | noun | lead author
 ndihmësfarmacist | noun | pharmacy assistant
 bashkëshërbëtor | noun | fellow servant
 bashkëkrahinar | noun | fellow countryman
+# ── n3.new.tsv ──
+korinthian | adj | Corinthian
+bikomponent | adj | two-component
+lubrifikator | noun | lubricator
+densifikim | noun | densification
+ritmicitet | noun | rhythmicity
+karfiol | noun | cauliflower
+kryeekzekutiv | noun | chief executive
+socialfashist | adj | social fascist
+interdimensional | adj | interdimensional
+akemenid | adj | Achaemenid
+sotalol | noun | sotalol
+irrealist | adj | unrealistic
+sulfadiazinë | noun | sulfadiazine
+kakistokrat | noun | kakistocrat
+konfesor | noun | confessor
+neoçetnik | adj | neo-Chetnik
+esomeprazol | noun | esomeprazole
+nanomakinë | noun | nanomachine
+mikrogrant | noun | microgrant
+gjentilitet | noun | gentility
+imidazol | noun | imidazole
+zëvendësredaktor | noun | deputy editor
+singularizim | noun | singularization
+elektronizim | noun | electronization
+ndërdisiplinaritet | noun | interdisciplinarity
+kryeadjutant | noun | chief adjutant
+askorbat | noun | ascorbate
+protoksid | noun | protoxide
+antologjist | noun | anthologist
+kiropraktor | noun | chiropractor
+termokapacitet | noun | heat capacity
+turbogjenerator | noun | turbogenerator
+natyropat | noun | naturopath
+pimozid | noun | pimozide
+hidrobromid | noun | hydrobromide
+rokstar | noun | rock star
+apostolat | noun | apostolate
+biokorridor | noun | wildlife corridor
+italianitet | noun | Italianness
+endospor | noun | endospore
+zolmitriptan | noun | zolmitriptan
+kryeinspektoriat | noun | chief inspectorate
+sukulent | adj | succulent
+kokpit | noun | cockpit
+filofobi | noun | philophobia
+pulmonologji | noun | pulmonology
+atrocitet | noun | atrocity
+delegjitimitet | noun | illegitimacy
+dekolonializim | noun | decolonialization
+fundmandat | noun | end of term
+prediabetik | adj | prediabetic
+trioksid | noun | trioxide
+deetnizim | noun | de-ethnicization
+fundkampionat | noun | end of the season
+artikulator | noun | articulator
+kormoran | noun | cormorant
+kinetokor | noun | kinetochore
+oseinë | noun | ossein
+milenar | adj | millenary
+bosentan | noun | bosentan
+veriafrikan | adj | North African
+hidrosulfid | noun | hydrosulfide
+leviatan | noun | leviathan
+kurkuminoid | noun | curcuminoid
+eterist | noun | Hetairist
+askospor | noun | ascospore
+eutiroid | adj | euthyroid
+keinezian | adj | Keynesian
+kalibrator | noun | calibrator
+multikolinearitet | noun | multicollinearity
+dravid | adj | Dravidian
+arsacid | adj | Arsacid
+keqidentifikim | noun | misidentification
+botulinë | noun | botulin
+neootomanist | adj | neo-Ottomanist
+çelist | noun | cellist
+bibliologji | noun | bibliology
+sandinist | adj | Sandinista
+astrafobi | noun | astraphobia
+kalcifikat | noun | calcification
+millosheviqist | adj | Miloševićist
+destigmatizim | noun | destigmatization
+inovativitet | noun | innovativeness
+kryekonservator | noun | chief conservator
+homogjenizator | noun | homogenizer
+ekosonografi | noun | ultrasonography
+hetman | noun | hetman
+feldmareshal | noun | field marshal
+servomotor | noun | servomotor
+alegorizim | noun | allegorization
+kundrarevolucionar | adj | counter-revolutionary
+hiperreal | adj | hyperreal
+ekolali | noun | echolalia
+ivorian | adj | Ivorian
+sesamol | noun | sesamol
+rifabutinë | noun | rifabutin
+osmanofobi | noun | Ottomanophobia
+rikrishterizim | noun | re-Christianization
+herbartian | adj | Herbartian
+ciklopropan | noun | cyclopropane
+sasanian | adj | Sasanian
+spindoktor | noun | spin doctor
+epidemiologjist | noun | epidemiologist
+hiperseksualizim | noun | hypersexualization
+meningjiomë | noun | meningioma
+kastiljan | adj | Castilian
+antistreptolizinë | noun | antistreptolysin
+uretan | noun | urethane
+rizatriptan | noun | rizatriptan
+aramid | noun | aramid
+biomedicinë | noun | biomedicine
+nociceptor | noun | nociceptor
+desensitizim | noun | desensitization
+luksozitet | noun | luxuriousness
+burgundian | adj | Burgundian
+gjeosintetik | noun | geosynthetic
+sapioseksual | adj | sapiosexual
+pomerian | adj | Pomeranian
+infleksibilitet | noun | inflexibility
+koncistor | noun | consistory
+partnerizim | noun | partnering
+devalorizim | noun | devaluation
+sakarid | noun | saccharide
+neokantist | adj | Neo-Kantian
+izokuant | noun | isoquant
+bashkëmërgimtar | noun | fellow emigrant
+amorfitet | noun | amorphousness
+atenian | adj | Athenian
+alosaurid | noun | allosaurid
+fotorezistor | noun | photoresistor
+ostiol | noun | ostiole
+klororganik | adj | organochlorine
+klarinist | noun | clarinettist
+stukator | noun | stucco worker
+nënkategorizim | noun | subcategorization
+stipendist | noun | scholarship holder
+melanezian | adj | Melanesian
+midianit | noun | Midianite
+blasfemist | noun | blasphemer
+demonopolizim | noun | demonopolization
+depresor | noun | depressor
+perimplantit | noun | peri-implantitis
+adresant | noun | sender
+gjysmëmaturant | noun | pre-final-year student
+desovjetizim | noun | de-Sovietization
+kontribuent | noun | contributor
+hortikulturist | noun | horticulturist
+neomaltusian | adj | neo-Malthusian
+izopropanol | noun | isopropanol
+regulativ | adj | regulatory
+septoriozë | noun | septoria leaf spot
+periartrit | noun | periarthritis
+tirzepatid | noun | tirzepatide
+partitokrat | noun | partitocrat
+neuromodulator | noun | neuromodulator
+virgjeritet | noun | virginity
+oligodendrogliomë | noun | oligodendroglioma
+artikainë | noun | articaine
+dekristianizim | noun | dechristianization
+racializim | noun | racialization
+skopolaminë | noun | scopolamine
+heroinoman | noun | heroin addict
+sfingomielinë | noun | sphingomyelin
+motogjenerator | noun | motor-generator
+mikromineral | noun | trace mineral
+polinukleotid | noun | polynucleotide
+simultanitet | noun | simultaneity
+toksoid | noun | toxoid
+centralizator | adj | centralizing
+prokainë | noun | procaine
+kinomekanik | noun | projectionist
+anatemizim | noun | anathematization
+kortikotropinë | noun | corticotropin
+rienergjizim | noun | re-energizing
+ndërkulturalitet | noun | interculturality
+bastardizim | noun | bastardization
+solidifikim | noun | solidification
+glukorafaninë | noun | glucoraphanin
+ciklamat | noun | cyclamate
+sedentaritet | noun | sedentariness
+antraknozë | noun | anthracnose
+nulifikim | noun | nullification
+kryeadmiral | noun | grand admiral
+metilfenidat | noun | methylphenidate
+kompromat | noun | kompromat
+bradikininë | noun | bradykinin
+impersonalitet | noun | impersonality
+spartiat | noun | Spartiate
+hepatokarcinomë | noun | hepatocellular carcinoma
+ordinariat | noun | ordinariate
+mikrotrombozë | noun | microthrombosis
+ekzocitozë | noun | exocytosis
+hemosiderozë | noun | haemosiderosis
+osteomë | noun | osteoma
+tendosinovit | noun | tenosynovitis
+lazarist | noun | Lazarist
+celebrativ | adj | celebratory
+polikolor | adj | multicoloured
+superfinal | noun | grand final
+antiparlamentar | adj | anti-parliamentary
+meristemoid | noun | meristemoid
+supremitet | noun | supremacy
+mikrosatelit | noun | microsatellite
+seminomë | noun | seminoma
+desmopresinë | noun | desmopressin
+mazzinian | adj | Mazzinian
+hidroksilazë | noun | hydroxylase
+fakoemulsifikim | noun | phacoemulsification
+pasionist | noun | Passionist
+transtekstualitet | noun | transtextuality
+antikizim | noun | classicizing
+zombifikim | noun | zombification
+kriptoshqiptar | noun | crypto-Albanian
+zëvendëskoordinator | noun | deputy coordinator
+fosfatidilkolinë | noun | phosphatidylcholine
+hidrokoloid | noun | hydrocolloid
+norfloksacinë | noun | norfloxacin
+sfingolipid | noun | sphingolipid
+mikropor | noun | micropore
+betalaktamik | adj | beta-lactam
+demagnetizim | noun | demagnetization
+neosocialist | adj | neo-socialist
+kuazikristal | noun | quasicrystal
+minigrant | noun | mini-grant
+cistektomi | noun | cystectomy
+jurisprudent | noun | jurist
+kapsaicinoid | noun | capsaicinoid
+parvovirozë | noun | parvovirus infection
+matematizim | noun | mathematization
+minidiktator | noun | petty dictator
+paranormalitet | noun | paranormality
+rifampinë | noun | rifampin
+politicitet | noun | political character
+serbofobi | noun | Serbophobia
+kryekandidat | noun | lead candidate
+romanokatolik | adj | Roman Catholic
+katolikofobi | noun | anti-Catholicism
+muzikalizim | noun | musicalization
+metamaterial | noun | metamaterial
+mikrobicid | noun | microbicide
+monokristal | noun | single crystal
+heptan | noun | heptane
+osteoid | noun | osteoid
+audioprotezist | noun | hearing aid specialist
+valentinian | adj | Valentinian
+gileadit | noun | Gileadite
+venusian | adj | Venusian
+popperian | adj | Popperian
+poliakrilik | adj | polyacrylic
+organofosforik | adj | organophosphorus
+acetazolamid | noun | acetazolamide
+kancerogjenitet | noun | carcinogenicity
+kapilarizim | noun | capillarization
+homocistinuri | noun | homocystinuria
+glikolipid | noun | glycolipid
+fertilizant | noun | fertilizer
+kolateralizim | noun | collateralization
+hermetist | noun | Hermeticist
+tireostatik | noun | thyrostatic
+polineurit | noun | polyneuritis
+eksitabilitet | noun | excitability
+primaritet | noun | primacy
+sarakaçan | noun | Sarakatsan
+sanitizator | noun | sanitizer
+tuberozitet | noun | tuberosity
+karamanid | adj | Karamanid
+kapriciozitet | noun | capriciousness
+superaktivitet | noun | overactivity
+lambliazë | noun | giardiasis
+glukomanan | noun | glucomannan
+spirituozitet | noun | wit
+autoqefalist | adj | autocephalist
+tekstualizim | noun | textualization
+bazicitet | noun | basicity
+filohelenist | adj | philhellenic
+ekolokator | noun | echolocator
+eksarkat | noun | exarchate
+civilizacionist | adj | civilizational
+tripolaritet | noun | tripolarity
+incidentalomë | noun | incidentaloma
+palegjitimitet | noun | illegitimacy
+midriatik | noun | mydriatic
+komanditor | noun | limited partner
+eukaliptol | noun | eucalyptol
+hanbelist | adj | Hanbali
+anëtarizim | noun | accession
+ranolazinë | noun | ranolazine
+obstruktivitet | noun | obstructiveness
+hezitant | adj | hesitant
+ropinirol | noun | ropinirole
+hipotiroid | adj | hypothyroid
+bromheksinë | noun | bromhexine
+abuzant | noun | abuser
+adstrat | noun | adstratum
+vetëfuqizim | noun | self-empowerment
+ndihmësspecialist | noun | assistant specialist
+veçorizim | noun | individuation
+obskuritet | noun | obscurity
+subfertilitet | noun | subfertility
+doksazosinë | noun | doxazosin
+mukoviscidozë | noun | cystic fibrosis
+predecesor | noun | predecessor
+eugjenist | adj | eugenicist
+mioperikardit | noun | myopericarditis
+gjenealogjist | noun | genealogist
+konvertazë | noun | convertase
+medikalizim | noun | medicalization
+cefaleksinë | noun | cefalexin
+teknologjist | noun | technologist
+kaledonian | adj | Caledonian
+montmorillonit | noun | montmorillonite
+triiodotironinë | noun | triiodothyronine
+karbunar | noun | Carbonaro
+martensit | noun | martensite
+judikativ | adj | judicial
+pitagorist | adj | Pythagorean
+vaskularitet | noun | vascularity
+elementaritet | noun | elementariness
+joobjektivitet | noun | lack of objectivity
+guanetidinë | noun | guanethidine
+laktulozë | noun | lactulose
+etanolaminë | noun | ethanolamine
+laktoperoksidazë | noun | lactoperoxidase
+baltoterapi | noun | mud therapy
+kariotipizim | noun | karyotyping
+superstrat | noun | superstratum
+oleuropeinë | noun | oleuropein
+opozant | noun | opponent
+gjenuinitet | noun | genuineness
+antistaminik | noun | antihistamine
+depresivitet | noun | depressiveness
+sistematicitet | noun | systematicity
+ciklazë | noun | cyclase
+komparatist | noun | comparatist
+biostimulant | noun | biostimulant
+kryemuzikant | noun | lead musician
+ortogonalitet | noun | orthogonality
+fizarmonist | noun | accordionist
+dehidrogjenizim | noun | dehydrogenation
+mikroambient | noun | microenvironment
+antituberkulotik | adj | antitubercular
+pseudorealitet | noun | pseudo-reality
+atlanticist | adj | Atlanticist
+remizim | noun | stabling
+sinjalist | noun | signaller
+afrikanoperëndimor | adj | West African
+tinidazol | noun | tinidazole
+folkodinë | noun | pholcodine
+defashistizim | noun | defascistization
+hominizim | noun | hominization
+kondiment | noun | condiment
+riepitelizim | noun | re-epithelialization
+naringeninë | noun | naringenin
+arkaicitet | noun | archaicness
+fuzariozë | noun | fusarium wilt
+poliedricitet | noun | versatility
+ciklodekstrinë | noun | cyclodextrin
+tenisist | noun | tennis player
+barbaritet | noun | barbarity
+neurofibromatozë | noun | neurofibromatosis
