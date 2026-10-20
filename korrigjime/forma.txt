@@ -19876,3 +19876,5 @@ mimber | minber
 sinozit | sinuzit
 garancion | garanci
 programer | programues
+# ── g9.new.tsv ──
+kurrikulum | kurrikulë

@@ -31637,3 +31637,65 @@ cenzurë | noun | censorship
 galeon | noun | galleon
 gusla | noun | gusle
 njerëzillëk | noun | kindness, decency
+# ── g9.new.tsv ──
+madrilen | adj | Madrilenian
+xhenerik | adj | generic
+pellazgjik | adj | Pelasgian
+sahih | adj | sahih (authentic hadith)
+osteokondrozë | noun | osteochondrosis
+publicitar | adj | advertising (adj.)
+salavat | noun | salawat (blessing on the Prophet)
+vaxhib | adj | obligatory (Islamic law)
+stearat | noun | stearate
+arredim | noun | furnishing, interior decoration
+skalp | noun | scalp
+lejedrejtim | noun | driving licence
+impresion | noun | impression
+muxhtehid | noun | mujtahid
+hamd | noun | praise of God
+itikaf | noun | i'tikaf (spiritual retreat)
+mekteb | noun | maktab (Quranic school)
+menhexh | noun | manhaj (methodology)
+servitut | noun | easement
+prezumim | noun | presumption
+delimitim | noun | delimitation
+superligë | noun | super league
+skrapim | noun | scraping
+tarifim | noun | charging, tariffing
+kitab | noun | book (holy book)
+tejemum | noun | tayammum (dry ablution)
+taklid | noun | taqlid (imitation in religious law)
+involvim | noun | involvement
+sihr | noun | sorcery
+mahrem | noun | mahram
+leukocit | noun | leukocyte
+monstrum | noun | monstrosity
+xhunub | adj | in ritual impurity (junub)
+teshehud | noun | tashahhud
+letërkërkesë | noun | letter of request
+fertil | adj | fertile
+fluktuim | noun | fluctuation
+providencë | noun | providence
+psikoanalitik | adj | psychoanalytic
+pseudointelektual | noun | pseudo-intellectual
+konkrement | noun | calculus (stone)
+brokerim | noun | brokerage
+gamaglobulinë | noun | gamma globulin
+ekstraksion | noun | extraction
+deluzion | noun | delusion
+kreatinë | noun | creatine
+emulsifikim | noun | emulsification
+muhadith | noun | hadith scholar
+isnad | noun | isnad (chain of narration)
+kefaret | noun | kaffara (expiation)
+miofibril | noun | myofibril
+torzion | noun | torsion
+inercion | noun | inertia
+konturim | noun | contouring
+virgjinitet | noun | virginity
+delegjitimim | noun | delegitimization
+mufessir | noun | Quran exegete
+kikboksier | noun | kickboxer
+pedalim | noun | pedalling
+meristemë | noun | meristem
+derivativ | noun | derivative (finance)
