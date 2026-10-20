@@ -19714,3 +19714,5 @@ burgëtohem | burgëtoj
 këndirrem | këndirr
 barrohem | barroj
 bullafiqem | bullafiq
+# ── fg4.new.tsv ──
+tringëllij | tringëlloj

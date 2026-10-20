@@ -28055,3 +28055,35 @@ sergjen | noun | dish shelf
 kapanxhë | noun | trap
 burizan | noun | horn player
 përkarshi | adv | opposite
+# ── fg4.new.tsv ──
+pasionoj | verb | to impassion
+shestoj | verb | to plan, to devise
+flatroj | verb | to flap wings, to fly
+përlyej | verb | to smear all over
+xhambaz | noun | horse dealer; trickster
+përskuqem | verb | to blush deeply
+përplotësim | noun | completion
+parabimë | noun | preceding crop
+përveçqë | conj | besides, apart from
+bulmetor | adj | dairy
+përvuajtje | noun | great suffering
+bregas | noun | coast dweller
+mostretje | noun | indigestion
+ndalimqarkullim | noun | curfew
+helaq | adj | exhausted
+riafroj | verb | to bring closer again
+psonis | verb | to shop
+përplotësues | adj | complementary
+kryekishë | noun | cathedral
+ferrishtë | noun | bramble thicket
+njëzetvjetor | noun | twentieth anniversary
+dyzetvjetor | noun | fortieth anniversary
+normëzoj | verb | to standardize
+gardhoj | verb | to fence
+palombar | noun | diver
+provueshmëri | noun | provability
+lejeqarkullim | noun | movement permit
+riarmatos | verb | to rearm
+dymuajsh | adj | two-month
+stivoj | verb | to stack
+kallogre | noun | nun
