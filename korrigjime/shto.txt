@@ -27886,3 +27886,137 @@ jorritës | adj | non-increasing
 jozvogëlues | adj | non-decreasing
 ndjesëhollë | adj | sensitive
 kokërdhok | noun | eyeball
+# ── fg1b.new.tsv ──
+përpjek | verb | to knock together
+talk | noun | talc
+fjaloj | verb | to talk
+kolumbian | adj | Colombian
+kilian | adj | Chilean
+uruguaian | adj | Uruguayan
+venezuelas | noun | Venezuelan
+angolas | noun | Angolan
+angolez | adj | Angolan
+namibian | adj | Namibian
+guatemalas | noun | Guatemalan
+laosian | adj | Laotian
+ugandas | noun | Ugandan
+vetëqeveris | verb | to self-govern
+përtejdet | adv | overseas
+migrant | noun | migrant
+tatoj | verb | to tax
+përpjesëtoj | verb | to apportion
+çiftëzoj | verb | to pair
+kolektivizoj | verb | to collectivize
+periodizoj | verb | to periodize
+zardaf | noun | marten
+kambanar | noun | bell-ringer
+aluvion | noun | alluvium
+kollonatë | noun | Spanish dollar
+sqetullor | adj | axillary
+pasçlirim | noun | post-liberation period
+centrifug | adj | centrifugal
+djallëzoj | verb | to make devilish
+skarpat | noun | escarpment
+sepal | noun | sepal
+kundërpeshoj | verb | to counterbalance
+drenazhoj | verb | to drain
+gazifikoj | verb | to gasify
+bufal | noun | wild buffalo
+shekullarizoj | verb | to secularize
+bërthamëz | noun | nucleolus
+arkidioqezë | noun | archdiocese
+ekranizoj | verb | to screen (adapt for film)
+rondelë | noun | washer
+tejshpoj | verb | to pierce through
+rajonizoj | verb | to regionalize
+universalizoj | verb | to universalize
+hundëderr | adj | snub-nosed
+gjethembajtës | adj | leaf-bearing
+mjeshtëroj | verb | to craft skilfully
+mermeror | adj | marble
+pleqërisht | adv | in an old man's way
+prapavajtje | noun | regression
+kombëtarizoj | verb | to nationalize
+dyseksor | adj | bisexual (botany)
+përplotësoj | verb | to complete
+përnderim | noun | veneration
+përnderoj | verb | to venerate
+paraçlirim | noun | pre-liberation period
+kartuç | noun | cartridge
+sondoj | verb | to sound, to probe
+rishpërndaj | verb | to redistribute
+petëz | noun | thin sheet
+hundorësi | noun | nasality
+balsamoj | verb | to embalm
+përpjesshëm | adj | proportional
+ndërshkollor | adj | inter-school
+përthyeshmëri | noun | refractivity
+popullzoj | verb | to populate
+popullzim | noun | settlement
+tharmim | noun | leavening
+patinoj | verb | to skate
+bigëzoj | verb | to fork
+varrimor | adj | funerary
+fosfatik | adj | phosphatic
+amerikanizoj | verb | to Americanize
+katërsor | adj | fourfold
+gjashtëdhjetëvjeçar | adj | sixty-year-old
+metalprerës | adj | metal-cutting
+sqeplugë | noun | spoonbill
+anijendërtues | noun | shipbuilder
+smaltoj | verb | to enamel
+arkebuz | noun | arquebus
+dybuzor | adj | bilabial
+përgjysmues | adj | bisecting
+gjysmëdrejtëz | noun | ray (geometry)
+vitikulturë | noun | viticulture
+silicor | adj | siliceous
+stereometri | noun | solid geometry
+kompostoj | verb | to compost
+pesëqindvjetor | noun | quincentenary
+vullkanizoj | verb | to vulcanize
+kundërgrimcë | noun | antiparticle
+derëz | noun | small door
+parafabrikim | noun | prefabrication
+normoj | verb | to set a norm
+kaltërremë | adj | bluish
+recensoj | verb | to review
+bashkekzistoj | verb | to coexist
+rrëshinor | adj | resinous
+frytëzoj | verb | to make fruitful
+muzikoj | verb | to set to music
+përlëvdoj | verb | to extol
+vetëmbushës | adj | self-filling
+fusharak | noun | lowlander
+përtejshëm | adj | far-side
+pitekantrop | noun | Pithecanthropus
+mazurkë | noun | mazurka
+ventuzë | noun | cupping glass
+panjohshëm | adj | unknowable
+gjysmëbosht | noun | semi-axis
+aglomerim | noun | agglomeration
+minaheqës | noun | minesweeper
+metalizim | noun | metallization
+perigje | noun | perigee
+jovendimtar | adj | non-decisive
+emalim | noun | enamelling
+shelgjishtë | noun | willow grove
+argjendim | noun | silver-plating
+fashistizoj | verb | to fascistize
+mëndafshpunues | noun | silk worker
+gjeneralisim | noun | generalization
+pështymor | adj | salivary
+gropor | adj | pitted
+tejnxeh | verb | to overheat
+sfungjeror | adj | spongy
+barkbardhë | adj | white-bellied
+vajdhënës | adj | oil-yielding
+kërbishtor | adj | spinal
+drenoj | verb | to drain
+fundërrim | noun | sedimentation
+endogami | noun | endogamy
+tringëlloj | verb | to tinkle
+vetëveproj | verb | to act automatically
+pëllëmbor | adj | palmar
+sheqermbajtës | adj | sugar-bearing
+mbitension | noun | overvoltage
