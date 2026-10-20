@@ -19878,3 +19878,5 @@ garancion | garanci
 programer | programues
 # ── g9.new.tsv ──
 kurrikulum | kurrikulë
+# ── g10.new.tsv ──
+akcelerator | akselerator

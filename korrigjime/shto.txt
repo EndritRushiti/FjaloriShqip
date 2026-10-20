@@ -31699,3 +31699,120 @@ kikboksier | noun | kickboxer
 pedalim | noun | pedalling
 meristemë | noun | meristem
 derivativ | noun | derivative (finance)
+# ── g10.new.tsv ──
+kemikal | noun | chemical
+kontingjencë | noun | contingency
+purifikim | noun | purification
+ikonodul | noun | iconodule
+limfonod | noun | lymph node
+folezë | noun | small nest
+hipokampus | noun | hippocampus
+emevit | adj | Umayyad
+masazhim | noun | massaging
+zhupan | noun | župan
+kolumnë | noun | column
+kanelon | noun | cannelloni
+akselerator | noun | accelerator
+incizion | noun | incision
+kontabilizim | noun | accounting entry
+receptues | noun | receptor, receiver
+ekstruder | noun | extruder
+shumator | noun | adder, totalizer
+latinoamerikan | adj | Latin American
+fshehtëzim | noun | encryption
+miocit | noun | myocyte
+reaktant | noun | reactant
+korrodim | noun | corrosion
+paranoik | adj | paranoid
+impregnim | noun | impregnation
+paraislamik | adj | pre-Islamic
+lipoproteinë | noun | lipoprotein
+preparim | noun | preparation
+destruksion | noun | destruction
+federim | noun | federation (act)
+erizipelë | noun | erysipelas
+synetim | noun | circumcision
+paraklis | noun | chapel
+polimerazë | noun | polymerase
+katërkëndor | adj | quadrangular
+skizmatik | adj | schismatic
+dementi | noun | denial (official)
+akrilat | noun | acrylate
+aktuator | noun | actuator
+koekzistencë | noun | coexistence
+oksidazë | noun | oxidase
+pulsion | noun | drive, urge
+shampinjon | noun | button mushroom
+pektoral | adj | pectoral
+protoplanet | noun | protoplanet
+sfoljatë | noun | puff pastry
+spedicioner | noun | freight forwarder
+dipol | noun | dipole
+brifing | noun | briefing
+niacinë | noun | niacin
+mandibulë | noun | mandible
+ebolë | noun | Ebola
+tamponadë | noun | tamponade
+mononukleotid | noun | mononucleotide
+fashistoid | adj | fascistoid
+fitohormon | noun | phytohormone
+imanencë | noun | immanence
+kamionetë | noun | pickup truck, van
+pashpirtësi | noun | soullessness
+inkompetencë | noun | incompetence
+hakaton | noun | hackathon
+kryehetues | noun | chief investigator
+detoksikim | noun | detoxification
+kortikoid | noun | corticoid
+pastinak | noun | parsnip
+sfumaturë | noun | nuance
+brandim | noun | branding
+ekinokok | noun | echinococcus
+turmalinë | noun | tourmaline
+kurkuminë | noun | curcumin
+komprimim | noun | compression
+gonartrozë | noun | gonarthrosis
+mastit | noun | mastitis
+ekotip | noun | ecotype
+honorarist | noun | freelancer
+percentil | noun | percentile
+efod | noun | ephod
+biotransformim | noun | biotransformation
+skarcitet | noun | scarcity
+klorokinë | noun | chloroquine
+sinterim | noun | sintering
+delecion | noun | deletion (genetics)
+influks | noun | influx
+transaminazë | noun | transaminase
+rekurencë | noun | recurrence
+eksplant | noun | explant
+spatulë | noun | spatula
+enterokolit | noun | enterocolitis
+punktim | noun | puncture (medical)
+liferim | noun | delivery
+antifonë | noun | antiphon
+riboflavinë | noun | riboflavin
+statuetë | noun | statuette
+kambium | noun | cambium
+elektrostimulim | noun | electrostimulation
+acidifikim | noun | acidification
+cikloalkan | noun | cycloalkane
+dinukleotid | noun | dinucleotide
+hiperlink | noun | hyperlink
+pipetë | noun | pipette
+auskultim | noun | auscultation
+esterifikim | noun | esterification
+glutamat | noun | glutamate
+teleangiektazi | noun | telangiectasia
+fungicid | noun | fungicide
+fleksor | noun | flexor
+aksesion | noun | accession
+novokainë | noun | novocaine
+argininë | noun | arginine
+fluorid | noun | fluoride
+toluen | noun | toluene
+postament | noun | pedestal
+feokromocitomë | noun | pheochromocytoma
+iteracion | noun | iteration
+reziliencë | noun | resilience
+koagul | noun | clot
