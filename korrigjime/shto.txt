@@ -37213,3 +37213,300 @@ qenushë | noun | puppy
 barkushe | noun | small boat
 shtazan | adj | beastly
 qyqan | adj | wretched
+# ── ft6.new.tsv ──
+vërejtës | noun | observer
+pulit | verb | blink
+mjaullin | verb | miaow
+ditshëm | adj | daily
+zhagit | verb | drag
+dhjetëvjetësh | adj | ten-year
+xixëllon | verb | twinkle
+ndenjje | noun | stay
+ndrydhës | adj | repressive
+lenim | noun | relief
+ndruajtje | noun | timidity
+rropat | verb | toil
+vjedhuri | adv | furtively
+qesëndisës | adj | mocking
+sheshpushim | noun | landing
+shtjellës | adj | expository
+katranos | verb | tar
+përmbytës | adj | overwhelming
+dridhës | adj | trembling
+shkurtas | adv | briefly
+kafshëri | noun | bestiality
+njëfjalësh | adj | one-word
+njëshëm | adj | identical
+cytës | noun | instigator
+llahtaris | verb | horrify
+mësymës | noun | attacker
+lemeris | verb | terrify
+mjekës | noun | little beard
+shkreptin | verb | flash
+gjatosh | adj | lanky
+përpirës | adj | devouring
+fëshfërin | verb | rustle
+rreptas | adv | severely
+turrje | noun | rush
+vetishëm | adj | spontaneous
+doganim | noun | customs clearance
+rrëzëllen | verb | shine
+kapit | verb | exhaust
+regjës | noun | tanner
+kripësi | noun | saltiness
+sajdis | verb | honour
+plotpjesëtohet | verb | be divisible
+pluhurosje | noun | dusting
+gërvishtës | adj | scratching
+tinëzi | noun | sneakiness
+dallgëzon | verb | ripple
+dhjetëditësh | adj | ten-day
+kopsit | verb | button
+mbllaçit | verb | munch
+parandiej | verb | sense beforehand
+palosëse | noun | folding machine
+muzgët | adj | dusky
+tkurrës | adj | contracting
+ngrehje | noun | tensioning
+livadhis | verb | turn into meadow
+mirërritje | noun | good upbringing
+tulatje | noun | crouching
+fqinjëri | noun | neighbourliness
+oshtin | verb | resound
+gushit | verb | throttle
+zbardhëllon | verb | whiten
+sakatos | verb | maim
+shterpët | adj | barren
+tërësej | adv | entirely
+zbardhësh | adj | whitish
+ndritje | noun | illumination
+ngucje | noun | teasing
+qetim | noun | calming
+roitje | noun | care
+rropatem | verb | struggle
+shpejtas | adv | quickly
+majas | adv | on top
+shtënie | noun | shooting
+parfumos | verb | perfume
+dyanësh | adj | two-sided
+fikus | noun | ficus
+murgët | adj | dark grey
+nginj | verb | satiate
+përtërit | verb | renew
+mbrujtje | noun | kneading
+qullos | verb | make mushy
+folezon | verb | nest
+stërkeqje | noun | severe worsening
+shtazëri | noun | brutality
+marrosje | noun | going mad
+tollovit | verb | confuse
+gumëzhitës | adj | humming
+ngjizës | adj | coagulating
+dreqni | noun | devilry
+zemërluan | adj | lion-hearted
+galopon | verb | gallop
+kuqon | verb | redden
+telendis | verb | loiter
+parapritje | noun | anticipation
+rruarje | noun | shaving
+ecës | adj | walking
+poshtëri | noun | baseness
+zhurmët | adj | noisy
+kujdesim | noun | care
+miros | verb | soothe
+ngutas | adv | hurriedly
+sheqeros | verb | candy
+ngjethje | noun | shiver
+puthit | verb | join tightly
+rrënjësishëm | adj | radical
+tollovitje | noun | confusion
+bukëdhënës | noun | provider
+lëbyrës | adj | blinding
+zgjatës | noun | extension
+dritësi | noun | luminosity
+këmbas | adv | on foot
+vëngon | verb | squint
+këpucëtari | noun | shoemaking
+firos | verb | lose weight
+qesëndisje | noun | mockery
+sajdisje | noun | homage
+përlyerje | noun | smearing
+shurdhan | adj | deaf
+ashpëri | noun | harshness
+ngrykas | adv | at each other's throats
+njomështi | noun | tenderness
+dyshkallësh | adj | two-stage
+faqosës | noun | typesetter
+lëçitës | noun | stammerer
+shpluhuros | verb | dust
+tetëfaqësh | adj | eight-page
+përkulës | adj | flexor
+sheshas | adv | openly
+shtyrës | noun | pusher
+makara | noun | pulley
+krahëmarrje | noun | support
+çyshtje | noun | instigation
+flladitës | adj | refreshing
+vithisje | noun | sinking
+gjithësishëm | adj | universal
+helmatisës | adj | poisonous
+jeshilon | verb | turn green
+njësishëm | adj | unified
+lebetit | verb | terrify
+njomës | adj | moistening
+skamës | adj | needy
+ndryshkje | noun | rusting
+pesëditësh | adj | five-day
+syhapët | adj | wide-awake
+shushurin | verb | rustle
+zbardhës | noun | bleach
+kukurisje | noun | crowing
+mbllaçitje | noun | munching
+futës | noun | inserter
+grithje | noun | scratching
+nderje | noun | stretching
+rivesh | verb | re-dress
+fëshfëritje | noun | rustling
+telendisje | noun | loitering
+hovje | noun | surge
+lajkatari | noun | flattery
+pikues | noun | dropper
+rritshëm | adj | growable
+shqyes | adj | rapacious
+fashim | noun | bandaging
+gatitem | verb | get ready
+shtruarje | noun | laying
+thepisje | noun | jaggedness
+dygjymtyrësh | adj | binomial
+pesërrokësh | adj | five-syllable
+rrues | noun | shaver
+shkëndijon | verb | sparkle
+zhveshëse | noun | stripper
+galanteri | noun | haberdashery
+murgëri | noun | monasticism
+gatitje | noun | preparation
+mpakje | noun | shrinking
+njëjësohet | verb | be singularized
+moshim | noun | ageing
+përudhje | noun | guidance
+shkolitje | noun | chopping
+ronit | verb | trickle
+broçkullit | verb | babble
+njëanësi | noun | one-sidedness
+vetëton | verb | flash
+fjetës | adj | sleeping
+njëzetekatërorësh | adj | twenty-four-hour
+vetëtitës | adj | flashing
+asgjësi | noun | nothingness
+imtas | adv | in detail
+mërishëm | adj | sullen
+temjanis | verb | incense
+shquarje | noun | distinction
+mpiksës | adj | coagulant
+pluhuros | verb | cover with dust
+qenëri | noun | doggishness
+heqësi | noun | hardship
+epje | noun | flexing
+ngurosje | noun | hardening
+përcillem | verb | be accompanied
+përmallje | noun | longing
+batis | verb | sink
+çngjyros | verb | discolour
+kryeulët | adj | head bowed
+mbytësi | noun | suffocation
+frytje | noun | fruiting
+njëqindkëmbësh | noun | centipede
+shkundës | noun | shaker
+shumëvëllimësh | adj | multi-volume
+vetmohem | verb | sacrifice oneself
+faros | verb | exterminate
+ftohtas | adv | coldly
+ngjeshës | noun | compactor
+zymtas | adv | gloomily
+sheqerosje | noun | candying
+zhuritje | noun | scorching
+çakërdisje | noun | bewilderment
+buluron | verb | bloom
+kurthon | verb | trap
+përqafje | noun | embrace
+dyrrokësh | adj | disyllabic
+gjumësi | noun | sleepiness
+kaish | noun | strap
+majmunëri | noun | monkey business
+njëjavësh | adj | one-week
+pesëvargësh | adj | five-line
+shkapërderdhës | adj | spilling
+vapët | adj | sultry
+mjelës | noun | milker
+vetësi | noun | property
+rroposje | noun | plunge
+sitje | noun | sieving
+bashkërenditës | adj | coordinating
+dyndës | adj | invading
+dhjetëgarësh | noun | decathlon
+gjethon | verb | leaf out
+jetos | verb | live
+mërzitës | adj | boring
+parapritës | noun | anticipator
+trembës | adj | frightening
+fshikje | noun | whipping
+zgërdheshje | noun | grin
+dyllojësh | adj | of two kinds
+faqos | verb | lay out pages
+fërfërin | verb | rustle
+shumëgarësh | adj | multi-event
+shumërrokësh | adj | polysyllabic
+topitës | adj | dulling
+zbrazës | noun | emptier
+kotas | adv | in vain
+përpëlitës | adj | writhing
+shumëshkallësh | adj | multi-stage
+vështirshëm | adj | difficult
+zhargas | adv | dragging
+kripje | noun | salting
+shprushje | noun | poking
+ibërshim | noun | silk thread
+klloçitje | noun | clucking
+krekosem | verb | strut
+mballosje | noun | patching
+përmjerrje | noun | wetting
+vajis | verb | oil
+koagulon | verb | coagulate
+drejtas | adv | straight
+grahës | adj | driving
+tetorësh | adj | eight-hour
+lebetitje | noun | horror
+terratisje | noun | darkening
+mirënjohësi | noun | gratitude
+kruspullos | verb | curl up
+bukos | verb | swell
+çelit | verb | open
+dyfazësh | adj | two-phase
+hapas | adv | step by step
+harrës | adj | forgetful
+kalbësi | noun | rot
+kërdis | verb | destroy
+cijatje | noun | squealing
+katranosje | noun | tarring
+rrufitje | noun | slurping
+dashaligësi | noun | malevolence
+dykanatësh | adj | double-leaf
+emërzohet | verb | be named
+njëmbëdhjetësh | adj | eleven-part
+njëmilionësh | adj | million
+përfalem | verb | bow
+uritem | verb | go hungry
+farosje | noun | extermination
+ndërkryerje | noun | crossing
+arratisës | noun | fugitive
+katërfaqësh | adj | four-page
+lyes | noun | painter
+përkapshëm | adj | graspable
+shumëdegësh | adj | multi-branched
+tokas | adv | on the ground
+fugim | noun | grouting
+pudrosje | noun | powdering
+zhargitje | noun | dragging
+besëthyerje | noun | breach of faith
+mekës | adj | fainting
+përkëdhelshëm | adj | pampered
