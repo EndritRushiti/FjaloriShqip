@@ -33341,4 +33341,296 @@ liferues | noun |
 metabolizues | noun | 
 paratregim | noun | 
 salutim | noun | 
-skedulues | noun | 
+skedulues | noun |
+# ── v3.new.tsv ──
+mirëorganizoj | verb | 
+mirëpagoj | verb | 
+vetëmbroj | verb | 
+mirëformoj | verb | 
+mirëpranoj | verb | 
+vetëshkaktoj | verb | 
+vetëpastroj | verb | 
+mirëplanifikoj | verb | 
+vetëkrijoj | verb | 
+mirëedukoj | verb | 
+mirëndriçoj | verb | 
+mirëintegroj | verb | 
+keqedukoj | verb | 
+stërprovoj | verb | 
+nënfinancoj | verb | 
+vetëmotivoj | verb | 
+vetëimponoj | verb | 
+keqlexoj | verb | 
+mirëpeshoj | verb | 
+ripajtoj | verb | 
+mbipërfaqësoj | verb | 
+kequdhëzoj | verb | 
+vetëdëmtoj | verb | 
+mbidyfishoj | verb | 
+vetëmenaxhoj | verb | 
+paraplanifikoj | verb | 
+nënshtresoj | verb | 
+vetëzbuloj | verb | 
+vetëprodhoj | verb | 
+vetëreklamoj | verb | 
+mbititulloj | verb | 
+vetëqetësoj | verb | 
+vetëraportoj | verb | 
+vetëburgos | verb | 
+vetëcertifikoj | verb | 
+ripërpiloj | verb | 
+mbishfrytëzoj | verb | 
+vetëregjistroj | verb | 
+keqzbatoj | verb | 
+vetëpranoj | verb | 
+ridekoroj | verb | 
+vetëpagëzoj | verb | 
+nëndiagnostikoj | verb | 
+mirëdrejtoj | verb | 
+vetëpëlqej | verb | 
+pararegjistroj | verb | 
+vetëdisiplinoj | verb | 
+tejtheksoj | verb | 
+bashkëndërtoj | verb | 
+ridistribuoj | verb | 
+riviktimizoj | verb | 
+vetëkonsideroj | verb | 
+stërtheksoj | verb | 
+stërkomentoj | verb | 
+riabsorboj | verb | 
+keqdiagnostikoj | verb | 
+vetëpërmirësoj | verb | 
+mirëpërfaqësoj | verb | 
+keqmendoj | verb | 
+bashkësundoj | verb | 
+ridashuroj | verb | 
+vetëndëshkoj | verb | 
+vetëmjekoj | verb | 
+rimineralizoj | verb | 
+rivështroj | verb | 
+kundërvotoj | verb | 
+ripërkujtoj | verb | 
+keqvlerësoj | verb | 
+nëndeklaroj | verb | 
+rikontaktoj | verb | 
+vetëpromovoj | verb | 
+paraekzistoj | verb | 
+risanksionoj | verb | 
+bashkësponsorizoj | verb | 
+ridubloj | verb | 
+vetëkuroj | verb | 
+tejzmadhoj | verb | 
+vetëlëndoj | verb | 
+vetësiguroj | verb | 
+vetëndërtoj | verb | 
+vetëfajësoj | verb | 
+kundërluftoj | verb | 
+riadresoj | verb | 
+ridhunoj | verb | 
+ripajis | verb | 
+keqkonceptoj | verb | 
+paradatoj | verb | 
+keqgjykoj | verb | 
+bashkëhartoj | verb | 
+ricertifikoj | verb | 
+bashkëpranoj | verb | 
+mbireagoj | verb | 
+ridedikoj | verb | 
+rifabrikoj | verb | 
+keqplanifikoj | verb | 
+vetëakuzoj | verb | 
+mbitaksoj | verb | 
+keqshpjegoj | verb | 
+bashkëkoordinoj | verb | 
+vetëviktimizoj | verb | 
+rishfletoj | verb | 
+vetëzhvilloj | verb | 
+rikodoj | verb | 
+riemigroj | verb | 
+rimilitarizoj | verb | 
+nënrendoj | verb | 
+vetëplotësoj | verb | 
+vetëposhtëroj | verb | 
+superpopulloj | verb | 
+bashkëfirmos | verb | 
+sipërcitoj | verb | to cite above
+hidrogjenizoj | verb | to hydrogenate
+zinkoj | verb | to galvanize
+noteroj | verb | to notarize
+disavantazhoj | verb | to disadvantage
+parainstaloj | verb | to preinstall
+randomizoj | verb | to randomize
+predestinoj | verb | to predestine
+fragmentizoj | verb | to fragment
+dematerializoj | verb | to dematerialize
+partnerizoj | verb | to partner
+termoizoloj | verb | to insulate thermally
+sipërtheksoj | verb | to emphasize above
+synetoj | verb | to circumcise
+dypunësoj | verb | to employ twice
+diseminoj | verb | to disseminate
+kolateralizoj | verb | to collateralize
+parapengoj | verb | to forestall
+mikronizoj | verb | to micronize
+rimandatoj | verb | to re-mandate
+demineralizoj | verb | to demineralize
+stratifikoj | verb | to stratify
+njëkohësoj | verb | to synchronize
+klorinoj | verb | to chlorinate
+hipertrofizoj | verb | to hypertrophy
+etnizoj | verb | to ethnicize
+eruptoj | verb | to erupt
+karikaturizoj | verb | to caricature
+liofilizoj | verb | to freeze-dry
+bullgarizoj | verb | to Bulgarize
+higjienizoj | verb | to sanitize
+epitetoj | verb | to label
+maqedonizoj | verb | to Macedonize
+empatizoj | verb | to empathize
+ekshumoj | verb | to exhume
+sklerotizoj | verb | to sclerotize
+tetëfishoj | verb | to octuple
+dekompresoj | verb | to decompress
+afilioj | verb | to affiliate
+servilizoj | verb | to make servile
+shformësoj | verb | to deform
+gropëzoj | verb | to pit
+evropeizoj | verb | to Europeanize
+reinkarnoj | verb | to reincarnate
+kapilarizoj | verb | to capillarize
+qindfishoj | verb | to centuple
+destrukturoj | verb | to destructure
+kosovarizoj | verb | to Kosovarize
+hierarkizoj | verb | to rank
+kostumizoj | verb | to customize
+proletarizoj | verb | to proletarianize
+ridikulizoj | verb | to ridicule
+shabllonizoj | verb | to stereotype
+transfuzoj | verb | to transfuse
+gjilpëroj | verb | to needle
+depopulloj | verb | to depopulate
+palatalizoj | verb | to palatalize
+miniaturizoj | verb | to miniaturize
+eutanizoj | verb | to euthanize
+erotizoj | verb | to eroticize
+hegjemonizoj | verb | to dominate
+protagonizoj | verb | to star in
+rezignoj | verb | to resign oneself
+spiritualizoj | verb | to spiritualize
+dializoj | verb | to dialyse
+marketizoj | verb | to marketize
+korporatizoj | verb | to corporatize
+domestikoj | verb | to domesticate
+disagregoj | verb | to disaggregate
+esencializoj | verb | to essentialize
+mikrofilmoj | verb | to microfilm
+desakralizoj | verb | to desacralize
+kalcinoj | verb | to calcine
+artificializoj | verb | to artificialize
+animizoj | verb | to animate
+translokoj | verb | to translocate
+teledirigjoj | verb | to remote-control
+territorializoj | verb | to territorialize
+militantizoj | verb | to militarize
+historicizoj | verb | to historicize
+folklorizoj | verb | to folklorize
+depaketoj | verb | to unpack
+teknologjizoj | verb | to technologize
+komutoj | verb | to commute
+alertoj | verb | to alert
+infuzoj | verb | to infuse
+konvalidoj | verb | to validate
+kontraindikoj | verb | to contraindicate
+tokenizoj | verb | to tokenize
+normativizoj | verb | to normativize
+tekstualizoj | verb | to textualize
+kontemploj | verb | to contemplate
+teoretizoj | verb | to theorize
+eksterminoj | verb | to exterminate
+disekuilibroj | verb | to unbalance
+klientelizoj | verb | to make clients of
+eksproprioj | verb | to expropriate
+seksionoj | verb | to section
+rutinizoj | verb | to routinize
+deheroizoj | verb | to deheroize
+silazhoj | verb | to ensile
+feudalizoj | verb | to feudalize
+faktografoj | verb | to document facts
+termoformoj | verb | to thermoform
+vetëaktualizoj | verb | to self-actualize
+predeterminoj | verb | to predetermine
+shpluhuroj | verb | to dust off
+konfederoj | verb | to confederate
+deskuamoj | verb | to desquamate
+pranëvendos | verb | to juxtapose
+ndërvendos | verb | to interpose
+skenarizoj | verb | to script
+vullnetarizoj | verb | to volunteer
+subspecializoj | verb | to subspecialize
+dekomisionoj | verb | to decommission
+kalendarizoj | verb | to schedule
+elektronizoj | verb | to electronize
+triazhoj | verb | to triage
+suplementoj | verb | to supplement
+acetiloj | verb | to acetylate
+komodifikoj | verb | to commodify
+nanostrukturoj | verb | to nanostructure
+gravuroj | verb | to engrave
+jugosllavizoj | verb | to Yugoslavize
+katolicizoj | verb | to Catholicize
+devastoj | verb | to devastate
+klishetizoj | verb | to cliché
+sindikalizoj | verb | to unionize
+tabuloj | verb | to tabulate
+habilitoj | verb | to habilitate
+otomanizoj | verb | to Ottomanize
+autocensuroj | verb | to self-censor
+pluralizoj | verb | to pluralize
+skeletizoj | verb | to skeletonize
+shtatëfishoj | verb | to septuple
+diabolizoj | verb | to demonize
+deindustrializoj | verb | to deindustrialize
+desensibilizoj | verb | to desensitize
+keqprezantoj | verb | to misrepresent
+sovranizoj | verb | to make sovereign
+mashkullorizoj | verb | to masculinize
+torpedoj | verb | to torpedo
+memorializoj | verb | to memorialize
+aglutinoj | verb | to agglutinate
+drejtshkroj | verb | to spell correctly
+fiksionalizoj | verb | to fictionalize
+deodorizoj | verb | to deodorize
+implodoj | verb | to implode
+alegorizoj | verb | to allegorize
+nihilizoj | verb | to nullify
+tregtarizoj | verb | to commercialize
+monoftongoj | verb | to monophthongize
+infantilizoj | verb | to infantilize
+komunistizoj | verb | to communize
+ekzorcizoj | verb | to exorcize
+prefabrikoj | verb | to prefabricate
+inceneroj | verb | to incinerate
+superpozoj | verb | to superimpose
+teatralizoj | verb | to theatricalize
+agonizoj | verb | to agonize
+revolucionizoj | verb | to revolutionize
+detronizoj | verb | to dethrone
+rektifikoj | verb | to rectify
+deislamizoj | verb | to de-Islamize
+dualizoj | verb | to dualize
+shfiguroj | verb | to disfigure
+gijotinoj | verb | to guillotine
+provincializoj | verb | to provincialize
+thesarizoj | verb | to hoard
+kriptografoj | verb | to encrypt
+eradikoj | verb | to eradicate
+shuplakoj | verb | to slap
+fluidizoj | verb | to fluidize
+ekzotizoj | verb | to exoticize
+anastomozoj | verb | to anastomose
+kazermoj | verb | to quarter
+akutizoj | verb | to become acute
+pseudonimizoj | verb | to pseudonymize
+muzealizoj | verb | to musealize
+delegjitimizoj | verb | to delegitimize
+anihiloj | verb | to annihilate
