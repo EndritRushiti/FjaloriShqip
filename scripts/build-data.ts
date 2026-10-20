@@ -1113,6 +1113,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "dozon-1879": list.filter((w) => w.sources.includes("dozon-1879")).length,
       "korpus-gege": list.filter((w) => w.sources.includes("korpus-gege")).length,
       hplt: list.filter((w) => w.sources.includes("hplt")).length,
+      eurovoc: list.filter((w) => w.sources.includes("eurovoc")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,

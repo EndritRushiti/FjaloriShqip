@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc";
 
 export interface SourceInfo {
   id: SourceId;
@@ -312,6 +312,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Pjesoret dhe paskajoret gege në -ue e -ye (me punue, me thye) dhe mbiemrat në -uem e -un (i punuem, i lidhun), fjalë me ue gege në vend të ua (grue, muej) dhe fjalë në drejtshkrimin letrar gegë me zanore hundore (gjâ, kâmbë, vênd), secila e lidhur me fjalën standarde. Merren vetëm format që përdoren të paktën 10 herë në korpuse.",
       en: "Gheg participles and infinitives in -ue and -ye (me punue, me thye) and participle adjectives in -uem and -un (i punuem, i lidhun), words with Gheg ue for standard ua (grue, muej) and literary Gheg spellings with nasal vowels (gjâ, kâmbë, vênd), each linked to its standard word. Only forms used at least 10 times in the corpora are taken.",
+    },
+  },
+
+  eurovoc: {
+    id: "eurovoc",
+    name: "EuroVoc, tezauri shumëgjuhësh i BE-së (versioni shqip) / the EU multilingual thesaurus (Albanian)",
+    publisher: "Zyra e Publikimeve e Bashkimit Evropian / Publications Office of the European Union, © European Union",
+    url: "https://op.europa.eu/en/web/eu-vocabularies/eurovoc",
+    licence: "Ripërdorim i lirë me përmendjen e burimit (Vendimi 2011/833/BE) / Free reuse with acknowledgement (Decision 2011/833/EU)",
+    licenceUrl: "https://eur-lex.europa.eu/eli/dec/2011/833/oj",
+    usedFor: {
+      sq: "Vetëm disa fjalë të vetme shqip të tezaurit (rreth 100 terma ekonomikë, shkencorë e teknikë), të cilat i kontrollojmë në korpuse dhe i përshkruajmë vetë.",
+      en: "Only some single Albanian words of the thesaurus (about 100 economic, scientific and technical terms), which we check in the corpora and describe ourselves.",
+    },
+    notUsed: {
+      sq: "Termat me shumë fjalë, struktura e tezaurit dhe përkthimet nuk merren.",
+      en: "Multi-word terms, the structure of the thesaurus and the translations are not used.",
     },
   },
 
