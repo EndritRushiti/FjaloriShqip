@@ -310,8 +310,8 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY-SA 4.0",
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     usedFor: {
-      sq: "Pjesoret dhe paskajoret gege në -ue e -ye (me punue, me thye) dhe mbiemrat në -uem e -un (i punuem, i lidhun), secila e lidhur me fjalën standarde. Merren vetëm format që përdoren të paktën 10 herë në korpuse.",
-      en: "Gheg participles and infinitives in -ue and -ye (me punue, me thye) and participle adjectives in -uem and -un (i punuem, i lidhun), each linked to its standard word. Only forms used at least 10 times in the corpora are taken.",
+      sq: "Pjesoret dhe paskajoret gege në -ue e -ye (me punue, me thye) dhe mbiemrat në -uem e -un (i punuem, i lidhun), si dhe fjalë me ue gege në vend të ua (grue, muej), secila e lidhur me fjalën standarde. Merren vetëm format që përdoren të paktën 10 herë në korpuse.",
+      en: "Gheg participles and infinitives in -ue and -ye (me punue, me thye) and participle adjectives in -uem and -un (i punuem, i lidhun), and words with Gheg ue for standard ua (grue, muej), each linked to its standard word. Only forms used at least 10 times in the corpora are taken.",
     },
   },
 
