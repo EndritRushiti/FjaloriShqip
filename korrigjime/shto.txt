@@ -30343,3 +30343,24 @@ xehetari | noun | mining
 milici | noun | militia
 kusari | noun | brigandage, piracy
 dramatikë | noun | dramatic works
+# ── t8.new.tsv ──
+polemist | noun | polemicist
+korelacion | noun | correlation
+fundament | noun | foundation
+mediator | noun | mediator
+nervozitet | noun | nervousness
+granulacion | noun | granulation
+dramaticitet | noun | dramatic quality
+panelist | noun | panellist
+medalist | noun | medallist
+animator | noun | animator
+satirist | noun | satirist
+editorialist | noun | editorialist
+laktacion | noun | lactation
+paritet | noun | parity
+psikanalist | noun | psychoanalyst
+salivacion | noun | salivation
+adventist | noun | Adventist
+diversionist | noun | saboteur
+inhalator | noun | inhaler
+makabritet | noun | macabreness
