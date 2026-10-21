@@ -40619,3 +40619,185 @@ atëças | adv | then
 avrom | noun | crowd, cluster
 bajalldis | verb | faint
 baltëdosë | noun | badger
+# ── mannshto.tsv ──
+ballanxhë | noun | moat, ditch; pool; horse pond; bath
+ballatoj | verb | face
+ballçak | noun | hilt of a sword
+ballçilë | adj | open, frank
+balldanos | noun | parsley
+balldungë | noun | bump on the forehead
+ballërinë | noun | dancing hall
+ballhapët | adj | frank, open, sincere
+ballhutë | noun | (in phrase) time of plenty
+ballicë | noun | handkerchief, headband, frontlet
+ballkot | noun | powder used to catch fish
+ballkue | noun | balcony; window; veranda
+ballpris | noun | leader
+ballsim | noun | confronting, facing, challenge
+ballsoj | verb | confront, face; snub
+ballsore | noun | pommel of a packsaddle
+balltinë | noun | frontispiece
+bambë | noun | bamboo
+bambin | noun | child
+bambinth | noun | little child
+bamp | noun | (in phrase) left stranded
+bandierë | noun | banner
+bandil | noun | chopper
+bandille | noun | paramour, flame
+bandizuom | adj | banished, outcast
+banem | verb | become
+bango | noun | bench
+banko | noun | bank
+banqer | noun | banker
+banqi | noun | bench
+banjar | noun | bath attendant; bather
+baq | noun | pelvis; abdomen
+baqth | noun | abdomen, belly, paunch; groin; bladder
+barabacim | noun | equalisation, equality
+barabacoj | verb | equalise, level
+barabarthi | adv | equally
+barabarshëm | adj | level; equalising
+barabis | verb | compare
+barabitës | adj | comparative
+barabitshëm | adj | comparable
+baragan | adj | fleabitten grey (of a horse)
+baraman | adj | fleabitten grey (of a horse)
+barakan | noun | cloak, burnous
+barasi | noun | equality
+barashtoj | verb | level, flatten out, equalise
+barat | noun | privilege, patent
+barazhgë | noun | trouble, anxiety; quandary
+barbalis | verb | play the buffoon
+barbalisem | verb | mutter
+barballij | verb | belittle
+barbarez | noun | native of the Barbary States
+barbaroz | noun | scented geranium; pet lamb
+barbëlac | noun | snakeroot
+barbërës | noun | apothecary
+barbolec | noun | maggot; tick in cattle
+barbonë | noun | a disease of poultry
+barbu | noun | red mullet
+barbut | noun | dice
+barbutkë | noun | dice game
+bardhalec | adj | white, whitened
+bardhesh | adj | hoary; a variety of fig
+bardhëm | adj | whitish
+bardhni | noun | whiteness
+bardhuk | adj | whitish
+bardhul | adj | whitish
+bardhoj | verb | whiten, colour white
+bardhoshinë | noun | chalk; leucorrhoea
+bardhsi | noun | whiteness
+bardhucë | noun | diphtheria; quinsy
+barem | verb | be borne, carried
+bareshtim | noun | level; equality
+bareshtoj | verb | level; equalise
+barës | noun | porter, carrier
+barësoj | verb | equalise
+bargan | noun | horsetail (plant)
+bargatonjës | noun | apothecary
+barilë | noun | cask, drum, barrel
+bariroj | verb | bellow, roar
+baris | verb | walk, go for a walk
+barras | verb | walk
+baritje | noun | walk
+bariturë | noun | walk
+barjak | noun | flag
+barjaktar | noun | standard-bearer
+barkacel | adj | pot-bellied; gluttonous; glutton
+barkaçe | noun | bucket, pail; small pot or kettle
+barkanjos | adj | dropsical
+barkaris | verb | sail, set sail
+barkatar | noun | boatman, skipper; shipowner
+barkëzaj | adv | on the stomach
+barkiç | adj | stout
+barkmullë | adj | pot-bellied
+barkosh | adj | fat, stout; stout man
+barksoj | verb | puff out, swell, bulge
+barkshtërki | noun | glutton
+bermë | noun | inner bark
+barnaçore | noun | pharmacy
+barnari | noun | pharmacy
+barnar | noun | apothecary
+barnatori | noun | drugs, medicines
+barnishte | noun | herb
+baroj | verb | cover with grass
+baros | verb | cover with grass
+ënbaroj | verb | finish
+barojë | noun | herb, weed
+barokë | noun | coffee caddy, canister
+baronjak | adj | baronial
+barotçore | noun | powder magazine
+bars | verb | bear, carry; produce; transmit; transfer
+barse | adj | pregnant (of animals)
+barsëri | noun | pregnancy
+bartel | noun | honeysuckle, woodbine
+bartim | noun | move, removal
+bartsi | noun | carrying, transport, transfer
+baruo | noun | baron
+barun | noun | baron
+barutçore | noun | powder mill
+baruthanë | noun | powder magazine
+barxhë | noun | black or brown goat
+barrak | noun | hut
+barré | noun | pole, rammer; mallet; coarse trimming tool
+barrem | verb | be pregnant (of animals)
+barrabajtës | adj | beast of burden
+barrëz | noun | little load
+barriroj | verb | bellow, roar
+barrore | noun | packsaddle
+barrse | adj | pregnant
+barrsë | noun | pregnant woman
+barrsi | noun | pregnancy
+barrsim | noun | foetus; pregnancy; brood of insects
+barrsoj | verb | impregnate, fertilise
+barrtar | noun | carrier
+barrvrame | noun | miscarriage
+basaduar | noun | ambassador
+basamak | noun | step of a staircase
+basem | noun | calico
+basilek | noun | basil
+baski | noun | large nail
+basmanjtë | adj | of calico
+basmara | noun | cotton print
+bastardh | noun | bastard; street arab; booth; wheatear
+bestardh | noun | bastard
+bashtardh | noun | bastard
+bastardhe | noun | bastard girl
+bastardhoj | verb | corrupt, deform, debauch, falsify
+bastër | noun | blight on grapes; mildew
+basti | noun | raid
+bastoj | verb | suffice
+bastue | noun | front pommel of a packsaddle
+bastunëz | noun | (in a phrase) knitting needles
+bashak | noun | corncob
+bashçë | noun | garden
+bashkangjis | verb | join, adjoin, affix, enclose
+bashkari | noun | society
+bashkderdhje | noun | assimilation
+bashkdije | noun | complicity, connivance
+bashkëm | adj | united, joined
+bashkët | adj | united, joint
+bashkimtar | noun | confederate
+bashlinë | noun | pin
+bashtard | noun | bastard
+bashtardhoj | verb | corrupt, falsify
+bashtë | adj | of the garden, horticultural
+bashtinoj | verb | till, cultivate
+bashto | noun | bastard
+bashtos | noun | bastard
+bashtull | noun | bastard
+batalinë | noun | fright, terror
+batec | noun | a variety of fig
+batë | noun | stitch, mesh
+batërr | adv | in disorder; disorderly, indecent
+batime | noun | bird trap
+batjell | noun | skiff, boat, canoe
+batoq | noun | clapper of a bell; hammer of a piano; keyboard
+batoz | noun | threshing machine
+bathishtë | noun | bean field
+batht | noun | luck
+baul | noun | suitcase, portmanteau
+baxë | noun | darling; lovemaking, flirtation
+baxhak | noun | trotters
+baxhdile | noun | weed
