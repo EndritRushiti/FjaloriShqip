@@ -1085,3 +1085,11 @@ ené | edhe | alternative
 endé | edhe | alternative
 éngjull | engjëll | alternative
 enqiklopedi | enciklopedi | alternative
+# ── Mann 1948 ──
+ervani | revani | alternative
+errsi | errësirë | alternative
+errsirë | errësirë | alternative
+errsoj | errësoj | alternative
+esullt | esëll | alternative
+esthetik | estetik | alternative
+esthetikë | estetikë | alternative

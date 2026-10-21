@@ -43773,3 +43773,64 @@ eremqë | noun | coarse bran
 eremtari | noun | hermitage
 erende | noun | grater, rasp
 ereni | noun | winnowing-fan; system
+# ── mannshto.tsv ──
+erep | noun | chain, fetter
+eretik | noun | heretic
+erethis | verb | rouse, irritate
+erëbërës | noun | perfumer
+erëhollë | adj | light, breezy
+erëligë | noun | malaria
+erëmarrës | adj | respiratory
+erëmarrje | noun | keen-scentedness; smelling, sniffing
+erëmbajtës | adj | fragrant
+erëmbylltas | adv | airtight, hermetically
+erëpirë | noun | rainy wind; gale
+erëprurës | adj | fragrant
+erësoj | verb | air; scent; give off an aroma
+erët | adj | wind-, air-
+erëtregonjës | noun | weather-vane
+ergalis | verb | adorn
+ergat | noun | workman, labourer
+ergoj | verb | make, cause
+ergjelé | noun | herd of animals, drove of cattle
+ergelé | noun | herd, drove
+ergjit | noun | bachelor
+erka | noun | shallows
+ermenisht | adv | in Armenian
+ermenkë | noun | Armenian girl or woman
+ermer | noun | cupboard
+ermë | adj | fragrant; fine embroidery ribbon
+ermedell | noun | a tree
+ermik | noun | fine flour
+ermoj | verb | rake, rummage about
+erna | noun | spices; perfume
+erodhios | noun | heron; kind of plover
+eroj | verb | blow, waft; perfume
+eror | adj | aerial
+erpirë | noun | rainy wind
+ers | noun | fan
+ersë | noun | fan
+ersoj | verb | perfume, scent; air, ventilate
+ershëm | adj | airy; fragrant
+ershoj | verb | air, ventilate; blow; wave
+ertoj | verb | cause to smell
+erurë | noun | mistake
+ervani | noun | sponge cake
+erzë | noun | dill; fennel
+errëz | noun | dill
+erzim | noun | slope
+erret | verb | it is getting dark
+errcirë | noun | darkness
+errsi | noun | darkness
+errsinë | noun | darkness
+errsirë | noun | darkness
+errsoj | verb | darken
+errshëm | adj | dark; obscure
+errtoj | verb | darken; blot out
+errur | adj | darkened
+esullt | adj | sober, fasting
+esëlloj | verb | fast, be without food
+esrar | noun | hashish
+esthetik | adj | aesthetic
+esthetikë | noun | aesthetics
+eshkna | noun | vetch
