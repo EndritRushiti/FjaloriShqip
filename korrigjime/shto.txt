@@ -39739,3 +39739,127 @@ katinar | noun | padlock
 katranoj | verb | tar
 këmbëzezë | adj | black-legged
 kënetizim | noun | waterlogging
+# ── fn3.new.tsv ──
+kërleshan | adj | tousled
+kilo | noun | kilo
+kino | noun | cinema
+kloroj | verb | chlorinate
+kodrinar | noun | hill dweller
+kokërrzi | adj | black-grained
+kokëzoj | verb | form heads
+kokrrizoj | verb | granulate
+komando | noun | commando
+kombëtari | noun | nationality
+konturoj | verb | outline
+kontratoj | verb | contract
+kopiloj | verb | bear out of wedlock
+kopshtore | adj | garden
+korbë | adj | wretched
+krahashoj | verb | compare
+krahëse | noun | shoulder piece
+krishterëzoj | verb | Christianize
+kruspullor | adj | huddled
+kthjelltësim | noun | clarification
+kuadroj | verb | frame
+kufizor | adj | limiting
+kumbarim | noun | godparenthood
+kumbullor | adj | plum
+kundërpërgjigjem | verb | retort
+kungullar | noun | gourd grower
+kushtetoj | verb | condition
+kuvajtjan | adj | Kuwaiti
+lagështim | noun | moisture
+lajkatis | verb | flatter
+lajkoj | verb | flatter
+lajmësoj | verb | inform
+lakroj | verb | plant cabbage
+larëzim | noun | mottling
+lashtim | noun | antiquation
+lehërim | noun | barking
+letërprerës | noun | paper knife
+lezetos | verb | embellish
+lëkurëtar | noun | leather worker
+lëndëzim | noun | materialization
+lëndëzoj | verb | materialize
+lëngësoj | verb | liquefy
+licitoj | verb | auction
+ligësoj | verb | weaken
+ligjoj | verb | legislate
+lirësim | noun | liberation
+lirësoj | verb | free
+lisnik | noun | oak wood
+lugësoj | verb | hollow out
+lulevjeshtë | noun | autumn flower
+lulëbardhë | adj | white-flowered
+lulëtar | noun | florist
+lulishtë | noun | flower garden
+lyrësi | noun | grease
+lyrshëm | adj | greasy
+madhok | adj | big
+malishtë | noun | mountainous terrain
+maltoj | verb | plaster
+mandatoj | verb | mandate
+marijuhanë | noun | marijuana
+marinoj | verb | marinate
+master | noun | master's degree
+mastiç | noun | mastic
+mataroj | verb | fill a flask
+mavijoj | verb | bruise
+mbidorë | adv | on the hand
+mbiujë | adv | above water
+menazhim | noun | management
+menazhoj | verb | manage
+menazhues | noun | manager
+metamorfozoj | verb | transform
+mëngjesoj | verb | breakfast
+mënjanie | noun | sidelining
+mikro | adj | micro
+miradministroj | verb | administer well
+mirinformoj | verb | inform well
+mitraloj | verb | machine-gun
+mjekueshëm | adj | treatable
+mjeshtërim | noun | mastery
+modist | noun | milliner
+moshoj | verb | age
+mpleks | verb | tangle
+mpleksje | noun | entanglement
+muzgëtirë | noun | twilight
+mykth | noun | mildew
+ndenjësor | adj | seated
+ndërdhëmbor | adj | interdental
+ndërnyjë | noun | internode
+ndjeshmërim | noun | sensitization
+neto | adj | net
+netoj | verb | net
+nevojitem | verb | be needed
+nënbarkës | noun | bellyband
+ngjizshëm | adj | coagulable
+nikeloj | verb | nickel-plate
+nitroj | verb | nitrate
+numërtoj | verb | number
+nyjëzoj | verb | knot
+njëkombësi | noun | mono-nationality
+njëqindlekësh | adj | hundred-lek
+njëvetor | adj | single-person
+njëvitshëm | adj | one-year
+orbital | adj | orbital
+orëmirë | adj | fortunate
+ortodoksizëm | noun | orthodoxy
+pabisht | adj | tailless
+pabukë | adj | without bread
+pagrua | adj | wifeless
+pakujdes | adj | careless
+pambukor | adj | cotton
+pandespanjë | noun | sponge cake
+panegjerik | noun | panegyric
+pakallur | adj | unsown
+parketoj | verb | parquet
+parashtesoj | verb | prefix
+pashkueshëm | adj | impassable
+patetikë | noun | pathos
+pemishtë | noun | orchard
+pendosje | noun | repentance
+përfundos | verb | finish
+përgjakon | verb | bloody
+përmasoj | verb | dimension
+përmbytshëm | adj | floodable
