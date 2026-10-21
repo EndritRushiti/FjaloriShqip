@@ -42789,3 +42789,55 @@ derhem | noun | dram
 djerie | adv | even; as far as, until
 ndjere | adv | even; until
 deridiku | adv | somewhat, to some extent
+# ── mannshto.tsv ──
+derkanë | noun | sow
+derkopull | noun | sucking pig
+derkopujth | noun | sucking pig
+derkuc | noun | sucking pig
+dertar | noun | doorkeeper, porter
+derrdash | noun | mongrel
+derrogrue | noun | shrew, minx
+derroplak | noun | greybeard
+derropull | noun | sucking pig
+derroqen | noun | cerberus
+desgracie | noun | disgrace, misfortune
+deskrecion | noun | discretion
+despiko | noun | spite
+desqaroj | verb | explain, declare
+destemell | noun | handkerchief; towel
+desutuem | adj | immortal
+desutuar | adj | immortal
+desherim | noun | desire, wish, will; appetite
+deshiroj | verb | desire
+deshmim | noun | testimony, evidence
+deshminjeni | noun | testimony
+deshmitar | noun | martyr; witness
+deshmoj | verb | testify
+deshnim | noun | draft, design
+deshnoj | verb | draft, design
+deshpëlqim | noun | displeasure; boredom
+deshpëri | noun | despair, desperation
+deshpërisht | adv | desperately
+deshtas | adv | on purpose, wilfully
+deshtem | verb | fail
+detim | noun | dictation; voyage
+detinë | noun | an animal
+detkë | noun | marble for playing
+detoj | verb | dictate; sail
+detorës | noun | debtor
+detore | noun | woman debtor
+deturem | verb | get into debt
+detyr | verb | force, compel; contract debts
+detyrimë | noun | debit balance
+detyronjës | adj | binding
+detyrprerim | noun | bankruptcy, wind-up
+detyrpritem | verb | go bankrupt
+detyrshëm | adj | compulsory
+detyrtar | noun | debtor
+devekush | noun | a bird
+devër | noun | circulation; interest
+dëvroj | verb | circulate
+devile | noun | trickery, humbug
+devite | noun | balcony
+devotë | adj | devout
+dezert | noun | desert

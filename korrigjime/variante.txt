@@ -892,3 +892,13 @@ delicje | gaz | alternative
 # ── Mann 1948 ──
 dellandyshe | dallëndyshe | alternative
 denë | danë | alternative
+# ── Mann 1948 ──
+derropull | derkopull | alternative
+desgracie | mjerim | alternative
+deskrecion | urtësi | alternative
+desutuem | pavdekshëm | alternative
+desutuar | pavdekshëm | alternative
+deshiroj | dëshiroj | alternative
+deshmoj | dëshmoj | alternative
+devotë | kushtuem | alternative
+dezert | shkretëtirë | alternative
