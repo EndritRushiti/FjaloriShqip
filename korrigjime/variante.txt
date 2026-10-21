@@ -752,3 +752,11 @@ cërmëz | cermë | alternative
 cfalkë | cfrat | alternative
 cfynë | cfinë | alternative
 sfynë | cfinë | alternative
+# ── Mann 1948 ──
+cilisoj | cilësoj | alternative
+cilsi | cilësi | alternative
+cillado | cilado | alternative
+cillido | cilido | alternative
+cimër | çimërr | alternative
+cingarimë | cingërim | alternative
+cipres | selvi | alternative

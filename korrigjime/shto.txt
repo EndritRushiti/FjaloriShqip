@@ -41852,3 +41852,78 @@ cidulë | noun | bill, ticket, slip
 cikalar | adj | dotted, spotted, speckled; dappled
 cikali | noun | sculpture
 cikalitës | noun | sculptor
+# ── mannshto.tsv ──
+ciklaq | adj | lisping; stammering; lisper
+cikofë | noun | fig-eater, dark-blue bird with yellow markings
+cikol | noun | wooden tailpiece of a donkey's harness
+cikom | noun | rope of a packsaddle
+cikrri | noun | oddment; trifle; detail
+cikrrinë | noun | oddment; trifle
+cikrrim | noun | small things
+cikrrinar | noun | shopkeeper, smallware man
+cilë | noun | breakfast, late breakfast
+cilinjë | noun | hearthstone
+cilisdo | pron | whosever
+cilisoj | verb | qualify
+ciliviçë | noun | etiquette, formality
+cilsi | noun | quality
+cillado | pron | whichever
+cillido | pron | whoever
+cilltues | adj | indicative
+cimbë | noun | pinch; prick; tip; beak
+cimbëll | noun | blemish
+cimbith | noun | tongs, pincers
+cimpis | verb | pinch, peck
+cimblidhe | noun | thorns, briars
+cimerikë | noun | arnica
+cimë | noun | mooring rope
+cimër | noun | (a plant)
+cimkas | verb | peck
+cimkë | noun | pinch, tweak
+cimocë | noun | swaddling band; child's head binder
+cinamom | noun | cinnamon
+cinar | noun | mole cricket
+cindër | noun | wagtail
+cinderr | noun | wagtail
+cinema | noun | cinema
+cingafua | noun | yellowhammer or goldfinch
+cingan | noun | settled Gipsy
+cingarimë | noun | chirping
+cingaritem | verb | be roasted, fried
+cingarishte | noun | cigarette case
+cinglloj | verb | whine, whinny
+cingri | noun | row, squabble
+cingrim | noun | twittering; hesitation; roar, bellow
+cingrime | noun | roar, bellow
+cingrues | noun | waverer; hesitating
+cingush | noun | bird that feeds on grasshoppers
+cinkpërcink | adv | exactly, just right
+cinxal | noun | wren
+cincër | noun | cicada
+cincir | noun | cicada
+cinciras | noun | cicada
+cinxërami | noun | goldfinch, thistle finch
+cinxërim | noun | buzz; chirping of crickets
+cinxëris | verb | buzz, chirp (as a cricket)
+cinxëroj | verb | buzz, chirp
+cinxife | noun | jujube; jujube tree
+cinxhifa | noun | jujube
+cinxullë | noun | rag
+cipallë | noun | chip, splinter
+cipec | noun | a plant
+cipeta | noun | lace
+cipëplasje | noun | corruption; impudence
+ciplidhe | noun | chip
+ciprazi | adv | superficially
+cipres | noun | cypress
+ciproje | noun | surface
+ciriví | noun | ball, sphere; hoop, tyre; circle, circuit
+cirivile | noun | ball, sphere
+cirkas | verb | spout, gush, spurt; squirt; inject
+cirkatet | verb | trickles
+cirklas | verb | besprinkle; shower (as sparks)
+cirklatje | noun | sprinkling
+cirklim | noun | sprinkling
+cirkofë | noun | feverfew
+cirkofaj | noun | a bird
+ciro | noun | loser in a game
