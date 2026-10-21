@@ -43581,3 +43581,57 @@ dhetsh | noun | dime, tenth; ten
 dheveshtrues | noun | mythical diviner or sounder
 dhezëllimë | noun | spark
 dhëmadh | noun | molar
+# ── mannshto.tsv ──
+dhëmboj | verb | pain
+dhëmburë | noun | pain
+dhëmbyshëm | adj | pitiable, deplorable
+dhëmçur | adj | compassionate
+dhëmçuri | noun | pity
+dhëmill | noun | grub, caterpillar
+dhënar | noun | shepherd
+dhëngjizë | noun | wetnurse
+dhëntore | noun | dative (grammar)
+dhëroj | verb | give
+dhiak | noun | goat-herd
+dhiakeshë | noun | deaconess
+dhiakë | noun | deacon
+dhiakoni | noun | deaconship
+dhialekt | noun | dialect
+dhiam | noun | fat
+dhiamant | noun | diamond
+dhjamant | noun | diamond
+dhiamantinë | noun | enamel of teeth
+dhiare | noun | goat-tender girl; showy woman
+dhiatë | noun | will, testament; bond, treaty, convention
+dhiatës | noun | testator
+dhiatoj | verb | bequeathe
+dhiavas | verb | read
+dhieç | noun | ten, decade
+dhiç | noun | ten, decade
+dhietës | noun | tenth in games; commander of a section of ten
+dhietëfish | adv | tenfold
+dhietëri | noun | decade
+dhietinë | noun | decade
+dhietim | noun | decimation
+dhietëmëstë | adj | tenfold
+dhietëmëzoj | verb | increase tenfold, multiply by ten
+dhietoj | verb | decimate
+dhietsh | noun | ten, decade
+dhifezë | noun | defence
+dhil | noun | hut, bungalow
+dhilë | noun | weakness, exhaustion, faintness
+dhimt | verb | ache
+dhimbëshutitës | adj | pain-allaying, anaesthetic
+dhimbsunë | noun | annoyance, trouble
+dhimtshëm | adj | painful
+dhimçëm | adj | painful
+dhimisqi | noun | damascene knife
+dhimpset | verb | ache
+dhimset | verb | ache
+dhimsuni | noun | pity, mercy
+dhimpsun | adj | merciful
+dhimpshur | adj | merciful
+dhimshuri | noun | pity
+dhimtë | noun | pain; compassion
+dhimtme | noun | wound
+dhioli | noun | violin
