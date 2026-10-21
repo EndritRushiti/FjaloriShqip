@@ -43479,3 +43479,47 @@ dyltenjshëm | adj | softened, soaked (of wheat)
 dylym | noun | land measure
 dyllëndyshe | noun | swallow
 dyllët | adj | wax, waxy; waxed
+# ── mannshto.tsv ──
+dym | verb | mutter
+dymbek | noun | churn
+dymbelek | noun | harp
+dymek | noun | sheaf
+dymeni | noun | doubleness
+dymëstë | adj | double, twofold
+dymëzim | noun | duplication
+dymëzuar | adj | doubled, duplicate
+dymlek | noun | fluted melon; darling
+dymotshëm | adj | two-year-old; biennial
+dymun | noun | shaft of a cart
+dynall | noun | flood
+dynes | verb | sob
+dyngur | adj | mellow
+dynkër | adj | mellow
+dynjâ | noun | world
+dynjok | noun | twin
+dypikës | noun | colon
+dyq | noun | rut, track; knapsack
+dyqe | noun | knapsack
+dyqel | noun | two-pronged fork, dibble
+dyrrok | noun | dissyllable
+dyrrokë | noun | dissyllable
+dyrrokës | adj | dissyllabic
+dyrrokshëm | adj | dissyllabic
+dys | verb | repeat
+dysoj | verb | double
+dysore | noun | airgun
+dystje | noun | clearing in a forest
+dyshare | noun | likeness, image; copy, facsimile
+dysharis | verb | copy, duplicate, reproduce
+dyshëm | adj | dual; ambiguous; mutual
+dyshkë | noun | sou, cent
+dyshkronjë | noun | digraph
+dyshmoj | verb | doubt
+dytefës | adj | two-edged
+dythëngjillatë | noun | bicarbonate
+dyvak | noun | bridal veil
+dyvjetshëm | adj | biennial
+dyzetkëmbël | noun | centipede
+dyzetsh | adv | in forties; two score
+dyzina | noun | reins
+dyzore | noun | double-barrelled gun

@@ -1025,3 +1025,7 @@ dykëmbsh | dykëmbësh | alternative
 dyrbi | dylbi | alternative
 dylym | dynym | alternative
 dyllëndyshe | dallëndyshe | alternative
+# ── Mann 1948 ──
+dynes | dënes | alternative
+dyshmoj | dyshoj | alternative
+dyvjetshëm | dyvjeçar | alternative
