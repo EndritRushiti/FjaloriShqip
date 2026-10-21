@@ -41382,3 +41382,121 @@ brumbullimë | noun | thunder
 brumullak | noun | lees of wax
 brumzoj | verb | leaven
 bruncët | adj | of bronze
+# ── mannshto.tsv ──
+bërakë | noun | marsh
+bruncoj | verb | bronze
+brunçët | adj | of bronze
+bruc | noun | elbow
+brusëm | adj | steep, sheer
+brusët | adj | dark blue, indigo, azure
+bruzët | adj | dark blue; abundant
+brustëm | adj | bluish; purple, violet
+brustë | adj | dark blue
+brushëm | adj | tart, harsh, rough
+brushtë | noun | contact breaker on a magneto
+bruzni | noun | abundance
+bruzhdila | noun | crumbs
+bruzhdulloj | verb | sweep
+bryc | noun | sty on the eye
+bryllt | adj | soft, friable
+bryl | noun | elbow
+brymç | adj | chestnut (horse)
+brymoj | verb | bore, pierce
+brymosur | adj | frosty, frosted
+bryms | noun | chestnut horse; chestnut
+bryshëm | adj | late-flowering, retarded by disease
+brrac | adj | ruthless, violent
+brrakë | noun | pond, pool, marsh; watercourse, brook, dike
+brrakash | adj | marshy
+brraknoj | verb | stanch
+brru | noun | elbow
+brruc | noun | short peasant's jacket
+brrucë | noun | heavy woollen coat
+brruç | noun | may bug, cockchafer
+brrul | noun | elbow
+brruzhë | noun | mane of a horse
+brryc | noun | sty on the eye
+brryl | noun | elbow
+byrryl | noun | elbow
+bryll | noun | elbow
+brryllkë | noun | arm of a chair, elbow rest
+brrylk | noun | arm of a chair, elbow rest
+brryltirë | noun | bend of a road, hairpin bend
+buart | verb | (aorist of bjerr) lost
+buavicë | noun | agnus castus
+buavis | verb | inflate
+buavitem | verb | swell
+bubalec | noun | (in phrase) a pilgrim
+bubas | noun | worm, grub; tapeworm
+bubazhel | noun | grub, woolly bear; bogey
+bubëltar | noun | trumpeter
+bublar | noun | trumpeter
+bubic | adj | fat, chubby
+bublisë | noun | whipping, punishment, drubbing; rubbish
+bublishtë | noun | wisp of straw; bundle of chips
+bubrrecë | noun | beetle; any insect
+buburecë | noun | beetle
+buburickë | noun | beetle
+bubrri | noun | odd thing, trifle; odds and ends; twaddle
+bubrrim | noun | pottering about, aimless rummaging
+bubrrimë | noun | fuss
+bubrrinar | noun | pettifogger
+bubrroj | verb | potter, rummage; doll up; crawl
+bubuja | interj | heavens!
+bubulan | noun | bonfire; firework
+bubular | noun | firework
+bubulicë | noun | nightjar
+bubullis | verb | re-echo, resound, roar; crackle
+bubuqe | noun | bud
+buburitem | verb | lark about, play the fool
+buburisur | adj | oozy, squelchy
+buburitës | adj | farcical, idiotic; trifler, larker
+buburoj | verb | potter about
+buburosh | adj | farcical, comic
+buburoshë | noun | dor beetle
+buburruqe | noun | groundsel (Senecio vulgaris)
+bubutis | verb | sob, blub
+bubuzhele | noun | large black water beetle; dung beetle
+bubuzhelë | noun | dung beetle
+bubuzhimë | noun | rumble, roar
+bubuzhingë | noun | bumblebee
+bubuzhirë | noun | beetle; large water beetle
+bubuzhinë | noun | beetle
+bubzoj | verb | doll up, tog up
+buceleri | noun | coopering, barrel making
+bucielë | noun | water pot
+bucjelë | noun | water pot
+buçes | verb | roar, rumble
+buçele | noun | (in phrase) make a din
+buçkë | noun | bitch
+buçilë | noun | puddle, pond; drinking trough, spring
+buçim | noun | roar, rush, rumble, thunder, boom; rustle; detonation
+buçis | verb | roar
+buçoj | verb | roar
+budaç | noun | a plant
+budallaq | adj | silly
+budallicë | noun | silly woman
+budë | adj | (in phrase) weak, flabby
+budizmë | noun | Buddhism
+budrum | noun | cellar, basement
+buollicë | noun | buffalo cow
+buenë | noun | water hole, siphon
+bufas | verb | puff up, inflate
+bufatem | verb | swell
+bufatës | adj | purgative
+bufël | noun | clout, slap, smack
+bufic | adj | plump, fat, fleshy; swollen
+bufikë | noun | unripe fig; a tree (elm); tuft, crest
+bufinajë | noun | (in phrase) powdery soil
+bufoneri | noun | trick, prank
+bugal | noun | chamber pot
+bugar | adj | shrivelled, withered
+bugatshëm | adj | rich
+bugaz | noun | throat, neck
+bugra | noun | stramin, canvas for tapestry
+bugrelë | noun | apple sauce
+bugjer | noun | cup
+buhas | verb | swell, puff up, inflate
+buhatem | verb | swell
+buhasi | noun | fustian
+buhërt | adj | sensual
