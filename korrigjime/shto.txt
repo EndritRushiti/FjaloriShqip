@@ -42841,3 +42841,32 @@ devile | noun | trickery, humbug
 devite | noun | balcony
 devotë | adj | devout
 dezert | noun | desert
+# ── mannshto.tsv ──
+dëfrenjës | adj | pleasant, amusing
+dëfrimtar | adj | festive
+dëfryeshëm | adj | pleasant
+diftesë | noun | card, ticket; certificate
+dëfti | noun | showing, manifestation
+dëftonjës | adj | demonstrative
+dëftyeme | noun | showing
+dëgjonjës | noun | hearer; hearing
+dëlesë | noun | pity, compassion
+dëlirsi | noun | clearness, cleanliness, purity
+dëlirshëm | adj | cleanable, cleansable
+dëlirtas | adv | cleanly, clearly, purely
+dëludhin | verb | floods
+dëllengjethi | adv | deliberately
+dëllëngthi | adv | purposely, wilfully, deliberately
+dëmenë | noun | (in phrase) a thunderstorm
+dëmtonjës | adj | harmful
+dëndem | verb | densify; condense; stuff oneself, eat one's fill
+dëndsi | noun | denseness, density
+dëndje | noun | condensation
+dëndoj | verb | densify
+dëndos | verb | densify
+dëndsoj | verb | densify, condense
+dëndurazi | adv | often
+dënesshëm | adj | sobbing
+dëngall | noun | pot-bellied
+dëni | noun | shrinkage, dwindling, loss
+dënimtar | adj | penal, disciplinary; punishable

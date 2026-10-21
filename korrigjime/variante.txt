@@ -902,3 +902,7 @@ deshiroj | dëshiroj | alternative
 deshmoj | dëshmoj | alternative
 devotë | kushtuem | alternative
 dezert | shkretëtirë | alternative
+# ── Mann 1948 ──
+dëllengjethi | dellëngethi | alternative
+dëmtonjës | dëmtues | alternative
+dëngall | dangall | alternative
