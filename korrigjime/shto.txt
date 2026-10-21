@@ -42125,3 +42125,48 @@ cyrle | noun | thrush
 çarmatis | verb | disarm
 çarmatisje | noun | disarmament
 çarok | adj | young, fresh
+# ── mannshto.tsv ──
+çartagaz | noun | displeasure
+çartagazës | adj | peevish, ill-humoured
+çartaprenas | adv | ruffled, annoyed
+çartaqef | adv | in a bad mood, displeased; displeasure; indisposition
+çartaqefas | adv | maliciously
+çartas | adv | discordantly, in disagreement
+çarravamë | noun | scuffle, fight
+çarruvi | noun | discord
+çarravie | noun | seesaw, swing
+çarravis | verb | scold, upbraid; whir, whizz
+çarravitem | verb | quarrel, struggle, fight
+çarruvitur | adj | entangled, twisting (of ivy)
+çasshëm | adj | temporary, short-lived
+çataja | noun | forked boughs
+çataje | noun | forked boughs
+çatrapatra | adv | (in phrase) talk rot; murder a language
+çatrapilë | noun | confusion, disorder, upheaval
+çatrapiloj | verb | bend, twist, misshape; confuse
+çaudhele | noun | ring of pastry
+çavalis | verb | fight, struggle; murder a language
+çavë | noun | raven, crow
+çavullim | noun | evaporation
+çavulloj | verb | evaporate
+çballancim | noun | unbalancing
+çballancoj | verb | unbalance
+çbarkim | noun | disembarkation, landing
+çbarkoj | verb | disembark, land, put off
+çbashkim | noun | sundering, disunion
+çbashkoj | verb | sunder, disunite
+çbëhet | verb | comes undone
+çbind | verb | dissuade
+çbindje | noun | dissuasion
+çbojatis | verb | discolour
+çbojatisje | noun | discolouring
+çbordoj | verb | pierce, stab
+çdetyrim | noun | release, discharge, exemption, exoneration
+çdetyroj | verb | release, discharge, exempt, exonerate
+çdëfrej | verb | give vent to, get something off one's mind
+çdëfrim | noun | venting; amusement
+çdëmim | noun | indemnification, indemnity
+çdëmoj | verb | indemnify
+çdëmtim | noun | indemnification
+çdëmtoj | verb | indemnify
+çdi | adj | any, whatever
