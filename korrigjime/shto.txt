@@ -42170,3 +42170,48 @@ cyrle | noun | thrush
 çdëmtim | noun | indemnification
 çdëmtoj | verb | indemnify
 çdi | adj | any, whatever
+# ── mannshto.tsv ──
+çdrint | verb | unravel
+çndrint | verb | unravel
+çduk | verb | efface, cancel, remove
+çdukem | verb | disappear
+çdukje | noun | disappearance
+çeberre | noun | a vessel
+çedi | noun | adze
+çedikë | noun | adze
+çefët | adj | secret, hidden
+çegel | noun | (in phrase) I owe a tip
+çej | verb | weave, interweave
+çejadë | noun | household, family, retainers
+çekaç | pron | so much
+çekerk | noun | pulley; bobbin, reel; windlass of a well; helm, steering wheel; capstan
+çeksó | pron | these here
+çeleng | noun | Turkish crown of victory
+çelengër | noun | small hawk
+çelfis | verb | open out
+çelfisem | verb | open out
+çeliket | adj | steel, of steel; adamant
+çelinë | noun | sound, shot
+çelinok | noun | an aromatic plant
+çelitur | adj | fattened
+çelnikoj | verb | steel, case-harden
+çelnikos | verb | steel, case-harden
+çels | noun | key
+çelsar | noun | locksmith
+çeltazi | adv | frankly
+çelulojd | noun | celluloid
+çelurazi | adv | frankly
+çellëngri | noun | dairy farm
+çemet | verb | comes to light, turns up
+çember | noun | veil, covering
+çemçe | noun | broken glass, shard
+çement | noun | cement, concrete
+çenakull | noun | dining room
+çendëllis | verb | embitter
+çeni | noun | porcelain
+çenturion | noun | centurion
+çepallkë | noun | variety of marrow dried and used as a bottle
+çepan | noun | a piece of armour
+çepke | noun | shock of hair
+çepkët | adj | nearly bald
+çeple | noun | small knife

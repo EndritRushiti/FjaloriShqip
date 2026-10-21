@@ -794,3 +794,8 @@ cyrle | cirle | alternative
 çaprashi | ngatërrim | alternative
 çardhak | çardak | alternative
 çardo | çfarëdo | alternative
+# ── Mann 1948 ──
+çels | çelës | alternative
+çeltazi | çiltazi | alternative
+çelurazi | çiltazi | alternative
+çeni | çini | alternative
