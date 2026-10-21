@@ -39863,3 +39863,144 @@ përfundos | verb | finish
 përgjakon | verb | bloody
 përmasoj | verb | dimension
 përmbytshëm | adj | floodable
+# ── fn4.new.tsv ──
+përtokës | adj | creeping
+përtueshëm | adj | lazy
+përvetues | noun | appropriator
+përvetueshëm | adj | appropriable
+përvizoj | verb | outline
+pikalarmë | adj | speckled
+pikalos | verb | speckle
+piketues | noun | staker
+pikësoj | verb | punctuate
+pikëtoj | verb | dot
+piratëri | noun | piracy
+piratoj | verb | pirate
+platinoj | verb | platinize
+plazmoj | verb | mould
+plehoj | verb | fertilize
+plenër | noun | plein-air
+pluhurizoj | verb | pulverize
+pluhuroj | verb | cover in dust
+poster | noun | poster
+prangoj | verb | shackle
+prapakokë | noun | occiput
+prapashtesoj | verb | suffix
+prashitar | noun | hoer
+priftëroj | verb | ordain
+prindëroj | verb | parent
+psalmoj | verb | chant psalms
+pudroj | verb | powder
+punëbardhë | adj | successful
+puplor | adj | feathery
+qafëgjatës | adj | long-necked
+qebaptor | noun | kebab shop
+qelqëzim | noun | vitrification
+qëparshëm | adj | previous
+qiraxheshë | noun | female tenant
+qytetarizim | noun | urbanization
+radiofoni | noun | radio broadcasting
+relatoj | verb | report
+retifikoj | verb | rectify
+riakordoj | verb | retune
+riamendoj | verb | re-amend
+riarmatoj | verb | rearm
+riçrregulloj | verb | disrupt again
+ridëboj | verb | re-expel
+rifilmoj | verb | reshoot
+rilicensoj | verb | relicense
+rimohoj | verb | deny again
+rishartoj | verb | regraft
+rishëroj | verb | heal again
+rivaksionoj | verb | revaccinate
+rivizatoj | verb | redraw
+rizgjidh | verb | re-solve
+rrjetëzor | adj | reticular
+rrotativ | adj | rotary
+rrotkë | noun | small wheel
+sakicoj | verb | sketch
+salvoj | verb | fire a salvo
+sapunor | adj | soapy
+sapunis | verb | soap
+sfumoj | verb | shade off
+siluroj | verb | torpedo
+skandoj | verb | scan
+skartoj | verb | reject
+skijoj | verb | ski
+skulpturoj | verb | sculpt
+skontoj | verb | discount
+squfuroj | verb | sulphur
+squfuros | verb | sulphurate
+squfurt | adj | sulphurous
+statukuo | noun | status quo
+stereometrik | adj | stereometric
+stërzmadhoj | verb | overexaggerate
+stivos | verb | stack
+stornoj | verb | reverse an entry
+sulfurim | noun | sulphurization
+syleshtësi | noun | shamelessness
+shalqishtë | noun | watermelon field
+sharrues | noun | sawyer
+shelgjishtër | noun | willow grove
+sheshtoj | verb | flatten
+shëndetësoj | verb | make healthy
+shkathtësim | noun | agility
+shkresar | noun | clerk
+shkrifës | noun | loosener
+shkrumbëzoj | verb | carbonize
+shkumëzor | adj | foamy
+shpatullak | adj | broad-shouldered
+shpendëri | noun | poultry
+shpërdorje | noun | misuse
+shpërdredhje | noun | untwisting
+shpirtbujari | noun | magnanimity
+shpirtdhembshuri | noun | compassion
+shpirttharë | adj | heartless
+shpopullzoj | verb | depopulate
+shportar | noun | basket maker
+shterpëri | noun | barrenness
+shtrenjtësim | noun | price rise
+shtueshëm | adj | addable
+shumçka | pron | many things
+tavanoj | verb | ceil
+teatroj | verb | stage
+tejshkrij | verb | melt down
+tëhuajëzoj | verb | alienate
+tërthorëzoj | verb | place crosswise
+tifozëri | noun | fans
+tonizoj | verb | tone up
+triçikël | noun | tricycle
+trimëror | adj | valiant
+tringëllim | noun | tinkling
+trokëllit | verb | clatter
+tymëzoj | verb | smoke
+thyesoj | verb | fraction
+ujator | adj | aquatic
+ujëturbullt | adj | murky
+ullishtari | noun | olive groves
+ullishtor | adj | olive-grove
+urdhëratës | noun | commander
+uthullishtë | noun | vinegar barrel
+uthulloj | verb | acetify
+uthullt | adj | vinegary
+vargëtar | noun | versifier
+varresht | noun | cemetery
+vetadministroj | verb | self-administer
+vetëdijësohem | verb | become aware
+vetëshkrues | noun | self-recorder
+vërtetësim | noun | verification
+vërtetësoj | verb | verify
+vokalizoj | verb | vocalize
+vreshtor | adj | vineyard
+vullkanizim | noun | vulcanization
+xhelatinoj | verb | gelatinize
+yndyroj | verb | grease
+yndyros | verb | grease
+zinkos | verb | galvanize
+zjarrmoj | verb | kindle
+zorrëtharë | adj | famished
+zhbardhoj | verb | darken
+zhburgoj | verb | release
+zhdërvjellësi | noun | nimbleness
+zhvarroj | verb | exhume
+zhavorrishtë | noun | gravel bed
