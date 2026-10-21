@@ -43189,3 +43189,52 @@ dordogan | noun | giant; huge
 dordolinë | noun | red variety of clover
 doré | noun | sheaf, bundle; embroidered shirt-cuff
 dorésë | noun | glove
+# ── mannshto.tsv ──
+dorëdhënësi | noun | generosity
+dorëgjanë | adj | generous
+dorëgjërë | adj | generous
+dorëhapë | adj | generous
+dorëhapje | noun | waste, extravagance
+dorëhapsi | noun | generosity
+dorëhaptas | adv | generously
+dorëheqës | adj | resigning, retiring
+dorëlartë | adj | noble
+dorëlëvizje | noun | gesture, gesticulation
+dorëmbyllë | adj | stingy, miserly
+dorëpritur | adj | generous
+dorërrudhë | adj | stingy, miserly
+dorërrudhët | adj | stingy, miserly
+dorëse | noun | oil-lamp
+dorëshëm | adj | handy; skilful
+dorëshkronjë | noun | handwriting
+dorështërnguet | adj | stingy
+dorështrënguet | adj | stingy
+dorështrëngi | noun | avarice, stinginess
+dorështrëngim | noun | avarice, stinginess
+dorëtrokas | verb | clap
+dorëthamë | adj | miserly; empty-handed, poor
+dorëzën | adj | stingy
+dorëzënës | noun | guarantor
+dorëzënje | noun | guarantee
+dorgom | noun | burly fellow, giant
+dori | noun | pot with two handles, stewpot
+dorjashtë | prep | outside, beyond
+dorokops | verb | spur on, irritate; shatter, smash
+dorrokops | verb | spur on, irritate
+dortnall | adv | at a gallop
+dorzënës | noun | guarantor
+dorzënje | noun | guarantee
+dorzim | noun | delivery
+dorzoj | verb | hand over
+dorzueshëm | adj | deliverable, extraditable
+dorrige | noun | a plant
+dosare | noun | sow; proud girl
+dosbal | noun | badger
+dosbalë | noun | badger
+dosbalje | noun | badger
+dosëz | noun | mole-cricket; part of a plough
+doskë | noun | mole-cricket
+dozar | noun | record, file; dossier
+drak | noun | boulder; devil
+drakëm | noun | drachma
+dramidhe | noun | carpet

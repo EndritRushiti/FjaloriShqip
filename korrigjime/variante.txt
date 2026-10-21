@@ -977,3 +977,12 @@ dogëm | dogmë | alternative
 # ── Mann 1948 ──
 dometheqënë | domethënë | alternative
 donatis | stolis | alternative
+# ── Mann 1948 ──
+dorështërnguet | dorështrënguar | alternative
+dorështrënguet | dorështrënguar | alternative
+dorëzënës | dorëzanë | alternative
+dorëzënje | dorëzani | alternative
+dorzënës | dorëzanë | alternative
+dorzënje | dorëzani | alternative
+dorzim | dorëzim | alternative
+dorzoj | dorëzoj | alternative
