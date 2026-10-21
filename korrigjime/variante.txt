@@ -670,3 +670,15 @@ brakusha | brakesha | alternative
 brazhëm | brazëm | alternative
 bredhoj | bredh | alternative
 brekdetas | bregdetas | alternative
+# ── Mann 1948 ──
+breze | bërzollë | alternative
+brezë | brazë | alternative
+breznoj | branis | alternative
+brëzollë | bërzollë | alternative
+brim | burim | alternative
+brishim | bërshim | alternative
+britës | bërtitës | alternative
+brizollë | bërzollë | alternative
+broboleç | brobol | alternative
+brofillicë | pushkaliqe | alternative
+brumbullakët | rrumbullakët | alternative

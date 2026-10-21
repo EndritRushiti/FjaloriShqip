@@ -41297,3 +41297,88 @@ breshtni | noun | wildness, primitive state, wilds
 breshtnoj | verb | roughen, make wild
 bretkoj | verb | croak
 brethishte | noun | bugle (plant)
+# ── mannshto.tsv ──
+brezahujthi | noun | a children's game (guarding a handkerchief on a stick)
+brezahupthi | noun | a children's game
+brezbrek | noun | trouser belt
+brezdavicë | noun | eyelash
+breze | noun | chop
+brezë | noun | furrow
+brezmek | noun | shoe strap, thong
+breznoj | verb | harrow
+breznjeri | noun | generation
+brëndazet | adv | from within
+brëndazëm | adj | inner, interior
+brëndazi | adv | inside
+brëndaz | adv | inside
+brëndësm | adj | inner, interior
+brëndsi | noun | interior
+brëngacak | adj | freckled
+brëngë | noun | hoarseness; freckle
+brëngëz | noun | freckle
+brënshmi | adv | (in phrase) from inside
+brënjak | noun | monstrosity, monster, ugly child; abortion
+brëzollë | noun | chop
+brinc | noun | flint
+brig | noun | furrow; rising land, barrow, hill; hard clod; worry, trouble, nagging
+brigim | noun | reproof, scolding
+brigoj | verb | reprove, scold
+brigjoj | verb | trouble, worry, haunt
+brihem | verb | quarrel; preen (of a bird)
+brijar | noun | cuckold
+brijeshë | noun | horned sheep
+brieskë | noun | horned sheep
+brijët | adj | horned; horny
+brijim | noun | spring, fountain
+brim | noun | spring
+brimajë | noun | cobweb, spider web
+brimos | verb | bore, drill
+brimshëm | adj | porous
+brimtar | noun | crier
+brindill | noun | cutting from a tree
+brinjazi | adv | on the sides, on the flanks
+briskë | noun | horned sheep
+brishëm | adj | horned
+brishim | noun | fine thread
+brishkë | noun | shot, bullet
+brishtëz | adj | fragile, brittle
+brishti | noun | brittleness, fragility
+brishtni | noun | brittleness, fragility
+brishtnoj | verb | roughen; retrogress, backslide
+brishtnohet | verb | becomes brittle
+britës | noun | shouter
+brithë | noun | a disease
+brithët | adj | ripened, matured
+brivetëm | noun | unicorn
+brizollë | noun | chop
+brizhdët | adj | brittle, friable
+brizhdoj | verb | crumble
+brobol | adj | dwarfed, stunted
+brobole | noun | dwarfed woman
+broboleç | adj | stunted
+brofillicë | noun | shooting star
+brogam | noun | pride
+brogëz | noun | tassel, tuft, cockade
+brogës | noun | tassel, tuft
+brohorim | noun | cheering, applause
+brokatë | noun | brocade
+brokull | noun | oath, curse
+bronqit | noun | bronchitis
+bronzinë | noun | bush or collar of a crankshaft
+brostar | noun | fireproof wall, chimney wall, party wall
+bruroj | verb | bellow, roar
+brue | noun | autumn days (21–25 September)
+bruf | noun | small white flat sea fish
+brufulloj | verb | howl (as dog or wolf)
+brumak | noun | low-grade maize
+brumall | noun | dung beetle; bumblebee
+brumbullak | noun | sphere, ball
+brumbullakët | adj | round
+brumbullakzoj | verb | round off
+brumbullakzohem | verb | pounce, leap forward
+brumbullas | verb | rumble, thunder
+brumbullis | verb | rumble, thunder
+brumbullimë | noun | thunder
+brumullak | noun | lees of wax
+brumzoj | verb | leaven
+bruncët | adj | of bronze
