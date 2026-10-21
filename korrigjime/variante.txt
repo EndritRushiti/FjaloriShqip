@@ -968,3 +968,9 @@ dlirsi | dëlirësi | alternative
 dnaltë | lartë | alternative
 dnes | dënes | alternative
 dnesë | dënesë | alternative
+# ── Mann 1948 ──
+dobsi | dobësi | alternative
+dobsim | dobësim | alternative
+dobsoj | dobësoj | alternative
+doganar | doganier | alternative
+dogëm | dogmë | alternative

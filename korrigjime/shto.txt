@@ -43126,3 +43126,36 @@ dob | adj | easy
 dobarem | adv | at least
 dobë | adj | weak; rough, coarse, illshapen
 dobërdac | noun | tramp, vagabond, brigand
+# ── mannshto.tsv ──
+dobiçe | noun | bastard girl or woman; illegitimate
+dobitem | verb | be pleased, satisfied, appeased; serve, be used for
+doblikâ | noun | kind of grape
+dobsi | noun | weakness
+dobsim | noun | weakening
+dobsinë | noun | infirmity, incapacity, debility
+dobsoj | verb | weaken
+doce | noun | wooden ball used in games
+docë | noun | wooden ball used in games
+dockë | noun | corncob; ankle
+doçe | noun | water-pot without handles; game of guarding the hole
+doçëroj | verb | debase
+doçërohem | verb | degenerate
+dodo | pron | some, a little, a few
+doganar | noun | customs officer
+doganishte | noun | thieves' latin
+dogëm | noun | dogma
+dojdashe | noun | mongrel, bastard
+dojkë | noun | wooden ball used in games
+dokë | noun | boulder; puck, block of wood used in games
+dokël | noun | snare, pitfall; trick, stratagem, craft
+dokol | adj | coarse, vulgar; low fellow
+dokundis | verb | please, suit; offend, hurt
+dokonis | verb | please; offend
+dokshëm | adj | traditional
+doku | adv | somewhere, anywhere
+dokudoshëm | adj | unwell, run down
+dokush | pron | somebody
+dollama | noun | apparel; red frontlet; cloak
+dollaman | noun | cloak
+dollapmbërtheckë | noun | kitchen dresser
+dollitar | noun | proposer of a toast
