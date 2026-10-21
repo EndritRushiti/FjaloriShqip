@@ -783,3 +783,8 @@ curile | cule | alternative
 curill | curril | alternative
 cyllak | cyllë | alternative
 cyrle | cirle | alternative
+# ── Mann 1948 ──
+çakiç | çekiç | alternative
+çallëm | çallme | alternative
+çallëndis | çallëstis | alternative
+çamtë | çantë | alternative

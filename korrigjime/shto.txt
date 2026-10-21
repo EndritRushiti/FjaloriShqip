@@ -42046,3 +42046,46 @@ cyrle | noun | thrush
 çafërlis | verb | confuse, disarrange; rend, tear
 çafërlitje | noun | disorder, confusion, mess
 çafkallore | noun | a bird
+# ── mannshto.tsv ──
+çagjë | noun | soot
+çajanik | noun | teapot
+çakaçuk | noun | a small bird
+çakaritem | verb | (of eyes) stare out of their sockets
+çakaritur | adj | goggle-eyed
+çakçire | noun | trousers, breeches
+çakërr | adj | squint-eyed
+çukër | noun | clapper
+çakërdisur | adj | distracted, perplexed; mad; cross-eyed
+çaki | noun | pocket knife
+çakiç | noun | hammer
+çakoj | verb | irritate, annoy
+çakrrar | noun | pettifogger
+çakrri | noun | trifle, oddment
+çakrroj | verb | squint
+çakulis | verb | roll, roll out, flatten out
+çalakëmbazi | adv | on one leg
+çalan | noun | lame person
+çalavis | verb | tear to bits
+çalësi | noun | lameness
+çaluk | adj | lame; lame person
+çallëm | noun | turban
+çalleshitës | noun | trader, merchant
+çallëndis | verb | toil
+çallësti | noun | care, concern
+çallëstis | verb | toil, labour; strive, endeavour
+çallëstisje | noun | endeavour; striving, struggle
+çallma | noun | popcorn
+çallmarkë | noun | a bird
+çallmazhuk | noun | a bird
+çallmushkë | noun | a bird
+çallme | noun | turban
+çallti | noun | (in phrase) bees at work
+çamak | noun | club
+çamarok | noun | fool, simpleton; disturber, mischief-maker
+çamarokët | adj | faddy, moody, whimsical
+çambellan | noun | chamberlain
+çamçake | noun | clapper
+çamishtë | noun | pine forest
+çamje | noun | titmouse; split, cleft
+çamtë | noun | bag
+çanakalajë | noun | Dardanelles
