@@ -1003,3 +1003,6 @@ dritshëm | ndritshëm | alternative
 driçëm | ndritshëm | alternative
 dritim | ndriçim | alternative
 ndritim | ndriçim | alternative
+# ── Mann 1948 ──
+droj | druaj | alternative
+drubetë | trumbetë | alternative

@@ -43316,3 +43316,48 @@ drithmarak | adj | terrifying, horrible
 drithmëtar | adj | trembling, tremulous, vibrant
 drithmoj | verb | shock; terrify, intimidate; tremble
 drithmuar | adj | trembling, tremulous
+# ── mannshto.tsv ──
+drithnore | noun | granary, barn
+drithtërim | noun | shudder, tremor
+drithtëroj | verb | shake; tremble
+drithtim | noun | shudder, tremor
+drithtirë | noun | shudder, tremor
+drithtur | adj | trembling
+drizare | noun | wren
+drizore | noun | briars
+drobis | verb | smash, wreck, destroy; exhaust, undermine; collect, glean
+droboçka | noun | bowels, entrails
+droboli | noun | bowels, entrails, intestines
+drobolik | adj | intestinal
+drobolis | verb | nauseate, sicken; undermine, weaken; shake
+droçkë | noun | wine-crust; clotted blood
+droçkël | noun | water pot without handles
+drogoman | noun | interpreter
+drogomani | noun | interpretation
+droj | verb | fear
+droni | noun | awe, reverence
+drojshëm | adj | terrible, horrible
+drojtur | adj | dreaded; timid, apprehensive
+dromade | noun | dromedary
+dromate | noun | dromedary
+dromcoj | verb | crumble, crush, pound, reduce to powder, shatter
+dromis | verb | stamp about, tramp along; cut a way through; ramble, stroll
+dromonis | verb | sift corn in the threshing barn
+dropk | noun | pus; rot, decay; infamy
+dropkët | adj | mattery; decayed; infamous, despicable
+dropoli | noun | bowels, entrails
+dropolli | noun | bowels, entrails
+droqkë | noun | wine-crust, tartar; clotted blood
+droskë | noun | blackbird when brown in colour
+druar | noun | woodcutter
+drubetë | noun | trumpet
+drucë | noun | owl, screech-owl, little owl
+drueshëm | adj | terrible, formidable
+drugëz | noun | distaff; spindle
+drugoj | verb | beat about the bush
+drulas | verb | live high, luxuriate
+durlas | verb | live high, luxuriate
+drunçkë | noun | corn-cob; stopper, bung
+drupunonjës | noun | woodcarver
+druese | adv | maybe, perhaps
+drusullim | noun | sorrow
