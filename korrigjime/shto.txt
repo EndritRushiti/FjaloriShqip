@@ -41613,3 +41613,100 @@ bumë | noun | brigantine sail; boom
 bunartë | adj | of springs, of wells
 bundar | noun | polecat
 bundoz | noun | polecat
+# ── mannshto.tsv ──
+bungbutë | noun | holm oak
+bungëmirë | noun | variety of oak
+bungëkeqe | noun | variety of oak
+bungkeqe | noun | male oak
+bungoj | verb | dent, bend
+bunoj | verb | spring, gush; well up, bubble up
+bupteshkë | noun | kind of cake or bun
+buqari | noun | farmer class
+buqe | noun | large bell
+buqicë | noun | padlock
+buqinë | noun | a plant
+buqis | verb | spit forth
+burak | noun | pie
+burbu | noun | bass (fish)
+burbuje | noun | noise, bustle
+burbuq | adj | short, dapper; cheerful, good-natured
+burbuqoj | verb | bud, sprout
+burdel | noun | brothel
+burdhullak | noun | purslane
+vurdhullak | noun | purslane
+burek | noun | pie
+burk | noun | prison
+burgamë | noun | arrogance, impudence
+burgi | noun | iron post
+burgonjë | noun | Burgundy wine
+burgtar | noun | prisoner; wretch, outcast
+burgth | noun | house cricket
+burgjí | noun | screw; peg of an instrument; gimlet, auger
+buril | noun | barrel, cask
+buritar | noun | trumpeter, bugler
+burizanë | noun | trumpeter
+burjenë | noun | trumpet
+burjenush | adj | horned
+burllotë | noun | gold coin
+burom | noun | (in phrase) chew the cud
+buromës | adj | ruminant
+burxhak | noun | animal fodder
+burrak | noun | stalwart man, fine fellow; little man
+burrakoç | noun | superman
+burrakoçe | noun | virile woman
+burran | noun | fellow, man
+burrath | noun | little man
+burrith | verb | roar, bellow
+burrnesh | noun | fellow
+burrnim | noun | menfolk; manliness
+burrnohem | verb | be a man, take courage
+burrnot | noun | snuff
+burrnueshëm | adj | manly
+burrsisht | adv | in a manly way
+bus | verb | soften
+butem | verb | soften
+busëm | noun | large tree stump
+busolë | noun | compass
+buson | verb | ooze out, exude
+busto | noun | bust
+busullë | noun | compass
+bushajic | noun | dressing gown
+bushak | noun | flower pot
+bushëm | adj | sturdy
+bushët | adj | of box wood
+bushicë | noun | husk of maize
+bushigëz | noun | bladder; blister; bubble
+bushikëz | noun | bladder; blister
+bushikë | noun | bladder; blister
+bushim | noun | thunder
+bushoj | verb | thunder
+bushiq | adj | plump, chubby, bonny
+bushkliqe | noun | bladder; blister
+bushoronjë | noun | kind of snake
+bushtresë | noun | mole cricket
+bushtri | noun | lowness, indecency; outrage
+bushtroj | verb | enrage, exasperate
+butarak | noun | mollusc
+butazi | adv | softly
+bute | noun | cask, barrel, tub, butt, vat
+buteke | noun | shop
+butër | noun | strangles, adenitis (of horses)
+butërisht | adv | softly, gently
+buti | noun | cluster of walnuts; softness
+butilar | noun | bottle maker
+butni | noun | softness, gentleness, mildness; leniency; docility
+butsim | noun | softening, mellowing
+butsinë | noun | soft spot in turf; fertile field
+buxë | noun | shoulder
+buxhal | noun | flowerbed
+buxhek | noun | mole cricket
+buxhel | adj | plump, chubby
+buxhë | noun | chimney of a charcoal oven
+buzaç | adj | blubber-lipped; snouted
+buzagazni | noun | cheerfulness, pleasantness
+buzak | noun | water pot
+buzëbubuqe | adj | bud-lipped
+buzëdele | noun | spurge
+buzëderr | adj | hare-lipped
+buzëholle | noun | shrew, vixen
+buzëkërveshë | adj | grinning

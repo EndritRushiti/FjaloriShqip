@@ -715,3 +715,15 @@ bukëbërës | bukëpjekës | alternative
 bulbuqe | burbuqe | alternative
 bullicë | buallicë | alternative
 bumbil | bilbil | alternative
+# ── Mann 1948 ──
+burak | byrek | alternative
+burek | byrek | alternative
+burk | burg | alternative
+burjenë | bori | alternative
+busolë | busull | alternative
+bushëm | bâshëm | alternative
+bushim | bubullimë | alternative
+bushoj | bubulloj | alternative
+butazi | butë | alternative
+buteke | dyqan | alternative
+buxë | sup | alternative
