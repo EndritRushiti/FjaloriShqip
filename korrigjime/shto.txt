@@ -39629,3 +39629,113 @@ cilindrim | noun | rolling
 çrrotullim | noun | unwinding
 çrrudhje | noun | smoothing
 çshenjtëroj | verb | desecrate
+# ── fn2.new.tsv ──
+daltues | noun | chiseller
+dallgësues | noun | breakwater
+damkues | noun | brander
+darkëtar | noun | diner
+dasmoj | verb | hold a wedding
+debit | noun | debit
+degazoj | verb | degas
+degazues | noun | degasser
+dejonizoj | verb | deionize
+dekantoj | verb | decant
+demostroj | verb | demonstrate
+dendëroj | verb | thicken
+depiloj | verb | depilate
+derivoj | verb | derive
+desantoj | verb | land troops
+dëshirëmadh | adj | eager
+dielloj | verb | sun
+diellzim | noun | insolation
+disenjoj | verb | design
+djathar | noun | cheesemaker
+doganoj | verb | clear through customs
+dorëçelur | adj | open-handed
+dorëmirë | adj | lucky-handed
+dorëprerë | adj | one-handed
+dorëtharë | adj | stingy
+dozoj | verb | dose
+drapëroj | verb | drape
+drejpeshoj | verb | balance
+dreqnoj | verb | bedevil
+drenues | noun | drainer
+drithar | noun | grain merchant
+drunishtë | noun | woodland
+dushkatar | noun | brushwood cutter
+dyfaqësh | adj | two-page
+dyfarshëm | adj | of two kinds
+dheishtë | noun | soil
+dhelpëroj | verb | act slyly
+dhëmbëtim | noun | indentation
+dhëndëroj | verb | marry off a son
+dhjakonar | noun | deacon
+ebanit | noun | ebonite
+ekspertoj | verb | appraise
+ekstremizim | noun | radicalization
+elikzir | noun | elixir
+emaloj | verb | enamel
+emërzoj | verb | name
+eshtërim | noun | ossification
+eshtëroj | verb | ossify
+etiopias | adj | Ethiopian
+europerëndimor | adj | West European
+ëmbëltim | noun | sweetening
+ëmbëltoj | verb | sweeten
+faksoj | verb | fax
+farkëtueshëm | adj | malleable
+fatlumnisht | adv | fortunately
+feldmareshall | noun | field marshal
+fetarizim | noun | religionization
+fishkëlloj | verb | whistle
+flakërishtë | noun | burnt area
+fletushë | noun | leaflet
+fortoj | verb | strengthen
+fqinjërisht | adv | neighbourly
+fragjoj | verb | fragment
+frazoj | verb | phrase
+frutëdhënës | adj | fruit-bearing
+fryshëm | adj | puffy
+fshehësirë | noun | secrecy
+fushatoj | verb | campaign
+fytyrëzi | adj | disgraced
+gardërobë | noun | wardrobe
+gardërobist | noun | cloakroom attendant
+gardian | noun | guardian
+gojëmirë | adj | well-spoken
+gojëtharë | adj | parched
+gramatizoj | verb | grammaticalize
+gropësirë | noun | pitted ground
+guerilje | noun | guerrilla war
+gurëçoj | verb | stone
+gjakësoj | verb | bloody
+gjelbërimë | noun | greenery
+gjethëson | verb | leaf out
+gjilpëror | adj | needle-shaped
+hakërrues | adj | threatening
+helenisht | adv | in ancient Greek
+hijesirë | noun | shade
+hijesoj | verb | shade
+hijeshues | adj | embellishing
+hundëvarur | adj | sulky
+hyjnoj | verb | deify
+idilizoj | verb | idealize
+impostoj | verb | impose
+indipendencë | noun | independence
+inspektori | noun | inspectorate
+interpelim | noun | interpellation
+italianizëm | noun | Italianism
+jashtim | noun | exclusion
+jetërsoj | verb | alienate
+jetërsues | adj | alienating
+jetërsueshëm | adj | alienable
+jodizoj | verb | iodize
+kalldrëmor | adj | cobbled
+kantonizoj | verb | cantonize
+kanunizim | noun | codification
+kanunizoj | verb | codify
+karikaturoj | verb | caricature
+katinar | noun | padlock
+katranoj | verb | tar
+këmbëzezë | adj | black-legged
+kënetizim | noun | waterlogging
