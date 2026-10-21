@@ -40004,3 +40004,5 @@ zhburgoj | verb | release
 zhdërvjellësi | noun | nimbleness
 zhvarroj | verb | exhume
 zhavorrishtë | noun | gravel bed
+# ── pk.new.tsv ──
+piketoj | verb | stake out
