@@ -950,3 +950,10 @@ dishiplinë | disiplinë | alternative
 dishiroj | dëshiroj | alternative
 dishka | diçka | alternative
 dishkoj | ndëshkoj | alternative
+# ── Mann 1948 ──
+djallsi | djallëzi | alternative
+djallzi | djallëzi | alternative
+djallzisht | djallëzisht | alternative
+djamant | diamant | alternative
+djathtash | djathtas | alternative
+djeçëm | djeshëm | alternative

@@ -43036,3 +43036,48 @@ ditim | adj | sober
 ditje | noun | wisdom, knowledge; awareness; whole day; day's pay
 ditoj | verb | spend the day
 ditrak | adj | meek, mild, gentle, tame
+# ── mannshto.tsv ──
+divani | noun | arrogance, domineering; Ursa Major
+divet | verb | it dawns
+divinitat | noun | divinity
+diviza | noun | foreign exchange, foreign currency
+divnac | noun | diviner, soothsayer
+divnak | adj | prophetic
+divnoj | verb | divine, foretell
+divnues | noun | soothsayer, prophet
+divnyes | noun | soothsayer, prophet
+divoçëm | adj | devoted, devout
+divoshëm | adj | devoted, devout
+divot | adj | devoted, devout
+divucion | noun | devotion
+diuciun | noun | devotion
+dizgë | noun | strip of cloth, ribbon, rag; swaddling bands; lace, string; bandage
+dyzgë | noun | strip of cloth, ribbon; lace
+dizë | noun | strip of cloth, ribbon
+dizëbaq | noun | garter
+dizgore | noun | hollow of the knee
+djafnjehem | verb | overstrain oneself, overexert oneself
+djalishk | noun | boy, lad
+djaloç | noun | boy, lad, youth
+djallosur | adj | bedevilled; possessed, mad
+djallsi | noun | devilry
+djallsohem | verb | behave devilishly
+djallshëm | adj | devilish
+djallushë | noun | shrew, minx
+djallzi | noun | devilry
+djallzisht | adv | devilishly
+djallzoj | verb | bedevil
+djamant | noun | diamond
+djathpeshe | noun | green cheese
+djathtash | adv | on the right
+djathtsi | noun | skill, dexterity
+djeçëm | adj | yesterday's
+djegci | noun | burn, itch
+djegcim | noun | burn, itch
+djegëm | adj | burnt
+djegët | adj | burnt
+djegësme | noun | slaking
+djegsi | noun | combustion
+djegsim | noun | burning; irritation
+djegtar | noun | incendiary
+djegurina | noun | fuel
