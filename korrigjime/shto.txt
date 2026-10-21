@@ -43159,3 +43159,33 @@ dollama | noun | apparel; red frontlet; cloak
 dollaman | noun | cloak
 dollapmbërtheckë | noun | kitchen dresser
 dollitar | noun | proposer of a toast
+# ── mannshto.tsv ──
+dollmë | noun | tonsil; mixed porridge, stuffing, rissole; mill-race, aqueduct
+domaqin | noun | swell, aristocrat
+dometheqënë | adv | that is
+domërr | noun | height, climax
+domna | noun | uncertainty, quandary, dilemma
+domnjon | noun | game of tippet, played with chickpeas
+domviç | noun | bastard
+domviçe | noun | bastard girl
+donati | noun | ornament
+donatis | verb | adorn
+done | noun | breeches
+dongareq | adj | stout, plump
+dongdis | verb | attack, pounce on
+dongdisem | verb | be enraged
+dopak | adv | a little, a bit
+doqe | noun | wooden ball used in games
+dorake | noun | glove
+doradoras | adv | hand in hand with
+doradorë | adv | hand in hand with
+doramajtas | adv | with the left hand; blindly, at random
+dorase | noun | murderess
+dorasak | adj | handy
+dorazane | noun | shoulder or neck of a knife-blade
+dorazë | noun | glove
+dorcë | noun | glove; sheaf, bundle; handful; handle
+dordogan | noun | giant; huge
+dordolinë | noun | red variety of clover
+doré | noun | sheaf, bundle; embroidered shirt-cuff
+dorésë | noun | glove

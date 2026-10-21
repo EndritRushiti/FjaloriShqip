@@ -974,3 +974,6 @@ dobsim | dobësim | alternative
 dobsoj | dobësoj | alternative
 doganar | doganier | alternative
 dogëm | dogmë | alternative
+# ── Mann 1948 ──
+dometheqënë | domethënë | alternative
+donatis | stolis | alternative
