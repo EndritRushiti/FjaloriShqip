@@ -43361,3 +43361,34 @@ drunçkë | noun | corn-cob; stopper, bung
 drupunonjës | noun | woodcarver
 druese | adv | maybe, perhaps
 drusullim | noun | sorrow
+# ── mannshto.tsv ──
+druzhingë | noun | corn-cob
+drynar | noun | locksmith
+drydhe | noun | flirt, philanderer
+drydhë | noun | crumb
+drydhshëm | adj | crumbly; old
+dryj | noun | yoke for carrying pails
+dryjë | noun | yoke for carrying pails
+dryshknohem | verb | starve
+drrackë | noun | slab of stone
+drrasëtar | noun | board-cutter
+drrasëz | noun | bench, counter; roof-shingle
+drrudhem | verb | hurtle down, dash down, plunge; attack
+drrudhë | noun | crumb, speck, mote, fragment, particle; curly, woolly
+drrudhe | noun | crumb, speck
+drrudhëz | noun | crumb of bread; fragment, mote, speck
+drrullë | adj | curly, woolly
+duajzë | noun | bunch, handful
+dubë | noun | crown of a tree
+dubitoj | verb | doubt
+dudi | noun | ruffed pigeon; turtledove
+dudile | noun | turtledove
+dudmand | noun | blackberry
+dudsh | adj | toothless
+duo | verb | want, love
+dufëm | noun | fright
+dufërr | noun | fat sucking-pig
+dugme | noun | catch, ratchet
+dugog | noun | a fish
+dugulis | verb | tickle
+dugulisje | noun | tickling

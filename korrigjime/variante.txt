@@ -1006,3 +1006,6 @@ ndritim | ndriçim | alternative
 # ── Mann 1948 ──
 droj | druaj | alternative
 drubetë | trumbetë | alternative
+# ── Mann 1948 ──
+dubitoj | dyshoj | alternative
+duo | dua | alternative
