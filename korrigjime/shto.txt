@@ -40006,3 +40006,393 @@ zhvarroj | verb | exhume
 zhavorrishtë | noun | gravel bed
 # ── pk.new.tsv ──
 piketoj | verb | stake out
+# ── mannshto.tsv ──
+abé | noun | alphabet; ghost, horror
+abitoj | verb | inhabit
+abrashka | noun | blackheads
+absent | noun | absinth
+abubu | interj | alas
+abundancie | noun | abundance
+abuz | noun | lurking place
+abysë | noun | abyss
+acai | noun | frost
+acarte | adj | rough, coarse; bitterly cold; of steel
+acërim | noun | fester
+acëroj | verb | cause to fester
+aderi | prep | until
+adoratuer | noun | worshipper
+adoroj | verb | worship
+adhap | noun | trouble, ordeal
+adhrimtar | noun | adorer, worshipper
+adhroj | verb | beseech, entreat; worship
+aere | adv | then
+af | noun | appearance, hue, colour
+afërdet | noun | seaboard
+aférmas | adv | nearby
+afërtinë | noun | neighbourhood, environs
+aferuem | noun | comfort
+afilë | noun | comfort
+afras | adv | closely
+afresë | noun | likeness
+afris | verb | bring together, bring close
+afritje | noun | bringing together, reunion; understanding
+afró | adv | about, approximately
+aftapodh | noun | polyp
+aftim | noun | satisfaction; air, vapour; climate
+aftos | adj | (of fever) foot-and-mouth
+aglon | noun | north
+agosh | noun | gutter
+agume | noun | dawn
+aguriçkë | noun | a vegetable
+agzotës | noun | chamber of a gun
+agzozë | noun | salamander
+agjer | noun | donkey
+agjerinjë | noun | she-ass
+agjinesë | noun | fast, fasting
+agjinim | noun | fast, fasting
+agjinueshëm | adj | fasting
+agjironjë | noun | heron
+agjosh | noun | gutter
+aherë | adv | then, thereupon
+ahimë | interj | alas
+ahmarr | verb | avenge
+ahmarrës | adj | vengeful, spiteful; avenger
+ahoj | verb | grieve, mourn
+ajanis | noun | gnat-catcher, nightjar
+ajde | interj | come on! go on!
+ajer | noun | wind, air
+ajerim | noun | air, aeration
+ajerjar | verb | air, ventilate
+ajë | noun | swelling
+ajgtoj | verb | descry, discern
+ajktoj | verb | exude oil or grease
+ajktore | noun | dairy
+ajktuer | noun | cream bun
+ajlimono | interj | have pity
+ajm | adj | swollen
+ajroanije | noun | airship
+ajrshëm | adj | airy, well-aired
+ajtun | adj | swollen
+ajynë | pron | he
+akaqi | noun | acacia
+akari | noun | mite, tick
+akcili | pron | such a one, so-and-so
+akç | pron | such a one, a certain
+akçik | noun | perfection
+akenë | noun | achene
+akëroj | verb | snarl at, scowl at
+akësh | pron | such a one
+akët | adj | dense, compact, close
+akkush | pron | such a one, so-and-so
+akllajë | noun | rolling pin
+akllaj | noun | rolling pin
+akolle | noun | turn, revolution
+akollë | adv | round, about
+akrapje | noun | prosperity, thriving state
+akrinjolle | noun | bittersweet, woody nightshade
+akrosur | adj | glaring
+akrri | noun | slope, drop
+akrrim | noun | glare, scowl; threat, defiance; challenge
+akrroj | verb | glare at, scowl at, snarl at; defy
+aksecili | pron | each
+akseku | adv | somewhere or other, in a certain place
+aksëm | adj | bold, brave; deft, nimble
+aksë | adj | able, capable
+aksh | pron | a certain one, so-and-so
+akshand | noun | dawn
+akshëm | adj | able, capable, deft
+akshtoj | verb | deem worthy
+aktë | adj | dense, compact
+aktim | noun | compression, condensation; sea anemone
+aktoj | verb | compress, condense
+akullsinë | noun | hoarfrost
+alanis | verb | thrill
+alç | noun | elk
+alestis | verb | accustom
+alëmisë | noun | trinket
+alfavitar | noun | alphabet
+alfjer | noun | standard-bearer, ensign
+alimenta | noun | food
+alisivë | noun | buck, lye
+alivanosur | adj | faint, giddy
+alk | noun | bolt; iron bar; iron ring
+almicë | noun | implement, tool (agricultural)
+almisë | noun | implement, tool
+almistër | noun | gardening or agricultural tool
+almishti | noun | demon, goblin
+almizhda | noun | works, mechanism
+aloesë | noun | aloe
+alqimi | noun | alchemy
+alqimist | noun | alchemist
+alsivë | noun | lye
+alurij | verb | howl, wail
+aluris | verb | wail, weep, howl
+aluritje | noun | weeping, wailing, howling
+alurim | noun | howling, wailing
+alla | interj | come on
+allabandë | adv | wholesale, in bulk
+alladis | verb | clear the air, freshen, refresh
+allajkë | noun | slave girl
+allakatem | verb | rove, wander
+allamende | adv | by heart
+allarmë | noun | alarm
+allarmoj | verb | alarm
+allaturinë | noun | tool
+allavitem | verb | grope along
+allestis | verb | accustom, teach
+allmi | noun | exhaustion
+allminu | adv | at least
+allmoj | verb | weaken, exhaust
+alloe | noun | aloe
+allonar | noun | July
+allore | noun | a kind of fish
+alltar | noun | altar, high table
+amajstroj | verb | teach, instruct
+amashirë | noun | dish
+ambarrëz | noun | wooden bolt; pick-a-back game
+ambasatë | noun | embassy
+amberik | noun | ring, clasp
+amberuj | noun | liqueur
+ambonë | noun | tribune, pulpit
+ambull | adj | stagnant
+ambullakër | noun | tentacle, feeler
+amicë | noun | head of a tapeworm
+amis | verb | cajole, coax, caress
+amit | noun | stole, alb
+amor | noun | heat, mating season
+amsim | noun | fragrance, smell; eternity
+amshinë | noun | permanence, perpetuity
+amshi | noun | permanence, perpetuity
+amshtuem | adj | eternal
+amtë | noun | spawn
+amtoj | verb | deposit sediment
+amtyrë | noun | nature
+amuer | adj | maternal
+amujë | noun | spring, source, stream
+amundë | adv | perhaps
+amur | noun | love
+amurus | adj | loving
+amvis | noun | master of the house
+amvizë | noun | lady of the house, housekeeper
+amvisim | noun | housekeeping, economy
+amvisoj | verb | keep house
+anadet | noun | seashore, coast
+anadetas | noun | coast dweller
+anahorit | noun | anchorite, recluse
+anakatos | verb | mix
+anake | noun | circle
+anames | adv | through, across, athwart
+anangas | verb | hasten on, hurry, urge
+anangast | adv | quickly
+anarqi | noun | anarchy
+anasjellshëm | adj | alternate
+anathemë | noun | anathema
+andamendas | adv | absent-mindedly
+andejë | noun | the far side
+andejtim | noun | transmission, transportation
+andejtoj | verb | transport, transmit
+andejza | adv | thence; yonder
+andezaj | adv | that way
+andikë | noun | antique
+andikos | verb | age; deject
+andiktar | noun | antiquary, antique dealer
+andinë | noun | yard of a mast
+andrallis | verb | bewilder, put in a fix
+andresë | noun | patch
+andri | noun | ploughing team
+andrim | noun | patching, mending
+andyç | adv | there, thence
+andyshtje | adv | however (little)
+anelin | noun | aniline
+anëdede | noun | coast, shore
+anëdetje | noun | coast, shore
+anëdetës | noun | coast dweller; coastal
+anëkoj | verb | complain
+anëliqe | noun | lakeside
+anëlum | noun | riverside
+anëmal | noun | mountainside
+anëmarrje | noun | advocacy; defence; partiality
+anëmbana | noun | accessories, gadgets
+anëmbythje | noun | hindquarters
+anëmish | noun | limb
+anga | adv | pardon (children's word in games)
+angas | verb | hasten, urge
+angër | noun | bowels, entrails
+angorë | noun | anchor
+angsht | adj | wild, rude, harsh
+angshti | noun | fear, anxiety
+angullis | verb | moan, groan, wail; whine
+angullij | verb | moan, groan, wail
+angullitje | noun | wailing, groaning, whining
+angurroj | verb | anchor
+angusë | noun | sorrow, anguish
+angushi | noun | sense of guilt, compunction
+angjelikë | noun | angelica (plant)
+angjinidhe | noun | camelthorn (Alhagi)
+angjistër | noun | hook
+aniçá | interj | well! good gracious!
+anijesi | noun | seamanship; navy, fleet
+anikari | noun | disease of the womb
+anima | adv | then, afterwards
+animirë | adv | however
+ankanë | noun | auction
+ankran | noun | mate, fellow
+anmiqi | noun | hostility
+anofelë | noun | anopheles mosquito
+ansi | noun | partiality
+ansisht | adv | partially
+ansujshëm | adj | insular
+antari | noun | party, side; membership
+antarsi | noun | membership; partisanship
+antifenë | noun | response (in church)
+antikar | noun | antiquary
+antikos | verb | age
+antiktar | noun | antiquary
+anthropologji | noun | anthropology
+aparjas | verb | lose hope; withdraw, retire
+apikas | verb | notice, observe; suppose
+apistje | noun | feverfew (plant)
+apori | noun | doubt, dilemma, fix
+aposta | adv | just, precisely
+apostimë | noun | abscess
+apostymë | noun | abscess
+apostol | noun | apostle
+apostolate | noun | mission
+apostolli | noun | apostleship
+apostueshëm | adj | apostolic
+apostulleshë | noun | woman apostle
+aprapa | adv | behind
+apsinth | noun | wormwood, absinth
+apusti | noun | shelter, lee
+aqherë | adv | often
+aqpeshim | noun | equipoise, balance
+aqsim | noun | equation
+aqshëm | adj | equal, even, regular
+aqvlerës | adj | equivalent
+arabackë | noun | baby carriage
+arabel | noun | sparrow
+aradhoj | verb | draw up in ranks
+arakat | noun | deserter
+araknoj | verb | master a craft
+arami | noun | yellowhammer; goldfinch
+arapeshkë | noun | woman or girl with dark skin
+arapës | noun | a bird
+arapkë | noun | dark girl or woman
+ararot | noun | arrowroot
+arati | noun | exile, banishment; manhunt
+aratis | verb | banish; hunt down
+aravani | adv | at a trot
+aravel | noun | sparrow
+arb | noun | dawn
+arbëresht | adv | in the Albanian fashion
+arbur | noun | tree; mast
+arçin | noun | (word in a children's counting rhyme)
+ardiç | noun | juniper
+ardhanës | adj | gold-bearing
+ardhiskë | noun | juniper berry
+ardhmës | noun | descendant
+ardhri | noun | juniper berry
+ardhtar | noun | artisan, craftsman
+arekordoj | verb | record, recall
+arenz | noun | steel
+arënc | noun | steel
+argalis | verb | weave, work at the loom
+argas | verb | curry, dress leather; tan
+argatëri | noun | field labourers
+argim | noun | fine rain, drizzle; flattery
+argle | noun | pledge money
+arglidh | noun | wild olive
+argoj | verb | flatter; entertain; drizzle
+argoshë | noun | blister or pustule; its matter
+argoshës | noun | a disease
+argti | noun | caress; satisfaction; entertainment
+argtim | noun | entertainment, concert
+argtis | verb | entertain, amuse
+argtoj | verb | entertain; console
+argtues | adj | entertaining, amusing
+argtueshëm | adj | entertaining; pacifying
+arguridhe | noun | unripe fruit
+argjentar | noun | silversmith
+argjëndari | noun | silverware, plate
+argjipeshk | noun | archbishop
+argjitë | noun | twig, osier
+argjupeshkëpi | noun | archbishopric
+arhimandrit | noun | high priest (Orthodox)
+arhitektyrë | noun | architecture
+arhon | noun | wealthy man, baron, lord
+arhont | noun | wealthy man, baron, lord
+arhondari | noun | priority; leadership
+arhondeshë | noun | lady, baroness
+arilë | noun | silkworm cocoon
+aring | noun | herring
+arithmetikë | noun | arithmetic
+arixheshkë | noun | Gipsy woman
+arkafortë | noun | safe
+arkangjëll | noun | archangel
+arkar | noun | bowman, archer
+arkatar | noun | treasurer, cashier
+arktar | noun | treasurer; cashier, accountant
+arktoj | verb | cash
+arktues | adj | cashing
+armakollë | noun | armoury; barrel of a gun
+armé | noun | pickled cabbage; mixed pickles
+armena | noun | tackle, rigging
+armenis | verb | rig, equip; sail
+armëri | noun | heraldry; coat of arms
+armih | verb | dig
+armiqsor | adj | hostile
+armishte | noun | armoury; munition factory
+armishtë | noun | armoury
+armoni | noun | harmony
+armonium | noun | harmonium
+armtar | noun | armourer; arms manufacturer
+armtore | noun | arsenal
+arnaje | noun | ploughed field; plain
+arnatar | noun | patcher, repairer
+aronjit | noun | a small fish
+aros | verb | gild
+arpë | noun | harp
+arprues | adj | gold-bearing
+arq | noun | superiority, priority
+arqeolog | noun | archaeologist
+arqi | noun | arch
+arqiduk | noun | archduke
+arqidhjakua | noun | archdeacon
+arqipelag | noun | archipelago
+arqipeshk | noun | archbishop
+arqipeshkvi | noun | archbishopric
+arqitekt | noun | architect
+arqivë | noun | archive, record
+arsen | noun | arsenic
+arsimshëm | adj | didactic, rational
+arsitës | adj | turncoat, renegade
+arsyetar | noun | reasoner, arguer
+arsyetisht | adv | rationally, reasonably
+arshaje | noun | miliary cramp
+arshiq | noun | skin bag
+arteri | noun | artery
+arter | noun | artery
+artikulloj | verb | articulate
+artiqok | noun | cardoon, artichoke
+artoj | verb | form
+arvur | noun | tree
+arxhevis | noun | nutmeg
+arxhivist | noun | nutmeg
+arxhoj | verb | spend
+aryerë | adv | then
+arrabashnjë | noun | rubbish, sweepings
+arrasixharrasi | adv | rowdy-dow, in uproar
+arravonias | verb | betroth
+arrëzinë | noun | persecution
+arrëtoj | verb | mimic, imitate
+arrijshëm | adj | grown-up, adult, mature
+arrijtës | adj | arriving; adequate; newcomer
+arritsi | noun | maturity
+arrmizë | noun | nutmeg
+arrnishtë | noun | old piece, scrap
+asajdenaj | noun | (in phrase) make fun of
+asajt | adv | yonder, over there; from there
+asesi | adv | at all, by any means
+asë | interj | eh? isn't it?
+asëndonje | pron | none
+asgan | adj | proud, arrogant

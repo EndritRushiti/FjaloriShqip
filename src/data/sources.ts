@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948";
 
 export interface SourceInfo {
   id: SourceId;
@@ -329,6 +329,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Termat me shumë fjalë, struktura e tezaurit dhe përkthimet nuk merren.",
       en: "Multi-word terms, the structure of the thesaurus and the translations are not used.",
+    },
+  },
+  "mann-1948": {
+    id: "mann-1948",
+    name: "Stuart E. Mann, An Historical Albanian-English Dictionary (Londër 1948)",
+    publisher: "Stuart E. Mann, Longmans, Green & Co. për British Council, Londër",
+    url: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf",
+    usedFor: {
+      sq: "Fjalë të vjetra, krahinore dhe dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The Albanian descriptions are our own.",
+    },
+    notUsed: {
+      sq: "Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen.",
+      en: "The definitions, examples and etymologies of the book are not copied.",
     },
   },
 
