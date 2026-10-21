@@ -41011,3 +41011,78 @@ binjosh | noun | twin
 bynak | noun | twin
 birak | adj | filial
 biraleqe | noun | kind of cake
+# ── mannshto.tsv ──
+bdier | verb | ruin, destroy; fail
+birastjel | noun | loophole, slit, opening
+birazel | noun | brother
+byrazel | noun | brother
+birazer | noun | brother
+birini | noun | handkerchief
+birinisem | verb | equip oneself for a journey
+birkoj | verb | ransack, rummage; explore; spy, scout
+birkokë | noun | apricot
+birlembir | noun | game of leapfrog
+biros | verb | bore, pierce
+bironjë | noun | barren woman
+birov | noun | mansion, chief villa of a town; sheriff
+birues | adj | inquisitive, curious
+birrar | noun | barman, beer seller
+birrëshitës | noun | beer seller
+birrtar | noun | barman
+bisedtar | noun | talker, conversationalist
+bisëtoj | verb | blaspheme
+biskaq | noun | flour dust; dusty
+biskar | adj | frail, slight, slim
+biskonjë | noun | tall lanky girl
+biskorrë | noun | new twig, sprout
+biskulaç | adj | coiling
+biskull | noun | twig
+bison | noun | bison
+bistrok | adj | harsh, tart
+bishbilec | noun | mountain tea
+bisheti | noun | conversation
+bishetoj | verb | converse
+bishlizë | noun | a plant
+bishtafluturabukurë | noun | stone marten
+bishtakuqës | noun | redstart
+bishtallukçi | noun | party fetching the bride
+bishtamin | noun | a plant
+bishtarake | noun | coffee pot
+bishtëtund | noun | wagtail
+bishttunde | noun | wagtail
+bishte | noun | girth belt of a horse (goat hair)
+bishtec | noun | plait; curl, lock
+bishtek | noun | curl, lock
+bishteshufrabukurë | noun | stone marten
+bishtër | noun | gall
+bishtfurkabukurë | noun | stone marten
+bishtgyp | noun | penholder
+bishtinë | noun | trick, dodge, stratagem
+bishtkuqe | noun | redstart; a bird like the nightingale
+bishtlopatë | noun | tadpole
+bishtmenoj | verb | play truant
+bishtnim | noun | equivocation, evasion; winding of a road
+bishtoj | verb | evade
+bishtos | verb | shear sheep near the tail
+bishtshkundës | noun | wagtail
+bitëm | noun | (in a phrase) vine lice
+bitojë | noun | shoot, sapling
+bitulë | noun | sugar beet
+bithash | noun | child not yet able to walk; crawler; paralytic
+bixhoxhi | noun | gambler
+bizhoz | noun | gambling
+bizh | noun | pea
+bizdrënje | noun | thick-stemmed plant found at the foot of mountains
+bizerinë | noun | notoriety; swagger
+bjegërim | noun | sob
+bjelishë | noun | a plant
+bjeshkoj | verb | live in the mountains
+blac | noun | shrubbery, thicket
+blane | noun | small stick, twig; firewood
+blankë | noun | small scar
+blanoz | noun | a bird, perhaps the fig-eater
+blanjë | noun | twig
+blaq | noun | fool, silly person
+bllatim | noun | sacrifice
+blatishtë | noun | swamp, fen, marsh
+blehem | verb | be bought

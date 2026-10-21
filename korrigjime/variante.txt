@@ -626,3 +626,14 @@ birbil | bilbil | alternative
 bilizik | byzylyk | alternative
 binjosh | binjak | alternative
 bynak | binjak | alternative
+# ── Mann 1948 ──
+bdier | bierr | alternative
+birastjel | frëngji | alternative
+bironjë | beronjë | alternative
+bisëtoj | bestoj | alternative
+bisheti | bisedë | alternative
+bishetoj | bisedoj | alternative
+bishtoj | bishtnoj | alternative
+bizhoz | bixhoz | alternative
+blanjë | blane | alternative
+bllatim | blatim | alternative
