@@ -706,3 +706,12 @@ budallicë | budallaçkë | alternative
 bugal | bakal | alternative
 bugatshëm | begatshëm | alternative
 bugjer | kupë | alternative
+# ── Mann 1948 ──
+brull | brryl | alternative
+bugvale | bukvale | alternative
+buiz | bujis | alternative
+bukapjekës | bukëpjekës | alternative
+bukëbërës | bukëpjekës | alternative
+bulbuqe | burbuqe | alternative
+bullicë | buallicë | alternative
+bumbil | bilbil | alternative

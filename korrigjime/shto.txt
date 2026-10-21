@@ -41500,3 +41500,116 @@ buhas | verb | swell, puff up, inflate
 buhatem | verb | swell
 buhasi | noun | fustian
 buhërt | adj | sensual
+# ── mannshto.tsv ──
+brull | noun | elbow
+bugvale | noun | maize flour pastry
+buhri | noun | high spirits
+buish | adv | squelchy, oozy
+buiz | verb | ooze
+bujtem | verb | put up, spend the night
+bujer | noun | gentleman, nobleman, lord
+bujareshë | noun | noblewoman, lady
+bujeri | noun | nobility; courtesy
+bujarim | noun | ennoblement
+bujërisht | adv | politely, nobly
+bujarsoj | verb | ennoble
+bujarshëm | adj | noble
+bujazhgë | noun | chip, shaving
+bujëreshë | noun | noblewoman
+bujis | verb | ooze, exude
+bujkuqe | noun | edible plant like orache
+bujmadh | adj | far-famed
+bujqsi | noun | agriculture
+bujtare | noun | hostess
+bujtari | noun | hospitality
+bujtë | adj | soft
+bujtoj | verb | put up, accommodate
+bukaere | noun | firefly
+bukare | noun | firefly
+bukapjekës | noun | baker
+bukëbërës | noun | baker
+bukëfike | noun | figs pressed into a cake
+bukëmish | noun | rissole
+bukëmjaltë | noun | bee bread
+bukëpërmyste | adj | ungrateful
+bukësheqeri | noun | sweet cake
+bukështkelë | adj | ungrateful
+bukështkelës | adj | ungrateful
+bukështkal | adj | ungrateful
+bukështkelje | noun | ingratitude
+bukëzi | noun | famine, dearth, shortage
+bukli | noun | round wooden cask for water, water bottle
+buki | noun | water bottle
+bukoj | verb | feed on bread
+buktar | noun | baker
+bukulere | noun | oak apple, oak gall
+bukurith | adj | pretty
+bukurazi | adv | beautifully
+bukureze | noun | firefly
+bukurizë | noun | firefly
+bukurim | noun | embellishment
+bukurisht | adv | beautifully
+bukuroshkë | noun | a bird
+bukurshkronjë | noun | calligraphy
+bukurshkronjës | noun | penman
+bukurueshëm | adj | capable of embellishment
+bukvale | noun | sop of maize bread and milk eaten at a christening
+bularc | noun | kind of hammer
+bulari | noun | aristocracy
+bulatis | verb | seal
+bulbërim | noun | abundance
+bulbëroj | verb | abound
+bulbërt | adj | abundant; full-blooded; in its prime; milch (of a cow)
+bulbuqe | noun | bud
+bulciq | adj | mellow, overripe
+bulciqem | verb | get overripe
+bulciqët | adj | mellow, overripe
+bulshi | noun | inside of the cheek
+fulçi | noun | inside of the cheek
+buletë | noun | bulletin; ticket; composition, essay
+bulezë | noun | drop
+bulgari | noun | four-stringed lute
+bulierë | noun | wooden water bottle; cask, barrel; pail
+buljerë | noun | wooden water bottle
+bulirë | noun | wooden water bottle
+buljer | noun | wooden water bottle; chieftain
+burilë | noun | wooden water bottle
+bulim | noun | budding, sprouting
+bulksi | noun | farming
+bulktareshë | noun | peasant woman
+bulmej | verb | preserve, season, spice
+bulmetos | verb | spice, season
+bylmoj | verb | bake with butter
+buloj | verb | sprout, shoot, bud
+bulokos | verb | parry, ward off, rebuff
+bulqizë | noun | small farm
+bultis | verb | seal; approve
+bulurim | noun | bellowing, roar, lowing; noise, clamour
+bulurimë | noun | bellowing, roar
+buluroj | verb | roar, bellow, low
+bulzoj | verb | sprout, bud; pout
+bulzues | adj | full, rounded; chubby
+bullash | adj | Turkish, Muslim
+bullëndër | noun | lees of olive oil
+bullicë | noun | buffalo cow
+bullos | verb | tear, shred, tatter
+bullufë | noun | (in phrase) swell
+bullufi | noun | swelling
+bullufiq | verb | blow up, inflate; inflated, swollen
+bullufkë | noun | swelling
+bumallë | noun | kind of grub; black cockroach
+bumardhë | noun | trench mortar
+bumb | verb | boom
+bumbardhë | noun | trench mortar
+bumbëhem | verb | swell
+bumbëlloj | verb | roar, rumble, thunder
+bumbil | noun | nightingale
+bumbje | noun | boom, roar; fougasse
+bumboj | verb | jet forth, spurt
+bumbullak | adj | buzzing, humming
+bumbullis | verb | rumble; roast on a spit
+bumbylloj | verb | grind up; digest
+bumë | noun | brigantine sail; boom
+bunartë | adj | of springs, of wells
+bundar | noun | polecat
+bundoz | noun | polecat
