@@ -41190,3 +41190,110 @@ bombardisje | noun | bombardment, shelling
 bombic | noun | silkworm
 bombik | noun | silk moth
 bombyks | noun | silk cocoon
+# ── mannshto.tsv ──
+barnavekë | noun | ankle bones
+benevrekë | noun | ankle bones
+bërnavekë | noun | ankle bones
+bomkë | noun | bombast, display, pomp
+bonkë | noun | bombast, pomp
+bomkët | adj | bombastic
+bomp | adj | worthless
+bonbullimë | noun | thunder
+bondullë | noun | bundle
+bonxë | noun | calm
+boqë | noun | ear of maize with a few grains
+borashk | noun | whirlwind
+borazane | noun | back of a knife
+borbolec | noun | maggot; cattle tick; disease caused by a stinging fly
+borboll | noun | dung beetle
+borbull | noun | dung beetle
+borç | noun | chaffinch; linnet; debt
+borçlitur | adj | in debt
+borrigë | noun | fir, pine; softwood
+borikë | noun | fir, pine
+boriçkë | noun | fir, pine
+borigëz | noun | chip, splinter
+boroçis | verb | bung, stop
+borolac | adj | bright, cheerful
+borolar | adj | jocular
+boroli | noun | larking, jesting, tomfoolery
+borotar | noun | comedian
+boroni | noun | pan
+borsetë | noun | purse
+borrokoç | noun | bullock, bull calf
+bosilok | noun | basil
+borsilok | noun | basil
+bosilog | noun | basil
+bosnjak | adj | Bosnian
+bosnjë | noun | crab apple
+bostal | noun | water boot, wader
+boshësinë | noun | vacuum, vacancy; cavity
+boshëm | adj | empty
+boshët | adj | empty
+boshim | noun | cavity, hollow
+boshtërr | noun | forsythia
+boshtinë | noun | crochet hook, pin
+boshtinëz | noun | crochet hook, pin
+botesë | noun | publication
+botërt | adj | earthen, of clay
+botësi | noun | publicity
+boticë | noun | clay soil
+botinë | noun | swamp, marsh, polder, lowland
+botnisht | adv | publicly
+botsim | noun | publicity
+botshëm | adj | public
+bozogane | noun | large sweet pear, William pear
+bozuk | noun | lute
+bozhë | noun | pelican
+bracan | noun | petty thief
+bracar | noun | petty thief; support, crook, hanger
+bracë | noun | upper arm; fathom; pilferer
+braci | noun | petty theft; rascality
+bracoj | verb | pilfer
+braçinë | noun | pond, pool
+braf | adv | (in phrases) jump to one's feet; instantly
+brahoris | verb | cheer
+brakaç | noun | (in phrases) bean; pitcher
+brakusha | noun | breeches
+bramullak | adj | waxy, of wax waste
+brancin | noun | a sea fish
+branovis | verb | harrow
+brastinë | noun | muscatel grapes
+brash | adj | little, diminutive; under-developed melon
+brashje | noun | bribe, bribery
+bravare | noun | pet lamb
+brazët | adj | furrowed
+brazhdë | noun | sling; ridge of earth, mound
+brazhëllimë | noun | babble, din
+brazhëlloj | verb | babble, make a noise
+brazhëm | noun | din
+bredore | noun | pistol carried in the belt
+bredhëz | noun | piece, head
+bredhme | noun | leap, bound
+bredhoj | verb | frolic
+bredhshëm | adj | leaping, hopping; running; suddenly
+brek | noun | piece, bit (of cheese)
+bregë | noun | piece; lump of sugar
+bregishte | noun | borderland, march
+breglumas | noun | dweller on a riverbank
+bregole | noun | (in phrases) small hill
+britje | noun | gnawing
+brekamish | noun | surplice
+brekdetas | noun | coast dweller
+breksheqere | noun | kind of custard
+brekusha | noun | Turkish trousers
+brekushka | noun | drawers, knickers
+bremë | adj | gnawed
+brengshëm | adj | sad, sorrowful
+brens | noun | breadknife
+bres | adj | gnawing; belt
+breskë | noun | grey or white-haired goat
+breshkujcë | noun | turtle
+breshkujzë | noun | turtle
+breshnizë | noun | dense small hail
+breshnohet | verb | it freezes
+breshtët | adj | woody, wooded
+breshtni | noun | wildness, primitive state, wilds
+breshtnoj | verb | roughen, make wild
+bretkoj | verb | croak
+brethishte | noun | bugle (plant)
