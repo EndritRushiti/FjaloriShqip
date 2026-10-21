@@ -41979,3 +41979,35 @@ cor | noun | boy
 corife | noun | leader, leadership
 corkllimë | noun | shout
 corklloj | verb | shout
+# ── mannshto.tsv ──
+cpërdredh | verb | untwist
+cpërkas | verb | sprinkle
+cpue | noun | talon
+cqufur | noun | sulphur
+cragë | noun | herring
+crrog | verb | pull out hair
+crrogem | verb | grow bald
+crroga | noun | depilations, bare patches
+crrogët | adj | hairless
+crrule | noun | rag, clout; tattered garment
+cucufend | noun | puffball fungus
+cucufendë | noun | puffball fungus
+cufë | noun | band, ribbon; tuft, crest
+cufër | noun | bush, thicket
+cugim | noun | pressure
+cugni | noun | pressure, compression
+cukacuka | adv | gradually; in fits and starts
+cukar | noun | sugar
+cukas | verb | knock, hit, strike
+cukujë | noun | (in phrase) be frightened
+culare | noun | platter
+culatak | noun | shepherd with only a few sheep
+xullufe | noun | tuft of hair
+cum | adj | strange, curious
+cumb | noun | idler, good-for-nothing
+cundër | noun | chunk, large piece
+cundroj | verb | lop into chunks
+cungari | noun | maiming, crippling, deformation
+cunglloj | verb | lop off, maim
+cunguritem | verb | grow together; accrue
+cupar | verb | break out (of disease)

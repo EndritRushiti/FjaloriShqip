@@ -770,3 +770,9 @@ coptoj | copëtoj | alternative
 copzoj | copëtoj | alternative
 corkllimë | sokëllimë | alternative
 corklloj | sokëllij | alternative
+# ── Mann 1948 ──
+cpërdredh | spërdredh | alternative
+cpërkas | spërkat | alternative
+cqufur | squfur | alternative
+cragë | carragë | alternative
+cukar | sheqer | alternative
