@@ -40801,3 +40801,86 @@ baul | noun | suitcase, portmanteau
 baxë | noun | darling; lovemaking, flirtation
 baxhak | noun | trotters
 baxhdile | noun | weed
+# ── mannshto.tsv ──
+baz | noun | bast
+bdoj | verb | chase away, scare off; pursue
+bdorë | noun | snow
+beftas | adv | unexpectedly
+bejendis | verb | esteem
+bejtoj | verb | swear
+belbacuk | noun | dumb man; stammering
+belban | adj | stammering
+belbë | adj | stammering, dumb
+belboj | verb | stammer; twaddle
+belbrim | noun | stammer; whirr, hum
+belbroj | verb | stammer; whirr, hum, buzz
+belbti | noun | stammering
+belbtim | noun | stammering
+belbtoj | verb | stammer
+belbzoj | verb | stammer
+belbuq | adj | dumb
+belçetë | noun | race, breed; rabble
+belec | noun | mountain tea
+beleg | noun | challenge; contest, duel; blusterer; gale; Easter egg
+belege | noun | addled egg; mad, crazy
+belegri | noun | implication; difficulty, tight corner
+belegji | noun | mischief, wrong, misdeed
+beleme | noun | sack, sackcloth
+beleq | noun | challenge
+belerinë | noun | cloak, cape
+belesh | adv | in vain, uselessly
+belexik | noun | bracelet, bangle
+belezik | noun | bracelet, bangle
+belgjikan | noun | Belgian
+belgjikas | noun | Belgian
+belushkë | noun | small trout, grayling
+beluz | noun | (in a phrase) half-open
+belluz | noun | (in a phrase) half-open
+bepzë | noun | pupil of the eye
+beradas | noun | native of Berat
+berak | noun | pastry with a coin baked in on 1 March
+berbelicë | noun | (word in a children's counting rhyme)
+berberane | noun | woman hairdresser
+berbereshë | noun | woman hairdresser
+bercel | noun | grain for fine white flour
+berkë | noun | inner bark of trees
+berki | noun | wild service tree (Sorbus torminalis)
+beronjsi | noun | sterility
+beronjsh | adj | sterile
+berskot | noun | biscuit
+berta | adv | inside
+bertokall | noun | orange
+beruo | noun | ewe
+berzeqan | noun | (in a phrase) dealer
+bes | adj | spotted, pied (of a dog)
+besedë | noun | conversation
+besedis | verb | talk
+besojme | noun | creed
+besëdrejtë | adj | faithful
+besëpak | adj | of little faith
+beseri | noun | belief, credulity
+beske | noun | braid, cording
+besleme | noun | girl brought up as a servant
+bestar | adj | faithful, loyal; believer; mediator
+bestytshëm | adj | superstitious
+beshnik | noun | conical earthen baking pot
+beshtardh | noun | bastard
+beshtimë | noun | a kind of bowl
+betar | noun | juryman, juror
+betari | noun | jury
+betimë | noun | stone platter; slab
+beth | noun | flyblows
+bevër | noun | brushwood, sticks
+bexel | noun | scrub tobacco
+bexgë | noun | brushwood, scrub
+bezunë | noun | pigeon
+bezele | noun | pea
+bezér | adj | gigantic, huge; giant
+bezestën | noun | covered market
+bezë | noun | sand dune
+bezënjar | verb | beg
+bezhdile | noun | dirt, rubbish
+bezhorrë | noun | pelican
+bëdorë | noun | snow
+bëdoron | verb | it snows
+bëhas | verb | amaze, nonplus, stupefy
