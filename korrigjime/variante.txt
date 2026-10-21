@@ -741,3 +741,14 @@ canzë | mushkonjë | alternative
 caragë | carragë | alternative
 carraqe | carroke | alternative
 cboj | dëboj | alternative
+# ── Mann 1948 ──
+cerkat | cirkat | alternative
+cëcërrim | cërcërimë | alternative
+cëcërris | cërcëris | alternative
+cëcërroj | cërcëris | alternative
+cënos | cenoj | alternative
+cërkatë | cirkatë | alternative
+cërmëz | cermë | alternative
+cfalkë | cfrat | alternative
+cfynë | cfinë | alternative
+sfynë | cfinë | alternative

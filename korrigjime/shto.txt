@@ -41772,3 +41772,83 @@ cegë | noun | blame
 cegoj | verb | blame
 cehe | noun | mine, pit, shaft
 cehtar | noun | miner
+# ── mannshto.tsv ──
+celuloz | noun | cellulose
+cemend | verb | tone up, strengthen
+cemje | noun | warning
+cenakuqe | noun | red-spotted warbler
+cenëshëm | adj | hardworking, industrious
+cenët | adj | defective; touched, demented
+cenis | verb | esteem, value; assess damage
+cerbotanë | noun | bubble pipe
+cirimoni | noun | ceremony
+cerengë | noun | chunk of bread
+cerenik | noun | pantry
+cerluq | noun | saucepan
+cergtar | noun | tent dweller, gipsy
+cergoj | verb | weave coarse cloth; cover with cobwebs
+cerkat | verb | drip
+cerkë | noun | mark; mole; defect, blemish
+cerloj | noun | a plant
+cermar | adj | gouty
+cerme | noun | gout
+cermëz | noun | cold, catarrh
+cermis | verb | cramp; clench the teeth
+cernik | noun | bag
+cerpek | adj | nimble, agile
+cerrak | noun | bat
+cerrë | noun | bat
+cerrylle | noun | bat
+cesnit | verb | bubble out, spring, spurt
+cëcërrim | noun | twittering
+cëcërris | verb | twitter
+cëcërroj | verb | twitter
+cëkas | verb | hunt for lice
+cëngërmëngër | adj | neat and tidy, spick and span
+cënos | verb | touch
+cërcëri | noun | twitter, chirping
+cërcërim | noun | twitter, chirping
+cërcërtar | adj | twittering; talkative
+cërcëris | verb | twitter, chirp, warble
+cërcëroj | verb | twitter, chirp
+cëric | noun | castor oil
+ciric | noun | castor oil
+cërkatë | noun | drop
+cërloj | noun | a bird
+cërmëdellë | noun | dye-yielding tree; logwood
+cërmëz | noun | cold
+cërmoj | verb | provoke, stir up
+cërris | verb | chirp, twitter
+cërrloj | noun | a bird
+cfakë | noun | a yellow flower
+cfaqem | verb | cover up the face
+cfalkë | noun | sluice gate
+cfili | noun | torture
+cfilim | noun | torture
+cfilis | verb | torture, rend, destroy
+cfilitje | noun | torture, hardship, destruction, spoliation
+cfilitshëm | adj | torturous, tormenting, destructive
+cfilitur | adj | distraught
+cfinar | adj | intriguing; intriguer
+cfinë | noun | plug, wedge, peg; faggot, bundle of wood
+cfynë | noun | wedge, plug
+sfynë | noun | wedge, plug
+cfing | noun | long-billed bird like the kingfisher and hoopoe
+cfink | noun | long-billed bird
+cfinos | verb | wedge, peg, plug
+cforis | verb | cool
+cfratoj | verb | dam, block
+cfynos | verb | wedge, peg
+cfytës | noun | peashooter
+cfytyrîj | verb | snort
+cfytyrim | noun | snort
+cickë | noun | small teat
+cicrim | noun | twitter, chirping; twaddle, chatter
+cicroj | verb | twitter, chirp
+cicineckë | noun | a bird
+ciciridhe | noun | waste from whale blubber
+cidër | noun | cider
+cidulë | noun | bill, ticket, slip
+cikalar | adj | dotted, spotted, speckled; dappled
+cikali | noun | sculpture
+cikalitës | noun | sculptor
