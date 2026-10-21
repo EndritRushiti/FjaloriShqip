@@ -760,3 +760,13 @@ cillido | cilido | alternative
 cimër | çimërr | alternative
 cingarimë | cingërim | alternative
 cipres | selvi | alternative
+# ── Mann 1948 ──
+cirrua | cirua | alternative
+cjegullë | tjegull | alternative
+cjetullë | sjetull | alternative
+cokullimë | sokëllimë | alternative
+cokllimë | sokëllimë | alternative
+coptoj | copëtoj | alternative
+copzoj | copëtoj | alternative
+corkllimë | sokëllimë | alternative
+corklloj | sokëllij | alternative

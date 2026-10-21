@@ -41927,3 +41927,55 @@ cirklim | noun | sprinkling
 cirkofë | noun | feverfew
 cirkofaj | noun | a bird
 ciro | noun | loser in a game
+# ── mannshto.tsv ──
+cironjë | noun | perch
+cirotë | noun | waxcloth, oilcloth
+cirrua | noun | small fish; drop
+citos | verb | pile up; fill, cram, stuff; fix, rearrange
+citosur | adj | stuffed, crammed
+cjampë | noun | frog
+cjegullë | noun | tile
+cjetullë | noun | tile
+cjukas | verb | chirp, twitter
+ckallonjë | noun | twig
+ckërfim | noun | gnawing; pang; gnawing pain
+ckërfis | verb | open out, widen, extend; gnaw, nibble; irritate
+ckërfitem | verb | open out, spread; blossom
+ckërfyell | noun | larynx, trachea; lists, tournament ground
+ckërkoj | verb | gnaw, nibble
+ckuq | verb | redden
+ckuqem | verb | redden, turn red, blush
+ckuqur | adj | reddened, ruddy, red
+cllaqe | noun | enema, injection, clyster
+cmilar | noun | chisel; cutting iron of a plane
+cmirak | adj | envious, jealous
+cmiras | verb | rate, reprove
+cmirës | adj | spiteful
+cmiroj | verb | hate
+cmirushqenjës | adj | malevolent, malicious
+cmirzi | noun | unfavourable
+cnelthin | adv | up, in the air
+cohatar | adj | in wedding attire
+cohët | adj | cloth, of cloth
+cokatës | adj | knocking; knocker
+cokël | noun | stick, twig, chip; firewood, faggots; sting
+cokullimë | noun | shout
+cokërr | noun | wooden clog
+cokloj | verb | chip, make chips
+coklla | noun | thundering, rattling, roar
+cokllas | verb | whine, whimper, moan
+cokllimë | noun | shout
+collë | noun | (in phrase) take one's leave
+compan | noun | dairyman, cheesemaker
+conagrimë | noun | cotton thread
+copaçika | adv | in little bits
+copinë | noun | bit, fragment
+copkë | noun | bit, fragment; passage, extract
+coptoj | verb | shatter
+coptuar | adj | broken; desolate, heartbroken
+coptues | adj | breaking, smashing, crushing
+copzoj | verb | shatter
+cor | noun | boy
+corife | noun | leader, leadership
+corkllimë | noun | shout
+corklloj | verb | shout
