@@ -42870,3 +42870,52 @@ dënesshëm | adj | sobbing
 dëngall | noun | pot-bellied
 dëni | noun | shrinkage, dwindling, loss
 dënimtar | adj | penal, disciplinary; punishable
+# ── mannshto.tsv ──
+dënonjës | adj | condemning; punitive; sentencing
+dëpërtim | noun | penetration
+dërbí | noun | field glass
+dërdëlis | verb | twaddle
+dërejtë | adj | straight, right
+dërgonjës | noun | errand boy, deliverer; sending, forwarding
+dërkuj | verb | dine
+dërmake | noun | bits, fragments
+dërmëçoj | verb | shatter, crush, pound
+dërmhas | verb | scatter
+dërmëhas | verb | scatter
+dërmi | noun | sherd, fragment
+dërmim | noun | shattering, crushing; thrashing
+dërmis | verb | drowse
+dërmitem | verb | drowse
+dërmish | verb | unflesh, lacerate, graze, scarify; rack, torture
+dërmishë | noun | agony, torture
+dërmitje | noun | drowsiness
+dërëmoj | verb | smash, crush
+dirmon | noun | sieve, riddle
+dërmore | noun | crowd, swarm
+dërmueshëm | adj | shattering; friable, crumbly
+dëroj | verb | endure
+dëpërtoj | verb | remove; break forth
+dërptim | noun | break-up, dissolution; penetration
+dërptoj | verb | press through, penetrate, pierce; crumble, decompose, dissolve
+dërptues | adj | penetrating
+dërptueshëm | adj | porous, permeable; soluble, friable
+dërsij | verb | sweat
+dërsim | noun | sweat, perspiration
+dërstilar | noun | fuller; fulling roller
+dërstile | noun | fulling-mill; fuller's sluice, reservoir; crushing-mill
+dërstiltar | noun | fuller
+dërtejë | noun | building
+dërthé | noun | a plant
+dërvish | noun | dervish
+dërvilosh | verb | abrade, graze, tear off flesh; tear up, rip up
+dërzí | noun | wretch, outcast
+dërrdyl | noun | fine horse, cock horse
+dërr | adj | huge, bulky, big-built
+dërrmaç | noun | crumb, speck, fragment
+dërrmac | noun | crumb, fragment
+dërrmore | noun | crowd, swarm
+dërrmoskë | noun | twisted knot, tangle
+dësh | adv | about to, on the point of
+dëshëroj | verb | desire, wish
+dëshëronjës | adj | desirous; person interested
+dëshërueshëm | adj | desirable

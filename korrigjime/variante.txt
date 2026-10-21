@@ -906,3 +906,12 @@ dezert | shkretëtirë | alternative
 dëllengjethi | dellëngethi | alternative
 dëmtonjës | dëmtues | alternative
 dëngall | dangall | alternative
+# ── Mann 1948 ──
+dëpërtim | depërtim | alternative
+dërbí | dylbi | alternative
+dërejtë | drejtë | alternative
+dërëmoj | dërrmoj | alternative
+dëroj | duroj | alternative
+dërtejë | ndërtesë | alternative
+dërvish | dervish | alternative
+dëshëroj | dëshiroj | alternative
