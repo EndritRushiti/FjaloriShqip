@@ -42654,3 +42654,69 @@ damixhan | noun | demijohn
 damie | noun | division
 damkëz | noun | small mark
 damote | noun | sea anemone
+# ── mannshto.tsv ──
+damxhan | noun | demijohn
+damzan | noun | demijohn
+danar | noun | coin
+dandalle | noun | check, hindrance, impediment, stop; affairs, troubles
+dangëli | noun | (in phrase) a big village
+danickë | noun | (in phrase) embroidered dance
+dantelë | noun | lace
+danum | noun | bogey
+dap | verb | hit, slap
+daravitem | verb | clear up
+darçin | noun | cinnamon
+dardhiçkë | noun | wild pear
+dari | noun | gift of garments the bride makes to the bridegroom's friends
+daris | verb | divide, share, distribute
+darje | noun | tambourine
+darkajkë | noun | beetroot, beet
+darkçikë | noun | first dinner given to the bride by her parents
+darkem | verb | dine
+darovi | noun | present, gift
+darovis | verb | present, regale, endow
+darovisht | adv | gratis, free, for nothing
+darzëm | noun | wedding
+darsmore | noun | woman wedding guest
+dasitje | noun | division
+daskëz | noun | kitten
+daskull | noun | flat stone, flagstone, slab
+dashligës | noun | ill-wisher
+dashligi | noun | malevolence, ill will
+dashamirsi | noun | goodwill, benevolence, kindness
+dashas | adv | purposely, on purpose
+dashekeqe | noun | ill will
+dashëm | adj | loved, beloved, preferred, desirable, dear, likable, welcome; divisible; apart
+dashë | adj | loved, beloved, dear
+dashës | adj | loving, liking; lover; adherent
+dashkeq | adj | malevolent, malicious
+dashko | noun | lamb (child's word)
+dashme | noun | beloved
+dashnim | noun | liking, will, requirement, devotion
+dashtazi | adv | purposely
+dashtnim | noun | inclination, liking, favour
+dashtnar | adj | loving; lover
+datëmadh | adj | timid
+datina | noun | (in phrase) Illyrian language
+datosur | adj | frightened; awful
+dathë | adj | barefoot
+daullë | noun | tambourine, small drum
+davi | noun | lawsuit
+davaritet | verb | (of weather) clear up
+davaritës | adj | dissipating; dissipator
+davis | verb | bring action, sue
+davisem | verb | converse
+davlos | noun | smut, black ball (on grain)
+dbathuna | noun | shoes, footwear
+dbetun | noun | offspring, progeny
+dé | interj | I say!; call to horses and oxen; would that!
+debinë | noun | early grape, sweet and yellow
+debli | noun | pastry, pie, cake
+debojë | noun | armoury; arsenal; barracks
+dec | noun | tactic, stratagem
+defendoj | verb | defend
+difter | noun | exercise book, register
+dergamë | noun | quarrel
+degarim | noun | sundering, scattering
+degaroj | verb | sunder, scatter
+degas | adv | branching out

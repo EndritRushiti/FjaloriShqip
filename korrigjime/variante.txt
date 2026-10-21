@@ -873,3 +873,11 @@ dallap | dollap | alternative
 dellendushe | dallëndyshe | alternative
 dellendrushe | dallëndyshe | alternative
 dallkë | dallgë | alternative
+# ── Mann 1948 ──
+damxhan | damixhanë | alternative
+damzan | damixhanë | alternative
+darçin | kanellë | alternative
+darje | dajre | alternative
+darkem | darkoj | alternative
+dashligës | dashakeqës | alternative
+defendoj | mbroj | alternative
