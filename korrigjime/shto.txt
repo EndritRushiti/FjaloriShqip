@@ -43545,3 +43545,39 @@ dheç | noun | decade, ten; tenth; dime
 dheçe | noun | decade, ten; tenth
 dhedije | noun | geology
 dhedhënje | noun | fruits, produce
+# ── mannshto.tsv ──
+dhekan | noun | dean
+dhekatar | noun | tithe-collector
+dhekati | noun | tenth, tithe
+dhekatis | verb | tithe
+dheks | verb | receive, accept
+dhelatar | noun | only child, spoilt child, pet, favourite; flatterer
+dhelatare | noun | spoilt girl, pet
+dhelatoj | verb | fondle, caress; flatter
+dhelkë | noun | caress; flattery
+dhelpak | adj | crafty, shrewd
+dhelpar | adj | crafty, shrewd
+dhelpri | noun | slyness
+dhellak | noun | cochineal insect
+dhemasje | noun | geometry
+dhematës | adj | geometrical; surveyor
+dhematje | noun | geometry; surveying
+dhemokrati | noun | democracy
+dhemon | noun | demon
+dhemonar | adj | fiendish, cunning
+dhengricë | noun | mineral, ore; mine
+dhentur | noun | pretender
+dherra | noun | steep mountain range
+dheshk | verb | attract, charm
+dheskës | adj | winning, charming
+dhespoti | noun | episcopal see
+dheshkresës | adj | geographical; geographer
+dheshkrimtar | adj | geographical; geographer
+dheshkronjë | noun | geography
+dheshkronjës | noun | geographer; geographical
+dhetar | adj | land-, geographical; tithe-payer
+dhetoj | verb | tithe; decimate
+dhetsh | noun | dime, tenth; ten
+dheveshtrues | noun | mythical diviner or sounder
+dhezëllimë | noun | spark
+dhëmadh | noun | molar

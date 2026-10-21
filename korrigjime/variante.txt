@@ -1033,3 +1033,7 @@ dyvjetshëm | dyvjeçar | alternative
 dhall | dhallë | alternative
 dhallt | dhallë | alternative
 dhalltë | dhallë | alternative
+# ── Mann 1948 ──
+dhekan | dekan | alternative
+dhemokrati | demokraci | alternative
+dhëmadh | dhëmballë | alternative
