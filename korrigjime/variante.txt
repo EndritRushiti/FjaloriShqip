@@ -1054,3 +1054,8 @@ dhimpsun | dhembshur | alternative
 dhimpshur | dhembshur | alternative
 dhimshuri | dhembshuri | alternative
 dhioli | violinë | alternative
+# ── Mann 1948 ──
+dhioqezë | dioqezë | alternative
+dhiplomat | diplomat | alternative
+dhiplomatik | diplomatik | alternative
+dhipllos | palos | alternative

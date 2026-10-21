@@ -43635,3 +43635,41 @@ dhimshuri | noun | pity
 dhimtë | noun | pain; compassion
 dhimtme | noun | wound
 dhioli | noun | violin
+# ── mannshto.tsv ──
+dhioqezë | noun | diocese
+dhiori | noun | limit, boundary
+dhioris | verb | set a limit
+dhiosëm | noun | mint
+dhiosme | noun | mint
+dhiozm | noun | mint
+dhiplomat | noun | diplomat
+dhiplomatik | adj | diplomatic
+dhipllos | verb | fold
+dhiqelë | noun | cloven hoe, two-pronged fork
+dhizë | noun | kid
+dhjaforeps | verb | win
+dhjamët | adj | fatty, tallow, fat
+dhjamsi | noun | fattiness
+dhjatoj | verb | will away, bequeath
+dhjavas | verb | read
+dhjetun | noun | two-year-old he-goat
+dhjozmë | noun | mint
+dhogëpunonjës | noun | board-maker
+dhogëri | noun | timbering, woodwork
+dhogët | adj | of boards, of planks, boarded
+dhokanik | noun | crutch; staff, stick
+dhokimas | verb | try
+dhokimi | noun | effort
+dhoksë | noun | glory
+dhoksoman | adj | majestic
+dhoktë | adj | of boards
+dhomështrues | noun | decorator
+dhomzë | noun | cell, chamber
+dhonati | noun | ornament, brooch; get-up, finery
+dhoprëkuom | adj | dropsical
+dhopërkuom | adj | dropsical
+dhropiqasur | adj | dropsical
+dhropiqi | noun | dropsy
+dhrosis | verb | refresh, freshen; soothe, calm
+dhumis | verb | crumble
+dhunëti | noun | compassion
