@@ -788,3 +788,9 @@ cyrle | cirle | alternative
 çallëm | çallme | alternative
 çallëndis | çallëstis | alternative
 çamtë | çantë | alternative
+# ── Mann 1948 ──
+çangall | çakall | alternative
+çapëri | çapari | alternative
+çaprashi | ngatërrim | alternative
+çardhak | çardak | alternative
+çardo | çfarëdo | alternative

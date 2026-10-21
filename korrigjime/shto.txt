@@ -42089,3 +42089,39 @@ cyrle | noun | thrush
 çamje | noun | titmouse; split, cleft
 çamtë | noun | bag
 çanakalajë | noun | Dardanelles
+# ── mannshto.tsv ──
+çançë | noun | trifling, nonsense
+çangall | noun | jackal
+çanjës | adj | incisive
+çaparkë | noun | small ribbon
+çapare | noun | castanet, clapper
+çaparoz | noun | a plant
+çapell | noun | string of dried figs
+çapër | noun | (in phrase) a large family
+çapëri | noun | confusion
+çapërtisem | verb | brawl, bluster
+çaplej | verb | stride; open the eyes wide
+çapli | noun | buttress, pier
+çaplim | noun | stepping, pacing, stalking; straddling, splaying
+çaplloj | verb | tear up, rend; split, halve; eat noisily
+çaprak | noun | ornament worn by women on the shoulders
+çapras | noun | braid on the collar of a jacket; gibberish, rot
+çaprashi | noun | confusion, tangle
+çaprashis | verb | confuse, tangle; jog the feet; twaddle; stagger, reel; rave
+çaprashitës | adj | wandering, raving
+çaprej | verb | divide, disunite
+çapruk | adj | short, dapper, comical
+çaprukal | adj | short, comical
+çapue | noun | claw, talon
+çepue | noun | claw, talon
+çpue | noun | claw, talon
+çapull | noun | interest
+çaranik | noun | buttery
+çardhak | noun | veranda
+çardo | pron | whatever
+çarkalloz | noun | pink, carnation
+çarllatan | noun | charlatan, quack
+çarllatoj | verb | act the charlatan
+çarmatis | verb | disarm
+çarmatisje | noun | disarmament
+çarok | adj | young, fresh
