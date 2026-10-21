@@ -727,3 +727,17 @@ bushoj | bubulloj | alternative
 butazi | butë | alternative
 buteke | dyqan | alternative
 buxë | sup | alternative
+# ── Mann 1948 ──
+buzhlizë | bishlizë | alternative
+byber | piper | alternative
+bymoj | bymej | alternative
+byrdi | urdhër | alternative
+bujurdi | urdhër | alternative
+byrrylë | bërryl | alternative
+bzhingë | bushikë | alternative
+calatë | çallatë | alternative
+caliq | calik | alternative
+canzë | mushkonjë | alternative
+caragë | carragë | alternative
+carraqe | carroke | alternative
+cboj | dëboj | alternative

@@ -41710,3 +41710,65 @@ buzëdele | noun | spurge
 buzëderr | adj | hare-lipped
 buzëholle | noun | shrew, vixen
 buzëkërveshë | adj | grinning
+# ── mannshto.tsv ──
+buzëpremë | adj | hare-lipped
+buzërafsh | noun | a river fish
+buzëtore | noun | labial sound
+buzëvajë | noun | sneak
+buzëvarrët | adj | glum, downcast
+buzëzezë | adj | black-lipped
+buzinë | noun | swamp
+buzoç | adj | blubber-lipped
+buzqesh | verb | smile
+buzhel | adj | plump, stout
+buzhgare | noun | pod
+buzhlizë | noun | a plant
+byber | noun | pepper
+bylbyroj | verb | croon
+byle | noun | testicle
+bylmej | verb | refine, polish
+bymeskë | noun | small flower bud
+bymehem | verb | expand, swell; thrive
+bymesë | noun | swelling; expansion
+bymoj | verb | inflate
+byrdi | noun | order, decree
+bujurdi | noun | order, decree
+byrmetoj | verb | smear, grease, butter
+byrrylë | noun | elbow
+byshkë | noun | copse, wood
+bysylek | noun | basil
+bythkrromë | noun | sweet briar
+bythmëngjër | adj | moody, cross
+bythprapa | adv | backwards, reversed
+bythpule | noun | hard skin, weal
+bzhingë | noun | bladder
+cabik | noun | rolling pin
+cacar | noun | broad comb
+cagarele | noun | thin slice, paring, little bit
+cakmak | noun | twenty-para piece
+cakmas | noun | cheese maker; dairyman
+cakrri | noun | trifle; smallware, oddments
+cakth | noun | a plant
+calatë | noun | breastplate
+calikth | noun | crop of a bird
+caliq | noun | skin bottle
+calisem | verb | sink, open up (of the earth); trudge along
+callakoj | verb | crush, crumple
+cambinë | noun | bagpipes
+cambur | noun | small bunch of grapes
+camburë | adj | badly equipped; ragged, tattered
+canzë | noun | mosquito
+caplim | noun | tread, trudging
+caprihem | verb | be troubled, confused
+caragë | noun | herring
+carankth | noun | prickly plant with pink flowers
+carkyfte | noun | lump, clot
+caruge | noun | a garment
+carragë | noun | herring; kipper
+carraqe | noun | lass
+carris | verb | drag, pull, trail along; raise
+cboj | verb | chase away
+cegë | noun | blame
+cegoj | verb | blame
+cehe | noun | mine, pit, shaft
+cehtar | noun | miner
