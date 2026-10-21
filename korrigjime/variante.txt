@@ -1029,3 +1029,7 @@ dyllëndyshe | dallëndyshe | alternative
 dynes | dënes | alternative
 dyshmoj | dyshoj | alternative
 dyvjetshëm | dyvjeçar | alternative
+# ── Mann 1948 ──
+dhall | dhallë | alternative
+dhallt | dhallë | alternative
+dhalltë | dhallë | alternative

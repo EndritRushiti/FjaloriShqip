@@ -43523,3 +43523,25 @@ dyzetkëmbël | noun | centipede
 dyzetsh | adv | in forties; two score
 dyzina | noun | reins
 dyzore | noun | double-barrelled gun
+# ── mannshto.tsv ──
+dhaimon | noun | demon, fiend
+dhaimonis | verb | bedevil
+dhaimonisht | adv | fiendishly
+dhaja | adv | just, exactly
+dhallanik | adj | of buttermilk; pudding of buttermilk, eggs and flour
+dhall | noun | buttermilk
+dhallt | noun | buttermilk
+dhalltë | noun | buttermilk
+dhamakëroj | verb | publish
+dhamaksi | noun | public
+dhamakshtuni | noun | auction sale
+dhambir | noun | vampire
+dhanaroj | verb | despair
+dhapëroj | verb | use, consume
+dhartë | noun | catastrophe
+dhaskall | noun | teacher
+dhaskaleshë | noun | woman-teacher
+dheç | noun | decade, ten; tenth; dime
+dheçe | noun | decade, ten; tenth
+dhedije | noun | geology
+dhedhënje | noun | fruits, produce
