@@ -40396,3 +40396,220 @@ asesi | adv | at all, by any means
 asë | interj | eh? isn't it?
 asëndonje | pron | none
 asgan | adj | proud, arrogant
+# ── mannshto.tsv ──
+asgjametë | conj | nevertheless
+asgjasim | noun | nullification
+asgjasoj | verb | nullify
+asikohe | adv | at that time
+asish | pron | of them (ablative)
+asjatër | adj | neutral; neuter (grammar)
+asjatërsi | noun | neutrality
+askath | noun | kedge anchor; sty in the eye; dried fig
+aski | noun | brace strap
+askurkund | adv | nowhere
+asndokush | pron | anybody, nobody
+asovi | noun | godlessness, atheism
+aspakët | adj | null, non-existent
+aspidhë | noun | asp; shield
+aspik | adv | not at all
+aspó | adv | oh? indeed? well!
+asqiti | noun | hermit
+astal | noun | table
+astanik | noun | architrave; capital of a pillar
+astapodh | noun | a kind of fish
+asterë | noun | small coin
+astërk | noun | paving, flagstones
+astragaç | noun | rolling board, pasteboard
+ashash | noun | opium poppy
+ashashkë | noun | opium poppy
+ashqë | noun | chip, splinter
+ashkëz | noun | tanbark; a medicinal tree
+ashkëtore | noun | hermitage
+ashklim | noun | chipping; scratch
+ashkloj | verb | chip
+ashpërt | adj | rough; bitter; harsh
+ashpërti | noun | seed of cultivated plants
+ashpresë | noun | roughness, harshness; gruffness
+ashpri | noun | roughness, harshness
+ashprim | noun | roughness, harshness
+ashprisht | adv | gruffly, harshly, bitterly
+ashproj | verb | roughen, coarsen; make harsh
+ashtër | noun | small coin
+ashtët | adj | of bone
+ashtni | noun | skeleton
+ashtnim | noun | ossification; formation of bones
+ashtnoj | verb | turn to bone, ossify
+ashtnore | noun | ossuary
+ashtnues | adj | bone-forming
+ashtúthin | adv | thus, so
+ashtull | noun | winter fodder; winter pasture
+ashur | noun | pudding with walnuts eaten in the Ashura ceremony
+atbotshëm | adj | then, of that time
+atças | adv | then, thereupon
+atçast | adv | then, thereupon
+atdheshëm | adj | patriotic
+atéj | adv | from there, thence; over there
+atéja | adv | from there, thence
+atejna | adv | from there
+atejza | adv | from there
+atejmë | adj | of the far side
+atejshëm | adj | of the far side
+atëherenaj | adv | then
+atëhernaj | adv | then
+atëlosh | noun | grandfather
+atëresë | noun | homeland
+atërisht | adv | paternally
+atëtrat | adv | thereupon, forthwith
+atgjysh | noun | ancestor
+atill | adj | strong, able, sinewy
+atillmeni | noun | strength, stalwartness
+atillët | adj | valiant
+atilli | pron | such
+atilltar | noun | champion, athlete
+atina | pron | to him
+atjénaj | adv | there
+atjenë | adv | there
+atkohë | adv | then
+atmetar | noun | patriot
+atmi | noun | patriotism
+atni | noun | paternity, fatherhood
+atnisht | adv | in a fatherly way
+atpó | adv | just as
+atragë | noun | marking of a horse
+atsi | noun | fatherhood, paternity
+atvrasës | noun | parricide (person)
+atvrasi | noun | parricide (act)
+atý | adv | there, just there
+atydej | adv | recently
+atylashti | adv | formerly
+atynë | noun | paternoster, the Lord's Prayer
+atyparet | adv | nearby, round there, thereabouts
+atyshpejt | adv | recently, a short while ago
+atyshpejti | adv | recently
+athanas | noun | a plant (like parsley)
+athenjot | noun | Athenian
+atherë | noun | fine flour
+athëris | verb | anger, rile
+athti | noun | tartness
+au | interj | oh!
+augur | noun | omen, augury
+augurtar | noun | seer, augurer
+aull | noun | steam
+aullis | verb | bellow, roar
+aullitje | noun | bellowing, roaring
+austër | noun | south
+automobilizmë | noun | motoring
+autoritat | noun | authority
+auz | noun | cricket
+avallohem | verb | lust for
+avân | noun | tyrant
+avani | noun | tyranny
+avdesanë | noun | place for ritual ablutions
+avermë | noun | leather thong on a sandal
+avermoj | verb | secure with a thong
+avëlmënt | noun | loom
+avgullon | noun | salve of egg white, oil and alum
+avisë | noun | abyss, precipice
+avitës | adj | approaching
+avlemend | noun | loom
+avlle | noun | yard, court
+avokatsi | noun | the legal profession
+avram | adv | together, in a mass; crowd, cluster
+avrapë | noun | moustache; hairy excrescence
+avret | noun | devil
+avukat | noun | lawyer
+avullani | noun | steamship, steamer
+avullorsi | noun | fleet
+avullqerre | noun | railway carriage; steamboat
+avullsoj | verb | dim, cloud over
+avullshëm | adj | vaporous, volatile
+avushë | noun | depth, abyss
+avys | noun | abyss, depth
+axima | noun | Passover
+babackë | noun | daddy
+babesjellë | noun | a cattle disease
+babgjysh | noun | great-grandfather
+babis | verb | separate mother and child after birth; flee from contagion; recover
+babitës | noun | assistant at a birth
+bablok | noun | daddy; stupid, dotty
+babune | noun | heap of grain; grain measure
+babzi | noun | greed, gluttony; avarice
+ayshi | noun | quality, essence
+az | noun | hamster
+azdis | verb | pluck up courage; prance
+azganis | verb | oppose
+aznë | noun | treasure, storehouse; vocabulary
+azhë | noun | maternal uncle
+badanë | noun | whitewash
+badbadbad | noun | game of hunt the slipper
+bademë | noun | a kind of pastry, tart
+badërdis | verb | destroy
+badjava | adv | gratis, for nothing
+bafë | noun | a fish like the mullet
+bagá | noun | large tray
+baganace | noun | coarse maize bread; lazy girl
+bagaraçe | noun | dustbin, rubbish pail
+bagdanos | noun | parsley
+bagloj | verb | dung, manure
+bagraç | noun | petrol can
+bagtisht | adv | like a beast
+bagjëm | noun | chrism
+bahetar | noun | slinger
+bahre | noun | pond, pool; well with drinking water
+bajazë | noun | kingfisher; water bird
+bajezë | noun | water bird
+bajë | noun | bogey, scarecrow
+bajëlldisem | verb | faint
+bajlozni | noun | embassy
+bajmak | adj | bandy-legged
+bajnë | noun | skylight, ventilator, porthole
+bajtë | noun | mud
+bajtës | noun | carrier, porter
+bajtshëm | adj | portable
+bajth | noun | groin
+bajun | noun | variety of black fig
+bakala | noun | salt cod
+bakallah | noun | salt cod
+bakallanë | noun | grocer's shop
+bakara | noun | a card game
+bakardar | noun | porridge
+bakçë | noun | garden
+ballkam | noun | brazilwood
+bakrra | noun | bag and baggage
+balaço | noun | rascal, scamp, vagabond
+balak | noun | coward; cowardly, timid
+balcam | noun | balm
+balcamos | verb | embalm, anoint
+balcë | noun | balm
+balcij | verb | sweat cold
+balcoj | verb | bound, rebound, bounce, leap
+balçë | noun | balsam; braces, belt
+balçmoj | verb | anoint, embalm
+baldaq | noun | pall
+baldos | noun | badger; wild man
+baletë | noun | ballet
+balik | noun | white-spotted dog
+balku | noun | a plant
+balkue | noun | balcony
+balmuq | noun | leaf fat, unmelted lard
+balok | noun | horse with white marks on mouth and feet
+ballsam | noun | balm
+balsamët | adj | balmy
+baltecë | noun | ditch with water
+baltët | adj | muddy; earthen
+baltëz | noun | a carnivore like the badger
+balti | noun | mud; fen
+balticë | noun | mud; fen
+baltinë | noun | mud
+baltishte | noun | mudbed, muddy place
+baltomë | noun | mud, filth
+baltovicë | noun | muddy place, muddy way
+baltuke | noun | mudbed
+balu | noun | bale
+balun | noun | a crustacean
+balustër | noun | running board
+ball | noun | forehead
+ballaballët | adj | opposite
+ballakas | verb | (in a phrase) gallop
+ballancë | noun | balance
+ballancoj | verb | balance
