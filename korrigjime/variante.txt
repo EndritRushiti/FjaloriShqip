@@ -957,3 +957,14 @@ djallzisht | djallëzisht | alternative
 djamant | diamant | alternative
 djathtash | djathtas | alternative
 djeçëm | djeshëm | alternative
+# ── Mann 1948 ──
+djerzë | djersë | alternative
+djethi | dje | alternative
+djéthin | dje | alternative
+djéthinaj | dje | alternative
+djoqez | dioqezë | alternative
+dlirë | dëlirë | alternative
+dlirsi | dëlirësi | alternative
+dnaltë | lartë | alternative
+dnes | dënes | alternative
+dnesë | dënesë | alternative

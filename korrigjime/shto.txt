@@ -43081,3 +43081,48 @@ djegsi | noun | combustion
 djegsim | noun | burning; irritation
 djegtar | noun | incendiary
 djegurina | noun | fuel
+# ── mannshto.tsv ──
+djehe | noun | yesterday
+djejtë | adj | yesterday's
+djelmtëri | noun | boyhood, youth
+djembrëma | adv | last night
+djemënatë | adv | yesterday morning
+djemnaq | adj | furious, wild
+djemnohem | verb | rage, be possessed
+djergim | noun | confinement, childbed
+djergni | noun | confinement, childbed
+djergsore | noun | woman in labour
+djerzë | noun | sweat
+djersohem | verb | sweat
+djersim | noun | sweating, perspiration
+djerraditë | adj | idle, loafing
+djerraditës | noun | idler, loafer
+djerraditëz | noun | drone
+djerrës | noun | beech marten
+djestnisem | verb | take one's leisure
+djet | noun | cost, price, value
+djethi | adv | yesterday
+djéthin | adv | yesterday
+djéthinaj | adv | yesterday
+djoqez | noun | diocese
+djorë | noun | poor darling, waif
+dlesë | noun | pity, compassion
+dlirë | adj | pure
+dlirim | noun | delivery; cleansing, purge
+dliroj | verb | deliver, free; cleanse, purge
+dlirse | noun | cleaner, wiper
+dlirsi | noun | purity
+dlirsim | noun | purification, purge
+dlirsoj | verb | cleanse, purge
+dlirshëm | adj | cleanable
+dlirtas | adv | cleanly, clearly
+dlirtë | adj | pure
+dlirtësi | noun | purity; chastity
+dllac | noun | grape resembling muscatel
+dnaltë | adj | high
+dnes | verb | sob
+dnesë | noun | sob
+dob | adj | easy
+dobarem | adv | at least
+dobë | adj | weak; rough, coarse, illshapen
+dobërdac | noun | tramp, vagabond, brigand
