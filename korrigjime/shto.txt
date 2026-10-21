@@ -42919,3 +42919,43 @@ dësh | adv | about to, on the point of
 dëshëroj | verb | desire, wish
 dëshëronjës | adj | desirous; person interested
 dëshërueshëm | adj | desirable
+# ── mannshto.tsv ──
+dëshiratë | noun | object of desire
+dëshironjës | adj | desirous
+dëshirtar | noun | suitor
+dëshmimtar | noun | witness; martyr
+dëshminjeni | noun | testimony
+dëshpëlqej | verb | displease
+dëshpënoj | verb | blot out
+dëshpréhem | verb | despair
+dëshprim | noun | despair
+dëshprimtar | adj | pessimistic, despairing; pessimist
+dështi | noun | miscarriage; failure
+dështonjës | adj | abortive
+dështyrë | noun | premature child, abortion
+dëtoj | verb | oblige
+dëvëntor | noun | mortise
+dëvorë | noun | snow
+dëvorr | noun | broad plain
+diamand | noun | diamond
+dibâ | noun | silk material
+dibloj | verb | enfeeble, deprive of senses
+diblohem | verb | faint, swoon
+diblueshëm | adj | given to fainting; about to faint
+dic | noun | magician, diviner
+dicili | pron | somebody
+diçkahe | noun | something
+diekeq | adj | wicked, evil
+diellindje | noun | east
+diellzoj | verb | sun, ripen in the sun
+diersem | verb | sweat, perspire
+dierr | verb | waste, ruin; condemn
+dies | noun | learned man, savant
+dietar | noun | scholar
+dif | noun | giant, monster
+difis | verb | ruin
+difisem | verb | be exhausted; despair
+diftore | noun | indicative (grammar)
+diftheri | noun | diphtheria
+dig | noun | big log
+digan | noun | frying pan

@@ -915,3 +915,12 @@ dëroj | duroj | alternative
 dërtejë | ndërtesë | alternative
 dërvish | dervish | alternative
 dëshëroj | dëshiroj | alternative
+# ── Mann 1948 ──
+dëshpréhem | dëshpërohem | alternative
+dëshprim | dëshpërim | alternative
+dëtoj | detyroj | alternative
+dëvorë | dëborë | alternative
+diamand | diamant | alternative
+dietar | dijetar | alternative
+diftheri | difteri | alternative
+digan | tigan | alternative
