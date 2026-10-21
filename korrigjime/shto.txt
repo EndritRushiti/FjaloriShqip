@@ -42011,3 +42011,38 @@ cungari | noun | maiming, crippling, deformation
 cunglloj | verb | lop off, maim
 cunguritem | verb | grow together; accrue
 cupar | verb | break out (of disease)
+# ── mannshto.tsv ──
+cërlek | noun | plantain
+cunoj | verb | push
+curile | noun | tambourine
+curill | noun | spout
+curlar | noun | kettledrumstick
+curlek | noun | icicle
+curlluk | noun | a bird
+curulatem | verb | swing, seesaw
+curuna | noun | purling, bubbling of a fountain
+curunar | noun | purling, bubbling
+currli | noun | tufted lark
+cuzgal | noun | shoring pole, prop
+cvar | verb | drag, trail
+cvarr | verb | drag, trail
+cvaris | verb | drag
+cvarnisem | verb | grovel
+cvarranik | adj | grovelling; wretched
+cvarros | verb | drag; follow a trail
+cvarrosje | noun | drag, trail
+cvetoj | verb | glare at, scowl at
+cvjerdhës | adj | nauseating, sickening, revolting
+cvjerdhje | noun | disgust, nausea
+cvjerdhshëm | adj | distasteful, disgusting
+cvjerdhur | adj | abominable
+cvordhun | noun | weaning
+cyllak | noun | tube
+cyrle | noun | thrush
+çaçanik | noun | walnut shell
+çackë | noun | skull; coffee cup
+çado | pron | something, anything
+çafël | noun | (in phrase) make a mess
+çafërlis | verb | confuse, disarrange; rend, tear
+çafërlitje | noun | disorder, confusion, mess
+çafkallore | noun | a bird

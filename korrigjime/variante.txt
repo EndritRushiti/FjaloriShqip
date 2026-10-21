@@ -776,3 +776,10 @@ cpërkas | spërkat | alternative
 cqufur | squfur | alternative
 cragë | carragë | alternative
 cukar | sheqer | alternative
+# ── Mann 1948 ──
+cërlek | curlek | alternative
+cunoj | cus | alternative
+curile | cule | alternative
+curill | curril | alternative
+cyllak | cyllë | alternative
+cyrle | cirle | alternative
