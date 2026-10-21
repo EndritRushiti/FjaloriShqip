@@ -42959,3 +42959,33 @@ diftore | noun | indicative (grammar)
 diftheri | noun | diphtheria
 dig | noun | big log
 digan | noun | frying pan
+# ── mannshto.tsv ──
+dijekeqe | noun | wily woman
+dijekeqi | noun | wickedness, subtlety, villainy; hypocrisy
+dijes | noun | scholar, savant
+dikafshë | pron | something, anything
+dikah | adv | (from) somewhere, (from) anywhere
+dikdrejtë | adv | straight as a pikestaff
+dikret | noun | decree
+dikushi | pron | somebody
+dilgoj | verb | hear
+ndlegoj | verb | hear
+ndëlgoj | verb | hear
+glëgoj | verb | hear
+dillzoj | verb | sun
+dimarak | adj | wintry
+dimnore | noun | winter quarters
+dimon | noun | demon, devil
+dind | verb | move, lift, raise
+dindem | verb | start, jump
+dingosem | verb | get crammed
+dinoke | noun | shrewd woman
+dinjar | verb | dignify
+dinjitat | noun | majesty
+dinju | adj | worthy
+dioqez | noun | diocese
+dipllomaci | noun | diplomacy
+dipllomat | noun | diplomat
+dhipllomat | noun | diplomat
+dipllomë | noun | diploma
+diqan | noun | shop
