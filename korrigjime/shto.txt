@@ -43704,3 +43704,36 @@ egroj | verb | run wild, get savage; enrage, exasperate
 egjyptas | noun | Egyptian
 egjyptologji | noun | Egyptology
 ehêng | noun | merry-making
+# ── mannshto.tsv ──
+ehnj | verb | sharpen
+ejter | noun | tomb
+ejulim | noun | lament, wailing
+ejuloj | verb | lament, wail
+eksekutim | noun | execution
+eksekutoj | verb | execute
+eksempio | noun | example
+eksiq | adv | short, not enough
+ekuinatë | noun | equinox
+helb | noun | barley
+jelp | noun | barley
+erbarozë | noun | rose-leaf geranium
+elbasankë | noun | Elbasan woman
+elbërishte | noun | barley-field
+elbët | adj | barley-
+elbëz | noun | barleycorn; sty on the eye
+elefand | noun | elephant
+elefantinë | noun | ivory
+elejmosinë | noun | alms
+elemine | noun | winding-machine, cotton-jenny
+eleminje | noun | wharf, slip
+elm | noun | poison
+elmazë | noun | diamond
+elpizë | noun | sideboard
+elpth | noun | sty
+ell | noun | crust of ice; icicle
+ëmbër | noun | name
+embull | noun | rope, tackle
+emera | noun | order, command
+ëmër | noun | name
+emërlig | adj | notorious
+emërtore | noun | nominative (grammar)

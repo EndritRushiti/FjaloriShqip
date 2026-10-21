@@ -1070,3 +1070,13 @@ egërcoj | egërsoj | alternative
 egjyptas | egjiptian | alternative
 egjyptologji | egjiptologji | alternative
 ehêng | aheng | alternative
+# ── Mann 1948 ──
+eksekutim | ekzekutim | alternative
+eksekutoj | ekzekutoj | alternative
+helb | elb | alternative
+jelp | elb | alternative
+elefand | elefant | alternative
+elm | helm | alternative
+elpth | elbth | alternative
+ëmbër | emër | alternative
+ëmër | emër | alternative
