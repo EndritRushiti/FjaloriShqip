@@ -1080,3 +1080,8 @@ elm | helm | alternative
 elpth | elbth | alternative
 ëmbër | emër | alternative
 ëmër | emër | alternative
+# ── Mann 1948 ──
+ené | edhe | alternative
+endé | edhe | alternative
+éngjull | engjëll | alternative
+enqiklopedi | enciklopedi | alternative

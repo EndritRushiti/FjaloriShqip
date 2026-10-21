@@ -43737,3 +43737,39 @@ emera | noun | order, command
 ëmër | noun | name
 emërlig | adj | notorious
 emërtore | noun | nominative (grammar)
+# ── mannshto.tsv ──
+endemije | noun | reel, spindle
+endemitës | noun | reel, spindle
+endirë | noun | desire, yearning, longing; pleasure
+ené | conj | and
+endé | conj | and
+enemi | noun | reel, spindle
+enëz | noun | capsule, receptacle, sac, vesicle; olive blossom
+englendisem | verb | enjoy oneself, amuse oneself
+engletisem | verb | amuse oneself, pass the time
+engléz | adj | English; Englishman
+engléze | noun | Englishwoman
+engje | noun | woman who introduces the bride to the bridegroom
+éngjull | noun | angel
+engjëllushkë | noun | little angel
+engjiner | noun | engineer
+enqiklopedi | noun | encyclopedia
+enteri | noun | bodice or short waistcoat with sleeves
+entëm | adj | woven
+epërt | adj | top
+epoçkë | noun | child that likes to be alone
+epshim | noun | passion; derangement, trouble
+eqkë | noun | skate
+erakap | noun | fan
+eranije | noun | airship
+erashi | noun | fan
+eratis | verb | perfume, scent
+eratoj | verb | perfume, scent
+erdhëngem | verb | thrive
+ered | noun | heir
+ereditat | noun | offspring
+eremi | noun | desert; hermit
+eremqë | noun | coarse bran
+eremtari | noun | hermitage
+erende | noun | grater, rasp
+ereni | noun | winnowing-fan; system
