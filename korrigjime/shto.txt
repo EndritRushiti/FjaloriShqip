@@ -41086,3 +41086,107 @@ blaq | noun | fool, silly person
 bllatim | noun | sacrifice
 blatishtë | noun | swamp, fen, marsh
 blehem | verb | be bought
+# ── mannshto.tsv ──
+blegras | verb | bleat; neigh; low
+blegroj | verb | bleat
+blegris | verb | bleat
+blegrim | noun | bleating; hum of bees
+blegrimë | noun | bleating
+blegtari | noun | shepherds as a class; sheep farming
+blegtorar | adj | pastoral, of shepherds
+blegtore | adj | pastoral, bucolic
+blegtoreshë | noun | shepherd's song; shepherdess
+blejs | noun | buyer
+blejtshëm | adj | purchasable
+blemje | noun | purchase
+blemës | noun | buyer
+blenoj | verb | sew together in sections
+blensë | noun | paunch
+blerak | adj | greenish
+blerkë | noun | purchase
+blerueshëm | adj | verdant
+bles | noun | purchaser, buyer
+bleshëm | adj | purchasable; bribable
+bletakeqas | adv | terribly, painfully
+bletëri | noun | bee-keeping, apiculture
+blezurë | noun | protozoan
+bligoj | verb | sprinkle, moisten
+blikë | noun | prop
+bloj | verb | cover
+blok | noun | block
+blokë | noun | withered tree; kindling wood; sweepings; inflammation
+blokra | noun | kindling wood
+blokoj | verb | block
+blore | noun | sling
+vlore | noun | sling
+bloshkë | noun | fir cone
+blozhë | noun | moth
+blozhëm | noun | sawdust
+blozhët | adj | charred
+blozhurinë | noun | sawdust, filings
+bluashkë | noun | chip, splinter; splint
+bludë | noun | dish, platter; scum on stale wine; tasteless
+blude | noun | dish, platter
+bluejës | adj | grinding, molar; chewing; ruminant
+bluitës | adj | grinding
+blues | adj | grinding; digestive
+blurinë | noun | glazed earthenware
+blush | noun | plush, velvet
+bllaçis | verb | chew
+bllaçthëni | noun | blasphemy
+bllatkë | noun | small swamp
+bllatoj | verb | offer
+bllog | noun | nest
+bllore | noun | chip
+blloshkë | noun | chip of wood, splint; bark
+blluditem | verb | wander
+blluditje | noun | wandering
+bllushtër | noun | monster, bogey; salamander
+blluzgë | noun | bubble, blister
+bobereshë | noun | ant
+bobël | noun | nettle tree
+bobole | noun | nettle tree; date plum; snail shell
+boboll | noun | maize, esp. boiled
+bobollë | noun | maize, esp. boiled
+boboricë | noun | beetle, bug; dung beetle; insect
+boboshtar | noun | native of Boboshtica
+bocar | noun | bottle maker
+bocung | noun | blockhead, idiot; stupid
+bocel | noun | cask, tub
+bociel | noun | keg
+bocu | noun | bottle, flask (in a basket)
+boçkalith | adv | brightly
+bodile | noun | bottle
+bodorike | noun | variety of plum
+bogaçë | noun | flat loaf
+bogalë | noun | night pot
+boganik | noun | cake for a newborn
+bogaris | verb | dry, shrivel
+bugaris | verb | dry, shrivel
+bogëz | noun | salt cellar; salt mine
+bogorr | noun | tufa stone
+bogjël | noun | core of a maize cob
+boh | noun | boa
+bohri | noun | great passion; summer heat
+bojak | adj | stale
+bojgjak | adj | eager, keen
+bojim | noun | painting, decoration
+bojli | noun | large sweet variety of cherry
+bok | noun | louse egg
+bokolin | adj | weakly, puny; small, insignificant; paltry
+bokrri | noun | bare cliff, crag, bare hillside, rocky country
+bokrrimë | noun | bare cliff, rocky country
+bokrrinë | noun | bare cliff, rocky country
+bokëri | noun | bare cliff, rocky country
+bokshë | noun | bundle
+bollkë | noun | little shirt; bodice
+bollsharde | noun | snake larger than the bollë
+bollshevik | adj | Bolshevik
+bollshevizëm | noun | Bolshevism
+bollujcë | noun | grass snake
+bomb | noun | bowler hat
+bombardis | verb | bomb, bombard, shell
+bombardisje | noun | bombardment, shelling
+bombic | noun | silkworm
+bombik | noun | silk moth
+bombyks | noun | silk cocoon
