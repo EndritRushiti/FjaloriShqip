@@ -1009,3 +1009,7 @@ drubetë | trumbetë | alternative
 # ── Mann 1948 ──
 dubitoj | dyshoj | alternative
 duo | dua | alternative
+# ── Mann 1948 ──
+dullak | dollak | alternative
+dulli | dëllinjë | alternative
+durbi | dylbi | alternative

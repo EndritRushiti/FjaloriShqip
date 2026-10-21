@@ -43392,3 +43392,36 @@ dugme | noun | catch, ratchet
 dugog | noun | a fish
 dugulis | verb | tickle
 dugulisje | noun | tickling
+# ── mannshto.tsv ──
+duhëm | noun | oppressive heat, mugginess; outburst, attack, trouble, anxiety; thunderstorm
+duhme | noun | oppressive heat; the necessary, duty
+duhët | adj | necessary, due, proper
+duhishëm | adj | stormy, blusterous
+duhshëm | adj | necessary
+dukël | noun | apparition
+dukme | noun | apparition; phenomenon
+dukoj | verb | beat, thrash; lurk for, waylay
+dukóhem | verb | sob
+duksë | noun | kind, sort; apparition
+duksi | noun | phenomenon
+dulbezë | noun | sheep scab affecting the nose
+dulfi | noun | dolphin
+dulpëk | adj | double
+dulpëkoj | verb | double, duplicate
+dulti | noun | potter's clay, argil
+dultinë | noun | potter's clay, argil
+dulur | noun | sorrow, pain
+dullak | noun | gaiter
+dulli | noun | juniper
+dumarac | adj | short, dapper, stout
+dumas | verb | think out
+dumatem | verb | imagine, fancy
+dumash | noun | satin
+dumbrê | noun | oak forest
+dume | noun | corn measure; corn tax; popgun
+dunk | adj | one-handed
+dup | noun | medallion, pendant
+dupjo | adj | double
+duqetë | noun | knapsack
+durbi | noun | field glass
+durd | adj | curtailed, docked; sturdy; sturdy child
