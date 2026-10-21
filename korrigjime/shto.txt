@@ -42381,3 +42381,104 @@ cyrle | noun | thrush
 çkallua | noun | graft; shoot
 çkalluar | adj | raving, wild, violent, irresponsible
 çkanos | verb | untin
+# ── mannshto.tsv ──
+çkapërxim | noun | excess
+çkarkesë | noun | disburdenment
+çkënaqsi | noun | discontent
+çkilifi | noun | kind of finch
+çkis | verb | tear; take out, throw out
+çklepëz | noun | scale
+çkoklavis | verb | unravel
+çkolis | verb | unfasten, undo
+çkolitem | verb | get unstuck, get separated
+çkollomendo | noun | madness
+çkombsim | noun | denaturalisation
+çkombsoj | verb | denaturalise
+çkopsis | verb | unbutton
+çkoq | verb | take out the grains, shuck, ripple; explain
+çkoqis | verb | explain, analyse; go into, discuss, thrash out
+çkoqitje | noun | explanation; details, particulars; discussion
+çkoqur | adj | clear, distinct, explicit; separate
+çkoqët | adj | clear, distinct
+çkreh | verb | release, unload
+çkrehje | noun | release
+çkrehur | adj | loose, free, unrestrained, riotous; racked, undermined
+çkrehure | noun | gunshot
+çkrej | verb | fire, discharge
+çkridhem | verb | emerge
+çkridhje | noun | emersion
+çkriftoj | verb | snort
+çkrij | verb | melt
+çkrirje | noun | melting, liquefaction
+çkrymp | verb | disinfect, get rid of vermin
+çkyhem | verb | (in phrase) burst out laughing
+çlëvoroj | verb | peel; unbark; shell, husk
+çllesë | noun | plunger of a butter churn
+çmendore | noun | madhouse, lunatic asylum
+çmeris | verb | astonish, surprise, amaze
+çmeritës | adj | astounding, surprising
+çmeritshëm | adj | astounding
+çmers | noun | limestone
+çmersh | noun | limestone
+çmëz | noun | limestone
+çmerset | adj | limestone
+çmëndsi | noun | madness
+çmëndsisht | adv | madly
+çmës | noun | stagnant green on ponds
+çmiloj | verb | carve, sculpture
+çmimonjës | noun | assessor, valuer
+çmimzim | noun | assessment, estimate, valuation
+çmimzoj | verb | assess, estimate, evaluate
+çmunt | noun | pail, bucket
+çnder | noun | dishonour, disgrace
+çnderje | noun | insult, affront
+çndritë | noun | (in phrase) pine log used as a torch
+çnervos | verb | unnerve, rack
+çnervosem | verb | become unnerved
+çnervosje | noun | hysteria
+çngjeshje | noun | ungirding, unharnessing
+çngjis | verb | unstick, detach
+çngjyj | verb | discolour
+çnis | verb | prize, value, esteem
+çobëni | noun | herding
+çoçërr | noun | a bird
+çoçobanuzë | noun | carob bean
+çoftolluk | noun | a fish
+çog | noun | ankle; hammer
+çohë | noun | cloth
+çohër | noun | cloth
+çojkë | noun | queen bee at swarming time
+çojtoj | verb | imagine
+çokallë | noun | corn cob
+çokan | noun | hammer; bell clapper
+çokatës | noun | green woodpecker
+çokoj | verb | hammer
+çokolatë | noun | chocolate
+çoktuar | adj | (in phrase) one cubic metre
+çolët | adj | marshy, unfit for cultivation
+çole | noun | lark
+çolobojkë | noun | proud girl
+çollak | adj | one-handed
+çomag | noun | club
+çomak | noun | club
+çomblek | noun | mixed stew
+çongël | noun | small lump, excrescence, pimple
+çonjës | adj | sending, transmitting; commander
+çorvë | noun | soup
+çorço | noun | wren
+çorde | noun | haughtiness
+çorre | noun | club; bullet, cannonball; impetus, force, violence
+çorodis | verb | deform, debase; maim; impair
+çorozo | adj | silly, inexperienced
+çot | noun | fool, simpleton
+çotelë | noun | grindstone
+çotillë | noun | plunger of a butter churn
+çpim | noun | stab; instigation
+çpjertë | adj | quick, sharp, rapid; quick-witted
+çpjertueshëm | adj | quick, quick-witted
+çplaj | verb | rinse
+çpleks | verb | untwist, unravel
+çpokë | noun | piece of furniture
+çportë | noun | basket
+çprallcë | noun | gossipy woman
+çprallis | verb | defame, slander
