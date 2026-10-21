@@ -42601,3 +42601,56 @@ cyrle | noun | thrush
 çyç | adj | huddled; hunchbacked; squatting; snub-nosed
 çyçebinos | noun | locust bean
 çyçybanoz | noun | carob bean
+# ── mannshto.tsv ──
+çylaf | noun | felt cap
+çymse | conj | because
+çyp | noun | jar
+da | interj | cry to a horse
+dabije | noun | (in phrase) going round with a crowd
+dackos | verb | slap, smack, clout
+dadaruq | noun | (jocular) rogue
+dafinët | adj | of laurel, bay
+dafini | noun | sand flea
+dagëndis | verb | scatter
+dajmas | adv | (in phrase) once and for all
+dajri | noun | dowry, trousseau
+dajtë | verb | shine forth
+dakol | adj | brave
+daktisem | verb | go away
+dalamëngë | noun | resin, gum
+dalçim | noun | cinnamon
+dalëm | adj | left, retrieved
+dalkadalë | adv | gradually, slowly
+dalme | noun | exit, way out; success; waste, refuse, offal; issue, outcome
+daltëz | noun | crowbar
+dalth | adv | (in phrase) steadily, slowly, easily
+dallak | noun | gaiter, puttee; litharge
+dollak | noun | gaiter, puttee
+dallam | noun | long robe, gown, coat
+dallamë | noun | long robe, gown
+dollamë | noun | long robe, gown
+dallap | noun | cupboard
+dalldues | adj | ecstatic
+dellendushe | noun | swallow
+dellendrushe | noun | swallow
+dallkë | noun | wave
+dallgim | noun | waving
+dallgzim | noun | surging
+dallgzoj | verb | perturb; surge
+dallis | verb | distinguish
+damadam | noun | draughts, chequers
+damas | adv | separately, apart
+damazi | adv | separately
+dambërdumb | adv | bumpety-bump
+dambllá | noun | paralysis; stroke, apoplexy
+damllá | noun | paralysis, stroke
+dumbllá | noun | paralysis
+dambllos | verb | paralyse
+dambullos | verb | paralyse
+dame | noun | division; divorced woman
+dameni | noun | schismatism
+damës | adj | distributive
+damixhan | noun | demijohn
+damie | noun | division
+damkëz | noun | small mark
+damote | noun | sea anemone

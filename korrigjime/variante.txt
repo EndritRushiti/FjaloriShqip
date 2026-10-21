@@ -862,3 +862,14 @@ cyrle | cirle | alternative
 çurruvi | çarravi | alternative
 çvëndos | çvendos | alternative
 çyçybanoz | çiçibanoz | alternative
+# ── Mann 1948 ──
+çylaf | qylaf | alternative
+çymse | sepse | alternative
+çyp | qyp | alternative
+dagëndis | davaris | alternative
+dakol | trim | alternative
+daktisem | largohem | alternative
+dallap | dollap | alternative
+dellendushe | dallëndyshe | alternative
+dellendrushe | dallëndyshe | alternative
+dallkë | dallgë | alternative
