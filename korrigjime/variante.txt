@@ -539,3 +539,9 @@ ballkam | bakëm | alternative
 ballsam | balsam | alternative
 baltinë | baltë | alternative
 ball | ballë | alternative
+# ── Mann 1948 ──
+astragan | astragaç | alternative
+atëças | atças | alternative
+avrom | avram | alternative
+bajalldis | bajëlldisem | alternative
+baltëdosë | baldos | alternative

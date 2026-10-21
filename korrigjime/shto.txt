@@ -40613,3 +40613,9 @@ ballaballët | adj | opposite
 ballakas | verb | (in a phrase) gallop
 ballancë | noun | balance
 ballancoj | verb | balance
+# ── mannshto.tsv ──
+astragan | noun | rolling board
+atëças | adv | then
+avrom | noun | crowd, cluster
+bajalldis | verb | faint
+baltëdosë | noun | badger
