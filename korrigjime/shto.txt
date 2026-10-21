@@ -42482,3 +42482,122 @@ cyrle | noun | thrush
 çportë | noun | basket
 çprallcë | noun | gossipy woman
 çprallis | verb | defame, slander
+# ── mannshto.tsv ──
+çëviktar | adj | unruly
+çprofkë | noun | blockhead, stupid
+çpuas | noun | drill, borer
+çpunim | noun | stoppage, suspension of work
+çpurthiq | verb | addle
+çpyjësim | noun | deforestation
+çpyjësoj | verb | deforest
+çqenglos | verb | ungird
+çqep | verb | unstitch
+çqes | verb | break off, tear off, detach
+çqetsi | noun | unrest, perturbation, anxiety, worry
+çqetsim | noun | perturbation
+çqetsoj | verb | perturb, disturb, disquiet
+çqis | verb | detach; think out, puzzle out
+çquar | adj | distinct; distinguished
+çquarsi | noun | distinction, designation
+çquartje | noun | distinction
+çquanjës | adj | distinctive; comma
+çquej | verb | distinguish
+çquhem | verb | be distinguished
+çradoj | verb | annul, render invalid
+çrranjos | verb | uproot
+çrrënjim | noun | eradication
+çrrënjoj | verb | uproot, eradicate
+çrrodis | verb | cause to degenerate
+çrroditem | verb | degenerate
+çrroditje | noun | degeneracy
+çrrodoj | verb | degenerate, corrupt
+çtëllij | verb | unwind
+çtëllis | verb | unwind
+çtërvis | verb | wean; break a habit, disaccustom
+çtiell | verb | unwind
+çtirem | verb | disappear
+çtitore | noun | school
+çtitrak | adj | teaching, instructive
+çtitrim | noun | teaching, instruction
+çtitroj | verb | teach, instruct
+çtrij | verb | stretch
+çthur | verb | undo, unknit, unfasten; unravel; unfence; weary, fatigue
+çthurje | noun | undoing, unfastening; unravelling; wearying; resolution of a plot, epilogue
+çthurur | adj | undone; loose, licentious; weary, careworn
+çuçllim | noun | warbling
+çuçlloj | verb | warble
+çuçul | noun | a bird
+çuçullim | noun | warbling, murmur, lisping
+çuçulloj | verb | warble, murmur, lisp, croon
+çuçuras | verb | whisper; ring, echo
+çuçuris | verb | whisper
+çudan | noun | monster
+çuden | noun | monster
+çudim | noun | phenomenon, monster
+çudnar | noun | conjuror, magician
+çudnoj | verb | counterfeit
+çuell | noun | blanket, coverlet
+çueshëm | adj | transmissible
+çueshme | noun | transmission
+çuaj | verb | scent, sleuth, follow up
+çuje | noun | a household article
+çukëltar | noun | tufted lark
+çuklëtar | noun | tufted lark
+çukëlar | noun | tufted lark
+çukurmoj | verb | stamp on, pound
+çuleshë | noun | felt cap
+çulis | verb | take round
+çunguris | verb | join, couple, tie; clink, tap, knock; open
+çupara | noun | clapper
+çupazë | noun | little girl
+çupël | noun | bungling
+çupli | noun | bungling
+çupri | noun | girlhood
+çupis | verb | peck; strike (as scorpion); bite at, snap
+çupkë | noun | little girl
+çuploj | verb | bunch up, bundle up, crumple, heap up; rush, bustle; beat, pound
+çupllak | adj | naked
+çupuris | verb | look for, search for, rummage about for
+çurak | noun | spring
+çurë | noun | turkey hen
+çurudhukull | noun | lark
+çurufiten | verb | mate (of birds)
+çuruktis | verb | deform
+çurrel | noun | spout
+çurril | noun | spout
+çurruvi | noun | quarrel
+çutë | noun | civet cat
+çutërr | noun | stream, brook, rill, gutter; mangle, wringer; wooden water pot or flask; wine cask
+çutjane | noun | loose dress worn by women
+çutrohem | verb | be surprised, be amazed
+çvarros | verb | exhume, disinter
+çvarrosje | noun | exhumation, disinterment
+çvas | verb | tear, rend, shred flesh; rip, skin, peel; emaciate, lacerate
+çvatur | adj | torn, lacerated
+çvendoj | verb | deport, extradite
+çvendos | verb | deport, extradite
+çvendohem | verb | emigrate
+çvendosje | noun | deportation, extradition
+çvetiosem | verb | lose a sense of propriety
+çvëndos | verb | deport
+çvështiell | verb | unwind, untwist, unwrap
+çvidhos | verb | unscrew
+çviell | verb | disgorge
+çvijos | verb | derail
+çvijosje | noun | derailment
+çviktar | adj | painstaking, hardworking; skilled
+çvjell | verb | unroll; unfold, open, reveal, explain; disgorge
+çvleftsim | noun | depreciation, devaluation
+çvlersim | noun | depreciation, devaluation
+çvleftsoj | verb | devaluate; inflate
+çvlersoj | verb | devaluate
+çvoltoj | verb | unbutton
+çvoshk | verb | shell, peel, husk or shuck corn
+çvozhg | verb | shell, peel
+çvoksh | verb | shell, peel
+çvulos | verb | unseal
+çvulosje | noun | unsealing
+çycë | noun | a plant
+çyç | adj | huddled; hunchbacked; squatting; snub-nosed
+çyçebinos | noun | locust bean
+çyçybanoz | noun | carob bean
