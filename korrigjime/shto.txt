@@ -40884,3 +40884,130 @@ bezhorrë | noun | pelican
 bëdorë | noun | snow
 bëdoron | verb | it snows
 bëhas | verb | amaze, nonplus, stupefy
+# ── mannshto.tsv ──
+begjistën | noun | covered market
+bëhot | noun | sleeping sickness
+bëjkë | noun | white-faced ewe
+bëkëtar | noun | villager (Vlach dialect)
+bëlbzoj | verb | prattle, talk as a child
+bëliedh | verb | gather
+bëltoj | verb | plant
+bënukë | noun | corn cob
+bërbëlis | verb | twaddle
+bërbëlucë | noun | carrot
+bërbuq | noun | darling; nice, wee
+bërcak | noun | whitefish; whitebait
+bërcuk | noun | dwarf; stunted, short
+bërdalec | noun | syphilis
+bërdëlec | noun | syphilis
+bërdakëll | noun | lump, knob; pimple; tassel
+bërdokull | noun | lump, knob
+bërdall | noun | plant resembling purslane
+bërdas | verb | shout
+bërdëllak | noun | purslane
+bërdyell | noun | pivot, swivel, hinge
+bërdillë | noun | movable part of a loom
+bërdhak | noun | glass, mug, jug; whitish
+bërdhamë | adj | pale, discoloured, yellowish
+bërdhanë | noun | white cow
+bërdhecë | noun | kind of winged ant; vine shoots
+bërdhëllemë | adj | whitish
+bërënxhik | noun | fine silk
+bërkocë | noun | frog
+bërkockë | noun | frog
+bërlant | noun | brilliant, diamond
+bërlekem | verb | roar, bellow before attacking
+bërlykem | verb | roar, bellow
+bërnda | adv | inside
+bërskot | noun | biscuit
+bërsute | noun | ham
+bërshaj | noun | vagabondage
+bërshanë | noun | gun made in Brescia
+bërshim | noun | fine twisted thread; marriage crown
+bërshotë | adj | friable, crumbly, rotten; stiff, aloof
+bërtëkocë | noun | frog
+bërtimë | noun | cry, shout
+bërtitës | noun | crier, shouter
+bërthec | noun | small worm
+bërthokël | noun | stone of drupes
+bërthokëll | noun | stone of drupes
+bërthuc | noun | term of endearment for a small boy
+bërxhik | noun | span between thumb and first finger
+burxhik | noun | span
+bërzollë | noun | chop, cutlet
+bërrore | noun | sumpter saddle
+bëshaj | verb | sigh
+bështynë | noun | spit, spittle
+bëtajë | noun | terror, horror; epilepsy; battle
+bëtere | noun | ill-timed jest
+bëti | noun | four of anything; four pieces, four head
+bëtikë | noun | wall of the stomach; tripe
+bëzhbëjis | verb | (in a phrase) grope like a blind man
+bëzhdile | noun | bit, fragment; weeds, crumbs, sweepings, rubbish
+besdile | noun | crumbs, rubbish
+biakë | noun | (in a phrase) white lead
+bibër | noun | pepper
+bibërcë | noun | pepper caster
+bibëz | noun | turkey hen
+biblëtore | noun | library; bookshop
+bibliothekar | noun | librarian
+bicë | noun | spite, defiance, opposition; sow
+biciklétë | noun | bicycle
+bidë | noun | kitten
+pruemun | verb | brought (participle)
+birem | verb | be brought; fall
+biellë | noun | crankshaft
+bierr | verb | lose
+biferce | noun | horizontal strap round a horse's thighs
+bigaçe | noun | forked stick
+biganë | noun | tongs; clamp, vice
+bigatë | adj | rich
+bigël | noun | woody place; ravine, gorge, pass; stony precipice
+biglaç | adj | forked, two-pronged
+biglosh | adj | forked, two-pronged
+bigët | adj | forked, two-pronged
+bigëz | noun | fire tongs; bracket
+bigje | noun | scale of fish
+bihem | verb | be brought; fall
+bijni | noun | sonhood; primogeniture; progeny
+birni | noun | sonhood
+bijzë | noun | detachable coupon, counterfoil
+bikë | noun | kiss
+bikër | noun | young frog
+bilan | noun | girth belt
+bilanç | noun | balance
+bilbicë | noun | marble, taw; bleak (fish)
+birbil | noun | nightingale
+bilbilkë | noun | whistle
+bilem | adv | especially, even
+bilizik | noun | bracelet
+bilgaçe | noun | forked stick
+bilikë | noun | oil jar, oil can; band, company
+bimbaq | noun | seagull
+bimbashi | noun | (in a phrase) a flower
+bimcë | noun | cellar
+bimcoj | verb | store, keep
+bimël | noun | speck, bit, mote
+bimni | noun | botany
+bimsi | noun | growth, vegetation
+bimtar | noun | herbalist, botanist
+bimte | noun | coarse thread
+binac | noun | black and white piebald horse
+bindëdër | noun | marvel, wonder
+bindëdërshëm | adj | marvellous
+bindisht | adv | marvellously, extraordinarily
+bindlik | noun | bottle shaped like a demijohn
+bindohem | verb | respect, honour, obey
+bindsi | noun | conviction; docility
+bindtar | adj | obedient
+bindtore | noun | admirative mood (grammar)
+bindues | adj | respectful; venerator
+bindueshëm | adj | reverend
+bing | noun | (in phrase) kick up a row
+binish | noun | cloak worn by Muslims
+binjish | noun | cloak worn by Muslims
+binok | noun | twin
+binjosh | noun | twin
+bynak | noun | twin
+birak | adj | filial
+biraleqe | noun | kind of cake
