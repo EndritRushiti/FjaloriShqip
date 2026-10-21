@@ -42759,3 +42759,33 @@ delu | interj | get out!
 deludh | noun | flood, deluge
 deluv | noun | flood, deluge
 diluv | noun | flood, deluge
+# ── mannshto.tsv ──
+dellë | noun | pity
+dellandyshe | noun | swallow
+dellëngethi | adv | purposely, wilfully, deliberately
+dellues | adj | sinewy
+demaluk | noun | plough with two handles
+demirat | noun | a plant
+denar | noun | penny; coin; money; diamond (at cards)
+dendosur | adj | condensed
+dendsoj | verb | densify, condense; compress, concentrate; crowd
+denek | noun | a big log
+denë | noun | tongs
+denjohem | verb | deign, condescend
+denjur | adj | worthy
+deq | noun | cunning, craft, intrigue, trickery
+deratar | noun | porter
+deratëhershëm | adj | of hitherto
+derdhë | verb | (in phrase) pour, empty out
+derdhem | verb | gush, pour out; stumble, fall; pounce upon, attack; be ruptured
+derdhshëm | adj | fusible, castable, liquid
+derdhtore | noun | foundry
+derebardhë | adj | fortunate
+derëdritare | noun | French window
+derëmbajtës | noun | porter
+derëmbyllët | adj | inhospitable
+derësterrë | adj | unfortunate
+derhem | noun | dram
+djerie | adv | even; as far as, until
+ndjere | adv | even; until
+deridiku | adv | somewhat, to some extent

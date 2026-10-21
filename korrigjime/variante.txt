@@ -889,3 +889,6 @@ deletoj | gëzoj | alternative
 deletonem | gëzohem | alternative
 deliberoj | bisedoj | alternative
 delicje | gaz | alternative
+# ── Mann 1948 ──
+dellandyshe | dallëndyshe | alternative
+denë | danë | alternative
