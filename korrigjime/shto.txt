@@ -43673,3 +43673,34 @@ dhropiqi | noun | dropsy
 dhrosis | verb | refresh, freshen; soothe, calm
 dhumis | verb | crumble
 dhunëti | noun | compassion
+# ── mannshto.tsv ──
+dhiozmë | noun | mint
+dhunuom | adj | disgraceful, shameful
+dhunuoshim | adj | disgraceful, shameful
+dhuratinë | noun | gift
+dhuronjës | noun | giver, donor, sharer, distributor
+dhurtelë | noun | gift
+ebanoz | noun | ebony
+ebraisht | adv | in Hebrew
+ebraishte | noun | Hebrew language
+ebre | noun | Jew, Hebrew
+ebrejkë | noun | Jewess
+ebur | noun | ivory; piano key
+ecënj | verb | walk
+ecarak | adj | moving, going; of passage (of birds)
+ecuni | noun | going, gait
+ecurim | noun | going, gait, pace; course, procedure, progress; movement, activity
+eçim | adj | thirsty
+efimeridha | noun | newspapers
+efori | noun | supervision
+efshueshëm | adj | horrible
+eftapodh | noun | edible cuttle-fish
+egërt | adj | wild
+egërci | noun | wildness
+egërcinë | noun | wild beast, brute; wilderness
+egërcoj | verb | make wild
+eglendisem | verb | amuse oneself
+egroj | verb | run wild, get savage; enrage, exasperate
+egjyptas | noun | Egyptian
+egjyptologji | noun | Egyptology
+ehêng | noun | merry-making

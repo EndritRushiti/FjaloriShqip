@@ -1059,3 +1059,14 @@ dhioqezë | dioqezë | alternative
 dhiplomat | diplomat | alternative
 dhiplomatik | diplomatik | alternative
 dhipllos | palos | alternative
+# ── Mann 1948 ──
+dhuratinë | dhuratë | alternative
+dhurtelë | dhunti | alternative
+ebanoz | abanoz | alternative
+ecënj | eci | alternative
+egërt | egër | alternative
+egërci | egërsi | alternative
+egërcoj | egërsoj | alternative
+egjyptas | egjiptian | alternative
+egjyptologji | egjiptologji | alternative
+ehêng | aheng | alternative
