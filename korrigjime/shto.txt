@@ -42989,3 +42989,50 @@ dipllomat | noun | diplomat
 dhipllomat | noun | diplomat
 dipllomë | noun | diploma
 diqan | noun | shop
+# ── mannshto.tsv ──
+dyrek | noun | pole, mast
+dirika | adv | because
+dirsem | verb | sweat
+dirsur | adj | sweating, sweaty
+disciplinë | noun | discipline
+diskullicë | noun | conversation
+disnje | noun | selvedge
+dispetisem | verb | get angry
+dispjegë | noun | displeasure, annoyance
+dispjeki | noun | ill-temper
+disproj | verb | drive to despair
+disprej | verb | drive to despair
+disqaroj | verb | explain, interpret
+distin | noun | fate, lot
+dish | noun | hopper
+dishditës | adv | a day ago
+dishditëz | adv | a day ago
+dishenc | noun | haemorrhage
+dishépull | noun | disciple
+dishípull | noun | disciple
+dishël | noun | dittany (plant)
+dishëm | adj | wise, learned
+dishfarsoj | pron | all sorts of
+dishfat | noun | unfortunate
+dishiplinar | adj | disciplinary
+dishiplinë | noun | discipline
+dishirim | noun | desire
+dishiroj | verb | desire
+dishirore | noun | optative (grammar)
+dishirueshëm | adj | desirous
+dishka | pron | something
+dishkoj | verb | punish
+dishminji | noun | testimony
+dishproj | verb | drive to despair
+dishrak | adj | eager, anxious, earnest; greedy; glutton
+dishrore | noun | optative (grammar)
+ditaditës | adv | from day to day, day by day
+ditënatë | noun | twenty-four hour day
+ditëprerë | adj | shortlived
+ditësim | noun | dating
+ditësoj | verb | date
+ditëshim | adv | wisely
+ditim | adj | sober
+ditje | noun | wisdom, knowledge; awareness; whole day; day's pay
+ditoj | verb | spend the day
+ditrak | adj | meek, mild, gentle, tame

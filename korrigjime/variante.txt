@@ -939,3 +939,14 @@ dipllomat | diplomat | alternative
 dhipllomat | diplomat | alternative
 dipllomë | diplomë | alternative
 diqan | dyqan | alternative
+# ── Mann 1948 ──
+dyrek | direk | alternative
+disciplinë | disiplinë | alternative
+dishépull | dishepull | alternative
+dishípull | dishepull | alternative
+dishfat | fatzi | alternative
+dishiplinar | disiplinor | alternative
+dishiplinë | disiplinë | alternative
+dishiroj | dëshiroj | alternative
+dishka | diçka | alternative
+dishkoj | ndëshkoj | alternative
