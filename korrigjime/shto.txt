@@ -42215,3 +42215,57 @@ cyrle | noun | thrush
 çepke | noun | shock of hair
 çepkët | adj | nearly bald
 çeple | noun | small knife
+# ── mannshto.tsv ──
+çipirok | noun | short span
+çepkas | verb | throw about, turn up, rifle, search for; dishevel, tousle, tangle
+çepkenë | noun | short jacket with open sleeves
+çeplas | noun | long variety of grass
+çepreza | noun | (in a riddle) sergeant
+çeralak | noun | a produce
+çerçem | noun | celtis tree
+çerdhëz | noun | small nest
+çerdhoj | verb | nestle
+çerdhukull | noun | ground lark, horned lark
+çerdhllukull | noun | ground lark
+çere | noun | complexion; hue, tint, appearance
+çerjep | noun | earthen baking dish
+çerezinë | noun | kerosene
+çerfos | noun | camphor
+çergë | noun | tent; spread, feast
+çeriç | noun | cobblers' glue
+çermoj | verb | furrow, groove
+çernik | noun | game bag, knapsack
+çerolakë | noun | sealing wax
+çerp | noun | topknot, tuft of hair, wisp of hair; halo
+çerpe | noun | topknot, tuft of hair
+çerpackë | noun | slut, slatternly woman
+çerpek | adj | brisk, nimble, deft
+çerpi | noun | concern, care, pains, endeavour
+çerpik | noun | care
+çerqez | adj | Circassian
+çertinar | noun | pedlar
+çerve | noun | something worn
+çerregë | noun | pipe, tube; trickle, stream
+çestis | verb | plan
+çetas | adv | (as s.) game of catching
+çetni | noun | group, body
+çezar | noun | Caesar
+çëdikë | noun | striped trousers worn by Kosovo men
+çëmërmadh | adj | gluttonous
+çërim | noun | chirping
+çëroj | verb | chirp
+çërpe | noun | wild marrow
+çërpës | noun | dry hollow marrow used as a bottle
+çfajsim | noun | apology; acquittal, exoneration
+çfajsoj | verb | excuse; exonerate, acquit
+çfajsohem | verb | apologise
+çfallëngonjë | noun | spider web
+çfamsim | noun | defamation, slander, libel
+çfamsoj | verb | slander, libel
+çfamshëm | adj | infamous
+çfaqës | adj | revealing, displaying; revealer; performer
+çfaqët | adj | clear, open, obvious, plain, manifest
+çfaqje | noun | display, performance; revelation
+çfaqsinë | noun | performance, display, rendering
+çfardo | pron | all kinds of
+çfarsi | noun | quality, kind, grade

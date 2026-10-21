@@ -799,3 +799,9 @@ cyrle | cirle | alternative
 çeltazi | çiltazi | alternative
 çelurazi | çiltazi | alternative
 çeni | çini | alternative
+# ── Mann 1948 ──
+çerçem | carac | alternative
+çerpik | çerpi | alternative
+çestis | qestis | alternative
+çërim | cërcërim | alternative
+çëroj | cërcëroj | alternative
