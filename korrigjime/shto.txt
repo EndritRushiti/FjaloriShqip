@@ -43272,3 +43272,47 @@ drejtprierje | noun | balance, equipoise
 drejtprojës | noun | advocate, lawyer
 drejtsi | noun | righteousness; direction; law, jurisprudence
 drejtsisht | adv | rightly, correctly, justly
+# ── mannshto.tsv ──
+drejtvlerë | noun | equivalent
+drejtvlershëm | adj | equivalent
+drékem | verb | lunch
+drekóhem | verb | dine, have lunch
+drekósem | verb | dine, have lunch
+dremij | verb | drowse
+dremis | verb | drowse
+dreqsi | noun | devilry
+dreqzi | noun | devilry
+dreqtë | adj | righteous, upright, sincere
+dreqtim | noun | direction
+dreqtsi | noun | justice
+drere | noun | hind
+dretë | adj | straight
+drëkis | verb | dine
+dricë | noun | fanlight, skylight
+driçim | adj | bright
+dridhë | noun | tremor, shock, horror; the shivers
+dridhëri | noun | trembling, tremor, shudder
+dridhme | noun | trembling, tremor
+dridhna | noun | quaker-grass
+drimcoj | verb | shatter, crush, pound; tremble
+drinas | noun | dweller in the Drin valley
+dritez | noun | small window, hatch
+dritem | verb | shine; rear, stand up
+diritë | noun | light
+dritëlarg | adj | farsighted
+dritëlargsi | noun | farsightedness
+dritshëm | adj | bright
+driçëm | adj | bright
+dritëshkurti | noun | myopia
+dritëshkurtsi | noun | myopia
+dritzim | noun | lighting, illumination
+dritzoj | verb | light, illuminate
+dritim | noun | lighting
+ndritim | noun | lighting
+drithanik | noun | granary; grain-merchant
+drithëm | noun | tremor, shake, vibration; shock; shudder
+drithmë | noun | tremor, shake; shudder
+drithmarak | adj | terrifying, horrible
+drithmëtar | adj | trembling, tremulous, vibrant
+drithmoj | verb | shock; terrify, intimidate; tremble
+drithmuar | adj | trembling, tremulous
