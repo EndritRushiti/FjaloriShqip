@@ -42720,3 +42720,42 @@ dergamë | noun | quarrel
 degarim | noun | sundering, scattering
 degaroj | verb | sunder, scatter
 degas | adv | branching out
+# ── mannshto.tsv ──
+degsim | noun | ramification; inflorescence
+degsoj | verb | branch out
+degtisem | verb | go away
+degurina | noun | twigs, brushwood, chips
+dehshëm | adj | intoxicating
+dejem | verb | get drunk
+dejlan | noun | fish trap of reeds
+dejmarak | adj | habitually drunk; drunkard
+dejmë | adj | drunk
+dejmeni | noun | intoxication
+dejmënatë | adv | two mornings hence
+dejshëm | adj | intoxicating; drunk
+dekem | adj | dead
+dekmit | noun | the dead
+dekpruës | adj | fatal, mortal
+dekni | noun | mortality
+dekretligjë | noun | act, statute
+dekshëm | adj | mortal
+delsh | noun | sheep
+deledashi | noun | hermaphroditism in horses
+delegatë | noun | delegation
+delektonem | verb | delight in
+delektuom | adj | delightful
+delendis | verb | slander, libel; pervert; corrupt
+delentis | verb | slander; corrupt
+delendris | verb | slander; corrupt
+delendisem | verb | become degraded, grow corrupt
+delepreze | noun | game of sheep and shepherds
+deletoj | verb | gladden
+deletonem | verb | rejoice
+deliberoj | verb | deliberate
+delicje | noun | delight
+delmër | noun | shepherd
+deltinak | adj | clayey
+delu | interj | get out!
+deludh | noun | flood, deluge
+deluv | noun | flood, deluge
+diluv | noun | flood, deluge

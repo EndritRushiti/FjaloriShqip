@@ -881,3 +881,11 @@ darje | dajre | alternative
 darkem | darkoj | alternative
 dashligës | dashakeqës | alternative
 defendoj | mbroj | alternative
+# ── Mann 1948 ──
+degtisem | daktisem | alternative
+dejem | dehem | alternative
+delegatë | dërgatë | alternative
+deletoj | gëzoj | alternative
+deletonem | gëzohem | alternative
+deliberoj | bisedoj | alternative
+delicje | gaz | alternative
