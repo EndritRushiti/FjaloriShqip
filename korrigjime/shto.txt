@@ -43238,3 +43238,37 @@ dozar | noun | record, file; dossier
 drak | noun | boulder; devil
 drakëm | noun | drachma
 dramidhe | noun | carpet
+# ── mannshto.tsv ──
+drantofillë | noun | rose
+dranofillë | noun | rose
+drangë | noun | tom-kitten; pet child
+drangole | noun | serpent; red flowering plant
+drashkëz | noun | lees of melted butter
+ndre | noun | stag
+ndrë | noun | stag
+dredhake | noun | convolvulus
+dredhakëri | noun | shiftiness, evasiveness, wiliness
+dredhaksi | noun | shiftiness, wiliness
+dredhaluk | adj | fickle; shifty
+dredhalesh | noun | wool-comb, carding-comb; spinning-mill
+dredharaksi | noun | shiftiness
+dredhazi | adv | twistingly, squirmingly
+dredhe | noun | whirlwind
+dredhël | noun | thong, whip
+dredhëm | adj | twisted
+dredhinë | noun | turn, turning
+dreksë | noun | scab
+drekcë | noun | scab
+dregsa | noun | eczema
+dregos | verb | heal over, form a scab
+drehem | noun | dram
+drejtak | noun | axis
+drejtbesonjës | adj | orthodox; faithful
+drejtërim | noun | precept
+drejti | noun | rectitude, righteousness
+drejtonjës | noun | leader
+drejtpërdrejtshëm | adj | direct
+drejtprierje | noun | balance, equipoise
+drejtprojës | noun | advocate, lawyer
+drejtsi | noun | righteousness; direction; law, jurisprudence
+drejtsisht | adv | rightly, correctly, justly

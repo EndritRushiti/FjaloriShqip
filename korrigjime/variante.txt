@@ -986,3 +986,9 @@ dorzënës | dorëzanë | alternative
 dorzënje | dorëzani | alternative
 dorzim | dorëzim | alternative
 dorzoj | dorëzoj | alternative
+# ── Mann 1948 ──
+drantofillë | trëndafil | alternative
+dranofillë | trëndafil | alternative
+ndre | dre | alternative
+ndrë | dre | alternative
+drejtonjës | drejtues | alternative
