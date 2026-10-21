@@ -43425,3 +43425,57 @@ dupjo | adj | double
 duqetë | noun | knapsack
 durbi | noun | field glass
 durd | adj | curtailed, docked; sturdy; sturdy child
+# ── mannshto.tsv ──
+durnjâ | noun | world
+dyrnjâ | noun | world
+duruos | adj | patient
+duruk | noun | mast, pole
+durr | noun | a cereal
+dushkët | adj | oak
+dushkonja | noun | leaves used as fodder; oak chips
+dyshnezë | noun | shrubbery, undergrowth
+dushnicë | noun | growth, young copse
+dushnik | noun | thicket, copse
+duvë | noun | liver-fluke
+dvathun | adj | barefoot
+dvekun | adj | dead
+dvier | verb | hang
+dvishem | verb | undress
+dvoj | verb | expel
+dyansh | adj | two-sided, bilateral
+dybashkzanore | noun | diphthong
+dybe | noun | doubt, fear, suspicion
+dybrinjës | adj | horned
+dybrinjak | adj | horned
+dyc | noun | deuce at cards
+dyçkë | noun | deuce at cards; small variety of apple
+dyditshëm | adj | two-days'
+dydoras | adv | two-handed
+dyfaqe | noun | hypocrisy
+dyfaqsi | noun | duplicity
+dyfekoj | verb | shoot
+dyfishët | adj | double
+dyfjalim | noun | dialogue
+dyfolje | noun | dialogue
+dyfletar | adj | two-leaved, double-sheeted
+dyherë | adv | twice
+dyjavshëm | adj | fortnightly
+dyjetës | adj | amphibious; leading a double life
+dyjtë | adj | second
+dykëmbsh | adj | two-footed
+dykatsh | adj | two-story
+dykmé | noun | sequin, dollar
+dykyç | noun | valve
+dylben | noun | thin veil worn by women
+dylbenkë | noun | thin veil
+dylbezë | noun | sheep scab
+dyrbi | noun | field glass
+dyliun | noun | billion
+dylun | noun | billion
+dylmer | noun | shepherd
+dylmere | noun | water-wagtail
+dylmeri | noun | witch, sorceress
+dyltenjshëm | adj | softened, soaked (of wheat)
+dylym | noun | land measure
+dyllëndyshe | noun | swallow
+dyllët | adj | wax, waxy; waxed

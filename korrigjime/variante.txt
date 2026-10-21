@@ -1013,3 +1013,15 @@ duo | dua | alternative
 dullak | dollak | alternative
 dulli | dëllinjë | alternative
 durbi | dylbi | alternative
+# ── Mann 1948 ──
+duruos | durues | alternative
+dvathun | zbathur | alternative
+dvekun | vdekur | alternative
+dvier | var | alternative
+dvishem | zhvishem | alternative
+dvoj | dëboj | alternative
+dyjtë | dytë | alternative
+dykëmbsh | dykëmbësh | alternative
+dyrbi | dylbi | alternative
+dylym | dynym | alternative
+dyllëndyshe | dallëndyshe | alternative
