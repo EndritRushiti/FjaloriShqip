@@ -42269,3 +42269,115 @@ cyrle | noun | thrush
 çfaqsinë | noun | performance, display, rendering
 çfardo | pron | all kinds of
 çfarsi | noun | quality, kind, grade
+# ── mannshto.tsv ──
+çfejohem | verb | break off an engagement
+çfejosem | verb | break off an engagement
+çfëlliq | verb | disinfect
+çfisim | noun | degeneration, degeneracy
+çfisohem | verb | degenerate
+çfokës | noun | maize shucker
+çformim | noun | distortion, deformation
+çformoj | verb | deform
+çfoshk | verb | graze; peel off
+çfronim | noun | dethronement
+çfronsim | noun | dethronement
+çfronoj | verb | dethrone
+çfronsoj | verb | dethrone
+çfryej | verb | well up, bubble up; give vent to; deflate; blow the nose
+çfryme | noun | venting
+çfryjtje | noun | deflation, vent, venting; swelling
+çfryjtur | adj | relieved, eased in mind
+çfrymim | noun | expiry
+çfrymoj | verb | expire
+çfryrë | noun | outburst, explosion; nostril
+çfryrje | noun | gust of wind
+çfrytim | noun | exploitation
+çfrytzim | noun | exploitation
+çfrytoj | verb | exploit, work
+çfrytsoj | verb | exploit
+çfrytzoj | verb | exploit
+çfuqizim | noun | weakening, undermining; disqualification
+çfuqizoj | verb | weaken, sap, undermine; invalidate; disqualify
+çfullqi | noun | short span
+çfytyrim | noun | defacement, transformation
+çfytyroj | verb | deface, transform
+çgënjej | verb | disillusion
+çgënjim | noun | disillusionment
+çgryhem | verb | swirl, swish; wallow, welter
+çgjaksim | noun | vindication
+çgjaksoj | verb | vindicate
+çgjeshur | adj | free, unrestrained
+çgjymtyrim | noun | disfigurement, mutilation
+çgjymtyroj | verb | disfigure, mutilate
+çiç | pron | what
+çiçirrim | noun | chirping
+çiçiritje | noun | chirping
+çiçirroj | verb | chirp
+çierrë | adj | torn; worn out, weary
+çierrës | adj | piercing, rending
+çierrje | noun | rent, tear; gap, chink; screech, shout
+çierrmë | noun | tear; screech
+çifar | noun | the devil
+çikar | noun | green grasshopper
+çikati | noun | blindness
+çikëri | noun | trifle
+çikirik | noun | peanut
+çiklore | noun | firefly
+çikon | verb | drip, drop
+çikrri | noun | trifle, oddment; fad, fancy; epilepsy; sneeze
+çikrrinë | noun | oddment, knick-knack, gewgaw
+çikrrimë | noun | oddment; haberdashery
+çikshëm | adj | tangible, touchable
+çiktoj | verb | dissect
+çikurlinë | noun | trifle, oddment, knick-knack; graces, airs, notions
+çiler | noun | archive, record
+çilë | adj | open; light, pale; grey-brown (of horses)
+çils | noun | key
+çilët | adj | open; sincere
+çilkë | noun | a sound walnut
+çill | noun | roan horse
+çillestër | noun | ploughshare
+çim | noun | sweet briar
+çimballë | noun | cymbal
+çinballë | noun | cymbal
+çimçakez | noun | chewing gum, resin
+çimendo | noun | cement
+çimëz | noun | bedbug
+çimin | noun | caraway seed
+çimosë | noun | band
+çinabër | noun | cinnabar
+çinaçinë | noun | quinquina, Peruvian bark
+çinas | noun | Chinese
+çinez | adj | Chinese
+çingall | noun | watch
+çingel | noun | hook
+çingër | noun | small tufted bird with yellow body
+çingët | adj | zinc
+çipar | noun | sleuth
+çipë | noun | sheaf or shock of corn near the threshing floor; short-eared goat
+çipue | noun | point, flap
+çipull | noun | ulceration, swelling, abscess
+çiriljan | adj | Cyrillic
+çirrës | adj | piercing, shrill
+çisme | noun | boot
+çit | interj | cry to scare off cats
+çitel | noun | a musical instrument
+çivetë | noun | civet cat
+çizmë | noun | top boot
+çjufur | noun | sulphur
+çkadohit | pron | from whatever
+çkalim | noun | hesitation
+çkaloj | verb | hesitate
+çkalis | verb | caress, fondle
+çkalitar | noun | fondler; spoilt (of a child)
+çkalitje | noun | caressing, fondling, spoiling
+çkalitur | adj | fond, foolish, childish, spoilt
+çkalkoj | verb | unload (from a horse)
+çkallmim | noun | dislocation; dilapidation
+çkallmoj | verb | dislocate, dilapidate, wreck
+çkallmuar | adj | dilapidated, rickety
+çkalloj | verb | drive mad
+çkallohem | verb | go mad, rave
+çkallua | noun | graft; shoot
+çkalluar | adj | raving, wild, violent, irresponsible
+çkanos | verb | untin
