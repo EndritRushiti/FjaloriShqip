@@ -48541,3 +48541,46 @@ kërrshme | noun | rough place, heath
 kërrneqe | noun | joint
 kërrnjotem | verb | snivel, snuffle; waste time, potter about, idle, loaf
 kërrnjotë | noun | mucus from the nose, catarrh, esp. in cattle; moth, worm, weevil
+# ── mannshto.tsv ──
+kërrsaçë | noun | fruit of snowberry or similar, which explodes when squeezed
+kërrzmë | noun | raisin
+kësifar | adj | such, such-like
+kësifarsh | adj | such, such-like
+kësilloj | adv | thus; such
+kësimjet | adv | thus, therewith, thereby
+kësjell | verb | translate
+këstis | verb | tighten
+kësulëz | noun | helmet
+kësultar | noun | cap-maker
+kësurë | noun | carrot
+kështqel | noun | fortress
+kështanjë | noun | chestnut
+kështarpë | noun | kind of wild millet
+kështënjë | noun | chestnut
+kështejmë | adj | chestnut-, chestnut-coloured
+kështejtë | adj | chestnut-
+kështellë | noun | castle
+kështellan | noun | castle warden
+kështenë | adj | Christian
+kështenim | noun | Christianity
+kështenisht | adv | Christianly
+kësht | noun | payment, instalment
+kështiel | noun | castle
+kështiell | noun | castle
+kështjelloj | verb | garrison
+këtanshëm | adj | hither, near
+këtejas | adv | this way
+këtejazi | adv | this way
+këtejmi | adv | from here
+këtejna | adv | this way
+këtejsëm | adj | hither, nearer; of this place, local
+këtejza | adv | from here; this way
+këterrë | noun | catarrh (in animals)
+këtill | adj | such, like this
+këtjetaj | adv | that way
+këtushit | adj | local
+këty | adv | over there, yonder
+këthmill | noun | snail
+këthollët | adj | idiotic, stupid
+kfilltë | adj | clear
+khân | adv | here
