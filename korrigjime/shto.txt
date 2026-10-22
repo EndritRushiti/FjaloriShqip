@@ -46221,7 +46221,6 @@ glimbi | noun | thorn
 gjembdashi | noun | small variety of thistle
 gjembbore | noun | sloe
 gjembsybardhë | noun | teasel
-gjembikalit | noun | bit of a bridle
 gjembackë | noun | thistle, teasel
 gjemërishtë | noun | wild mountain plant with a crested flower
 gjemërishte | noun | wild mountain plant
@@ -46234,7 +46233,6 @@ gjener | noun | gender (grammar)
 gjenarall | noun | general
 gjenerikë | noun | small round variety of plum
 gjengjefil | noun | ginger
-gjenik | noun | thigh
 gjeniper | noun | juniper
 gjepër | noun | bobbin, reel
 gjepogjerra | noun | oddments, odds and ends
@@ -46246,3 +46244,49 @@ gjerahshëm | adj | till that time
 gjerakinë | noun | hawk
 geraqinjë | noun | hawk
 gjeraq | noun | hawk
+# ── mannshto.tsv ──
+gjerbon | verb | drips, trickles, leaks
+gjerbues | adj | absorbent
+gjerbuese | noun | first stomach of a cow
+gjerdhac | adj | lively, brisk, active
+gjerdhak | noun | bride-chamber
+gjerdhek | noun | bride-chamber
+gjerdhi | noun | craft, cunning, intrigue
+gjerdhishtë | noun | red-flowering shrub eaten by goats; agnus castus
+gjeremes | noun | curdled milk
+gjeretis | verb | displease
+gjergjir | noun | a hair-like grass
+gjerime | noun | ruin
+gjermësotëm | adj | up-to-date, so far
+gjerpazi | adv | crawling, creeping
+gjerthi | adv | everywhere
+gjerzë | noun | couch
+gjerrë | noun | humming-top
+gjerrël | noun | humming-top
+gjeshkë | noun | dried leaves
+gjeshse | noun | ribbon, binder; tape
+gjetësi | noun | find; treasure-trove
+gjetmen | noun | discovery
+gjetuni | noun | invention
+gjethak | adj | leafy
+gjethedelli | noun | plantain
+gjethehardhije | noun | briar resembling a vine
+gjethla | noun | foliage
+gjethtak | adj | leafy
+gjevalltis | verb | libel, slander, gossip about
+gjevallvis | verb | libel, slander
+gjever | noun | horse-trainer
+gjeverdare | noun | flint-lock gun
+gjevezul | noun | gossip, mischief-maker
+gjevgjir | noun | spokeshave
+gjezab | noun | a gold-wash
+gjezdi | noun | walk
+gjezme | noun | coffee-pot
+gjagjëz | noun | riddle
+gjëç | pron | something
+gjëk | noun | echo, boom
+gjëkëtij | verb | echo, boom
+gjëkoj | verb | echo, boom; examine
+gjëku | adv | somewhere
+gjëlminj | noun | yarns
+gjëlvoxhë | noun | shell
