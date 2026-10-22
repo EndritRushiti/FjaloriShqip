@@ -48376,7 +48376,6 @@ kënduos | noun | cock
 këndy | adv | this way
 këndyj | adv | this way
 këndytutje | adv | henceforth
-këndyraj | adv | the day after tomorrow
 kënell | noun | tap, faucet; cinnamon
 kënellë | noun | cinnamon
 këngallë | noun | cicada
@@ -48396,3 +48395,39 @@ këpuctar | noun | shoemaker; bribe-taker
 këpuctore | noun | shoe-store
 këpucinë | noun | half-shoe
 këpuj | noun | blob, piece (of anything round); hailstone; large berry
+# ── mannshto.tsv ──
+këpush | noun | tick, esp. cattle-tick
+kërpush | noun | tick
+kërpushë | noun | tick
+këputëm | adj | finished, cut-and-dried; disjointed
+këpuzë | noun | corolla (of a flower)
+këqir | verb | look, watch
+këqyrtoj | verb | examine
+kërbujë | noun | a fish
+kërbuj | adj | crooked
+kërbujem | verb | bend, bow down
+kërbujsi | noun | contraction
+kërbul | verb | stink; stifle with stench
+kërbulsh | adj | stinking
+kërbultë | adj | stinking
+kërbulzoj | verb | infect with leprosy
+kërbullë | noun | raven
+kërbunjem | verb | be bent, be hunchbacked
+kërbutë | adj | hunchbacked
+kërbythje | noun | coccyx
+kërcaj | verb | jump, dance
+kërcëllis | verb | rattle, crack, creak
+kërcllim | noun | crack, creak; bitter cold
+kërclloj | verb | bang, crack, creak
+kërcnesë | noun | threat, menace
+kërcnim | noun | threat, menace
+kërcnoj | verb | threaten, menace
+kërcnohem | verb | threaten
+kërcunë | noun | trunk, stump
+kërcul | noun | earthen pot
+kërculë | noun | trunk, stump
+kërcun | adj | wretched
+kërcunar | adj | outcast, wretched; wretch, idler
+kërcunare | noun | wretched woman
+kërcuqe | noun | hip
+kërcure | noun | stumps, trunks
