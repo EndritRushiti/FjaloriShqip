@@ -47266,3 +47266,38 @@ iv | noun | buzzard or sparrow-hawk
 izlamizëm | noun | islamism
 izhne | noun | agriot cherry
 izhnje | noun | agriot cherry
+# ── mannshto.tsv ──
+jabixhak | noun | sweet variety of grape
+jadiver | noun | a plant
+jaftë | adj | sufficient
+jagëz | noun | attachment to a jacket
+jahu | interj | old man!
+jahudije | noun | Jewess
+jehudi | noun | Jew
+jajë | noun | paternal aunt
+ejak | interj | come on!
+jakshtis | verb | suit
+jakuc | noun | jacket with fringed hood
+jalek | noun | waistcoat
+jalë | interj | would to God!; come on!
+jamak | noun | ball of thread
+jamake | noun | stew-pot
+jamakë | noun | stew-pot
+jambulli | noun | blanket
+jamorkuje | noun | groans, wailing, moans
+jamulli | noun | blanket
+japanxhë | noun | cloak or cape of red material
+japonishte | noun | Japanese language
+jaqinth | noun | hyacinth, jacinth
+jaradis | verb | create
+jargavec | adj | slobbering; slobberer
+jargtim | noun | drizzle
+jargzim | noun | salivation
+jargzoj | verb | salivate
+jarickë | noun | pullet, full-grown chick
+jarme | noun | mixture of bran, salt and water fed to goats
+jasejase | conj | either… or
+jaspidhë | noun | jasper
+jastëçkë | noun | little cushion, little pillow
+jastragaç | noun | pastry-board, kneading-board
+jestragaç | noun | pastry-board
