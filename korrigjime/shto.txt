@@ -45398,3 +45398,61 @@ girafë | noun | giraffe
 giric | noun | veterinary surgeon
 girore | noun | veterinary surgery
 giroll | noun | variety of mushroom
+# ── mannshto.tsv ──
+gishllim | noun | tickling
+gishlloj | verb | tickle
+gishtrinj | noun | fingers
+gishtezë | noun | thimble
+gishtël | noun | thimble
+gishtje | noun | thimble
+gishtkë | noun | thimble
+gishtlë | noun | thimble
+gishtës | noun | spoke of a wheel
+gishtsoj | verb | point out, indicate
+gitet | verb | it seems to me, strikes me
+gixillim | noun | tickling, tickle
+gixilloj | verb | tickle
+gixhvile | noun | a white-breasted bird used as food
+gizhdë | noun | thimble
+glanë | noun | deed, doing
+glastër | noun | flower-pot, vase
+glasurë | noun | glaze, enamel
+glatesë | noun | length
+glatronj | verb | lengthen
+glavë | noun | hydrocephalus
+gledhatar | noun | pet, favourite; spoilt child; flatterer
+gledhatoj | verb | spoil, pamper; flatter
+gledhoj | verb | spoil, pamper
+glenb | noun | branch, twig
+glibazë | noun | slabber; foot-and-mouth disease
+glicerin | noun | glycerine
+glikanzë | noun | aniseed
+glikanzo | noun | aniseed
+glikanz | noun | aniseed
+glipovë | noun | needlework
+glishtra | noun | fingers
+globë | noun | fine, penalty
+glomçkë | noun | tangled, matted hair
+glomë | noun | knot
+gloqan | adj | bleary-eyed
+gloquem | adj | bleary-eyed
+glori | noun | glory
+glorionj | verb | glorify
+glorifikonj | verb | glorify
+gluj | noun | rheum in the eyes
+glukoz | noun | glucose
+glumis | verb | spend time or leisure
+glunjasem | verb | kneel
+glupë | noun | vulture
+gllup | noun | vulture
+glyrë | noun | dye obtained from chestnut-shells
+glytër | noun | silk thread
+gllabrim | noun | swallowing up, engulfment
+gllabronjës | adj | devouring; devourer
+gllanik | noun | hearthstone; chimney, flue; mounting-stone; chalk for billiard-cues
+gllapis | verb | gulp down, devour
+gllaptij | verb | gulp down, devour
+gllënçkë | noun | knurl on a tree
+gllënqkë | noun | gulp
+glli | verb | turn green, sprout, shoot
+glloj | verb | turn green, sprout
