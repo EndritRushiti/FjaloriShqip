@@ -47782,3 +47782,33 @@ kambanari | noun | belfry
 kambanëz | noun | campanula (plant)
 kamberice | noun | covert, ambush
 kanbë | noun | foot, leg
+# ── mannshto.tsv ──
+kamçik | noun | whip, lash
+kamçoj | verb | whip, lash
+kamé | noun | coulter
+kamelinë | noun | camellia
+kamer | noun | room, chamber
+kamerije | noun | terrace, area, forecourt; flower-garden
+kamberi | noun | terrace, forecourt
+kamerjer | noun | valet
+kamerjerë | noun | chambermaid
+kamër | noun | room, chamber
+kamësi | noun | wealth
+kamfurë | noun | camphor
+kamfura | noun | camphor
+kamiçe | noun | shirt
+kamilak | noun | cowl of a monk
+kamillopardhallë | noun | giraffe
+kamin | noun | furnace
+kamine | noun | lime-pit
+kamish | noun | pipe, tube; pipe-stem
+kamjalle | noun | stubble
+kamje | noun | wealth; property; assets; kitchen trivet; kettle for water
+kamne | noun | smoke, soot
+kamnotë | noun | vainglory
+kamomilë | noun | chamomile
+kampanjel | noun | bell-tower
+kampeqi | noun | campeachy, logwood
+kamsi | noun | wealth
+kamsor | noun | nasturtium, cress
+kamshik | noun | whip; leash
