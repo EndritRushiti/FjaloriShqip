@@ -46544,3 +46544,44 @@ gjymsaterr | noun | dimness
 gjymsë | noun | half
 gjymsëpërgjymsë | adv | half-and-half, fifty-fifty
 gjymsëqark | noun | semicircle
+# ── mannshto.tsv ──
+gjymsoj | verb | divide into two, halve
+gjymsëpërshkues | adj | semi-transparent
+gjymtas | adv | defectively
+gjymtisem | verb | die out, die off; run out, fail; go out; diminish, lessen
+gjymzë | noun | half
+gjynaqar | noun | sinner; sinful
+gjypës | noun | vulture
+gjyqbjerrës | noun | loser in a case
+gjyqtarpaktues | noun | Justice of the Peace
+gjyrë | noun | dye
+gjyrëthellë | adj | dark
+gjyrëzezë | noun | vitriol
+gjyrmoj | verb | track, trace
+gjyrmtar | noun | tracker
+gjyrmuese | noun | girl-guide
+gjyrunti | noun | din, noise
+gjyryk | noun | pipe, tube
+gjysaterr | noun | penumbra
+gjysmishull | noun | peninsula
+gjysmimtë | noun | second (time)
+gjysmamigjysmacërr | noun | a bird, probably the wren
+gjysmëdorëz | noun | mitten
+gjysmëhënëz | noun | crescent moon
+gjysmëmi | noun | wren; bat
+gjysmëqarkull | noun | semicircle
+gjysmëqerthull | noun | semicircle
+gjysmërrogë | noun | half-pay
+gjysmoke | noun | half an oka; big pint
+gjysnjeri | noun | bust, half-length figure
+gjysore | noun | half-an-hour
+gjyshar | adj | grandfatherly, grandmotherly
+gjytetas | noun | citizen
+gjytetës | noun | citizen; civil
+gjyteti | noun | civilisation
+gjytetnim | noun | civilisation
+gjytetnoj | verb | civilise
+gjytetth | noun | citadel, fortress
+gjytetëz | noun | citadel; borough, township
+gjyzar | adj | beautiful
+gjyzlykë | noun | spectacles
