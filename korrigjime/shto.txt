@@ -44525,3 +44525,44 @@ flambosur | adj | with a chill, having a cold
 flamëz | noun | cold, catarrh
 flamisem | verb | catch a cold
 flamosem | verb | catch a cold
+# ── mannshto.tsv ──
+flanikth | noun | cage; case, crate; frame, framework
+flanik | noun | cage; frame
+fllanikth | noun | cage; frame
+flashkazi | adv | awry, askew
+flashkë | adj | limp, weak; dim; awry
+flashkoj | verb | weaken, debilitate
+flauris | verb | pother up, cloud
+flauroj | verb | fly, flit, flutter
+flegurë | noun | nostril; flap of a door
+flegrzë | noun | valve; wall of the stomach
+flejtme | noun | sleep, night's lodging
+flejtore | noun | dormitory
+fleshoj | verb | appear
+fletak | adj | winged
+fletarkë | noun | wing-nut on a gun-cock
+fletëletër | noun | leaflet
+fletëmullini | noun | paddle of a mill-wheel
+fletësharra | noun | serradella (plant)
+fletëshitje | noun | bill of sale
+fletëteneqe | noun | sheet tin
+fletoj | verb | fly
+fletkë | noun | lamina, scale; leaflet
+fletorar | adj | journalistic, newspaper-; journalist
+fletorizëm | noun | journalism
+flexë | noun | swaddling-band for an infant
+flikse | noun | a bird
+flilet | verb | make an offering
+fligatishëm | adj | resigned, ready for sacrifice
+fliçe | noun | toecap of a shoe; foot of a stocking
+flodhëroj | verb | help
+flog | noun | snowflake; flame
+flokatar | adj | hairy
+flokatë | noun | white woollen coat or jacket
+flokbardhë | adj | white-haired
+flokgjatë | adj | long-haired
+flokkuq | adj | red-haired, auburn
+flokverdhë | adj | blond
+flokzi | adj | black-haired
+flokje | noun | hair
+floksh | noun | sequin
