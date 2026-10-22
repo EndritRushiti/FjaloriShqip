@@ -44933,3 +44933,53 @@ furfullim | noun | rustle, rustling
 furfulloj | verb | rustle, rush; fling; bungle; scale (a fish)
 furfuri | noun | porcelain
 furgëroj | verb | hum, swarm
+# ── mannshto.tsv ──
+furkaçe | noun | forked stick for lifting or carrying loads, prop; forked stick for securing a load on a pack-saddle
+furkas | verb | fork up
+furkoj | verb | fork up
+furkët | noun | doorposts
+furneçkë | noun | nostril
+furnoj | verb | finish
+fërnoj | verb | finish
+furoj | verb | drive, push
+furqetë | noun | hairpin
+furqis | verb | fork
+furshekë | noun | fork
+furxhudik | noun | outlaw, bandit
+furr | noun | oven
+furrace | noun | salt-box; small maize loaf
+furrcë | noun | broom or bush heather
+furreveqë | noun | owl
+furreqi | noun | fornication
+furreveqe | noun | owl
+furri | noun | fury
+furriq | noun | hen-coop
+furros | verb | bake
+fushk | noun | bubble; blister; bladder
+fushkos | verb | blow up, inflate
+fust | noun | body, trunk
+fustanë | noun | dress
+fustenëz | noun | creeper, bindweed
+fushajë | noun | towel, napkin
+fushak | noun | wooden lath or bar; transom; plain, flat
+fushek | noun | cartridge
+fushekzarë | noun | fireworks
+fushëz | noun | small valley; battlefield
+fushzim | noun | encampment
+fushzoj | verb | encamp
+fushketë | noun | firework; rocket
+fushqetë | noun | firework; rocket
+fushkët | adj | discoloured, faded
+fushki | noun | dung, esp. goats' dung; farmyard manure
+fushqi | noun | dung; farmyard manure
+fushnjar | noun | harpoon
+fushnjer | noun | harpoon
+fushnje | noun | harpoon
+fushtar | adj | plain-dwelling; plainsman
+fushullim | noun | fluster, rustle
+fushulloj | verb | fluster, rustle
+futme | noun | addition
+futrolë | noun | mat-bag or holder for tools
+fyçi | noun | barrel
+fyellzjarri | noun | firework
+fyellët | adj | flute-

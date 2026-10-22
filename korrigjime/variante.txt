@@ -1252,3 +1252,6 @@ fshtiell | mbështjell | alternative
 ftejrë | fytyrë | alternative
 thtoft | ftohtë | alternative
 ftotë | ftohtë | alternative
+# ── Mann 1948 ──
+furr | furrë | alternative
+fyçi | fuçi | alternative
