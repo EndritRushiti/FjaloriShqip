@@ -1174,3 +1174,9 @@ fakturato | faturë | alternative
 fatyrë | faturë | alternative
 # ── Mann 1948 ──
 fambrikë | fabrikë | alternative
+# ── Mann 1948 ──
+farrasht | ferrishtë | alternative
+farrashe | ferrishtë | alternative
+farragje | ferrishtë | alternative
+fasan | fazan | alternative
+fasollë | fasule | alternative

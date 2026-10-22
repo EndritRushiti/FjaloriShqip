@@ -44070,3 +44070,56 @@ faqsi | noun | exterior, appearance, aspect
 faqesi | noun | exterior, appearance
 faqtim | noun | parade
 faraglos | noun | pencil
+# ── mannshto.tsv ──
+faqeza | adv | openly, publicly; clearly; frankly
+farashë | noun | stove; fireplace
+farashkë | noun | stove; fireplace
+farashk | noun | wooden box
+farashtua | noun | mass; shewbread; marker for holy bread
+farashuk | noun | variety of melon
+farcë | noun | bee left in the hive for breeding; ear of wheat left for seed
+farec | noun | kinsman
+farezë | noun | zero, nil
+farëshkrim | noun | ethnology
+farëshkrimtar | noun | ethnologist
+farfaran | adj | swaggering; swaggerer
+farfëroj | verb | sink to the bottom
+farfori | noun | purple; porcelain
+farfuris | verb | shine, resplend
+farfurishëm | adj | resplendent
+farim | noun | extermination; cancellation
+farizeu | noun | Pharisee
+farkatar | noun | blacksmith
+farktar | noun | blacksmith
+farkatore | noun | smithy
+farkëtore | noun | blacksmith's shop
+farmëk | adj | bitter; poison
+farmaq | noun | poison
+farmakos | verb | poison
+farmëkos | verb | poison
+farmëkosëm | adj | deadly
+farohet | verb | goes out, is extinguished
+farsej | adv | completely, altogether
+farsekan | noun | cigarette
+farsikan | noun | cigarette
+farsoj | noun | kind
+farshëm | adj | productive, fruitful
+fartore | noun | seedling nursery
+farzoj | verb | fertilise
+farrasht | noun | thicket
+farrashe | noun | thicket
+farragje | noun | thicket
+fasan | noun | pheasant
+fasandue | noun | peacock; pheasant
+fastidh | noun | care
+fastori | noun | sect
+fasollë | noun | bean
+fashinë | noun | meadow
+fashitës | adj | palliative
+fashkë | noun | band, bandage; swaddling-cloth
+fashket | noun | band, bandage
+fashkëroj | verb | charm, fascinate
+fashkoj | verb | bind, bandage
+fashkoqe | noun | bandages, swaddling clothes
+fashuell | noun | honeycomb
+fashullé | noun | handkerchief
