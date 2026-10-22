@@ -45789,3 +45789,66 @@ grykos | verb | choke
 grykosemi | verb | embrace
 grykosehem | verb | gorge oneself
 grykësë | noun | bib; front, shirt-front
+# ── mannshto.tsv ──
+grykësohem | verb | gorge oneself, overeat
+grykëtore | noun | guttural sound
+grymaç | noun | affection, tenderness, fondness; longing
+grymë | noun | banishment; swinish, devilish; row, scene
+grymosur | adj | frail, feeble
+grrac | noun | pot; potsherd
+grras | verb | shout
+grre | noun | tippler, hard drinker
+grreç | noun | gourd-bottle; potsherd; tortoise-shell
+grrefshë | noun | tuft, crest
+grrelle | noun | water-hole, water-cave; quarry, mine
+grrembç | noun | hook, prong; anchor
+grremc | noun | hook, prong
+grremçës | noun | clothes-peg
+grreqës | noun | rake, debauchee
+grric | verb | scrape, scratch
+grricaz | noun | a scratching game
+grricë | noun | scratch
+grricagrricë | noun | scratching noise
+grrifshë | noun | magpie
+grrim | noun | creak, creaking
+grris | verb | urge on, egg on, incite
+grrisht | verb | scratch
+grritje | noun | shout, scream
+grroç | noun | tortoise-shell
+grroj | verb | dig
+grrom | noun | hell
+grrondë | noun | bed or channel worn by a rapid torrent; beetling cliff eroded below by water; cave
+grronë | noun | bed or channel of a torrent
+grroqës | adj | rakish, loose
+grruc | verb | rasp, scrape
+grrucë | noun | rasp, scraper
+grrufë | noun | jet, spurt of blood
+grruj | verb | dig, excavate
+grruej | verb | dig, excavate
+grryej | verb | dig, dig out, excavate; shovel; dredge; scratch, scrape; rake up; scour saucepans
+grryem | adj | excavated, scooped out; hollow
+grryeme | noun | hollow; scratch, groove; erosion
+grryes | adj | excavating, digging, scraping; dredger
+grryk | noun | breeze, puff of wind
+gthapë | noun | claw, talon; catch, clasp, holder; catchment; inverted commas, brackets
+gthepë | noun | claw, talon
+kthapë | noun | claw, talon
+kthepë | noun | claw, talon
+gthetër | noun | claw, talon; heel
+gthuq | noun | twig; skewer; peg
+guajalli | noun | pain, ill
+guak | noun | hollow
+guazgë | noun | shell, husk
+gubere | noun | blanket, coverlet; long-sleeved jacket or bodice
+guber | noun | blanket
+gubëz | noun | scrofula
+gubzash | adj | scrofulous
+guckë | noun | grub of the cabbage white butterfly
+gucoj | verb | dare
+guçe | noun | sow
+guçej | verb | grunt
+guçë | noun | sow
+guçis | verb | annoy, bother
+guçoj | verb | annoy, bother
+gudall | noun | kettledrum
+gudël | adv | purposely, intentionally, just
