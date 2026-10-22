@@ -44026,3 +44026,47 @@ faltar | noun | worshipper
 falzë | noun | hole, priming pan
 fallakâ | noun | pillory
 fallsë | adj | false, lying
+# ── mannshto.tsv ──
+falltore | noun | fortune-teller (woman)
+famas | verb | be astonished
+fambrikë | noun | factory
+famell | noun | small boy
+famëzoj | verb | make known
+familar | adj | of the family; familiar, homely
+famos | verb | proclaim, noise abroad, boom
+famullë | noun | goddaughter
+fand | noun | knave, jack at cards
+fandas | verb | imagine, fancy
+fandasi | noun | fancy, imagination
+fandasmë | noun | fantasy, phantom
+fandëskanoj | noun | artilleryman
+fanellët | adj | flannel
+fanepsem | verb | appear
+fanepsje | noun | apparition
+fanëm | adj | fortunate
+fânur | adj | fortunate
+fângishte | noun | marshy land covered with rank growth
+fani | noun | apparition, vision; catastrophe; ruin
+fanis | verb | appear
+fanitur | noun | vision
+fanmirë | adj | holy
+fantaksem | verb | become proud
+fantoç | adj | comic, funny; puppet, marionette
+fantomë | noun | phantom
+fap | interj | whisk!
+faqas | adv | openly; obviously; in front
+faqefin | adj | fine-faced
+faqell | noun | cambric
+faqiell | noun | cambric
+faqesinth | noun | fair little face
+faqerrogos | adj | impudent; foolhardy
+faqezë | noun | facet
+faqoj | verb | present, show
+faqohem | verb | appear
+faqol | noun | headcloth, kerchief
+faqoll | noun | headcloth, kerchief
+faqore | noun | sucking-bottle
+faqsi | noun | exterior, appearance, aspect
+faqesi | noun | exterior, appearance
+faqtim | noun | parade
+faraglos | noun | pencil

@@ -1172,3 +1172,5 @@ faletuar | fajtor | alternative
 fakturë | faturë | alternative
 fakturato | faturë | alternative
 fatyrë | faturë | alternative
+# ── Mann 1948 ──
+fambrikë | fabrikë | alternative
