@@ -45491,3 +45491,58 @@ gojosh | adj | wry-mouthed
 gojashni | noun | gossipiness
 gojazi | adv | orally
 gojcë | noun | stitch in knitting; loop of wool pulled out
+# ── mannshto.tsv ──
+gojasllani | noun | snapdragon; toadflax; horehound
+gojëçorbë | adj | talkative
+gojëhale | adj | obscene
+gojëhapët | adj | open-mouthed, gaping
+gojëkeqe | noun | swearing, blasphemy
+gojëkrape | noun | snapdragon
+gojëlashtë | adj | obscene
+gojëlejleku | noun | foxglove
+gojëmace | noun | rest-harrow
+gojëmarrë | adj | halting in speech, stammering, tongue-tied
+gojëndyrët | adj | foul-mouthed
+gojëplotë | adj | cheeky, impudent
+gojëujku | noun | snapdragon
+gojëzbrazët | adj | nonsensical, silly, vain, empty, trifling
+gojk | noun | mouth of a river, confluence
+gojkë | noun | mouth of a river, confluence
+gojosës | adj | slanderous, libellous; libeller, slanderer
+gojosje | noun | slander, libel, defamation
+gojtare | noun | spokeswoman, mediator
+gojtari | noun | speech-making, eloquence
+gojuku | noun | snapdragon
+gojush | adj | talkative
+golec | noun | journeyman mason
+golitet | verb | (of wool) falls out of a sheep's throat
+golovexhë | noun | shell of fish or nuts
+gollovexhgë | noun | shell
+goluc | noun | iliac bone
+golugaçkë | noun | bat (animal)
+gollash | adj | bare, naked
+gollaxhere | noun | whirlpool
+gollë | adj | empty, vacant, void
+gollogungë | noun | juniper-berry
+gollogush | noun | nestling, fledgeling
+gollogjinë | noun | bush with edible red berries
+gollomish | adj | bare, naked
+gollovesh | noun | slug
+gollavesh | noun | slug
+gom | noun | burden; donkey
+gomalakë | noun | gum copal
+gomare | noun | she-ass
+gomarezë | noun | winding-stick, distaff; woodlouse, sowbug
+gomarina | noun | horse-play, foolish pranks
+gomarjar | noun | donkey-boy
+gomartar | noun | donkey-boy
+gomellë | noun | cave
+gomerë | noun | lobster
+gomeshë | noun | she-ass
+gomiç | noun | dolt, blockhead
+gomile | noun | heap, pile, esp. of stones, cairn; mound
+gomilë | noun | heap, pile, cairn
+gomluç | adv | headlong; in a heap
+gomnere | noun | precipice, gulf, abyss
+gomoj | verb | load
+gomsi | noun | resinous juice from diseased plums
