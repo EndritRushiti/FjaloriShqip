@@ -47404,3 +47404,60 @@ kablesh | noun | fibrous covering, beard on seed-capsules, nuts; wool on the hea
 kabni | noun | roguery
 kabohem | verb | be mistaken
 kabrroz | adj | frozen in the form of steps (of a river)
+# ── mannshto.tsv ──
+kabul | noun | bogey
+kabune | noun | tuft on plants
+kabuni | noun | kind of plum-pudding
+kabzerr | noun | gullet, oesophagus
+kac | noun | kid; skin-bottle
+kacabet | noun | trip-up
+kacabun | noun | beetle
+kacadri | noun | stagbeetles
+kacagjelem | verb | dash, strike, jar
+kacalytë | noun | tuft, crest; a bird
+kacambill | noun | chain of mountains
+kacambitem | verb | struggle, fight, come to grips
+kacambitje | noun | struggle, fight
+kacamicem | verb | fight (as birds)
+kacamill | noun | snail; cochlea of the ear; oyster
+kacamiçë | noun | oyster
+kacanuk | verb | pinch, tweak
+kacarollë | noun | saucepan, stewpot
+kacarump | noun | core of a corn-cob
+kaçarrum | noun | core of a corn-cob
+kacature | noun | Martini-gun with bayonet; bayonet
+kacave | noun | chopper
+kaçavilë | noun | screwdriver
+kacavirem | verb | climb
+kacavjerrem | verb | climb
+kacej | verb | frisk, gambol; dance
+kacer | adj | with horns erect
+kacetan | adj | jumping, bouncing, frisking
+kacibardh | noun | sloe
+kacidh | noun | penny, half piastre
+kacill | noun | penny
+kacidhjar | adj | bald; poor, wretched
+kacilitë | noun | cloth cap worn by women
+kacim | noun | dancing
+kacimtare | noun | dancer, dancing girl
+kacipup | adv | bounding, hopping
+kaciram | noun | an aquatic plant
+kacis | verb | pin, attach; get caught, get hitched, get stuck
+kacmill | noun | snail
+kacoj | verb | serve, be of use
+kacok | noun | undersized maize-cob
+kacollë | noun | hut
+kacolle | noun | hut
+kacua | noun | servant
+kacubri | noun | a beetle
+kacule | noun | little sheaf
+kaculitë | noun | cloth cap worn by women
+kacull | noun | vesicaria (plant)
+kacup | noun | kid
+kacurrete | noun | hood, cowl
+kacybet | noun | trip-up
+kaçabek | noun | trip-up
+kaçabet | noun | trip-up
+kaçabetë | noun | trip-up
+kaçabroj | verb | block, trip up
+kaçallok | noun | snail
