@@ -46376,3 +46376,64 @@ gjithçkahit | adv | from all sides
 gjithdije | noun | omniscience
 gjithdijës | adj | all-knowing
 gjithdjegur | noun | burnt offering
+# ── mannshto.tsv ──
+gjithfarsh | adj | of all kinds, assorted, miscellaneous
+gjithhere | adv | all the time, continually
+gjithheret | adv | all the time
+gjithicili | pron | each, every one
+gjithkaha | adv | everywhere, from all sides
+gjithkahmos | adv | from all sides
+gjithkështu | adv | likewise, in the same way
+gjithku | adv | everywhere, wheresoever
+gjithkujna | pron | everybody's
+gjithkun | adv | everywhere
+gjithkundi | adv | from everywhere
+gjithkânt | adv | everywhere
+gjithkushdohi | pron | everybody
+gjithkushëm | adj | ubiquitous, universal
+gjithky | pron | this very, the very same
+gjithllojsh | adj | of all kinds
+gjithllojshëm | adj | of all kinds, miscellaneous
+gjithmarshëm | adj | general, universal; all-round, comprehensive
+gjithmeni | noun | entirety
+gjithmot | adv | always, for ever
+gjithmodnë | adv | always, ever
+gjithmon | adv | always
+gjithmonsh | adv | always
+gjithmotin | adv | always
+gjithnduer | adj | of all kinds
+gjithnduersh | adj | of all kinds
+gjithngahera | adv | every now and then
+gjithnjeri | pron | everybody
+gjithnji | adv | always, all the time, continuously; all the same
+gjithnjipo | adj | the same
+gjithnjisi | noun | uniformity
+gjithnjishëm | adj | perpetual; uniform
+gjithparu | adv | everywhere
+gjithpushtet | noun | omnipotence
+gjithpushtetës | noun | the Almighty
+gjithqish | pron | everything possible; sum, total; however
+gjithqishte | noun | universe
+gjithsa | pron | all those who
+gjithsakafshëz | pron | everything
+gjithsicili | pron | each one, everyone
+gjithsicilli | pron | each one
+gjithsejshëm | adj | absolute, thoroughgoing, out-and-out
+gjithsi | noun | totality, universe
+gjithsoj | verb | generalise
+gjithshêjti | noun | the very reverend
+gjithshkahit | pron | everything; all that
+gjithshkafe | noun | the whole
+gjithshkahe | noun | the whole
+gjithvin | adv | all the year round
+gjiveç | noun | deep pan with handles
+gjivorek | noun | small roll, pretzel
+lulegjize | noun | a kind of rush with pink flowers
+gjiztar | noun | cheese-curd maker
+gjobtar | noun | imposer of fines; customs-officer
+gjodheshë | noun | Jewess
+gjuks | noun | breast, chest
+gjolishte | noun | marsh, fen
+gjom | noun | shingle (in a river)
+gjomar | noun | past sufferer from plague who lends his services to others
+gjonks | noun | breast, chest
