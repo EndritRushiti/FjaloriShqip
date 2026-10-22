@@ -46123,3 +46123,29 @@ gjallsim | noun | revival; vitality
 gjallsoj | verb | enliven, revive, vivify, animate
 gallustër | noun | skylight
 gjallustre | noun | skylight
+# ── mannshto.tsv ──
+gjam | noun | echo, shout, tumult; thunderclap, peal of thunder; patch of land at the water's edge, lea, paddock
+gjamas | adv | likewise
+gjamb | noun | thorn
+gjamur | adj | sorrowful, distressed
+gjandem | verb | be found
+gjapi | noun | lime
+gjar | noun | donkey, ass
+gjarpneshë | noun | female serpent
+gjaruc | adj | naked
+gjarris | verb | whet a scythe
+gjas | verb | resemble; seem, appear; be fitting, be proper
+gjasendi | pron | something, anything
+gjësendi | pron | something, anything
+gjasi | noun | likeness; analogy
+gjasis | verb | resemble; compare; recognise
+gjashme | noun | grace
+gjashore | noun | variety of grape (pinot noir)
+gjashtçip | noun | hexagon
+gjashtçipët | adj | hexagonal
+gjashtdhet | num | sixty
+gjashtdhiet | num | sixty
+gjashtëdhiet | num | sixty
+gjashteshë | noun | sextain
+gjashtës | noun | six
+gjashtëz | noun | ode
