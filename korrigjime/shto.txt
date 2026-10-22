@@ -48457,7 +48457,6 @@ karhân | noun | comb
 kirhân | noun | comb
 kërkah | adv | from any side; from anywhere
 kërkahit | adv | from anywhere
-kërkëllimë | noun | hubbub
 kërkill | noun | miser, skinflint
 kërkund | adv | anywhere
 kërkush | pron | anyone
@@ -48490,3 +48489,55 @@ kërpanak | noun | dapple-grey horse
 kërpë | noun | patch, rag
 kërpët | adj | hempen
 kërpij | verb | salt, pickle
+# ── mannshto.tsv ──
+kërc | verb | snap
+kërpitem | verb | recover, get well; thrive, prosper; show prowess; make a good impression; swagger, show off; take up one's stand
+kërpudhoj | verb | sponge, be parasitic
+kërqabë | noun | triangular peg tied to animals' necks to prevent passing through hedges
+kërqel | noun | lime
+kërqeloj | verb | lime
+kërqellë | noun | large knife worn at the belt
+kërqilik | noun | trigger-guard
+kërqillik | noun | trigger-guard
+kërqitun | noun | gout
+kërsëllij | verb | rattle, crack
+kërsëllimë | noun | rattle, crack
+kërsëlloj | verb | rattle, crack
+kërsi | noun | shin, shinbone; cannon-bone
+kërsij | verb | chop up; destroy
+kërsis | verb | crack, bang
+kërsneqe | noun | shin
+kërstall | noun | crystal
+kërshtall | noun | crystal
+kërstallët | adj | crystal-
+kërsh | noun | cliff, rock
+kërshmoj | verb | fast; break fast
+kërshte | adj | Christian
+kërshtenisht | adv | Christianly
+kërshterim | noun | Christianity
+kërtesë | noun | crook
+kërtezë | noun | crook
+kërthela | noun | twigs
+kërthij | verb | soften; crumble; belate, retard (in ripening)
+kërthija | noun | twigs
+kërthiak | adj | bristly
+kërthitë | adj | tender, young, immature
+kërthimë | adj | tender, immature
+kërthini | noun | childhood, infancy; tenderness; precocity
+kërthinjët | adj | milch
+kërthinjë | noun | child, baby
+kërthndez | verb | rouse; inflame, infuriate
+kërthndezem | verb | awaken, revive, get vigorous
+kërvallem | verb | bray
+kërutë | adj | bent, crooked
+kërxej | verb | jump, dance
+kërxoj | verb | jump, dance
+kërxyesë | noun | dancer (woman)
+kërrcas | verb | scratch
+kërrcë | noun | gristle
+kërrcukës | noun | somersault
+kërreke | noun | she-colt
+kërrshme | noun | rough place, heath
+kërrneqe | noun | joint
+kërrnjotem | verb | snivel, snuffle; waste time, potter about, idle, loaf
+kërrnjotë | noun | mucus from the nose, catarrh, esp. in cattle; moth, worm, weevil
