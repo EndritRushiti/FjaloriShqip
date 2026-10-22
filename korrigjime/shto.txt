@@ -44983,3 +44983,40 @@ futrolë | noun | mat-bag or holder for tools
 fyçi | noun | barrel
 fyellzjarri | noun | firework
 fyellët | adj | flute-
+# ── mannshto.tsv ──
+fyem | adj | offended; offence, insult
+fyemje | noun | offence, insult
+fyk | noun | seaweed
+fyqe | noun | seaweed
+fyllze | noun | tubes, pipes
+fymje | noun | offence
+fyrë | noun | loss in weight
+fyshekore | noun | cartridge-case
+fyshekqor | noun | firework
+fyshekzar | noun | firework
+fyshkë | noun | hollow object
+fyshkur | noun | consumption (illness)
+afyt | adv | at each other's throats; neck and neck
+afytas | adv | at each other's throats; neck and neck
+fytme | noun | swallowing
+fytorë | noun | face
+fytrrec | noun | larynx
+fytrrecë | noun | larynx
+fytyrçelë | adj | cheerful, bright, beaming
+fytyrsim | noun | simile, metaphor
+fytyrsoj | verb | illustrate
+fyzavek | noun | game of blind man's buff
+fyzë | noun | pipe, tube
+gabele | noun | Gipsy woman
+gabelçkë | noun | Gipsy girl or woman
+gabelicë | noun | Gipsy girl or woman
+kumbullëgabele | noun | variety of plum
+gaber | noun | fathead, fool
+gabël | noun | turkey
+gabrrollë | noun | spree, lark
+gabzhar | noun | corncob
+gac | verb | bite
+gacgavis | verb | urge on, impel
+gacgavitës | adj | urging; agitator
+gacmim | noun | incitement
+gacmoj | verb | egg on, urge, incite

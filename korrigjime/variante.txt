@@ -1255,3 +1255,5 @@ ftotë | ftohtë | alternative
 # ── Mann 1948 ──
 furr | furrë | alternative
 fyçi | fuçi | alternative
+# ── Mann 1948 ──
+fymje | fyemje | alternative
