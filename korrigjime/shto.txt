@@ -48403,7 +48403,6 @@ këputëm | adj | finished, cut-and-dried; disjointed
 këpuzë | noun | corolla (of a flower)
 këqir | verb | look, watch
 këqyrtoj | verb | examine
-kërbujë | noun | a fish
 kërbuj | adj | crooked
 kërbujem | verb | bend, bow down
 kërbujsi | noun | contraction
@@ -48411,7 +48410,6 @@ kërbul | verb | stink; stifle with stench
 kërbulsh | adj | stinking
 kërbultë | adj | stinking
 kërbulzoj | verb | infect with leprosy
-kërbullë | noun | raven
 kërbunjem | verb | be bent, be hunchbacked
 kërbutë | adj | hunchbacked
 kërbythje | noun | coccyx
@@ -48431,3 +48429,64 @@ kërcunar | adj | outcast, wretched; wretch, idler
 kërcunare | noun | wretched woman
 kërcuqe | noun | hip
 kërcure | noun | stumps, trunks
+# ── mannshto.tsv ──
+kërcyese | noun | dancer (woman)
+kërç | noun | donkey's colt; burst, shatter
+kërçabë | noun | small branch, twig
+kërçelë | noun | knotted chip of wood
+kërçele | noun | undergrowth, twigs, brushwood
+kërçik | noun | shin; buttock, rump; stump, log, trunk
+kërçmar | noun | innkeeper
+kërçmë | noun | inn, tavern; harvest-home festival
+kërçmëtar | noun | innkeeper
+kërçok | noun | tree-trunk, stump, log
+kërçop | noun | tree-trunk, stump
+kërçup | noun | tree-trunk, stump
+kërdimë | noun | slaughter, destruction, havoc
+kërditem | verb | feel sick
+kërditshëm | adj | sickening, nauseating
+kërdiçëm | adj | sickening, nauseating
+kërdioj | verb | creak, jar
+kërdhokël | noun | joint, knuckle, esp. of the upper arm or leg; hipbone, haunch; thighbone; wrist
+kërdhokullë | noun | joint, knuckle; hipbone
+kërdhukull | noun | eyeball
+kërep | noun | hemp
+kërhân | noun | comb, esp. carding-comb; flax-comb, hackle; scallop
+karha | noun | comb
+karhân | noun | comb
+kirhân | noun | comb
+kërkah | adv | from any side; from anywhere
+kërkahit | adv | from anywhere
+kërkëllimë | noun | hubbub
+kërkill | noun | miser, skinflint
+kërkund | adv | anywhere
+kërkush | pron | anyone
+kërleshem | verb | get towsled, pull each other's hair; stand on end (of hair)
+kërlitë | adj | false, artificial; weakly
+kërlug | noun | crook; hook, esp. grapple-hook; harpoon
+kërluk | noun | crook; hook
+kërmak | adj | carrion-like, carrion-
+kërmasëm | noun | millrace
+kërmbill | noun | snail
+kërmez | noun | crimson; cochineal insect
+kërmës | noun | crimson; cochineal
+kërmëz | noun | crimson; cochineal
+kërmët | adj | rotten, decayed
+kërmis | verb | destroy
+kërmtar | noun | flayer
+kërnal | adj | bald
+kërnalem | verb | grow bald
+kërnall | noun | ocean
+kërnaq | verb | please
+kërnelldis | verb | get cramp (in the foot)
+kërnelldisem | verb | get cramp; have pins and needles
+kërrnelldisem | verb | get cramp
+kërnetë | noun | clarinet
+kërnezem | verb | warm oneself
+kërnjallët | adj | brisk
+kërokëll | noun | joint, knuckle
+kërpaç | noun | patcher, repairing tailor
+kërpanak | noun | dapple-grey horse
+kërpë | noun | patch, rag
+kërpët | adj | hempen
+kërpij | verb | salt, pickle
