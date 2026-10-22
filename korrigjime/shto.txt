@@ -44123,3 +44123,62 @@ fashkoj | verb | bind, bandage
 fashkoqe | noun | bandages, swaddling clothes
 fashuell | noun | honeycomb
 fashullé | noun | handkerchief
+# ── mannshto.tsv ──
+fatalumas | adv | blithely, blissfully; haphazard
+fatamjerë | adj | sad, melancholy
+fatbardhsi | noun | happiness, joy, luck, fortune
+fatbardhsisht | adv | luckily
+fatbardhsoj | verb | cheer, make happy
+fatërt | adj | fatal, unerring, inevitable, foredoomed
+fatgjatë | adj | lucky
+fatim | noun | congratulation
+fatkeqni | noun | misfortune, sorrow, misery; accident
+fatkeqsi | noun | misfortune
+fatkeqsisht | adv | unfortunately
+fatligë | adj | unhappy, unlucky
+fatlumas | adv | blithely, blissfully
+fatlumtëri | noun | happiness
+fatmashall | adj | domineering
+fatmirsi | noun | happiness, luck
+fatmirsisht | adv | happily
+fatmirsoj | verb | gladden, favour
+fatoj | verb | greet, wish, bid, congratulate
+fatpremës | adj | dire, fateful
+fatshëm | adj | fortunate
+fatshkretë | adj | hapless
+fatueshëm | adj | favoured, fortunate
+fatzezi | noun | misfortune
+favë | noun | broad bean
+fazëm | noun | phantom; leaf-fly
+fedak | adj | religious; fanatical, over-religious
+feqke | noun | trunk, snout
+fejshkët | adj | flabby
+fejues | noun | betrothed man
+feksej | verb | light; shine
+feksem | verb | beam, shine
+feksim | noun | flash; glitter; reflection
+feksoj | verb | reflect; shine
+feksurë | noun | light
+fekua | noun | eagle
+fekul | noun | torch
+fel | noun | mood, humour; good humour, jollity; cork oak
+felakë | noun | small stick; shaft-pole of an ox-cart
+feldspath | noun | felspar
+felëz | noun | small slice
+felemoj | verb | slice
+felëqi | noun | ship's rigging
+feletë | noun | small sheet, leaf
+feleshues | noun | turncoat, infidel, apostate
+felgroj | verb | dilate the nostrils, snort
+feli | noun | cake
+felmareshal | noun | field-marshal
+felon | noun | stole worn at mass
+feltër | noun | felt
+feltinë | noun | arquebus
+feliç | adj | happy, fortunate
+fellim | noun | expansion, amplification, development
+fellsi | noun | depth
+fellsinë | noun | depth
+feme | noun | awl
+femënëz | noun | little woman
+femni | noun | effeminacy

@@ -1180,3 +1180,6 @@ farrashe | ferrishtë | alternative
 farragje | ferrishtë | alternative
 fasan | fazan | alternative
 fasollë | fasule | alternative
+# ── Mann 1948 ──
+fatkeqsi | fatkeqësi | alternative
+fatkeqsisht | fatkeqësisht | alternative
