@@ -47885,7 +47885,6 @@ kapasë | noun | oil-barrel
 kapat | noun | captivity, slavery
 kapati | noun | captivity
 kapatoj | verb | capture, enslave
-kapatruc | adj | hobbled
 kapci | noun | bare grape-stalk
 kapcyrë | noun | larynx
 kapça | noun | tongs
@@ -47915,3 +47914,44 @@ kaploq | noun | distaff full of unspun wool or flax; blockhead
 kaploqe | noun | distaff full of unspun wool
 kaplladis | verb | cover, line
 kapllak | noun | facing-material, plate
+# ── mannshto.tsv ──
+kapllatis | verb | enclose, face, plate; surround, encompass, shut in
+kapllaç | adj | filled, stuffed, crammed
+kapllaçinë | noun | pad to prevent the yoke chafing oxen
+kapllaçë | noun | pad under the yoke
+kapnua | noun | smoke
+kapole | noun | hood
+kapoletë | noun | hood, cowl, covering
+kapreshë | noun | halter
+kapricë | noun | caper, wild dance; caprice; fussy woman, foolish woman; busy woman
+kaprolle | noun | doe; nanny-goat
+kaprej | noun | kids
+kaprreç | adj | bold, arrogant
+kaprros | verb | accoutre, equip; with full kit, fitted out
+kapshallis | verb | wink, blink
+kapsis | verb | congest; dazzle
+kapsje | noun | constipation
+kapsoll | noun | capsule; percussion cap; cartridge-case
+kapsuell | noun | capsule; percussion cap
+kapsule | noun | capsule; percussion cap
+kaptell | noun | saddle-bow, pommel of a pack-saddle; head of a cradle; head of a bed, top end
+kaptellë | noun | pommel of a pack-saddle
+kaptim | noun | crossing, passing; gulping, swallowing; estimate, calculation; disappearance; sunset
+kaptirë | noun | abyss
+kaptua | noun | horseshoe
+kaptueshëm | adj | passing; transitive
+kaptyell | noun | pommel of a pack-saddle
+kapuc | noun | monk's hood, cowl
+kapucar | noun | shoemaker
+kapucari | noun | shoemaking
+kapucë | noun | shoes
+kapuças | adv | a cap game
+kapul | noun | pile, shock (of corn); truss (of hay); haycock; small heap; crowd, mass; chimney-pot, chimney-stack
+kapule | noun | pile, shock
+kapuletë | noun | straw mat covering sheaves; hayloft; monk's robe
+kapulë | noun | tuft on maize
+kapulicë | noun | cap
+kapulkë | noun | hood on a carriage
+kapulloj | verb | enclose, surround
+kapurrenjë | adj | curly, woolly
+kapuxhak | noun | drawer (of a table)
