@@ -45010,7 +45010,6 @@ fyzë | noun | pipe, tube
 gabele | noun | Gipsy woman
 gabelçkë | noun | Gipsy girl or woman
 gabelicë | noun | Gipsy girl or woman
-kumbullëgabele | noun | variety of plum
 gaber | noun | fathead, fool
 gabël | noun | turkey
 gabrrollë | noun | spree, lark
@@ -45972,21 +45971,14 @@ gurgali | noun | uproar
 gurgulec | noun | pebble; pellet
 gurgllim | noun | gurgling, bubbling
 gurgullinë | noun | gulp, mouthful
-gurgjaku | noun | haematite
-gurikali | noun | copper sulphate
 gurkërqelje | noun | limestone
-gurqumështi | noun | galactite
 gurshkrepc | noun | flint
 gurshurri | noun | sandstone
-gurzjarri | noun | flint
 # ── mannshto.tsv ──
-gurjeqershi | noun | hard variety of cherry
 gurkë | noun | pebble; cart track, rut; rails, rail-track
 gurmacash | noun | game of five-stones
-gurmëlçije | noun | bezoar
 gurmicë | noun | alabaster
 gurmicët | adj | alabaster
-gurmullini | noun | millstone; a ring game
 gurnec | noun | miser
 gurnë | noun | spring, fountain
 guroj | verb | petrify, turn to stone, harden
@@ -46443,8 +46435,6 @@ gjosë | noun | goat, esp. a black nanny-goat with white markings on the forehea
 gjoskë | noun | goat with white markings
 gjuaja | adv | perhaps; as if
 gjudhi | noun | Jew; strong man
-gjuejtjepeshku | noun | fishing industry, fishery
-gjuetipeshku | noun | fishing
 gjugaç | noun | puddle
 gjugjetë | noun | a vice
 gjugjitar | noun | judge
@@ -46454,7 +46444,6 @@ gjuhëuji | noun | pondweed
 gjuhëlope | noun | mullein
 gjuhëdele | noun | laburnum; marvel of Peru
 gjuhëdreni | noun | hart's-tongue fern
-gjuhëtoke | noun | headland, cape
 gjuhëzogu | noun | small red-flowering plant growing in walls and damp places
 gjuhëkuq | noun | Gipsy
 gjuhëlashtë | adj | talkative
@@ -46511,7 +46500,6 @@ gjygjtar | noun | judge
 gjygjoj | verb | judge, sentence
 gjykallë | noun | cricket
 gjykatar | noun | judge
-gjykatarhetues | noun | coroner
 gjykatas | noun | judge
 gjykatori | noun | lawcourt
 gjykbjerrës | noun | loser of a case
@@ -46546,14 +46534,12 @@ gjymsëpërgjymsë | adv | half-and-half, fifty-fifty
 gjymsëqark | noun | semicircle
 # ── mannshto.tsv ──
 gjymsoj | verb | divide into two, halve
-gjymsëpërshkues | adj | semi-transparent
 gjymtas | adv | defectively
 gjymtisem | verb | die out, die off; run out, fail; go out; diminish, lessen
 gjymzë | noun | half
 gjynaqar | noun | sinner; sinful
 gjypës | noun | vulture
 gjyqbjerrës | noun | loser in a case
-gjyqtarpaktues | noun | Justice of the Peace
 gjyrë | noun | dye
 gjyrëthellë | adj | dark
 gjyrëzezë | noun | vitriol
@@ -46595,7 +46581,6 @@ hadh | noun | Hades, hell
 hadhë | noun | Hades, hell
 hae | noun | food, meal
 hé | noun | food, meal
-haemesditës | noun | lunch, dinner
 haepjekës | noun | cook
 haes | noun | eater; glutton
 haetore | noun | eating-house
@@ -46667,7 +46652,6 @@ halltar | adj | careful
 ham | noun | tether of a horse when threshing; stallion for breeding; cock-horse; stiff in the shoulders (of horses)
 hamakush | noun | large bird of prey
 hamalle | noun | corn-field; stubble, field left for pasture; scrub-forest reserved for fodder
-hambarqymyri | noun | coalshed
 hamëlli | noun | voracity
 hamëlloj | verb | evaporate
 hamje | noun | food, foodstuff, provisions, eatables; board; diet
@@ -46748,9 +46732,7 @@ harmohem | verb | waste, fall to pieces; wear oneself out, mourn, grieve
 harmush | noun | young rabbit
 haronë | noun | pan, baking-pan
 hart | noun | art; method
-hartëgjeografike | noun | map
 hartis | verb | draft, draw up; compile; draw, sketch; outline; compose, write
-hartojmemênd | verb | imagine
 hartos | noun | rafter
 hartosë | noun | rafter
 harth | noun | spring; safety-catch on a gun
@@ -46802,12 +46784,7 @@ heckë | noun | short-sleeved jacket
 hedev | noun | khedive
 hedha | noun | winnowings, chaff of maize, husk
 # ── mannshto.tsv ──
-hedhevdore | noun | snowflake
-hedhetëkaptinës | noun | scurf, dandruff
-hedhetëzjermit | noun | flake ash
 hedhëm | adj | thrown, cast
-hedhjeelirë | noun | free kick, free throw
-hedhjenëgjyk | noun | prosecution
 hej | noun | stalactite, stalagmite; icicle
 hejlik | noun | pebble
 hek | verb | pull, draw
@@ -46815,7 +46792,6 @@ hekës | adj | purgative
 hekrrah | noun | haemorrhage in sheep
 heksëm | adj | transparent
 heksi | noun | smuggling trade
-hekuriibarkës | noun | anchor
 hekuraçë | noun | iron trap
 hekuraq | adj | of iron; adamant
 hekuraqe | noun | scrap-iron; ironware, ironmongery
@@ -46833,7 +46809,6 @@ helmsi | noun | virulence
 helmshëm | adj | poisonous
 helmtar | adj | sorrowful
 helmor | adj | poisonous
-hellmishi | noun | meat-skewer
 helle | noun | flake
 hendiqe | noun | ditches
 jendek | noun | ditch
