@@ -47104,3 +47104,41 @@ hungroj | verb | grunt, growl; rumble
 hunguris | verb | whinny, whimper
 huni | noun | anvil
 hunxë | noun | tip, point, nib; pen
+# ── mannshto.tsv ──
+hunjët | adj | low
+hujm | verb | spoil, ruin, destroy; fail
+hujas | verb | breathe hard
+hurasun | noun | mortar
+hurdhatak | adj | marshy
+hurdhiq | adj | soaking, pouring; soaked
+hurdhje | noun | tetters
+hurgj | adv | amiss, wrong
+hurxh | adv | amiss, wrong
+hurp | verb | sip, drink in small gulps; sip, small gulp
+hurpas | verb | sip
+huruem | adj | congratulated
+huruvejkë | noun | owl
+huruvejkët | adj | grotesque, weird; adventuresome
+hust | interj | cry to oxen
+husten | noun | goad
+hutabi | noun | shuttlecock
+hutël | noun | carrion bird
+hutesë | noun | distractedness, dazedness
+hutëbardhë | noun | vulture, sparrow-hawk
+hutëroj | verb | daze, stupefy
+hutos | verb | daze, stupefy
+hutroj | verb | daze, stupefy
+hutrojë | noun | kind of hawk; silly woman
+huturij | verb | howl
+huva | noun | loan
+huvi | noun | band, bandage, swaddling-band
+huvje | noun | bandage
+hyjenë | noun | hyena
+hyjdije | noun | astronomy; theology
+hyjesi | noun | divinity
+hyjesim | noun | deification
+hyjesoj | verb | deify
+hyjeshëm | adj | divine
+hyjlindse | noun | Morning Star
+hyjnderim | noun | veneration, worship
+hyjplime | noun | the Milky Way
