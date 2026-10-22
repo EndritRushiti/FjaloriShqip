@@ -49077,7 +49077,6 @@ kopcis | verb | button, clasp, fasten
 kopçane | noun | trousers, breeches
 kopçë | noun | button
 kopertonë | noun | motor tyre
-kopë | noun | head
 kopërr | noun | copra
 kopij | noun | copy
 kopilan | adj | smart, clever, shrewd
@@ -49098,14 +49097,12 @@ koprëz | noun | dill
 kopshë | noun | moth, woodworm
 kopshtnaje | noun | gardens
 koptar | adj | big-headed
-koptesh | noun | low cake of bread baked in ashes
 koptirë | noun | bottle, flask
 koptis | verb | hurry away, rush off; arrive
 kopullë | noun | cap
 koqemillë | noun | cochineal insect
 koqere | noun | can, pot
 koqezë | noun | small grain; pimple, pustule
-koqës | noun | low-growing herb with berries, perhaps bilberry
 koqëz | noun | small grain
 koqile | noun | shell
 koqinil | noun | cochineal
