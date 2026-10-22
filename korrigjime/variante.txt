@@ -1247,3 +1247,8 @@ frykt | fryt | alternative
 # ── Mann 1948 ──
 frymzim | frymëzim | alternative
 frymzoj | frymëzoj | alternative
+# ── Mann 1948 ──
+fshtiell | mbështjell | alternative
+ftejrë | fytyrë | alternative
+thtoft | ftohtë | alternative
+ftotë | ftohtë | alternative

@@ -44840,3 +44840,55 @@ fshisë | noun | wiper, duster; mat
 fshitar | noun | sweeper
 fshtes | verb | support
 fshtetem | verb | be supported; lean; stay, remain
+# ── mannshto.tsv ──
+fshtiell | verb | wrap
+fshtij | adj | hard, difficult
+fshtik | noun | chip of wood not fully severed from the block
+fshtymë | noun | soot
+ftallim | noun | cabbage or vegetable pie
+ftejrë | noun | face
+ftek | verb | think over, consider
+ftekem | verb | recall, recollect; mean, intend; have an idea
+fteks | verb | finish
+fteqet | verb | clear up (of weather)
+ftere | noun | fan
+ftest | verb | accuse, charge
+fteta | adv | indeed, really
+ftënoj | verb | dent, batter
+fti | noun | dumbness
+ftigë | noun | toil, hardship
+ftikem | verb | dry oneself; bask; run dry
+ftikës | adj | stanching, drying
+ftillkesë | noun | explanation
+ftillkoj | verb | expound, propound, explain
+ftillkueshëm | adj | well-proportioned, well-constructed
+ftillzoj | verb | expound, explain
+ftim | noun | invitation
+ftisi | noun | phthisis
+thtoft | adj | cold
+ftohtsinë | noun | cold, catarrh
+ftohsirë | noun | cold
+ftohtsi | noun | cold, chill; coldness, aloofness
+ftolloj | verb | thin
+ftomë | adj | strong
+ftoris | verb | cool
+ftrosh | verb | snort
+ftotë | adj | cold
+ftri | noun | snowdrift
+ftujak | noun | one-year-old male kid
+ftujëz | noun | young female kid
+ftyrcë | noun | vizor
+ftyrsim | noun | physiognomy
+ftyrzim | noun | notion, idea, figure
+fucë | noun | hollow walnut
+fuçkë | noun | bubble; blister; bladder
+fudëll | noun | clasp, buckle
+fufleshkë | noun | good theory
+fufufejkë | noun | whirlwind
+fugaçë | noun | cake; blancmange, custard
+fugar | noun | runner
+fugoj | verb | run, race
+fugure | noun | figure, image, form
+fuinë | noun | marten
+fukar | adj | poor
+fukëlbukël | noun | weasel
