@@ -1261,3 +1261,9 @@ fymje | fyemje | alternative
 gadal | ngadalë | alternative
 gadhnjej | ngadhënjej | alternative
 gadhënenj | ngadhënjej | alternative
+# ── Mann 1948 ──
+gashërimë | ngashërim | alternative
+gashëronem | ngashërehem | alternative
+gatishull | gadishull | alternative
+gatishulle | gadishull | alternative
+gajtuaj | gatuaj | alternative

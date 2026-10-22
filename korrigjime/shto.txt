@@ -45124,3 +45124,70 @@ garidhe | noun | shrimp
 garjet | noun | courage
 garnizonë | noun | garrison
 garofan | noun | carnation
+# ── mannshto.tsv ──
+garuc | adj | naked; disturber, brawler
+garuq | adj | naked
+garufall | noun | carnation
+garule | noun | heap, pile
+garum | noun | heap, pile
+garumull | noun | heap, pile
+garush | adj | dark, swarthy
+garushan | adj | dark, swarthy
+garzo | noun | gauze
+garraç | noun | flower-pot; potsherd
+garramet | noun | worry, trouble
+garran | noun | abyss, gorge
+garravell | adj | lanky, lean
+garravesh | noun | vine-prop
+garravi | noun | bother, nuisance; row, din, confusion
+garravitë | noun | bother, nuisance
+garravitëm | noun | bother, nuisance
+garre | noun | ditch, dike; gorge, ravine
+garrë | noun | ditch; gorge, ravine
+garrinaqe | noun | affectation, pretence
+garroqe | noun | porcelain bowl
+garruc | noun | nuisance, disturber
+garrumël | noun | heap, pile
+gas | noun | joy
+gasçëm | adj | pleasant, charming
+gasiliçio | noun | treasury
+gasol | noun | flint, stone
+gastagua | noun | pack-animal, donkey, mare
+gastan | adv | then, afterwards
+gastarinë | noun | glassware
+gastartë | adj | glass-, of glass
+gastër | noun | plot, area; district; slice
+gashërimë | noun | sobbing
+gashëronem | verb | sob
+gatër | noun | bunch of dry leaves
+gatimore | noun | finishing school
+gatishull | noun | peninsula
+gatishulle | noun | peninsula
+gatitsi | noun | readiness, promptitude
+gatitshëm | adj | ready
+gatitura | noun | preparations
+gatith | adj | pregnant
+gatocë | noun | kneader
+gatonjës | adj | kneading; cook
+gatrri | noun | trickery
+gatuc | noun | dogfish
+gajtuaj | verb | cook
+gatohem | verb | prepare, get ready
+gaunis | verb | snarl, growl; mew
+gavnar | adj | proud, haughty
+gavdhericë | noun | grub
+gavele | noun | felloe of a wheel
+gavelë | noun | felloe of a wheel
+gavell | noun | felloe of a wheel; lanky, lean
+gavërr | noun | hole, hollow
+gavërzë | noun | small hole; pore; cavity; follicle
+gavigj | noun | cask; barrel-shaped fireplace
+gavole | noun | husk, pod, capsule
+gavricë | noun | small hole
+gaxullinë | noun | firefly
+gaxhahutë | noun | bat (animal)
+gaxhavilë | noun | bat (animal)
+gaxhe | noun | vendetta
+gaxhep | noun | claw; sharp stump of a branch
+gaxherre | noun | sheep's entrails
+gaxhë | noun | patella, kneepan; cage
