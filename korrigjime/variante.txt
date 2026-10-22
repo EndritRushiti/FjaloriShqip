@@ -1225,3 +1225,9 @@ fjakë | flakë | alternative
 fjas | flas | alternative
 fjoj | fejoj | alternative
 fjuturoj | fluturoj | alternative
+# ── Mann 1948 ──
+flytyrim | fluturim | alternative
+fllaxë | thëllëzë | alternative
+fllig | fëlliq | alternative
+fner | fener | alternative
+foell | fyell | alternative

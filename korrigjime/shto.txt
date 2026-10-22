@@ -44566,3 +44566,57 @@ flokverdhë | adj | blond
 flokzi | adj | black-haired
 flokje | noun | hair
 floksh | noun | sequin
+# ── mannshto.tsv ──
+floqe | noun | wisps of hay left on a mown field
+floritë | adj | gold
+floric | noun | thin-grained variety of rye
+floshkë | noun | mermaid; plain woman
+fluckë | noun | bubble; bladder
+fluckëz | noun | small bubble
+flurac | noun | small bird; simpleton; poultry
+flurë | noun | flight
+flurimthi | adv | in flight
+flushkë | noun | bubble
+flutërillë | noun | small butterfly
+fluturimthin | adv | in flight; hurriedly
+flyroj | verb | fly
+flytyrim | noun | flight
+flytyroj | verb | fly; snort
+flytyronjës | noun | flier, airman
+flytyrues | noun | flier, airman
+fllaçkë | noun | small cabbage-like edible plant
+flladis | verb | blow gently; refresh
+flladitshëm | adj | breezy
+fllakroj | verb | flutter, wave
+fllashët | adj | strong (of a building)
+fllashkazi | adv | crosswise
+fllashkë | noun | chip of wood
+fllaxë | noun | partridge
+fllig | verb | defile
+flligacar | noun | filthy wretch
+flligët | adj | dirty
+flligshti | noun | filth
+fllim | noun | breeze; gust of wind; puff, slight noise
+flliqti | noun | filth
+flludë | noun | die, coining instrument
+flludhë | noun | thin skin, film
+fllug | noun | torch; flake
+fllugë | noun | felucca, boat
+fllugonem | verb | be inflamed, be consumed
+fllusko | verb | inflate
+fllyem | adj | dirty
+fllyeme | noun | dirt
+fnegullë | noun | ant
+fner | noun | lantern
+fni | noun | awl
+fnyell | noun | sandal-maker
+fodullim | noun | flaunting
+fodullosem | verb | flaunt
+fodhër | noun | lining
+foell | noun | flute
+foga | noun | wick
+fogaçe | noun | cake; cheese-cake
+fojë | noun | leaf; petal
+fojletë | noun | celtis tree, nettle tree, hackberry; alfalfa
+folagë | noun | coot
+folësi | noun | talkativeness
