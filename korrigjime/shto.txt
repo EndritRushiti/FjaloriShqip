@@ -47461,3 +47461,53 @@ kaçabet | noun | trip-up
 kaçabetë | noun | trip-up
 kaçabroj | verb | block, trip up
 kaçallok | noun | snail
+# ── mannshto.tsv ──
+kaçamik | verb | pinch, nip
+kaçamillok | noun | small snail
+kaçanduk | verb | pluck violently; pull out hair; plot, hatch
+kaçapordhicë | noun | twaddle, nonsense
+kaçapris | noun | cowherd
+kaçaricë | noun | grasshopper
+kaçaru | noun | core of a corn-cob
+kaçarrel | adj | hairy, bushy, shaggy; curly; twisted, knotted
+kaçarrenë | noun | damned lie, whopper
+kaçezë | noun | squill
+kaçek | noun | kid; skin-bottle
+kaçepës | noun | beak; kingfisher
+kaçerrum | noun | core of a corn-cob
+kaçerubë | noun | thicket
+kaçibardhë | noun | hawthorn
+kaçikërr | noun | locust
+kaçirubë | noun | crest of birds, comb; tuft of feathers, plumage; mane
+kaçërubë | noun | crest of birds
+kaçrrubë | noun | crest of birds
+kaçitël | noun | cock's comb
+kaçkari | noun | quibbling, evasion
+kaçkaris | verb | quibble, evade, prevaricate
+kaçkaritem | verb | quibble, evade
+kaçkaritje | noun | quibbling, evasion; duplicity, falsity
+kaçlutë | noun | tuft, crest (of birds); crest (on a helmet)
+kaçmerr | noun | quarrel
+kaçore | noun | pantry, larder
+kaçulerë | noun | woodcock
+kaçlitë | noun | crest, comb
+kaçull | adv | squatting; crested lark
+kaçullatë | noun | a bird, probably the crested lark
+kaçume | noun | pitcher; wooden bowl
+kaçunar | noun | leg of mutton
+kaçup | noun | skin-bottle
+kaçupë | noun | skin-bottle
+kad | noun | incense
+kadalas | adv | slowly
+kadaldale | adv | slowly
+kadalëz | adv | slowly
+kadalët | adj | slow, gradual; gentle
+kadali | noun | slowness, gentleness, gradualness
+kadis | verb | perfume with incense; fumigate, smoke; perfume, scent; charm, melt
+kadishte | noun | cask
+kadishtëri | noun | barrel-making, coopering
+kadit | adv | long since, of yore
+kadoc | noun | cock, capon; turkey
+kadsh | noun | barrel
+kadh | noun | billhook
+kadhis | verb | prune, trim
