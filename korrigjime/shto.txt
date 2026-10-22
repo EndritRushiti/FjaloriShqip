@@ -46475,3 +46475,72 @@ gjumak | adj | sleepy
 gjumar | noun | past sufferer from plague who helps others
 gjumëz | noun | bladder formed on stones by an insect; silk-cocoon
 gjumëzezë | adj | unfortunate
+# ── mannshto.tsv ──
+gjumhur | noun | noise, din
+gjumitës | adj | stupefying, soporific
+gjumnezh | noun | a plant
+gjumoj | verb | sleep
+gjumshëm | adj | sleepy
+gjumtisem | verb | die out, become extinct, come to an end
+gjunazi | adv | kneeling
+gjunjake | noun | leggings
+gjunjëzaj | adv | kneeling, on the knees
+gjup | noun | fur jacket of women
+gjupicë | noun | fine tube; vein
+gjur | noun | stone; joint in plants
+gjurdi | noun | black jacket, waistcoat or bodice
+gjurdin | noun | black jacket
+gjurdhek | noun | bride-chamber
+gjurgjak | adj | testy, cantankerous, peevish; outrageous
+gjurunti | noun | din, noise; hue-and-cry
+gjurushtis | verb | judge, examine
+gjyryshtis | verb | judge, examine
+gjutë | adv | distant; small tumour in the throat
+gjya | adv | as if
+gjybe | noun | top jacket worn by women
+gjyblete | noun | jacket
+gjyfkej | verb | tire, weary, exhaust
+gjyfqej | verb | tire, weary, exhaust
+gjyftej | verb | tire, weary
+gjyftoj | verb | tire, weary
+gjyfqehem | verb | be tired, weary, exhausted; over-exert oneself; be sprained, dislocated
+gjygim | noun | pot, jug
+gjugj | noun | judgement
+gjygjës | noun | judge
+gjygjtar | noun | judge
+gjygjoj | verb | judge, sentence
+gjykallë | noun | cricket
+gjykatar | noun | judge
+gjykatarhetues | noun | coroner
+gjykatas | noun | judge
+gjykatori | noun | lawcourt
+gjykbjerrës | noun | loser of a case
+gjykesë | noun | judgement, verdict, decision
+gjykfitues | noun | winner of a case
+gjyki | noun | lawcourt; bench of judges
+gjikim | noun | judgement
+gjykimtë | adj | sensible, reasonable
+gjikoj | verb | judge
+gjyktari | noun | bench of judges
+gjylaç | noun | pet
+gjylmisën | noun | twisted thong of wool for sandals
+gjylpëroj | verb | inject
+gjylpnar | noun | needle-maker
+gjylpnyer | noun | darning-needle, basting-needle
+gjymbë | noun | pot, jug
+gjymbryk | noun | customs house
+gjymçe | noun | a household article
+gjymët | adj | faulty, defective; deficient, inadequate, incomplete
+gjymim | noun | noise, roar; thunder
+gjymle | adv | in a crowd
+gjymnas | noun | secondary school, grammar school, high school
+gjymnot | noun | a fish
+gjymsak | adj | half-, half-sized, half-done, half-formed, medium
+gjysak | adj | half-sized, medium
+gjymsark | noun | semicircle
+gjymsash | adv | half-, by halves
+gjymstar | noun | half-shareholder
+gjymsaterr | noun | dimness
+gjymsë | noun | half
+gjymsëpërgjymsë | adv | half-and-half, fifty-fifty
+gjymsëqark | noun | semicircle
