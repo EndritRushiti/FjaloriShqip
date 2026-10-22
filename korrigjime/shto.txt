@@ -47040,3 +47040,67 @@ huezisht | adv | reciprocally; vice-versa
 huh | verb | blow on
 huhni | noun | espionage
 huhnitës | noun | spy
+# ── mannshto.tsv ──
+hujem | noun | grist; pension, provision, payment
+hujis | verb | anger
+hujme | noun | vice
+hujtës | noun | lender
+hujtim | noun | estrangement; tradition
+huk | noun | wolf
+hukamë | noun | breath, breathing; gasping, panting
+hukem | verb | leap
+hukës | adv | huddled up
+hukubet | noun | monster, bogey
+hukubetshëm | adj | monstrous, awful
+hulajë | noun | see-saw
+hulas | verb | see-saw, rock
+hulatem | verb | be rocked, swayed, blown about
+hulerë | noun | cholera
+hulerinë | noun | cholerine
+hulkë | noun | orchard grass
+hulmëtoj | verb | prowl round, ferret about; track out, investigate
+hulmtoj | verb | prowl round, investigate
+hullem | verb | approach
+hullina | noun | convolutions
+hullme | noun | jet, spout
+hullluveqkë | noun | owl
+humas | verb | lose
+humak | noun | bog, soft soil
+humbak | noun | bog, soft soil
+humbatje | noun | shipwreck
+humbënj | verb | lose
+humbem | verb | get lost, stray; faint, swoon
+humbël | noun | loss
+humbelloj | verb | shatter, ruin, destroy
+humbnere | noun | precipice, abyss
+humbohet | verb | sinks, gives, yields to pressure
+humbore | noun | remote place
+humbullim | noun | shattering, ruination
+humbulloj | verb | shatter, ruin, destroy; lose
+humloj | verb | wipe out, efface
+hunazë | noun | ring
+hunç | adj | snub-nosed
+hund | noun | stomach of animals, tripe; nose
+hundakos | verb | slice off the nose
+hundar | adj | nasal
+hundarak | adj | big-nosed
+hundçyç | adj | flat-nosed, snub-nosed
+hundëkalem | adj | long-nosed
+hundëkrrutë | adj | hook-nosed, aquiline
+hundis | verb | snuffle
+hundluq | adj | snub-nosed
+hundohem | verb | turn up one's nose, sneer
+hundoj | verb | lay out flat, flatten out
+hundosje | noun | curiosity
+hundpaç | adj | snub-nosed
+hundraç | noun | wry face, long face
+hundreç | noun | curb, bit
+hundroj | verb | grunt, growl
+hundzim | noun | nasality
+hunglim | noun | neighing
+hungrim | noun | growl, grunt
+hungurim | noun | growl, grunt
+hungroj | verb | grunt, growl; rumble
+hunguris | verb | whinny, whimper
+huni | noun | anvil
+hunxë | noun | tip, point, nib; pen
