@@ -47664,3 +47664,54 @@ kalmuq | adv | mud-bespattered, covered with dust
 kaloçe | noun | galoshes
 kalofer | noun | herb used as flavouring
 kaloqatë | noun | blow
+# ── mannshto.tsv ──
+kalorsak | adj | chivalrous
+kalorsi | noun | cavalry; chivalry; knighthood
+kalorsisht | adv | chivalrously
+kalosha | adv | on the back
+kalp | verb | rot
+kalpcim | noun | putrefaction
+kalptë | adj | putrid, rotten
+kalptoj | verb | plug, caulk, stop
+kalptyrë | noun | caulking, stopping, plug, bung; padding, upholstery
+kalqit | noun | limestone
+kalqyqje | noun | kind of stork
+kalshejt | noun | saint
+kaltëri | noun | blueness, blue
+kaltërtohet | verb | turns blue
+kaltoj | verb | plug, caulk
+kalthërim | noun | azure, blue
+kalthëroj | verb | turn blue
+kalthërohet | verb | turns blue
+kalthërti | noun | azure, blue
+kaluercë | noun | swinging rope for attaching bundles to pack-animals
+kaluri | noun | cavalry
+kalurthi | adv | a game
+kalvoz | adj | dirty, unwashed
+kallab | noun | quarrel
+kallaboj | verb | quarrel
+kallafas | verb | bungle, scamp; shirk
+kallafat | adj | careless, bungling, slovenly
+kallafati | noun | bungling, carelessness
+kallais | verb | tin
+kallaisëm | adj | tinned, tin-plated
+kallaisje | noun | tinning, coating with tin
+kallajçe | noun | milk-can
+kallajdis | verb | tin
+kallajtis | verb | tin
+kallakatrum | noun | halfpenny; soldier's pay
+kallamb | noun | reed
+kallëmp | noun | reed
+kallmer | noun | reed
+kallamboqët | adj | of maize
+kallamboqnaje | noun | maize (collective)
+kallame | noun | reeds; stubble; fescue
+kallamishte | noun | reed, rush
+kallamitë | noun | magnet; lightning conductor
+kallamoj | noun | maize
+kallamurdhë | noun | woollen yarn
+kallangiç | noun | little boy; undersized ear of maize
+kallap | noun | shin, tibia
+kallapis | verb | gobble up, gulp down, devour
+kallatis | verb | tin
+kallatumba | adv | head over heels
