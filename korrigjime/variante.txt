@@ -1267,3 +1267,5 @@ gashëronem | ngashërehem | alternative
 gatishull | gadishull | alternative
 gatishulle | gadishull | alternative
 gajtuaj | gatuaj | alternative
+# ── Mann 1948 ──
+geologji | gjeologji | alternative

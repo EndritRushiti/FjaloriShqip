@@ -45191,3 +45191,50 @@ gaxhe | noun | vendetta
 gaxhep | noun | claw; sharp stump of a branch
 gaxherre | noun | sheep's entrails
 gaxhë | noun | patella, kneepan; cage
+# ── mannshto.tsv ──
+gaxhi | noun | joke
+gaxhis | verb | joke, jest
+gaxhohem | verb | kneel on one knee
+gaxhvile | noun | a white-breasted bird
+gaxhvillë | noun | a white-breasted bird
+gazellë | noun | gazelle
+gazellim | noun | rejoicing
+gazëlloj | verb | cheer
+gazët | adj | gaseous
+gazitem | verb | jest, joke; cheer up, be cheerful
+gazitës | adj | cheerful; funny
+gazkeqe | noun | misfortune
+gazmim | noun | merriment, joy
+gazmueshëm | adj | cheerful, joyful, glad; triumphant
+gazshëm | adj | merry, jolly, jocular
+gaztar | noun | jester, buffoon
+gaztoj | verb | cheer
+gazullim | noun | rejoicing, exuberance
+gazulloj | verb | cheer
+gllenjë | noun | pine
+gdhelltar | noun | enticer
+gdhelltoj | verb | allure, entice
+gdhendla | noun | shavings
+gdhendme | noun | shavings
+gdhendsinë | noun | chip, shaving
+gdhës | verb | carve, chisel
+gdhime | noun | dawn
+gegneshë | noun | Geg woman
+gekue | noun | gecko
+gelvisht | noun | short drawers
+gene | noun | corner, angle
+geologji | noun | geology
+gep | noun | shirt-front
+geq | noun | throat, gullet
+geraz | noun | squirrel
+gerbe | noun | potsherd
+geredhoj | verb | snarl, show teeth, gnash teeth
+geri | noun | chariot
+gernabut | noun | an aromatic plant
+gethletar | noun | flatterer; flattering
+gethletim | noun | flattery
+gethletoj | verb | fondle, stroke; flatter
+gethlëtoj | verb | fondle, stroke
+gexmoj | verb | tap; snap, snatch
+gëbacë | noun | a bird
+gëcim | noun | incitement, urge
