@@ -46801,3 +46801,49 @@ hebe | noun | knapsack; saddle-bag; cauldron, kettle
 heckë | noun | short-sleeved jacket
 hedev | noun | khedive
 hedha | noun | winnowings, chaff of maize, husk
+# ── mannshto.tsv ──
+hedhevdore | noun | snowflake
+hedhetëkaptinës | noun | scurf, dandruff
+hedhetëzjermit | noun | flake ash
+hedhëm | adj | thrown, cast
+hedhjeelirë | noun | free kick, free throw
+hedhjenëgjyk | noun | prosecution
+hej | noun | stalactite, stalagmite; icicle
+hejlik | noun | pebble
+hek | verb | pull, draw
+hekës | adj | purgative
+hekrrah | noun | haemorrhage in sheep
+heksëm | adj | transparent
+heksi | noun | smuggling trade
+hekuriibarkës | noun | anchor
+hekuraçë | noun | iron trap
+hekuraq | adj | of iron; adamant
+hekuraqe | noun | scrap-iron; ironware, ironmongery
+hekurçina | noun | scrap-iron
+hekurina | noun | scrap-iron
+hekuris | verb | iron; fit, provide with iron
+hekurpunonjës | noun | ironworker, smith
+hekurore | noun | railway; railway-line
+helik | noun | mountain pass, defile; pebble
+helmatues | adj | poisonous
+helmë | noun | helmet
+helmos | verb | poison
+helmosje | noun | poisoning
+helmsi | noun | virulence
+helmshëm | adj | poisonous
+helmtar | adj | sorrowful
+helmor | adj | poisonous
+hellmishi | noun | meat-skewer
+helle | noun | flake
+hendiqe | noun | ditches
+jendek | noun | ditch
+heng | noun | revelry, merrymaking
+hepe | noun | waterhole, cave, cavity, hole; earthen baking-pan
+hepëz | noun | grotto
+hepje | noun | bending, flexion
+hepoj | verb | bend, curve
+hepsi | noun | suppleness, pliancy, flexibility
+hepsinë | noun | talent, gift, aptitude
+hepshëm | adj | supple, pliant, flexible
+heqël | noun | slipper
+heqkë | noun | slipper
