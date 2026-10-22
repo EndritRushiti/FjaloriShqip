@@ -45456,3 +45456,38 @@ gllënçkë | noun | knurl on a tree
 gllënqkë | noun | gulp
 glli | verb | turn green, sprout, shoot
 glloj | verb | turn green, sprout
+# ── mannshto.tsv ──
+gllof | adj | hollow, concave
+gllofët | adj | hollow, concave
+gmoj | verb | feed on greenstuff
+gnuq | noun | stick, twig; shrunk, knotted, bony
+gobe | noun | gudgeon (fish)
+gobsi | noun | ugliness
+gocëdeti | noun | mussel
+gockë | noun | kernel
+gocullueshëm | adj | bluish-grey
+goditem | verb | come to an agreement with
+goditshëm | adj | constructive; suitable, fit
+goftehem | verb | grow young again
+gogëlëmsh | noun | macaroni
+gogëllimë | noun | juniper-berry
+gogëz | noun | ball; marble
+goglec | noun | variety of fig
+gogollimë | noun | juniper-berry
+gogomel | noun | bogey
+gogosh | noun | ringdove; gaper, idler; silk cocoon
+gogsoj | verb | yawn
+gogësis | verb | yawn
+gogësoj | verb | yawn
+gogsi | noun | yawn
+gogsim | noun | yawn
+gogsimë | noun | yawn
+gogsinë | noun | yawn
+gojac | adj | stuttering, stammering; stutterer
+gojagojas | adv | in private, mouth to mouth
+gojagojës | adv | by word of mouth, orally
+gojas | adv | verbally, orally
+gojosh | adj | wry-mouthed
+gojashni | noun | gossipiness
+gojazi | adv | orally
+gojcë | noun | stitch in knitting; loop of wool pulled out
