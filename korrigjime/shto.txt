@@ -47231,3 +47231,38 @@ interesantshëm | adj | interesting
 interesë | noun | interest (on capital)
 interesonjës | noun | interested party
 interesues | noun | interested party
+# ── mannshto.tsv ──
+internatë | noun | boarding-school
+intrigan | noun | intriguer, mischief-maker
+iny | interj | well, well!
+ipekakuanë | noun | ipecacuanha
+ipem | verb | surrender; be addicted to
+ipothekë | noun | mortgage
+ir | noun | dun colour, fawn; fear, funk
+iri | noun | fear, funk
+iridë | noun | iris (of the eye)
+iriqëz | noun | white prickly plant; cancer
+irith | noun | mole
+irizë | noun | cancer, carcinoma
+irnë | noun | drab colour
+irnos | verb | turn drab
+iskroj | verb | sparkle
+ishari | noun | a fatal disease
+ishje | noun | black variety of cherry, agriot
+ishmeri | noun | kind of porridge or milk pudding
+ishne | noun | agriot cherry
+ishnje | noun | agriot cherry
+ishnushëm | adj | evil
+ishtitutë | noun | institute
+ishullan | noun | islander; island-dwelling
+ishullim | noun | isolation
+ishullnajë | noun | archipelago
+ishulloj | verb | isolate; insulate
+italo | noun | Italian
+ithër | noun | nettle
+ithës | noun | one in the know
+ithme | noun | nettle
+iv | noun | buzzard or sparrow-hawk
+izlamizëm | noun | islamism
+izhne | noun | agriot cherry
+izhnje | noun | agriot cherry
