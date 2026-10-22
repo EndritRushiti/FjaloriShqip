@@ -49612,3 +49612,88 @@ krypos | verb | salt
 krypsore | noun | white kind of stone, spar
 krypshëm | adj | salt
 kryptar | noun | salt-merchant
+# ── mannshto.tsv ──
+kryqali | adj | crossed; cross-shaped
+kryqeli | adj | crossed
+kryqar | noun | rafter
+kryqetërthuer | adv | on all sides, hither and thither
+kryqës | noun | axle-tree
+kryqësatë | noun | crusade
+kryqëza | noun | loins
+kryqizoj | verb | cross, mark with a cross; baptise
+kryqos | verb | cross, make the sign of the cross, crucify
+kryqosem | verb | cross oneself
+kryqosje | noun | crossing, crucifixion
+kryqsadë | noun | crossroad, crossing
+kryqsatë | noun | crusade
+kryqse | noun | rear pommel of a pack-saddle
+kryqsim | noun | crucifixion
+kryqsoj | verb | cross; confuse; crucify
+kryqtarim | noun | crusade
+kryqzim | noun | crossing; cross-breeding
+kryqzoj | verb | cross; crossbreed; crucify
+krysanthem | noun | chrysanthemum
+krystall | noun | crystal
+krrabës | noun | padlock
+krrabëz | noun | knitting-needle; crochet-hook
+krrajkë | noun | bluish bird about the size of a pigeon
+krrakis | verb | crack, snap
+krrakitje | noun | snapping, cracking, crackling
+krras | verb | snore
+krre | noun | she-ass; black large-headed bird which sings at night
+krrej | verb | pull out, take out, remove (esp. hair); filch, pilfer
+krrenelldisem | verb | get cramp
+krres | verb | wheeze
+krresë | noun | rasp, scraper
+krric | noun | colt
+krriçe | noun | she-colt
+krriçem | verb | curve, bend, form a hook
+krriçëm | adj | hooked
+krigë | noun | knitting-needle
+krrimë | noun | wheeze; death-rattle
+krris | verb | grunt; make a rattling noise in the throat
+krrismë | noun | bang, crack
+krritem | verb | twaddle; quack
+krritje | noun | grunting, grunt
+krrocë | noun | sweet-briar (rosa rubiginosa)
+krroç | noun | colt
+krromasem | verb | get scabby
+krromash | adj | leprous; scabby; itchy; ringwormed
+krromoz | adj | leprous; scabby
+krromë | noun | scab, itch, mange; leprosy; crust, incrustation; half of the wooden support on a saddle-bow; sweet-briar
+krromos | adj | leprous; leper
+krromosh | adj | leprous; leper
+krromosem | verb | itch, suffer from scabs or leprosy
+krrucohem | verb | writhe, twist, coil oneself up
+krruhem | verb | scratch oneself
+krruese | noun | rasp, scraper
+krutem | verb | stoop
+krrusem | verb | bend, stoop
+krrusëm | adj | bowed, bent, huddled, hunchbacked
+krrusët | adj | bowed, bent
+krrusje | noun | bow, reverence
+krrut | noun | forefinger; ring-finger
+krrutem | verb | stoop
+krrutë | adj | bent, curved; huddled, cowering; turned up (of the nose); with crumpled horn; ewe with horns; ram or other beast with horns bent back; hump, hunch
+krrutsoj | verb | bend, curve
+krrutsohem | verb | writhe, twist
+krrutzohem | verb | writhe, twist
+krrutsuem | adj | twisted, curved, bent
+krrutzim | noun | mutilation
+krrutzoj | verb | twist; mutilate
+krruzëm | noun | eradication, destruction
+krruzme | noun | eradication
+ksaç | noun | fang; mandible; pincers, tongs; front teeth of a horse
+këlsaç | noun | fang
+ksafni | noun | fear
+ksafnis | verb | frighten; fear
+ksaj | noun | grinding-fee (of a miller)
+ksajt | adv | round here
+ksegoranë | noun | reward
+ksegoras | verb | reward
+ksej | verb | ache, hurt
+ksemolar | adj | affected with plague
+ksifarë | conj | so that, hence, thus
+ksifarsoj | adv | thus
+ksifarsh | adv | thus, so; such
+ksifter | noun | hawk
