@@ -46585,3 +46585,49 @@ gjytetth | noun | citadel, fortress
 gjytetëz | noun | citadel; borough, township
 gjyzar | adj | beautiful
 gjyzlykë | noun | spectacles
+# ── mannshto.tsv ──
+habibi | noun | surprise, astonishment
+habidërshëm | adj | marvellous, admirable
+habinoj | verb | curse
+habrash | adj | gawky, clumsy, awkward
+haçidhe | noun | a disease
+hadh | noun | Hades, hell
+hadhë | noun | Hades, hell
+hae | noun | food, meal
+hé | noun | food, meal
+haemesditës | noun | lunch, dinner
+haepjekës | noun | cook
+haes | noun | eater; glutton
+haetore | noun | eating-house
+hagrep | noun | scorpion; hand of a clock; spy
+hahas | verb | laugh, chuckle
+hahatem | verb | laugh at
+haj | interj | come on!; oh! eh!; either… or; certainly, indeed
+hajçe | noun | a girdle
+hajdemâ | interj | come on!
+hajdutsi | noun | robbery
+hajdutkë | noun | woman brigand
+haeja | noun | food
+hajë | noun | thief
+hajhuj | adj | homeless, vagrant; tramp
+hajlar | noun | barker, brawler, bully
+hajloz | adj | irritable
+hajretis | verb | greet
+hajshëm | adj | edible
+hajthi | noun | softness, weakness, tenderness; effeminacy; fineness, gentleness
+hajthmeni | noun | softness, tenderness
+hajthmohem | verb | get tender, get sensitive, become delicate
+hakas | verb | strive, struggle, toil, slave
+hakatem | verb | strive, struggle
+hakrrim | noun | lust
+hakrrohem | verb | lust
+hakrruar | adj | lustful
+hakrrues | adj | lustful
+hakrrueshëm | adj | lustful
+halbanë | noun | gum-resin, galbanum
+halbaroj | verb | invigorate; abound
+halburohem | verb | attack food greedily
+halemishtri | noun | demon, goblin
+halëndisur | adj | worried
+halëz | noun | mote, speck
+halfë | noun | a seed-product, plant or shrub
