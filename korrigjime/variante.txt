@@ -1214,3 +1214,8 @@ fildan | fidan | alternative
 fillosof | filozof | alternative
 filosofi | filozofi | alternative
 filosofik | filozofik | alternative
+# ── Mann 1948 ──
+fisiologji | fiziologji | alternative
+fisnikoj | fisnikëroj | alternative
+fistan | fustan | alternative
+fistë | fustan | alternative

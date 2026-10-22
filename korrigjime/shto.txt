@@ -44410,3 +44410,44 @@ fillikata | adv | alone
 fillikati | adv | alone
 fillkë | noun | lost one, poor thing
 fillme | noun | moment
+# ── mannshto.tsv ──
+fillqi | noun | waterwheel of a mill
+fillshkrojë | noun | initial letter
+filltar | adj | incipient, rudimentary, elementary, primary
+fillthi | adv | alone, only
+fillthimonakat | adv | all alone
+fillzezë | adj | depraved, wicked
+finokëri | noun | shrewdness
+finduk | noun | walnut
+fingjill | noun | coal, ember
+finir | noun | wooden spit
+firajkë | noun | hollow walnut
+firar | noun | fugitive, deserter
+firas | verb | decrease, lose weight; plug, bung
+firau | noun | Pharaoh
+firaun | noun | Gipsy; crafty, devilish
+firëz | noun | pea
+firikas | noun | long-handled mattock
+firim | noun | lack; short weight
+firllik | noun | beetle
+firmohem | verb | come to rest
+firohem | verb | dwindle
+firomëmarrje | noun | breathing
+firuk | adj | hollow (of a nut); low, base, cowardly
+firushkë | noun | hollow walnut
+firzë | noun | small lentil
+fisçëm | adj | noble, well-born; natural
+fisëm | adj | noble, well-born
+fisiologji | noun | physiology
+fisligenë | noun | basil
+fisnikoj | verb | ennoble
+fistak | noun | glume or husk of a maize-cob
+fistan | noun | dress
+fistë | noun | dress
+fisull | noun | whirlwind
+fishekqore | noun | cartridge-case
+fishekqor | noun | cartridge-case
+fishekore | noun | cartridge-belt; firework; rocket
+fishëll | noun | whistle
+fishkarol | noun | reedpipe
+fishkëri | noun | witheredness, triteness
