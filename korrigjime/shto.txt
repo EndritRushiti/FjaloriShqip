@@ -47812,3 +47812,34 @@ kampeqi | noun | campeachy, logwood
 kamsi | noun | wealth
 kamsor | noun | nasturtium, cress
 kamshik | noun | whip; leash
+# ── mannshto.tsv ──
+kamerë | noun | arch, niche
+kamuk | noun | child's game played with string
+kamxhi | noun | whip
+kamçi | noun | whip
+kanac | noun | cloth, headcloth, kerchief; apron worn front and back
+kanaj | pron | somebody
+kanall | noun | canal; sewer; spring; water-pipe; millrace
+kanar | noun | canary; butcher; scale
+kanare | noun | butcher's shop, slaughter-house; battlefield
+kanarqis | verb | plot, contrive
+kanarull | noun | bib, front
+kanarut | adj | greedy
+kanavace | noun | canvas; coarse cloth
+kanavecë | noun | towel
+kanavur | noun | hempseed
+kancellar | noun | chancellor
+kancellari | noun | chancellery, chancery
+kançë | noun | hook; harpoon
+kandak | noun | barrel of a gun
+kandeler | noun | candlestick
+kanderie | noun | locust; grasshopper
+kandile | noun | lamp
+kandilë | noun | candle
+kandisur | adj | charmed, spellbound
+kandue | noun | corner
+kanecë | noun | ball
+kanezë | noun | ball
+kanell | noun | cinnamon
+kanend | adj | sleepy
+kânë | noun | henna
