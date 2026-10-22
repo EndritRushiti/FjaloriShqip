@@ -44368,3 +44368,45 @@ fikatem | verb | be partly dry
 fikcë | noun | fig-eater; witwall, woodwall
 fikme | noun | extinction
 fiklagcë | noun | spray, syringe
+# ── mannshto.tsv ──
+filankë | noun | self
+filaq | noun | prison; prisoner; imprisoned
+filaqe | noun | water-outlet, spout, mouth
+filaqi | noun | prison, imprisonment
+filare | adv | criss-cross (of a serpent's markings)
+filcigen | noun | basil
+fildan | noun | sapling
+fildanishte | noun | plantation; nursery
+fildane | noun | Brussels sprouts
+filenderë | noun | gun, rifle
+filiç | noun | plunger of a butter-churn
+filik | noun | young boar
+filike | noun | pot
+filistër | noun | shoot, offshoot, scion
+filizëri | noun | adolescence
+filoc | noun | godson
+filocë | noun | goddaughter
+fillosof | noun | philosopher
+filosofi | noun | philosophy
+filosofik | adj | philosophical
+filosofis | verb | philosophise
+filtar | noun | flask, bottle; pot, vase; wine-measure
+filushkë | noun | fork
+filuz | noun | wretch; wretched, hapless
+filuze | noun | wretch
+filxegen | noun | basil
+felxigen | noun | basil
+fixhan | noun | cup
+filxhanas | noun | counting game with penalties
+filxhanth | noun | small coffee-cup
+fillafilla | adv | in full, in detail
+filladhe | noun | catalogue; copybook; circulation of a newspaper
+fillak | adj | tall, gaunt, straight
+fillakat | adv | alone
+fillan | pron | a certain; so-and-so
+fillastar | noun | runner, offshoot; lad, boy
+fillëm | adj | elementary; initial
+fillikata | adv | alone
+fillikati | adv | alone
+fillkë | noun | lost one, poor thing
+fillme | noun | moment

@@ -1209,3 +1209,8 @@ fërshëllij | fërshëllej | alternative
 fëstan | fustan | alternative
 fëtyrë | fytyrë | alternative
 figjurë | figurë | alternative
+# ── Mann 1948 ──
+fildan | fidan | alternative
+fillosof | filozof | alternative
+filosofi | filozofi | alternative
+filosofik | filozofik | alternative
