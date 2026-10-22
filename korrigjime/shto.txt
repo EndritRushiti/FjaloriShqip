@@ -45546,3 +45546,59 @@ gomluç | adv | headlong; in a heap
 gomnere | noun | precipice, gulf, abyss
 gomoj | verb | load
 gomsi | noun | resinous juice from diseased plums
+# ── mannshto.tsv ──
+gongsij | verb | belch, spew
+gonije | noun | wax-flower
+gonovar | adj | temporary, ephemeral
+gonxhë | noun | bud, shoot
+gopçar | adj | greedy, gluttonous; intemperate; wastrel; glutton
+gopedër | noun | pot, jar; large boulder; shell, bomb; barrel of a gun; gun, cannon
+gopsi | adj | greedy, gluttonous
+gopzer | noun | gullet, oesophagus, alimentary canal
+gopzher | noun | gullet, oesophagus
+gorçak | noun | earthen water-pot
+goroshë | noun | white haricot beans
+gorren | noun | north wind
+gorgë | noun | hole, hollow, cavity
+goruc | adj | hunchbacked; bent with age, infirm; hunchback
+gorrafica | noun | cock-and-bull tale, rot, tosh
+gorromi | noun | precipice
+gorromim | noun | precipice
+gorromis | verb | dash down, overthrow, hurl down
+gorroshungë | noun | blue-bottle fly
+gorruzhdë | noun | porridge-spoon
+gostë | noun | banquet, feast
+gostiar | noun | host
+gostiare | noun | hostess
+gostitës | noun | host; entertaining
+gostovjeshtë | noun | September
+gotull | noun | sea-bream
+govadar | noun | drover, cowherd, cowman
+govadë | noun | basin; tub, bathtub; wooden trough for washing; small boat, lifeboat; wheelbarrow
+govardhë | adj | brindled, piebald
+govatinë | noun | laundry
+goveda | noun | cattle, beasts
+govern | noun | government
+governim | noun | government
+governoj | verb | govern
+governuos | noun | ruler
+govosh | adj | hollow, empty
+gozof | noun | fur
+gozhdare | noun | stingy woman
+gozhdias | verb | nail
+gozhel | noun | seesaw, kind of roundabout
+grabcoj | verb | rob
+grabi | noun | robbery; graft
+grabitas | adv | with violence
+grabitçar | noun | robber, plunderer
+grabitçarem | verb | scold; rob
+grabitsi | noun | robbery
+grabitsisht | adv | piratically, robber-fashion
+grabitshëm | adj | piratical; hasty
+grabsim | noun | robbery, plunder, raid
+grabti | noun | robbery, plunder
+grabuloj | verb | rake about, scratch
+gracje | noun | grace
+graçkë | noun | trap, snare
+graç | noun | pot; potsherd
+graçët | adj | earthen
