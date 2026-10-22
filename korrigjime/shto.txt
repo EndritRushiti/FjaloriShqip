@@ -46867,3 +46867,64 @@ hëndatëmot | adv | at that time
 hëngëllas | verb | neigh
 hëngëllij | verb | neigh
 hëpërhëshëm | adj | present, actual, temporary
+# ── mannshto.tsv ──
+hifitirë | adj | ashen, livid
+hibe | noun | pouch, wallet
+hickël | noun | leap, jump (as of a donkey)
+hiçkël | noun | leap, jump
+hiçtër | adj | trivial, trifling
+hiçtërt | adj | trivial, trifling
+hidërsha | noun | a flowering plant
+hidiç | noun | gelding
+hidri | noun | water-pot, jar, cruse
+hidhi | noun | bitterness; rancour; grief, pain
+hidhnoj | verb | annoy, anger; grieve
+hidhnohem | verb | be angry, be annoyed; be grieved; regret
+hidhënuom | adj | annoyed, sad
+hidhsi | noun | bitterness; poignancy
+hieverdhë | noun | green fir-tree
+hieligë | noun | evil spirit, bogey
+hiekeq | adj | damned; sinner
+hiekotë | noun | fancy, fantasy
+hielutës | adj | superstitious
+hieni | noun | divinity
+hienim | noun | shade
+hienoj | verb | shade
+hienore | noun | temple, shrine
+hienuem | adj | shady, shaded
+hienueshëm | adj | adorable, worshipful
+hieri | noun | divinity
+hieruarshëm | adj | divine
+hies | noun | celtis-tree
+hiesi | noun | elegance, grace, charm
+hiesim | noun | shade, shady spot
+hiesinë | noun | shade, shady spot
+hiesisht | adv | gracefully
+hiesoj | verb | shade; grace; outshine; cast a shadow
+hieshëm | adj | graceful, charming
+hieshim | noun | shadow; adornment, decoration, set-off
+hietar | adj | shady
+hietore | noun | sunshade
+hiezë | noun | sunshade; apostrophe
+hij | verb | enter
+hijacak | adj | superstitious
+hijm | noun | entering, entrance
+hijos | verb | shade; turn to ash
+hik | verb | flee
+hikë | noun | flight
+hikës | noun | fugitive
+hikje | noun | flight
+hikrraq | noun | phlegm, mucus of lungs
+hilaçtar | noun | doctor
+hilaçtare | noun | woman doctor
+hilige | noun | noose, button-hole
+hilqe | noun | needle-case
+himbaxhi | noun | chimpanzee
+himik | adj | chemical
+himist | noun | chemist
+himonik | noun | water-melon
+hind | noun | tissue, organism; cells; protoplasm; Indian
+hindas | adj | Indian (of India), Hindoo
+hindian | adj | Indian (Ocean)
+hindik | adj | indigo
+hingë | noun | funnel
