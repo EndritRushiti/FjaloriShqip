@@ -36,6 +36,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          check-latest: true
           cache: npm
       - run: npm ci
       - name: Check this month's free R2 usage (deploys stop at 95%)
