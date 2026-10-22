@@ -44892,3 +44892,44 @@ fugure | noun | figure, image, form
 fuinë | noun | marten
 fukar | adj | poor
 fukëlbukël | noun | weasel
+# ── mannshto.tsv ──
+fule | noun | narcissus; crank-case
+ful | noun | narcissus
+fuletë | noun | hackberry tree
+fuli | noun | flaky pastry
+fulikare | adv | hastily, immediately, swiftly, suddenly
+fulpë | noun | taper, nightlight
+fullim | noun | breeze
+fulliqem | verb | disgrace oneself
+fulloj | verb | blow
+fulltak | noun | sore, swelling, boil, tumour, blister
+fullugë | noun | boat
+fondëna | noun | bottoms
+fundanellë | noun | fontanel; a plant
+fundifundi | adv | finally, after all
+fundim | noun | overthrow, precipitation; plunge
+fondonj | verb | establish, found
+fundri | noun | dregs, sediment
+fundrri | noun | dregs, sediment, grounds; castings, excrement; waste, remainder; slums
+fundshëm | adj | uttermost, last; bottom, lowest, lower
+fundshkrojë | noun | final letter
+fundtingull | noun | final sound
+fundues | adj | final, conclusive
+funduk | noun | hazelnut
+fuqimadhe | adj | almighty, omnipotent; potent
+fuqimadhore | noun | superior force
+fuqisim | noun | reinforcement; invigoration
+fuqisjellës | adj | power-supplying, current-bearing
+fuqisoj | verb | reinforce, invigorate; empower; habilitate
+fuqitar | noun | potentate
+furacak | noun | gatecrasher
+furcatë | noun | strength, power; reinforcement, force
+furdhe | noun | beggardom
+furem | verb | enter by force
+furetë | noun | ferret
+furfulli | noun | light breeze
+furfullidhë | noun | a game
+furfullim | noun | rustle, rustling
+furfulloj | verb | rustle, rush; fling; bungle; scale (a fish)
+furfuri | noun | porcelain
+furgëroj | verb | hum, swarm
