@@ -49204,7 +49204,6 @@ kostrevë | noun | kind of rush; timothy-grass
 kostrë | noun | scythe
 kostrofël | noun | nest (child's word)
 koshak | noun | wooden bolt or bar
-koshall | noun | loafer
 koshar | noun | silo, esp. for maize; drying-oven
 koshariqe | noun | small basket
 koshel | noun | swing, hammock
@@ -49233,7 +49232,6 @@ kotroshe | noun | black sweet variety of grape
 kotrovar | noun | potter
 kotrum | noun | water-jar
 kotrruve | noun | water-jar
-kotrrum | adv | all together
 kotsi | noun | uselessness, futility, frivolity, nonsense
 kotsinë | noun | uselessness, futility
 kotsim | noun | frustration
@@ -49246,8 +49244,61 @@ kotulloj | verb | dim, cloud, befuddle; make drowsy; drowse, doze, nod; frustrat
 kotulluem | adj | drowsy
 kothec | noun | pen, roost
 kothes | noun | pen, roost; barn; maize-silo
-kothi | noun | rind, crust
 kothishte | noun | wood, copse, thicket; brushwood; clearing in which new trees have begun to grow
 kovaçanë | noun | forge, smithy
 kovaçhane | noun | forge, smithy
 kovëz | noun | small bucket
+# ── mannshto.tsv ──
+kovitë | noun | milk-can, milk-pail
+koz | adj | awkward, ungainly; trump
+kozar | adj | base, vile, low, common
+kozari | noun | baseness, lowness
+kozinë | noun | goat's hair, mohair
+kozof | noun | fur
+kozhel | noun | see-saw; swing
+kqarim | noun | cleansing, clearing, purification
+krabëz | noun | small hook
+krace | noun | armpiece, sleevelet
+kracë | noun | slender weed with tiny purple flowers, perhaps toadflax; tinsel; skull
+kracëm | adj | bi-coloured (of sheep, but not white)
+kradha | noun | scab, eczema
+krahna | noun | kind of rush used in matmaking
+krahan | noun | comb, esp. weaver's comb
+krahân | noun | comb
+kran | noun | comb
+krahanike | noun | comparative degree (grammar)
+krahanore | noun | breast
+krahënuor | noun | breast, chest
+krahëruar | noun | breast, chest
+krahasis | verb | compare
+krahasisht | adv | comparatively
+krahathatër | noun | sparrow-hawk
+krahazë | noun | twig, stem
+krahazim | noun | comparison
+krahazimtar | adj | comparative
+krahazoj | verb | level, line up, compare
+krahce | noun | bangle; armpiece, sleevelet
+krahcë | noun | shirt
+krahenza | noun | withers
+krahëqafë | adv | crosswise; slung across the shoulders
+krahëhapët | adj | open-armed
+krahëm | adj | greyish
+krahëndar | adj | nimble, brisk
+krahës | noun | shirt; feeder, channel, tributary
+krahëshkruar | adj | variegated (of wings)
+krahëzaj | adv | alongside, abreast
+krahinare | noun | district
+krahis | verb | sweep up (wheat) after threshing
+krahnesë | noun | shudder
+krahnorcë | noun | vest, undershirt; belt, esp. cartridge-belt; bag, esp. mail-bag, dispatch-bag
+krahnorçe | noun | belt
+krahnorse | noun | basket
+krahnosh | noun | shepherd's purse
+krahnoshe | noun | vest; belt
+krahnjezë | noun | light fall of snow
+krahoshe | noun | bodice; doublet; thorax; knapsack
+krajatë | noun | toil, hardship
+krajoj | verb | suffer, undergo
+krajohem | verb | suffer
+krajtar | adj | fraudulent; impostor
+krajuem | adj | suffering
