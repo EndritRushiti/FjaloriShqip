@@ -47870,10 +47870,48 @@ kanunët | adj | legal
 kanunisht | adv | by statute
 kanjelë | noun | stopcock, tap, faucet
 kapadaj | noun | rascals
-kapahje | noun | cover
 kapakth | noun | small lid
 kapalloj | verb | surround, enclose
 kapama | noun | overcoat; ragout
 kapan | noun | lid of a still; top of the skull
 kapanik | adj | dark, obscure
 kaparinë | noun | caper
+# ── mannshto.tsv ──
+kaparoj | verb | bespeak, secure by paying a deposit; pledge; advance money to
+kaparrë | noun | deposit, pledge-money
+kaparroj | verb | secure by a deposit
+kaparosem | verb | be taken on (in a job)
+kapasë | noun | oil-barrel
+kapat | noun | captivity, slavery
+kapati | noun | captivity
+kapatoj | verb | capture, enslave
+kapatruc | adj | hobbled
+kapci | noun | bare grape-stalk
+kapcyrë | noun | larynx
+kapça | noun | tongs
+kapçaj | adj | double-trunked (of a tree)
+kapçoj | verb | bite, snap
+kapetanjë | noun | captain
+kapeltar | noun | hatter
+kapeltare | noun | milliner
+kapellshitës | noun | hatter
+kapellshitse | noun | milliner
+kapellxhi | noun | puffball fungus
+kapetull | noun | cross-piece of a cart, rider; riding-bed
+kapërxej | verb | cross, jump over
+kapëcer | noun | larynx
+kapërxyell | noun | larynx
+kapërdi | noun | swallowing
+kapërduj | verb | cross, jump over
+kapërton | noun | inner tube (auto)
+kapërxim | noun | crossing, clearing, jumping
+kaphshë | noun | thing
+kapice | noun | bunch (of herbs)
+kapitem | verb | be exhausted
+kapistallem | verb | deck oneself out
+kapistrall | noun | halter
+kapitë | noun | hoof, trotter
+kaploq | noun | distaff full of unspun wool or flax; blockhead
+kaploqe | noun | distaff full of unspun wool
+kaplladis | verb | cover, line
+kapllak | noun | facing-material, plate
