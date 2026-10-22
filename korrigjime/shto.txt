@@ -46822,3 +46822,48 @@ hepsinë | noun | talent, gift, aptitude
 hepshëm | adj | supple, pliant, flexible
 heqël | noun | slipper
 heqkë | noun | slipper
+# ── mannshto.tsv ──
+heqsë | noun | traction
+heqtur | noun | traction; diarrhoea
+heracak | adj | early, early-rising; early riser, early bird
+heratar | noun | watchmaker
+heretar | noun | watchmaker
+herdhaqen | noun | broom-rape; spindle-tree
+herdhë | noun | testicle
+hereditat | noun | heir
+herek | adj | clever, intelligent
+hereng | noun | carriage
+heresi | noun | heresy
+herejet | adv | early
+hejret | adv | early
+herej | adv | early
+herkeqe | noun | owl
+hergjesh | adv | all at once
+herher | adv | sometimes, now and then
+herherina | adv | sometimes
+herit | adv | at once, immediately
+herje | noun | time
+hermine | noun | ermine
+hermirë | noun | luck
+hersi | noun | length of service, time served
+hershoj | verb | anticipate; calve before time
+herue | noun | brave man
+herre | noun | little woman
+herrje | noun | weeding, trimming
+herrnis | verb | be enough, suffice
+hesa | noun | food, provisions, eatables
+hesë | noun | food, diet; eatables, provisions
+hesh | noun | hedgehog; curl, lock
+heshtëj | verb | be quiet
+heshtem | verb | follow, support, be partisan of
+heshtimë | noun | silence
+heshtsirë | noun | silence
+heshtshëm | adj | still, silent
+het | noun | thirst
+hete | noun | thirst
+hetshëm | adj | thirsty
+heu | interj | alas!
+hëndatëmot | adv | at that time
+hëngëllas | verb | neigh
+hëngëllij | verb | neigh
+hëpërhëshëm | adj | present, actual, temporary
