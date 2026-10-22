@@ -46339,3 +46339,40 @@ gjinatar | adj | yielding, producing
 gjinatoj | verb | yield, produce
 gjinatore | noun | insect resembling a bee but larger
 gjinaze | noun | mourning ceremony
+# ── mannshto.tsv ──
+gjindar | noun | commoner, gentile; national; relative; armed policeman
+gjindarmë | noun | armed policeman
+gjindarmëri | noun | armed police-force
+gjinderor | adj | genital
+gjindore | noun | genitive case
+gjindrak | adj | generic
+gjinë | adj | full, sated
+gjingël | noun | saddle-girth
+gjingjër | noun | chickpea
+gjigjër | noun | chickpea
+gjinikoj | verb | create, produce, engender
+gjinipero | noun | juniper
+gjinistër | noun | broom (plant)
+gjinishëm | adj | affable, pleasant
+gjinoj | verb | feed, stuff; eat; taste, try; become related
+gjintë | noun | time
+gjitë | noun | time
+gjirak | noun | hawk
+gjirdek | noun | bride-chamber
+gjireshtë | noun | agnus castus
+gjirëm | noun | hearth
+gjiris | noun | drain, sewer
+gjitem | verb | crawl
+gjittar | adj | hardworking; hard worker
+gjithansh | adv | from everywhere
+gjithash | adv | altogether, entirely
+gjithçahit | pron | everything
+gjithçafe | pron | everything
+gjithçfargjâje | pron | everything
+gjithçfarsh | adj | of all kinds
+gjithçkafe | pron | everything
+gjithçkah | noun | the whole
+gjithçkahit | adv | from all sides
+gjithdije | noun | omniscience
+gjithdijës | adj | all-knowing
+gjithdjegur | noun | burnt offering
