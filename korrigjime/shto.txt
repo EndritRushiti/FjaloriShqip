@@ -49492,3 +49492,63 @@ kruspulluar | adj | screwed up, pinched
 krusur | adj | bent
 krushkohem | verb | intermarry (with); get related (to)
 kryth | verb | steal
+# ── mannshto.tsv ──
+kryeanijetar | noun | commander (of a vessel)
+kryeatë | noun | patriarch
+kryeatën | noun | patriarch
+kryebisht | adv | from front to back
+kryeburim | noun | principal source
+kryedash | noun | battering-ram
+kryedell | noun | mainspring
+kryedjakua | noun | archdeacon
+kryeduk | noun | archduke
+kryefitonjës | noun | champion
+kryefortë | adj | stubborn, wilful
+kryefund | adv | from head to foot
+kryegjyq | noun | Chief Justice
+kryeharq | noun | goldfinch
+kryeipeshk | noun | archbishop
+kryejashtë | adj | bare-headed
+kryekal | adj | stubborn
+kryekalesh | adj | mop-headed
+kryekallogre | noun | mother-superior, abbess
+kryekallogjer | noun | abbot, prior
+kryekatundar | noun | mayor; sheriff, headman
+kryekëcyem | adj | mad, crazy; morose, fretful, moody; boastful; obstinate; capricious
+kryekëputë | adj | downright, utter, arrant; identical
+kryekëputsi | noun | absoluteness, utterness
+kryekëputshëm | adj | utter; identical
+kryekonsullatë | noun | consulate general
+kryekqyr | verb | supervise
+kryekrejet | adv | absolutely; altogether; purely and simply; above all, first of all
+kryekumandar | noun | commander-in-chief
+kryekyç | noun | master key
+kryelakën | noun | white cabbage
+kryelartsi | noun | pride; arrogance
+kryeletër | noun | capital letter
+kryeluftar | noun | commander-in-chief
+kryelundërtar | noun | captain of a vessel, pilot
+kryeme | noun | achievement
+kryemësallë | noun | presider at table
+kryemësuese | noun | headmistress
+kryemje | noun | achievement
+kryemprojtës | noun | champion, defender
+kryemushk | adj | pigheaded
+kryenalt | adj | proud, arrogant
+kryenaltsi | noun | pride, arrogance
+kryeneçsi | noun | obstinacy
+kryeneqem | verb | jib, be obstinate
+kryeneqsi | noun | obstinacy
+kryengrej | verb | revolt
+kryengucës | adj | instigating, fomenting; instigator, picket
+kryengulmë | noun | somersault
+kryengultas | adv | head downwards, vertically
+kryengjesh | adj | stubborn
+kryengjeshje | noun | stubbornness; tenacity, doggedness
+kryengjeshur | adj | persistent, obstinate
+kryengjell | noun | archangel, seraph
+kryengjysh | noun | elder
+kryenisje | noun | starting-point
+kryeparë | adv | first and foremost, first of all, in the first place; commander-in-chief; president, chairman; chief, overlord
+kryepari | noun | primacy; command; aristocracy
+kryepeshkopi | noun | archbishopric
