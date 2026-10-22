@@ -48841,3 +48841,67 @@ kokinkë | noun | musket
 koklëz | noun | grain, seed
 kokloj | verb | dent, cause a lump
 koklutë | noun | gallnut, oak-apple
+# ── mannshto.tsv ──
+kokodril | noun | crocodile
+kokodhe | noun | earth
+kokoleps | verb | tangle, complicate
+kokolis | verb | tangle, complicate
+kokomare | noun | melon; cucumber
+kokomish | noun | hood
+kokone | noun | doll; paramour, flame
+kokonë | noun | doll; paramour
+kokonesh | noun | dandy, fop; vain, swanky
+kokonos | adj | swanky
+kokonosh | noun | dandy, fop
+kokonjë | noun | doll
+kokoraq | noun | spurge; butcher's broom
+kokoreç | noun | boiled maize; frumenty
+kokorreth | adv | in a ball, in a bundle
+kokorris | verb | cackle, cluck
+kokoriz | verb | cackle, cluck
+kokorosh | adj | dandified
+kokorush | noun | cone-shaped head-gear of Moslem women
+kokorr | noun | balcony, wooden house built in a tree; depository for cheese
+kokorrush | noun | cone-shaped head-gear
+kokoshel | noun | swing, hammock
+kokoshep | noun | poultry-louse
+kokoshurdh | noun | water-fowl
+kokot | noun | large cock; fool
+kokove | noun | egg
+kokovriqe | noun | nest of a laying hen
+kokrriz | adj | granular, in grains
+kokrrize | noun | pimple
+kokrrizet | verb | crumbles, forms granules; forms pimples
+kokrrizëm | adj | budding, sprouting
+kokrronë | noun | kind of wheat
+kokrruk | noun | grain, seed, esp. of pomegranate
+koksë | noun | hub of a wheel
+koktar | noun | leader, guide
+kokua | noun | silk-cocoon
+kokulle | noun | cowl; kind of mushroom
+kokume | noun | water-jar
+kokunjë | noun | a disease, probably goitre; brothel
+kokunjur | adj | low, vulgar
+kokutë | noun | hemlock, ferula or similar
+kolandër | noun | sweet, sweetmeat
+kolandinë | noun | wild rush
+kolandris | verb | collect
+kolanë | noun | collar; Christmas cake
+kolar | noun | coachman; collar; sausage
+kolare | noun | sausage
+kolasur | adj | hesitant
+kolat | noun | bundle
+kolc | noun | a game of chance
+kolcë | noun | rape (plant)
+kolëz | noun | rape (plant)
+kolcinë | noun | a game of chance
+kole | noun | greater intestine; sausage; chewing mastic
+koler | noun | cholera
+kulerë | noun | cholera
+koleshkë | noun | sledge
+kolet | noun | collar
+koletë | noun | collar
+kolëm | adj | pretty, fair
+kolëndër | noun | Christmas cake
+kolërazë | noun | a kind of rush
+kolërëz | noun | a kind of rush
