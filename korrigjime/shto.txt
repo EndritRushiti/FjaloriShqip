@@ -46073,3 +46073,53 @@ gjajtas | adv | likewise; analogously
 gjajtë | noun | event
 gjakafshë | pron | something, anything
 gjakatuar | noun | murderer
+# ── mannshto.tsv ──
+gjakët | adj | bloody
+gjakftohtsi | noun | cold-bloodedness; coolness, indifference; phlegm
+gjakhumbës | noun | one who commits a felony to his own disadvantage
+gjakhupët | adj | unavenged
+gjakmarrsi | noun | bloodthirstiness
+gjakmungjill | noun | priest, Levite
+gjaknash | adj | bloody, murderous
+gjakndezës | adj | inciting; inflammatory, seditious; exasperating, outrageous
+gjakngrohët | adj | warm-blooded; hotheaded, headstrong
+gjaknxehtsi | noun | hotheadedness, heatedness
+gjakoni | noun | deaconate
+gjaksivetit | noun | suicide
+gjaksim | noun | killing; haemorrhage
+gjaksisht | adv | murderously
+gjaksohem | verb | have blood upon one's head
+gjakësuar | noun | murderer
+gjaksore | noun | murderess
+gjakshëm | adj | bloody
+gjaktoj | verb | bleed, let blood; cover with blood; kill
+gjaktohem | verb | bleed
+gjaktrazim | noun | incest
+gjaktrazues | adj | incestuous
+gjakueshëm | adj | lustful, desirous
+gjakunt | adv | anywhere, nowhere
+gjakundi | adv | anywhere, nowhere
+gjalbë | noun | shoe-lace, thong for a sandal
+gjalicë | noun | a bird
+gjëlmitër | noun | cord, rope
+gjalpanik | noun | butter-cake, butter-tart; made with butter, buttery
+gjalpëri | noun | clematis
+gjalpshëm | adj | buttery
+gjalustër | noun | skylight; shutter
+gjallestër | noun | skylight
+gjallem | verb | come to life
+gjallëresh | adj | lively, brisk
+gjallët | adj | alive
+gjallis | verb | revive, restore to life; rouse, cheer, enliven; live
+gjallje | noun | life
+gjallmeni | noun | vivacity
+gjallni | noun | liveliness, vigour, briskness; stimulus, impetus, life, go
+gjallnim | noun | life, vitality; sustenance
+gjallnisht | adv | vigorously, briskly
+gjallnoj | verb | live, eke out a livelihood
+gjallnorë | noun | animals, beasts
+gjallsi | noun | liveliness, activity; living state, existence
+gjallsim | noun | revival; vitality
+gjallsoj | verb | enliven, revive, vivify, animate
+gallustër | noun | skylight
+gjallustre | noun | skylight
