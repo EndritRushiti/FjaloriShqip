@@ -45653,3 +45653,44 @@ grebash | noun | rake
 grebashis | verb | rake
 grebul | noun | rake
 grebull | noun | rake
+# ── mannshto.tsv ──
+greç | noun | cricket
+gredhje | noun | crab
+grefshë | noun | tuft, crest
+greg | noun | north-east wind
+grejthë | noun | hornet
+grejzë | noun | hornet
+grekni | noun | Hellas
+grekojkë | noun | Greek girl or woman
+grekos | verb | turn Greek, hellenise
+greminuar | adj | disastrous
+gremisur | adj | steep; in ruins
+gremiz | verb | hurl down
+grenja | noun | wood-pulp with which hornets build nests
+grepçë | noun | hook
+grepç | noun | scorpion
+grepshë | noun | little hook, clasp, catch
+grepët | adj | hooked
+grepuem | adj | hooked
+greqinë | noun | Greek girl or woman
+greqinjë | noun | Greek girl or woman
+greras | noun | hornet
+gresmim | noun | pruning
+gresmoj | verb | prune
+greshit | noun | Greek
+grethdardhe | noun | large hornet
+grethëz | noun | bee or wasp
+grevis | verb | scratch
+grez | noun | sour grapes
+grëgi | noun | Greece
+grëmadoj | verb | collect, pile up
+grëmisem | verb | burrow
+grëmshe | noun | magpie
+grëndël | noun | gland; scrofula
+grëshitem | verb | be summoned, be called, be named
+gricë | noun | cricket
+grigjsi | noun | gregariousness
+grigjoj | verb | round up; aggregate
+grigjohem | verb | herd together
+grigjshëm | adj | gregarious
+grijë | noun | whetstone
