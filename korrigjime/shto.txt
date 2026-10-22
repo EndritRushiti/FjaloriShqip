@@ -48259,3 +48259,46 @@ qêmën | noun | incense
 këngjem | noun | incense
 kepme | noun | stitch
 kepres | noun | bridle
+# ── mannshto.tsv ──
+keqazë | adv | ill, badly
+keqfolje | noun | discredit, defamation
+keqmundonjës | noun | tormentor
+keqohem | verb | deteriorate, get worse
+keqoj | verb | commiserate, feel sorry for
+keqotë | noun | poor wretch
+keqpësim | noun | harm, damage
+keqsim | noun | deterioration; set-back, reversal
+keqsjellje | noun | bad manners
+keqsohem | verb | get worse, deteriorate
+keqshkrojë | noun | jotter, scrap-book
+kequllore | noun | evil woman
+keqveprim | noun | wrongdoing
+kercul | noun | earthen pot
+kerdhokullë | noun | eyeball
+kerdhoq | noun | eyeball
+kerriç | noun | donkey's foal
+kerrkë | noun | she-colt
+kerrmë | noun | rough ground, waste ground
+kerrshme | noun | rough ground
+kerrth | noun | snowberry
+kezaroj | verb | crown
+keze | noun | woman's head-dress
+këxej | verb | jump, dance
+këcim | noun | jump, jumping; dance, dancing
+këcimës | noun | stepping-stone
+këcy | adv | yonder, over there
+këcyem | adj | protruding, prominent
+këklli | noun | twitter, chirping
+këkllis | verb | twitter, chirp
+këlbaz | verb | infect with rheum; run (of the nose)
+këlbas | verb | run (of the nose)
+këlbazem | verb | have catarrh
+këlcatës | noun | popgun; squirter, syringe
+këlçomë | noun | stopper
+këlfas | verb | peck, peck at
+këlfitur | adj | pockmarked, pitted
+këlkëzë | noun | arum lily
+kilikânzë | noun | arum lily
+këlkim | noun | tickling; irritation
+këlkoj | verb | tickle; irritate, stimulate
+këlkues | noun | irritator, stimulator
