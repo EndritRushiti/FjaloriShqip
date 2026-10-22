@@ -49164,14 +49164,12 @@ korshum | noun | lead
 kortare | noun | limb
 kortar | noun | limb
 kortarem | verb | be exhausted, worn out
-kortel | noun | sword
 kortesh | noun | itch; lust; kind of herpes
 kortë | noun | court, yard; liquid measure of about 50 litres
 kortës | noun | surface, texture
 korth | noun | shell, crust; cord
 korthtar | adj | crustacean
 korum | adj | dark, swarthy, forbidding
-korzë | noun | bedbug
 korracatë | noun | battleship
 korrace | noun | breastplate; armour-plating
 korracoj | verb | armour, armour-plate
@@ -49199,4 +49197,57 @@ kosatar | noun | mower
 kosbage | noun | rake
 kosel | noun | alum
 koser | noun | sickle
-kostar | noun | mower, reaper; long-legged ground-spider; a day's mowing
+# ── mannshto.tsv ──
+kostericë | noun | small variety of lizard
+kostovalle | noun | lettuce
+kostrevë | noun | kind of rush; timothy-grass
+kostrë | noun | scythe
+kostrofël | noun | nest (child's word)
+koshak | noun | wooden bolt or bar
+koshall | noun | loafer
+koshar | noun | silo, esp. for maize; drying-oven
+koshariqe | noun | small basket
+koshel | noun | swing, hammock
+koshiq | noun | a corn-measure; 100 okes; quarter
+koshiqe | noun | little basket
+koshkë | noun | beehive
+koshore | noun | beehive
+koshtek | noun | store, reserve; hutch
+koshtutë | noun | constitution
+koshull | noun | consul
+kotazi | adv | in vain, for nothing
+kotel | noun | wooden platter; kitten
+kotelle | noun | receptacle for gun-grease; oilcan
+koteshat | noun | oddments, chattels
+kotëm | adj | vain, useless
+kotës | adj | stupefying, soporific
+kotkë | noun | knot; clot, lump
+kotla | noun | copper coins, coppers
+kotnasikot | adv | quite uselessly; twaddle
+kotni | noun | idleness; vanity; futility; inanity
+kotoj | verb | talk in one's sleep, rave; reprove, blame
+kotomen | adj | plump, chubby; broad-backed
+kotoricë | noun | buffalo heifer
+kotor | noun | buffalo calf
+kotroshe | noun | black sweet variety of grape
+kotrovar | noun | potter
+kotrum | noun | water-jar
+kotrruve | noun | water-jar
+kotrrum | adv | all together
+kotsi | noun | uselessness, futility, frivolity, nonsense
+kotsinë | noun | uselessness, futility
+kotsim | noun | frustration
+kotsoj | verb | thwart, frustrate
+kotull | noun | skirt, petticoat
+kotullë | noun | skirt, petticoat
+kotëll | noun | skirt, petticoat
+kotullaç | adj | spiral; spirally, in coils
+kotulloj | verb | dim, cloud, befuddle; make drowsy; drowse, doze, nod; frustrate, foil, blight; render impossible
+kotulluem | adj | drowsy
+kothec | noun | pen, roost
+kothes | noun | pen, roost; barn; maize-silo
+kothi | noun | rind, crust
+kothishte | noun | wood, copse, thicket; brushwood; clearing in which new trees have begun to grow
+kovaçanë | noun | forge, smithy
+kovaçhane | noun | forge, smithy
+kovëz | noun | small bucket
