@@ -45926,3 +45926,56 @@ gumille | noun | heap, pile
 gumim | noun | resonance, noise; rhythm
 gumliq | adv | headlong
 gomliq | adv | headlong
+# ── mannshto.tsv ──
+gumsi | noun | joke
+gumtar | noun | simpleton
+gumues | adj | resounding, echoing; tonic
+gumull | noun | heap, pile
+gumullim | noun | resonance
+gumzar | adj | funny, comical
+gumzi | noun | frivolity, jest
+gumzis | verb | joke, jest; tease, banter
+gumzoj | verb | joke, jest
+gumzuaj | verb | joke, jest
+gumzhim | noun | rumble, roar, noise; rustle
+gumzhis | verb | roar, rumble, clatter, re-echo; buzz, hum; murmur
+gumxhis | verb | roar, rumble; buzz
+gumzhitje | noun | roar, rumble; resonance; buzz, hum; murmur
+gumzhoj | verb | roar, rumble
+guncë | noun | woman's robe; bodice
+gundim | noun | hurt, pain; shame, disgrace
+gundohem | verb | mourn, grieve
+gunduar | adj | sorrowful
+gunëz | noun | tunic, jacket
+gung | adj | hard, hard to break; sexually impotent
+gungalloj | verb | hiss like a tree-cricket; twaddle
+gungç | adj | hard-shelled (of walnuts)
+gungët | adj | domed, vaulted, convex; unproductive; impotent; pot-bellied
+gungoj | verb | dent, buckle; hump, dome, vault
+gunguem | adj | humped; domed, vaulted; dented, buckled, bellied out
+gungus | verb | coo
+gunjë | noun | knee
+gupë | noun | pipe, tube; barrel of a gun; needle-case; hump, bump, dome
+gurazi | noun | basalt
+gurc | noun | stone, rock; stone in the bladder
+gurcoj | verb | petrify, turn to stone, harden
+gurcohem | verb | petrify, harden
+gurcuar | adj | hardened; obstinate
+gurçe | noun | hard nut
+gurdhëndës | noun | stone-cutter, stone-mason
+gure | noun | brick- or lime-kiln
+gurçok | noun | pebble
+gurëz | noun | small pebble
+gurgac | noun | flint
+gurguli | noun | uproar
+gurgali | noun | uproar
+gurgulec | noun | pebble; pellet
+gurgllim | noun | gurgling, bubbling
+gurgullinë | noun | gulp, mouthful
+gurgjaku | noun | haematite
+gurikali | noun | copper sulphate
+gurkërqelje | noun | limestone
+gurqumështi | noun | galactite
+gurshkrepc | noun | flint
+gurshurri | noun | sandstone
+gurzjarri | noun | flint
