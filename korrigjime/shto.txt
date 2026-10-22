@@ -49407,11 +49407,7 @@ krëpij | verb | salt, pickle; eat snacks with wine
 krësëli | noun | couch-grass
 krështe | noun | Christian
 krështerim | noun | Christianity, Christendom
-kriancje | noun | education, breeding
-kriat | noun | client
-kriatë | noun | maid-servant
 kricur | adj | scratched
-kricmë | noun | bang, crack
 kriçe | noun | breeching, buttock-strap of a horse; she-ass foal
 kriçanidhe | noun | nostrils
 kries | noun | creation, formation; universe
@@ -49457,3 +49453,42 @@ krishtër | adj | Christian
 krishtjan | adj | Christian
 kritikan | noun | critic
 krith | verb | plunge
+# ── mannshto.tsv ──
+kriuem | noun | creation
+kriueshëm | adj | creating
+kroçë | noun | crook
+krojshe | noun | square-shaped basket
+krojtura | noun | itching, itch; scratching
+krokar | noun | little onion or bulb
+kronakë | noun | record, chronicle
+krongjill | noun | icicle; crystal
+kronjill | noun | icicle
+krongjillët | adj | frozen into icicles
+kroqe | noun | skull
+kroqi | noun | sketch, outline
+krosun | adj | itchy, mangy
+krosem | verb | get scabby
+krosë | noun | scurf
+kroshne | noun | small basket
+kroshnjë | noun | small basket
+krozhe | noun | small basket, wicker basket; pendant, dropper
+krozhë | noun | small basket
+kruaçkë | noun | little spring, fountain
+kruajtur | noun | itch, itching
+kruçetë | noun | small cross
+krujshi | noun | kinship, kith-and-kin
+krujshqi | noun | kinship
+krukulis | verb | coo, croon (of doves)
+krullem | verb | double oneself up, get bent
+krupër | adj | loathsome
+kruq | adv | crosswise
+krusem | verb | stoop
+krusë | noun | scraper, rasp
+krusëm | noun | torture, agony
+krusje | noun | bow, reverence
+krusmar | noun | rack (of torture)
+kruspullë | noun | ball
+kruspulluar | adj | screwed up, pinched
+krusur | adj | bent
+krushkohem | verb | intermarry (with); get related (to)
+kryth | verb | steal
