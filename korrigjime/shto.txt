@@ -46437,3 +46437,41 @@ gjolishte | noun | marsh, fen
 gjom | noun | shingle (in a river)
 gjomar | noun | past sufferer from plague who lends his services to others
 gjonks | noun | breast, chest
+# ── mannshto.tsv ──
+gjordë | noun | saddle-girth
+gjosë | noun | goat, esp. a black nanny-goat with white markings on the forehead; roast goat-flesh
+gjoskë | noun | goat with white markings
+gjuaja | adv | perhaps; as if
+gjudhi | noun | Jew; strong man
+gjuejtjepeshku | noun | fishing industry, fishery
+gjuetipeshku | noun | fishing
+gjugaç | noun | puddle
+gjugjetë | noun | a vice
+gjugjitar | noun | judge
+gjuh | interj | get away!
+gjuhan | noun | game, fowl
+gjuhëuji | noun | pondweed
+gjuhëlope | noun | mullein
+gjuhëdele | noun | laburnum; marvel of Peru
+gjuhëdreni | noun | hart's-tongue fern
+gjuhëtoke | noun | headland, cape
+gjuhëzogu | noun | small red-flowering plant growing in walls and damp places
+gjuhëkuq | noun | Gipsy
+gjuhëlashtë | adj | talkative
+gjuhëlirë | adj | voluble
+gjuhëlopatë | adj | talkative; twaddler
+gjuhëlopatkë | noun | gossipy woman
+gjuhëlopë | noun | bugloss
+gjuhëllomkë | adj | talkative
+gjuhëpremë | adj | laconic
+gjuhëvështirë | adj | slow of speech
+gjuhti | noun | hunt, chase
+gjuhushtër | noun | long-tongue, twaddler
+gjukateshë | noun | woman judge
+gjukatë | noun | law-court, tribunal; hardship, misery
+gjuloz | noun | revelry
+gjumaç | adj | sleepy, dreamy; sleepy-head
+gjumak | adj | sleepy
+gjumar | noun | past sufferer from plague who helps others
+gjumëz | noun | bladder formed on stones by an insect; silk-cocoon
+gjumëzezë | adj | unfortunate
