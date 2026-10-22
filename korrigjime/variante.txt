@@ -1235,3 +1235,8 @@ foell | fyell | alternative
 fiqollë | fqollë | alternative
 fozhnje | foshnjë | alternative
 fqi | fqinj | alternative
+# ── Mann 1948 ──
+françes | francez | alternative
+freshki | freski | alternative
+frëgoj | fërkoj | alternative
+frëncez | francez | alternative

@@ -44666,3 +44666,62 @@ fragulloj | verb | char, reduce to ash
 frajis | verb | crush
 francezisht | adv | in French
 francik | noun | twenty-grosh piece
+# ── mannshto.tsv ──
+françes | noun | Frenchman
+françiskan | noun | Franciscan
+frank | noun | franc
+frangalë | noun | flame
+frangji | noun | loophole; Europe
+frangjollë | noun | roll of white bread
+franxhollë | noun | roll of white bread
+frënxhollë | noun | roll of white bread
+frëngjollë | noun | white bread, French roll
+frangjuzë | noun | syphilis
+frangjyzë | noun | syphilis
+franis | verb | go numb
+frap | noun | gun-cock
+frashët | adj | of ash
+frashis | verb | cool, fan, refresh
+frashki | noun | cool, coolness, freshness
+frashnaje | noun | ash-grove
+frasholle | noun | broad bean
+frashulle | noun | broad bean
+frashullimë | noun | whistling
+frati | noun | congregation; community
+fratni | noun | friary, brotherhood
+fretni | noun | friary, brotherhood, order
+fraxhel | noun | whip; din, row
+fraxhillitat | noun | fragility
+frena | noun | brake
+frênji | noun | loophole
+frerëz | noun | grape-stalk
+freçkë | noun | snout
+freskëri | noun | freshness, cool
+fresknë | noun | freshness
+freshkë | noun | glans penis; a fish
+freshkët | adj | fresh
+freshki | noun | coolness
+freshkonjës | adj | cooling, refreshing
+freshkues | adj | cooling, refreshing
+freshksi | noun | freshness, open air
+freshtelidhë | noun | slice, paring
+frëgoj | verb | rub
+frëncez | noun | Frenchman
+frëngjishte | noun | the French language
+frëngullere | noun | bonfire
+frëngjuz | noun | syphilis
+frëngjyz | noun | syphilis
+frënjyzë | noun | syphilis
+frëngjyzak | adj | syphilitic
+frënis | verb | go numb
+frënisje | noun | pins and needles, cramp
+frëqe | noun | mouthful, gulp
+frëtëlloj | verb | snuffle
+frëth | noun | breath
+frigadhë | noun | frigate
+frigëlloj | verb | terrify
+frij | verb | blow
+frikanac | adj | cowardly; coward
+frikanjac | adj | cowardly; coward
+frikanjos | adj | cowardly; coward
+frikcoj | verb | frighten
