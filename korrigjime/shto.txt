@@ -45020,3 +45020,57 @@ gacgavis | verb | urge on, impel
 gacgavitës | adj | urging; agitator
 gacmim | noun | incitement
 gacmoj | verb | egg on, urge, incite
+# ── mannshto.tsv ──
+gacullim | noun | twinkle, sparkle, glint
+gaculloj | verb | twinkle, sparkle, glint; phosphoresce
+gacullueshëm | adj | twinkling, sparkling, radiant
+gaç | noun | cricket
+gaçëm | adj | ready
+gaçim | noun | alacrity, readiness
+gaçuem | adj | prepared, ready
+gadal | adv | slowly
+gadalsoj | verb | moderate; slow down, retard; relax
+gadalshëm | adj | slow
+gadë | noun | heron; swan
+gadis | verb | guess
+gadosh | noun | rascal
+gadurisht | adv | bestially
+gadhnjej | verb | conquer
+gadhënenj | verb | conquer
+gaforrerane | noun | crangon (shrimp)
+gaforredeti | noun | sea crab
+gafrroj | verb | dishevel (hair)
+gagali | noun | roar of laughter
+gagarë | noun | kind of hound
+gagjari | noun | prop, shoring-pole (esp. for vines)
+gajaf | noun | bag, purse, pouch; pocket
+gajdë | noun | skin-bottle; bagpipes
+gajdi | noun | joy
+gajdiar | adj | graceful, beautiful, joyful
+gajeps | verb | rejoice
+gajganë | noun | kind of cream or sauce of eggs, milk and butter
+gajganâ | noun | kind of cream or sauce of eggs and milk
+gajkë | noun | walnut that is easy to break; magpie
+gajush | noun | dense thicket, marshy woodland
+gallabere | noun | bloom, flower in full bloom
+garabellë | noun | flower in full bloom
+galabele | noun | flower in full bloom
+galavele | noun | flower in full bloom
+galacilë | noun | poisonous plant with milky sap, used to poison fish
+galacu | adv | squatting on one foot
+galakuq | adj | dazed, stupefied
+galan | noun | black lamb
+galavizhdë | noun | smearing, daub
+galdi | noun | joy, delight
+galdim | noun | joy, rejoicing, jollity; contentment, pleasure; exultation, delight
+galecar | noun | flatterer
+galedër | noun | wooden cask; jug, pitcher
+galëm | adj | dark, dusky, deep-coloured; black
+galibë | noun | hut
+galicë | noun | crow with white wings
+galuc | adv | squatting
+galoq | adv | squatting
+galjof | noun | bag, knapsack
+galkoj | verb | ride on horseback
+galof | noun | bag
+gallonjë | noun | corridor, gallery

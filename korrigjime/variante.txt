@@ -1257,3 +1257,7 @@ furr | furrë | alternative
 fyçi | fuçi | alternative
 # ── Mann 1948 ──
 fymje | fyemje | alternative
+# ── Mann 1948 ──
+gadal | ngadalë | alternative
+gadhnjej | ngadhënjej | alternative
+gadhënenj | ngadhënjej | alternative
