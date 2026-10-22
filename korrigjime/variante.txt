@@ -1272,3 +1272,5 @@ geologji | gjeologji | alternative
 # ── Mann 1948 ──
 gëllqis | zhys | alternative
 gërfas | gërthas | alternative
+# ── Mann 1948 ──
+girafë | gjirafë | alternative

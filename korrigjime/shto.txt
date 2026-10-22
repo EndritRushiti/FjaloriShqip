@@ -45347,3 +45347,55 @@ gërnjitës | adj | quarrelsome
 gërsenicë | noun | caterpillar
 gërsis | verb | knock
 gërshes | verb | cross, interlace
+# ── mannshto.tsv ──
+grishem | verb | be called, named, summoned
+gërshitem | verb | be called, named
+gërshetkë | noun | small plait
+gërshenirë | noun | a weed
+gërtuk | adj | of maize
+gërthlë | noun | crab
+gërthye | noun | crab
+gërvallem | verb | pull wry faces, make grimaces
+gërvesh | verb | scratch
+gërvishtar | noun | engraver
+gërvozhdë | noun | shell, eggshell
+gërxhel | noun | log, trunk, stump of a tree
+gërxhep | noun | forked stick
+gërxhelloj | verb | embed in rock; truncate, lop off
+gërxhollë | noun | coot; shell, husk
+gërysun | adj | hunchbacked
+gërzë | noun | embroidery, edging, galloon lace; fair-haired person
+gërzoj | verb | scrape
+gërzhas | verb | shrivel, wither; incite, set on, start
+gërzhatem | verb | shrivel, wither
+gërzhmetë | noun | waste ground covered with briars
+gërzhollë | noun | shell, husk, peel; coot; moor-hen
+gërrhas | verb | snore; purr
+gërrhij | verb | snore, purr
+gërrmicë | noun | a disease of swine; crammed full
+gërrneqe | noun | joint of a leg
+gërrniqe | noun | joint
+gëthap | noun | hook
+gëthlas | verb | fondle, caress
+gëthuq | noun | ditch
+gëzatës | noun | mischief-maker, disturber
+gëzimtar | adj | joyful, glad
+gëzhas | verb | urge
+gëzas | verb | urge
+gëzhdallë | noun | splint; rung of a ladder; spur on antlers
+gëzhdrija | noun | Ash Wednesday
+gibilterë | noun | Gibraltar
+gice | noun | darling
+gicilim | noun | tickling, tickle
+gicmoj | verb | incite
+gidilloj | verb | tickle
+gilc | noun | bowstring
+gilicas | verb | tickle
+giligis | verb | tickle
+gilxoj | verb | tickle
+ginë | adj | full, satisfied
+ginjak | noun | eggshell
+girafë | noun | giraffe
+giric | noun | veterinary surgeon
+girore | noun | veterinary surgery
+giroll | noun | variety of mushroom
