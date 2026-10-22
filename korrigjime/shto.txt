@@ -46031,3 +46031,45 @@ governonj | verb | govern
 guvrim | noun | hollowness
 guximazë | noun | caterpillar, grub
 guxis | verb | annoy, irritate, urge on, incite, stir, rouse
+# ── mannshto.tsv ──
+guzar | noun | a bird
+guzël | noun | lute
+guzinë | noun | kitchen
+guzhëm | noun | thong, esp. for fastening an oar to the rowlock; thong of straw or bast for tying up plants
+gverë | noun | quarrel, discord
+gverri | noun | quarrel, discord
+gvesh | noun | shoring-pole, prop
+gveshëz | noun | a yellow variety of clover
+gvoskë | noun | shell, peel, husk
+gvoxhë | noun | shell, peel, husk
+gvozhë | noun | shell, peel, husk
+gybere | noun | bodice
+gym | noun | hunt
+gypkoshe | noun | thigh-bone, femur
+gypz | noun | small tube
+gyrra | noun | a variety of rose
+gziliri | noun | delight
+gzhall | adj | dryish, arid
+gzhep | noun | hook for hanging weapons or meat
+gzhij | verb | unload, empty out a spent cartridge-case from a gun
+gzhis | verb | hollow out; blow out; tear; rattle (in the throat)
+gzhitë | noun | shell, empty shell, peel, husk; cartridge-case, spent cartridge
+gzhojë | noun | shell; cartridge-case
+gzhollë | noun | shell; cartridge-case
+gzhuta | noun | castings, offal; refuse, rubbish; waste products; chicken fodder, siftings; husks, chaff
+gjaboj | verb | err, make a mistake
+gjaçint | noun | hyacinth
+gjaeshim | adj | similar
+gjafsha | verb | it might happen
+gjagja | pron | something, anything
+gjagjâzë | noun | riddle
+gjagjë | noun | small thing; something; riddle
+gjëagjë | noun | small thing; riddle
+gjahik | noun | Albanian cloak
+gjahtoj | verb | hunt
+gjajë | noun | hunt, chase
+gjajkë | noun | hunt, chase
+gjajtas | adv | likewise; analogously
+gjajtë | noun | event
+gjakafshë | pron | something, anything
+gjakatuar | noun | murderer
