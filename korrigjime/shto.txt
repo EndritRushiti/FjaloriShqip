@@ -47003,3 +47003,40 @@ horok | noun | Ottoman (contemptuous)
 horni | noun | pan
 horrjat | adj | improper, unfitting; miser
 horrjatisht | adv | improperly, unfittingly
+# ── mannshto.tsv ──
+host | noun | host, landlord
+hoste | noun | host (at mass)
+hostenar | noun | drover
+hotkë | noun | out-of-the-way place
+hoftë | adj | impetuous
+hovardha | adj | generous; boon companion
+hovem | verb | dash along
+hovës | noun | attacker; attacking; flywheel
+hovme | noun | jump
+hovtar | adj | leaping, impetuous
+hozur | noun | interest
+hozurë | noun | interest
+uaa | noun | loan
+huahem | verb | borrow
+huajtme | noun | loan
+huajtës | adj | lending; lender, creditor
+huajthi | adv | foreignly
+huajzoj | verb | quarter, lodge, take in, put up
+huazash | adv | reciprocally
+huazi | noun | reciprocation
+huazisht | adv | reciprocally
+huazshëm | adj | reciprocal
+hubu | adv | madly, wildly
+hudloj | verb | confuse, bewilder
+hudhë | noun | leap, bound, jump
+hudhës | adj | throwing, hurling; challenger or attacker
+hudhje | noun | throwing, throw; fling; shot
+hudhroj | verb | fling, hurl
+hudhrohem | verb | dash hard, race
+huejthi | adv | strangely, outlandishly
+hues | noun | borrower; lender
+huet | noun | obstinacy
+huezisht | adv | reciprocally; vice-versa
+huh | verb | blow on
+huhni | noun | espionage
+huhnitës | noun | spy
