@@ -385,3 +385,4 @@ falenderim   # drejtshkrim i gabuar: falënderim
 pergjegjes   # pa ë: përgjegjës
 friken   # pa ë: frikën
 braç   # spell-checker word without a meaning
+hipi
