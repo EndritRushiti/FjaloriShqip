@@ -48129,3 +48129,56 @@ kashagis | verb | curry-comb
 kashgis | verb | curry-comb
 kashetë | noun | case, sheath
 kashë | noun | box; strongbox; animal; fable or traditional verse
+# ── mannshto.tsv ──
+kashërc | noun | rush-basket
+kashile | noun | basket
+kashitë | noun | bite, morsel
+kashkarite | noun | quibbling
+kashnik | noun | frame of a loom
+kashqetë | noun | cap
+kashtallë | noun | splint; radius of the arm
+kashtar | noun | corn-silo; branch of maize; bonfire
+kashtare | noun | corn-silo; bonfire
+kashtërrajë | noun | tall plant with a prickly woody stem
+kashtët | adj | straw-
+kashtoj | verb | wrap in straw, cover with straw; thatch; plait a straw fence
+kashtore | noun | straw-bed, litter; straw-rick, haystack; thatched cottage; silo, barn; straw hat
+kashtovinë | noun | stubble
+kashtrojë | noun | tall plant with a prickly stem
+kashtu | noun | grain-chest
+kashtute | noun | corncob
+katafos | noun | mischief-maker
+katalla | noun | monster; heathen, pagan; dragon
+katallog | noun | catalogue
+katanishtë | noun | small pot
+kataraf | noun | hatchway, trapdoor
+katarafit | noun | hatchway, trapdoor
+katarrakt | noun | waterfall
+kataremz | noun | cock-and-bull tale
+kataromë | noun | a creature
+katarosh | noun | chain of beads worn on the forehead; protruding front tooth; peg-toothed
+katast | noun | land-register; rent-roll
+katastër | noun | land-register
+katem | verb | yield, surrender
+katëk | noun | stomach, esp. of birds, gizzard; bladder
+katëranshëm | adj | foursided, quadrilateral
+katërcepsh | noun | quadrilateral
+katërcipët | adj | quadrangular
+katërçip | noun | rectangle
+katërçipës | adj | quadrangular, rectangular
+katërçipje | noun | rectangle, quadrangle
+katërdoras | adv | on all fours; four-handed, as a duet; duet
+katërfarsh | adj | of four kinds
+katërfishët | adj | fourfold, quadruple
+katërmëstë | adj | quadruple
+katërmëzaj | adv | fourfold
+katërmëzoj | verb | quadruple; multiply by four
+katërqoshe | noun | quadrilateral, quadrangle
+katërqoshë | adj | quadrangular
+katërqoshës | adj | quadrangular
+katërshëm | adj | quarterly
+katërtar | adj | quaternary
+katërvesh | noun | cricket
+katërvjetshëm | adj | four-year-old
+katërzim | noun | squaring; quarter, phase (of the moon)
+katërzoj | verb | square
