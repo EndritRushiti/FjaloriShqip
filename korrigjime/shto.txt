@@ -47764,3 +47764,21 @@ kallxi | noun | gleaning
 kallzës | noun | informer; slanderer; slanderous
 kallximtar | adj | slanderous, talebearing, gossiping; telltale, informer
 kallzonjtore | noun | accusative case
+# ── mannshto.tsv ──
+kamahi | noun | snow frozen hard on plants
+kamalec | noun | grasshopper; cricket
+kamalue | noun | chameleon
+kamaqi | noun | deep sleep, slumber; drowsiness, sleepiness
+kamarë | noun | arch, vault, niche
+kamarje | noun | spider
+kamarushë | noun | child's string-game
+kamasë | noun | saving, economy
+kamatëmarrje | noun | usury
+kamati | noun | frame
+kamatis | verb | hobble, fetter
+kamatoj | verb | charge interest; force, press, urge
+kambanarë | noun | belfry
+kambanari | noun | belfry
+kambanëz | noun | campanula (plant)
+kamberice | noun | covert, ambush
+kanbë | noun | foot, leg
