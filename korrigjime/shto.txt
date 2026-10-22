@@ -47843,3 +47843,37 @@ kanezë | noun | ball
 kanell | noun | cinnamon
 kanend | adj | sleepy
 kânë | noun | henna
+# ── mannshto.tsv ──
+kangjellar | noun | chancellor
+kanik | noun | thatched cottage, hut, shack; brew made from reeds
+kanil | noun | lamp
+kaniskë | noun | shallow basket; vat, tub
+kanisq | noun | present, gift
+kanitem | verb | finnick
+kanonar | noun | gunner
+kanonis | verb | regulate, prescribe; put straight, tidy up
+kanosët | adj | threatening
+kanosi | noun | rage; threat; fine, penalty
+kanosqar | noun | outpost, patrol, watchman
+kanoz | noun | walnut smoothed for playing with
+kanep | noun | hemp
+kanpashë | noun | stork
+kanqelar | noun | chancellor
+kanqelor | noun | chancellor
+kantër | noun | wharf, quay
+kantikaçik | adv | hopping
+kantjer | noun | dry-dock
+kantuo | noun | corner
+kanue | noun | gun, cannon
+kanul | noun | shuttle (on a loom)
+kanunët | adj | legal
+kanunisht | adv | by statute
+kanjelë | noun | stopcock, tap, faucet
+kapadaj | noun | rascals
+kapahje | noun | cover
+kapakth | noun | small lid
+kapalloj | verb | surround, enclose
+kapama | noun | overcoat; ragout
+kapan | noun | lid of a still; top of the skull
+kapanik | adj | dark, obscure
+kaparinë | noun | caper
