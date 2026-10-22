@@ -47511,3 +47511,55 @@ kadoc | noun | cock, capon; turkey
 kadsh | noun | barrel
 kadh | noun | billhook
 kadhis | verb | prune, trim
+# ── mannshto.tsv ──
+kafalet | noun | haycock
+kafanoz | noun | bowl, basin
+kafariç | noun | spiked attachment to the nose of a calf to prevent sucking
+kafariq | noun | spiked nose-piece for calves
+kafazët | adj | caged, railed, barred
+kafazoj | verb | cage
+kafeshëndan | noun | cabaret, saloon
+kafetar | noun | café proprietor
+kafetore | noun | coffee-house
+kafillone | noun | pin
+kafjallë | noun | breakfast; lunch
+kafjollë | noun | breakfast
+kafore | noun | coffee-pot
+kafshak | adj | zoological
+kashatë | noun | morsel, bite
+kafshni | noun | bestiality, brutality
+kafshëroj | verb | brutalise; stupefy
+kafshitë | noun | bite, morsel
+kafshonjës | adj | biting, mordant
+kafshsi | noun | bestiality
+kagj | noun | singer
+kaha | adv | whence
+kahe | adv | formerly
+kaher | adv | formerly, some time ago
+kahë | adv | from
+kahmot | adv | formerly; ages ago
+kahnis | verb | diminish
+kahpak | adv | slowly
+kahtis | verb | shell, peel
+kaik | noun | kayak, canoe
+kajagon | noun | slate
+kajde | noun | ceremony; gait; way; tune
+kajdeli | noun | grace, charm
+kajherë | adv | occasionally
+kajik | noun | kayak
+kajis | verb | yelp, bark
+kajk | noun | a bird
+kajkë | noun | wood, forest; keel of a ship
+kajll | noun | bolt (mechanical)
+kajlloj | verb | bark, yelp (of hounds)
+kajtikokërrli | noun | twaddle
+kajtis | verb | rouse, irritate
+kajuke | noun | short jacket, jerkin
+kakamor | noun | water-melon
+kakareç | adj | unripe, harsh, sour; immature, inexperienced
+kakareq | adj | unripe
+kakariz | verb | cluck, cackle
+kakarisem | verb | feel creepy
+kakarusht | adv | on end
+kakato | noun | cockatoo
+kakërdhac | verb | make big eyes
