@@ -45745,3 +45745,47 @@ gromzis | verb | belch
 gropc | noun | ditch, trench
 gropsim | noun | lee-side, place in lee or hollow
 gropsirë | noun | hollow; basin, valley
+# ── mannshto.tsv ──
+groshgjarpni | noun | variety of climbing vetch
+groshqore | noun | small variety of bean used as cattle-food
+groshare | noun | piastre
+groshem | verb | be covered with blackheads
+groshinë | noun | vetch
+groshore | noun | large pot with handles
+grozhullë | noun | smut in wheat; chickpea
+gruc | verb | gobble, devour
+grudë | noun | clod, lump of earth; sod, turf
+grudinë | noun | grassy ground
+grudjan | noun | loose earth
+grudoj | verb | irritate, exasperate
+grunohem | verb | become a woman
+grufa | adv | in driblets, in spouts
+gruhas | verb | clean wheat after winnowing; winnow
+gruhulas | verb | brush; brush off
+grynët | adj | wheaten
+gryntë | adj | wheaten
+grytë | adj | wheaten
+grukë | noun | throat
+grumull | noun | heap, pile
+grumbullas | adv | in groups; wholesale
+grumçukë | noun | crumb
+grungus | verb | coo, croon
+grunis | verb | creak, squeak
+grunishte | noun | wheat-field
+grunja | noun | corn, grain
+grunjëna | noun | harvests, crops
+grushmaq | noun | larynx
+grushtar | noun | boxer
+grutë | noun | grotto
+gruzë | noun | a flowering plant
+gryet | adj | pimply, blotchy
+gryk | noun | throat
+grykakuq | noun | robin
+grykalarëm | noun | blue-throated warbler
+grykashkë | noun | neckerchief, cravat; bib
+grykëkuq | noun | robin
+grykore | noun | beaver, chin-piece in a suit of armour; hollow, mountain valley; guttural sound
+grykos | verb | choke
+grykosemi | verb | embrace
+grykosehem | verb | gorge oneself
+grykësë | noun | bib; front, shirt-front

@@ -1274,3 +1274,5 @@ gëllqis | zhys | alternative
 gërfas | gërthas | alternative
 # ── Mann 1948 ──
 girafë | gjirafë | alternative
+# ── Mann 1948 ──
+grukë | grykë | alternative
