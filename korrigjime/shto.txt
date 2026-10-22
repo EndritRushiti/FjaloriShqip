@@ -47344,7 +47344,6 @@ jestik | noun | cushion, pillow
 jetëgjatsi | noun | longevity
 jetëmadh | adj | broad, liberal
 jetëngathët | adj | lazy, idle
-jetësjetës | adv | for ever
 jetëshkronjë | noun | biography
 jetëshkurtë | adj | shortlived, ephemeral
 jetëzi | adj | unholy, wicked, benighted, wretched
@@ -47370,3 +47369,38 @@ jezitsi | noun | rascality, roguery
 jezulloj | verb | stifle
 jidhi | noun | care, solicitude
 jirë | noun | edge, border
+# ── mannshto.tsv ──
+joh | noun | nay, no
+johe | noun | nay, no
+jok | noun | dirty child, ragamuffin
+jomak | noun | ball of thread
+jonxhe | noun | alfalfa, lucerne
+jopedër | noun | pot; boulder
+jorgavan | noun | lilac
+jorgtar | adj | stubborn (of a horse)
+josigurtë | adj | uncertain, unsafe
+jotamë | noun | thy mother
+jozm | noun | mint
+kaberr | adj | clumsy, awkward, boorish, uncouth
+kabërr | adj | clumsy, boorish
+jucë | noun | mud
+juci | noun | mud
+juzi | noun | mud
+judë | noun | Judas, traitor
+judikar | verb | judge
+judikari | noun | suffering
+judheshë | noun | Jewess
+judhni | noun | Jewry
+jufkë | noun | light pastry; bubble
+juk | noun | south
+jungar | noun | firewood
+jungazë | noun | burning stick, firebrand
+jungëz | noun | firebrand
+jurnek | noun | pattern, example
+juryshi | noun | attack
+jurrá | adv | on the back; up! mount!
+kabim | noun | evil, wrong
+kablesh | noun | fibrous covering, beard on seed-capsules, nuts; wool on the head of sheep
+kabni | noun | roguery
+kabohem | verb | be mistaken
+kabrroz | adj | frozen in the form of steps (of a river)
