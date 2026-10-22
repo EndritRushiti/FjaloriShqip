@@ -44473,3 +44473,55 @@ fjalmirë | noun | gentleness of speech; favour, support
 fjalni | noun | loquacity
 fjalore | noun | dictionary
 fjalortar | noun | lexicographer
+# ── mannshto.tsv ──
+fjalosës | noun | talker
+fjalsi | noun | wordiness, verbosity
+fjaltar | adj | talkative; talker
+fjaltërkuzë | adj | talkative
+fjalti | noun | loquacity
+fjaltore | noun | dictionary
+fjalorshkrues | noun | lexicographer
+fjamë | noun | flame; cold
+fjar | verb | fling
+fjarim | noun | fling
+fjarishtë | noun | fling, throw
+fjaroj | verb | fling upwards, send flying
+fjas | verb | speak
+fjerëz | noun | lentil
+fjesar | noun | pine-tree with clusters of needles
+fjesë | noun | broom; brush
+fjeshti | noun | purity; clearness; simplicity
+fjetsore | noun | dormitory
+fjetsi | noun | lethargy
+fjoj | verb | betroth
+fjor | noun | flower
+fjoretë | noun | rapier, foil
+fjorintë | noun | florin
+fju | adv | quickly
+fjug | verb | winnow; throw, fling
+fjuturoj | verb | fly
+fkinj | adj | neighbouring
+fkul | noun | starch
+flaçë | adj | inclement, bad (of weather)
+flagët | adj | flaming
+flaksi | noun | inflammation
+flaksim | noun | inflammation
+flaksoj | verb | inflame
+flakshëm | adj | inflammable
+flakzoj | verb | ignite, light
+flakada | noun | bonfire
+flakareshë | noun | slap, box on the ear
+flakëris | verb | blaze
+flakore | noun | fire-ship; fuse
+flakosh | adj | enflamed; ardent
+flakrim | noun | blaze; fervour, enthusiasm
+flakroj | verb | blaze; inflame, rouse, inspire; hurl
+flakrueshëm | adj | blazing
+flaktar | noun | lamplighter
+flakueshëm | adj | empty; vain
+flam | interj | damn!
+flamboj | verb | burn
+flambosur | adj | with a chill, having a cold
+flamëz | noun | cold, catarrh
+flamisem | verb | catch a cold
+flamosem | verb | catch a cold

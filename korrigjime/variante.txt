@@ -1221,3 +1221,7 @@ fistan | fustan | alternative
 fistë | fustan | alternative
 # ── Mann 1948 ──
 fjakë | flakë | alternative
+# ── Mann 1948 ──
+fjas | flas | alternative
+fjoj | fejoj | alternative
+fjuturoj | fluturoj | alternative
