@@ -48711,3 +48711,49 @@ klli | noun | slime, sloppy muck, filth, mire; swinishness
 kllikar | adj | shameless
 kllirë | noun | stain, mark, spot; dregs, filth; bung-hole
 kllirtë | noun | mound, ridge
+# ── mannshto.tsv ──
+kllitës | adj | thrusting, plunging, burying, igniting, causing; incendiary
+kllitje | noun | kindling, starting, insertion, immersion, plunge, introduction
+klloç | noun | broody hen
+klloçi | noun | brood, clutch
+klloçis | verb | cluck; brood; hatch out (also of insects); tread, trample
+klloçitës | noun | hatcher, incubator; chatterbox
+kllogjen | noun | smut in wheat, corn-blight; corn-weevil; charcoal; tadpole
+kllogjenar | noun | charcoal-burner
+kllokotine | noun | hell
+kllopashkë | noun | clock-spring; latch, bolt; throttle
+klloqimë | noun | chatter
+klloqis | verb | chatter
+klloqitës | adj | chattering; chatterbox
+klloqitkë | noun | gossipy woman
+klloshtër | noun | beestings, colostrum
+kllubazoj | verb | banter
+kllufje | noun | sheath
+klluk | verb | sit on, hatch out; cluck; walnut; padlock
+kllukas | verb | well up, boil up
+kllyç | noun | sword, sabre
+kmashëm | adj | shaggy (of sheep)
+kmej | noun | madness, fury, rage
+kmeje | noun | madness, fury
+kmendë | noun | goathair, mohair
+kmendët | adj | hair-, mohair-
+kmenjeni | noun | folly, madness
+kmin | noun | furnace
+kminjeni | noun | offence
+kmyem | adj | mad
+knir | verb | stifle, choke
+knutem | verb | shirk, neglect
+knjaz | noun | prince
+kobar | noun | immoral glutton, swine; glutton; impostor; fraudulent
+kobash | adj | greedy, gluttonous; to blame, wicked; glutton
+kobel | noun | milkpail, milkchurn
+kobis | verb | deceive, cheat, betray; harm; pilfer; swindle; adulterate
+kobitës | noun | cheat; faker, forger
+kobitje | noun | deceit; theft, pilfering
+kocaj | verb | freeze (said of winter)
+kocak | noun | saddle-bow of a pack-saddle
+kocas | verb | peck
+koce | noun | girl; ray-fish, skate; twisted work, braid, matting, plait
+koceq | noun | rear pommel of a pack-saddle
+kocërr | noun | flat patch, dab, seal
+koci | noun | bone; joint
