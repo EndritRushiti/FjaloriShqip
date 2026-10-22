@@ -49364,7 +49364,6 @@ krenaje | noun | top, upper part; crown of the head
 krença | noun | fringes, edging
 kreni | noun | pride
 krenimçar | adj | proud
-krenik | adj | proud
 krenim | noun | assertion
 krenisht | adv | proudly
 krepallë | noun | eyelash
@@ -49375,19 +49374,16 @@ krepët | adj | steep, rocky
 krepicë | noun | bleaching-medium
 krepis | verb | blink (the eyes)
 krerëz | noun | withers
-kresele | noun | couch-grass
 kresëm | noun | unction
 krezëm | noun | unction
 kresmim | noun | confirmation (R.C.)
 kresmoj | verb | confirm (a child in the R.C. Church); anoint
-kresnicë | noun | a fish found in Lake Ohrida
 kresnik | noun | small festive gift-cake
 krest | noun | horse-comb
 krestë | noun | horse-comb; stiff, prostrate, stretched out
 kreshkët | adj | brittle, liable to split; rugged, rough
 kreshmi | noun | abstinence from fatty and milky foods
 kreshmore | noun | milkweed; primrose; Lenten diet
-kreshnella | noun | Christmas
 kreshnikëri | noun | chivalry; order of knights; heroism
 kreshniki | noun | heroism
 kreshpë | noun | sheep with curly wool
@@ -49402,8 +49398,62 @@ krevet | noun | bed
 krezim | noun | unction; confirmation
 krezhavitet | verb | stand on end, bristle (of hair)
 krezhme | noun | Lent
-krëckë | noun | toast
 krëhër | noun | comb
 krëmill | noun | snail
 krëmtoj | verb | celebrate
 krëndë | noun | foliage; leaves used as animal fodder; abundant, luxuriant
+# ── mannshto.tsv ──
+krëpij | verb | salt, pickle; eat snacks with wine
+krësëli | noun | couch-grass
+krështe | noun | Christian
+krështerim | noun | Christianity, Christendom
+kriancje | noun | education, breeding
+kriat | noun | client
+kriatë | noun | maid-servant
+kricur | adj | scratched
+kricmë | noun | bang, crack
+kriçe | noun | breeching, buttock-strap of a horse; she-ass foal
+kriçanidhe | noun | nostrils
+kries | noun | creation, formation; universe
+kriesë | noun | creation
+kriestar | adj | creative; creator
+kriet | noun | creator
+krietar | noun | creator
+krietyrë | noun | creature
+krif | noun | mane; forelock
+krifem | verb | comb oneself
+krishë | noun | box-tree
+krihohet | verb | misfires (of a gun)
+krijestar | adj | creative; creator
+krijetar | adj | creative; creator
+krijetyrë | noun | creature
+krijonjës | adj | creative; creator
+krikull | noun | vine-prop
+krikullë | noun | vine-prop
+krimazë | noun | vermicelli
+krimoset | verb | gets worm-eaten
+krimur | adj | maggoty, worm-eaten
+krimëzin | noun | crimson
+krimishinë | noun | autumn crocus
+krine | noun | mane
+krioj | verb | create
+kripanik | adj | salty; salt-cellar
+kripëz | noun | horsetail (equisetum)
+kripsi | noun | saltiness, brine
+kripsirë | noun | saltiness, brine
+kripsoj | verb | salt, pickle
+kripzi | adj | black-haired
+krir | noun | mother-of-pearl
+krise | noun | couch-grass
+krisël | noun | cynodon dactylon (Bermuda grass)
+kriskë | noun | poker (for a fire)
+kriskulle | noun | lobe of the ear
+krisme | noun | crack, chink
+krushtall | noun | crystal
+kristë | noun | crook, hooked stick
+kristomathi | noun | chrestomathy
+krishngjallje | noun | Resurrection
+krishtër | adj | Christian
+krishtjan | adj | Christian
+kritikan | noun | critic
+krith | verb | plunge
