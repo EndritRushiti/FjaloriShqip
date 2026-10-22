@@ -47620,3 +47620,47 @@ kalaza | adv | on all fours
 kalbnoj | verb | putrefy
 kalbsej | verb | putrefy, rot
 kalbsi | noun | putrefaction
+# ── mannshto.tsv ──
+kalbsoj | verb | rot, decay, cause to fester
+kalbsyem | adj | rotten, festered
+kalce | noun | stockings
+kaldar | noun | boiler
+kalec | adv | lightly, easily, slowly
+kallandar | noun | calendar
+kalestër | noun | first banquet held in honour of the bride-to-be
+kaleshan | adj | hairy, shaggy
+kaleshkë | noun | calash
+kalëpiç | adv | pickaback
+kalëqyqeve | noun | kind of stork, perhaps egret
+kalfë | noun | journeyman, apprentice
+kalibaç | adv | pickaback
+kalibe | noun | hut, cabin
+kalidhan | noun | pine
+kalihum | adv | over and over, headlong
+kalikoc | adv | pickaback
+kalikoç | adv | pickaback
+kalikotë | noun | calico
+kalikuç | adv | pickaback
+kalikush | adv | pickaback
+kalimajë | noun | mountain pass
+kalima | noun | child
+kalimare | adv | in a heap, in confusion
+kalimerë | noun | rhythm; song, hymn
+kalimkohe | noun | disuse, antiquation
+kalipeç | adv | pickaback
+kalipiç | adv | pickaback
+kaliq | noun | biscuit, cake, small loaf
+kaliqë | noun | boot, esp. sort worn by women; clog
+kaliqyqës | noun | kind of stork
+kaliroj | verb | ride (on horseback); rest forefeet on a branch to get at leaves (of a goat)
+kalistrup | adv | in the hollow of the arm, in the arms
+kalitës | adj | cutting, carving, chiselling; carver, chipper; breaker
+kalitësguresh | noun | stone-cutter, gem-cutter; stonemason
+kalivar | noun | carnival
+kalivë | noun | hut
+kalivuç | adv | on horseback
+kalkoj | verb | press, tread
+kalmuq | adv | mud-bespattered, covered with dust
+kaloçe | noun | galoshes
+kalofer | noun | herb used as flavouring
+kaloqatë | noun | blow
