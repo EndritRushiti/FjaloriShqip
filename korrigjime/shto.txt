@@ -48233,3 +48233,29 @@ kavërtis | verb | toast, roast
 kaferdis | verb | toast, roast
 kavatoj | verb | imagine, contrive, think out; impress, imprint; awaken, arouse
 kave | noun | coffee
+# ── mannshto.tsv ──
+kavez | noun | cage
+kavi | noun | strength; mainspring; source, author
+kavis | verb | arise (out of), happen
+kavishëm | adj | firm, strong
+kaviti | noun | motive
+kaxhahus | verb | stun, stupefy
+kaxhë | noun | wedge, turn-button (for securing doors)
+kazami | noun | calendar
+kazinë | noun | casino
+kazmir | noun | cashmere
+kazmirë | noun | cashmere
+kecane | noun | scullery-maid
+keckë | noun | little kid
+keçe | noun | felt; fur cap
+keçë | noun | little girl
+kejet | adv | too much
+keklish | verb | chirp (as crickets)
+kelemendem | verb | be bewildered
+kelk | noun | cup; drinking-glass, tumbler
+kelq | noun | cup, glass
+kelqe | noun | cup, glass
+qêmën | noun | incense
+këngjem | noun | incense
+kepme | noun | stitch
+kepres | noun | bridle
