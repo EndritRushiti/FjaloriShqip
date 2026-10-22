@@ -49121,7 +49121,6 @@ korçullat | noun | consulate
 korçullar | noun | diplomat, envoy, consular official
 korcyll | noun | stalk
 korçan | noun | core of a maize-cob; terminal bud
-korçë | noun | kneepan
 kordhem | verb | get stiff; swagger
 kordhelë | noun | ribbon, tape; band; turn, twist; twisted, spiral
 kordhele | noun | ribbon, tape
@@ -49139,9 +49138,65 @@ korëz | noun | wild chicory
 koriçkë | noun | crust, bark, cortex, shell
 korith | noun | muscatel grape
 korkodhil | noun | crocodile
-korkoli | noun | ropewalking
 korkolis | verb | swing, dangle, shake, rock
 korkolitë | noun | swing, hammock
 korkorrim | noun | rumbling in the stomach
 korkosure | noun | witch
 korkoshinë | noun | weakly ram
+# ── mannshto.tsv ──
+kornak | noun | elephant-rider
+korobisht | noun | coccyx
+koroj | verb | shame, disgrace
+korolidhë | adj | curly
+korrolidhë | adj | curly
+korombilë | noun | variety of plum
+koron | noun | crown (money)
+koronik | noun | black pudding
+koronoj | verb | crown
+korovec | noun | variety of melon
+korovesh | noun | water-pot with one handle
+korpër | noun | body
+korqe | noun | crust, bark, rind, cortex, shell
+korsem | adv | perhaps, as if
+korza | adv | perhaps, as if
+korsel | noun | alum
+korshum | noun | lead
+kortare | noun | limb
+kortar | noun | limb
+kortarem | verb | be exhausted, worn out
+kortel | noun | sword
+kortesh | noun | itch; lust; kind of herpes
+kortë | noun | court, yard; liquid measure of about 50 litres
+kortës | noun | surface, texture
+korth | noun | shell, crust; cord
+korthtar | adj | crustacean
+korum | adj | dark, swarthy, forbidding
+korzë | noun | bedbug
+korracatë | noun | battleship
+korrace | noun | breastplate; armour-plating
+korracoj | verb | armour, armour-plate
+korrale | noun | entrails of animals
+korrall | noun | coral
+korratiq | noun | hollow trunk
+korrcare | noun | woman reaper
+korrcë | noun | woman reaper
+korrzë | noun | pip (poultry disease)
+korrëz | noun | pip (poultry disease)
+korriçe | noun | platter for animal-food
+korrie | noun | copse, grove
+korrikull | noun | rack, coathanger or similar
+korriz | noun | back
+korrnicë | noun | cornice
+korrobac | adj | lean, thin; lean animal
+korrobisht | noun | somersault
+korroil | verb | swing
+korroile | noun | swing, seesaw
+korromatë | noun | blow with a stick
+korrotiq | noun | tree-trunk hive; hollow
+korrtar | noun | harvester, reaper, mower; an insect
+kosaç | noun | mower
+kosatar | noun | mower
+kosbage | noun | rake
+kosel | noun | alum
+koser | noun | sickle
+kostar | noun | mower, reaper; long-legged ground-spider; a day's mowing
