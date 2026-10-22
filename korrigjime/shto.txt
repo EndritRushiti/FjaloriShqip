@@ -47715,3 +47715,52 @@ kallap | noun | shin, tibia
 kallapis | verb | gobble up, gulp down, devour
 kallatis | verb | tin
 kallatumba | adv | head over heels
+# ── mannshto.tsv ──
+kallauskë | noun | open clay pot with handles
+kullauz | noun | leader, guide
+kallaus | noun | leader, guide
+kallb | noun | mould, form
+kallci | noun | gleaning
+kallç | noun | lime
+kallçinë | noun | plate; last, boot-tree
+kalldërma | noun | cobble-stone paving
+kalldrun | noun | kind of mulberry
+kallep | noun | form, mould; model, impression, cast; boot-last; corncob; gramophone record
+kallup | noun | form, mould
+kallyp | noun | form, mould
+kallë | noun | slander; billhook
+kallëndër | noun | kind of lark
+kallëndi | noun | gelatine
+kallënduor | noun | January
+kallës | noun | slanderer; plunger
+kallz | noun | ears of corn
+kallx | noun | ear of corn
+kallis | verb | thrust, insert; kindle
+kallije | noun | kindling; incitement; mischief-making; thrust; immersion
+kallmeje | noun | stocking
+kallmete | noun | kind of vine (pineau noir)
+kallmë | noun | stocking; leg of a stocking
+kallminj | noun | reeds, rushes
+kallmishtë | noun | reed, rush; reed-bed
+kallmishte | noun | reed-bed
+kallmishtër | noun | a flowering plant
+kallmoj | verb | sweep away
+kallnduar | noun | January
+kallogri | noun | Orthodox nun
+kallogricë | noun | Orthodox nun
+kallojer | noun | Orthodox monk
+kallogjere | noun | Orthodox nun
+kalloshtë | noun | corncob
+kallpazan | noun | forger, faker
+kallqe | noun | sockets
+kallshëm | adj | combustible, inflammable
+kallufer | noun | a plant used as flavouring
+kalluger | noun | abbot; Orthodox monk
+kallugre | noun | abbess
+kallugjer | noun | Orthodox monk
+kallugjericë | noun | Orthodox nun
+kallushë | noun | swelling, bladder
+kallxi | noun | gleaning
+kallzës | noun | informer; slanderer; slanderous
+kallximtar | adj | slanderous, talebearing, gossiping; telltale, informer
+kallzonjtore | noun | accusative case
