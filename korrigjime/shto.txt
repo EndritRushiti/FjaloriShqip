@@ -44781,3 +44781,62 @@ frygshëm | adj | terrible
 frykt | noun | fruit
 frymak | adj | spiritual, intellectual
 frymarrës | adj | breathing
+# ── mannshto.tsv ──
+frymëqitje | noun | exhalation
+frymësi | noun | breathing, respiration
+frymësim | noun | breathing, respiration
+frymzim | noun | inspiration
+frymzoj | verb | inspire
+frymzues | adj | inspiring; inspirer
+frynë | noun | horn
+frynëz | noun | flute
+fryq | noun | essence
+fryrëz | noun | bellows
+fryrjebarku | noun | flatulence
+frys | verb | blow
+frytas | noun | shirker
+frytë | adj | swelling, swollen, bulging, puffed up, bloated; bombastic
+frytim | noun | fruition; fertilisation
+frytoj | verb | bear fruit; produce; bring about; multiply; fructify
+fruitonj | verb | bear fruit
+frytsi | noun | fertility
+frytsim | noun | fertilisation; fecundity
+frytsjellës | adj | fruitful, profitable
+frytsoj | verb | fertilise
+frytues | adj | productive, fruitful
+frytylloj | verb | faint
+frytzim | noun | fertilisation; conception
+frytzoj | verb | fertilise
+fryxë | noun | horn
+frrac | noun | box for breadcrumbs; spoon-rack
+frraç | noun | spoon-rack
+frrashtë | noun | box for breadcrumbs
+frreckë | noun | thistle
+frroj | verb | grind coarsely, grind in a hand-mill; crush; sting
+frrok | noun | deformed beast in a herd
+frruk | adj | noseless; unruly, wild
+fsak | noun | aspen
+fshantim | noun | sigh; groan
+fshatarkë | noun | village-girl or woman
+fshatoj | verb | settle, populate; live in a village
+fshehak | adj | secretive
+fshehërak | adj | secretive
+fshehaz | adv | secretly
+fshehsirë | noun | mystery, secret
+fshehrëtij | verb | sigh
+fshehtsi | noun | secret
+fshehtsirë | noun | secret
+fshehuraj | adv | secretly
+fshehurthi | adv | secretly
+fshestar | noun | sweeper
+fshik | verb | bruise, beat
+fshiket | verb | form weals, be bruised
+fshikëzezë | noun | boil, carbuncle
+fshikohem | verb | turn into a chrysalis
+fshimës | noun | duster, wiper, rag; doormat
+fshimje | noun | cancellation
+fshina | noun | sweepings
+fshisë | noun | wiper, duster; mat
+fshitar | noun | sweeper
+fshtes | verb | support
+fshtetem | verb | be supported; lean; stay, remain

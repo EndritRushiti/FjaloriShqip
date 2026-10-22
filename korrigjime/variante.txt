@@ -1244,3 +1244,6 @@ frëncez | francez | alternative
 frudhi | fruth | alternative
 frunj | fryj | alternative
 frykt | fryt | alternative
+# ── Mann 1948 ──
+frymzim | frymëzim | alternative
+frymzoj | frymëzoj | alternative
