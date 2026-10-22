@@ -45852,3 +45852,77 @@ guçis | verb | annoy, bother
 guçoj | verb | annoy, bother
 gudall | noun | kettledrum
 gudël | adv | purposely, intentionally, just
+# ── mannshto.tsv ──
+gudulac | adj | ticklish
+gudulak | adj | ticklish
+guerçe | adj | blind
+gufar | noun | sole, plaice
+gufas | verb | grunt (as a pig)
+gufe | noun | sleeve of a jacket; coif
+gufë | noun | hollow, esp. in a tree; spring, fountain; swell, surge; flood
+gufër | noun | gulf; crater
+gufllo | verb | overflow
+gufmon | verb | wells up, bubbles up; erupts
+gufuem | adj | swollen
+gugaç | noun | stammerer
+gugalec | noun | scarecrow, bogey
+gugaq | noun | wild pigeon
+gugas | verb | coo; babble, chatter
+gugazë | noun | small gift of clothes
+gugesh | noun | wild pigeon
+gugë | noun | child's shirt or vest; nonsense, childishness; trick, monkey-trick
+gugëz | noun | gift of clothes to a child up to three years of age
+gugoj | verb | coo, prattle (as a child)
+gugupicigu | noun | a children's game
+guguçkë | noun | turtle-dove
+gugufti | noun | turtle-dove
+gugulis | verb | gulp down
+gugullë | noun | gift of clothes to a child
+guguroj | verb | coo, croon
+gugzim | noun | yawn
+guhak | noun | large wild pigeon; dolt, fool, idiot; foolish, doltish
+guhas | verb | pant; coo, croon
+guhash | noun | wild pigeon
+guash | noun | wild pigeon
+guhesh | noun | wild pigeon
+guis | verb | coo, croon (as a baby)
+gujashkë | noun | shell, peel, skin, rind, outer coat
+gujatë | noun | shell, peel
+gujxis | verb | dare
+guksim | noun | yawn
+guksoj | verb | yawn
+guljap | noun | ram without horns
+gulatë | noun | swede, brassica napus
+gulçe | noun | distress, trouble; asthma; death rattle
+gulçë | noun | distress, trouble; asthma
+gullçim | noun | distress, trouble; panting, shortness of breath, asthma
+gulçitje | noun | suffocation, asphyxia
+gullçoj | verb | start a hare, ferret out, unnest; inflate; trouble, distress; pant, gasp
+gulçonjës | adj | wheezy, panting, asthmatic
+guletë | noun | wooden tub
+gulë | noun | kohlrabi
+gulf | noun | drop, driblet; spurt, discharge
+gulfoj | verb | swell
+guloj | verb | accumulate, gather, abound, throng
+gulshi | noun | asthma
+gulshim | noun | asthma
+gulshoj | verb | gasp; indulge oneself, overeat, overdrink
+gulshohem | verb | gasp
+gulshueshëm | adj | panting, gasping, asthmatic
+gultim | noun | routing, ousting; removal, transfer
+gultohem | verb | hasten
+gullgullas | verb | babble, chatter, purl; quack
+gullgulloj | verb | babble, chatter, purl
+gullm | noun | plight
+gullugaçkë | noun | unripe almond
+gumbët | adj | pot-bellied
+gumçar | adj | comical, jocular, funny, witty; wit, jester, wag
+gumçi | noun | farce, joke; nonsense, rot, absurdity
+gumçoj | verb | jest, joke
+gumen | noun | abbot
+gumenë | noun | cable
+gumëz | noun | joke
+gumille | noun | heap, pile
+gumim | noun | resonance, noise; rhythm
+gumliq | adv | headlong
+gomliq | adv | headlong
