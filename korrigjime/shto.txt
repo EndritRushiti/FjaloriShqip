@@ -48064,3 +48064,68 @@ karth | noun | yoke-peg of a plough
 karthël | noun | brushwood
 karthe | noun | brushwood
 karthela | noun | chips, shavings
+# ── mannshto.tsv ──
+karthpulë | noun | bladder senna
+karubë | noun | locust bean
+karupe | noun | locust bean
+karumball | noun | pine-cone
+karvariqe | noun | fishing-net
+karvat | noun | bed
+karxej | verb | jump, dance
+karxim | noun | jump, dance
+karxuell | noun | pot, vessel
+karrabec | noun | pie or cake of crushed walnuts, beans and oil; canine tooth
+karranec | noun | silo
+karranij | verb | lay out (the dead); leave dead, stretch out dead
+karranis | verb | overthrow
+karrarë | noun | way, road
+karratyq | noun | tree-trunk hive
+karravagj | adj | paralytic
+karravosem | verb | be bent with age
+karremb | noun | bait; fishing-worm, earthworm; grub
+karremzë | noun | bait
+karrë | noun | cart
+karrikël | noun | chair; piston-ring
+karril | noun | large grey bird
+karrinaqe | noun | affectation, pretence, presumption
+karriq | noun | net
+karrocar | noun | coachman, cabman
+karrocatar | noun | coachman
+karrocer | noun | coachman
+karroce | noun | carriage, coach, wagon
+karrosë | noun | carriage
+karrsh | adj | arid, barren
+karrube | noun | bee-hive
+karrucë | noun | carriage
+karrukë | noun | perambulator
+karruke | adv | bent with age
+karrumbull | noun | corncob
+kas | noun | cassia
+kasamkë | noun | a plant, perhaps chrysanthemum
+kasan | noun | cauldron
+kasarolle | noun | saucepan
+kasaturë | noun | sabre-bayonet
+kasellë | noun | box, case; chest; coffer; coffin
+kasermë | noun | barracks
+kasistër | noun | rake; lobster-pot
+kaskandër | noun | waterfall
+kasnak | noun | embroidery-frame; embroidery
+kasnecim | noun | announcement, promulgation
+kasnecoj | verb | herald, announce
+kasoj | verb | put out, extinguish, quash
+kasollë | noun | hut, cottage; stable, shed
+kastan | adv | on purpose
+kasten | adv | on purpose
+kastel | noun | fortress
+kastër | noun | castle
+kastigim | noun | punishment; bother, annoyance
+kastigoj | verb | punish; afflict; trouble, bother
+kastigohem | verb | be punished; be bothered
+kastigueshëm | adj | annoying, troublesome; naughty
+kastitat | noun | chastity
+kastriq | noun | large poisonous snake with three coloured markings
+kashais | verb | curry-comb
+kashagis | verb | curry-comb
+kashgis | verb | curry-comb
+kashetë | noun | case, sheath
+kashë | noun | box; strongbox; animal; fable or traditional verse
