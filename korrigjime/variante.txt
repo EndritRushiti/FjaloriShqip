@@ -1205,3 +1205,7 @@ fërfëlis | fërfëlloj | alternative
 frëkoj | fërkoj | alternative
 fëshëllij | fërshëllej | alternative
 fërshëllij | fërshëllej | alternative
+# ── Mann 1948 ──
+fëstan | fustan | alternative
+fëtyrë | fytyrë | alternative
+figjurë | figurë | alternative

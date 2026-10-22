@@ -44323,3 +44323,48 @@ fërshëllinë | noun | whistling
 fërshëllimtar | adj | sibilant
 fërshëllimzë | noun | small whistle
 fërshëlloj | verb | rustle
+# ── mannshto.tsv ──
+fërshtizë | noun | trill, quaver (in the voice); twittering; bleating; rustle of leaves
+fërteloj | verb | shred, tatter
+fërtër | noun | fan
+fërtërim | noun | fanning
+fërtëroj | verb | fan
+fërrashtë | noun | stove
+fërreckë | noun | lucerne
+fërrik | noun | oven
+fërrlë | noun | spinning-top
+fëstan | noun | dress
+fëshëllimë | noun | whistling
+fëshërim | noun | rustle, rustling
+fëshfëri | noun | rustle, rustling
+fëshfëris | verb | rustle
+fëshfësh | adv | in a whisper
+fëshkëllej | verb | whistle
+fëshkëllim | noun | whistle
+fëshllenjës | adj | sibilant; whistler
+fëtgohem | verb | master, overcome
+fëtigem | verb | get exhausted
+fëtigë | noun | toil; epilepsy
+fëtyrë | noun | face
+ofic | noun | divine service
+ficë | noun | bladder; woodpecker; mellow, overripe
+fiç | adj | mellow, overripe
+fiçor | noun | large pebble; boy; jobber, odd-job man; apprentice; small bag
+fidoj | verb | believe
+fidhencë | noun | armistice
+fierë | noun | lentil; lens; viper
+fierëz | noun | lentil; lens
+fierrë | noun | lentil
+thierë | noun | lentil
+thierrë | noun | lentil
+figâ | noun | mourning
+figon | noun | bellows
+figjurë | noun | figure
+fijane | noun | goddaughter
+fikanak | adj | prodigal
+fikaplang | noun | spendthrift
+fikas | verb | put out, extinguish
+fikatem | verb | be partly dry
+fikcë | noun | fig-eater; witwall, woodwall
+fikme | noun | extinction
+fiklagcë | noun | spray, syringe
