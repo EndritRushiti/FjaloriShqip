@@ -48628,3 +48628,42 @@ kinj | noun | lamb
 kipçë | noun | jujube
 kiqël | noun | tuft, crest
 kiqirë | noun | fontanel
+# ── mannshto.tsv ──
+kirshte | adj | Christian
+kist | noun | instalment
+kistër | noun | cake-turner, fish-turner (used when frying); rake
+kishatar | noun | churchman; ecclesiastical
+kishtoj | verb | bless
+kithët | adj | awry, askew
+kithmill | noun | snail
+kizoj | verb | revive
+kizohem | verb | blossom out again, revive, turn green
+kjarisht | adv | clearly
+kjaroj | verb | clear, polish, brighten
+kjarsi | noun | brightness, clearness
+kjartsi | noun | clearness, clarity
+kjartsinë | noun | clearness
+kjase | noun | cheese-pot
+kjasoj | verb | let drip, distil; ooze
+kjem | noun | incense
+kjemë | noun | incense
+kjostek | noun | watch-chain
+kjukë | noun | broody hen
+klahem | verb | cry, weep
+klajkë | noun | door-latch, handle; bolt, bar
+klajth | noun | excrement
+klanë | noun | collar
+klant | adj | dead drunk
+klapodan | noun | idler
+klebë | noun | matter from the eyes
+klemente | adj | kind-hearted
+klen | noun | a fish, perhaps the stickleback or perch
+klenjë | noun | kingfisher; diver-bird
+klepsitun | adj | jutting out
+klerë | adj | frizzy, curly
+kleroj | verb | curl, frizz; twist one's beard
+klerohen | verb | gets frizzy (of hair)
+kleruem | adj | curly
+kleshedër | noun | bed-cover
+kleshidër | noun | bed-cover
+kliç | noun | key
