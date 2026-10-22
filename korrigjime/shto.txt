@@ -46290,3 +46290,52 @@ gjëkoj | verb | echo, boom; examine
 gjëku | adv | somewhere
 gjëlminj | noun | yarns
 gjëlvoxhë | noun | shell
+# ── mannshto.tsv ──
+gjëllis | verb | give life to; live
+gjëllitem | verb | be born
+gjëmbikuq | noun | a plant
+gjëmbaç | noun | briar
+gjëmëz | noun | readiness
+gjëmushkë | noun | thicket
+gjëndar | noun | armed policeman; heathen
+gjëndrore | noun | genitive (grammar)
+gjëndrëz | noun | glandule
+gjëndrrim | noun | swelling of glands
+gjëndrroj | verb | swell (of glands)
+gjëni | noun | family, kin
+gjërpanë | noun | needle
+gjërpanjë | noun | snakes
+gjërpënj | noun | snakes
+gjërshâjë | noun | cherry
+gjëzar | noun | treasurer, cashier
+gjith | noun | small breast
+gjidi | noun | tyrant
+gjidikë | noun | things
+gjigë | noun | giant
+gjignim | noun | crystallisation
+gjignohet | verb | crystallises
+gjignuem | adj | crystalline
+gjigtar | noun | crystal
+gjigjitar | noun | crystal
+xhixhtar | noun | crystal
+gjigjë | noun | rags, waste, scraps, rubbish; ignis fatuus
+gjigjoj | verb | hear
+gjiherdare | noun | flintlock gun
+gjikallë | noun | cricket
+gjikaran | adj | naked
+gjileshtër | noun | broom (plant)
+gjilë | noun | a fresh-water fish
+gjilfe | noun | grimace
+gjilit | adv | at a rush
+gjilmitër | noun | sinews
+gjimëz | noun | bladder made by an insect on stones
+gjimnas | noun | high school
+gjimnase | noun | high school
+gjimnaziar | adj | secondary (school)
+gjimsë | noun | half
+gjimtim | noun | search
+gjimtoj | verb | search for, hunt out
+gjinatar | adj | yielding, producing
+gjinatoj | verb | yield, produce
+gjinatore | noun | insect resembling a bee but larger
+gjinaze | noun | mourning ceremony
