@@ -47195,3 +47195,39 @@ idhullutës | adj | idolatrous; idolater
 idhulloj | verb | idolise; worship idols
 idhulltar | adj | idolatrous; idolater
 ihem | verb | go, go away
+# ── mannshto.tsv ──
+ikënj | verb | go, go away
+ikë | noun | flight
+ikshëm | adj | fleeting
+iktill | noun | spright, evil spirit
+ilbje | noun | fish-poison
+ilektrik | noun | electricity; electric
+ilibër | noun | rainbow
+ilivër | noun | rainbow
+imblaq | adj | foolish, silly; fool
+imqyrë | noun | microscope
+imqyrës | noun | microscope
+imshti | noun | copse, new plantation
+imtsi | noun | minuteness; detail; subtlety
+imtsisht | adv | minutely, in detail
+imtues | noun | critic, delver; critical
+imturina | noun | trifles, details
+indak | adj | indigo
+indjak | adj | Indian
+indme | noun | woof
+indre | noun | December
+ingla | noun | decorations, finery, toggery
+inglés | adj | English; Englishman
+ingléz | adj | English
+inglisht | adv | English-fashion, in English
+inglizë | adj | English
+ingjinjer | noun | engineer
+ingjiner | noun | engineer
+inkase | noun | payments
+int | noun | weaver's thread
+interesaçem | adj | interesting
+interesatshëm | adj | interesting
+interesantshëm | adj | interesting
+interesë | noun | interest (on capital)
+interesonjës | noun | interested party
+interesues | noun | interested party
