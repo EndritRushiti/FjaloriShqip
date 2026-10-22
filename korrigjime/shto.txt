@@ -45074,3 +45074,53 @@ galjof | noun | bag, knapsack
 galkoj | verb | ride on horseback
 galof | noun | bag
 gallonjë | noun | corridor, gallery
+# ── mannshto.tsv ──
+galur | adj | cross-eyed
+gallabellë | adj | fine, splendid; flower in full bloom
+gallagan | adj | lanky, tall; tall fellow, giant
+gallaguq | noun | dolt, gaper, fool
+gallakuq | noun | dolt, fool
+gallama | noun | din, babble
+gallanos | noun | large stew-pot
+gallm | noun | urge, inducement, cause
+gallmi | noun | urge, inducement
+gallmoj | verb | urge, instigate, induce
+galloçe | noun | galosh
+gallonë | noun | gallon; wine-jar
+gamilar | noun | camel-driver
+gamillë | noun | camel
+gamilepardale | noun | giraffe
+gamole | noun | bonfire
+gamthetem | verb | cling
+gamuç | noun | donkey's colt
+gamulë | noun | heap, pile, cairn
+gamullë | noun | heap, pile, cairn
+ganece | noun | procuress
+ganë | noun | filth
+gangër | noun | tadpole
+ganishëm | adj | fertile, productive; clean, spotless
+ganjun | noun | child, lad
+ganjuni | noun | youth
+gapërri | noun | overbearing manner, bullying
+garaç | noun | cricket
+garaksem | verb | set out, go forth
+garaqe | noun | snail-shell
+garas | noun | pear
+garaz | noun | pear
+garavaq | adj | stiff
+garcej | verb | gambol, frisk
+garçak | noun | water-pot
+gardumb | noun | stuffed entrails, sausage
+gardhni | noun | groove in barrel-staves to support the bottom
+gardhore | noun | protecting fence placed round small trees
+gardhos | verb | fence in
+gardhpulq | noun | lizard
+gargaliq | noun | small frog; grasshopper
+gargaris | verb | gurgle, gargle; croak, quack
+gargas | verb | chirp, croak
+gargëll | noun | starling; thrush
+gargji | noun | lance, pike, spear
+garidhe | noun | shrimp
+garjet | noun | courage
+garnizonë | noun | garrison
+garofan | noun | carnation
