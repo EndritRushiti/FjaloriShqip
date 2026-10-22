@@ -46195,3 +46195,54 @@ gjelbërak | adj | greenish
 gjelbëri | noun | verdure, greenery
 gjelbroj | verb | grow green
 gjelbërt | adj | green, greenish
+# ── mannshto.tsv ──
+gjelpt | adj | salty
+gjelbocë | noun | shell
+gjelbsoj | verb | taste food to see if it is salted
+gjeldash | noun | popcorn
+gjeldetës | noun | turkey
+gjelek | noun | one-year-old sheep
+gjelk | noun | lime
+gjelore | noun | gallinaceous birds; domestic fowl
+gjelpsoj | verb | salt, season, flavour
+gjelth | noun | small cock; a plant
+gjelujsë | noun | a water bird
+gjelush | noun | cockerel
+gjell | verb | live
+gjellavec | noun | a flowering plant
+gjellesë | noun | life, spirit
+gjellëndryshe | noun | swallow
+gjellij | verb | live; search for food, forage; feed, eat; create
+gjellis | verb | feed, eat; create
+gjelltar | noun | cook
+gjelltare | noun | cook (woman)
+gjelltari | noun | cooking, cookery
+glimbi | noun | thorn
+gjembdashi | noun | small variety of thistle
+gjembbore | noun | sloe
+gjembsybardhë | noun | teasel
+gjembikalit | noun | bit of a bridle
+gjembackë | noun | thistle, teasel
+gjemërishtë | noun | wild mountain plant with a crested flower
+gjemërishte | noun | wild mountain plant
+gjemizog | noun | a bird
+gjendar | noun | armed policeman, district policeman
+gjendarmëri | noun | armed police, district police
+gjendëni | noun | wickedness
+gjenealllogji | noun | genealogy
+gjener | noun | gender (grammar)
+gjenarall | noun | general
+gjenerikë | noun | small round variety of plum
+gjengjefil | noun | ginger
+gjenik | noun | thigh
+gjeniper | noun | juniper
+gjepër | noun | bobbin, reel
+gjepogjerra | noun | oddments, odds and ends
+gjepur | noun | pretext; nonsense, rot, idle gossip
+gjeqenis | verb | eke out a living
+gjeraçinë | noun | hawk
+gjerah | noun | obolus
+gjerahshëm | adj | till that time
+gjerakinë | noun | hawk
+geraqinjë | noun | hawk
+gjeraq | noun | hawk
