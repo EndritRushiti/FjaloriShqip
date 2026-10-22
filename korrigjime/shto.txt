@@ -44252,3 +44252,74 @@ fëdigj | verb | frustrate
 fjej | verb | sin; make a mistake
 fëldish | noun | ivory
 fëlgroj | verb | shy, jib (as a horse)
+# ── mannshto.tsv ──
+fëliç | noun | flaky pastry
+fëllëgë | noun | dishonour, discredit
+fëlligëm | adj | dishonest, corrupt, bad
+fëlligj | verb | defile
+filliq | verb | defile
+fulliq | verb | defile
+fëlligjëni | noun | pollution; leprosy
+fëllim | noun | breeze; leprosy
+fëlliqëri | noun | fouling, defiling, filth, grime
+fëlliqsi | noun | filth
+fëlliqti | noun | filth
+fëlliqshti | noun | filth
+fëlliqna | noun | filth, foul ways
+fëlludhë | noun | thin skin, film
+fëmilë | noun | family
+fëmijak | adj | children's, child's, infantile
+fëmijëlë | noun | family
+fëmijëpritse | noun | midwife
+fëmuar | noun | dandy, spark
+fëndek | noun | wooden trough
+fëndelle | noun | cobbler's awl
+fëndëdose | noun | puffball fungus
+fëndëqeni | noun | variety of wild sage
+fëndosh | adj | cowardly, timid
+fënduk | adj | cowardly, timid
+fënder | noun | lantern
+fenjer | noun | lantern
+fënunër | noun | part of the hearth where wood is kept
+fëneshtër | noun | window
+fëqinjë | noun | neighbour
+fërcoj | verb | grind up
+fërfëlij | verb | flutter
+fërfëlis | verb | flutter
+fërfëllim | noun | flutter; flickering; death leap
+fërfër | noun | privet
+fërfërë | noun | privet
+fërfërij | verb | wave, flutter
+fërfërim | noun | flutter, rustle
+fërfillazë | noun | snowdrift
+fërfilloj | verb | sparkle, twinkle, scintillate; fling, hurl, whirl; rage, threaten; shred
+fërfulloj | verb | sparkle; fling, whirl
+fërgë | noun | spavin
+fërgloj | verb | shiver, shudder
+fërgicë | noun | fry; omelette
+fërgill | verb | flog, thrash
+fërgëllim | noun | shiver, shudder, shivering
+fërgëlli | noun | shiver
+fërgëllueshëm | adj | trembling, shivering
+fërgulloj | verb | shiver
+fërgjyze | noun | slingshot
+fërngjyz | noun | slingshot
+fërkas | verb | gobble up, devour; consume, burn up
+fërkem | noun | trace, track, footprint, footstep
+fërkemë | noun | trace, footprint
+fërkishtë | noun | rubber, flannel, scrubber
+frëkoj | verb | rub
+fërkojcë | noun | masseuse; charwoman
+fërkucë | noun | charwoman
+fërlaçkë | noun | sling, catapult
+fërle | noun | nostril
+fërlik | noun | roast meat, esp. sheep or lamb done on a spit or jack; sexless
+fërmëkuar | adj | poisoned
+fërnetë | noun | syphilis
+fërqiroj | verb | bring near
+fëshëllij | verb | whistle
+fërshëllij | verb | whistle
+fërshëllinë | noun | whistling
+fërshëllimtar | adj | sibilant
+fërshëllimzë | noun | small whistle
+fërshëlloj | verb | rustle
