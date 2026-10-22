@@ -46631,3 +46631,53 @@ halemishtri | noun | demon, goblin
 halëndisur | adj | worried
 halëz | noun | mote, speck
 halfë | noun | a seed-product, plant or shrub
+# ── mannshto.tsv ──
+aliq | noun | (see haliq)
+haliq | noun | pebble; rubble, stones; heap of pebbles; ruin, breakdown, atrophy
+haliqe | noun | rubble, stones; ruin, breakdown
+halif | noun | calif
+halik | noun | pebble
+halinosem | verb | die away, pine away; decay, rot; degenerate; swoon, faint
+halinosje | noun | breakdown; corruption, rot; degeneration; destruction; swoon
+halinosur | adj | wretched, hapless, forlorn
+halivanosem | verb | be bewildered, be dumbfounded
+halqidhon | noun | chalcedony
+halth | noun | lint, hurds of flax; awn of wheat or barley; pine-needle
+halladis | verb | fan, cool, refresh; protect
+halladitshëm | adj | refreshing
+hallagrep | adv | in confusion, higgledy-piggledy
+hallak | noun | piebald animal
+hallakamas | adv | in a jumble, hither and thither
+hallakamë | noun | dispersion
+hallakas | verb | strew about, scatter; expand; put on airs; bare, strip, uncover
+hallakatas | adv | in a jumble, hither and thither, pell-mell
+hallakatës | adj | scattered; absent-minded; destructive
+hallakatshëm | adj | scattered; absent-minded
+hallakatruem | adj | scattered
+allat | noun | tool
+hallavis | verb | cheer
+hallavitem | verb | amuse oneself
+haldup | noun | barbarian
+halldupëri | noun | barbarism
+hallestis | verb | suffer, be in pain
+hallkëz | noun | small ring
+hallkolivan | noun | brass
+hallkos | verb | ring, chain
+halltar | adj | careful
+ham | noun | tether of a horse when threshing; stallion for breeding; cock-horse; stiff in the shoulders (of horses)
+hamakush | noun | large bird of prey
+hamalle | noun | corn-field; stubble, field left for pasture; scrub-forest reserved for fodder
+hambarqymyri | noun | coalshed
+hamëlli | noun | voracity
+hamëlloj | verb | evaporate
+hamje | noun | food, foodstuff, provisions, eatables; board; diet
+hamodhraq | noun | thin person who overeats
+harmshuer | noun | stallion
+hamullë | noun | stubble field
+hamulli | noun | voracity, limosis
+hamullohem | verb | pounce on food, devour greedily
+hamurik | noun | mole (animal)
+hanak | noun | kind of tart or pastie
+hanar | noun | innkeeper
+handak | noun | ditch
+handeqe | noun | ditches
