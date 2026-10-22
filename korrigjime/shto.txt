@@ -48843,7 +48843,6 @@ kokloj | verb | dent, cause a lump
 koklutë | noun | gallnut, oak-apple
 # ── mannshto.tsv ──
 kokodril | noun | crocodile
-kokodhe | noun | earth
 kokoleps | verb | tangle, complicate
 kokolis | verb | tangle, complicate
 kokomare | noun | melon; cucumber
@@ -48867,7 +48866,6 @@ kokoshel | noun | swing, hammock
 kokoshep | noun | poultry-louse
 kokoshurdh | noun | water-fowl
 kokot | noun | large cock; fool
-kokove | noun | egg
 kokovriqe | noun | nest of a laying hen
 kokrriz | adj | granular, in grains
 kokrrize | noun | pimple
@@ -48905,3 +48903,52 @@ kolëm | adj | pretty, fair
 kolëndër | noun | Christmas cake
 kolërazë | noun | a kind of rush
 kolërëz | noun | a kind of rush
+# ── mannshto.tsv ──
+kolirë | noun | front, bib
+kolis | verb | attach, stick; weld
+kolisem | verb | attach oneself; get caught, stuck
+kolisje | noun | attachment, sticking; welding
+kolomendem | verb | drowse, nod, fall asleep
+kolomendës | adj | stupefying, soporific; juggler
+kolomurdhë | noun | silk waste
+kolonatë | noun | Spanish piaster
+kolondris | verb | gather, glean
+kolonec | noun | cramp; spasm
+kolonjoj | verb | colonise
+kolovek | noun | swing, seesaw; hammock
+koloveke | noun | swing, seesaw
+kolovitës | adj | swaying
+kolovizhdë | noun | seesaw
+kolshëm | adj | pretty, winsome
+koltuk | noun | armchair
+kolumri | noun | sloe
+kolupe | noun | hut
+kolushë | noun | fat hussy
+kollaçkë | noun | elbow (of a sleeve)
+kollajsoj | verb | facilitate
+kollan | noun | girthbelt
+kolland | noun | idler, loafer
+kollandis | verb | rock, sway, wag, shake
+kollandisur | adj | weak, feeble
+kollanë | noun | Christmas or New Year's gift, usually a cake; wassailers' cake; belt; collar
+kllandë | noun | Christmas cake
+kollar | noun | bridle; collar
+kollçak | noun | cuff, wristband, armlet; braid on cuffs
+kollçik | noun | sock, short stocking; kind of gaiter
+kolle | noun | breast of meat; pulley
+kollendër | noun | Christmas cake; carol
+kollis | verb | stick, glue
+kollm | noun | rolling-pin
+kollodok | noun | crank (mechanical)
+kollofaçe | noun | kind of sausage
+kollofis | verb | gulp down, swallow up
+kollofik | noun | decay; consumption
+kollofitë | noun | gorge, gulf
+kollofruth | noun | incantation against measles; long tale, tale of woe
+kollogjer | noun | a reptile
+kollomurde | noun | waste silk; rabble, slums
+kollomurdhë | noun | waste silk
+kollondris | verb | manage, handle, deal with, use
+kollonel | noun | colonel
+kollonë | noun | column, pillar; (press) column
+kolloni | noun | colony
