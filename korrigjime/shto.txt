@@ -47563,3 +47563,60 @@ kakarisem | verb | feel creepy
 kakarusht | adv | on end
 kakato | noun | cockatoo
 kakërdhac | verb | make big eyes
+# ── mannshto.tsv ──
+kaike | noun | large greyish bird
+kakërdhiçë | noun | small grey lizard
+kakërdhiçkë | noun | small grey lizard
+kakërdhocë | noun | frog; toad
+kakërdhoq | noun | eyeball
+kakërij | verb | cackle
+kakërimë | noun | cackle, cackling
+kakërllocë | noun | saffron
+kakëruk | noun | walnut; down-and-out
+kakërukë | noun | walnut
+kakrizur | noun | creak, grating sound
+kakrrimë | noun | trace, relic, vestige
+kakrriqe | noun | wart
+kakrrozë | noun | frog
+kakrruk | noun | hard walnut; huddled up, hunchbacked
+kakuletë | noun | hood
+kakush | verb | break out in a rash or pimples; swelling
+kakushë | noun | swelling, bladder, bubble, tumour
+kakutë | noun | hemlock; toad
+kakzog | noun | blind-worm, slow-worm; frog
+kakzogëz | noun | blind-worm
+kakzorrë | noun | blind-worm
+kaalë | noun | horse
+kalacujas | adv | squatting
+kalaçe | noun | corn-cob
+kaladoras | adv | groping along
+kalafatis | verb | block, bung, stop
+kalakiç | adv | on the back, pickaback
+kalamak | noun | child
+kalamitë | noun | calamity; magnet
+kalandër | noun | corn-weevil; crested lark
+kalangërç | noun | cramp; cramped
+kalangërçem | verb | be doubled, be bent, writhe
+kalangiç | noun | small trowel
+kalanice | noun | earthen pot, dish
+kalanicë | noun | earthen pot, dish
+kalenicë | noun | earthen pot
+kalapele | noun | corn-poppy
+kalapesh | adv | on the back, pickaback
+kalapiç | adv | on the back, pickaback
+kalaqa | adv | on the back, pickaback
+kalar | verb | descend
+kalarem | verb | descend
+kalaroj | verb | climb, clamber
+kalarohem | verb | clamber, sprawl about, scramble, spread about
+kalarues | adj | clambering, climbing, sprawling
+kalaruese | noun | bindweed
+kalastre | noun | cockerel
+kalavere | noun | drinking cup
+kalaveshas | adv | unwell, out of sorts
+kalavigjas | adv | carrying someone by the hands and feet
+kalavradë | noun | water-spout
+kalaza | adv | on all fours
+kalbnoj | verb | putrefy
+kalbsej | verb | putrefy, rot
+kalbsi | noun | putrefaction
