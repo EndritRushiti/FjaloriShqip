@@ -45694,3 +45694,54 @@ grigjoj | verb | round up; aggregate
 grigjohem | verb | herd together
 grigjshëm | adj | gregarious
 grijë | noun | whetstone
+# ── mannshto.tsv ──
+gril | noun | a singing bird
+grilje | noun | blind
+gurgrill | noun | slate, sandstone
+grille | noun | mane of a horse
+grilluj | noun | crickets
+grimanjos | adj | talkative
+grimb | noun | ragged coat
+grimësë | noun | small bit
+grindar | adj | quarrelsome
+grindavik | adj | quarrelsome
+grindshëm | adj | quarrelsome
+grindaveckë | noun | quarrelsome woman
+grinem | verb | snarl; howl (as a dog)
+grinjar | adj | quarrelsome; fault-finder
+grindjar | adj | quarrelsome
+gripshë | noun | magpie
+grisëm | adj | torn, tattered, ragged; consumed
+grisët | adj | uneven
+grishlemëz | noun | jay
+grishtar | noun | summoner; host
+grithem | verb | yearn, crave
+grithëri | noun | craving, lust, passion
+grithërt | adj | passionate; lustful
+grivell | noun | sieve
+grivellë | noun | sieve
+grivelloj | verb | sift
+grivër | adj | grey-brown, fawn, dun
+grivën | noun | big-end of a crank-shaft
+grivshë | noun | a tree
+grixhël | noun | magpie
+grizëm | noun | unction
+grizhëm | adj | sky-blue, azure; flecked with white and grey; dapple-grey
+grizhët | adj | grey
+grohem | verb | buzz, hum
+grom | verb | thunder
+gromatër | noun | low thorny plant with large leaves
+gromsi | noun | belching; nausea, disgust
+gromsij | verb | belch
+gromsim | noun | belch
+gromsimë | noun | belch
+gromsinë | noun | belch
+gromsirë | noun | belch
+gromsis | verb | nauseate, sicken; belch
+gromsitës | adj | nauseating, sickening
+gromsitje | noun | belch
+gromzij | verb | belch
+gromzis | verb | belch
+gropc | noun | ditch, trench
+gropsim | noun | lee-side, place in lee or hollow
+gropsirë | noun | hollow; basin, valley
