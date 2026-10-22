@@ -48007,3 +48007,60 @@ kardamine | noun | erucaria aleppica
 kardi | noun | cardiac aperture
 kardhakaqe | noun | briars
 kardhërinë | noun | goldfinch
+# ── mannshto.tsv ──
+kardhi | noun | dried scrub, brushwood
+karenë | noun | keel
+karinë | noun | keel
+kareshtis | verb | stop, dissuade
+karfos | verb | nail
+kargatisem | verb | get stiff, get paralysed
+karhan | noun | harrow
+karike | noun | chair
+karige | noun | follicle; seed-capsule, esp. of the cotton-plant
+karitat | noun | charity
+karjerë | noun | career
+karjollë | noun | bedstead
+karkabuqe | noun | nux vomica
+karkabiq | noun | nux vomica
+karkacull | noun | goblin
+karkaç | noun | quiver
+karkale | noun | frog; neck-bell on sheep or goats
+karkalice | noun | small variety of fig
+karkall | noun | tuft, crest; helmet
+karkallo | noun | whooping-cough
+karkanoqe | noun | clump, clot
+karkanxhuell | noun | ghost, spirit
+karkanjoze | noun | shallot
+karkapiq | noun | deadly nightshade
+karkarele | noun | chirping of crickets, grasshoppers
+karkas | verb | chirp; croak
+karkate | noun | half-silk
+karkavosh | verb | slacken, loosen; weaken, exhaust
+karkavoshem | verb | get weak
+karkërimë | noun | weakness
+karkopje | noun | apricot
+karkore | noun | shark
+karkurinë | noun | barren land
+karkzogë | noun | blind-worm
+karkzozë | noun | blind-worm
+karm | noun | song, ode
+karrmë | noun | rock, crag
+karmim | noun | rout, chasing off, expulsion, banishment
+karmoj | verb | chase off, scare off, rout, expel, banish
+karmshis | verb | shatter, smash
+karnabit | noun | cauliflower
+karoll | noun | guard
+karov | noun | boat
+karovinë | noun | corpse
+karpëz | noun | rafters, roof-timbers
+karpuc | noun | pinch
+kartshitës | noun | stationer
+kartët | adj | paper-
+kartolle | noun | brushwood
+kartroz | adj | Carthusian
+karturina | noun | stationery
+kartushkë | noun | card, ticket
+karth | noun | yoke-peg of a plough
+karthël | noun | brushwood
+karthe | noun | brushwood
+karthela | noun | chips, shavings
