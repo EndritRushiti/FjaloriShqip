@@ -49302,3 +49302,57 @@ krajoj | verb | suffer, undergo
 krajohem | verb | suffer
 krajtar | adj | fraudulent; impostor
 krajuem | adj | suffering
+# ── mannshto.tsv ──
+krakurinë | noun | barren land
+kralleshë | noun | queen
+kralli | noun | kingdom
+kralicë | noun | queen
+kralni | noun | kingdom
+kramastar | noun | pothook
+kramte | noun | Christmas
+krançe | noun | twigs
+krandth | noun | shoot, germ; twig
+krapaj | adj | foolish
+krapajkë | noun | scraper, esp. for scraping ploughshares
+krapalle | noun | kind of shovel or cloven mattock
+krapë | noun | wooden peg, wooden hook
+krapis | verb | thrive; revel, rejoice
+krapje | noun | keeping, preservation; depositing; pledge, legacy, bequest; lower breast of a horse
+krapjoll | noun | kid; leap, jump
+krapuliq | noun | small sea-fish with large rough scales and reddish lower fins; a fish of the carp type; duffer, dolt
+kraruar | noun | breast, chest
+krasi | noun | chips, shavings
+krastë | noun | peak, height
+krastis | verb | prune, lop
+krashtis | verb | mix, mingle; prune, lop off; fell (trees)
+krashtëm | adj | mixed, confused
+krat | noun | back
+kratimë | noun | bottle
+kreatyrë | noun | creature
+krece | noun | point; awn; pine-needle; goad
+kreckim | noun | pruning, lopping; crackling, spluttering
+kreckoj | verb | prune, lop, hack off (with a hoe), chop off (roots); crackle, splutter
+krecnoj | verb | prune, lop
+kreçe | noun | white cabbage
+kreçkë | noun | darnel, cockle, tare or similar
+kredharak | noun | diver-bird
+kredhomë | noun | marsh, bog
+krefës | noun | hairdresser
+krefëz | noun | trap; mousetrap
+krefkëz | noun | tart, fancy cake
+krefshë | noun | crest
+kregëz | noun | maple
+kreheri | noun | long-staple wool, worsted
+krehkoj | verb | bud, shoot, sprout
+krejnar | adj | cock-sure, confident; proud
+krejni | noun | assurance, confidence; vanity, pride
+krejnoj | verb | be cock-sure
+krejshëm | adj | executable
+krejtë | adj | complete, entire, utter
+krejtët | adj | complete, entire
+krejtsisht | adv | utterly, completely
+krejtshëm | adj | utter
+krekëz | noun | maple
+krekcë | noun | maple
+krekëztë | adj | of maple
+krekcoj | verb | clash, batter
