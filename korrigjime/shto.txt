@@ -48302,3 +48302,53 @@ kilikânzë | noun | arum lily
 këlkim | noun | tickling; irritation
 këlkoj | verb | tickle; irritate, stimulate
 këlkues | noun | irritator, stimulator
+# ── mannshto.tsv ──
+këlkut | noun | a plant, hemlock
+këlqerar | noun | lime-slaker
+këlqeroj | verb | lime; turn to lime, calcify
+këlqerohet | verb | turns to lime
+këlqeros | verb | lime
+këlqershëm | adj | lime-, limy
+këlqertë | adj | limy, lime-, calcareous
+këlsaça | noun | fangs
+këltac | adj | flabby
+këltyr | noun | lock
+këlthi | noun | shout, exultation, cheer
+këlthim | noun | echo, sound
+këlthimë | noun | cry, shout; outcry, din, noise; hoot; bluster
+këllcacë | noun | pup; cub
+këlcacë | noun | pup; cub
+këllkaç | noun | stopper, cork, bung, plug
+këllkaçkë | noun | stopper, cork
+këllkas | verb | plug, wad, stop up, bung
+këllkatës | noun | shutter; valve
+këmbac | adj | one-legged
+këmbajkë | noun | framework of three pieces of wood for crossing streams
+këmbakëmbës | adv | on foot
+këmbal | noun | treadle
+këmbalkë | noun | stilt
+këmbanarje | noun | belfry
+këmbanirinë | noun | belfry
+këmbanik | adj | pedestrian
+këmbanim | noun | peal of bells, chime
+këmbanoj | verb | peal, chime
+këmbar | noun | prop, trestle
+këmbenjënisht | adv | foolishly
+këmbenji | noun | folly; madness
+këmbes | noun | changer, barterer
+këmbesë | noun | exchange
+këmbëçpejtë | adj | swift-footed
+këmbëqyqe | noun | snowdrop; snowflake
+këmbësuar | noun | pedestrian
+këmbëshkrim | noun | prose
+këmbështrëmbër | adj | crooked-legged
+këmborëz | noun | little bell
+këmbqiri | noun | a waterfowl
+këmbsi | noun | infantry
+kamesë | noun | billhook
+këmi | noun | furnace
+këminë | noun | brick-kiln, brickyard, drying-yard; silo, drying-house; clay-kneading board
+kënac | noun | towel
+kënace | noun | ladle
+kënaçe | noun | tub, keg, wooden pot, wooden bucket; tankard; small white rock-fungus from which henna is obtained
+kënall | noun | canal
