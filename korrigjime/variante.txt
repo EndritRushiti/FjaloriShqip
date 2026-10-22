@@ -1183,3 +1183,10 @@ fasollë | fasule | alternative
 # ── Mann 1948 ──
 fatkeqsi | fatkeqësi | alternative
 fatkeqsisht | fatkeqësisht | alternative
+# ── Mann 1948 ──
+fendelle | fyell | alternative
+fendeve | fyell | alternative
+fenër | fener | alternative
+feneshtër | dritare | alternative
+fenjerë | fener | alternative
+fëldish | fildish | alternative

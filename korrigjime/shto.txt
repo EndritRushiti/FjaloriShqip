@@ -44182,3 +44182,73 @@ fellsinë | noun | depth
 feme | noun | awl
 femënëz | noun | little woman
 femni | noun | effeminacy
+# ── mannshto.tsv ──
+femohonjës | adj | infidel, apostate
+fendelle | noun | flute
+fendeve | noun | flute
+fendël | noun | a plant (passerina)
+fendosë | noun | a plant
+fenër | noun | lantern
+feneshtër | noun | window
+fenuk | adj | plump
+fenjerë | noun | lantern
+feodal | adj | feudal
+feq | verb | mend
+feqúl | noun | starch
+fekúl | noun | starch
+feriç | noun | drumstick
+ferig | noun | east wind
+ferk | noun | difference, change
+fermacë | noun | bramble
+fermene | noun | waistcoat, short embroidered jacket
+fermo | adv | steadfastly
+fermonj | verb | strengthen
+firmonj | verb | strengthen
+fermuom | noun | firmament
+firmuom | noun | firmament
+fersje | noun | bed
+fertë | noun | whim
+ferrac | noun | mill with only one millstone
+ferraç | noun | cork, stopper
+ferrak | noun | wren
+ferrakës | noun | wren
+ferras | noun | wren
+ferrasht | noun | dungpit, manure-pit; dunghill
+ferratë | noun | railway
+ferrbardhë | noun | a small prickly plant; whitethorn, sloe
+ferrc | noun | wren
+ferrcak | noun | goldfinch; wren
+ferrcë | noun | prickly plant; thistle; briar
+ferrckë | noun | thistle
+ferrgjat | noun | porcupine
+ferrët | adj | thorny
+ferriç | noun | stick for beating up curds; plunger of a butter-churn; drumstick; ramrod
+ferrkuqe | noun | a briar with disc-shaped fruit
+ferrlagcë | noun | bramble, blackberry
+ferrmacë | noun | bramble, blackberry
+ferrmânzë | noun | bramble, blackberry
+ferrok | noun | bob, knob; sunshine-ball; strong animal
+ferrzhunk | noun | bristly undergrowth
+fesbardhë | noun | nightcap
+feslegen | noun | basil
+fesligen | noun | basil
+fesëligjën | noun | basil
+festek | noun | pine-kernel, pine-nut
+festik | noun | pine-kernel, pine-nut
+feshëm | adj | religious, pious
+fetak | adj | religious
+feterë | noun | piece, bit
+feterre | noun | cobbler's awl
+fetgoj | verb | toil
+fetgohem | verb | toil
+fetoj | verb | worship
+fetro | noun | felt
+fëdigem | verb | take the trouble, go to the trouble
+fëdig | noun | toil; trouble, hardship, torment; wage, hire; sorrow, misery
+fëdigoj | verb | toil
+fëdigtar | adj | working; worker
+fëdigues | adj | working, labouring, toilsome
+fëdigj | verb | frustrate
+fjej | verb | sin; make a mistake
+fëldish | noun | ivory
+fëlgroj | verb | shy, jib (as a horse)
