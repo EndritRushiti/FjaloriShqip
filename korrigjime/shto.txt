@@ -43927,3 +43927,62 @@ ezërvinj | noun | a plant
 ëngatëronj | verb | tangle
 ëngjënjuem | adj | deceitful
 ënginj | verb | satisfy
+# ── mannshto.tsv ──
+ëngre | verb | raise
+ëngroh | verb | warm
+ëngushullim | noun | consolation
+ëngushëllonj | verb | console
+ëngjaje | noun | venison
+ëngjanj | verb | find
+ëngjall | verb | revive
+ëngjallun | noun | resurrection
+ëngjânë | adj | wide
+ëngjeshë | verb | gird
+ëngjënim | noun | fasting
+ëngjënonj | verb | fast
+ëngjëronj | verb | cover; straiten, encompass, overwhelm; come over, take possession of; injure
+ëngjëruom | adj | round about
+ënkatërkânbësh | adj | quadruped, four-footed
+ënkoj | verb | complain
+ënkreje | noun | killing
+ënkrijonj | verb | create
+ënkulpuom | adj | guilty, to blame
+ënle | verb | abate
+ënlidh | verb | tie
+ënlidhun | noun | bond, tie
+ënpakohem | verb | deal, meddle
+ënpinj | verb | numb
+ënpos | adv | severally, separately
+ënpostafa | adv | on purpose
+ënprapëmë | adj | back, rear
+ënprehun | adj | sharp
+ënpsonj | verb | learn
+ënqonj | verb | wake, rouse
+ënquom | adj | awake
+ënqull | verb | penetrate
+ënthenj | verb | break
+ënthellë | adj | deep
+ënvesh | verb | dress
+ënveshuna | noun | clothes
+ënvidheje | noun | envy
+ënvoesë | verb | bedew
+ënvrânët | noun | cloudiness, dullness
+ënvrap | adv | hastily
+ënvras | verb | kill
+ënxâ | verb | contain
+ënxe | verb | heat
+ënzjarmi | noun | torch
+ënxierë | verb | take out
+ërcek | noun | low fellow
+ërëgjëzinj | verb | tear up
+regjëzinj | verb | tear up
+ërgjând | noun | silver
+ërgjëncirë | noun | silver piece; silverware, plate
+ërmonj | verb | dig
+ërrfe | noun | lightning
+fafit | verb | crackle (as fire)
+fafitet | verb | flicker (of a flame)
+fafitje | noun | crackling of flame; flickering
+fagëz | noun | beech
+fagurencje | noun | favour
+fagurë | noun | itch, itching; crab
