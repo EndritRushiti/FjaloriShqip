@@ -48352,3 +48352,47 @@ kënac | noun | towel
 kënace | noun | ladle
 kënaçe | noun | tub, keg, wooden pot, wooden bucket; tankard; small white rock-fungus from which henna is obtained
 kënall | noun | canal
+# ── mannshto.tsv ──
+kënar | verb | turn pale
+kënatar | adj | marshy
+këndall | noun | canal; pond, marsh
+këndalle | noun | whirlpool
+këndaq | verb | please, satisfy
+këndatë | noun | charm, spell
+këndeja | adv | this way, over here
+këndeje | noun | this side
+këndejmi | adv | on this side; from here
+këndejtoj | verb | bring over, transport
+këndel | noun | candlestick
+këndelkë | noun | dye-yielding plant, probably henna; red woollen braid on bridal garments
+këndikë | noun | harmony, tune
+këndime | noun | learning, accomplishments
+këndimore | noun | lectern, reading-desk
+këndiparë | adv | henceforth
+këndir | verb | smother, stifle, choke
+këndirem | verb | choke
+këndjell | verb | refresh, revive
+kënduos | noun | cock
+këndy | adv | this way
+këndyj | adv | this way
+këndytutje | adv | henceforth
+këndyraj | adv | the day after tomorrow
+kënell | noun | tap, faucet; cinnamon
+kënellë | noun | cinnamon
+këngallë | noun | cicada
+këngol | noun | vetch or clover
+këngsi | noun | singing
+këngtore | noun | songbook
+kënjem | noun | incense
+kënkë | noun | song
+kënkri | noun | poetry, poem
+kënktuar | noun | singer
+kënoçe | noun | tub, wooden pot
+kënt | noun | corner
+këntshëm | adj | pleasant
+këpeçë | noun | jujube
+këpresh | noun | halter
+këpuctar | noun | shoemaker; bribe-taker
+këpuctore | noun | shoe-store
+këpucinë | noun | half-shoe
+këpuj | noun | blob, piece (of anything round); hailstone; large berry
