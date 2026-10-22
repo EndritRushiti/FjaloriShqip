@@ -46948,8 +46948,6 @@ hish | interj | shoo! (to fowls)
 hitas | verb | urge on; hasten, hurry; try
 hiti | noun | haste; activity; diligence, thoroughness
 hitishëm | adj | hasty; active, diligent, busy
-hithërdeti | noun | sea-nettle
-hithërbardhë | noun | dead-nettle
 hjedhës | adj | projectile; acute (accent)
 hjedhët | adj | steep, precipitous; rapid, precipitate; slim, slender
 hjedhje | noun | casting, throwing
@@ -46959,3 +46957,49 @@ hjekje | noun | drawing; draught
 hjeksi | noun | secret mediation, secret agency; intrigue; bribe-taking, graft
 hjektore | noun | ablative case
 hodë | noun | ode
+# ── mannshto.tsv ──
+hobetar | noun | slinger
+hofëj | verb | rise up, bound
+hofdër | adj | wayward, headstrong
+hovdër | adj | wayward, headstrong
+hofdëri | noun | headstrongness
+hoft | noun | impulse, bound; bounding, impetuous
+hofti | adv | impetuously
+hojebroj | adv | in fits and starts, aimlessly, uselessly
+hojehoje | adv | in fits and starts, aimlessly
+hojë | noun | peak, crag, escarpment; tiara, chaplet
+hokis | verb | jest, joke; tease, banter, pull someone's leg
+hokoj | verb | jest, joke
+holas | verb | suffer
+holasur | adj | pained, hurt
+hollas | adv | rarely, scarcely
+hollaz | adv | rarely, scarcely
+hollisht | adv | finely, thinly; cleverly
+hollnisht | adv | finely, thinly
+hollsi | noun | thinness, leanness, fineness; cleverness, shrewdness, subtlety; delicacy, refinement
+hollsinë | noun | thinness, fineness
+hollsirë | noun | thinness, fineness
+hollsina | noun | details
+hollsira | noun | details
+hollsishëm | adj | detailed
+hollsisht | adv | in detail
+holluet | adj | pointed
+homë | noun | vegetable gin, herb gin
+homnere | noun | precipice, ravine
+honestër | noun | ravine, hollow
+honxhobonxho | noun | mummer, mock-politician
+hopas | adv | with a jump; on the back
+hopaz | adv | with a jump
+hopmë | adv | for an instant
+hopthi | adv | leaping, hopping
+horas | adv | round; in chorus, all together
+horaj | adv | round
+horar | noun | timetable
+hordhë | adj | uncouth, boorish
+hordhis | verb | be boorish
+horixont | noun | horizon
+horl | noun | eagle
+horok | noun | Ottoman (contemptuous)
+horni | noun | pan
+horrjat | adj | improper, unfitting; miser
+horrjatisht | adv | improperly, unfittingly
