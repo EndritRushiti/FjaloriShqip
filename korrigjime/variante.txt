@@ -1167,3 +1167,10 @@ ethnologjik | etnologjik | alternative
 ërgjând | argjend | alternative
 ërmonj | rrëmoj | alternative
 ërrfe | rrufe | alternative
+# ── Mann 1948 ──
+faletuar | fajtor | alternative
+fakturë | faturë | alternative
+fakturato | faturë | alternative
+fatyrë | faturë | alternative
+falëndërim | falënderim | alternative
+falëndëroj | falënderoj | alternative

@@ -43986,3 +43986,45 @@ fafitje | noun | crackling of flame; flickering
 fagëz | noun | beech
 fagurencje | noun | favour
 fagurë | noun | itch, itching; crab
+# ── mannshto.tsv ──
+fais | verb | trap; fail
+fajdetar | noun | usurer
+fajë | noun | variety of crow
+fajfalës | adj | pardoning; pardoner
+fajishëm | adj | affected, injured
+fajkore | noun | hawk, falcon
+falkore | noun | hawk, falcon
+falkue | noun | hawk, falcon
+fajsoj | verb | charge, accuse
+fajsohem | verb | be charged
+faletoj | verb | sin; charge
+fajtsoj | verb | charge, accuse
+faletuar | adj | guilty
+fajurë | noun | failure, wind-up
+fajze | noun | bundle of cotton, five knots or hanks
+fak | adv | there and then; absolutely
+fako | noun | focus
+fakturë | noun | invoice
+fakturato | noun | invoice
+fatyrë | noun | invoice
+fakua | noun | lens
+fakurgji | noun | envy
+falangth | noun | small knuckle
+falangush | noun | small knuckle
+falcohem | verb | injure oneself
+falcoj | verb | aggravate a wound
+falçar | noun | fortune-teller
+falçi | noun | sorcery, fortune-telling
+falçori | noun | sorcery, fortune-telling
+falëndërim | noun | thanks
+falëndëroj | verb | thank
+falëz | noun | hole, priming pan
+falëm | noun | hole, priming pan
+falimentos | verb | fail, go bankrupt
+falis | verb | madden; go mad, lose one's head
+falisem | verb | rave
+falsikan | noun | cigarette
+faltar | noun | worshipper
+falzë | noun | hole, priming pan
+fallakâ | noun | pillory
+fallsë | adj | false, lying
