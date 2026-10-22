@@ -48662,8 +48662,52 @@ klenjë | noun | kingfisher; diver-bird
 klepsitun | adj | jutting out
 klerë | adj | frizzy, curly
 kleroj | verb | curl, frizz; twist one's beard
-klerohen | verb | gets frizzy (of hair)
 kleruem | adj | curly
-kleshedër | noun | bed-cover
-kleshidër | noun | bed-cover
 kliç | noun | key
+# ── mannshto.tsv ──
+klindë | noun | fold
+klindos | verb | pleat, fold
+klini | noun | clinic
+klirtë | noun | valley; lowland
+klisyrë | noun | mountain pass, gorge
+klishé | noun | mat
+klithoj | verb | rally, summon
+klokë | noun | hooked staff, knobbed stick
+klokëz | noun | typha angustifolia (bulrush)
+kloshë | noun | corner
+kluaj | verb | call, name
+kllub | noun | club
+klumështuar | noun | milkman
+kluonj | verb | call, name
+kluqe | noun | big-built girl or woman
+kluvizë | noun | small cage
+klytyrë | noun | lid; cover; shutter, valve, flap
+kllabë | noun | pick, pickaxe
+kllaçkë | noun | puddle; mire
+klladër | noun | slime
+kllaf | noun | sheath
+kllak | noun | mortar
+kllanik | noun | hearth, fireside, firegrate; mantelpiece
+kllap | noun | trap; delirium
+kllapëz | noun | latch
+kllapis | verb | gobble, devour
+kllapitës | adj | devouring, greedy
+kllapodan | noun | filigree
+kllapos | verb | plod through mud
+kllaqë | noun | puddle
+kllas | verb | light, kindle; class; clap over, bung up, seal, plug, gag; bring in, introduce; dip; regulate, set going, bring into action
+kllasinë | noun | awn
+kllat | noun | rolling-pin
+kllecë | noun | chip of wood
+kllec | noun | pistol-belt
+kllef | noun | sheath
+kllenjkë | noun | addled egg
+kllesë | noun | particle
+kllëf | noun | sheath, case; holster
+kllëk | noun | click
+kllëp | noun | plash of waves
+kllëptoj | verb | gobble
+klli | noun | slime, sloppy muck, filth, mire; swinishness
+kllikar | adj | shameless
+kllirë | noun | stain, mark, spot; dregs, filth; bung-hole
+kllirtë | noun | mound, ridge
