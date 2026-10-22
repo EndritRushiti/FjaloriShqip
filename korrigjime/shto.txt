@@ -46928,3 +46928,34 @@ hindas | adj | Indian (of India), Hindoo
 hindian | adj | Indian (Ocean)
 hindik | adj | indigo
 hingë | noun | funnel
+# ── mannshto.tsv ──
+hingëllas | verb | neigh
+hinglias | verb | neigh
+hinglij | verb | neigh
+hinjë | interj | behold!
+hinjët | adj | ashen, ash-
+hijoj | verb | incinerate
+hipëj | verb | go up, rise
+hipënj | verb | go up, rise
+ipokrit | noun | hypocrite
+hirëplotë | adj | gracious
+hirohem | verb | brighten up, cheer up, look pleasant; ingratiate oneself
+hirsi | noun | grace
+hirros | verb | turn to whey
+hisk | adj | fine, tapering (of horns)
+historiak | noun | historian
+hish | interj | shoo! (to fowls)
+hitas | verb | urge on; hasten, hurry; try
+hiti | noun | haste; activity; diligence, thoroughness
+hitishëm | adj | hasty; active, diligent, busy
+hithërdeti | noun | sea-nettle
+hithërbardhë | noun | dead-nettle
+hjedhës | adj | projectile; acute (accent)
+hjedhët | adj | steep, precipitous; rapid, precipitate; slim, slender
+hjedhje | noun | casting, throwing
+hjedhme | noun | throw
+hjekës | noun | leader; mediator, accessory; receiver of stolen goods; bribe-taker
+hjekje | noun | drawing; draught
+hjeksi | noun | secret mediation, secret agency; intrigue; bribe-taking, graft
+hjektore | noun | ablative case
+hodë | noun | ode
