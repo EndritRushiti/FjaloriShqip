@@ -45602,3 +45602,54 @@ gracje | noun | grace
 graçkë | noun | trap, snare
 graç | noun | pot; potsherd
 graçët | adj | earthen
+# ── mannshto.tsv ──
+graçoj | verb | dip, plunge; collapse; produce
+gradhë | noun | grade, rank
+grafëm | noun | breath, breathing
+grafi | noun | letter
+grafllon | verb | surge, swell
+grafomë | noun | hole, depth; precipice
+grafull | adj | surging, swelling, turgid; bloated, crammed, packed, crowded, bulging
+grafullim | noun | surge, swell; puff of wind
+gragris | verb | hiss (as a goose)
+grahem | verb | croak, caw
+grajatë | noun | eggshell, shell
+gramar | noun | gram
+gramasis | verb | gnaw at, chew, bite
+gramati | noun | letter, character; orthography, spelling; literacy
+gramcimë | noun | belch, belching
+gramcinë | noun | belch
+gramcoj | verb | belch
+gramisem | verb | flee, escape
+gramnore | noun | seedbed
+gramsij | verb | belch
+gramsinë | noun | belch
+gramzë | noun | stroke, apoplexy
+grandicë | noun | greatness
+granisht | adv | woman-like
+granitik | adj | granite
+granuem | adj | effeminate
+granues | adj | philandering; philanderer
+grapçoj | verb | snap at, bite
+grapshëm | adj | snappy, voracious
+graskë | noun | trap, snare
+greshte | noun | stables
+grashtan | noun | gelding
+grashtat | noun | gelded goat
+grashtoj | verb | fodder
+gratshëm | adj | fertile, productive; profitable
+grathore | noun | hair-shirt
+grathsh | noun | hair-shirt
+grathtel | noun | heath (erica carnea)
+gravatë | noun | tie, necktie
+graxun | noun | boy, servant
+garxun | noun | boy, servant
+grazhdar | noun | hayrick; pile of leaves for fodder; shed; cavalry-horse; groom, stable-boy
+grazhdare | noun | silo; maize silo; barn
+gazhdare | noun | barn
+grazhdim | noun | pit in a bog; foddering, animal-feeding
+grazhdore | noun | crib; granary
+grebash | noun | rake
+grebashis | verb | rake
+grebul | noun | rake
+grebull | noun | rake
