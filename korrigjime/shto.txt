@@ -46149,3 +46149,49 @@ gjashtëdhiet | num | sixty
 gjashteshë | noun | sextain
 gjashtës | noun | six
 gjashtëz | noun | ode
+# ── mannshto.tsv ──
+gjashtmëstë | adj | sixfold
+gjashtmëzaj | adv | sixfold
+gjashtmëzoj | verb | multiply by six
+gjashtmuejshëm | adj | half-yearly
+gjashtrrokç | adj | six-syllabled
+gjashtsh | noun | six
+gjashtshe | noun | six
+gjat | prep | along
+gjatarkë | noun | huntress
+gjatësë | noun | length
+gjatëroj | verb | lengthen, make taller
+gjati | noun | hunt, chase; game, bag
+gjatinë | noun | length
+gjatmatje | noun | long measure
+gjatok | adj | oblong
+gjatsi | noun | length
+gjatsinë | noun | length
+gjatuem | adj | distended
+gjatuor | noun | hunter
+gjatuar | noun | hunter
+gjatueshëm | adj | extending, extensible; distendible
+gjatush | adj | long, slender
+gjebe | noun | animal which has not yet given birth to young
+gjeç | pron | something
+xheç | pron | something
+gjeçenis | verb | eke out a living, manage to live
+gjedhatore | noun | thread-winder, winding-jenny
+gjedhme | noun | reading matter
+gjedhok | verb | thresh wheat
+gjefshkët | adj | ailing, feeble
+gjeg | verb | burn
+gjegjëre | noun | crag, rock
+gjegjme | noun | answer, reply
+gjegjiroj | verb | bleat
+gjektij | verb | rumble, echo, resound
+gjeku | adv | here and there
+gjeldushku | noun | pheasant
+gjelmisiri | noun | guinea-fowl
+gjelkokot | noun | male chick born without feathers
+gjelatinoj | verb | gelatinise
+gjelbabë | noun | firefly
+gjelbërak | adj | greenish
+gjelbëri | noun | verdure, greenery
+gjelbroj | verb | grow green
+gjelbërt | adj | green, greenish
