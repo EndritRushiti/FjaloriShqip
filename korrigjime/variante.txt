@@ -1093,3 +1093,11 @@ errsoj | errësoj | alternative
 esullt | esëll | alternative
 esthetik | estetik | alternative
 esthetikë | estetikë | alternative
+# ── Mann 1948 ──
+ether | eter | alternative
+ethikë | etikë | alternative
+ethnologji | etnologji | alternative
+ethnologjik | etnologjik | alternative
+ëlter | altar | alternative
+ënbanj | mbaj | alternative
+ënbarë | mbarë | alternative

@@ -43834,3 +43834,35 @@ esrar | noun | hashish
 esthetik | adj | aesthetic
 esthetikë | noun | aesthetics
 eshkna | noun | vetch
+# ── mannshto.tsv ──
+eshkim | noun | trot or gallop
+eshkore | noun | jar for containing touchwood
+eshtim | noun | period immediately preceding childbirth
+etë | noun | thirst
+etem | verb | be thirsty
+etshoj | verb | thirst
+etshohem | verb | be thirsty
+éthem | verb | be pregnant, be in heat (of a cow)
+ether | noun | ether
+etheshëm | adj | feverish
+ethëz | noun | moth
+ethikë | noun | ethics
+ethnologji | noun | ethnology
+ethnologjik | adj | ethnological
+ethsëri | noun | heat (of animals)
+ethun | adj | in heat
+evari | noun | gratitude
+evgjitëri | noun | Egypt
+evgjitkë | noun | settled Gipsy woman
+evrej | noun | Jew
+evrifaring | noun | a fish
+evropas | noun | European
+ezam | noun | examination
+ezaminoj | verb | examine
+ezërvinj | noun | a plant
+ëlter | noun | altar
+ëmët | adj | pale, pallid, haggard
+ëmner | noun | bad smell
+ënbanj | verb | hold
+ënbaq | adv | in peace
+ënbarë | adj | favourable
