@@ -48765,7 +48765,6 @@ koç | noun | ankle; pigtail, plait; pimple; lump or titbit; mouthpiece, holder;
 koçe | noun | finery, decorations
 koçemare | noun | arbutus
 koçere | noun | can, pot, esp. of brass
-koçet | noun | male member
 koçëmish | noun | arbutus
 koçi | noun | coach, carriage; championship-prize
 koçkël | noun | corn-cob, stub of a corn-cob
@@ -48797,3 +48796,48 @@ kofshtinë | noun | garden
 koftua | noun | cut corn, cut grain; pearl barley
 kofto | noun | cut corn
 kohanik | adj | middling, medium
+# ── mannshto.tsv ──
+kohëdi | noun | chance
+kohëditet | verb | it happens
+kohëmbajtës | noun | timekeeper
+kohërrëfenjës | noun | timepiece
+kohërrëfyes | noun | timepiece
+kohëtar | adj | contemporary; chronicler, archivist
+kohsi | noun | duration; period, epoch
+kuej | verb | feed
+mkoj | verb | feed
+kojës | noun | bait
+kojkë | noun | hill, hillock
+kojoj | verb | wheedle, cajole
+kojos | verb | wheedle, cajole, bait
+kojri | noun | common, park
+kojrrile | noun | crane, esp. grus cinerea
+korrile | noun | crane
+korril | noun | crane
+kojzë | noun | bead of sweat, blister or pustule
+kokare | noun | shallot
+kokatar | noun | corn-measure for pouring grain into a hopper
+kokcinell | noun | cochineal
+kokëforti | noun | stubbornness
+kokëgjylmazi | adv | head-first
+kokël | noun | lump, knob, ball; knot, tangle; pimple, swelling; kidney; testicle; padlock; kink, hitch; sweet, candy
+kokëlartsi | noun | pride
+kokëlesh | adj | stupid, stubborn
+kokëmbrazët | adj | frivolous
+kokëndezur | adj | hotheaded
+kokëndryshkur | adj | crusty, ill-tempered
+kokëngulmëzi | adv | head-first
+kokëngulur | adj | obstinate
+kokëngjeshje | noun | obstinacy
+kokëpil | noun | game of pitch-and-toss
+kokërdhoq | noun | apple of the eye; bulb
+kokërmot | noun | thunderbolt
+kokërz | noun | capsule; blob
+kokërris | verb | shuck maize
+kokrrzuem | adj | lumpy, pimply
+kokëtrokë | adj | heady, intoxicating
+kokëz | noun | little head
+kokinkë | noun | musket
+koklëz | noun | grain, seed
+kokloj | verb | dent, cause a lump
+koklutë | noun | gallnut, oak-apple
