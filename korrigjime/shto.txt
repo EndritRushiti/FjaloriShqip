@@ -47955,3 +47955,55 @@ kapulkë | noun | hood on a carriage
 kapulloj | verb | enclose, surround
 kapurrenjë | adj | curly, woolly
 kapuxhak | noun | drawer (of a table)
+# ── mannshto.tsv ──
+kaqe | adv | so much
+kaqikërr | noun | locust
+karabinjer | noun | carabineer
+karabishte | noun | earwig
+karabisht | noun | earwig
+karabojë | noun | vitriol; iron sulphate
+karabosh | noun | ear of maize
+karabuqen | noun | nux vomica
+karadagase | noun | kind of gun or pistol
+karadaklli | noun | kind of gun or pistol
+karadyze | noun | lute with two strings; mandoline
+karaf | noun | boat
+karagrosh | noun | ducat, dollar
+karajpel | noun | sage (salvia romana)
+karakanxo | noun | Gipsy, outcast
+karakaskë | noun | jay
+karakëskë | noun | jay
+karalimë | noun | a bird
+karamane | noun | army bread; maize-loaf
+karamosta | noun | pothook
+karamuncë | noun | bagpipes
+karamunciar | noun | bagpipe-player
+karanec | noun | wine-vat
+karantenë | noun | quarantine
+karasqap | noun | a bird
+karaull | noun | guard, sentry-duty
+karaushë | noun | shrubbery, thicket, wood
+karav | noun | boat; caravan, troop of pack-animals
+karavashë | noun | kind of short-bodied cricket; cockroach
+karavatem | verb | blink; nod, drowse
+karavazh | noun | short-bodied cricket
+karave | noun | boat
+karavoll | noun | large snail
+karavuq | noun | asphodelus ramosus
+karbcierë | noun | dance
+karbue | noun | carbuncle
+karbun | noun | rabies; hydrophobia
+karcalec | noun | grasshopper
+karcapirc | noun | butcher's broom; sweet-briar
+karcas | verb | crackle, creak
+karcej | verb | jump, dance
+karcellë | noun | chest
+karcim | noun | jump, dance
+karcuell | noun | pot, vessel; flower-pot
+karcyell | noun | locust
+karçi | noun | weanling kid; one-year-old kid
+karçin | noun | weanling kid
+kardamine | noun | erucaria aleppica
+kardi | noun | cardiac aperture
+kardhakaqe | noun | briars
+kardhërinë | noun | goldfinch
