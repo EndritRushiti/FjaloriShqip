@@ -1172,5 +1172,3 @@ faletuar | fajtor | alternative
 fakturë | faturë | alternative
 fakturato | faturë | alternative
 fatyrë | faturë | alternative
-falëndërim | falënderim | alternative
-falëndëroj | falënderoj | alternative

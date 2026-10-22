@@ -44016,8 +44016,6 @@ falcoj | verb | aggravate a wound
 falçar | noun | fortune-teller
 falçi | noun | sorcery, fortune-telling
 falçori | noun | sorcery, fortune-telling
-falëndërim | noun | thanks
-falëndëroj | verb | thank
 falëz | noun | hole, priming pan
 falëm | noun | hole, priming pan
 falimentos | verb | fail, go bankrupt
