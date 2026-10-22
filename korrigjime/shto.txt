@@ -46681,3 +46681,41 @@ hanak | noun | kind of tart or pastie
 hanar | noun | innkeeper
 handak | noun | ditch
 handeqe | noun | ditches
+# ── mannshto.tsv ──
+hanërr | noun | silk waste, floss silk
+hanik | adj | on this side, hither
+hanxh | noun | two-edged axe
+hapaçalas | adv | hobbling, limping; straddling
+hapaçalthi | adv | hobbling, limping
+hapashalëzi | adv | with great strides; straddling
+haprroj | verb | rip up
+hapsane | noun | prison
+apsone | noun | prison
+hapsanik | noun | convict
+hapse | noun | prisons
+hapsinë | noun | space; extent; chink, cleft, opening; fine weather; full bloom, blossom; firmament
+hapsore | noun | woman prisoner
+hapsos | verb | imprison
+hapsosur | noun | prisoner
+hapshalë | noun | stride, pace
+hapshalthi | adv | with great strides
+hapuloj | verb | gobble
+harabor | noun | a thorny plant of meadows and cornfields
+haraçnik | noun | labourer, wage-earner
+harakop | noun | society wit, wag; obscene jester
+harakopem | verb | live a rackety life
+haragopem | verb | live a rackety life
+harakopi | noun | coarse joke, obscenity
+harokopi | noun | coarse joke
+harakopisem | verb | talk filth, be obscene
+harakopur | noun | racket; obscenity
+harakos | verb | rule lines
+harakuq | verb | tumble; redden
+harakuqzohem | verb | talk filth
+harami | noun | band of thieves
+haran | noun | pan, saucepan
+harapash | noun | maize-semolina
+harapë | noun | tadpole
+harasan | noun | cement
+harbe | noun | temperament, nature, disposition
+harbkeq | adj | malicious, malevolent
