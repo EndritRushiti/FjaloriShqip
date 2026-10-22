@@ -45979,3 +45979,55 @@ gurqumështi | noun | galactite
 gurshkrepc | noun | flint
 gurshurri | noun | sandstone
 gurzjarri | noun | flint
+# ── mannshto.tsv ──
+gurjeqershi | noun | hard variety of cherry
+gurkë | noun | pebble; cart track, rut; rails, rail-track
+gurmacash | noun | game of five-stones
+gurmëlçije | noun | bezoar
+gurmicë | noun | alabaster
+gurmicët | adj | alabaster
+gurmullini | noun | millstone; a ring game
+gurnec | noun | miser
+gurnë | noun | spring, fountain
+guroj | verb | petrify, turn to stone, harden
+guros | verb | petrify
+guroset | verb | petrifies
+gurshëm | adj | stony
+gurtar | noun | stonebreaker, quarryman
+gurtoj | verb | petrify; reinforce; egg on; annoy, irritate
+gurtsi | noun | solidity, solidarity
+gurtsoj | verb | harden, solidify, petrify
+guruguc | adj | unsightly; ailing
+guruguçkë | noun | berry
+gurzjarmi | noun | flint
+gurzoj | verb | petrify
+gurrçmaz | noun | throat
+gurxuman | noun | throat
+gurriç | noun | gravel
+gurrnec | noun | miser; miserly
+gurrni | noun | whirlpool; whirl
+gurroj | verb | bubble up; petrify
+gurros | verb | petrify
+gus | noun | cast-iron
+gusle | noun | lute (in Serbia)
+gusto | noun | good taste
+gushbardhë | adj | white-throated
+gushdalë | adj | strumous, affected with goitre
+gushëm | noun | wisp of straw; thick rope for hauling timber
+gushëgjeli | noun | a flowering plant
+gushmaq | noun | larynx
+gushosh | adj | big-mouthed; strumous, goitred
+gushëpëlluem | adj | purple; opalescent
+gushtak | noun | wheat which ripens in August
+gushverdh | noun | a bird
+gutje | noun | hurry
+gut | interj | hurry up!
+guvermë | noun | quarrel, row, discord
+guverrmë | noun | quarrel, row
+guvernar | noun | governor
+guvernë | noun | government
+guvernim | noun | government; regime; control
+governonj | verb | govern
+guvrim | noun | hollowness
+guximazë | noun | caterpillar, grub
+guxis | verb | annoy, irritate, urge on, incite, stir, rouse
