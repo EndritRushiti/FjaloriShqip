@@ -48952,3 +48952,58 @@ kollondris | verb | manage, handle, deal with, use
 kollonel | noun | colonel
 kollonë | noun | column, pillar; (press) column
 kolloni | noun | colony
+# ── mannshto.tsv ──
+kolloprift | noun | carob, locust-tree; nettle-tree
+kolloqis | verb | kill
+kollovish | noun | beetle; dung-beetle
+kollovizh | noun | beetle
+kollovizhdë | noun | beetle
+kollozhan | noun | a bird
+kollpo | noun | blow; attack
+kolltak | noun | saddle-bow
+kalltak | noun | saddle-bow
+kollum | noun | clay beaten soft for making bricks
+kollumos | verb | beat clay soft
+komaç | noun | button
+komadin | noun | chest-of-drawers
+komar | noun | gambling
+kombëri | noun | nationality
+kombiar | adj | national, popular
+kombishtjar | adj | national
+komblik | noun | basin, bowl
+kombliohem | verb | faint, totter, fail
+kombsi | noun | nationality
+kombsim | noun | nationalisation
+kombsoj | verb | nationalise
+kombtar | adj | national
+komcë | noun | button
+komçar | noun | hook (for an eyelet)
+komçe | noun | button; stud, cufflink; eyelet; clasp, buckle
+komçë | noun | button; clasp
+komedim | noun | an evil spirit said to come out on December nights clad in iron
+komët | adj | of horse-hair
+komëtër | noun | godparents
+komëz | noun | belly-worm (in sheep); hold, hatch (in a ship)
+komicun | noun | commission
+kominë | noun | lees, esp. of wine; grape-skins
+komiser | noun | commissioner
+komitë | noun | bandit
+komlik | noun | basin, bowl
+komojt | adv | in public, openly
+komonë | noun | bell
+komotitem | verb | stiffen, grow numb
+kompanjë | noun | company (army)
+komplik | noun | basin, bowl
+komsë | noun | button
+komsorrë | noun | string-game, perhaps cat's-cradle
+komtis | verb | conquer, defeat; eradicate, extirpate; pull out (hair)
+komu | noun | communion, community
+komun | noun | commune, parish
+komure | noun | pistol
+komurë | noun | pistol
+kongjakafshë | pron | something
+konnje | pron | some, a certain
+kontuk | adv | anywhere, wherever
+konc | noun | keel
+koncertë | noun | concert
+koncoj | verb | careen (a vessel)
