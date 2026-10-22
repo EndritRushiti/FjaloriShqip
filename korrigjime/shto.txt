@@ -49552,3 +49552,63 @@ kryenisje | noun | starting-point
 kryeparë | adv | first and foremost, first of all, in the first place; commander-in-chief; president, chairman; chief, overlord
 kryepari | noun | primacy; command; aristocracy
 kryepeshkopi | noun | archbishopric
+# ── mannshto.tsv ──
+kryepërpjetsi | noun | insolence
+kryepleqsi | noun | parish council
+kryeposht | adv | upside-down
+kryepshtetës | noun | upholsterer
+kryepunë | noun | masterpiece
+kryeqitas | noun | rebel; rebellious
+kryeqitje | noun | revolt, revolution
+kryeresht | noun | headline
+kryerrugë | noun | highroad, main road
+kryesonjës | noun | leader, head, chairman
+kryesqep | noun | corner stone
+kryesundim | noun | supreme control or command
+kryesundues | noun | supreme ruler or commander
+kryeshëm | adj | achievable
+kryeshëndoshë | noun | visit of condolence
+kryeshkretë | adj | perverse, obstinate
+kryeshkronjë | noun | capital letter
+kryeshkronjës | noun | book-keeper
+kryeshtar | noun | head, leader
+kryeshterë | adj | empty-headed; fathead
+kryeshterrë | adj | empty-headed
+kryeshtyllë | noun | capital (of a pillar)
+kryetingull | noun | initial sound
+kryetrashë | adj | stupid, slow
+kryeultaj | adv | humbly
+kryeultë | adj | humble, bowed
+kryeunjtë | adj | humble, bowed
+kryeunjur | adj | humble, bowed
+kryevjet | noun | New Year's Day
+kryevjetit | adv | at the beginning of the year
+kryezezë | noun | black-headed goat; hedge-sparrow
+kryezotim | noun | predominance
+krygje | noun | cross; curse, burden
+krygjë | noun | cross
+krykë | noun | mouth, throat
+krykës | noun | capstan, windlass
+krymalesh | noun | larva, grub, maggot
+krymbem | verb | get worm-eaten
+krymbët | adj | worm-eaten
+krymët | adj | worm-eaten
+krymbëz | noun | grub, larva
+krymbore | noun | annelid
+krymëz | noun | grub, larva
+krymshtë | adj | worm-eaten
+krymun | adj | worm-eaten
+kryp | verb | salt
+krypanik | noun | salt-cellar
+krypenicë | noun | salt-cellar
+krypcë | noun | salt-cellar
+krypet | verb | is salted
+krypës | noun | salt-cellar
+krypim | noun | salting, salination, pickling
+krypna | noun | salts
+krypoj | verb | salt
+krypore | noun | salt-mine; salt-works; salt-cellar
+krypos | verb | salt
+krypsore | noun | white kind of stone, spar
+krypshëm | adj | salt
+kryptar | noun | salt-merchant
