@@ -49021,7 +49021,6 @@ kondruf | noun | a tree with dense foliage; branchy
 kondrufkë | noun | a tree with dense foliage
 kondur | noun | log, stump of a tree
 kondura | noun | shoe
-konduz | noun | a carnivorous animal
 konë | noun | pup, bitch; icon, image
 konfesuor | noun | confessor
 konfetari | noun | confectionery
@@ -49039,7 +49038,6 @@ konisëm | noun | icon, picture, image
 konizëm | noun | icon, picture
 konizë | noun | bacillus
 konkë | noun | pinnacle
-konkol | noun | a flowering plant
 konoptar | noun | rope-maker
 konosh | noun | cloak
 konoshi | noun | acquaintance, connection, relation; circle of connections; customer, client; introduction, meeting, appointment
@@ -49050,10 +49048,8 @@ konpletë | noun | finish, end
 konservonj | verb | keep, preserve
 konsullsi | noun | consulship
 konshencie | noun | conscience
-kontaljon | noun | meadow centaury
 kontarehem | verb | agree
 kontratar | noun | contractor
-konues | noun | cone-clutch
 konup | noun | gnat, mosquito
 konuroj | verb | crown
 konushment | noun | bill of lading
@@ -49064,7 +49060,55 @@ konxhe | noun | bud; haw, berry
 konxhë | noun | bud; haw, berry
 konxhel | noun | roundabout
 konjar | noun | rogue, rascal
-konjare | noun | pancake
 konjos | noun | swelling, boil
 kop | noun | peace-offering
 kopace | noun | truncheon, bludgeon
+# ── mannshto.tsv ──
+kopal | noun | copal
+kopallar | noun | twaddler; talkative
+kopallë | noun | device for twisting wool-cord; nonsense, twaddle
+kopanec | noun | swaddling-bands; baby in swaddling clothes
+kopaneç | noun | swaddling-bands
+kopankë | noun | chunk; scrap, bit; bowl or cup
+kopar | noun | pestle, beetle
+koparan | noun | cloak
+kopatem | verb | get footsore
+kopcis | verb | button, clasp, fasten
+kopçane | noun | trousers, breeches
+kopçë | noun | button
+kopertonë | noun | motor tyre
+kopë | noun | head
+kopërr | noun | copra
+kopij | noun | copy
+kopilan | adj | smart, clever, shrewd
+kopilane | noun | bastard girl; girl; wench; servant-girl; small variety of grapefruit
+kopilet | noun | little boy
+kopileri | noun | youth; service
+kopilisht | adv | cunningly
+kopilkë | noun | lascivious girl
+kopilth | noun | servant
+kopis | verb | weaken, exhaust, unnerve
+kopluç | adj | stuffed, crammed
+koporan | noun | kind of cloak; woollen jacket
+koporane | noun | woollen jacket
+koprajkë | noun | goad, drover's stick
+kopresh | noun | halter
+kopreshë | noun | halter
+koprëz | noun | dill
+kopshë | noun | moth, woodworm
+kopshtnaje | noun | gardens
+koptar | adj | big-headed
+koptesh | noun | low cake of bread baked in ashes
+koptirë | noun | bottle, flask
+koptis | verb | hurry away, rush off; arrive
+kopullë | noun | cap
+koqemillë | noun | cochineal insect
+koqere | noun | can, pot
+koqezë | noun | small grain; pimple, pustule
+koqës | noun | low-growing herb with berries, perhaps bilberry
+koqëz | noun | small grain
+koqile | noun | shell
+koqinil | noun | cochineal
+koqiskë | noun | coffee or cocoa bean
+koqke | noun | pustule, pimple
+koqkë | noun | pustule, pimple
