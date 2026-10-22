@@ -43866,3 +43866,64 @@ ezërvinj | noun | a plant
 ënbanj | verb | hold
 ënbaq | adv | in peace
 ënbarë | adj | favourable
+# ── mannshto.tsv ──
+ënbaronj | verb | finish
+ënbas | prep | after
+ënbasandaj | adv | afterwards
+ënbasëndaj | adv | henceforth
+ënbegatem | verb | get rich
+ënbegatun | adj | enriched
+ënbes | verb | remain
+ënbëledhë | verb | gather
+ënbëloj | verb | disregard, nullify
+ënbërinj | verb | arrive
+ënbërshelë | noun | enclosure, porch
+ënbi | prep | on
+ënboh | verb | deny
+ënbranbë | noun | end
+ënbrapa | adv | behind
+ënbrenda | adv | inside
+ënbrinjë | prep | alongside, at the side of
+ënbudhë | adv | on the way
+ënbukuronj | verb | adorn
+ënbush | verb | fill
+ënbuthë | adv | at the bottom
+ënçel | verb | open
+ënçonj | verb | raise, send
+ëndanj | verb | divide; decide
+ëndatëmot | adv | at that time
+ëndenj | verb | stay, sit
+ëndere | noun | honour
+ënderë | verb | honour
+ënderim | noun | respect
+ëndënatë | adv | night-long, in the night-time; morning
+ëndënatanet | adv | in the morning
+ëndënë | prep | under
+ëndënjeças | adv | forthwith
+ëndëreq | verb | repair
+ëndërmjet | prep | between
+ëndëronj | verb | change
+ëndërpër | prep | through
+ëndienj | verb | feel
+ëndigjuom | noun | report
+ëndim | noun | help
+ëndimonj | verb | help
+ëndiskonj | verb | punish
+ëndjekë | verb | follow
+ëndjekës | noun | follower
+ëndonje | pron | any
+ëndrushej | adv | otherwise
+ëndrushkët | noun | rusting
+ëndukë | verb | pluck
+ënduorsh | adv | in the hands of
+ëndhez | verb | kindle
+ënfermi | noun | crumb
+ënfij | adv | onwards, forwards
+ënfsheh | verb | hide
+ëngadhënjenj | verb | triumph
+ëngadhënjim | noun | triumph
+ëngalkonj | verb | pour into
+ëngarkonj | verb | load
+ëngatëronj | verb | tangle
+ëngjënjuem | adj | deceitful
+ënginj | verb | satisfy
