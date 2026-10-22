@@ -49109,3 +49109,39 @@ koqinil | noun | cochineal
 koqiskë | noun | coffee or cocoa bean
 koqke | noun | pustule, pimple
 koqkë | noun | pustule, pimple
+# ── mannshto.tsv ──
+koqyg | noun | coccyx
+koraç | noun | hammer, esp. for shoeing
+koras | adv | continuously (of drinking)
+korbaçë | noun | kind of crow
+korbeç | noun | animal whose fur is tipped with black
+korbullë | noun | keg, cask, wooden pail
+korçullade | noun | consulate
+korçullat | noun | consulate
+korçullar | noun | diplomat, envoy, consular official
+korcyll | noun | stalk
+korçan | noun | core of a maize-cob; terminal bud
+korçë | noun | kneepan
+kordhem | verb | get stiff; swagger
+kordhelë | noun | ribbon, tape; band; turn, twist; twisted, spiral
+kordhele | noun | ribbon, tape
+kordhell | noun | ribbon, tape
+kordhellë | noun | ribbon, tape
+kordhezë | noun | string, cord
+kordhët | adj | stiff, straight, upright
+kordhje | noun | stiffening, erection
+kordhosem | verb | swagger
+kordhtar | noun | swordsman
+korelë | noun | flapper, girl
+korell | verb | heed, notice
+korece | noun | corselet
+korëz | noun | wild chicory
+koriçkë | noun | crust, bark, cortex, shell
+korith | noun | muscatel grape
+korkodhil | noun | crocodile
+korkoli | noun | ropewalking
+korkolis | verb | swing, dangle, shake, rock
+korkolitë | noun | swing, hammock
+korkorrim | noun | rumbling in the stomach
+korkosure | noun | witch
+korkoshinë | noun | weakly ram
