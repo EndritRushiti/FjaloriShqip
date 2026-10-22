@@ -48553,7 +48553,7 @@ këstis | verb | tighten
 kësulëz | noun | helmet
 kësultar | noun | cap-maker
 kësurë | noun | carrot
-kështqel | noun | fortress
+këshqel | noun | fortress
 kështanjë | noun | chestnut
 kështarpë | noun | kind of wild millet
 kështënjë | noun | chestnut
@@ -48584,3 +48584,47 @@ këthmill | noun | snail
 këthollët | adj | idiotic, stupid
 kfilltë | adj | clear
 khân | adv | here
+# ── mannshto.tsv ──
+kicilloj | verb | tickle
+kicimic | noun | demon, goblin
+kiçe | noun | small pot; gruel, porridge
+kihet | verb | it appeals to me; is pruned
+kihje | noun | taste, fancy
+kihme | noun | pruning
+kijas | verb | sob; howl (as a dog)
+klijas | verb | sob; howl
+kijem | noun | incense
+kijim | noun | pruning
+kijmeni | noun | rivalry
+kijs | noun | pruner
+kîjtas | adv | tilted, sloping, awry
+kikatim | noun | crowing, cock-a-doodle-doo
+kikël | noun | tuft, crest
+kikëz | noun | tragus of the ear
+kikile | noun | group of four (walnuts)
+kilas | verb | rouse, provoke, excite
+kile | noun | cartridge-case; kilogram
+kilzi | noun | tickling, tickle
+kilzim | noun | tickling
+kilzoj | verb | tickle
+kilicë | noun | joint
+kilikaxë | noun | arum lily
+kilivish | noun | spiral; circle, gyration
+kilivishe | adj | spiral
+kilizoj | verb | tickle
+kilkazë | noun | arum lily
+kilkoj | verb | tickle
+kiloj | verb | rouse, provoke
+kiloxoj | verb | tickle
+kill | noun | bushel
+kimikë | noun | chemistry
+klind | noun | fold; hem
+kint | noun | fold; hem
+kinge | noun | ewe-lamb
+kinje | noun | ewe-lamb
+kinino | noun | quinine
+kinuz | noun | lamb
+kinj | noun | lamb
+kipçë | noun | jujube
+kiqël | noun | tuft, crest
+kiqirë | noun | fontanel
