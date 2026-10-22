@@ -45297,3 +45297,53 @@ gërgalaq | noun | tree-frog
 gërgaleq | noun | tree-frog
 gërgame | noun | incitement, instigation, provocation
 gërgamje | noun | incitement, instigation, provocation
+# ── mannshto.tsv ──
+gërgitem | verb | be provoked
+gërgasës | noun | instigator, inciter; provocative
+gërgec | noun | cramp
+gërgilac | noun | larynx, windpipe
+girgilac | noun | larynx, windpipe
+gërgëlak | noun | throat
+gërgëlis | verb | quack
+gërgëllim | noun | gurgling, ripple, babble, bubbling; gargle; gulp; warble
+gërgllim | noun | gurgling, ripple
+gërgëllinë | noun | gulp
+gërgëlloj | verb | gurgle
+gërgëras | verb | shriek, yell
+gërgërim | noun | gurgling
+gërgëris | verb | purr; gurgle; babble, purl
+gërgile | noun | confusion
+gërgim | noun | provocation, incitement
+gërgitës | noun | provocator, disturber; provocative, disturbing
+gërgoj | verb | stir, rouse, provoke; urge
+gërgulë | noun | nightmare
+gërgyle | noun | scuffle
+gërhamë | noun | snore
+gërheq | verb | snore
+gërrhitje | noun | grunt, grunting
+gërkinë | noun | Greek woman
+gërllome | noun | chaff, husks
+gërmac | noun | glottis
+gërmaç | adj | hunchbacked
+gërmadhos | verb | ruin
+gërmajë | noun | ruin
+gërmic | verb | scrape, scratch; chock-full
+gërmicë | noun | small heap
+gërminë | noun | tare, vetch
+gërmisem | verb | clear off, hop it
+gërmish | verb | graze
+gërmokth | noun | aromatic seed for flavouring soups, perhaps allspice
+gërmuçuem | adj | cowering, cringing
+gërmutë | adj | hunchbacked, bent
+gërmujun | adj | crooked
+gërmuqohem | verb | huddle up
+gërmusët | adj | bent, bowed
+gërmushem | verb | threaten; glower, scowl
+gërmushët | adj | hunchbacked
+gërnis | verb | destroy, ruin; melt, dissolve
+gërnushë | noun | marsh
+gërnjatem | verb | quarrel
+gërnjitës | adj | quarrelsome
+gërsenicë | noun | caterpillar
+gërsis | verb | knock
+gërshes | verb | cross, interlace
