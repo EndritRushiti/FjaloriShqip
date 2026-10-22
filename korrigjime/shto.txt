@@ -46760,3 +46760,44 @@ harvallëri | noun | rascality
 harvalëri | noun | rascality
 harvallinë | noun | rough shed, workshop
 harvallis | verb | ruin, wreck
+# ── mannshto.tsv ──
+harzane | noun | altar-lamp or candle
+harriço | noun | fresher, freshman
+harritje | noun | arrival
+harrna | interj | the devil!
+harrutë | noun | casemate, dungeon, keep
+hasan | noun | darling
+hasullë | noun | a leguminous plant
+hasër | noun | mat, esp. rush-mat
+hasërthi | noun | game of prisoners' base
+hasmak | noun | marsh
+hasna | noun | deeds, exploits
+hastrit | noun | kind of snake
+hasude | noun | hard white sweetmeat of flour and sugar
+hasuri | noun | meeting; event
+hashash | noun | poppy
+hashëra | noun | sawdust
+hashërim | noun | wooden fence
+hashtull | noun | wheat-field left for winter fodder; field sown for winter fodder
+hashtullnaje | noun | wheat-fields left for winter fodder
+hashurë | noun | kind of frumenty
+hatroj | verb | please, approve
+hatrues | adj | approving
+hatrueshëm | adj | acceptable, pleasing
+hatullë | noun | roof-space, garret
+hauqe | noun | breast-veil worn by women
+havuqe | noun | breast-veil worn by women
+haus | noun | vessel, tank; abyss, hell
+havanë | noun | trench mortar
+havardar | adj | unsociable, bullying, devilish
+havër | noun | swollen ground due to frost; a bird; rug, cover; black shawl, wrap; synagogue
+haxhilejlek | noun | variety of stork
+hazarane | noun | bamboo
+hazdis | verb | spoil, pamper
+hazdisem | verb | be spoilt
+hazën | noun | treasure; treasury
+haznatar | noun | treasurer
+hebe | noun | knapsack; saddle-bag; cauldron, kettle
+heckë | noun | short-sleeved jacket
+hedev | noun | khedive
+hedha | noun | winnowings, chaff of maize, husk
