@@ -47142,3 +47142,56 @@ hyjeshëm | adj | divine
 hyjlindse | noun | Morning Star
 hyjnderim | noun | veneration, worship
 hyjplime | noun | the Milky Way
+# ── mannshto.tsv ──
+hyjsim | noun | deification
+hyjsoj | verb | deify
+hyjtar | noun | theologian
+hyjzë | noun | star
+hyllëz | noun | anemone
+hyllsi | noun | constellation
+hymje | noun | coming in, entry; entrance; introduction
+hymn | noun | hymn, anthem
+hymuna | noun | income, revenue
+hynadalas | adv | going in and out
+hynere | noun | goddess
+hype | noun | ascent; height, zenith
+hyq | noun | custom, habit; vice
+hyrime | noun | charm, beauty
+hyrybel | adj | tall, lanky
+hyrybesh | adj | tall, lanky
+hysar | noun | hussar
+hysop | noun | hyssop
+izopë | noun | hyssop
+hyshtë | noun | charm, spell, magic
+hyshtje | noun | charm, spell
+hyzmeqarkë | noun | woman servant
+ibrishimët | adj | of silk thread
+ic | adv | odd (in odd or even)
+icë | noun | common purple orchid
+iç | noun | inside, interior
+idé | noun | idea
+idërsha | noun | rose-leaf geranium
+idërshah | noun | rose-leaf geranium
+idarsha | noun | rose-leaf geranium
+idoll | noun | idol
+idhnaç | noun | cockchafer, maybug
+idhnaqe | noun | aromatic bush with composite yellow flowers
+idhnoqe | noun | aromatic bush with yellow flowers
+idhni | noun | anger; bitterness, grief
+idhnitar | adj | irascible, crusty
+idhnohem | verb | get sad, get angry
+idhnueshëm | adj | bitter; ill-tempered
+idhnutë | adj | downcast, glum
+idhrovolant | noun | seaplane
+idhshëm | adj | bitter; angry
+idhtas | adv | bitterly
+idhtim | noun | bitterness, sorrow
+idhtinë | noun | sarcasm
+idhtoj | verb | embitter, make bitter; sadden
+ithtoj | verb | embitter
+idhullatër | noun | idolater
+idhullatri | noun | idolatry
+idhullutës | adj | idolatrous; idolater
+idhulloj | verb | idolise; worship idols
+idhulltar | adj | idolatrous; idolater
+ihem | verb | go, go away
