@@ -1219,3 +1219,5 @@ fisiologji | fiziologji | alternative
 fisnikoj | fisnikëroj | alternative
 fistan | fustan | alternative
 fistë | fustan | alternative
+# ── Mann 1948 ──
+fjakë | flakë | alternative

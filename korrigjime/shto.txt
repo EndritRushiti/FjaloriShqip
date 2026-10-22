@@ -44451,3 +44451,25 @@ fishekore | noun | cartridge-belt; firework; rocket
 fishëll | noun | whistle
 fishkarol | noun | reedpipe
 fishkëri | noun | witheredness, triteness
+# ── mannshto.tsv ──
+fishkull | noun | variety of finch; bush, thicket; small wicker basket for olives before pressing; stick, rod, post, stake; stark naked
+fishkulloj | verb | whistle; thrash
+fishkullore | adj | sibilant
+fishllej | verb | whistle
+fishnjollë | noun | intrigue, craftiness
+fitë | noun | tinder; torch
+fitimët | adj | profitable
+fitimprunës | adj | profitable
+fitonjës | adj | winning; winner
+fjakë | noun | flame
+fjalamujtas | adv | idly debating
+fjalëmadhe | adj | bombastic
+fjalëpakët | adj | taciturn
+fjalërondokop | noun | swaggerer
+fjalëshumët | adj | talkative
+fjalis | verb | wrangle, argue, quarrel
+fjalitem | verb | wrangle, argue, quarrel
+fjalmirë | noun | gentleness of speech; favour, support
+fjalni | noun | loquacity
+fjalore | noun | dictionary
+fjalortar | noun | lexicographer
