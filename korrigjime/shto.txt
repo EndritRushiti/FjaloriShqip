@@ -48182,3 +48182,54 @@ katërvesh | noun | cricket
 katërvjetshëm | adj | four-year-old
 katërzim | noun | squaring; quarter, phase (of the moon)
 katërzoj | verb | square
+# ── mannshto.tsv ──
+katallan | noun | monster
+katikule | noun | compliment, praise
+katinë | noun | chain; lock
+katis | verb | knock down
+katllo | verb | make a din; hurl down; applaud
+katmel | noun | poppy
+katmerr | adj | fine, gaudy; tumble-down
+katnicë | noun | censer
+katoq | noun | cellar, basement; wine-cellar; den, hole, cell
+katrac | noun | peg securing a bolt on a door
+katramse | noun | a game
+katranët | adj | tarry, tarred
+katransh | adj | foursided, quadrilateral
+katrapilas | adv | topsy-turvy
+katrapilzoj | verb | throw into disorder
+katrash | adv | at full gallop
+katroçe | noun | shepherd's satchel
+katrovar | noun | potter
+katrovë | noun | earthen water-jar
+kotrovë | noun | earthen water-jar
+katruve | noun | earthen water-jar
+kotruvë | noun | earthen water-jar
+katrumë | noun | bunch of flowers
+katrurdhëratës | noun | tetrarch
+katrroj | verb | draw up, arrange
+katulloj | verb | roll
+katundak | adj | village-, rustic
+katundari | noun | country, countryside; country-folk; parish
+katundcë | noun | village-girl, peasant-woman
+katundeshë | noun | peasant-woman
+katundës | noun | villager
+katundsi | noun | country-folk
+kathec | noun | silo, esp. for maize
+kathedral | noun | cathedral
+kathë | adj | stunning, dazing; stiffness, numbness
+ngathë | adj | stunning, dazing
+kauris | verb | toast, roast
+kaurreshë | noun | infidel woman
+kaurri | noun | non-Moslems
+kaurrilë | noun | a large grey bird
+kavadhë | noun | a woman's dress
+kavaljet | noun | age, period, epoch, era; vicissitude
+kavallar | noun | poacher
+kavardis | verb | toast, roast
+kavertis | verb | toast, roast
+kavërdis | verb | toast, roast
+kavërtis | verb | toast, roast
+kaferdis | verb | toast, roast
+kavatoj | verb | imagine, contrive, think out; impress, imprint; awaken, arouse
+kave | noun | coffee
