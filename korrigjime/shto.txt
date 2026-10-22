@@ -49312,13 +49312,11 @@ kramastar | noun | pothook
 kramte | noun | Christmas
 krançe | noun | twigs
 krandth | noun | shoot, germ; twig
-krapaj | adj | foolish
 krapajkë | noun | scraper, esp. for scraping ploughshares
 krapalle | noun | kind of shovel or cloven mattock
 krapë | noun | wooden peg, wooden hook
 krapis | verb | thrive; revel, rejoice
 krapje | noun | keeping, preservation; depositing; pledge, legacy, bequest; lower breast of a horse
-krapjoll | noun | kid; leap, jump
 krapuliq | noun | small sea-fish with large rough scales and reddish lower fins; a fish of the carp type; duffer, dolt
 kraruar | noun | breast, chest
 krasi | noun | chips, shavings
@@ -49335,11 +49333,9 @@ kreckoj | verb | prune, lop, hack off (with a hoe), chop off (roots); crackle, s
 krecnoj | verb | prune, lop
 kreçe | noun | white cabbage
 kreçkë | noun | darnel, cockle, tare or similar
-kredharak | noun | diver-bird
 kredhomë | noun | marsh, bog
 krefës | noun | hairdresser
 krefëz | noun | trap; mousetrap
-krefkëz | noun | tart, fancy cake
 krefshë | noun | crest
 kregëz | noun | maple
 kreheri | noun | long-staple wool, worsted
@@ -49347,7 +49343,6 @@ krehkoj | verb | bud, shoot, sprout
 krejnar | adj | cock-sure, confident; proud
 krejni | noun | assurance, confidence; vanity, pride
 krejnoj | verb | be cock-sure
-krejshëm | adj | executable
 krejtë | adj | complete, entire, utter
 krejtët | adj | complete, entire
 krejtsisht | adv | utterly, completely
@@ -49356,3 +49351,59 @@ krekëz | noun | maple
 krekcë | noun | maple
 krekëztë | adj | of maple
 krekcoj | verb | clash, batter
+# ── mannshto.tsv ──
+krel | noun | curl
+krele | noun | curl
+kreloj | verb | curl
+kreme | noun | holiday
+kremill | noun | snail
+kremtërisht | adv | festively, solemnly
+kremtëroj | verb | celebrate, make holiday
+kren | noun | horseradish
+krenaje | noun | top, upper part; crown of the head
+krença | noun | fringes, edging
+kreni | noun | pride
+krenimçar | adj | proud
+krenik | adj | proud
+krenim | noun | assertion
+krenisht | adv | proudly
+krepallë | noun | eyelash
+krepatohem | verb | bother about, worry about, see to; get alarmed; get roused; take up arms; get vigorous, get strong
+krepçë | noun | bobbin
+krepël | noun | variety of sage
+krepët | adj | steep, rocky
+krepicë | noun | bleaching-medium
+krepis | verb | blink (the eyes)
+krerëz | noun | withers
+kresele | noun | couch-grass
+kresëm | noun | unction
+krezëm | noun | unction
+kresmim | noun | confirmation (R.C.)
+kresmoj | verb | confirm (a child in the R.C. Church); anoint
+kresnicë | noun | a fish found in Lake Ohrida
+kresnik | noun | small festive gift-cake
+krest | noun | horse-comb
+krestë | noun | horse-comb; stiff, prostrate, stretched out
+kreshkët | adj | brittle, liable to split; rugged, rough
+kreshmi | noun | abstinence from fatty and milky foods
+kreshmore | noun | milkweed; primrose; Lenten diet
+kreshnella | noun | Christmas
+kreshnikëri | noun | chivalry; order of knights; heroism
+kreshniki | noun | heroism
+kreshpë | noun | sheep with curly wool
+kreshpnoj | verb | make (hair) stand on end
+kreshpnohen | verb | stand on end, bristle (of hair)
+kreshpnuem | adj | ruffled, dishevelled
+kresht | noun | a thorny plant growing in tufts
+kreshtar | adj | bristly
+kreshtërim | noun | Christianity
+kreshtët | adj | crested
+krevet | noun | bed
+krezim | noun | unction; confirmation
+krezhavitet | verb | stand on end, bristle (of hair)
+krezhme | noun | Lent
+krëckë | noun | toast
+krëhër | noun | comb
+krëmill | noun | snail
+krëmtoj | verb | celebrate
+krëndë | noun | foliage; leaves used as animal fodder; abundant, luxuriant
