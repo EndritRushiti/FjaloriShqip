@@ -48958,7 +48958,6 @@ kolloqis | verb | kill
 kollovish | noun | beetle; dung-beetle
 kollovizh | noun | beetle
 kollovizhdë | noun | beetle
-kollozhan | noun | a bird
 kollpo | noun | blow; attack
 kolltak | noun | saddle-bow
 kalltak | noun | saddle-bow
@@ -49001,9 +49000,71 @@ komu | noun | communion, community
 komun | noun | commune, parish
 komure | noun | pistol
 komurë | noun | pistol
-kongjakafshë | pron | something
-konnje | pron | some, a certain
-kontuk | adv | anywhere, wherever
 konc | noun | keel
 koncertë | noun | concert
 koncoj | verb | careen (a vessel)
+# ── mannshto.tsv ──
+kond | verb | understand
+kondaks | verb | try; tempt; bother, annoy
+kondanar | verb | condemn
+kondetem | verb | be content
+kondicë | noun | passage (in a book)
+kondirë | noun | spirit measure of three okes
+kondisem | verb | put up, stay
+kondisëm | noun | icon
+kondosh | noun | cloak
+kondoshëz | noun | little coat
+këndosh | noun | cloak
+kondrë | prep | against
+kondrështonj | verb | oppose
+kondruf | noun | a tree with dense foliage; branchy
+kondrufkë | noun | a tree with dense foliage
+kondur | noun | log, stump of a tree
+kondura | noun | shoe
+konduz | noun | a carnivorous animal
+konë | noun | pup, bitch; icon, image
+konfesuor | noun | confessor
+konfetari | noun | confectionery
+konfidoj | verb | trust
+konfin | noun | frontier
+konfijetar | adj | frontier-
+konfirmonj | verb | confirm, strengthen
+konfortonj | verb | comfort, console
+konfuzjon | noun | confusion
+kongerë | noun | gathering
+kongare | noun | gathering
+konil | noun | rabbit
+konilë | noun | icicle
+konisëm | noun | icon, picture, image
+konizëm | noun | icon, picture
+konizë | noun | bacillus
+konkë | noun | pinnacle
+konkol | noun | a flowering plant
+konoptar | noun | rope-maker
+konosh | noun | cloak
+konoshi | noun | acquaintance, connection, relation; circle of connections; customer, client; introduction, meeting, appointment
+konoshtis | verb | acquaint
+konoshtisem | verb | meet, get acquainted
+konpanjonj | verb | accompany
+konpletë | noun | finish, end
+konservonj | verb | keep, preserve
+konsullsi | noun | consulship
+konshencie | noun | conscience
+kontaljon | noun | meadow centaury
+kontarehem | verb | agree
+kontratar | noun | contractor
+konues | noun | cone-clutch
+konup | noun | gnat, mosquito
+konuroj | verb | crown
+konushment | noun | bill of lading
+konvertonj | verb | convert; turn
+konvënenj | verb | consort (with)
+konvënesë | noun | convention, covenant
+konxhe | noun | bud; haw, berry
+konxhë | noun | bud; haw, berry
+konxhel | noun | roundabout
+konjar | noun | rogue, rascal
+konjare | noun | pancake
+konjos | noun | swelling, boil
+kop | noun | peace-offering
+kopace | noun | truncheon, bludgeon
