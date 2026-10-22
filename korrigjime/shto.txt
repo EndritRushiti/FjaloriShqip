@@ -44620,3 +44620,49 @@ fojë | noun | leaf; petal
 fojletë | noun | celtis tree, nettle tree, hackberry; alfalfa
 folagë | noun | coot
 folësi | noun | talkativeness
+# ── mannshto.tsv ──
+fiqollë | noun | whiskers
+folmarme | noun | grammar, accidence
+folsi | noun | loquacity
+foltar | noun | talker, speaker
+foltur | noun | talk, dialect
+folladhë | noun | the mollusc lithodome
+fondoj | verb | found, establish
+foqol | noun | headscarf
+forcade | noun | overwhelming mass, superior strength; fortress
+forcatë | noun | strength
+forcer | noun | box, chest
+forë | noun | impetus, verve, go; charge, attack; haste; pride, arrogance; hem
+forrë | noun | impetus, rush
+forlë | noun | kind of cheese; scales
+formël | noun | nit; scurf
+formullë | noun | formula
+formulloj | verb | formulate
+foroj | verb | hasten, urge, egg on, incite; threaten
+fortëri | noun | strength
+fortsi | noun | strength
+fortsim | noun | fortification
+forues | adj | threatening, formidable
+forrac | noun | maize-bread
+forrazi | adv | at a rush
+forrik | noun | oven
+foshnjar | adj | infantile, babyish, in its infancy
+foshnji | noun | infancy, babyhood, childhood
+foti | noun | light; oil-lamp
+fotografis | verb | photograph, snap
+foveri | noun | fear
+foveris | verb | terrify
+fozhnje | noun | infant
+fqi | noun | neighbour
+fqinjsi | noun | neighbourhood, vicinity, proximity
+fqinjëroj | verb | adjoin
+fqinjëzim | noun | proximity
+fqinjoj | verb | adjoin
+fqinjshëm | adj | neighbouring
+fqollë | noun | first combings of flax; flax beaten and carded; knot of flax; distaff full of flax; fine thread
+fqonkë | noun | cake
+fraç | noun | cord
+fragulloj | verb | char, reduce to ash
+frajis | verb | crush
+francezisht | adv | in French
+francik | noun | twenty-grosh piece

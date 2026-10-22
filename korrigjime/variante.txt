@@ -1231,3 +1231,7 @@ fllaxë | thëllëzë | alternative
 fllig | fëlliq | alternative
 fner | fener | alternative
 foell | fyell | alternative
+# ── Mann 1948 ──
+fiqollë | fqollë | alternative
+fozhnje | foshnjë | alternative
+fqi | fqinj | alternative
