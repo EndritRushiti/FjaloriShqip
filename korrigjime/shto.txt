@@ -48757,3 +48757,43 @@ koce | noun | girl; ray-fish, skate; twisted work, braid, matting, plait
 koceq | noun | rear pommel of a pack-saddle
 kocërr | noun | flat patch, dab, seal
 koci | noun | bone; joint
+# ── mannshto.tsv ──
+kllukë | noun | broody hen; laying, sitting, broody
+kockët | adj | bony, bone-
+kocok | adj | base, vile; poor-quality (of corn)
+koç | noun | ankle; pigtail, plait; pimple; lump or titbit; mouthpiece, holder; one-horned animal; water-buffalo calf
+koçe | noun | finery, decorations
+koçemare | noun | arbutus
+koçere | noun | can, pot, esp. of brass
+koçet | noun | male member
+koçëmish | noun | arbutus
+koçi | noun | coach, carriage; championship-prize
+koçkël | noun | corn-cob, stub of a corn-cob
+koçkoç | adv | one by one from various points
+koqkoq | adv | one by one
+koçkor | noun | ankle
+koçol | noun | undersized maize
+koçomill | adj | farcical; simpleton
+koçopan | adj | stunted, stumpy; stunted person; thicket
+koçorele | noun | spout or mouth of a hopper
+koçume | noun | water-jar, jug, pitcher, ewer; gourd-bottle; night-pot
+kodac | adj | ruptured (of animals)
+kodan | noun | primrose
+kodërlinë | noun | knoll, hillock
+kodërtar | adj | hilly
+kodoc | noun | cock
+kodoshi | noun | lascivity
+kodricë | noun | hill, rise, slope, hillock
+kodruem | adj | hilly
+kodhec | adj | ailing, poor, weakly; plait (of hair, leaves, etc.)
+kofçek | noun | sty; store-cupboard
+kofën | noun | fish-trap of withies
+kofi | noun | basket; crate; hamper; fish-trap of withies, weir-basket
+kofinë | noun | basket; fish-trap
+kofsharë | noun | breeches, trousers; pants; Turkish drawers
+kofshinë | noun | skin placed on the necks of oxen to prevent chafing by the yoke
+kofshtë | noun | garden
+kofshtinë | noun | garden
+koftua | noun | cut corn, cut grain; pearl barley
+kofto | noun | cut corn
+kohanik | adj | middling, medium
