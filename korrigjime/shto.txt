@@ -44725,3 +44725,59 @@ frikanac | adj | cowardly; coward
 frikanjac | adj | cowardly; coward
 frikanjos | adj | cowardly; coward
 frikcoj | verb | frighten
+# ── mannshto.tsv ──
+frikfutës | adj | intimidating; intimidator
+frikim | noun | threat, menace, intimidation
+frikos | verb | frighten
+friksim | noun | threat, intimidation
+friksoj | verb | threaten, intimidate; scare away
+friksohem | verb | be frightened
+fring | adj | brand-new
+fringa | adj | brand-new
+frink | adj | brand-new
+fringëllij | verb | swish, whizz, whir
+fringëlloj | verb | rouse, enflame
+frinjar | noun | near horse in a team
+frishkulloj | verb | mutilate
+frishulnjej | verb | season meat
+frishulloj | verb | season meat
+froj | verb | drive away
+frok | adj | unruly
+froget | adj | unruly
+fronzim | noun | enthronement
+fronzoj | verb | enthrone
+frot | noun | poison, rat-poison
+frotë | noun | pack, gang, crowd, mob, crew
+frotosem | verb | take poison
+fruc | noun | dunce, duffer, idiot, fool; foolish
+fruce | noun | foolish woman
+frudë | noun | lizard
+frudh | noun | measles
+frugë | noun | roof-shingle
+frugëllim | noun | wave, wavy line
+frugëllues | adj | wavy
+frugullër | noun | bonfire
+frujtonj | verb | bear fruit
+frulëtë | noun | scarecrow; a scaring game
+frulliz | verb | snow lightly
+frullizë | noun | snowflake
+fruq | noun | essence
+fruste | noun | attack
+frushëz | noun | riding-whip
+frushkullë | noun | whip, scourge, lash
+frushkullor | adj | rough, wild
+frusht | noun | flogging
+frushullë | noun | whip; fluster, rustle, bustle; whisper
+frushullim | noun | soughing of wind; shuffle of feet; rustle
+frutprurës | adj | fruitful, profitable
+frutsjellës | adj | fruitful, profitable
+frudhi | noun | measles
+fryaq | adj | windy, blowy
+fryce | noun | bellows
+frunj | verb | blow
+fryes | noun | blower; fan; sprayer
+frygë | noun | fear
+frygshëm | adj | terrible
+frykt | noun | fruit
+frymak | adj | spiritual, intellectual
+frymarrës | adj | breathing
