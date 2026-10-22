@@ -46719,3 +46719,44 @@ harapë | noun | tadpole
 harasan | noun | cement
 harbe | noun | temperament, nature, disposition
 harbkeq | adj | malicious, malevolent
+# ── mannshto.tsv ──
+harbutsi | noun | rudeness, vulgarity
+harbzi | adj | malicious, malevolent
+hardallinë | noun | coarse big woman
+hardallis | verb | throw into disorder, disarrange; break up, decompose
+hardallisem | verb | get into disorder; become deranged, go out of one's mind
+hardap | adv | senseless, lifeless, wooden, like a log
+hardiç | noun | gin
+hardhall | noun | mustard
+hardhallis | verb | throw into disorder
+hardhamë | noun | cardamom, cress
+hardhëmë | noun | cardamom, cress
+hardhishkë | noun | water-snake
+hardhlë | noun | lizard
+hardhoj | verb | throw, cast, direct
+harg | noun | bow
+hargull | noun | builder's yard; masonry; wavering, undecided
+hargjele | noun | large red oval plum
+hari | noun | bear
+harij | verb | arrive
+haritë | noun | map
+harkat | noun | veil
+harkate | noun | a dress-material, a mixture of silk and cotton
+harkavile | noun | hoop, bent stick in the ground to fix a trap
+harktar | noun | archer
+harmohem | verb | waste, fall to pieces; wear oneself out, mourn, grieve
+harmush | noun | young rabbit
+haronë | noun | pan, baking-pan
+hart | noun | art; method
+hartëgjeografike | noun | map
+hartis | verb | draft, draw up; compile; draw, sketch; outline; compose, write
+hartojmemênd | verb | imagine
+hartos | noun | rafter
+hartosë | noun | rafter
+harth | noun | spring; safety-catch on a gun
+harup | noun | locust-bean
+harupë | noun | locust-bean
+harvallëri | noun | rascality
+harvalëri | noun | rascality
+harvallinë | noun | rough shed, workshop
+harvallis | verb | ruin, wreck
