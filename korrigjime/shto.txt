@@ -45238,3 +45238,62 @@ gethlëtoj | verb | fondle, stroke
 gexmoj | verb | tap; snap, snatch
 gëbacë | noun | a bird
 gëcim | noun | incitement, urge
+# ── mannshto.tsv ──
+gëgëri | noun | giggle
+gëgëris | verb | giggle
+gëhuqe | noun | chaff, husks
+gëlbaz | verb | infect with rheum
+gëlbojkë | noun | shell
+gëlçoj | verb | extricate sheep from briars
+gëlçomë | noun | stopper
+gëlçomën | noun | stopper
+gëlkos | verb | irritate, tickle
+gëlqerar | noun | lime-slaker
+gëlqerishte | noun | lime-bed
+gëlqertë | adj | lime-, limy, calcium-
+gëlthatër | noun | roasting spit
+gëlvoshë | noun | shell, husk; glume of a maize-cob
+gëvoshkë | noun | shell, husk
+gëlvozhdë | noun | shell, husk
+gëlvozhgë | noun | shell, husk
+gëllij | verb | gargle
+gëlloj | verb | gargle
+gëllqis | verb | plunge
+gëlltim | noun | gulp
+gënuq | noun | hip-bone
+gëndall | noun | pond, marsh
+gënjere | noun | lie
+gënjerë | noun | lie
+gënjeshtrar | adj | lying
+gënjeshtrazi | adv | falsely, deceitfully
+gënjeshtroj | verb | belie
+gëq | verb | chirp; croon, murmur; mum!
+gërballem | verb | live a riotous life
+gërballë | noun | racket, looseness, high living
+gërbue | noun | rake
+gërbulaç | adj | putrid, decayed, rotten
+gërbuloj | verb | putrefy
+gërcelloj | verb | gnash the teeth; snarl
+gërcmoj | verb | poke, prod
+gërçeli | noun | murderer
+gërçmaz | noun | throat
+gërdimë | noun | nausea
+gërdis | verb | nauseate, revulse, repel
+gërditem | verb | feel sick; be repelled
+gërduk | verb | gripe
+gërduq | noun | boon companion, hard drinker, tippler
+gërdha | noun | small fry; slums
+gërdheshem | verb | giggle
+gërdhiç | verb | scrape, scrub
+gërdhisht | verb | scratch, scrape, graze
+gërdhishtje | noun | scratch, scrape, abrasion
+gërdhujë | noun | husks, chaff
+gërdhuskë | noun | husks
+gërdhuzë | noun | husks, chaff
+gërfas | verb | shout
+gërgac | adj | irritating; dull, stupid
+gërgahem | verb | stir, rouse oneself
+gërgalaq | noun | tree-frog
+gërgaleq | noun | tree-frog
+gërgame | noun | incitement, instigation, provocation
+gërgamje | noun | incitement, instigation, provocation

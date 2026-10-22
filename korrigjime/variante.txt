@@ -1269,3 +1269,6 @@ gatishulle | gadishull | alternative
 gajtuaj | gatuaj | alternative
 # ── Mann 1948 ──
 geologji | gjeologji | alternative
+# ── Mann 1948 ──
+gëllqis | zhys | alternative
+gërfas | gërthas | alternative
