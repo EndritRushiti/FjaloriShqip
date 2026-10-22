@@ -47308,7 +47308,7 @@ jashtas | adv | outwardly; from outside
 jashtazit | adv | outwardly
 jashte | noun | the outside; foreign parts
 jashtëme | noun | foreign parts
-jashtëndshëm | adj | extraordinary, unusual
+jashtërendshëm | adj | extraordinary, unusual
 jashtërregullim | noun | irregularity, deviation, exception
 jate | interj | look here!
 jatreps | verb | heal, cure
@@ -47337,3 +47337,36 @@ jeremini | noun | hermitage, solitude, hermit's life; desert
 jereni | noun | incitement
 jeretis | verb | create
 jerkull | noun | precipice, gorge, ravine
+# ── mannshto.tsv ──
+jeroj | verb | wander about
+jestek | noun | cushion, pillow
+jestik | noun | cushion, pillow
+jetëgjatsi | noun | longevity
+jetëmadh | adj | broad, liberal
+jetëngathët | adj | lazy, idle
+jetësjetës | adv | for ever
+jetëshkronjë | noun | biography
+jetëshkurtë | adj | shortlived, ephemeral
+jetëzi | adj | unholy, wicked, benighted, wretched
+jetme | noun | staying, remaining, stop, stoppage
+jetnoj | verb | live; thrive, flourish; experience, live through
+jetosem | verb | get aged, become decrepit
+jetsi | noun | vitality; nature, disposition
+jetsim | noun | vitality
+jetsoj | verb | vitalise
+jetshëm | adj | living, lively; life-, lifelong
+jevgni | noun | Gipsydom
+jevgnisht | adv | settled Gipsy-fashion
+jevgjishte | noun | jargon of settled Gipsies
+jevitem | verb | approach, advance
+jevitje | noun | approach
+jevkë | noun | settled Gipsy woman
+jevre | noun | Jew, Hebrew
+jevreshë | noun | Jewess
+jevrit | noun | Jew
+jezer | noun | cloud of dust
+jezit | noun | rogue, rascal, swine
+jezitsi | noun | rascality, roguery
+jezulloj | verb | stifle
+jidhi | noun | care, solicitude
+jirë | noun | edge, border
