@@ -47296,8 +47296,44 @@ jargzim | noun | salivation
 jargzoj | verb | salivate
 jarickë | noun | pullet, full-grown chick
 jarme | noun | mixture of bran, salt and water fed to goats
-jasejase | conj | either… or
 jaspidhë | noun | jasper
 jastëçkë | noun | little cushion, little pillow
 jastragaç | noun | pastry-board, kneading-board
 jestragaç | noun | pastry-board
+# ── mannshto.tsv ──
+jashabajë | noun | wallflower
+jashapojë | noun | wallflower
+jeshebojë | noun | wallflower
+jashtas | adv | outwardly; from outside
+jashtazit | adv | outwardly
+jashte | noun | the outside; foreign parts
+jashtëme | noun | foreign parts
+jashtëndshëm | adj | extraordinary, unusual
+jashtërregullim | noun | irregularity, deviation, exception
+jate | interj | look here!
+jatreps | verb | heal, cure
+javashëm | adj | slow, gradual; gentle
+javit | verb | approach, advance
+javitem | verb | approach, advance
+javitje | noun | approach, advance
+javo | interj | look! here you are!
+javoka | interj | look! here you are!
+navoka | interj | look!
+javolla | interj | look! here you are!
+jazme | noun | holy water
+jebrik | noun | ewer, pot; watering-can
+jebrig | noun | ewer, pot
+jediç | noun | gelding
+jehim | noun | echo; response
+jehueshëm | adj | echoing
+jekci | noun | conspiracy, defection
+jenar | noun | January
+jepanxh | noun | cloak of red material
+jepk | noun | settled Gipsy
+jepkë | noun | settled Gipsy girl or woman
+jeprak | noun | risotto wrapped in leaves
+jeremi | noun | hermit
+jeremini | noun | hermitage, solitude, hermit's life; desert
+jereni | noun | incitement
+jeretis | verb | create
+jerkull | noun | precipice, gorge, ravine
