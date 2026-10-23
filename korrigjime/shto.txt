@@ -54028,3 +54028,55 @@ nduget | verb | ripens and dries (of fruit)
 ndugët | adj | ripened and dry, matured
 nduhtë | noun | news
 ndujket | verb | ripens and dries (of fruit)
+# ── mannshto.tsv ──
+nduç | noun | resin (for removing hairs)
+ndukës | adj | depilatory
+nduknme | noun | plucking, depilation
+ndullem | verb | be faint (with hunger)
+ndulltër | noun | tartar
+ndyç | adv | until, up to
+ndyto | adv | until, up to
+ndyem | noun | colour, tint, ink
+ndyesi | noun | dirt, filth; excrement
+ndyket | verb | ripens and dries (of fruit)
+ndykët | adj | ripened and dry
+ndylket | verb | ripens and dries (of fruit)
+ndymë | adj | dirty
+ndynës | noun | defiler, fornicator
+ndynsi | noun | filth, dirt; adultery
+ndynsinë | noun | filth, dirt
+ndynjës | noun | defiler; defiling
+ndyr | verb | soil, defile
+ndyrac | adj | filthy; slut, dirty wretch
+ndyraq | adj | filthy
+ndyraviq | adj | filthy
+ndyrës | adj | defiling; defiler, fornicator
+ndyros | verb | soil, defile
+ndyrsirë | noun | filth
+ndysi | noun | filth, dirt, impurity, waste
+ndysinë | noun | filth, dirt
+ndyskeq | noun | disturber, mischief-maker
+ndyshkeq | noun | disturber, mischief-maker
+ndysh | adv | double, twofold
+ndyshëm | adj | sickening, abominable
+ndyshi | noun | suspicion
+ndyshim | noun | doubt
+ndyshk | noun | unsevered bone-splinter or chip of wood; pneumonia
+ndyt | verb | loathe
+ndytsi | noun | filth; refuse
+ndytsinë | noun | filth; refuse
+ndhez | verb | kindle
+neft | noun | crude oil; naphtha
+neftiak | adj | oil-, naphthalic
+negonj | verb | deny, renounce
+neis | noun | wart; callouse
+nej | noun | joint, knot
+nenjë | noun | joint, knuckle; knot
+nejshëm | adj | jointed; with the particle (gram.)
+nejz | noun | joint; knuckle; knot (in wood); wart, callouse
+nek | prep | towards (of persons); in; to
+nemangu | adv | at least
+nembrâm | adv | at last
+nemcoj | verb | make dumb
+nemenc | adj | dumb
+nemis | verb | strike dumb; dumbfound
