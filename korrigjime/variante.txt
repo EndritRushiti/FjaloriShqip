@@ -1287,3 +1287,9 @@ lihoni | lehoni | alternative
 likund | lëkund | alternative
 limoshën | lëmoshë | alternative
 limozën | lëmoshë | alternative
+# ── Mann 1948 ──
+liqer | liqen | alternative
+liqendis | leqendis | alternative
+liraskë | laraskë | alternative
+lirsi | liri | alternative
+listerik | leshterik | alternative

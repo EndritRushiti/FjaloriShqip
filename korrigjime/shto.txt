@@ -50961,3 +50961,53 @@ lindjak | adj | eastern, oriental; son, offspring
 lindsi | noun | kind, genus, gender
 lindshëm | adj | inborn, innate
 lindtore | noun | genitive
+# ── mannshto.tsv ──
+lingarthë | noun | chickenpox
+lingëri | noun | skirmish
+lingëroj | verb | skirmish
+lintë | adj | linen
+linushë | noun | flax
+linjëz | noun | shirt
+linjyrë | noun | wound, scratch, laceration
+lios | verb | pockmark, pit
+liosur | adj | pockmarked, pitted
+lipacak | noun | beggar; begging
+liparak | adj | begging; beggar
+lipës | noun | beggar; begging
+lipis | verb | pity
+lipisi | noun | pity, mercy, kindness; melancholy
+lipësi | noun | pity, mercy, kindness
+lipisjar | adj | pious, holy; merciful
+lipisur | adj | sad
+lipsan | noun | corpse
+lipsar | adj | begging; beggar
+lipscar | adj | begging; beggar
+lipsëm | adj | needy
+lipsi | noun | need, poverty; compassion, pity
+lipsje | noun | need
+lipsur | adj | needed
+lipush | noun | glume
+lipushkë | noun | glume
+liqer | noun | 
+liqejzë | noun | north wind from Lake Scutari
+liqendis | verb | 
+liqeth | noun | tarn, mountain lake
+liqos | verb | hire out, let; hire
+liraskë | noun | 
+lirate | noun | leisure, freedom, slackness, convenience
+lirek | noun | swaddled infant
+liridashuri | noun | love of liberty
+lirimtar | adj | liberating; liberator
+liriprues | adj | freedom-bringing, liberating; liberator
+lirishkelës | adj | oppressive, tyrannical; tyrant
+lirishtypës | adj | oppressive, tyrannical; tyrant
+liritar | adj | freedom-, liberal
+lirsi | noun | 
+lisan | noun | jargon, gibberish
+lisëm | noun | stony field; clay
+lisgavis | verb | flood
+lisk | noun | tongue (of bell)
+lisni | noun | oak-wood; nursery, plantation
+lisnore | noun | copse
+lisoparth | noun | leaf-mould
+listerik | noun | 
