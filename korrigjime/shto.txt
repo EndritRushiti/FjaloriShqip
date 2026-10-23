@@ -53866,3 +53866,40 @@ ndërvlis | verb | squeeze
 ndërzihem | verb | 
 ndëvonë | adv | at length
 ndi | adv | on the hips, on the sides; side, hip
+# ── mannshto.tsv ──
+ndiejtshëm | adj | perceptible, sensible
+ndiell | verb | entice, lure, coax, call to (an animal)
+ndiellje | noun | charm, attraction, fascination
+ndienjak | adj | sentimental
+ndienjë | noun | conscience, consciousness
+ndierkaq | adv | meanwhile
+ndierse | adv | while
+ndiersem | verb | sweat
+ndies | adj | sensitive, sensory
+ndiesë | noun | pardon
+ndiesi | noun | feeling
+ndiestar | adj | indulgent
+ndietë | adj | dirty, foul
+ndifëm | noun | aid, help
+ndifme | noun | aid, help
+ndime | noun | aid, help; fund
+ndimues | adj | auxiliary; assistant, helper
+ndiji | noun | feeling, sentiment
+ndijsi | noun | feeling, sense, sensation
+ndikuroj | verb | interest, concern; bother about
+ndimduers | noun | instrument
+ndimëz | noun | help, aid
+ndirëz | noun | linen, laundry
+ndirsem | verb | sweat
+ndishëm | adj | sensitive; of the senses; obedient; audible; stale (of bread)
+ndishkë | noun | chip (of bone or wood)
+ndishkues | adj | reproving, salutary; chider
+nditshëm | adj | dirty; rancid
+ndivnac | adj | prophetic; prophet
+ndivnar | noun | prophet, soothsayer
+ndivnesë | noun | prophecy, oracle
+ndivneshë | noun | fortune-teller
+ndivnim | noun | prophecy; guess
+ndivnoj | verb | prophesy
+ndjef | verb | be, find oneself
+ndjeh | verb | be, find oneself
