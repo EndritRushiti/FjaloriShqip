@@ -51223,3 +51223,56 @@ lustrinë | noun | patent leather
 lusur | adj | holy (day)
 lutër | noun | 
 lutjeshkrues | noun | writer of petitions or applications
+# ── mannshto.tsv ──
+bubunjëz | noun | water snake
+luturis | verb | bespatter, beslobber
+luturisem | verb | wallow
+luvadh | noun | 
+luvath | noun | 
+luvari | noun | laurel
+luvgji | noun | voracity, greed
+luzionë | noun | illusion
+lvere | noun | 
+lvore | noun | 
+lvorë | noun | 
+lvyr | verb | 
+lyce | noun | secondary school, high school
+lyejtun | adj | smeared, anointed
+lyejës | noun | painter, decorator
+lyeshtër | noun | steep slope, scree
+lyktyrë | noun | band, bandage
+lylyshtrydhe | noun | wild strawberry
+lylyshtrydhë | noun | wild strawberry
+lylyver | noun | rainbow
+lylyvertë | adj | iridescent; gay, bright
+lymë | noun | mud; alluvium; ointment; file
+lymje | noun | shoe polish
+lymnishtë | noun | mudbed
+lymore | noun | mudbed, mudpit
+lypanjar | adj | begging; beggar
+lypc | noun | beggar
+lypcë | noun | beggar woman
+lypcarak | noun | beggar; begging
+lypem | verb | need, lack
+lypinj | verb | 
+lypjetë | noun | 
+lypsëm | adj | needful, necessary, wanted, desirable
+lypsi | noun | begging
+lyqerë | noun | lamp, lantern
+lyrdhëz | noun | wart
+lyrek | noun | (baby's) binder, body-band
+lyrem | verb | wallow
+lyrëm | adj | greasy, dirty
+lyrët | adj | greasy, dirty
+lyros | verb | grease, smear; soil, dirty
+lyrsi | noun | greasiness
+lyrtë | adj | greasy, dirty
+lyspë | noun | peel, peeling, paring; shell, glume, follicle
+lyspis | verb | pare, peel, strip, shell
+lystër | noun | savoury (herb)
+lyzhdër | noun | alluvium
+llabod | noun | orach
+llabudë | noun | orach
+llacka | noun | balustrade
+llacore | noun | New Year's gift
+llaçkatem | verb | turn flat, turn insipid

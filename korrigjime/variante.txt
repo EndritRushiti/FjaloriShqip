@@ -1323,3 +1323,13 @@ luk | lug | alternative
 # ── Mann 1948 ──
 lupushkë | lëpushkë | alternative
 lutër | flutur | alternative
+# ── Mann 1948 ──
+bubunjëz | lyrdhëz | alternative
+luvadh | livadh | alternative
+luvath | livadh | alternative
+lvere | lëvere | alternative
+lvore | lëvore | alternative
+lvorë | lëvore | alternative
+lvyr | lëvyr | alternative
+lypinj | lyp | alternative
+lypjetë | lëpjetë | alternative
