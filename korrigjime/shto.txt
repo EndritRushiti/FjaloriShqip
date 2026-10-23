@@ -51970,7 +51970,6 @@ mbjatuer | noun | stamp, marker (esp. for shewbread)
 # ── mannshto.tsv ──
 mbledhët | adj | massed, gross, aggregate; covered
 mbledhsi | noun | assembly
-mbleràk | adj | greenish
 mblerim | noun | verdure, foliage, greenery; glade; blossoming forth
 mbleroj | verb | be verdant, come into leaf; bloom, blossom forth
 mblertë | adj | green, verdant
@@ -52023,3 +52022,5 @@ mbrapaveprues | adj | retroactive
 mbrapëm | adj | last; hind, rear
 mbrapme | noun | end
 mbrapët | adj | reversed, muddled
+# ── mannshto.tsv ──
+mblerak | adj | greenish
