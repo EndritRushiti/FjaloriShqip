@@ -1807,3 +1807,6 @@ ndëreq | ndreq | alternative
 # ── Mann 1948 ──
 ndërsoj | ndërsej | alternative
 ndërzihem | mbërzihem | alternative
+# ── Mann 1948 ──
+ndoi | ndonjë | alternative
+ndojherë | ndonjëherë | alternative

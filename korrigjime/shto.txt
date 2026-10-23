@@ -53903,3 +53903,51 @@ ndivnim | noun | prophecy; guess
 ndivnoj | verb | prophesy
 ndjef | verb | be, find oneself
 ndjeh | verb | be, find oneself
+# ── mannshto.tsv ──
+ndjejshëm | adj | pardonable
+ndjekoj | verb | court, woo
+ndjekse | noun | fighter-plane
+ndjekshëm | adj | liable to prosecution
+ndjektar | noun | follower, pursuer; persecutor
+ndjekure | noun | persecution
+ndjellkë | noun | decoy
+ndjellme | noun | decoy
+ndjenjak | adj | sentimental
+ndjenjkë | noun | feeling
+ndjenjsi | noun | sentiment
+ndjers | verb | sweat
+ndjersem | verb | sweat
+ndjesëpastë | interj | may he receive grace
+ndjesoj | verb | feel, sense, perceive
+ndjet | adj | vile, beastly, sickening
+ndjyerë | adj | late, deceased
+ndobare | adv | at least
+ndobarem | adv | at least
+ndocá | pron | some, a few, a little, one or two; somewhat
+ndodhuna | noun | history, the past
+ndofëll | noun | hazelnut
+ndofulle | noun | hazelnut
+ndoftaj | adv | perhaps, probably, maybe
+ndoh | verb | defile, dirty
+ndohët | adj | dirty, foul
+ndoht | verb | foul, defile
+ndohtë | adj | foul, dirty
+ndohtje | noun | loathing
+ndohtsi | noun | filth, foulness
+ndohtsirë | noun | filth, foulness
+ndohtur | adj | foul, dirty
+ndoi | pron | 
+ndojherë | adv | 
+ndojsend | pron | something, anything
+ndojkë | noun | elevated plain, upland
+ndokan | pron | somebody
+ndomos | conj | although
+ndonjâ | adv | about, approximately
+ndonjâni | pron | someone, anyone, some, any
+ndonjihersh | adv | of old, formerly
+ndonjihershëm | adj | former, erstwhile
+ndonjipak | adv | a little; at least
+ndoqë | conj | although
+ndora | adv | for a short while, for a moment
+ndoretar | noun | patron, protector
+ndohtem | verb | get dirty
