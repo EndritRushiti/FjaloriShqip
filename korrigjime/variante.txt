@@ -1658,3 +1658,10 @@ mirimangë | merimangë | alternative
 miroj | miratoj | alternative
 mirsardhje | mirëseardhje | alternative
 mirseardhje | mirëseardhje | alternative
+# ── Mann 1948 ──
+mirsim | përmirësim | alternative
+misnatë | mesnatë | alternative
+misrishte | misërishte | alternative
+mistër | misër | alternative
+mishqerë | mëshqerrë | alternative
+mishtjerrë | mëshqerrë | alternative

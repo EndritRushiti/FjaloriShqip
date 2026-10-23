@@ -52762,4 +52762,66 @@ mirni | noun | good, goodness, benefit
 miroj | verb | 
 mirosëm | noun | confirmation
 mirsardhje | noun | 
-mirseardhje | noun | 
+mirseardhje | noun |
+# ── mannshto.tsv ──
+mirsi | noun | goodness, kindness
+mirsim | noun | 
+mirsishëm | adj | kindly, well-disposed
+mirshëm | adj | obliging, courteous
+miru | noun | handle of knife, haft
+mirudishëm | adj | fit, capable, suitable
+mirudhi | noun | incense, perfume
+mirudhis | verb | perfume
+mirre | noun | myrrh
+mirrtë | adj | of myrrh
+misardhje | noun | welcome
+misarth | verb | welcome
+misditë | noun | lunch, dinner
+miserdhe | noun | welcome
+misere | noun | wallflower
+misërçyçe | noun | wallflower
+misërnikë | noun | maize-cake
+misërt | adj | maize-, corn-
+misirës | adj | Egyptian
+miskël | noun | toilet, make-up
+miskërronjë | noun | anthill
+miskoj | verb | bamboozle
+miskohem | verb | make up, perform one's toilet
+miskodel | adj | muscatel (grape)
+miskojë | noun | gnat
+miskojzë | noun | gnat
+misnatë | noun | 
+misqe | adj | muscatel (grapes)
+misrishte | noun | 
+misrok | noun | turkey, turkey-cock
+misrroke | noun | turkey-hen
+mistrok | noun | turkey, turkey-cock
+misteri | noun | mystery
+mistër | noun | 
+mistrishe | noun | maize-cob
+mistros | verb | plaster (with a trowel)
+misur | noun | earthen pan, dish, bowl
+mishatak | adj | fleshy, meaty
+mishac | adj | fleshy, meaty
+mishdredhe | noun | strawberry
+mishelesh | noun | bungling
+misherirë | noun | pity
+misherirshëm | adj | merciful
+misherier | noun | mercy, pity
+mishërt | adj | flesh-
+mishëforte | noun | gizzard
+mishnohem | verb | turn to flesh; be incarnated; become human; put on flesh
+mishnje | noun | moss on trees, lichen; seaweed
+mishnjë | noun | moss on trees, lichen; seaweed
+mishqerë | noun | 
+mishrir | noun | mercy, pity
+mishrirë | noun | mercy, pity
+mishrirshëm | adj | merciful, pitying
+mishroj | verb | pity
+mishtak | adj | fleshy, meaty
+mishtjerrë | noun | 
+mishtoj | verb | embody, incorporate, incarnate
+mishzoj | verb | fatten
+mishzohem | verb | put on flesh
+mitavan | noun | garret
+mitëm | adj | spoilt, soft, effeminate
