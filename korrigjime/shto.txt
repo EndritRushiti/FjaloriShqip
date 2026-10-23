@@ -53549,3 +53549,73 @@ mvarsi | noun | dependence
 mvarshëm | adj | dependent, attached
 mvartës | adj | dependent, attached
 mvehtsi | noun | character, personality; characteristics; independence
+# ── mannshto.tsv ──
+mvelem | verb | be sated, be satisfied
+mverdh | verb | turn yellow
+mverdhet | verb | turns yellow
+mvesh | verb | don, put on
+mvishem | verb | dress oneself
+mveshëm | adj | clothed, clad
+mveshje | noun | garment, dress; garb, gear, equipment; casing, covering, facing, coating
+mvetsi | noun | 
+mvidhje | noun | envy
+mvitshëm | adj | annual
+mvjedh | verb | 
+mvjedharash | adj | thievish
+mvjerr | verb | 
+mvras | verb | 
+mvrehje | noun | clouding over; frown, scowl
+mvrehem | verb | cloud over; scowl
+mvrej | verb | cloud over, overcast; frown
+mvrejtur | adj | cloudy; frowning, forbidding, surly
+mvrojtur | adj | cloudy; frowning, surly
+mxoj | verb | snarl; hate
+mye | noun | hardwood, medulla
+myet | adj | hard (of wood)
+mygëz | noun | gangrene, canker; blight in onions
+myhyrlatis | verb | seal
+myhyrlis | verb | seal
+myhyrtar | noun | Lord Privy Seal
+myjet | adj | seasoned, hard
+mykël | noun | back edge of knife
+mykëm | adj | mildewed
+mykët | adj | mildewed; dry-as-dust
+mykëz | noun | ulcer; blight in onions
+myklohet | verb | gets mouldy
+mykonet | verb | gets mouldy
+mykoset | verb | gets mouldy
+mykzehem | verb | turn musty, fade, turn pale
+mykzohem | verb | turn musty, fade, turn pale
+mykzyem | adj | musty, mouldy
+mylmej | verb | flavour with oil and butter
+mylmoj | verb | flavour with oil and butter
+myllës | noun | cork, stopper
+myndrehem | verb | turn pale
+myndryhem | verb | turn pale
+mynxyrosur | adj | wretched, miserable
+mynxyrtar | adj | tyrannical, dastardly
+myqe | noun | back edge of knife
+myr | noun | dead skin, hard skin
+myrat | noun | myrrh
+myringë | noun | tamarisk
+myrikë | noun | tamarisk
+myrtisem | verb | cover the face
+myrrë | noun | myrrh
+mysk | noun | musk (perfume)
+myskadel | noun | muscatel grape
+miskadel | noun | muscatel grape
+myskël | noun | muscle
+myster | noun | mystery
+mysterishëm | adj | mysterious
+myshamanjët | adj | waterproof
+myshevinë | noun | cheese curd, cream cheese
+myshkëroj | verb | perfume with musk
+myshkëz | noun | sheep-louse
+myshnje | noun | moss; lichen
+myshtë | noun | moss
+mytil | noun | mussel
+myxyrë | noun | 
+myz | noun | ditch, hollow, fold of earth, furrow
+myzët | adj | prying, sneaking
+myzgë | noun | necrosis
+mzirë | noun | symptom
