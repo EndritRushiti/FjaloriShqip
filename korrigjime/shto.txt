@@ -50483,3 +50483,55 @@ laskë | noun | magpie
 laskër | noun | growth, tumour
 laskundër | noun | bat (animal)
 lasore | noun | laundry, wash-house
+# ── mannshto.tsv ──
+laspërohem | verb | be slatternly
+lastik | noun | elastic; tyre
+lastikë | noun | elastic
+lastikët | adj | elastic; rubbery, springy
+lastikshëm | adj | elastic
+lastoj | verb | caress, vitiate, spoil
+lastrok | adj | boorish, coarse; boor, wretch
+lastruk | noun | boor
+lastuk | noun | tuft, crest
+lashkavar | adj | slovenly, sloppy
+lashkë | noun | roach (fish); wooden pot; magpie
+lashtëri | noun | antiquity
+lashtni | noun | early times, antiquity
+lashtsi | noun | antiquity
+latër | noun | thief, robber; bier, carrier, sedan chair
+latisht | adv | in Latin
+laticë | noun | small axe
+latineshë | noun | European woman, Catholic woman
+latinërisht | adv | Latin, in Latin; Italian fashion, Catholic fashion
+latinkë | noun | European woman, Catholic woman
+latirë | noun | swill, waste
+latore | noun | small axe, adze
+latugë | noun | lettuce
+latunkë | noun | lettuce
+latuk | noun | tassel
+latur | noun | boor
+laturës | noun | boor
+laturi | noun | mess, bad work, bungling
+latush | noun | trimmer, shaping-up tool in the form of an adze
+latushkë | noun | trimmer, adze
+lathi | noun | mistake, error
+lathim | noun | mistake, error
+lathis | verb | mistake; forget; lose one's head
+lathitem | verb | go wrong, be mistaken
+lathitur | adj | wrong, mistaken
+laud | noun | praise
+laudçar | noun | braggart
+lauroj | verb | plough
+lavare | noun | noose, hangman's rope
+lavarim | noun | hanging, strangling
+lavaroj | verb | hang
+lavçar | noun | braggart
+lavdçar | adj | swaggering; braggart
+lavdim | noun | praise
+lavdimtar | adj | laudatory; praiser
+lavduri | noun | praise
+lavduroj | verb | praise
+lëvduroj | verb | praise
+lëvdëroj | verb | praise
+laver | noun | aide-de-camp
+lavë | noun | crowd, pack, gang
