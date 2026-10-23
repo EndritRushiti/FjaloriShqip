@@ -53392,3 +53392,52 @@ mundërshëm | adj | filthy
 mundës | adj | winning, victorious; winner, victor, conqueror
 mundështir | noun | 
 mundimët | adj | trying, troublesome, toilsome, laborious
+# ── mannshto.tsv ──
+mundonj | verb | 
+mundojë | noun | victory
+mundtar | adj | toilworn; labourer
+mundryem | adj | filthy
+mundsi | noun | possibility; authority, right
+mundsisht | adv | 
+mundsimeni | noun | possibility
+mundsitar | adj | toiling; toiler, labourer; champion; winner, victor
+munestir | noun | 
+munëg | noun | monk
+mungade | noun | monastery; parish
+mungarac | adj | dumb
+munëgeshë | noun | nun
+mungeshë | noun | nun
+mungër | adj | dumb
+mungicë | noun | necessity, lack, dearth; need; absence
+mungim | noun | necessity, lack, dearth; need; absence
+mungore | noun | 
+mungtar | adj | monastic; monk
+mungullon | verb | shoots, buds, sprouts
+mungullore | noun | plant-life, vegetation
+munshtir | noun | 
+munshtoj | verb | reprove
+munxar | adj | poor
+munxyrë | noun | 
+muq | adv | higgledy-piggledy
+muqe | noun | obstacle
+muraj | noun | branding-iron
+murajë | noun | 
+murak | noun | lark
+murash | adj | grey, drab
+muratar | noun | mason, bricklayer
+murdhizet | verb | grows dusk, gets dark
+murenë | noun | lamprey
+murët | adj | grumpy, cross
+murgatoj | verb | make miserable
+murgri | noun | nunnery, convent life
+murgsi | noun | greyness, drabness; monastic life
+murgtar | noun | monk
+murgtinë | noun | greyness, darkness
+murgtore | noun | nunnery, convent
+murgullicë | noun | docility
+murgulloj | verb | darken, turn brown
+murgjine | noun | dun cow
+murgjinë | noun | boarding-house
+murgjullinë | noun | cloud, pother
+murinë | noun | rafter
+murishte | noun | wall, rampart; ruined wall

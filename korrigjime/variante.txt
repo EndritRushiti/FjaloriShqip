@@ -1761,3 +1761,11 @@ mulljë | mëllenjë | alternative
 mullnjë | mëllenjë | alternative
 mumend | minutë | alternative
 mundështir | manastir | alternative
+# ── Mann 1948 ──
+mundonj | mundoj | alternative
+mundsisht | mundësisht | alternative
+munestir | manastir | alternative
+mungore | mëngore | alternative
+munshtir | manastir | alternative
+munxyrë | mynxyrë | alternative
+murajë | maraj | alternative
