@@ -50907,3 +50907,57 @@ ligjënim | noun | attestation
 ligjënoj | verb | attest, confirm, legalise
 ligjërese | noun | declamation
 ligjërimtar | noun | speaker
+# ── mannshto.tsv ──
+ligjërtar | noun | speaker, orator
+ligjërsi | noun | legality, legitimacy
+ligjërsim | noun | legalisation
+ligjërsoj | verb | legalise, legitimise
+ligjështyrë | noun | legislature
+ligjidhânës | noun | 
+ligjiratë | noun | 
+ligjirojë | noun | dialect
+ligjohem | verb | resort to law, justify oneself
+ligjorim | noun | legalisation
+ligjoroj | verb | legalise
+ligjtar | noun | legislator; legal expert, lawyer
+ligjues | adj | legislative
+lihanzë | noun | caraway seed
+lihoni | noun | 
+lihudhjar | adj | gastronomic, gluttonous; gastronome, glutton
+likarthë | noun | chickenpox
+likenë | noun | lichen
+likogjone | noun | loin; kidneys, lumbar regions
+likojë | noun | marsh
+likoq | noun | animal with one testicle
+likore | noun | crust of bread
+likostër | noun | crust of bread
+liksi | noun | cowardice; evil
+liksoj | verb | sicken; fall ill
+likund | verb | 
+likuor | noun | liqueur
+liliçkë | noun | pendant, trinket
+liling | noun | child's rattle
+lilingosh | noun | toy, rattle
+lilje | noun | lily
+lilth | noun | pendant, bob; uvula
+limac | noun | grey horse
+limb | noun | dungeon; margin of leaf
+limbë | noun | plate, platter
+limonjer | noun | idler
+limos | verb | file
+limosje | noun | filing, polishing
+limosur | adj | filed, polished, smooth
+limoshën | noun | 
+limozën | noun | 
+limoznjar | noun | almsgiver; almsgiving
+limozhdra | noun | filings
+limuet | adj | smooth
+limurinë | noun | iron filings
+limurishtë | noun | iron filings
+linaz | noun | deep standing water
+linçuoll | noun | shroud
+lindër | noun | flash, twinkling of an eye
+lindjak | adj | eastern, oriental; son, offspring
+lindsi | noun | kind, genus, gender
+lindshëm | adj | inborn, innate
+lindtore | noun | genitive

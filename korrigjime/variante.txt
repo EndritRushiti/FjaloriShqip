@@ -1280,3 +1280,10 @@ grukë | grykë | alternative
 aliq | haliq | alternative
 # ── Mann 1948 ──
 kanbë | këmbë | alternative
+# ── Mann 1948 ──
+ligjidhânës | ligjëdhânës | alternative
+ligjiratë | ligjëratë | alternative
+lihoni | lehoni | alternative
+likund | lëkund | alternative
+limoshën | lëmoshë | alternative
+limozën | lëmoshë | alternative
