@@ -50535,3 +50535,48 @@ lëvduroj | verb | praise
 lëvdëroj | verb | praise
 laver | noun | aide-de-camp
 lavë | noun | crowd, pack, gang
+# ── mannshto.tsv ──
+lavim | noun | blow, wound
+lavime | noun | blow, wound
+lavinë | noun | avalanche
+lavirem | verb | hang down, droop
+lavis | verb | hit, strike, wound
+lavjerc | noun | pendant, chain (of flowers); pendulum
+lavjerth | noun | pendulum; plumb-line, bob
+lavjerr | verb | hang, suspend, dangle; hang (a person)
+lavjerrë | noun | waterfall
+lavos | verb | wound
+lavreshë | noun | lark
+lavri | noun | study
+lavrim | noun | ploughing, tilling, cultivation; upbringing; study; rearing (of stock); polishing, refining
+lavroshë | noun | lark
+lavrues | noun | ploughman; polisher, refiner; working, improving
+lavrushkë | noun | vine
+lavuris | verb | rave
+lavurisem | verb | rave
+lazhdë | noun | bandit
+lazhdoj | verb | rob, plunder
+laznoj | verb | fondle, spoil
+lazroj | verb | fondle, spoil
+lbardhem | verb | turn white, pale; get light
+lebet | noun | fright, terror; horror, calamity; roaring, moaning, wailing
+lebetij | verb | tremble, shudder; roar (of streams); wail, moan, groan
+lebetis | verb | tremble, shudder; roar; wail
+lebetitës | adj | alarming, terrifying; calamitous, woeful, tragic
+lebetitshëm | adj | alarming, terrifying
+lebrë | noun | leprosy
+lebrosh | adj | leprous
+lec | adj | fruitful, fertile, abundant
+leckapan | adj | ragged
+leckatar | adj | ragged
+leckët | adj | ragged; overburdened
+lecoj | verb | lighten; read
+leçenik | noun | maize-bread made with water
+leçi | noun | ban, bann, order, proclamation
+leçikë | noun | lettuce
+leçitar | noun | reader, lecturer
+leçitës | noun | herald, announcer, broadcaster; reader
+leçitje | noun | proclamation; reading
+leçitshëm | adj | legible
+ledij | verb | defeat, lay low, raze to the ground
+ledhatos | verb | flatter, caress
