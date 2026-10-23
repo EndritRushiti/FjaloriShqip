@@ -50110,3 +50110,43 @@ kuqrrisem | verb | turn red
 kuqrrisun | adj | reddish
 kuqsi | noun | red, redness
 kuqsirë | noun | red, redness
+# ── mannshto.tsv ──
+kuqulore | noun | red mushroom (amanita muscaria)
+kuqunare | noun | poppy
+kuqurrik | adj | bay (horse)
+kuqverdhë | adj | orange (coloured)
+kurashtu | adv | even so, all the same
+kurazë | noun | turn; roll, register; line, row, series; string (of beads)
+kurbatkë | noun | Gipsy girl or woman
+kurbullë | noun | hopper (of a mill)
+kurdaris | verb | contribute to household expenses
+kurdhuvan | noun | cordwain
+kureshtëm | adj | curious
+kurit | noun | trough, bathtub
+kurkulosem | verb | sit on (eggs); nestle down
+kurkulloj | verb | wait for, expect
+kurkullohem | verb | wait for
+kurkuvajë | noun | owl
+kurkuvikë | noun | hut, shack
+kurkuviq | adj | crouching, squatting
+kurmëpishi | noun | resinous pinewood
+kurmëri | noun | form, stature, build
+kurmërisht | adv | bodily
+kurmoj | verb | cut up, slice up
+kurmore | noun | mortuary
+kurmth | noun | little body
+kurmzoj | verb | slice up, disfigure, maim
+kurunac | noun | miser
+kurnos | adj | clever, shrewd
+kuromë | noun | body
+kuron | noun | crown; crown (of a tooth)
+kuronë | noun | crown
+kuronoj | verb | crown
+kurontinë | noun | quarantine
+kurpnaje | noun | bryony, snakeweed
+kurpneshë | noun | bryony
+kurpnishtë | noun | place overgrown with bryony or creeper; hopfield
+kursar | noun | pirate, bandit
+kursareshë | noun | woman bandit
+kurcej | verb | save, spare
+kursesi | adv | by no means
