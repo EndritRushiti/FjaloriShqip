@@ -1823,3 +1823,8 @@ nëkurrgjâ | kurrgjë | alternative
 nëmër | numër | alternative
 # ── Mann 1948 ──
 ngarmoj | ngërmoj | alternative
+# ── Mann 1948 ──
+ngatrresë | ngatërresë | alternative
+ngatrrestar | ngatërrestar | alternative
+ngatrrim | ngatërrim | alternative
+ngatrroj | ngatërroj | alternative

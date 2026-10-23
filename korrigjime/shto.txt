@@ -54271,4 +54271,47 @@ ngarje | noun | running, race
 ngarkac | noun | stick for loading pack-animals
 ngarkaçe | noun | stick for loading pack-animals
 ngarkonjës | noun | loader, stevedore
-ngarmoj | verb | 
+ngarmoj | verb |
+# ── mannshto.tsv ──
+ngarrim | noun | hitch, check, handicap, hindrance
+ngarritem | verb | dally, loiter, idle, amuse oneself, waste time
+ngasër | noun | cake
+ngaskeq | noun | trigger; frog of violin bow; nuisance, bugbear
+ngassi | noun | race, rush
+ngashëritje | noun | emotion
+ngashëryes | adj | touching, moving
+ngashnej | verb | swallow, gulp
+ngashnjej | verb | incite, impassion, rouse, spur on, encourage; grip, seize; move, affect
+ngashnim | noun | concern, apprehension
+ngashnoj | verb | concern, put about
+ngashrohem | verb | be moved, be touched
+ngashrueshëm | adj | troublesome, torturing, agonising
+ngat | prep | near
+ngatërrac | noun | disturber; disturbing
+ngatrrac | noun | disturber; disturbing
+ngatrrecë | noun | difficulty, complication, tangle, muddle
+ngatrresë | noun | 
+ngatrrestar | noun | 
+ngatrri | noun | confusion, muddle, intrigue
+ngatrrim | noun | 
+ngatrrimqar | adj | mischief-making; mischief-maker
+ngatrroj | verb | 
+ngatrrohem | verb | clamber; get entangled, be involved
+ngatrrues | adj | mischief-making; mischief-maker
+ngatrrueshëm | adj | involved, complicated, intricate
+ngathem | verb | grow numb, grow stiff, deaden
+ngathtas | adv | clumsily; slothfully, idly
+ngathti | noun | stiffness, clumsiness, awkwardness
+ngavjet | adv | annually
+ngazullim | noun | joy, merriment, exultation
+ngazitem | verb | jest, joke
+ngdhihet | verb | it dawns
+ngé | noun | time, leisure, leave, chance, opportunity
+ngehshëm | adj | convenient
+ngelac | adj | hesitant, slothful, sluggish, indolent; idler, lazybones
+ngelaq | adj | hesitant, slothful, sluggish; idler
+ngelis | verb | press, oppress; impress, print
+ngerc | noun | crab
+ngerç | noun | cramp, stiffness
+ngerçem | verb | grow numb, get cramp
+ngermë | noun | taunt
