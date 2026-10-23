@@ -53355,3 +53355,40 @@ muhatem | verb | swell
 muhavis | verb | swell, inflate
 muhavitem | verb | swell
 muhtë | adv | gratis, for nothing
+# ── mannshto.tsv ──
+mujtës | noun | conqueror, winner
+mujtsi | noun | possibility
+muli | noun | mould, mildew
+mulidhë | noun | 
+mulikare | adv | with determination, definitely
+mulitë | noun | moth
+mulmesë | noun | cheese-wash; buttermilk
+mulmoj | verb | churn
+mulocë | noun | 
+mulojë | noun | 
+mulos | verb | mould; manipulate, squeeze
+mulshi | noun | 
+mullan | noun | misery, grievance
+mullarth | noun | trendle (of millstone)
+mullcë | noun | 
+mullej | noun | 
+mullevez | noun | cheat, deceiver
+mullez | noun | 
+mullërçuk | adj | pot-bellied
+mullmadh | adj | stout
+mullc | noun | miller
+mulljë | noun | 
+mullnar | noun | miller
+mullnjë | noun | 
+mullisak | noun | miller
+mullosh | adj | pot-bellied, fat
+mullojë | noun | white and red cow, roan cow
+mulluge | noun | scar, mark
+mumend | noun | 
+mumi | noun | mummy
+munabare | adv | at least
+mundçar | adj | hardworking; tiresome
+mundërshëm | adj | filthy
+mundës | adj | winning, victorious; winner, victor, conqueror
+mundështir | noun | 
+mundimët | adj | trying, troublesome, toilsome, laborious

@@ -1749,3 +1749,15 @@ mshtiell | mbështjell | alternative
 mshtyj | pështyj | alternative
 mshtymë | pështymë | alternative
 muçkë | mushkë | alternative
+# ── Mann 1948 ──
+mulidhë | molivë | alternative
+mulocë | mbulojcë | alternative
+mulojë | mbulonjë | alternative
+mulshi | mëlçi | alternative
+mullcë | mullëz | alternative
+mullej | mëllenjë | alternative
+mullez | mëllezë | alternative
+mulljë | mëllenjë | alternative
+mullnjë | mëllenjë | alternative
+mumend | minutë | alternative
+mundështir | manastir | alternative
