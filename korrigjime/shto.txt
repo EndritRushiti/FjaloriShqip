@@ -51916,3 +51916,54 @@ mbësëfundi | adv | finally
 mbëshaj | verb | sigh
 mbëshak | verb | blunt, dull; stupefy
 mbëshakët | adj | dull, blunt; stupefied, puzzled
+# ── mannshto.tsv ──
+mbëshehët | adj | 
+mbshikë | noun | 
+mbëshoj | verb | tilt, tip, incline; doubt, suspect
+mbështjellëm | adj | wrapped up, interwoven, intricate, involved
+mbështjelloj | verb | complicate, involve
+mbështjellueshëm | adj | involvable
+mbështyj | verb | 
+mbëvarrshëm | adj | dependent (on)
+mbidhem | verb | gather, assemble
+mbidhëshëm | adj | overground, above-ground
+mbiej | verb | 
+mbiel | verb | 
+mbiellës | noun | sower, planter; sowing
+mbielltar | noun | sower, planter
+miemër | noun | 
+mbiemnoj | verb | surname, nickname
+mbier | adv | till, until
+mbifolje | noun | adverb
+mbigjykatës | noun | arbitrator, overlord
+mbijës | adj | thriving
+mbijtë | adj | numb
+mbijtje | noun | plantation; growth, germination
+mbikqyr | verb | 
+mbikqyrës | noun | 
+mbimë | noun | plant; shooting, sprouting
+mbimje | noun | growth, vegetation
+mbindieshëm | adj | supersensitive
+mbiqendër | noun | epicentre
+mbiqyr | verb | 
+mbiqyrës | noun | overseer, supervisor, foreman
+mbiqyrje | noun | 
+mbirrojtës | adj | surviving
+mbishikim | noun | supervision
+mbishikoj | verb | supervise
+mbishikues | noun | supervisor; supervising
+mbitat | noun | feast
+mbiveshtrim | noun | supervision
+mbiveshtroj | verb | supervise
+mbivlej | verb | prevail
+mbivollë | noun | snare, ambush
+mbjedh | verb | 
+mbjeth | verb | 
+mbjidhem | verb | gather, assemble
+mbjoj | verb | 
+mblakem | verb | grow old
+mblatë | noun | shewbread; offering
+mblatës | noun | wooden stamp for marking shewbread; seal; marker, branding iron
+mblatim | noun | stamp, seal, mark (esp. on shewbread)
+mblatoj | verb | stamp
+mbjatuer | noun | stamp, marker (esp. for shewbread)

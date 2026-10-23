@@ -1450,3 +1450,17 @@ mbëjedh | mbledh | alternative
 mbëkatë | mëkat | alternative
 mbëledh | mbledh | alternative
 mbëlt | mbjell | alternative
+# ── Mann 1948 ──
+mbëshehët | fshehtë | alternative
+mbshikë | fshikë | alternative
+mbështyj | pshtyj | alternative
+mbiej | mjel | alternative
+mbiel | mjel | alternative
+miemër | mbiemër | alternative
+mbikqyr | mbikëqyr | alternative
+mbikqyrës | mbikëqyrës | alternative
+mbiqyr | mbikëqyr | alternative
+mbiqyrje | mbikëqyrje | alternative
+mbjedh | mbledh | alternative
+mbjeth | mbledh | alternative
+mbjoj | mbloj | alternative
