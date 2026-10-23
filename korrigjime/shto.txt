@@ -54157,3 +54157,63 @@ nënoce | noun | mother, mummy
 nënockë | noun | mother, mummy
 nënor | adj | maternal
 nënpunoj | verb | second, act as second, understudy
+# ── mannshto.tsv ──
+nënq | noun | knuckle; knot
+nënqeshës | adj | smiling; smiler
+nënqindës | noun | centurion
+nënqinjë | noun | mint
+nënrrogostët | adj | underhand, fishy, shady
+nënshtetës | noun | subject, citizen
+nënshtyp | verb | oppress, suppress
+nënshtypje | noun | oppression, suppression
+nëntësm | adj | lower
+nëntogjer | noun | second lieutenant
+nëntokshëm | adj | underground
+nënujcë | noun | submarine
+nënujse | noun | submarine
+nënurdhëronjës | adj | subordinate
+nënurdhëratës | adj | subordinate
+nënuris | verb | rock, lull
+nënverdhët | adj | yellowish
+nënveshje | noun | undergarment; underclothing, underwear
+nënvizë | noun | underline
+nënzyrë | noun | sub-office
+nëpërpashëm | adj | transparent
+nëpërqyrshëm | adj | transparent
+nëpërse | noun | interjection
+nëpërshëndritshëm | adj | transparent
+nëpërshkoj | verb | penetrate
+nëpërtoj | verb | penetrate
+nëpërthue | adv | between the nails (or hoofs)
+nëpërthuej | verb | scratch, claw
+nëpunsi | noun | employment, occupation, capacity; officialdom
+nërheqje | noun | gravity (of bodies)
+nërhyj | verb | interfere, intervene
+nërhyrje | noun | interference, intervention
+nërvos | adj | nervous
+nërvlis | verb | use, manage
+nërvlitem | verb | be equivalent; be involved
+nështypje | noun | impression
+nëvendsi | noun | displacement
+nfalem | verb | pray, worship
+nfill | noun | beginning
+nflej | verb | go to sleep
+nfryej | verb | blow up
+nfytyrsi | noun | imagination
+nfytyrsim | noun | imagination
+nfytyrsoj | verb | imagine
+nfytyrshëm | adj | imaginary
+ngac | verb | check, halt, catch, impede
+ngacem | verb | get caught, get stuck, trip up
+ngacë | noun | stop, check, halt, hold-up, catch
+ngacës | adj | impeding, preventive
+ngackë | noun | catch, impediment; scratcher; rake, nuisance
+ngacmonjës | adj | inciting, irritating; provocator
+ngacrrohemi | verb | come to grips, struggle
+ngadalez | adv | slowly
+ngadali | noun | slowness, gentleness
+ngadalsi | noun | slowness, gradualness
+ngadalsoj | verb | slow down
+ngaditë | adv | daily
+ngaditshëm | adj | daily
+ngadhmoj | verb | wander, roam, make a pilgrimage
