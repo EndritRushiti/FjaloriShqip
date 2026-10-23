@@ -51645,3 +51645,49 @@ maqelli | noun | slaughter-house; meat-market; butchery
 maqelos | verb | butcher
 maqinanë | noun | engine house, engine room
 maqinari | noun | machinery
+# ── mannshto.tsv ──
+maqinë | noun | 
+maqinist | noun | 
+maqinizmë | noun | machinery, mechanism
+marabut | noun | marabou stork
+maraje | noun | 
+maramë | noun | cloak, wrap
+maranajë | noun | 
+marangë | noun | club
+maranxhë | noun | orange; grape-fruit
+maraqe | noun | 
+marasë | noun | short jacket
+maraskë | noun | wild fennel, dill
+maraskin | noun | maraschino
+marash | noun | front garden
+maravejë | noun | marvel; wonder, astonishment
+maravejonj | verb | marvel, wonder
+maravil | noun | wonder, marvel
+maraushkë | noun | ant
+marazoj | verb | hate; anger, rile
+marcelë | noun | earring
+mardanas | noun | 
+mardhem | verb | freeze
+marenkë | noun | small barbel
+marëz | noun | arbutus
+margak | noun | donkey
+margaçth | noun | little donkey
+margalitar | noun | 
+margur | adj | wily, cunning, wicked
+margjur | adj | wily, cunning, wicked
+marhamë | noun | embroidered handkerchief given by the bride to the matchmaker; gauze
+marianak | noun | cabinet-maker
+marim | noun | 
+maris | verb | debilitate, weaken
+maritem | verb | pine, languish
+marjash | noun | 10-para coin
+marjuall | adj | sly, crafty; rascal
+marjolli | noun | craftiness; stealth, theft
+markat | noun | pride
+marmar | noun | 
+marmuer | noun | 
+marmaq | noun | 
+marmos | verb | daze, dumbfound
+marmull | noun | 
+marmuroj | verb | marble, face with marble
+marneshë | noun | violet

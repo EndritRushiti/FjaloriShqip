@@ -1395,3 +1395,16 @@ mangoj | mungoj | alternative
 manumangë | mëngë | alternative
 manurë | mënyrë | alternative
 manxhatur | grazhd | alternative
+# ── Mann 1948 ──
+maqinë | makinë | alternative
+maqinist | makinist | alternative
+maraje | maraj | alternative
+maranajë | rrëshajë | alternative
+maraqe | maraj | alternative
+mardanas | majdanoz | alternative
+margalitar | margaritar | alternative
+marim | mbarim | alternative
+marmar | mermer | alternative
+marmuer | mermer | alternative
+marmaq | maraj | alternative
+marmull | mermer | alternative
