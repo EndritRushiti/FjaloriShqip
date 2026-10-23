@@ -51179,3 +51179,47 @@ lumaq | noun | lichen, moss, growth on trees; blight
 lumbem | verb | be happy, flourish
 lumbur | adj | happy, lucky
 lumburem | verb | swagger
+# ── mannshto.tsv ──
+lumëroj | verb | bless; praise
+lumët | adj | blessed, happy
+lumimadh | adj | happy, lucky
+lumini | noun | blessing, glory; happiness, luck
+luminim | noun | holiness; happiness, welfare
+luminoj | verb | bless, praise; cheer, encourage; worship; favour
+luminueshëm | adj | glorious, splendid, great; famous; favoured, fortunate
+lumpar | noun | oyster
+lumshëm | adj | blessed
+lumzi | adj | hapless, wretched, unhappy
+lumzoj | verb | favour
+lundërt | adj | fat, flabby
+lundërti | noun | fleet
+lundërthyemje | noun | shipwreck
+lundrar | noun | boatman, bargee
+lundrari | noun | navigation
+lundratar | adj | navigational, shipping-; boatman
+lundrëz | noun | small boat
+lunter | noun | otter
+lup | noun | casing of shoot or bud
+lupul | noun | hops
+lupushkë | noun | 
+luq | adj | dear, darling
+luqërbull | noun | lynx
+luqere | noun | lamp, lantern
+luqsi | noun | folly
+lurboj | verb | howl
+lurdhiq | adj | fatty, rich
+lurek | noun | swaddled infant
+lurim | noun | howl, wail, bellowing, roar
+luroj | verb | howl, wail, bellow, roar
+lurtar | noun | fawner, flatterer, sycophant
+lurtimë | noun | cajolery, flattery
+lurtoj | verb | wheedle, fawn, flatter
+lusje | noun | worship, reverence, observance
+luso | noun | luxury, finery
+lustar | noun | worshipper
+lustrafin | noun | patent leather, glacé
+lustrar | noun | lacquerer
+lustrinë | noun | patent leather
+lusur | adj | holy (day)
+lutër | noun | 
+lutjeshkrues | noun | writer of petitions or applications

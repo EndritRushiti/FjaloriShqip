@@ -1320,3 +1320,6 @@ lopqar | lopçar | alternative
 luath | livadh | alternative
 # ── Mann 1948 ──
 luk | lug | alternative
+# ── Mann 1948 ──
+lupushkë | lëpushkë | alternative
+lutër | flutur | alternative
