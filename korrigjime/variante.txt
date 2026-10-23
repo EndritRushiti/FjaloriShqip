@@ -1665,3 +1665,11 @@ misrishte | misërishte | alternative
 mistër | misër | alternative
 mishqerë | mëshqerrë | alternative
 mishtjerrë | mëshqerrë | alternative
+# ── Mann 1948 ──
+mitraljoz | mitraloz | alternative
+mixor | mizor | alternative
+mixho | mixhë | alternative
+mizurisht | mizorisht | alternative
+mizyrë | mizori | alternative
+mjal | mjaltë | alternative
+mjalloj | mjaullij | alternative

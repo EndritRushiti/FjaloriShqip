@@ -52825,3 +52825,51 @@ mishzoj | verb | fatten
 mishzohem | verb | put on flesh
 mitavan | noun | garret
 mitëm | adj | spoilt, soft, effeminate
+# ── mannshto.tsv ──
+mitërr | noun | raspberry
+mitil | adj | stunted, ailing
+mitilem | verb | fall sick (of animals)
+mitralioz | noun | machine-gun
+mitraljoz | noun | 
+mitriq | noun | gripes, colic (in children)
+mituni | noun | rawness; inexperience; artlessness, innocence; silliness
+mivjetore | noun | millennium
+mixor | adj | 
+mixho | noun | 
+mixhgrret | noun | miser
+mixhgrroj | verb | scrape, save, economise
+mizake | noun | beetle
+mizdrave | noun | variety of cherry
+mizëplakë | noun | queen bee
+mizër | noun | mass, swarm, crowd, horde
+mizëroj | verb | crowd, swarm, teem; crumble; shatter
+mizëz | noun | small fly, midge
+mizoj | verb | rage, rave; play the tyrant
+mizurisht | adv | 
+mizyrë | noun | 
+mja | adv | enough, fairly
+mjacë | noun | land under intensive cultivation
+mjaftëm | adj | sufficient
+mjaftsi | noun | sufficiency, adequacy
+mjagullij | verb | mew
+mjagulloj | verb | mew
+mjagullim | noun | mewing
+mjal | noun | 
+mjalcëz | noun | bee
+mjaltz | noun | small hive placed over a large one to hold surplus honey
+mjalloj | verb | 
+mjanoj | verb | bend, incline
+mjanohem | verb | lean
+mjarush | noun | ant
+mjarushkë | noun | ant
+mjaullis | verb | mew
+mjaulloj | verb | mew
+mjaunis | verb | mew
+mjauris | verb | mew
+mje | prep | as far as, till, up to; just, only
+mjedisëm | adj | middle, central
+mjedishëm | adj | middle, central, medial, intermediate
+mjeftueshëm | adj | adequate
+mjeguli | noun | fogginess, mistiness
+mjegullshëm | adj | cloudy, dim, misty, foggy
+mjegje | noun | remedy, medicine
