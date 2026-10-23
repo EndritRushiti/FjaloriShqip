@@ -50870,3 +50870,40 @@ lëvyzhgë | noun | shell, husk
 lfetë | noun | orach
 libese | noun | moorage
 libërshitje | noun | bookselling
+# ── mannshto.tsv ──
+libërtar | noun | bookseller
+libërtari | noun | reading world, world of books
+libërtore | noun | bookshop; bookcase; library; bibliography
+libërz | noun | booklet
+liboj | verb | steer, guide; unload (boats); bring (a boat) to shore, moor
+librathithës | noun | bookworm
+librec | noun | booklet, little book
+lic | noun | end, limit
+licë | noun | small shark
+lidër | noun | flash, twinkling of an eye
+lidhan | noun | napkin, towel, table-cloth
+lidhac | adj | knotty (of wood)
+lidhcë | noun | knot, thong, bond, band; joint
+lidhkë | noun | bond, tie, knot
+lidhme | noun | bond, association, connection
+lidhse | noun | bond, tie, thong, shoelace; conjunction; gudgeon pin
+lidhtore | noun | conjugation
+lidhzim | noun | join, ligature, ligament
+lifqar | noun | waterfall
+lifqer | noun | waterfall
+ligaman | noun | slabberer
+ligarash | adj | frail, ailing
+ligatem | verb | contract tuberculosis
+ligdashës | adj | malignant
+ligët | adj | lean
+ligore | noun | wall of stomach, tripe
+ligsinë | noun | ill, evil, vice
+ligshtem | verb | pine, repine
+ligshti | noun | evil, wickedness; illness; frailty; weakness
+ligshtim | noun | enfeeblement
+ligshtoj | verb | debase, vilify; weaken, enfeeble
+ligjëbërje | noun | legislation
+ligjënim | noun | attestation
+ligjënoj | verb | attest, confirm, legalise
+ligjërese | noun | declamation
+ligjërimtar | noun | speaker
