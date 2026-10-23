@@ -50625,3 +50625,42 @@ lekovas | verb | treat, cure
 lekovatje | noun | treatment, cure
 lektigë | noun | couch, litter
 lektion | noun | reading; lesson; book (of the Bible)
+# ── mannshto.tsv ──
+lemacak | adj | greedy, gluttonous, miserly; glutton; miser
+lemarak | adj | greedy; glutton
+lemcë | noun | uterus (of animals)
+lemenc | adj | dumb
+lemer | noun | fear, terror, panic; row, noise, shouting; cry, caw
+lemeri | noun | fear, terror
+lemerim | noun | horror, catastrophe
+lemëz | noun | hiccup
+lemje | noun | east
+lemkë | noun | hiccups
+lemzoj | verb | have hiccups
+lene | noun | birth; birthday
+lengjere | noun | bowl; platter
+lenjokase | noun | cassia, clove-tree bark
+lenoj | verb | mitigate, soften, relieve, alleviate; charm
+lenues | adj | softening, emollient
+lenjë | noun | check, obstacle; parturition
+leonë | noun | lioness
+leparos | verb | tear, tatter
+lepe | noun | shell
+lepec | noun | jaded ox or beast
+lepitkë | noun | slipper; blade
+lepizë | noun | blaze (on the muzzle of an ox)
+lepra | noun | leprosy
+leprosem | verb | get leprous
+leprushkë | noun | doe of a hare
+lepuritet | verb | gets white; begins to dawn
+lepurore | noun | rabbit-hutch
+leq | noun | knot; noose; trap; hamstring, hock; hidden place, nest of eggs
+leqendi | noun | sorrow
+leqendis | verb | sadden, daunt
+leqetis | verb | stain, mark, soil
+leqez | noun | small loop, sinew; hamstring
+lerane | noun | landslide, scree, mountainside
+lerët | adj | stony; filthy, grimy
+leroj | verb | lighten; cultivate
+lertë | adj | native, congenital
+lerushkë | noun | clematis
