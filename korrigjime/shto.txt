@@ -53710,3 +53710,34 @@ nazë | noun | black goat with white feet
 # ── mannshto.tsv ──
 nartë | adj | bright, spick and span
 nartoj | verb | polish, clean, cleanse
+# ── mannshto.tsv ──
+nazile | noun | headache
+nçef | verb | 
+nçefaz | adv | secretly
+nçel | verb | open
+nçelë | adj | open
+nçoj | verb | carry, take, send; wake, rouse
+nçohem | verb | rise, get up
+ndaçmazan | adv | suddenly
+ndajgjetem | verb | help
+ndajme | adv | knowingly, wittingly
+ndajnatëhera | adv | towards evening
+ndajtës | adj | severing
+ndalesës | adj | checking, restrictive
+ndalimtar | adj | prohibitive, restrictive
+ndalimtore | noun | house of detention
+ndalme | noun | stop, halt, stoppage
+ndalshëm | adj | hesitating
+ndallandish | noun | 
+ndallon | noun | 
+ndamas | adv | separately
+ndamazi | adv | separately
+ndândem | verb | cram oneself, sate oneself
+ndândët | adj | dense
+ndândoj | verb | densify, condense
+ndândur | adj | sated
+ndarshëm | adj | divisible
+ndas | adj | dividing; dividend
+ndase | noun | partition
+ndashmi | noun | division (arith.)
+ndame | noun | division; compartment; department

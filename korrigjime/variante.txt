@@ -1794,3 +1794,7 @@ mvjedh | vjedh | alternative
 mvjerr | var | alternative
 mvras | vras | alternative
 myxyrë | mynxyrë | alternative
+# ── Mann 1948 ──
+nçef | fsheh | alternative
+ndallandish | dallëndyshe | alternative
+ndallon | nallane | alternative
