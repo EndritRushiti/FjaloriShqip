@@ -1721,3 +1721,14 @@ mosh | moshë | alternative
 motociklistë | motoçiklist | alternative
 mpastroj | pastroj | alternative
 mpëkat | mëkat | alternative
+# ── Mann 1948 ──
+mplat | mblatë | alternative
+mpref | mpreh | alternative
+mpsim | mësim | alternative
+mpshef | fsheh | alternative
+mpshtjell | mbështjell | alternative
+mpshtiell | mbështjell | alternative
+mpshtymë | pshtymë | alternative
+mrakull | mrekulli | alternative
+mrakulloj | mrekulloj | alternative
+mrakullues | mrekullues | alternative

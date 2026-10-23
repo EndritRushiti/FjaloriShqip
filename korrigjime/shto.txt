@@ -53171,4 +53171,74 @@ mparu | adv | quite, altogether
 mpastroj | verb | 
 mperator | noun | emperor
 mperaturë | noun | emperor
-mpëkat | noun | 
+mpëkat | noun |
+# ── mannshto.tsv ──
+mpërtëkeqem | verb | get angry
+mpitsi | noun | numbness
+mpiksem | verb | thicken, coagulate
+mpiqem | verb | meet
+mpisi | noun | numbness, deadness
+mpitje | noun | cramp
+mpihtsi | noun | numbness, sluggishness, sloth
+mpjek | verb | join
+mplaks | verb | age
+mplakur | adj | aged, decrepit
+mplat | noun | 
+mploj | verb | finish off, complete
+mplor | noun | lamb
+mplorë | noun | ewe-lamb
+mposë | adv | separately, severally
+mposët | adj | distinct
+mpostafa | adv | purposely
+mprapashtesë | noun | suffix
+mprapem | verb | retrogress; be behindhand
+mprapëm | adj | latter; rear, hind-
+mpraps | verb | repel, repulse
+mprapsem | verb | withdraw, retire, retreat
+mprapsje | noun | repulsion; retreat, withdrawal
+mprapshtë | adj | decadent
+mprapshti | noun | decadence
+mprapthi | adv | backwards
+mpref | verb | 
+mprifet | verb | is sharpened
+mprim | noun | defence
+mprohem | verb | defend oneself
+mprojtur | adj | defended, protected
+mprojtë | noun | defence, protection
+mprojtar | adj | tutelary, defensive, protective; protector, defender, guardian, patron
+mprojtës | adj | defending, protecting, defensive; protector, patron, defender
+mprojtsi | noun | garrison
+mprojtim | noun | protection, defence; protectorate
+mprojtje | noun | protection, defence
+mprojtoj | verb | defend, protect
+mprojtsë | noun | bulwark
+mpsall | verb | chant
+mpsim | noun | 
+mpshef | verb | 
+mpshifem | verb | hide
+mpshihem | verb | hide
+mpsherë | noun | sigh
+mpshertim | noun | sigh
+mpshertimë | noun | sigh
+mpshertij | verb | sigh
+mpshertis | verb | sigh
+mpshetur | adj | hidden
+mpshik | verb | blow bubbles; blister; crush, crumple
+mpshikë | noun | bubble; blister; bladder; cocoon
+mpshikëz | noun | small bubble
+mpshotës | adj | grumbling; grouser
+mpshtetës | noun | prop, support, elbow-rest
+mpshtetëz | noun | prop, support
+mpshtetje | noun | prop, stand, rest; support
+mpshtjell | verb | 
+mpshtiell | verb | 
+mpshtillem | verb | wrap oneself up
+mpshtym | verb | spit
+mpshtymë | noun | 
+mqer | noun | period, term
+mqere | noun | delay, stop
+mrakull | noun | 
+mrakulloj | verb | 
+mrakullues | adj | 
+mrapën | adj | latter, rear, hind-
+mrapët | adj | latter, rear, hind-
