@@ -53619,3 +53619,5 @@ myz | noun | ditch, hollow, fold of earth, furrow
 myzët | adj | prying, sneaking
 myzgë | noun | necrosis
 mzirë | noun | symptom
+# ── mannshto.tsv ──
+mylmesë | noun | seasoning of oil and butter
