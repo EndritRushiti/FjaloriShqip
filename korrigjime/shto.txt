@@ -51796,3 +51796,32 @@ maxhellar | verb | slaughter
 mazalek | noun | one-year-old child, weaned child
 mazaleke | noun | one-year-old child, weaned child
 mazatore | noun | cow-calf, heifer
+# ── mannshto.tsv ──
+mazja | noun | 
+mazore | noun | filly
+mba | verb | 
+mbahitem | verb | 
+mbajcë | noun | support, prop; holder; balustrade
+mbajsë | noun | support, prop; holder
+mbajshëm | adj | temperate, abstinent; restrained, well-mannered
+mbajtme | noun | posture
+mball | noun | bung
+mballëfaqe | adv | 
+mballambersë | noun | 
+mballoj | verb | 
+mballosës | noun | cobbler
+mballotë | noun | raincoat
+mbambrendje | noun | 
+mbamendje | noun | memory
+mbandej | adv | 
+mbanë | prep | by, near, close to, alongside
+mbanshëm | adj | lateral; extreme
+mbanjës | noun | keeper, holder
+mbaras | adv | equally
+mbarasim | noun | equalisation
+mbarazi | adv | equally
+mbarestar | noun | accomplisher, executor
+mbarështrim | noun | administration
+mbarështroj | verb | 
+mbarëvijim | noun | progress, prosperity, promotion, success
+mbarherë | noun | evening

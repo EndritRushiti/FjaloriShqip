@@ -1427,3 +1427,13 @@ mashinë | makinë | alternative
 matrapas | matrapaz | alternative
 mathematikë | matematikë | alternative
 mavjos | mavijos | alternative
+# ── Mann 1948 ──
+mazja | treg | alternative
+mba | mbaj | alternative
+mbahitem | mahitem | alternative
+mballëfaqe | ballafaqe | alternative
+mballambersë | shuplakë | alternative
+mballoj | mballos | alternative
+mbambrendje | përmbajtje | alternative
+mbandej | mbasandaj | alternative
+mbarështroj | mbarështoj | alternative
