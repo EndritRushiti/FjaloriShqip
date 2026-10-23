@@ -52298,3 +52298,53 @@ merikot | noun | boiled must
 merimajkë | noun | 
 meringonë | noun | 
 merkoj | verb | put aside, separate
+# ── mannshto.tsv ──
+mermeris | verb | marble
+mermeroj | verb | marble
+mermertar | noun | marble-cutter
+meroj | verb | cook, prepare (food); mock, laugh at
+merpunoj | verb | undertake
+merqi | noun | 
+merqinjë | noun | 
+merqinë | noun | 
+merqis | verb | dispose of, ordain
+mershë | noun | 
+mertek | noun | pole, post, beam, shoring-post
+merxhantë | adj | coral; red-brown (of cow)
+merremendthi | adv | madly
+merriz | noun | noon
+mesholl | adj | slender, slim
+mesak | adj | middling
+mesarë | noun | tilled field between two fallow fields; baulk
+mesatori | noun | moderation
+mesavis | verb | gossip; slander
+mesbrinjë | noun | small of the back, loins, waist
+mesdet | noun | mid-ocean; Mediterranean
+mesditar | adj | meridian
+mesdhe | noun | centre of the earth
+mesehe | noun | means, wherewithal
+mesiti | noun | commission
+mesmja | noun | average
+mesnoj | verb | betroth
+mest | adv | in the middle
+mestë | adj | 
+mestingull | noun | medial sound
+mestis | verb | announce, proclaim
+mestitës | noun | announcer
+mestitje | noun | proclamation, order
+mestori | noun | hall, passage, lobby
+mesth | noun | waist
+meshim | noun | holding of Mass
+meshinë | noun | 
+meshinët | adj | leather-
+meshk | noun | bull-calf
+meshkall | noun | small corner cupboard
+meshkur | noun | cord for supporting trousers
+meshmë | noun | fringe, trimming
+meshnohem | verb | dote, be childish
+meshoj | verb | hold mass
+meshtareshë | noun | priestess
+meshtë | noun | slipper, shoe
+meshtni | noun | skin bag
+metall | noun | 
+metalët | adj | metal-, metallic

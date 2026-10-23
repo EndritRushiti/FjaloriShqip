@@ -1544,3 +1544,11 @@ merauzhgë | milingonë | alternative
 meremetis | meremetoj | alternative
 merimajkë | merimangë | alternative
 meringonë | milingonë | alternative
+# ── Mann 1948 ──
+merqi | mërqi | alternative
+merqinjë | mërqi | alternative
+merqinë | mërqi | alternative
+mershë | mërshë | alternative
+mestë | mesëm | alternative
+meshinë | meshin | alternative
+metall | metal | alternative
