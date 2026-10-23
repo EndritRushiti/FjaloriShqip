@@ -50433,3 +50433,53 @@ larakashë | noun | magpie
 laramanoj | verb | simulate, shift
 laras | noun | magpie
 larashkë | noun | magpie
+# ── mannshto.tsv ──
+laratoj | verb | paint, depict
+laravidhe | noun | centipede
+lardh | noun | fat bacon
+lardhore | noun | plant with fleshy leaves
+larez | noun | wild vine
+larëm | adj | spotted, dapple, variegated, motley, gay
+larëskë | noun | magpie
+largazit | adv | at a distance
+largëm | adj | distant, far-away, remote
+largqyrës | noun | telescope
+largsi | noun | distance, interval, space
+largsinë | noun | distant region; distance
+larim | noun | flattery
+laris | verb | quack, caw, croak (of birds and frogs)
+larisk | adj | spotted, motley, dappled
+larishtë | noun | wild bay; bay plantation, laurel shrubbery
+laritet | verb | gets patchy (of snow, owing to a thaw)
+larkëm | adj | distant
+larkmë | adj | distant
+laro | noun | dog; cur, swine
+larojë | noun | brindled cow
+laronjë | noun | brindled cow
+laros | verb | speckle, variegate
+larosh | adj | motley, dappled; magpie
+laroshë | noun | particoloured sheep or goat
+lartesë | noun | height
+lartëm | adj | high, tall; loud; noble
+lartësm | adj | high, tall
+lartmi | adv | from above
+lartore | noun | laundry; washerwoman
+lartsi | noun | height; highness (in titles)
+lartshëm | adj | upper
+lartuar | adj | raised, elevated
+larth | noun | fat bacon; ivy
+larushan | adj | variegated
+larushoj | verb | chequer, dapple
+larushtë | adj | gay, motley
+larzim | noun | pattern-work, tracery, design
+larzoj | verb | spot, speckle, chequer, cover with designs
+larrë | noun | cloak, cape
+lërrushk | noun | wild vine
+lase | noun | washing-stick, bat; lye, buck
+lasinë | noun | arquebus
+laskare | noun | rag
+laskaroj | verb | tatter, shred
+laskë | noun | magpie
+laskër | noun | growth, tumour
+laskundër | noun | bat (animal)
+lasore | noun | laundry, wash-house
