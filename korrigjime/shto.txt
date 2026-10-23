@@ -49874,3 +49874,53 @@ kulajkë | noun | wooden peg fastening the parts of a yoke
 kularshëm | adj | bent, curved
 kulçedër | noun | female dragon, monster
 kuletër | noun | purse
+# ── mannshto.tsv ──
+kulezë | noun | ball, marble
+kulibë | noun | hut
+kulifickan | adj | tubercular, consumptive
+kulifickë | noun | consumption, tuberculosis
+kulifiskë | noun | consumption, tuberculosis
+kulufiskë | noun | consumption
+kulufishkë | noun | consumption
+kulifiskan | adj | tubercular
+kulihu | adv | headfirst, down, from top to bottom, from head to foot
+kulik | noun | roll of white bread
+kuliq | noun | roll of white bread
+kulimni | noun | rascality
+kulindër | noun | roll, ring, slice; round cake; Christmas cake
+kulivithër | noun | rainbow
+kulmar | noun | ridge of a roof, gable; roof-batten
+kulmare | noun | roof-ridge
+kulmazi | adv | vertically, perpendicularly
+kulmër | adj | vertical
+kulmisht | adv | end to end, tip to tip
+kulmriç | noun | long-thorned briar
+kulpicë | noun | peak, tip; height
+kultirë | noun | fragment of honeycomb; animal fat, tallow
+kultyrë | noun | chip, splinter; icefloe
+kuluci | noun | gang, party
+kulun | noun | swelling
+kulupi | noun | peak, tip, top, summit; heap
+kuluq | noun | gulp
+kuluver | noun | rainbow
+kulxoj | verb | dare
+kull | adj | sorrel, bay, chestnut
+kullajkë | noun | wooden peg on a yoke
+kullak | adj | sorrel, bay
+kullandrisje | noun | use, management
+kullem | verb | cough
+kullendër | noun | Christmas cake
+kulles | noun | lees, waste, residue (from filtering)
+kullesë | noun | lees, residue
+kullestër | noun | strainer
+kullmë | noun | anvil
+kullnë | noun | anvil
+kullose | noun | sieve, funnel, tundish
+kullomë | noun | filtrate; residue
+kullotas | noun | herdsman
+kulltuk | noun | armchair; block, figurehead
+kulluet | adj | clear, pure
+kulluetsi | noun | clarity; limpidity
+kullufër | noun | plant resembling orach, leaves used for flavouring
+kullufis | verb | gobble, gulp; gulp down, swallow; engulf
+kullufruth | noun | long yarn
