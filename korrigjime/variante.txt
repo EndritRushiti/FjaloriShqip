@@ -1578,3 +1578,15 @@ mëngash | mëngjarash | alternative
 mëngjarak | mëngjarash | alternative
 mëngjash | mëngjarash | alternative
 mëngjez | mëngjes | alternative
+# ── Mann 1948 ──
+mëngjosh | mëngjarash | alternative
+mënkoj | mëkoj | alternative
+mënot | not | alternative
+mënotar | notar | alternative
+mëntshkurtër | mendjeshkurtër | alternative
+mënjes | mëngjes | alternative
+mënjez | mëngjes | alternative
+mënjistar | mëngjistar | alternative
+mënjitar | mëngjistar | alternative
+mëraç | maraj | alternative
+mërajth | maraj | alternative

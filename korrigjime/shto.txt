@@ -52457,3 +52457,58 @@ mëngjash | adj |
 mëngjellë | noun | oil-press
 mëngjez | noun | 
 mëngjesem | verb | have breakfast
+# ── mannshto.tsv ──
+mëngjesje | noun | red of dawn, dawn, morning
+mëngjezje | noun | red of dawn, dawn, morning
+mëngjesnet | adv | in the morning
+mëngjërosh | adj | left-handed
+mëngjërtë | adj | left-hand
+mëngjim | noun | cure, remedy
+mëngjirë | noun | sheep or goat with one breast
+mëngjollë | noun | young tree, shrub
+mëngjosh | adj | 
+mënij | verb | hate; alienate
+mënim | noun | delay, handicap
+mënimë | adj | angry
+mënis | adj | angry
+mënistar | noun | magician, charmer
+mënishëm | adj | angry, raging; hating, hateful, abominable; horrible, repulsive
+mënitar | adj | hateful, polemical; polemicist
+mënkoj | verb | 
+mënojë | noun | handle, haft (of knife)
+mënonjë | noun | handle, haft (of knife)
+mënuje | noun | handle, haft (of knife)
+mënye | noun | handle, haft (of knife)
+mënot | noun | 
+mënotar | noun | 
+mëntak | adj | thoughtful, thinking
+mëntar | adj | thoughtful, thinking
+mëntëm | adj | abstract
+mëntshkurtër | adj | 
+mënxyrë | noun | murder; misery, wretchedness
+mënyrsi | noun | mannerism, affectation
+mënyrshëm | adj | affected, simpering
+mënjanazi | adv | on one side, to one side
+mënjanem | verb | step aside; dodge
+mënjansisht | adv | indifferently
+mënjanshëm | adj | indifferent, aloof
+mënjej | verb | hate
+mënjes | noun | 
+mënjez | noun | 
+mënjësoj | verb | agree (with)
+mënjësh | adv | together
+mënjille | noun | fasting, abstinence from meat, milk etc.; vigils
+mënjistar | noun | 
+mënjitar | noun | 
+mëqik | noun | spool, bobbin
+mëraç | noun | 
+mërajth | noun | 
+mërcaj | verb | crush, squash
+mërcajtje | noun | crushing
+mërcas | verb | arouse, stimulate
+mërcel | noun | medallion, sequin, pendant
+mërcinë | noun | carcass, carrion
+mërdhezem | verb | be sore, be inflamed
+mërdhënëz | noun | parsley
+mërdhi | noun | cold, chill
+mërdhuzem | verb | get overfat
