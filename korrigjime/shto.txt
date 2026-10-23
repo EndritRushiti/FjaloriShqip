@@ -53951,3 +53951,41 @@ ndoretar | noun | patron, protector
 ndohtem | verb | get dirty
 # ── mannshto.tsv ──
 ndofullë | noun | jaw
+# ── mannshto.tsv ──
+ndofëll | noun | jaw
+ndori | adv | although
+ndormët | adj | ordinary, commonplace; stale (of a joke)
+ndoroj | verb | manage, control
+ndorsi | noun | minorhood, juniority
+ndorshëm | adj | convenient; wieldy, manageable
+ndortar | noun | patron, protector
+ndorzoj | verb | guarantee, protect; consign, entrust
+ndorrina | adv | although
+ndorroj | verb | manage, control
+ndosa | pron | some, a few
+ndose | conj | or; unless; though
+ndosh | verb | happen
+ndoshet | verb | it is fitting
+ndoshmi | adv | perhaps, maybe
+ndoshtullë | noun | bundle, packet
+ndotsi | noun | filth
+ndrak | verb | soil, dirty, defile
+ndragës | noun | defiler; defiling
+ndrangoli | noun | serpent
+ndrash | verb | thicken, fatten, coarsen, roughen
+ndrejtës | noun | compositor
+ndrejtim | noun | regulation, control, management; direction; correction
+ndrejtje | noun | correction
+ndrejtoj | verb | straighten, arrange, put right; correct; direct, guide
+ndrejtohem | verb | address, accost; make for, go to
+ndreloks | verb | turn giddy
+ndreqme | noun | arrangement, disposal; fixture; repair
+ndresë | noun | underwear; houselinen
+ndreush | noun | fawn
+ndriçëm | adj | bright
+ndridh | verb | twist, screw; gather (of sores)
+ndrikullore | noun | tongue-wagging old gossip
+ndritë | noun | brightness, splendour
+ndritem | verb | be lit, shine, resplend; be sainted
+ndritëlis | verb | brighten
+ndritëm | adj | famous
