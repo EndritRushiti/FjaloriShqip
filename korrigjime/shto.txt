@@ -50777,3 +50777,48 @@ lëmishtë | noun | brushwood, undergrowth
 lëmizhde | noun | brushwood
 lëmizhda | noun | brushwood
 lëmoçe | noun | snowdrift, pile of snow
+# ── mannshto.tsv ──
+lëmoc | noun | smoother, file, polisher
+lëmozë | noun | smoother, file
+lëmoqe | noun | scree
+lëmoshën | noun | alms, charity
+lëmozhë | noun | alms
+lëmoshtar | noun | almoner
+lëmoshtër | noun | crumb, speck, fragment; offering to the dead enclosed in a coffin
+lëmpjetë | noun | orach
+lëmpsh | noun | ball (of thread); globe
+lëmuç | adv | in a heap, piled up
+lëmuet | adj | smooth
+lëmuq | adv | in a heap; pile
+lëmyshk | noun | moss, esp. witch's broom; seaweed
+lëndak | adj | material, substantial
+lëndar | adj | material, substantial
+lëndi | noun | snag, sore point, thorn, source of irritation; sore place, inflammation
+lëndishëm | adj | irritable
+lëndonjës | adj | scathing
+lënësi | noun | madness, stupidity
+lëngsi | noun | juiciness, wateriness
+lëngsirë | noun | juice, broth
+lëngsohet | verb | waters (of the mouth)
+lëngsor | adj | secretive, watery
+lëngueshëm | adj | sick, ill
+lënguth | noun | sapwood, green wood
+lëngzim | noun | watering, discharge, secretion, excretion
+lëngzoj | verb | water, discharge, secrete, excrete
+lëngjer | noun | residual juice from lees of olives, wine, etc.
+lëngjere | noun | residual juice
+lëngjerosh | adj | oozy, juicy; swilly, washy
+lëngjiratë | noun | speech
+lëngjyre | noun | typhus
+lënkshëm | adj | juicy
+lënsi | noun | madness
+lënjirë | noun | typhus
+lënjyer | verb | scratch, lacerate
+lëpec | noun | old ox or cow; ailing person
+lëpinës | adj | licking
+lëpis | adj | licking, lambent; licker; finnicker
+lëpijës | adj | licking
+lëpiskë | noun | scale (of fish)
+lëpushkë | noun | husk, glume, esp. of maize; calyx, shell, enclosure, bark; coltsfoot; napoleon-piece; softie, fathead; cheap newspaper, rag
+lëpushkët | adj | husked, glumed
+lëpyr | verb | overwhelm, smother, crush
