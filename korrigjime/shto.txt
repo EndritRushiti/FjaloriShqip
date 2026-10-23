@@ -49827,3 +49827,50 @@ kujtimtar | adj | thoughtful, pensive; well-thought-out
 kujtonem | verb | reflect, ponder
 kujxhi | noun | goldsmith, silversmith
 kukaçefas | adv | hide-and-seek
+# ── mannshto.tsv ──
+kukatës | noun | caulker
+kukatje | noun | halloo, hue-and-cry; wailing, shriek, scream
+kukavicë | noun | cuckoo
+kukllash | adv | playing at dolls
+kukferrë | noun | bramble
+kukole | noun | toad
+kukoviç | noun | unripe melon
+kukovriq | noun | newly-hatched chicken
+kukrrukë | noun | pomegranate seed
+kukthi | adv | hide-and-seek
+kukua | noun | cuckoo
+kukuban | noun | firefly
+kukul | noun | cockle (weed); silk-cocoon; mumps
+kukulkë | noun | hood, cowl
+kukullë | noun | doll; hot-cake baked in ashes
+kukulloj | verb | lurk; waylay
+kukullosur | adj | dolled up, doll-like; stiff; trussed up, bundled up
+kukumace | noun | owl
+kukumajthi | adv | vertically
+kukumale | noun | peak, top of a hill, brow; hood, cowl
+kukumalthi | adv | perpendicularly
+kukumblaq | noun | newly-hatched chicken
+kukumjaçe | noun | owl (striga strix)
+kukumjaç | noun | owl
+kukumjame | noun | owl
+kukumjeçkë | noun | owl
+kukun | noun | cone; silk-cocoon
+kukunar | noun | cone
+kukunare | noun | pine-kernel
+kukunjë | noun | mumps; brothel
+kukurak | noun | hellebore
+kukurikë | noun | game of weak horses, a kind of leap-frog
+kukuriqe | noun | cone-shaped head-gear
+kukurrë | noun | quiver
+kukutëz | noun | small hemlock
+kukuvacë | noun | owl, esp. little owl or night owl (athene noctua)
+kukuvajë | noun | owl
+kukuvas | noun | owl
+kukuvazi | noun | owls
+kukuvi | noun | owl
+kukzoj | verb | bend, arch over
+kukzohem | verb | crouch over
+kulajkë | noun | wooden peg fastening the parts of a yoke
+kularshëm | adj | bent, curved
+kulçedër | noun | female dragon, monster
+kuletër | noun | purse
