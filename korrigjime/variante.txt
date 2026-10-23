@@ -1473,3 +1473,9 @@ mbohës | mohues | alternative
 mbohim | mohim | alternative
 mbohoj | mohoj | alternative
 mbranda | brenda | alternative
+# ── Mann 1948 ──
+mbrast | mbrazët | alternative
+mbredh | bredh | alternative
+mbrekulli | mrekulli | alternative
+mbritje | arritje | alternative
+mbrizoj | mërzej | alternative

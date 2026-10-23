@@ -52024,3 +52024,44 @@ mbrapme | noun | end
 mbrapët | adj | reversed, muddled
 # ── mannshto.tsv ──
 mblerak | adj | greenish
+# ── mannshto.tsv ──
+mbrapsi | noun | muddle, wrong
+mbrapsoj | verb | repel, repulse
+mbrapshtas | adv | from behind
+mbrapshtim | noun | repulsion, aversion; disorder, muddle; wrong
+mbrapshtina | noun | lowness, coarseness, vulgarity; vice; crime
+mbrapshtit | adv | from behind
+mbrapshtohem | verb | falter (in speech)
+mbrapshtoj | verb | reverse; muddle; make perverse
+mbraptues | adj | retroactive
+mbrapthi | adv | backwards
+mbras | verb | fecundate; empty
+mbrast | adj | 
+mbrazem | verb | get ruptured
+mbrazëm | adj | empty; vain
+mbrazur | adj | empty; vain; useless; idle
+mbrazje | noun | emptying, depletion; void, emptiness, inanity
+mbrazsi | noun | emptiness, idleness
+mbraztinë | noun | emptiness, void, space, vacuum
+mbre | noun | fir
+mbreçë | noun | fir
+mbredh | noun | 
+mbref | verb | sharpen
+mbrekulli | noun | 
+mbrekullim | noun | marvel, wonder
+mbrelë | noun | umbrella, sunshade
+mbrep | noun | bumpkin, countryman; wretch
+mbrepshtë | adj | left (hand)
+mbreq | verb | wean
+mres | verb | bruise, trap; thrash, browbeat; crush
+mbresoj | verb | impress, influence; depress
+mbretem | verb | get bruised
+mbretme | noun | bruise
+mbretvrasje | noun | regicide
+mbrëmavet | adv | in the evening(s)
+mbrëmani | adv | this evening
+mbrijohem | verb | tilt, incline, bend
+mbrinjem | verb | tilt, incline
+mbritje | noun | 
+mbrizoj | verb | 
+mbrojtsi | noun | protection; support, partisanship
