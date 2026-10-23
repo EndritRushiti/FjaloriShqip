@@ -50009,3 +50009,51 @@ kundravler | noun | equivalent
 kundrej | prep | opposite, facing; towards; as against, compared to
 kundrel | prep | opposite
 kundreq | prep | opposite
+# ── mannshto.tsv ──
+kundrelshëm | adj | opposite; inverse
+kundreqem | verb | face
+kundreqshëm | adj | contrary, opposite, paradoxical
+kundresht | noun | contrast, set-off
+kundrështar | noun | opponent
+kundri | noun | antithesis, contrast
+kundruellë | adj | opposite; alternate; corresponding
+kundrueshëm | adj | observable
+kundullij | verb | rock, shake
+kuneti | noun | in-laws; cousins, relations
+kunë | noun | bunch of flowers; seesaw
+kunës | noun | marten
+kungallë | noun | cicada
+kungardë | noun | cockade
+kungare | noun | conclave
+kungas | verb | bung, stop
+kungos | verb | give communion
+kungullishte | noun | marrow plant; bottle
+kungurec | noun | belly-worm
+kungjeroj | verb | curse, swear
+kunicë | noun | fleawort
+kunih | noun | rabbit
+kunik | adj | conical
+kunilë | noun | rabbit
+kunjas | verb | bung, stop, plug
+kunoqe | noun | leafy branch, bough
+kunorz | noun | corolla (of a flower)
+kunorzim | noun | betrothal, engagement; coronation
+kunorzoj | verb | engage, betroth; crown; deck with wreaths
+kunorthyes | noun | adulterer
+kunorthyese | noun | adulteress
+kunsullar | verb | console
+kuntinu | adv | on end, consecutively
+kuntrat | noun | contract, agreement
+kuntratar | noun | notary
+kuntratë | noun | contract, agreement
+kunupë | noun | mosquito
+konupe | noun | mosquito
+kunvend | noun | convent
+kunzua | noun | fleawort
+kunjoj | verb | hammer in; mint, coin
+kup | noun | vault; heap; haymow
+kupac | noun | plate, platter, dish with a lid; scale-pan
+kupalicë | noun | stack
+kupanicë | noun | cup, goblet
+kupçicë | noun | shallow dish
+kupçore | noun | pot, jar
