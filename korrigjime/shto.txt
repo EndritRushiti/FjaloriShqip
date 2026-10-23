@@ -52403,3 +52403,57 @@ mëlksoj | verb | twist, squirm
 mëlmesë | noun | flavouring
 mëlmyej | verb | flavour, season, add butter and oil
 mëlmej | verb | flavour, season, add butter and oil
+# ── mannshto.tsv ──
+mullijë | noun | 
+mëllër | noun | 
+mëmëdheth | noun | homeland
+mëmëliqe | noun | cornflour gruel
+mëmëlubi | noun | witch, vampire
+mëmërak | adj | maternal
+mëmëri | noun | maternity
+mëmo | noun | grannie
+mëmor | adj | mammalian
+mënaconj | verb | hiccup, sob
+mënat | adv | in the morning, this morning
+mënatje | noun | morning
+mënçim | adj | wise
+mëndafshore | noun | silk mill; silk-breeding station
+mëndallë | noun | 
+mëndarak | adj | intelligent; suckled by another sheep, fostered
+mëndarisht | adv | mentally
+mëndere | noun | fright, terror
+mënder | noun | fright, terror
+mënderoj | verb | frighten, terrify
+mëndershëm | adj | 
+mëndisht | adv | mentally
+mëndtar | noun | shepherd, hillman
+mëndergore | noun | mandragora
+mëndinë | noun | suckling, sucking calf
+mëndjak | adj | witty; epigrammatic
+mëndjake | noun | saying, wise word
+mëndjeçkathët | adj | alert, bright
+mëndjehollsi | noun | wit, shrewdness
+mëndjelirë | adj | frank, liberal
+mëndjemprehë | adj | witty, keen
+mëndjemugur | adj | stupid
+mëndjengritur | adj | highly-strung, nervous, irritable
+mëndjengjeshur | adj | obstinate
+mëndjepakët | adj | nitwitted
+mëndjeplogë | adj | sluggish, dull
+mëndjeshitës | adj | showing off, pedantic; pedant
+mëndjethellë | adj | profound
+mëndryeshëm | adj | squalid
+mëndullë | noun | almond
+mënirë | noun | 
+mëner | noun | 
+mënershëm | adj | 
+mënesë | noun | delay, lateness, sloth
+mënë | noun | fate
+mëngash | adj | 
+mëngim | noun | lack, want, shortage
+mënguar | adj | early in the morning
+mëngjarak | adj | 
+mëngjash | adj | 
+mëngjellë | noun | oil-press
+mëngjez | noun | 
+mëngjesem | verb | have breakfast

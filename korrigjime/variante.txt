@@ -1566,3 +1566,15 @@ mëhoj | mohoj | alternative
 mkâmb | mëkëmb | alternative
 mëlcoj | ëmbëlcoj | alternative
 mëlshi | mëlçi | alternative
+# ── Mann 1948 ──
+mullijë | mëllenjë | alternative
+mëllër | mëllezë | alternative
+mëndallë | mandall | alternative
+mëndershëm | mnershëm | alternative
+mënirë | mënyrë | alternative
+mëner | mnerë | alternative
+mënershëm | mnershëm | alternative
+mëngash | mëngjarash | alternative
+mëngjarak | mëngjarash | alternative
+mëngjash | mëngjarash | alternative
+mëngjez | mëngjes | alternative
