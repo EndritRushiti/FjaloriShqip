@@ -51900,7 +51900,6 @@ mbërdheshëm | adj | ground-floor, ground-, level-
 mbërdhezem | verb | flush, burn, turn hot
 mbërdhije | noun | chill, chilliness
 mbërdhihem | verb | feel cold
-mbërsis | verb | boil over
 mbëshel | verb | shut, close, lock
 mbërshell | noun | bar, bolt
 mbërshelë | adj | shut, closed; rasping, shrill
