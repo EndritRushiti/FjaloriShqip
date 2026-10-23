@@ -50057,3 +50057,56 @@ kupalicë | noun | stack
 kupanicë | noun | cup, goblet
 kupçicë | noun | shallow dish
 kupçore | noun | pot, jar
+# ── mannshto.tsv ──
+kupërtë | adj | copper
+kupicë | noun | heap, pile (esp. of maize)
+kupis | verb | row (a boat)
+kupitar | noun | oarsman, boatman, rower
+kupkë | noun | little cup; dimple
+kuprec | adj | stingy; miser
+kupresh | noun | halter
+kuprreci | noun | caprice
+kupri | noun | butter-box
+kuprrim | noun | covetousness, desire, passion
+kuprroj | verb | covet, desire, crave
+kupshore | noun | small dish
+kuptis | verb | arrive; dash, bustle
+kuptos | verb | conquer, defeat; cover in, enclose
+kupthi | adv | at a gallop
+kuqalak | adj | reddish
+kuqall | noun | purslane
+kuqarij | verb | pile up, collect
+kuqarim | noun | purslane
+kuqbardhje | noun | blight on citrus leaves
+kuqelar | adj | roan, reddish
+kuqelosh | adj | reddish, auburn, ruddy; chestnut (of a horse); fair, light
+kuqeluem | adj | red-brown
+kuqerem | adj | reddish, ruddy, burnished; blushing
+kuqurremë | adj | reddish
+kuqeresm | adj | reddish
+kuqereshë | noun | red cow
+kuqeverdhë | adj | orange; red-brown
+kuqë | noun | yolk; red; swelling, tumour; reds, redskins
+kuqël | noun | waste liquid from olive oil; reddish-coloured goat; wild duck with red markings
+kuqëlohet | verb | turns red
+kuqëlosh | adj | reddish
+kuqëris | verb | redden, tinge red
+kuqërisem | verb | blush
+kuqërreshkët | adj | reddish-brown
+kuqërrim | noun | ruddiness
+kuqërris | verb | redden
+kuqërruem | adj | reddish
+kuqilar | noun | purple dye (from seaweed); reddish
+kuqilestër | noun | carmine; Lemnian earth
+kuqilistër | noun | carmine
+kuqlar | adj | reddish
+kuqlimët | adj | reddish
+kuqoj | verb | shine red, glow; red ox
+kuqremtë | adj | dark red
+kuqris | verb | redden
+kuqrrim | adj | reddish
+kuqrris | noun | yolk
+kuqrrisem | verb | turn red
+kuqrrisun | adj | reddish
+kuqsi | noun | red, redness
+kuqsirë | noun | red, redness
