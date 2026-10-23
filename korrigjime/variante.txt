@@ -1408,3 +1408,8 @@ marmar | mermer | alternative
 marmuer | mermer | alternative
 marmaq | maraj | alternative
 marmull | mermer | alternative
+# ── Mann 1948 ──
+marqiz | markez | alternative
+martiris | dëshmoj | alternative
+martyr | martir | alternative
+marraz | maraz | alternative

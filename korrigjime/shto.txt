@@ -51691,3 +51691,33 @@ marmos | verb | daze, dumbfound
 marmull | noun | 
 marmuroj | verb | marble, face with marble
 marneshë | noun | violet
+# ── mannshto.tsv ──
+maro | noun | firefly
+marohem | verb | pine, languish
+marqiz | noun | 
+marshalloje | noun | oleander
+marshallojë | noun | oleander
+marshtim | noun | arrangement, disposal, administration; satisfaction
+marshtrim | noun | arrangement, disposal, administration; satisfaction
+marshtoj | verb | arrange, dispose, administer; satisfy
+marshtroj | verb | arrange, dispose, administer; satisfy
+marshtrues | adj | administrative; bailiff, steward, administrator
+marshtues | adj | administrative; bailiff, steward, administrator
+marshtrueshëm | adj | orderly, tidy, satisfactory
+marshtueshëm | adj | orderly, tidy, satisfactory
+martalos | noun | patrol
+martel | noun | hammer
+martim | noun | marriage
+martiri | noun | testimony
+martiris | verb | 
+martosë | noun | tablet, tile placed over another, slab
+martueshëm | adj | marriageable
+martyr | noun | 
+maruet | adj | frail, ailing, lean, thin; stripling
+maruem | adj | frail, ailing, lean
+maruthe | noun | variety of cabbage
+marvazi | noun | Malvasian grapes
+marzipan | noun | marzipan
+marrak | adj | mad
+marrash | adj | mad
+marraz | noun | 
