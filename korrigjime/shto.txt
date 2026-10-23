@@ -54527,3 +54527,43 @@ ngjënohem | verb | try, taste, sample
 ngjënueshëm | adj | fasting
 ngjëshëm | adj | alike
 ngjij | verb | suckle; sate, fill, fatten
+# ── mannshto.tsv ──
+ngjilit | noun | spear, javelin, dart
+ngjindem | verb | be found
+ngjinesë | noun | fasting, fast; tasting, sampling
+ngjinim | noun | fasting, fast; tasting, sampling
+ngjiq | noun | darkness
+ngjirim | noun | tasting, sampling
+ngjiroj | verb | taste, sample
+ngjishtër | noun | fishhook
+ngjitazi | adv | closely, densely, compactly
+ngjitesë | noun | appendix (to a book)
+ngjitëme | adv | up against, touching, adjoining
+ngjitse | noun | goose-grass
+ngjitsinë | noun | glue
+ngjollues | adj | blemishing, marring
+ngjomështi | noun | damp, moisture, greenness
+ngjuej | verb | arouse, wake
+ngjueshëm | adj | alert, watchful
+ngjurmoj | verb | follow up, track, sleuth
+ngjurrem | verb | get hoarse
+ngjyç | adv | how
+ngjyemje | noun | dyeing, dye
+ngjyenj | verb | dye
+ngjyenjës | noun | dyer
+ngjyerës | noun | painter; dyer
+ngjyes | noun | dyer
+ngjyesë | noun | tincture, dye
+ngjyjë | noun | colour, shade
+ngjyle | noun | bullet
+ngjyranë | noun | inkpot
+ngjyrët | adj | coloured, dyed, tinted, inked
+ngjyrethellë | adj | dark
+ngjyrosëm | adj | coloured, dyed
+ngjyrtar | noun | dyer
+ngjyrtore | noun | colour-box, box of paints; dyeworks
+ngjyshsa | conj | till, until
+nigël | noun | water-nymph, mermaid
+nigjah | noun | dowry, settlement; alimony
+nigjoj | verb | hear
+nijetoj | verb | intend
