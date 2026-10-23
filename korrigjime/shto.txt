@@ -50269,3 +50269,53 @@ kyq | verb | lock
 kyralinë | noun | wax plaster used as ointment
 kyrshi | noun | furrier
 kytare | noun | honeycomb
+# ── mannshto.tsv ──
+labdetar | noun | swaggerer
+labduri | noun | boasting
+labërkos | verb | reduce; wear out
+labiç | noun | bogey, bugbear; importunate; rotten
+labod | noun | orach, mountain spinach
+lac | noun | robber, highwayman; jobber, drudge
+lacmac | noun | cheese-curd
+laçkë | noun | bag
+ladër | noun | pig with tapeworm; blighter
+ladri | noun | tapeworm disease in pigs
+ladut | noun | rogue, rascal
+ladutë | adj | rascally; mad, crazy
+ladhë | noun | garlic broth
+lafetë | noun | gusset, gore, inlet; appendix (anatomy); dead flesh
+lafitem | verb | err, be confused
+lafshak | adj | crested; uncircumcised
+lafshinë | noun | dogbane (botany)
+laft | noun | glory, praise
+laftari | noun | eagerness, desire
+laftaris | verb | be eager, long, tremble
+lagater | noun | period of changeable weather, March or April
+lagatershëm | adj | uncertain (of weather)
+lagavi | noun | scribble
+lagavis | verb | scribble
+lagcë | noun | watering-can
+lagsinë | noun | wetness, dampness, wet weather
+lagsirë | noun | wetness, dampness
+lagsoj | verb | wet, damp, moisten, soak
+lagshtim | noun | moisture, damp
+lagshtinë | noun | moisture; short shower of rain
+lagshtirë | noun | moisture
+lagshtis | verb | wet, damp, soak
+lagji | noun | pitcher, jug; vase, pot; decanter; basin
+lagjin | noun | pitcher, jug
+lagjinë | noun | pitcher, jug
+lahinga | noun | womankind
+lahinka | noun | womankind
+lahtar | noun | keenness, eagerness, desire, trembling
+lahtari | noun | keenness, eagerness
+lajcoj | verb | flatter
+lajetar | noun | washbasin
+lajtar | noun | washbasin
+lajetare | noun | washbasin
+lajkim | noun | flattery; eulogy
+lajkmeni | noun | flattery
+lajkos | verb | cajole
+lajksi | noun | flattery, sycophancy, cringing
+lajksoj | verb | flatter
+lajktar | adj | flattering, cajoling; flatterer
