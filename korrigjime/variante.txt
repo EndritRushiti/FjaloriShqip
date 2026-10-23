@@ -1810,3 +1810,9 @@ ndërzihem | mbërzihem | alternative
 # ── Mann 1948 ──
 ndoi | ndonjë | alternative
 ndojherë | ndonjëherë | alternative
+# ── Mann 1948 ──
+ndryth | ndrydh | alternative
+ndrrej | ndërroj | alternative
+ndrrim | ndërrim | alternative
+ndrroj | ndërroj | alternative
+ndrryshe | ndryshe | alternative

@@ -53989,3 +53989,42 @@ ndritë | noun | brightness, splendour
 ndritem | verb | be lit, shine, resplend; be sainted
 ndritëlis | verb | brighten
 ndritëm | adj | famous
+# ── mannshto.tsv ──
+ndritës | adj | bright, resplendent
+ndritët | adj | luminous
+ndritsi | noun | glory
+ndritsim | noun | brightness, lighting, splendour
+ndritshim | noun | lighting, illumination
+ndritshoj | verb | light up, illuminate
+ndritullimë | noun | brightness, splendour
+ndrojcë | adj | changing (in colour)
+ndrojë | noun | fear, timidity
+ndrojtsoj | verb | menace
+ndrojtsohem | verb | fear
+ndrucë | noun | night-owl
+ndrunjtë | adj | wooden
+ndrydhem | verb | be squeezed, strained, compressed; wither; get involved
+ndrydhë | noun | squeezer, wringer; bit (of bridle); torture-rack
+ndryej | verb | lock
+ndrymë | adj | locked; retained, inculcated
+ndryem | adj | locked; retained
+ndrymës | noun | locker; hypocritical; hypocrite
+ndrynës | adj | hypocritical; hypocrite
+ndryshej | adv | otherwise, or else
+ndryshksi | noun | rustiness, tarnish
+ndryth | verb | 
+ndrrej | verb | 
+ndrresë | noun | change, alternation, variation, variety
+ndrri | noun | piping, edging, braid
+ndrrizë | noun | piping, edging, braid
+ndrrim | noun | 
+ndrroj | verb | 
+ndrronjë | noun | change, exchange, alteration
+ndrronjës | adj | changing, variable
+ndrrues | adj | changing, variable; gear (auto)
+ndrrueshëm | adj | changeable, variable
+ndrryshe | adv | 
+nduget | verb | ripens and dries (of fruit)
+ndugët | adj | ripened and dry, matured
+nduhtë | noun | news
+ndujket | verb | ripens and dries (of fruit)
