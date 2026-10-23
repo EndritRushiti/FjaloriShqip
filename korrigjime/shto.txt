@@ -51453,3 +51453,5 @@ llumunerë | noun | light, lamp
 lluncuall | noun | shroud, sheet
 llupsi | noun | gluttony, greed, voracity
 lluqe | noun | strapping girl or woman
+# ── mannshto.tsv ──
+llukanik | noun | sausage
