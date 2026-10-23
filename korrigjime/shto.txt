@@ -51010,4 +51010,63 @@ lisk | noun | tongue (of bell)
 lisni | noun | oak-wood; nursery, plantation
 lisnore | noun | copse
 lisoparth | noun | leaf-mould
-listerik | noun | 
+listerik | noun |
+# ── mannshto.tsv ──
+listër | noun | fragrant meadow-plant like thyme; savoury
+listinë | noun | oak forest
+listopath | noun | January
+listrike | noun | 
+lishakë | noun | seesaw
+litë | adj | linen; sheet
+litostrato | noun | pavement
+litrë | noun | 
+lithcë | noun | 
+lithi | noun | 
+lithkë | noun | bond, tie, connection; necktie, ribbon, lace
+lithmë | noun | bond, tie; ribbon, lace
+liuem | adj | pockmarked
+livandua | noun | 
+livar | verb | lower
+livarem | verb | lower oneself
+livare | noun | waterfall
+livel | noun | level
+livezhgë | noun | 
+livërt | adj | mediocre, middling
+liviz | verb | 
+livizje | noun | 
+livore | noun | 
+livorë | noun | 
+livoshkë | noun | 
+livoxhgë | noun | 
+livozhgë | noun | 
+livris | verb | move, wag
+livroj | verb | move; wriggle, swarm (of fish); plough
+livrues | noun | ploughman
+livruet | adj | tilled, cultivated; cultured
+lizuem | adj | pockmarked
+ljalë | noun | nonsense, chatter
+ljershëm | adj | fat, fatty
+lkogjone | noun | 
+lkore | noun | chicory
+lkuqem | verb | turn red, blush
+lmazë | noun | diamond
+lmek | verb | wet, damp
+lmekët | adj | damp, wet
+lmekun | adj | damped; dim
+lmoj | verb | 
+lmuç | adv | huddled up, in a heap
+lmuq | adv | huddled up, in a heap
+lmue | noun | 
+lmues | noun | 
+lmuet | adj | smooth
+lmyhem | verb | break one's fast
+lnur | verb | card, comb (flax), hackle
+lnuer | verb | card, comb (flax), hackle
+lnjyej | verb | flay
+lobenicë | noun | watermelon
+lobonicë | noun | watermelon
+lobiç | noun | 
+lodëz | noun | little tear
+lodrar | noun | player; sportsman
+lodrëz | noun | riddle
+lodhmeni | noun | 
