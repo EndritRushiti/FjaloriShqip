@@ -49697,3 +49697,66 @@ ksifarë | conj | so that, hence, thus
 ksifarsoj | adv | thus
 ksifarsh | adv | thus, so; such
 ksifter | noun | hawk
+# ── mannshto.tsv ──
+ksilloj | adv | so, thus; such
+ksillshëm | adj | such
+ksisoj | adv | thus, so; such
+ksisojt | adj | such
+ksistë | noun | barb of a goad, spike
+ksodore | adj | such, of that kind
+ksodoret | adj | such
+ksollë | noun | hut, cottage
+ksombël | noun | example
+ksompël | noun | example
+ksoqere | noun | locust bean (ceratonia siliqua)
+ksoqerëz | noun | locust bean
+ksyme | noun | pain, pang
+kshanzë | noun | roof-timbering
+kshil | noun | opinion, suspicion
+kshiloj | verb | suspect, suppose
+kshillë | noun | advice, counsel
+kshillim | noun | counsel, deliberation; advice; consultation
+kshillonjës | noun | adviser; counsellor; councillor, member
+kshillues | noun | adviser
+kshtarpë | noun | wild millet
+kshtiel | noun | castle
+kshtiell | noun | castle
+kshtjell | noun | castle
+kshtjellë | noun | castle
+kshu | adv | thus
+kshyrë | noun | mountain path, track
+kthap | noun | claw; talon; fang; hook; prong (of a fork); inverted commas
+kthellët | adj | deep
+kthellim | noun | depth, abyss; probing, penetration, search
+kthellinë | noun | depth, abyss
+kthelloj | verb | probe, penetrate, search
+kthellsi | noun | depth
+kthelltas | adv | deeply
+kthelltinë | noun | depth, abyss
+kthepët | adj | hooked
+kthetërr | noun | claw, talon
+këthiell | verb | clear
+këthjell | verb | clear
+kthiellesë | noun | revelation, disclosure
+kthiellë | adj | clear, bright
+kthiellët | adj | clear
+kthiellës | adj | clearing, enlightening
+kthielli | noun | clarity, transparency; lucidity
+kthiellim | noun | clarity, purity, brightness; explanation
+kthielloj | verb | clear, clarify; explain, propound
+kthiellsi | noun | purity, clarity, lucidity; sincerity
+kthiellsirë | noun | purity, clarity
+kthiellti | noun | purity, clarity
+kthielluem | adj | clear, lucid
+kthilloj | verb | clear
+këthim | noun | turn; return
+kthirë | noun | hips
+kthisur | adj | founded
+kthiseri | noun | building
+kthisës | noun | mason, bricklayer
+kthisje | noun | building
+kthistar | noun | mason
+kthistari | noun | bricklaying, masonry
+kthizë | noun | wall
+kthjelltas | adv | clearly
+kthjelltazi | adv | clearly
