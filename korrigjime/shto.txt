@@ -51487,3 +51487,38 @@ mafes | noun | kerchief, handkerchief
 mafest | noun | kerchief, handkerchief
 mafishe | noun | cake, bun
 magaçe | noun | small chopper
+# ── mannshto.tsv ──
+magarc | noun | donkey, ass
+magaze | noun | 
+magazë | noun | 
+magazi | noun | 
+magaztar | noun | storekeeper
+magazoj | verb | store, hoard
+magese | noun | manganese
+magën | noun | 
+magnes | noun | magnesium
+magnetis | verb | magnetise
+magnetizmë | noun | magnetism
+magnetoj | verb | magnetise
+magnetues | adj | magnetising
+magoj | verb | thresh (corn) with a borrowed horse
+magrip | noun | oil-jar, jar
+magrur | noun | pride, haughtiness
+magryp | noun | earthen oil jar
+magjare | noun | she-ass
+magjareshë | noun | she-ass
+magjarr | noun | Hungarian; 12-franc gold piece
+magjatore | noun | cook; woman cook at a wedding
+magjëtore | noun | kitchen
+magjikë | noun | witch
+magjitar | noun | 
+mahagon | noun | mahogany
+maharam | noun | cloth, towel
+maharan | noun | cloth, towel
+mahem | verb | get fat; boast, swagger
+mahisem | verb | swell, be inflamed
+mahisur | adj | sore
+mahitqar | noun | sneerer, mocker; sneering
+mahmuz | noun | spur
+mahrama | noun | cloak, wrap
+mais | verb | 

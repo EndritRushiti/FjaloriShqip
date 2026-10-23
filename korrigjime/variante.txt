@@ -1366,3 +1366,10 @@ llustros | lustroj | alternative
 lluxë | llucë | alternative
 madanos | majdanoz | alternative
 madjeza | madje | alternative
+# ── Mann 1948 ──
+magaze | magazinë | alternative
+magazë | magazinë | alternative
+magazi | magazinë | alternative
+magën | makinë | alternative
+magjitar | magjistar | alternative
+mais | mahis | alternative
