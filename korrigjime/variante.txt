@@ -1464,3 +1464,12 @@ mbiqyrje | mbikëqyrje | alternative
 mbjedh | mbledh | alternative
 mbjeth | mbledh | alternative
 mbjoj | mbloj | alternative
+# ── Mann 1948 ──
+mbluhur | pluhur | alternative
+mblush | mbush | alternative
+mblysh | mlysh | alternative
+mbodec | bodec | alternative
+mbohës | mohues | alternative
+mbohim | mohim | alternative
+mbohoj | mohoj | alternative
+mbranda | brenda | alternative

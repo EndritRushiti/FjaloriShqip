@@ -51967,3 +51967,59 @@ mblatës | noun | wooden stamp for marking shewbread; seal; marker, branding iro
 mblatim | noun | stamp, seal, mark (esp. on shewbread)
 mblatoj | verb | stamp
 mbjatuer | noun | stamp, marker (esp. for shewbread)
+# ── mannshto.tsv ──
+mbledhët | adj | massed, gross, aggregate; covered
+mbledhsi | noun | assembly
+mbleràk | adj | greenish
+mblerim | noun | verdure, foliage, greenery; glade; blossoming forth
+mbleroj | verb | be verdant, come into leaf; bloom, blossom forth
+mblertë | adj | green, verdant
+mbleruar | adj | green, verdant
+mblesoj | verb | arrange marriages, mediate
+mblesinë | noun | matchmaking
+mbleskë | noun | woman matchmaker
+mbletanik | noun | apiary
+mbletar | noun | bee-keeper
+mblim | noun | filling; storage
+mblitë | noun | castle keep
+mblojcë | noun | cover, covering; lid; breastplate
+mblojë | noun | cover, coverlet; lid
+mblojes | noun | cover, envelope
+mblojesë | noun | cover, envelope
+mbloket | verb | heals, leaving a scar
+mblomë | noun | roof
+mblozë | noun | soot; cupboard, shelf
+mbluarje | noun | store, storage
+mblues | adj | grinding; molar
+mbluet | adj | covered up, hidden
+mbluhur | noun | 
+mblumboj | verb | lead, seal with lead
+mblush | verb | 
+mblyj | verb | cover
+mblysh | noun | 
+mbllaçis | verb | chew, chew over, munch; mate (of goats); master, overcome
+mllaçis | verb | chew, chew over, munch
+mbllaçitem | verb | chew the cud; smack one's chops
+mbllastër | noun | poultice
+mbodec | noun | 
+mbodis | verb | goad, spur on
+mbollis | verb | check, hinder, impede
+mbollisur | adj | delayed, late
+mbof | noun | denial
+mbohës | adj | 
+mbohim | noun | 
+mbohoj | verb | 
+mbole | noun | testicle
+mbosë | adv | separately, apart
+mbraçis | verb | soak
+mbrëmanet | adv | in the evening
+mbranda | adv | 
+mbrap | verb | check, deter, hold up, repulse
+mbrapanë | adv | back
+mbrapazë | adv | back
+mbrapavepri | noun | retroaction, retrospective action
+mbrapaveproj | verb | retroact, act retrospectively
+mbrapaveprues | adj | retroactive
+mbrapëm | adj | last; hind, rear
+mbrapme | noun | end
+mbrapët | adj | reversed, muddled
