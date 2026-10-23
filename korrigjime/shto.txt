@@ -54080,3 +54080,31 @@ nembrâm | adv | at last
 nemcoj | verb | make dumb
 nemenc | adj | dumb
 nemis | verb | strike dumb; dumbfound
+# ── mannshto.tsv ──
+nemose | adv | at least; really; so to speak
+nemosje | noun | curse, cursing
+nemte | noun | kind of cloak
+nepem | verb | be busy with
+nepër | prep | 
+nepkër | noun | adder, viper
+neprënktë | noun | adder, viper
+nepërse | noun | interjection
+nepërsetë | adv | by way of interruption, by the way
+nepsar | adj | greedy, desirous; glutton
+nepsetaps | noun | tit for tat
+neranxë | noun | orange; bitter orange
+neres | noun | untrimmed vine
+nerënzë | noun | orange
+nergu | adv | deliberately, purposely, intentionally, specially
+neri | prep | until, up to
+nerqize | noun | narcissus
+nerthët | adj | chilly, cold, fresh
+nervë | noun | nerve
+nervlis | verb | use, adopt, employ
+nervosi | noun | nerve formation
+nesra | noun | the morrow
+nesrejt | adv | the next day, on the morrow
+nespullë | noun | medlar
+neshk | noun | ass's colt
+neshkë | noun | she-colt
+neshtër | noun | lancet

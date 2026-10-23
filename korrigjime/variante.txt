@@ -1816,3 +1816,5 @@ ndrrej | ndërroj | alternative
 ndrrim | ndërrim | alternative
 ndrroj | ndërroj | alternative
 ndrryshe | ndryshe | alternative
+# ── Mann 1948 ──
+nepër | nëpër | alternative
