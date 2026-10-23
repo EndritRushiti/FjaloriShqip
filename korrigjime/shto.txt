@@ -50194,3 +50194,39 @@ kusëri | noun | piracy, banditry; theft
 kusërisht | adv | piratically
 kusëroj | verb | plunder, raid, loot
 kusiçkë | noun | small kettle, pan; can, tin; well-bucket
+# ── mannshto.tsv ──
+kuskun | noun | tail-strap (of horses), crupper
+kuspullos | verb | entangle, ball up
+kuspullosem | verb | crouch
+kuspulluar | adj | huddled up; crippled
+kusroj | verb | plunder
+kusuroj | verb | finish off; make up (accounts)
+kusholl | noun | pocket
+koshall | noun | pocket
+kushal | noun | pocket
+kushar | noun | basket
+kushell | noun | pocket
+kushi | noun | peace, quietude
+kushri | noun | cousin
+kushrini | noun | cousins, cousinhood
+kushtesë | noun | dedication
+kushtër | noun | condition, vow; beestings
+kushtri | noun | campaign
+kushtuom | adj | devoted
+kushtutë | noun | constitution; charter, patent
+kushull | noun | consul
+kushullë | noun | consul
+kutalak | noun | stick for playing tip-cat
+kutaresë | noun | resolution, determination; decision; sentence
+kutec | noun | fowl-pen
+kutestar | noun | taskmaster
+kutiçelës | noun | can-opener
+kutikun | noun | boor, churl
+kutlas | noun | scullion
+kutrul | noun | semolina, groats
+kutruve | noun | water-jar
+kutulis | verb | roll
+kutulishtë | noun | wooden pestle; pair of nutcrackers
+kutullaç | adv | coiled up
+kutullë | noun | a grain measure
+kuturesë | noun | resolution, decision
