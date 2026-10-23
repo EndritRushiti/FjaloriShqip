@@ -50230,3 +50230,42 @@ kutulishtë | noun | wooden pestle; pair of nutcrackers
 kutullaç | adv | coiled up
 kutullë | noun | a grain measure
 kuturesë | noun | resolution, decision
+# ── mannshto.tsv ──
+kuturisur | adj | bent on
+kuturumthi | adv | haphazard, blindly
+kuturum | noun | vague notion
+kuth | noun | earthen milk-pan; anvil
+kuvendtar | noun | talker, speaker; eloquent, loquacious; conversational
+kuvernator | noun | governor, statesman
+kuvernë | noun | government
+kuvernoj | verb | govern; regulate
+kuvise | noun | conversation, talk, chat
+kuvli | noun | cage
+kuvnesë | noun | pact, agreement, bargain; term, period
+kuximshëm | adj | daring, bold
+kuximtar | adj | daring, bold
+kuxhinë | noun | kitchen
+kuzar | noun | stump
+kuze | noun | baking-plate, baking-pan; kneading-tray
+kuzinë | noun | kitchen
+kuzhuk | noun | fur coat
+kvill | noun | brightness, clearness
+kvillë | noun | brightness
+kvillët | adj | bright, clear
+kvillshëm | adj | bright, clear
+kvintal | noun | quintal
+kybë | noun | dome; arch
+kyçar | noun | locksmith
+kyçis | verb | lock
+kyçmbajtës | noun | chamberlain
+kyçnicë | noun | lock
+kyços | verb | lock
+kyçtar | noun | locksmith
+kyem | adj | wasted, ruined
+kylboqe | noun | spittle; mucus, phlegm
+kylytyrë | noun | lid; baton of a door
+kylysh | noun | pup, cub
+kyq | verb | lock
+kyralinë | noun | wax plaster used as ointment
+kyrshi | noun | furrier
+kytare | noun | honeycomb
