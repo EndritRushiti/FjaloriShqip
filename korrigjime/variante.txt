@@ -1381,3 +1381,9 @@ mâjtazi | majtas | alternative
 makedhonis | majdanoz | alternative
 magdonos | majdanoz | alternative
 malazestë | malazez | alternative
+# ── Mann 1948 ──
+maldanos | majdanoz | alternative
+malsi | malësi | alternative
+malukas | malloj | alternative
+mallë | mall | alternative
+mallnjim | mallëngjim | alternative

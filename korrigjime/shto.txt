@@ -51561,3 +51561,51 @@ makuti | noun | greed, gluttony
 malazestë | adj | 
 malazisht | adv | Montenegrin-fashion
 malbrez | noun | horizon
+# ── mannshto.tsv ──
+malcisht | adv | mountaineer-fashion
+malcori | noun | mountain people
+maldanos | noun | 
+malebi | noun | kind of rice-pudding
+malgatues | adj | clever, cunning
+malojt | adv | in the mountains
+malsi | noun | 
+malsisht | adv | highland-fashion
+maltej | adv | beyond the mountain
+malukas | verb | 
+malukat | noun | nuisance, pest, rogue
+mallafraq | noun | urchin
+mallamët | adj | gold, golden
+mallangó | noun | hare
+mallaurë | noun | owl
+mallesë | noun | pasture
+mallë | noun | 
+mallnjim | noun | 
+mallëngjenjës | adj | pathetic, touching, moving
+mallim | noun | yearning, longing; pasture, grazing
+mallkimtar | adj | cursing; blasphemer
+mallmuçe | noun | medlar
+mallmuçë | noun | medlar
+mallosem | verb | yearn, long
+mallosur | adj | wistful, homesick
+mallpatoj | verb | suffer
+mallsohet | verb | forms a crust (of a wound)
+mallshëm | adj | yearning, longing, wistful, sentimental
+mallza | noun | variety of clover, vetch or medick
+mallzohet | verb | forms a scar, heals up
+mamakinë | noun | tailor's dummy
+mamaligjë | noun | maize porridge
+mamalingë | noun | maize porridge
+mamar | adj | mammal, suckling
+mamçore | adj | milch
+mameshë | noun | midwife
+mamkë | noun | oat-bag for horses
+mamosh | adj | mother's
+mamshore | adj | milch
+mamuzezë | noun | small spur
+manatoke | noun | strawberries
+manaç | adj | curious, peculiar
+managetë | noun | tunic, jacket, cape
+manale | noun | taper, candle, candlestick
+manapo | adv | well, well and good, finally
+manarez | noun | small pet lamb
+manarkë | noun | small pet lamb
