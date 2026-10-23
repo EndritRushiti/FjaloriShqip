@@ -53120,3 +53120,55 @@ mosprovim | noun | lack of proof
 mospunim | noun | inactivity, idleness, leisure
 mospushtueshëm | adj | indomitable
 mosputhitje | noun | non-contact, slackness, play, misfit
+# ── mannshto.tsv ──
+mosqatë | noun | nutmeg
+mosqëndresë | noun | instability
+mosqytetas | noun | non-citizen
+mosrrafshinë | noun | irregularity, rise, eminence
+mosrregjistrim | noun | 
+mossundim | noun | lack of control, non-control
+mosujdisje | noun | disagreement
+mosur | noun | winding of armature
+mosvepri | noun | inaction, inertness, inertia; omission
+mosvërejtje | noun | disregard, oversight
+mosvërsulje | noun | non-aggression
+mosvështim | noun | lack of consideration
+mosvrejtje | noun | disregard, oversight
+mosh | noun | 
+moshar | adj | of age, senior, adult; aged, mature
+moshari | noun | coming of age, seniority
+moshëm | adj | senior, of age
+moshtar | adj | adult
+moshurkë | noun | green kidney-bean; pod (of bean)
+motaçillë | noun | a bird (wagtail)
+motake | noun | one-year-old nanny-goat
+motash | noun | yearling
+motërgonë | noun | mandragora
+motëri | noun | cotton-winder
+motërim | noun | sworn sister; sisterliness; bridesmaid
+motërsi | noun | sisterhood; sisters (coll.)
+motës | adj | contemporary, (one) of like age
+motje | noun | honeysuckle
+motmoçar | adj | one-year-old
+motni | noun | annual celebration; duration
+motnohem | verb | grow old
+motociklistë | noun | 
+motohet | verb | time passes
+motoranije | noun | motor-boat
+motovi | noun | cotton-winder, winding-frame
+motovile | noun | cotton-winder, winding-frame
+motovis | verb | wind on a winding-frame
+motronë | noun | needlewoman
+motsim | noun | temperature; climate
+motsinë | noun | temperature
+motsyem | adj | aged
+motsyhem | verb | age, grow old
+motshëm | adj | aged, old, ancient
+motshkrim | noun | chronology
+motsuar | adj | old, ancient, of long standing
+mpakohem | verb | meddle with, have to do with
+mparu | adv | quite, altogether
+mpastroj | verb | 
+mperator | noun | emperor
+mperaturë | noun | emperor
+mpëkat | noun | 
