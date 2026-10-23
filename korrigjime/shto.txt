@@ -54493,3 +54493,37 @@ ngjallis | verb | revive, rouse, bring round, bring to life; stimulate
 ngjallitës | adj | reviving, refreshing, stimulating
 ngjallme | noun | life, resurrection
 ngjallueshëm | adj | lively
+# ── mannshto.tsv ──
+ngjame | noun | resemblance
+ngjamës | adj | similar, like
+ngjaroj | verb | lighten, brighten; purify, clarify
+ngjatem | verb | be prolonged, be stretched out, extend; hold forth
+ngjasi | noun | probability
+ngjasshëm | adj | probable; similar
+ngjatas | adv | near, close, at hand
+ngjatesë | noun | prolongation, projection
+ngjatë | adj | long
+ngjatim | noun | reach, stretch, range
+ngjatje | noun | extension, prolongation, projection, range
+ngjatshëm | adj | broad, large-scale
+ngje | interj | look, behold
+ngjeç | adv | until, up to
+ngjel | verb | stay, stick, stop
+ngjellë | noun | trance, coma
+ngjen | verb | it concerns
+ngjeqoj | verb | stifle, smother
+ngjerim | noun | circumference
+ngjermoj | verb | strive
+ngjeroj | verb | spread, extend, broadcast; stalk over, wade through; hem in, enclose, surround; overwhelm; pilfer
+ngjersa | conj | until
+ngjes | verb | lengthen, extend
+ngjetshëm | adj | close, neighbouring
+ngjethë | noun | chill, cold shudder
+ngjethi | noun | foliage, greenery
+ngjethshëm | adj | horrific, thrilling
+ngjënim | noun | fast, fasting
+ngjënoj | verb | fast
+ngjënohem | verb | try, taste, sample
+ngjënueshëm | adj | fasting
+ngjëshëm | adj | alike
+ngjij | verb | suckle; sate, fill, fatten
