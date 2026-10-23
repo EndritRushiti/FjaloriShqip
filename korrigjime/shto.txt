@@ -52180,3 +52180,48 @@ mehane | noun | pub, beer-shop
 mehash | noun | "plum", windfall
 mehitem | verb | 
 mehje | noun | inertia, stagnation
+# ── mannshto.tsv ──
+mejaf | adv | 
+mejaft | adv | 
+mejdis | prep | 
+mejtim | noun | thought; opinion
+mejtoj | verb | think, reflect
+mekam | noun | tomb (esp. of a hermit), shrine; tone
+mekanizmë | noun | machinery, mechanism, apparatus
+mekat | noun | 
+mekrij | verb | 
+mekris | verb | bleat
+mekrrimë | noun | bleating
+mekje | noun | fainting; choking
+mekshëm | adj | gasping, choking, exhausted, faint
+mekthoj | verb | wink, blink
+melacak | noun | variety of fig
+melakuq | noun | sorghum
+melakuqe | noun | sorghum
+melan | noun | ink
+melemec | noun | small white cap
+melezi | noun | half-silk, silk and cotton mixture
+melët | adj | (of) millet
+melicë | noun | hackle
+melingojë | noun | 
+melingone | noun | 
+melingonjë | noun | 
+melingorë | noun | 
+milingonjë | noun | 
+milingore | noun | 
+milingorë | noun | 
+milingër | noun | 
+melixhane | noun | 
+melixhanë | noun | 
+melinxhanë | noun | 
+melxhane | noun | 
+melkim | noun | care, attention, fostering, feeding; administration
+melkoj | verb | care for, foster, feed; administer
+melkues | adj | administrative
+melmej | verb | prepare (food)
+melmes | noun | preparation, drug, flavouring
+melmyhem | verb | breakfast
+meltë | adj | millet-
+melun | noun | future; fate, destiny
+mellodi | noun | 
+mellodhi | noun | 
