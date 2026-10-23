@@ -53026,3 +53026,42 @@ mollopupth | noun | chubby boy
 mollovatje | noun | accusation
 mollvigjëz | noun | sorb-apple
 mollvizës | noun | sorb-apple
+# ── mannshto.tsv ──
+mollzë | noun | 
+momisht | noun | mountain shrub about a metre high with evergreen leaves used as fodder
+momullë | noun | 
+mon | prep | facing, opposite
+mond | noun | torment, torture
+mondonj | verb | 
+mondues | adj | 
+mone | noun | rich pasture-land
+monedhar | adj | monetary
+monë | noun | lichen, moss
+monokall | adj | all alone
+moqila | noun | sluice-gates
+moraç | noun | fennel
+moraskë | noun | wild fennel
+morç | noun | corpse, carcass
+morçëm | adj | 
+mord | noun | death; ghost, bogey
+morde | noun | death
+mordshëm | adj | mortifying
+moris | verb | weaken, sap, undermine
+moritem | verb | languish, be ailing, pine
+mornicë | noun | shiver, shudder, creepiness
+moro | noun | plague
+morovicë | noun | 
+morsa | noun | walrus
+morshëm | adj | plaguey
+mortajis | verb | infect with plague
+mortajzoj | verb | infect with plague
+mortal | adj | 
+morte | noun | 
+mortë | noun | 
+morrak | adj | lousy
+morraman | adj | lousy
+morrazë | noun | poultry louse
+morreps | verb | hunt for lice
+morretra | noun | brushwood, undergrowth
+morrë | noun | louse
+morris | verb | hunt for lice

@@ -1700,3 +1700,13 @@ mokël | mokër | alternative
 mollamuç | mushmollë | alternative
 mollmuçe | mushmollë | alternative
 mollmushe | mushmollë | alternative
+# ── Mann 1948 ──
+mollzë | mollëz | alternative
+momullë | mobilie | alternative
+mondonj | mundoj | alternative
+mondues | mundues | alternative
+morçëm | mortshëm | alternative
+morovicë | milingonë | alternative
+mortal | vdekshëm | alternative
+morte | mortje | alternative
+mortë | mortje | alternative
