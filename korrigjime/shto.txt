@@ -51116,3 +51116,29 @@ loshnik | noun | robe, mantle, cloak
 lotak | adj | tearful
 lotshëm | adj | tearful
 loxhikë | noun | lettuce
+# ── mannshto.tsv ──
+loztar | noun | player
+lter | noun | altar
+litineshë | noun | European woman, Italian woman, Catholic woman
+ltinisht | adv | in Italian, Latin or Catholic fashion
+ltinkë | noun | Italian woman, Catholic woman
+luath | noun | 
+lubade | noun | bodice or blouse of padded linen
+lubnicë | noun | watermelon
+lubiçicë | noun | violet; cyclamen
+lubis | verb | flatter
+lubkë | noun | tuft, crest
+lucaviq | noun | boor
+lucët | adj | muddy, dirty
+luci | noun | mud, mire
+lucik | noun | hollow adze (for hollowing wood)
+luçis | verb | boil up, bubble up
+luço | noun | fool
+ludi | noun | body odour
+luejtje | noun | movement, motion; madness
+lufe | noun | pay, wages
+luftare | noun | amazon
+luftareshë | noun | amazon
+lugc | adj | concave, hollow; gouge
+lugedër | noun | valley, glen
+lugerë | noun | wooden ladle (made of poplar)
