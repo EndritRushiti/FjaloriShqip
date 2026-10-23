@@ -49803,3 +49803,27 @@ kues | adj | feeding; feeder
 kufetar | noun | confectioner
 kufetari | noun | confectionary
 kufetë | noun | sweet, candy
+# ── mannshto.tsv ──
+kufër | noun | box, chest
+kufije | noun | boundaries
+kufijar | adj | frontier-; frontier guard
+kufilme | noun | figwort, brownwort; borage
+kufilmë | noun | figwort; borage
+kufim | noun | boundary
+kufishëm | adj | frontier-; finite (grammar)
+kufisim | noun | limitation, restriction
+kufkë | noun | snail-shell; hollow
+kufli | noun | cage
+kufoj | verb | limit, bound
+kuhem | verb | get sore, get chafed
+kujdesë | noun | care
+kujdesuem | adj | uneasy, anxious, concerned (about)
+kuje | noun | shout, shouting, crying, wailing, howl
+kujis | verb | howl, whine, yelp
+kujoj | verb | coin
+kujrrilë | noun | crane
+kujtimë | noun | memory
+kujtimtar | adj | thoughtful, pensive; well-thought-out
+kujtonem | verb | reflect, ponder
+kujxhi | noun | goldsmith, silversmith
+kukaçefas | adv | hide-and-seek
