@@ -49760,3 +49760,46 @@ kthistari | noun | bricklaying, masonry
 kthizë | noun | wall
 kthjelltas | adv | clearly
 kthjelltazi | adv | clearly
+# ── mannshto.tsv ──
+kthnill | noun | coal, ember
+kthyeje | noun | return; rendering, translation
+kuacë | noun | white sheep with black round the eyes; sheep with a reddish nose and feet; brown-and-white ewe
+kuaç | noun | male lamb
+kuaçis | verb | cluck
+kuaçitje | noun | clucking, cluck
+kuaçkë | noun | broody hen, sitter
+kuallem | verb | cough
+kuas | verb | croak
+kuaskë | noun | enamel, glaze, incrustation, cremor (of liquids)
+kuatë | noun | large cup, goblet; pitcher with two handles
+kuatënuom | adj | sinful, wicked; wickedness
+kubë | noun | dome
+kybe | noun | dome
+kubratë | noun | bird-trap made from a hollowed-out marrow
+kubure | noun | pistol
+kuburre | noun | pistol
+kuburë | noun | pistol
+kucalec | noun | fig which has burst on the tree
+kucavil | noun | screwdriver
+kucavidh | noun | screwdriver
+kucavit | noun | screwdriver
+kucër | noun | stump
+kucinë | noun | kitchen
+kuckë | noun | gnarled chip of wood, knotted wood, trunk (of a vine); pot with a handle
+kucovllah | noun | Vlach shepherd
+kucur | noun | log stump
+kucuri | noun | a weed
+kuçak | noun | fowlpen
+kuçe | noun | lullaby
+kuçumar | noun | devil, wretch, poor thing
+kuçumare | noun | arbutus
+kuçume | noun | kind of elm
+kuçumore | noun | arbutus
+kudoshëm | adj | universal
+kudhën | noun | anvil
+kudhës | noun | anvil
+kuejtë | noun | bait
+kues | adj | feeding; feeder
+kufetar | noun | confectioner
+kufetari | noun | confectionary
+kufetë | noun | sweet, candy
