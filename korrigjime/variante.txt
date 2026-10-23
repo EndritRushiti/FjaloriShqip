@@ -1769,3 +1769,12 @@ mungore | mëngore | alternative
 munshtir | manastir | alternative
 munxyrë | mynxyrë | alternative
 murajë | maraj | alternative
+# ── Mann 1948 ──
+murtaj | murtajë | alternative
+murrishte | murishtë | alternative
+murrla | murlan | alternative
+murrtej | murtej | alternative
+murrtoj | murtoj | alternative
+musendër | musandër | alternative
+musëndër | musandër | alternative
+mustaq | mustak | alternative

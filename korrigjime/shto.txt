@@ -53441,3 +53441,56 @@ murgjinë | noun | boarding-house
 murgjullinë | noun | cloud, pother
 murinë | noun | rafter
 murishte | noun | wall, rampart; ruined wall
+# ── mannshto.tsv ──
+murmoj | verb | turn grey or brown
+murmunjar | adj | grumbling; grumbler
+murmurakë | noun | lark
+murmuri | noun | murmur, muttering; slander
+murmurimtar | adj | murmuring, muttering
+murmurizë | noun | trickle (of sweat)
+muro | noun | dapple-grey horse
+murojë | noun | shield; defence, bulwark
+murpnoj | verb | mutter, grumble
+mursat | noun | flint (for striking fire)
+murtajak | adj | plaguey
+murtaj | noun | 
+murtajis | verb | plague, infect with plague
+murtajos | verb | plague, infect with plague
+murtar | noun | mason, bricklayer
+murtad | noun | deserter, traitor
+murtat | noun | deserter, traitor
+murtehet | verb | gets dark
+murtoj | verb | darken
+murtohem | verb | grow dark, turn livid
+murtuar | adj | livid
+murun | noun | cod
+murrall | noun | heap of stones
+murrëm | adj | grey, dun, dark, deep-coloured
+murrhaqe | noun | waste, heath, wilderness
+murrishte | noun | 
+murrla | noun | 
+murro | noun | darkie
+murroj | adj | dark; dark-coloured ox
+murrtej | verb | 
+murrtemë | adj | dark, deep-coloured; livid
+murrtoj | verb | 
+mus | verb | beat, defeat; foolish
+musakatës | noun | a fresh-water fish
+musendër | noun | 
+musëndër | noun | 
+muselinë | noun | muslin
+muskatele | noun | muscatel
+muskatër | noun | cod
+muskël | noun | muscle
+musolin | noun | muslin
+mustaqoç | adj | wearing moustaches, whiskered
+mustaqosh | adj | wearing moustaches, whiskered
+mustaqth | noun | small river fish; tuft (on maize); young furry shell of nuts
+mustaq | noun | 
+mustaqan | adj | whiskered
+mustaqës | noun | a river fish
+musteqe | noun | whiskers
+musteqezi | adj | black-whiskered
+mustë | noun | mustard (plant)
+mustël | noun | large earthen vessel, pipkin
+mustlluk | noun | water-tap, faucet
