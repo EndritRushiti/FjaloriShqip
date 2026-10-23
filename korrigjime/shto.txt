@@ -53494,3 +53494,58 @@ musteqezi | adj | black-whiskered
 mustë | noun | mustard (plant)
 mustël | noun | large earthen vessel, pipkin
 mustlluk | noun | water-tap, faucet
+# ── mannshto.tsv ──
+musulmanis | verb | convert to Islam
+musull | noun | muslin, fabric
+mushamalizim | noun | cloaking, disguise
+mushamalizoj | verb | cloak, disguise
+musharkë | noun | pod, shell (of pulse)
+mushdake | noun | aromatic shrub with composite flowers
+mushere | noun | cheese-mould
+mushkare | noun | buffalo-heifer
+mushkëll | noun | muscle
+myshkylluar | adj | dun, grey-brown, fallow, buff
+mushkullyem | adj | dun, grey-brown
+mushktar | noun | muleteer
+mushkull | noun | muscle
+mushkullar | adj | muscular, brawny
+mushllizë | noun | clambering vetch
+mushllinzë | noun | clambering vetch
+mushmatse | noun | thermometer
+mushmulle | noun | 
+mushmullë | noun | 
+mushnicë | noun | 
+musholinë | noun | an aquatic plant
+mushqetar | noun | musketeer
+mushtaqe | noun | whiskers
+mushteqe | noun | whiskers
+mushtoj | verb | reprove; train, accustom
+mushtuar | adj | trained, accustomed, ordinary, usual
+mushurkë | noun | 
+muti | noun | churn
+muticë | noun | 
+mutoj | verb | plug, bung, stop
+mutues | noun | bung, stopper
+muzaik | noun | 
+muzdrakë | noun | 
+muzget | verb | gets dusk, grows dark
+muzgtinë | noun | dusk, darkness, gloom, dimness
+muzgromë | noun | broom (plant)
+muzgur | noun | dawn
+muzikan | noun | musician
+muzikand | noun | musician
+muzikëtar | noun | musician
+muzmullë | noun | 
+muzullë | noun | 
+muzhdakërr | noun | aromatic shrub with composite flowers
+muzhdakull | noun | aromatic shrub with composite flowers
+muzhdë | noun | gastric juice
+mvak | verb | cool
+mvakur | adj | tepid
+mvar | verb | hang; postpone
+mvarem | verb | depend
+mvarës | adj | dependent; hanger
+mvarsi | noun | dependence
+mvarshëm | adj | dependent, attached
+mvartës | adj | dependent, attached
+mvehtsi | noun | character, personality; characteristics; independence

@@ -1778,3 +1778,13 @@ murrtoj | murtoj | alternative
 musendër | musandër | alternative
 musëndër | musandër | alternative
 mustaq | mustak | alternative
+# ── Mann 1948 ──
+mushmulle | mushmollë | alternative
+mushmullë | mushmollë | alternative
+mushnicë | mushicë | alternative
+mushurkë | moshurkë | alternative
+muticë | mtocë | alternative
+muzaik | mozaik | alternative
+muzdrakë | mëzdrakë | alternative
+muzmullë | mushmollë | alternative
+muzullë | mushmollë | alternative
