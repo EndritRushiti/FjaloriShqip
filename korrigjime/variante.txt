@@ -1360,3 +1360,9 @@ llokoqis | llokoçis | alternative
 llondar | luan | alternative
 llumb | llum | alternative
 llump | llum | alternative
+# ── Mann 1948 ──
+llustroj | lustroj | alternative
+llustros | lustroj | alternative
+lluxë | llucë | alternative
+madanos | majdanoz | alternative
+madjeza | madje | alternative

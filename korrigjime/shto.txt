@@ -51455,3 +51455,35 @@ llupsi | noun | gluttony, greed, voracity
 lluqe | noun | strapping girl or woman
 # ── mannshto.tsv ──
 llukanik | noun | sausage
+# ── mannshto.tsv ──
+llurbët | adj | muddy; unsteady
+llurdë | adj | big-built, burly, sturdy
+llusë | noun | luxury
+lluskë | noun | meat, esp. pork
+llustër | noun | polish, shine, gloss
+llustrar | noun | bootblack
+llustrinë | noun | patent leather
+llustroj | verb | 
+llustros | verb | 
+lluxë | noun | 
+macallugë | noun | round-headed club
+macollë | noun | mallet
+macurr | noun | corn-cob
+maçor | noun | tomcat
+madanos | noun | 
+madjeza | adv | 
+madhci | noun | size, greatness
+madhni | noun | size; greatness; pride
+madhnisht | adv | greatly, grandly
+madhnohem | verb | grow, increase
+madhnueshëm | adj | splendid, grand, pompous, large-scale
+madhsi | noun | size, greatness
+madhshti | noun | majesty; pride; arrogance, boasting, swagger
+madhshtoj | verb | praise, magnify, extol
+madhështonj | verb | praise, magnify, extol
+madhshtohem | verb | boast, brag, swank
+madhështonem | verb | boast, brag, swank
+mafes | noun | kerchief, handkerchief
+mafest | noun | kerchief, handkerchief
+mafishe | noun | cake, bun
+magaçe | noun | small chopper
