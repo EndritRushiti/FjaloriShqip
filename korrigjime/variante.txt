@@ -1343,3 +1343,14 @@ llalltë | dhalltë | alternative
 llalldë | dhalltë | alternative
 llambik | lambik | alternative
 llapuçkë | lëpushkë | alternative
+# ── Mann 1948 ──
+llatirisht | latinisht | alternative
+llavur | lavur | alternative
+llestu | gati | alternative
+lleshk | dheshk | alternative
+llëmallë | dhëmballë | alternative
+llun | luan | alternative
+llobiç | labiç | alternative
+llockë | loçkë | alternative
+llogam | llagam | alternative
+llogori | llogari | alternative

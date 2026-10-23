@@ -51351,3 +51351,53 @@ llaptyrë | noun | gossip, slander
 llapuçkë | noun | 
 llapush | adj | long-eared; long-eared animal
 llapushë | noun | broad-leafed cabbage; glume; edging, braid
+# ── mannshto.tsv ──
+llas | noun | washing-stick; land devastated by fire
+llaskonjë | noun | twig, shoot; scar
+llastar | noun | shoot, sprout; proud, swaggering; swaggerer
+llastarshëm | adj | shoot-bearing, sprouting
+llastikshëm | adj | elastic
+llastrak | noun | shoot (on tree)
+llastues | adj | foppish, dolled up; fond, pampering
+llashkë | noun | shoot, scion; animal which bears prematurely; dike, bank
+llatinkë | noun | Latin woman, Italian woman, Catholic woman
+llatirisht | adv | 
+llatuk | noun | tuft, crest
+llaturimë | noun | stain
+llaturiqem | verb | twaddle, quack
+llaturis | verb | stain, dirty, soil; dishonour
+llavomë | noun | wound
+llavur | adj | 
+llazdroj | verb | caress, fondle, pamper
+llazër | noun | tosh, piffle, blather
+llazinë | noun | paddock, tethering place, spring pasture
+llazore | noun | whelp, pup; chatterbox
+llazuer | noun | caroller, street-singer; street arab
+llazurë | noun | agitation, turbulence, stir, noise, swarm
+llazyrë | noun | agitation, turbulence, stir, noise, swarm
+llendër | noun | carol; (wassailers') cake or bun
+llestu | adj | 
+lleshk | verb | 
+lleshkoj | verb | corner, trap, hold at bay; constrain, compel
+llëkë | noun | toy
+llëkue | noun | white water-lily
+llëmallë | noun | 
+llëriz | verb | invite
+lligjis | verb | fold, bend
+llimbë | noun | plate, platter
+llino | noun | wine-vat, wine-press
+llun | noun | 
+llobiç | adj | 
+llockë | noun | 
+lloçar | noun | curse, oath
+lloçë | noun | a winter lake fish (shad, herring)
+llof | noun | gluttony
+llog | adj | limp, flabby; frail, ailing
+llogam | noun | 
+llogar | noun | accountant; account
+llogarim | noun | beat, time, rhythm
+llogarithëm | noun | logarithm
+llogë | noun | thicket; latch (of door); splint
+llogobere | noun | chatterbox
+llogori | noun | 
+llohetershëm | adj | pitch dark, dense, gloomy
