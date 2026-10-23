@@ -1387,3 +1387,11 @@ malsi | malësi | alternative
 malukas | malloj | alternative
 mallë | mall | alternative
 mallnjim | mallëngjim | alternative
+# ── Mann 1948 ──
+mândeshë | mëndeshë | alternative
+manej | mbasandaj | alternative
+manerë | mënyrë | alternative
+mangoj | mungoj | alternative
+manumangë | mëngë | alternative
+manurë | mënyrë | alternative
+manxhatur | grazhd | alternative

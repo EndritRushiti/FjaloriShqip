@@ -51609,3 +51609,39 @@ manale | noun | taper, candle, candlestick
 manapo | adv | well, well and good, finally
 manarez | noun | small pet lamb
 manarkë | noun | small pet lamb
+# ── mannshto.tsv ──
+mëndall | noun | bolt, bar
+mandale | noun | crank, winder
+mandelar | verb | put on, clothe
+mândeshë | noun | 
+mandile | noun | kerchief, handkerchief
+manej | adv | 
+manerë | noun | 
+manëz | noun | mulberry
+manganis | verb | card (wool)
+mangerush | adj | left-handed
+mângënoj | verb | calender, mangle
+mângërr | noun | sou, halfpenny
+mangoj | verb | 
+mângore | noun | embroidered shirt or jacket
+mangullis | verb | impress
+mangjët | adj | left, left-hand
+maniqetë | noun | cuff
+maniqyr | noun | manicure
+manis | verb | amaze
+manitje | noun | amazement
+manitshëm | adj | astonishing
+manitur | adj | astonished
+manizi | noun | blackberry
+manumangë | noun | 
+manun | noun | sucking lamb
+manurë | noun | 
+manxhatur | noun | 
+many | adv | then, later
+manjtash | adv | on the left, to the left
+manjifikonj | verb | praise
+maqeli | noun | slaughter-house; meat-market; butchery
+maqelli | noun | slaughter-house; meat-market; butchery
+maqelos | verb | butcher
+maqinanë | noun | engine house, engine room
+maqinari | noun | machinery
