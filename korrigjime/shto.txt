@@ -53242,3 +53242,65 @@ mrakulloj | verb |
 mrakullues | adj | 
 mrapën | adj | latter, rear, hind-
 mrapët | adj | latter, rear, hind-
+# ── mannshto.tsv ──
+mraz | noun | cold, frost; bitterness, anger
+mrazët | adj | empty
+mraztinë | noun | emptiness, void
+mrehët | adj | sharp
+mrekull | noun | miracle; portent, omen; prodigy
+mrekullar | adj | miraculous, marvellous
+mrekulltë | adj | marvellous
+mreq | noun | bush-heather; scrub pine
+mreqnar | adj | mercenary
+mretë | noun | arbutus
+mretët | adj | (of) arbutus
+mrij | verb | 
+mrijoj | verb | pull down (a wall)
+mrizohem | verb | rest at noon
+mroç | adv | in the phrase "troç e mroç", fairly well, indifferently
+mrok | noun | sucking-pig, porker
+mrol | verb | cloud, darken; glower
+mrolët | adj | dark, scowling, frowning
+mroth | verb | prosper
+mrothni | noun | prosperity
+mrulem | verb | sob, whimper
+mrut | noun | horn handle of a knife
+mryhem | verb | wear away, pine away
+mryshëm | adj | violent
+mrytet | verb | (the wine) ferments
+mrytë | adj | cramped, crushed
+mrytët | adj | dark, dusky
+mrrej | verb | charm, fascinate
+mërrej | verb | charm, fascinate
+mrrendë | noun | rock-rose
+mrreshtën | noun | rock-rose
+mrritme | noun | arrival
+mrrokullë | noun | artichoke
+mrrol | verb | wrinkle, furrow; scowl, frown
+mrrolem | verb | scowl, frown
+mrrudhët | adj | puckered up, shrunk, wrinkled
+mrrulem | verb | scowl, frown
+mrrytë | adj | dun, dark (of animals)
+mse | adv | 
+msojs | noun | 
+msojse | noun | woman teacher
+msojtur | adj | learned, wise
+msyej | verb | 
+msyeme | noun | attack, assault
+msyemje | noun | attack, assault
+msymë | noun | attack, assault
+msytë | noun | attack, assault
+msyes | adj | attacking, aggressive; attacker
+mshefaz | adv | secretly
+mshefët | adj | 
+mshefje | noun | concealment
+mshefsi | noun | 
+mshefsinë | noun | 
+mshehtar | adj | secretive; secretive person
+mshefti | noun | secret, secrecy
+mshere | noun | cheese-form
+mshesë | noun | broom
+mshetur | adj | hidden, secret
+mshigë | noun | 
+mshigëz | noun | 
+mshihem | verb | hide

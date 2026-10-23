@@ -1732,3 +1732,13 @@ mpshtymë | pshtymë | alternative
 mrakull | mrekulli | alternative
 mrakulloj | mrekulloj | alternative
 mrakullues | mrekullues | alternative
+# ── Mann 1948 ──
+mrij | arrij | alternative
+mse | përse | alternative
+msojs | mësues | alternative
+msyej | mësyj | alternative
+mshefët | fshehtë | alternative
+mshefsi | fshehtësi | alternative
+mshefsinë | fshehtësi | alternative
+mshigë | fshikë | alternative
+mshigëz | fshikë | alternative
