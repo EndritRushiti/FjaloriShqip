@@ -53304,3 +53304,54 @@ mshetur | adj | hidden, secret
 mshigë | noun | 
 mshigëz | noun | 
 mshihem | verb | hide
+# ── mannshto.tsv ──
+mshik | verb | crush, crease, crumple; blow up, blow out
+mshike | noun | bladder; blister
+mshikëz | noun | 
+mshikull | noun | whip
+mshikullë | noun | whip
+mshikzezë | noun | tumour, boil
+mshikem | verb | swell
+mshil | verb | shut; stop up, bung
+mshilem | verb | cram oneself in, force one's way in, crowd in
+mshis | noun | broom
+mshisë | noun | broom
+mshtes | verb | 
+mshtetem | verb | lean, rest
+mshtiell | verb | 
+mshtyj | verb | 
+mshtymë | noun | 
+mshyrë | noun | liquid obtained from boiled cheese
+mtekem | verb | recall, recollect, "mind"
+mtesë | noun | pretension, claim, principle
+mti | noun | churn
+mtohem | verb | claim, pretend, aim
+mtocë | noun | bung, stopper, cork
+mtres | verb | castrate
+mtroj | verb | delude, decoy; put on airs, play the hypocrite
+mtruhem | verb | lurk, lie in wait
+mtrus | verb | cram, fill chock-full
+muajshme | noun | menses
+muallis | verb | moo
+muallitje | noun | moo, mooing
+muameli | noun | bother, humbug
+muc | noun | mouth, snout
+mucke | noun | mouth, snout
+muçkë | noun | 
+muellas | verb | moo, bellow
+muellitje | noun | mooing, bellowing
+mufar | noun | fold, pen (for sheep and goats)
+mufas | verb | puff up, swell, inflate; well up, bubble up
+mufatem | verb | swell
+mufatur | adj | swollen, puffed up
+mufatura | noun | swelling
+mufoj | verb | sate, fill, cram
+mugollar | noun | mollusc
+mugsirë | noun | dusk, twilight, early morning
+mugsoj | verb | darken; tarnish
+muh | noun | mirth, gaiety
+muhas | verb | swell, inflate
+muhatem | verb | swell
+muhavis | verb | swell, inflate
+muhavitem | verb | swell
+muhtë | adv | gratis, for nothing

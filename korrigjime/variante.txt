@@ -1742,3 +1742,10 @@ mshefsi | fshehtësi | alternative
 mshefsinë | fshehtësi | alternative
 mshigë | fshikë | alternative
 mshigëz | fshikë | alternative
+# ── Mann 1948 ──
+mshikëz | fshikë | alternative
+mshtes | mbështet | alternative
+mshtiell | mbështjell | alternative
+mshtyj | pështyj | alternative
+mshtymë | pështymë | alternative
+muçkë | mushkë | alternative
