@@ -54108,3 +54108,52 @@ nespullë | noun | medlar
 neshk | noun | ass's colt
 neshkë | noun | she-colt
 neshtër | noun | lancet
+# ── mannshto.tsv ──
+nedërz | noun | small edible umbelliferous plant (dill, caraway, aniseed)
+neveris | verb | abandon, desert, neglect; nauseate
+neverithi | adv | in seams, oversewn
+nevojis | verb | oblige, necessitate
+nevojitje | noun | necessity, urgency
+nevojtoj | verb | necessitate
+nevolshëm | adj | necessary
+nëdorsi | noun | possession, ownership
+nëfytyrim | noun | representation
+nëfytyroj | verb | represent
+nëkim | noun | complaint; weeping
+nëkoj | verb | wail, lament, weep, sorrow, grieve
+nëkohem | verb | complain
+nëkues | adj | plaintive; complaining; mourner; plaintiff
+nëkurrgjâ | pron | 
+nëmest | prep | in the middle of, amid
+nëmedis | prep | in the middle of, amid
+nëmër | noun | 
+nëmërohem | verb | rank with
+nëmoj | verb | curse
+nëmos | adv | otherwise, or else
+nëmostjetër | adv | as quickly as possible
+nënbark | noun | abdomen
+nëncipë | noun | underlayer, substratum; hypodermis; subsoil
+nëndasi | noun | subdivision
+nëndetse | noun | submarine
+nëndorë | adj | underhanded; bribe
+nëndhé | adj | underground
+nëndhecë | noun | cellar, basement
+nëndhetë | adj | underground, subterranean
+nëndhezë | noun | earthwork, excavation, mine, tunnel
+nëndhezaj | adv | underhand
+nënqingje | noun | mint
+nënflete | noun | supplement
+nëngushë | noun | chinband
+nënkâmbcë | noun | pedal
+nënkâmbës | noun | deputy, representative
+nënkâmbëz | noun | pedestal
+nënkâmbje | noun | footstool
+nënkomisër | noun | deputy commissioner
+nënkrejcë | noun | pillow, cushion, bolster
+nënkryesi | noun | vice-presidency, deputy chairmanship
+nënkujtoj | verb | suggest, intimate, indicate
+nënleftenar | noun | second lieutenant
+nënoce | noun | mother, mummy
+nënockë | noun | mother, mummy
+nënor | adj | maternal
+nënpunoj | verb | second, act as second, understudy

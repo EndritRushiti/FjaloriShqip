@@ -1818,3 +1818,6 @@ ndrroj | ndërroj | alternative
 ndrryshe | ndryshe | alternative
 # ── Mann 1948 ──
 nepër | nëpër | alternative
+# ── Mann 1948 ──
+nëkurrgjâ | kurrgjë | alternative
+nëmër | numër | alternative
