@@ -50822,3 +50822,51 @@ lëpiskë | noun | scale (of fish)
 lëpushkë | noun | husk, glume, esp. of maize; calyx, shell, enclosure, bark; coltsfoot; napoleon-piece; softie, fathead; cheap newspaper, rag
 lëpushkët | adj | husked, glumed
 lëpyr | verb | overwhelm, smother, crush
+# ── mannshto.tsv ──
+lëris | verb | scratch
+lëronjës | adj | cultivating; cultivator, promoter
+lërosë | noun | mire
+lërushk | noun | creeper; clematis; small black variety of grape
+lërushkë | noun | clematis
+lëshendërr | noun | resin
+lëshesë | noun | negligence
+lëshës | adj | springy, resilient, supple
+lështridhë | noun | strawberry
+lëshueshëm | adj | impetuous, bold
+lëtinë | noun | plain-bore gun
+lëtir | noun | Italian, Latin
+lëtirë | noun | plaited straw for binding sheaves
+lëtisht | adv | in Latin, Italian-fashion
+lëvarr | verb | hang up
+lëvarrës | noun | pendulum
+lëvarrëz | noun | handle (of a pot); goat's beard; dewlap
+lëvdatar | adj | bragging; boaster
+lëvdator | adj | laudatory, panegyrical
+lëvdërim | noun | praise
+lëvdi | noun | glory
+lëvere | noun | cloth, table-cloth; rag; washing, linen, laundry; dried fig
+lëvexhgë | noun | skin, shell, husk, bark, rind, pod; scrapings, filings
+lëvirë | noun | prayer, petition
+lëvis | verb | move, stir
+lëvisem | verb | move, stir, budge
+lëvizak | adj | active, mobile
+lëvizë | noun | inner bark of a plant
+lëvizjetar | adj | seditious
+lëvizsi | noun | mobility
+lëviztar | adj | mobile, movable, agile
+lëvoçkë | noun | shell, husk
+lëvorx | noun | skin, shell
+lëvorxë | noun | skin, shell
+lëvorxoj | verb | peel, bark, skin
+lëvorxohem | verb | be worn out
+lëvoshk | verb | shell, peel, skin, bark, husk
+lëvrihem | verb | move
+lëvritet | verb | wallows
+lëvritës | adj | wallowing, wriggling
+lëvyr | verb | scratch, lacerate
+lëvyrem | verb | scratch oneself (as a sign of grief); fawn
+lëvyrës | noun | sycophant
+lëvyzhgë | noun | shell, husk
+lfetë | noun | orach
+libese | noun | moorage
+libërshitje | noun | bookselling
