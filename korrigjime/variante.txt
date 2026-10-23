@@ -1373,3 +1373,11 @@ magazi | magazinë | alternative
 magën | makinë | alternative
 magjitar | magjistar | alternative
 mais | mahis | alternative
+# ── Mann 1948 ──
+majrë | mirë | alternative
+mejrë | mirë | alternative
+majshtroj | mashtroj | alternative
+mâjtazi | majtas | alternative
+makedhonis | majdanoz | alternative
+magdonos | majdanoz | alternative
+malazestë | malazez | alternative

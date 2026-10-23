@@ -51521,4 +51521,43 @@ mahisur | adj | sore
 mahitqar | noun | sneerer, mocker; sneering
 mahmuz | noun | spur
 mahrama | noun | cloak, wrap
-mais | verb | 
+mais | verb |
+# ── mannshto.tsv ──
+majem | verb | fatten, grow fat
+majkë | noun | sting (of bee)
+majmunis | verb | ape, mock
+majnisht | noun | low-growing plant with flowers like wild rose; reserved pasture
+majnishtë | noun | low-growing plant with flowers like wild rose
+majnohem | verb | bow, bend
+majnohet | verb | does not yield milk (of cow, sheep, goat)
+majrë | adj | 
+mejrë | adj | 
+majstri | noun | deceit, deception
+majstroj | verb | teach; cheat, deceive
+majstronj | verb | teach; cheat, deceive
+majstrues | adj | deceitful; deceiver
+majsuer | adj | acute, pointed; astute
+majshtroj | verb | 
+mâjtazi | adv | 
+majucë | noun | tip, point; topknot, crest
+majuk | noun | pestle
+mak | noun | opium poppy
+makarë | noun | reel, windlass, pulley, crane, winch
+makaros | noun | frogspawn; duckweed
+makarune | noun | macaroni
+makedhonis | noun | 
+magdonos | noun | 
+makje | noun | maquis, evergreen scrub
+makles | adj | slanderous
+makllade | noun | ill-timed remark
+makros | noun | sea-moss; green scum on ponds
+makrosë | noun | sea-moss; green scum on ponds
+makrosëm | adj | clouded, stagnant
+makull | noun | stain, blemish
+makullë | noun | stain, blemish
+makulloj | verb | taint, stain
+makush | noun | ostrich
+makuti | noun | greed, gluttony
+malazestë | adj | 
+malazisht | adv | Montenegrin-fashion
+malbrez | noun | horizon
