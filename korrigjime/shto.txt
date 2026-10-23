@@ -50580,3 +50580,48 @@ leçitje | noun | proclamation; reading
 leçitshëm | adj | legible
 ledij | verb | defeat, lay low, raze to the ground
 ledhatos | verb | flatter, caress
+# ── mannshto.tsv ──
+ledhisht | noun | mudbank, mudbed, alluvium, gravel-bed
+lefatar | adj | barking; dog
+lefëz | noun | hiccup
+lefmëz | noun | hiccup
+leftenar | noun | lieutenant
+legëtyrë | noun | ligament; belt, cord used as a belt
+legtyrë | noun | ligament; belt
+legjëratë | noun | weakness
+legjëroj | verb | weaken
+lehon | noun | childbed, confinement
+lëhonë | noun | woman in childbed
+lehonëri | noun | childbed, confinement
+lehonsi | noun | childbed
+lehroj | verb | divide (a field) into plots
+lehtëroj | verb | lighten, relieve
+lehtsi | noun | lightness, levity; ease; facilities
+lehtsim | noun | alleviation, relief; facilitation
+lehtsinë | noun | facility
+lehtsisht | adv | easily, lightly
+lehtsoj | verb | lighten, relieve, facilitate
+lehtsonjës | adj | relieving, sedative; facilitating
+lejkalim | noun | frontier pass
+lelek | noun | stork
+lejlë | noun | lilac
+lejmonë | noun | lemon
+lejmue | noun | lemon
+lejmuar | adj | merciful; almoner
+lejmojar | adj | merciful
+lejmojis | verb | pity
+lejos | verb | allow
+lejsi | noun | lightness
+lejsoj | verb | ease; get easier, die down
+lejshëm | adj | allowed, permissible
+lejtoj | verb | allow, permit, admit of
+lejtore | noun | pass, permit
+lejthat | noun | Judas tree
+lejthizë | noun | hazel-bush, hazel copse
+lekan | noun | bowl, basin; tank, reservoir
+lekëz | noun | bend of the knee
+lekos | verb | tire
+lekovas | verb | treat, cure
+lekovatje | noun | treatment, cure
+lektigë | noun | couch, litter
+lektion | noun | reading; lesson; book (of the Bible)
