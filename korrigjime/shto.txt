@@ -52224,4 +52224,30 @@ melmyhem | verb | breakfast
 meltë | adj | millet-
 melun | noun | future; fate, destiny
 mellodi | noun | 
-mellodhi | noun | 
+mellodhi | noun |
+# ── mannshto.tsv ──
+member | noun | member
+memeckë | noun | deaf-mute woman
+memijë | adv | in thousands
+memundë | adv | hardly, scarcely
+menatet | adv | in the morning, early
+mendak | adj | shrewd, wily
+mendaçok | adj | foolish
+mendari | noun | mentality, intelligence
+mendatar | noun | thinker
+mendçar | adj | clever
+mendjeprehtë | adj | clever
+mendekeq | adj | rash; wicked
+mendelehtë | adj | 
+mendemadh | adj | 
+mendengushtë | adj | 
+mendeqar | adj | clear-headed
+mendesquet | adj | intelligent
+mendesqueti | noun | intelligence
+mendetrashë | adj | 
+mendjethellë | adj | profound, wise
+mendëm | adj | intellectual
+mendërz | noun | 
+mendil | noun | handkerchief
+mendjefshehur | adj | secretive
+mendjekotë | adj | frivolous

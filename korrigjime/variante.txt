@@ -1529,3 +1529,9 @@ melinxhanë | patëllxhan | alternative
 melxhane | patëllxhan | alternative
 mellodi | melodi | alternative
 mellodhi | melodi | alternative
+# ── Mann 1948 ──
+mendelehtë | mendjelehtë | alternative
+mendemadh | mendjemadh | alternative
+mendengushtë | mendjengushtë | alternative
+mendetrashë | mendjetrashë | alternative
+mendërz | mendër | alternative
