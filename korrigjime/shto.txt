@@ -53817,3 +53817,52 @@ ndërkombtarsi | noun | internationalism
 ndërkrej | verb | butt (as goats); stupefy, madden
 ndërkyem | adj | lost, stray, wandering (of sheep)
 ndërkyhem | verb | lose one's head, wander
+# ── mannshto.tsv ──
+ndërlik | verb | interweave, entwine
+ndërlike | noun | basket-work, wicker-work; twists and turns; flattery
+ndërliq | verb | interlace, weave, knit; involve
+ndërliqëm | adj | complicated, intricate
+ndërlum | noun | tributary
+ndërmartesë | noun | intermarriage
+ndërmartim | noun | intermarriage
+ndërmartohem | verb | intermarry
+ndërmblys | verb | rub, massage
+ndërmendem | verb | come round, come to one's senses
+ndërmes | prep | between, among, amid
+ndërmest | prep | between, among, amid
+ndërmestar | noun | intermediary; mediating
+ndërmestim | noun | mediation
+ndërmestoj | verb | mediate
+ndërmjetsi | noun | mediation, intercession; interval
+ndërmjetsisht | adv | indirectly
+ndërmjetsoj | verb | mediate, intercede
+ndërmjetvetshëm | adj | mutual, common, reciprocal
+ndërmlys | verb | rub gently, stroke; squeeze out; discover
+ndërpamës | adj | transparent
+ndërpas | adj | transparent
+ndërpashëm | adj | transparent
+ndërpremë | adj | interrupted
+ndërsenjës | adj | provocative; provocator, inciter
+ndërsim | noun | incitement, provocation
+ndërsoj | verb | 
+ndërsulem | verb | burst in, break in, invade
+ndërsulje | noun | break-through, invasion
+ndërshej | adv | in the middle
+ndërshtiej | verb | insert; sprout, germinate, thrive; arise, appear
+ndërshejt | adv | in the middle
+ndërshikues | adj | watching, vigilant; watcher
+ndërshqim | noun | bolt, safety nut
+ndërtesar | noun | creator
+ndërtesi | noun | compound, combination
+ndërujës | adj | aquatic
+ndërul | verb | decline, inflect
+ndërule | noun | declension, inflection
+ndërulje | noun | declension, inflection
+ndërulshëm | adj | declinable, inflectable
+ndërvarrur | adj | interdependent
+ndërvej | verb | interweave
+ndërvërlis | verb | squeeze
+ndërvlis | verb | squeeze
+ndërzihem | verb | 
+ndëvonë | adv | at length
+ndi | adv | on the hips, on the sides; side, hip

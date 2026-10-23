@@ -1804,3 +1804,6 @@ nderdh | derdh | alternative
 # ── Mann 1948 ──
 ëndigjonj | ndëgjoj | alternative
 ndëreq | ndreq | alternative
+# ── Mann 1948 ──
+ndërsoj | ndërsej | alternative
+ndërzihem | mbërzihem | alternative
