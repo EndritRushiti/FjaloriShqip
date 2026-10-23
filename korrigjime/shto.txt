@@ -50722,3 +50722,58 @@ leverti | noun | profit, interest
 levërti | noun | profit
 levere | noun | washing, linen, laundry; rag, pamphlet
 leverkë | noun | rag
+# ── mannshto.tsv ──
+levezhgë | noun | shell
+leviz | verb | move
+levoçkë | noun | shell, eggshell
+levoshkë | noun | shell, peel, husk
+levros | verb | soothe, quieten, pacify
+levrusk | noun | boor, ruffian
+lexet | noun | savour, taste
+lezëm | adv | quietly, in a whisper
+lezuar | adj | content, pleased
+lëbdoj | verb | praise
+lëbotë | noun | orach
+lëçitar | noun | reader
+lëdinë | noun | meadow
+lëfore | noun | scale (of fish); lamina, plate
+lëforë | noun | scale (of fish)
+lëftëros | verb | fight
+lëgatinë | noun | marsh
+lëgoj | verb | hear
+lëgutkë | noun | bilberry, whortleberry
+lëgjeratë | noun | speech
+lëgjerim | noun | speech
+lëgjeroj | verb | speak
+lëgjiroj | verb | speak
+lëgjeronjës | noun | speaker
+lëhas | verb | rock, sway
+lëkatë | noun | reel, bobbin
+lëkitërr | noun | squirrel; polecat
+lëkojë | noun | marsh covered with stagnant water
+lëkonkë | noun | sausage
+lëkore | noun | chicory
+lëkostër | noun | white inner bark of plants
+lëkue | noun | seaweed
+lëkujmë | adj | reddish
+lëkondunë | noun | swing
+lëkundunë | noun | swing
+lëkuq | verb | tinge red, dye red; red-brown ox
+lëkurash | adj | naked
+lëkurem | verb | starve
+lëkurz | noun | pellicle
+lëkurtar | noun | skinner, currier
+lëkurregjës | noun | tanner
+lëmaj | noun | arch, bow, vault
+lëmaje | noun | arch, vault
+lëmajë | noun | arch
+lëmajët | adj | arched, vaulted
+lëmanje | noun | granary
+lëmashkët | adj | scummy, mossy, slimy
+lëmazë | noun | diamond (esp. used for cutting)
+lëmekem | verb | faint
+lëmekët | adj | wet, damp; soaked
+lëmishtë | noun | brushwood, undergrowth
+lëmizhde | noun | brushwood
+lëmizhda | noun | brushwood
+lëmoçe | noun | snowdrift, pile of snow
