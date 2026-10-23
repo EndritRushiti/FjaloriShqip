@@ -50150,3 +50150,47 @@ kursar | noun | pirate, bandit
 kursareshë | noun | woman bandit
 kurcej | verb | save, spare
 kursesi | adv | by no means
+# ── mannshto.tsv ──
+kurcim | noun | saving
+kurcesë | noun | saving
+kurte | noun | court, yard
+kurtaje | adv | in pieces
+kurtar | noun | courtier
+kurtari | noun | courtesy
+kurtaris | verb | save; escape
+kurtihem | verb | shrivel up, be cramped; be famished
+kurtil | noun | vestibule
+kurtimë | adj | shrivelled, cramped; famished
+kurtje | noun | court, yard
+kurtjelë | noun | dagger, dirk
+kurtielë | noun | dagger
+kurttar | noun | courtier
+kurthtar | noun | trapper
+kurube | noun | beehive
+kurukuc | adj | limping, lame
+kuruntinë | noun | quarantine
+kurush | verb | hurl down, prostrate
+kurushem | verb | bow down, prostrate oneself, crumple up
+kurvis | verb | prostrate
+kurr | adv | never
+kurraj | adv | never
+kurrale | noun | entrails
+kurreshtëm | adj | curious
+kurrfarësend | pron | nothing
+kurris | noun | back
+kurrisdalë | adj | hunchbacked; hunchback
+kurrisko | noun | curvature of the spine; hunchback
+kurrisqitëm | adj | hunchbacked
+kurrizaç | adj | hunchbacked
+kurrizo | noun | hunchback
+kurrjalle | noun | entrails
+kurrni | noun | stream, current; whirlpool
+kurrninë | noun | rapid (in a stream)
+kurrnjëni | pron | nobody
+kurrnji | pron | nobody
+kurrnjisend | pron | nothing
+kusarak | adj | piratical, rapacious
+kusëri | noun | piracy, banditry; theft
+kusërisht | adv | piratically
+kusëroj | verb | plunder, raid, loot
+kusiçkë | noun | small kettle, pan; can, tin; well-bucket
