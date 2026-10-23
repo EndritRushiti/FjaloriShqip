@@ -49969,3 +49969,43 @@ kumpani | noun | company
 kumptër | noun | godfather
 kumtat | noun | property, wealth, substance
 kumptri | noun | godparenthood; godparents
+# ── mannshto.tsv ──
+kumues | adj | resounding
+kumunare | noun | belfry
+kumur | adj | chubby, sturdy
+kumuri | noun | turtle-dove
+kunatollë | noun | sister-in-law
+kunatolle | noun | sister-in-law
+kunav | noun | marten
+kunavje | noun | marten
+kundal | noun | see-saw, swing, hammock
+kundali | noun | see-saw, swing
+kunde | noun | marsh plant with a tall porous stem
+kundërfaqe | noun | opposite page
+kundërgjyqës | noun | opponent (at law)
+kundërmonjës | adj | smelling, scented, fragrant; pungent
+kundërqëndrim | noun | resistance
+kundërshënim | noun | counter-signature
+kundërshit | adv | at cross purposes
+kundërshkrim | noun | copy
+kundrështoj | verb | oppose
+kundërtar | noun | intercessor; opponent
+kundërti | noun | antithesis, contrast
+kundërthi | noun | the opposite
+kundërvepronjës | adj | reactive; reactionary
+kundërvij | verb | contravene
+kundërzim | noun | contrast
+kundrafjalë | noun | contradiction
+kundraformë | noun | copy, facsimile
+kundrajë | noun | opposite side
+kundralijës | noun | vaccination
+kundramasë | noun | counteraction, counter-measure
+kundramas | adv | opposite
+kundrasulm | noun | counter-attack
+kundrashtueshëm | adj | contrary
+kundratingull | noun | harmony
+kundraveprim | noun | counteraction
+kundravler | noun | equivalent
+kundrej | prep | opposite, facing; towards; as against, compared to
+kundrel | prep | opposite
+kundreq | prep | opposite
