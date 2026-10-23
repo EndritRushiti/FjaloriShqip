@@ -52706,3 +52706,60 @@ minëz | noun | pupil (of eye)
 minzë | noun | pupil (of eye)
 mintan | noun | waistcoat, vest, tunic
 minjer | noun | mine
+# ── mannshto.tsv ──
+miqsisht | adv | 
+miqsoj | verb | win as a friend, befriend; mate, associate
+miqasoj | verb | win as a friend, befriend
+miqsohem | verb | 
+miqasohem | verb | 
+miqsueshëm | adj | friendly
+miqasueshëm | adj | friendly
+miqyr | verb | 
+miradi | noun | gratitude, acknowledgment
+miradishëm | adj | grateful, thankful
+miraditës | adj | grateful, thankful
+mirakandas | adv | willingly
+mirakull | noun | 
+mirandaj | adv | willingly, voluntarily, spontaneously
+mirardh | verb | welcome
+mirardhje | noun | welcome
+mirengë | noun | trout
+miretvesht | adv | of course, it stands to reason
+mirëbërsi | noun | philanthropy
+mirëdalje | noun | success
+mirëdije | noun | 
+mirëdijës | adj | grateful
+mirëfill | adv | 
+mirëfillet | adv | 
+mirëfillit | adv | 
+mirëfillët | adj | sure, positive; direct
+mirëgjykim | noun | sound judgment
+mirëjetesë | noun | prosperity
+mirënjohtës | adj | 
+mirënjojtës | adj | 
+mirënjoftës | adj | 
+mirënjohtje | noun | 
+mirënjojtje | noun | 
+mirënjoftsi | noun | gratitude
+mirëprurës | adj | beneficial
+mirëpunim | noun | efficiency
+mirëqëndrim | noun | stability
+mirërritës | adj | educative, instructive; rearing, feeding, nutritious
+mirërrojtje | noun | luxury, high living
+mirësardhje | noun | 
+mirësishëm | adj | good, agreeable
+mirësjellës | adj | polite
+mirëvetishëm | adj | moral
+mirëvetsi | noun | ethics, morals
+mirëvetije | noun | ethics, morals
+mirëz | noun | fairy; darling
+miri | noun | state property, state revenue
+mirimangë | noun | 
+mirimall | noun | estate, state property
+mirkë | adv | fairly well, pretty fair
+mirkëz | adj | goodly
+mirni | noun | good, goodness, benefit
+miroj | verb | 
+mirosëm | noun | confirmation
+mirsardhje | noun | 
+mirseardhje | noun | 
