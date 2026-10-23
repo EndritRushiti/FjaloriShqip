@@ -51760,3 +51760,39 @@ masull | noun | fruit, produce
 maksull | noun | fruit, produce
 maksul | noun | fruit, produce
 masuni | noun | freemasonry
+# ── mannshto.tsv ──
+mashan | noun | fire-shovel; ash-pan; dust-pan
+mashinë | noun | 
+mashkaroj | verb | play the clown
+mashkullë | noun | porridge
+mashtë | adj | left, left-hand; mistaken, false
+mashtër | noun | wooden platter, dish, receptacle
+mashtërkë | noun | wooden platter, dish
+mashtresë | noun | deceit, cheating, fraud
+mashtronjës | noun | cheat, swindler; fraudulent
+mashtruc | noun | cheat, swindler; fraudulent
+mashurkë | noun | pod, siliqua
+matanshëm | adj | yonder, further
+matapras | noun | huckster
+matarac | noun | mattress
+matarim | noun | repair; order, regulation, arrangement; administration, organisation
+materë | noun | joist
+matorik | noun | irrigation channel, drainage ditch
+matrahul | adj | stolid
+matrakë | noun | club, life-preserver
+matrangë | noun | club, life-preserver
+matrapas | noun | 
+matsi | noun | moderation; mathematics
+matullë | noun | bunch (of vegetables)
+matutin | noun | matin, morning service
+matha | noun | footwear
+mathematikan | noun | mathematician
+mathematikë | noun | 
+mavjos | verb | 
+mavrisur | adj | darkened; miserable
+mazgall | noun | loophole, embrasure
+maxgallë | noun | loophole, embrasure
+maxhellar | verb | slaughter
+mazalek | noun | one-year-old child, weaned child
+mazaleke | noun | one-year-old child, weaned child
+mazatore | noun | cow-calf, heifer

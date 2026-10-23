@@ -1422,3 +1422,8 @@ masandej | mbasandaj | alternative
 masanej | mbasandaj | alternative
 masnesrit | pasnesër | alternative
 masëlë | masë | alternative
+# ── Mann 1948 ──
+mashinë | makinë | alternative
+matrapas | matrapaz | alternative
+mathematikë | matematikë | alternative
+mavjos | mavijos | alternative
