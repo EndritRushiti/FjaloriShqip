@@ -52130,3 +52130,53 @@ mburrsi | noun | boasting, boast; swagger, pride
 mburrtar | adj | boastful; boaster
 mburrus | verb | load, overburden; oppress
 mburrusët | adj | oppressive
+# ── mannshto.tsv ──
+mbushere | noun | cheese-mould
+mbushë | adj | 
+mbushme | noun | filling; fulfilment
+mbushtër | noun | caulker; leather-polisher (tool)
+mbuzat | interj | good day (greeting)
+mbyle | noun | 
+mbyllse | noun | shutter, stopper; dam; envelope
+mbylltinë | noun | enclosure
+mbylltore | noun | conclusion
+mbytshëm | adj | choking, stifling
+mbyth | verb | kick (in the rear)
+mbythë | noun | hind quarters, buttocks
+mçef | verb | 
+mçeh | verb | 
+mçefët | adj | hidden, secret
+mçefsinë | noun | hidden place, hiding-place
+mçeftsi | noun | 
+mçefem | verb | hide
+mçehem | verb | hide
+mçefëm | adj | hidden
+mçel | verb | 
+mçelshëm | adj | concludable
+mçesë | noun | 
+mçi | noun | sheaf (of herbs)
+mçilem | verb | shut, close
+mçoj | verb | 
+mé | adj | 
+mecë | noun | bitch
+meckë | noun | 
+mecom | noun | twin
+meç | verb | bleat
+meçëm | adj | clever, wise, learned; worn out, exhausted
+medajë | noun | 
+mediqinë | noun | medicine (science)
+medis | prep | 
+meditje | noun | (daily) wage
+medje | adv | 
+mefshi | noun | sloth, sluggishness, laxity, weakness, incapacity
+mefshsi | noun | sloth, sluggishness, laxity, weakness
+megonj | verb | dawn
+megj | verb | burst open (of fruit)
+megje | noun | border, boundary; baulk (of field), margin; railing; bound, limit
+megjet | verb | (the fruit) bursts open
+megjar | adj | adjoining
+megjoj | verb | rise (in the morning)
+mehane | noun | pub, beer-shop
+mehash | noun | "plum", windfall
+mehitem | verb | 
+mehje | noun | inertia, stagnation
