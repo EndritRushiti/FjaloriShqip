@@ -51825,3 +51825,48 @@ mbarështrim | noun | administration
 mbarështroj | verb | 
 mbarëvijim | noun | progress, prosperity, promotion, success
 mbarherë | noun | evening
+# ── mannshto.tsv ──
+mbarkanjosëm | adj | pregnant
+mbarsim | noun | forwarding, dispatch; heat, mating, fertilisation
+mbarsme | adj | pregnant
+mbarsoj | verb | establish, settle; fecundate, impregnate; infect; forward, dispatch
+mbarcoj | verb | fecundate, impregnate
+mbarsues | adj | fecundating, fertilising
+mbarcues | adj | fecundating, fertilising
+mbarsshëm | adj | productive; successful; modest; mannerly; busy, diligent
+mbarsht | noun | arrangement, regulation, administration
+mbarshtim | noun | arrangement, administration; fostering, cultivation; housework
+mbarshtrim | noun | arrangement, administration; fostering, cultivation
+mbarshtoj | verb | arrange, administer, control, run, direct, govern; cultivate, foster; build
+mbarshtroj | verb | arrange, administer, control, run, direct, govern; cultivate, foster
+mbarth | noun | chill, cold
+mbaruet | adj | frail, ailing, thin
+mbarrë | noun | burden; pressure, oppression; trouble, sorrow, care
+mbarrje | noun | shame
+mbarroj | verb | shame
+mbarrohem | verb | feel shame
+mbarrshëm | adj | ashamed, shy
+mbasandajshëm | adj | later, subsequent
+mbasdite | adv | in the afternoon; afternoon
+mbasé | adv | 
+mbasó | adv | 
+mbaskëndyj | adv | 
+mbaskënaj | adv | 
+mbaskëndejshëm | adj | future, subsequent
+mbaskëtaj | adv | henceforth, now, then
+mbasnesrit | adv | 
+mbasnesre | noun | the day after tomorrow
+mbasohere | adv | this time
+mbaspjekni | noun | after-ripening
+mbastaj | adv | 
+mbastashit | adv | henceforth
+mbastoj | verb | suffice
+mbashkoj | verb | unite; annex
+mbashktaj | adv | henceforth; afterwards
+mbashto | noun | 
+mbashtroj | verb | feed from the hand; tip, bribe
+mbatërshanë | noun | paternoster, rosary
+mbathatar | noun | shoemaker
+mbathcë | noun | brace, support, jack
+mbathmeni | noun | footwear
+mbathura | noun | footwear

@@ -1437,3 +1437,11 @@ mballoj | mballos | alternative
 mbambrendje | përmbajtje | alternative
 mbandej | mbasandaj | alternative
 mbarështroj | mbarështoj | alternative
+# ── Mann 1948 ──
+mbasé | mbase | alternative
+mbasó | mbase | alternative
+mbaskëndyj | mbaskëndaj | alternative
+mbaskënaj | mbaskëndaj | alternative
+mbasnesrit | mbasnesër | alternative
+mbastaj | mbasandaj | alternative
+mbashto | doç | alternative
