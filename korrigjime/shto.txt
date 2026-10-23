@@ -52512,3 +52512,58 @@ mërdhezem | verb | be sore, be inflamed
 mërdhënëz | noun | parsley
 mërdhi | noun | cold, chill
 mërdhuzem | verb | get overfat
+# ── mannshto.tsv ──
+mërenë | noun | barbel (fish)
+mërengë | noun | barbel (fish)
+mëret | adv | then, thereupon
+mërëngonem | verb | be sad
+mërëngor | adj | sad, miserable
+mërgonjtore | noun | ablative (gram.)
+mërgues | adj | migratory
+mërgjil | noun | marigold (calendula)
+mërgjujem | verb | fall on the knees
+mërgjur | noun | price paid for a bride
+mërgjurë | noun | price paid by the bridegroom for the bride
+mërqir | noun | price paid by the bridegroom for the bride
+mërgjyl | noun | marigold
+mërij | verb | 
+mëritje | noun | 
+mëriz | noun | 
+mërkatar | noun | 
+mërkatore | noun | 
+mërkehem | verb | fly into a passion
+mërkihem | verb | be stunned, stupefied
+mërkinjë | noun | jujube
+mërki | noun | jujube
+mërqinë | noun | jujube
+mëlqinjë | noun | jujube
+mërlitem | verb | be stupefied, stunned; reel, stagger
+mërlue | noun | hornet
+mërmangë | noun | 
+mërmërim | noun | 
+mëroj | verb | sadden
+mëros | noun | jacket
+mërqaj | verb | wear down, browbeat, exhaust; cease
+mërçaj | verb | wear down, browbeat, exhaust
+mërqejtë | noun | heartburn
+mërsin | noun | myrtle; wine-skin
+mërshinë | noun | wine-skin or bottle; myrtle
+mërshërisht | adv | carnally
+mërshët | adj | flesh-; decayed, rotten; carrion-
+mërshtar | noun | skinner, flayer
+mërte | noun | myrtle
+mërtënëz | noun | parsley
+mërtis | verb | darken; dim, blot out; enshroud, muffle; swathe, wrap up, veil; cover, deck, adorn
+mërtohem | verb | get thirsty
+mërthecë | noun | 
+mëru | noun | handle of a broom
+mërudhi | noun | herb used as flavouring
+mërxej | verb | 
+mërxhan | noun | coral
+mëryeshëm | adj | remarkable, wonderful
+mërzas | verb | 
+mërzejtë | noun | anchorage, berth
+mërziçëm | adj | 
+mërzikë | noun | 
+mërzjej | verb | 
+mërzlinë | noun | soling-piece, patch (of leather)

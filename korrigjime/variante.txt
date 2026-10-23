@@ -1590,3 +1590,17 @@ mënjistar | mëngjistar | alternative
 mënjitar | mëngjistar | alternative
 mëraç | maraj | alternative
 mërajth | maraj | alternative
+# ── Mann 1948 ──
+mërij | arrij | alternative
+mëritje | arritje | alternative
+mëriz | mriz | alternative
+mërkatar | tregtar | alternative
+mërkatore | dyqan | alternative
+mërmangë | merimangë | alternative
+mërmërim | murmurimë | alternative
+mërthecë | mbërthecë | alternative
+mërxej | mërzej | alternative
+mërzas | nxis | alternative
+mërziçëm | mërzitshëm | alternative
+mërzikë | muzikë | alternative
+mërzjej | mërzej | alternative
