@@ -54444,3 +54444,52 @@ ngulmë | noun | insistence, persistence
 ngulmëroj | verb | insist
 ngulmërje | noun | insistence, persistence, perseverance
 ngulsi | noun | persistence, eagerness, zeal
+# ── mannshto.tsv ──
+ngulshim | noun | lust, craving, passion, vice
+ngulshoj | verb | crave, lust; be intemperate
+ngultë | adj | firm, fixed
+ngullm | noun | fate, luck, fortune
+ngullmbardhë | adj | lucky, fortunate
+ngullmzi | adj | unlucky, unfortunate
+nguq | verb | redden
+nguqem | verb | turn red; blush
+ngur | verb | turn to stone
+ngurem | verb | turn to stone, petrify, solidify
+ngurëm | adj | hard, solid; harsh, gruff
+ngurje | noun | petrifaction, solidification
+ngurohem | verb | harden
+ngursi | noun | hardness
+ngursina | noun | solids
+ngurtoj | verb | harden, petrify
+ngurtsi | noun | stoniness, hardness, solidity
+ngurret | adj | stony, hard; stubborn
+ngurros | verb | harden; be stubborn
+ngurrosje | noun | stubbornness
+ngurrtoj | verb | harden
+ngurrucem | verb | cower, huddle up
+ngushtas | adv | closely, compactly, crowdedly
+ngushtazi | adv | closely, compactly
+ngushtët | adj | narrow, close
+ngushtinë | noun | strait
+ngushtsi | noun | closeness, confinement, strictness
+ngushtsinë | noun | strait (geog.)
+ngushtsisht | adv | closely
+ngushullim | noun | comfort, consolation
+ngushullimtar | adj | comforting, consoling; comforter
+ngushulloj | verb | 
+ngushullonem | verb | mourn
+ngushullues | adj | consoling, comforting; consoler, comforter
+ngushullueshëm | adj | consolable; consoling
+ngutazi | adv | in a hurry
+ngutoj | verb | obey
+ngutsi | noun | impulsiveness, urgency, forcefulness, zest, eagerness; hurry
+ngutsisht | adv | hurriedly, hastily, urgently
+nguzoj | verb | dare
+ngjajë | noun | venison
+ngjalan | noun | eel-pond
+ngjalëshëm | adj | eel-like
+ngjalem | verb | stir, wake, come to life, revive; get fat
+ngjallis | verb | revive, rouse, bring round, bring to life; stimulate
+ngjallitës | adj | reviving, refreshing, stimulating
+ngjallme | noun | life, resurrection
+ngjallueshëm | adj | lively

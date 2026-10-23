@@ -1831,3 +1831,5 @@ ngatrroj | ngatërroj | alternative
 # ── Mann 1948 ──
 ngrohtsi | ngrohtësi | alternative
 ngrras | gërhas | alternative
+# ── Mann 1948 ──
+ngushulloj | ngushëlloj | alternative
