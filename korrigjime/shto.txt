@@ -53660,3 +53660,54 @@ namqor | adj | ungrateful
 namurt | adj | wretched
 # ── mannshto.tsv ──
 nafatore | noun | goat with two beards
+# ── mannshto.tsv ──
+nândkunatshë | noun | wall or lining of the stomach
+nândmëzoj | verb | multiply by nine
+nane | noun | mint
+nang | adv | not
+ning | adv | not
+nanicë | noun | fennel (herb)
+nanith | adv | at any moment now
+napalon | noun | napoleon (coin)
+napolone | noun | napoleon (coin)
+napoljon | noun | napoleon (gold coin)
+napuljon | noun | napoleon (gold coin)
+napëz | noun | napkin
+naplungë | noun | cheese-cloth (used as strainer)
+napograf | noun | black variety of wild grape
+napran | adj | clownish, boorish; fool, bumpkin
+naran | adj | dainty, delicate
+narançe | noun | orange
+narancë | noun | orange
+nardën | noun | pomegranate syrup
+nardënqeni | noun | valerian
+naric | noun | fool
+narqiz | noun | narcissus
+narsi | noun | brilliance, brightness, polish
+narsitë | adj | bright, spick and span
+narsitoj | verb | polish, clean, cleanse
+narvall | noun | narwhal
+narvale | noun | narwhal
+nasqir | noun | tidying up, straightening, housekeeping
+nasqiris | verb | tidy up, straighten, run (a home)
+nastër | noun | buffoon
+nastre | noun | buffoon
+nastradin | noun | buffoon
+nashproj | verb | embitter, exacerbate
+nashtivon | adv | of late
+nashtishëm | adj | present
+natar | adj | quiet, sensible, delicate
+natja | adv | early, in the morning
+natoj | verb | spend the night
+natshëm | adj | nightly, nocturnal
+naturak | adj | natural
+natyrak | adj | natural
+natyrosh | adj | natural
+natyrsi | noun | naturalness
+navatës | noun | manager, administrator, bailiff, steward
+navë | noun | ship, boat
+navull | noun | rowing-boat
+navlloj | verb | charter (a vessel)
+navllos | verb | charter (a vessel)
+navuka | interj | here is!
+nazë | noun | black goat with white feet
