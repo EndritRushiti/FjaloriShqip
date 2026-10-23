@@ -1552,3 +1552,17 @@ mershë | mërshë | alternative
 mestë | mesëm | alternative
 meshinë | meshin | alternative
 metall | metal | alternative
+# ── Mann 1948 ──
+methodë | metodë | alternative
+methudhë | metodë | alternative
+mevetsi | mëvetësi | alternative
+mexi | mezi | alternative
+mezatarisht | mesatarisht | alternative
+mezikë | muzikë | alternative
+meznatë | mesnatë | alternative
+mëditë | mëditje | alternative
+mëgjes | mëngjes | alternative
+mëhoj | mohoj | alternative
+mkâmb | mëkëmb | alternative
+mëlcoj | ëmbëlcoj | alternative
+mëlshi | mëlçi | alternative

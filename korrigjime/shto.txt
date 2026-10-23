@@ -52348,3 +52348,58 @@ meshtë | noun | slipper, shoe
 meshtni | noun | skin bag
 metall | noun | 
 metalët | adj | metal-, metallic
+# ── mannshto.tsv ──
+meterez | noun | outer wall, bulwark, rampart
+meteriz | noun | outer wall, bulwark, rampart
+metilë | noun | leech larva
+metis | noun | cross-breed
+metshëm | adj | defective, faulty, short
+methodë | noun | 
+methudhë | noun | 
+methodhikë | noun | method, system, procedure
+methudhik | adj | methodical
+methodhikan | noun | methodist
+mevetsi | noun | 
+mexhavi | noun | boy (2–6 years old)
+mexi | adv | 
+mexhidë | noun | dollar, 20-piastre piece
+mexhidije | noun | dollar, 20-piastre piece
+mexhidi | noun | dollar, 20-piastre piece
+mezat | noun | auction
+mezatarisht | adv | 
+mezhollë | adj | slim, slender
+mezikë | noun | 
+meznatë | noun | 
+mezhd | noun | baulk, strip of land between fields; village corral
+mezhde | noun | baulk, strip of land between fields
+mëbarkazi | adv | on the belly
+mëçel | verb | lock up, close up, shut up
+mëçoj | verb | hate, detest, renounce
+mëditë | noun | 
+mëdys | adv | in doubt
+mëdysh | adv | in doubt
+mëdhajsë | noun | capital letter
+mëgez | noun | time of year when cattle return at noon (summer)
+mëgojsë | noun | mouthpiece or bit to prevent horses and donkeys from grazing
+mëgjes | noun | 
+mëgjile | noun | sickle-shape, crescent; iron band securing scythe to handle
+mëgjille | noun | fasting, esp. abstinence from meat and milk-foods
+mëgjunj | adv | on the knees
+mëgjunjazi | adv | on the knees
+mëhane | noun | reason
+mëhas | verb | bleat
+mëhoj | verb | 
+mkâmb | verb | 
+mëkanë | noun | millstone
+mëkeq | verb | anger
+mkeq | verb | anger
+mëkeqem | verb | get angry
+mëkrejcë | noun | baulk, tip of field left unploughed; means, expedient
+mëlcoj | verb | 
+mëlshi | noun | 
+mëlkoj | verb | prepare (food) with spices and seasoning; flavour; provide, supply; fill exactly; suffice
+mulkoj | verb | prepare (food) with spices and seasoning
+mëlksoj | verb | twist, squirm
+mëlmesë | noun | flavouring
+mëlmyej | verb | flavour, season, add butter and oil
+mëlmej | verb | flavour, season, add butter and oil
