@@ -52567,3 +52567,52 @@ mërziçëm | adj |
 mërzikë | noun | 
 mërzjej | verb | 
 mërzlinë | noun | soling-piece, patch (of leather)
+# ── mannshto.tsv ──
+mërritje | noun | arrival
+mërryeshëm | adj | wild, blusterous
+mësëfundi | adv | at last, at length
+mësëngati | adv | next
+mësimtar | adj | instructive, educative, educational; instructor
+mësit | noun | tip to a mediator; mediator
+mësittar | noun | mediator
+mbësoj | verb | 
+mësojtore | noun | school, seminary
+mësonjtore | noun | school, institute of learning, seminary, college
+mëstrec | noun | nuisance, little devil
+mëstrejc | noun | long-tailed sheep
+mësui | noun | teaching, education, pedagogics
+mësyetar | noun | attacker, aggressor; aggressive
+msyj | verb | 
+mësyjë | noun | 
+mësymë | noun | 
+mësheh | verb | 
+mësherier | noun | mercy
+mësherishëm | adj | merciful
+mëshëroj | verb | 
+mëshinë | noun | 
+mëshirmadh | adj | merciful, kind
+mëshirier | noun | mercy
+mëshkall | noun | corner cupboard
+mëshqere | noun | 
+mështjerre | noun | 
+mëshriak | noun | highland shepherd
+mëshrirë | noun | pity, mercy
+mëshrishëm | adj | pitying, merciful
+mështang | verb | avert, turn aside
+mështangem | verb | dodge, avoid
+mështiell | verb | 
+mështjellës | noun | bobbin, reel
+mështjellje | noun | reel, windlass, capstan
+mështimë | noun | 
+mështremt | adj | 
+mështymë | noun | 
+mëshumët | adj | long since
+mëtëhapem | verb | boast
+mëtëkeqem | verb | worsen
+mëtëparsh | adv | at first, at the outset
+mëtrik | noun | tumour, gangrene, ulcer
+mëvesh | adj | indifferent
+mëvetëhesi | noun | 
+mëvitje | noun | anniversary
+mvitje | noun | anniversary
+mëxyrë | noun | 
