@@ -54315,3 +54315,50 @@ ngerc | noun | crab
 ngerç | noun | cramp, stiffness
 ngerçem | verb | grow numb, get cramp
 ngermë | noun | taunt
+# ── mannshto.tsv ──
+ngethët | adj | awkward, stiff
+ngëc | verb | stick, get stuck
+ngëdhihet | verb | it dawns
+ngëlleqem | verb | tipple, carouse
+ngëllij | verb | vent, let out
+ngënjenj | verb | cheat, deceive
+ngënjyeshim | adj | deceitful, lying
+ngërcej | verb | rouse
+ngërcëllej | verb | gnash (the teeth)
+ngërcëllij | verb | gnash (the teeth)
+ngërcllej | verb | gnash (the teeth)
+ngërdhaqem | verb | tipple, carouse
+ngërdhitë | adj | rough
+ngërdhoq | noun | eyeball; bulging eye
+ngërdhucem | verb | grin, snarl, show the teeth; pull faces; curl the lip
+ngërdhuq | adj | wanton, loose
+ngërfos | verb | make (the hair) stand on end
+ngërhitur | noun | snore, snort
+ngërlajtë | adj | hesitant, sluggish
+ngërlaq | adj | hesitant, sluggish
+ngërleshem | verb | bristle, have one's hair on end
+ngërlloq | noun | eyeball
+ngërmesë | noun | urgency
+ngërmicë | noun | irritation, annoyance, chagrin
+ngërmues | adj | urging, driving; pressing, urgent; annoying, irritating
+ngërmuet | adj | bowed, bent
+ngërmuqem | verb | crouch, cower, be huddled up
+ngërthitem | verb | stiffen, grow numb
+ngërreqem | verb | tipple, carouse
+ngërritem | verb | mutter
+ngërrnjar | adj | irritable, snappy
+ngëthem | verb | be numbed, be inactive
+ngëthsi | noun | stiffness; inertia
+ngëthur | adj | stiff, numb, inert
+ngëzoj | verb | gain, earn
+ngicëroj | verb | tickle, tease, annoy, worry, bother
+ngicmoj | verb | tickle, tease, annoy
+ngimë | adj | filled, crammed, sated; fat, full
+nginur | adj | sated, filled
+ngisht | noun | thimble, thumb-stall
+ngishtëz | noun | thimble
+ngishtë | noun | thimble
+ngitë | adj | sated, full
+ngizhde | noun | thimble
+ngofe | noun | hip, haunch, rump (of animal)
+ngofje | noun | hip, haunch, rump (of animal)
