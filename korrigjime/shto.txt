@@ -50356,3 +50356,36 @@ lakozë | noun | darling
 lakrame | noun | winter cabbage, savoy
 lakrishtë | noun | vegetable garden; vegetable
 lakrushkë | noun | Brussels sprouts
+# ── mannshto.tsv ──
+laksoj | verb | be hoarse; wet
+laksht | noun | raindrop, dewdrop
+lakshtë | noun | raindrop, dewdrop
+lakshtim | noun | damp, moisture
+laktar | adj | cunning; crafty person
+lakukë | noun | brindled cow
+lakuraç | adj | bare, naked
+lakureks | noun | bat (animal)
+lakuri | noun | thin veil; nakedness
+lakuriqos | verb | bare, strip
+lakuriqsi | noun | nakedness, bareness
+lakuriqzim | noun | baring, stripping
+lakuriqzoj | verb | bare, strip, lay bare
+lale | noun | larva, grub; tulip; love, infatuation; elder brother
+laletatë | noun | elder brother
+lalgjinth | noun | an aromatic mountain plant
+lalush | noun | darling, sweetheart; fondle, caress
+lamash | adj | venturesome; adventurer
+lamburik | noun | firefly
+lamendohem | verb | lament
+lamëtënzonë | noun | farewell
+lamje | noun | washing, laundering
+lamjë | noun | bogey, spook, kind of dragon
+lamnishëm | adj | tall, slim, lanky
+lamtumirje | noun | farewell, parting
+lamtumiroj | verb | bid goodbye, say goodbye to
+lamzë | adv | to the brim, to overflowing
+lanc | noun | lance
+landar | noun | small black variety of grape
+landro | noun | oleander
+landrojë | noun | oleander
+lanetis | verb | curse, possess (with demons)
