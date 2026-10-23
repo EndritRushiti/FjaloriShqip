@@ -1535,3 +1535,12 @@ mendemadh | mendjemadh | alternative
 mendengushtë | mendjengushtë | alternative
 mendetrashë | mendjetrashë | alternative
 mendërz | mendër | alternative
+# ── Mann 1948 ──
+mendrëz | mendër | alternative
+mengjene | mengene | alternative
+menistër | ministër | alternative
+menoj | mënoj | alternative
+merauzhgë | milingonë | alternative
+meremetis | meremetoj | alternative
+merimajkë | merimangë | alternative
+meringonë | milingonë | alternative

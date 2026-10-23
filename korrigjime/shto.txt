@@ -52249,3 +52249,52 @@ mendërz | noun |
 mendil | noun | handkerchief
 mendjefshehur | adj | secretive
 mendjekotë | adj | frivolous
+# ── mannshto.tsv ──
+mendjelirë | noun | freethinker; freethinking
+mendjeliri | noun | freedom of thought
+mendjepak | adj | foolish
+mendjeplogë | adj | dull, stupid
+mendjeprishës | adj | puzzling
+mendjeulët | adj | humble
+mendrëz | noun | 
+mendrueshëm | adj | dirty
+mendruem | adj | dirty
+mendshkurtë | adj | brainless
+mendshtak | adj | wise, clever, intelligent
+mendshtar | adj | mental; clever
+mendshtarisht | adv | mentally
+mendshueshëm | adj | thoughtful; thinkable
+mendullë | noun | almond
+mênguet | adj | lacking
+mengjene | noun | 
+menistër | noun | 
+menoj | verb | 
+mentak | adj | thinking; thinker
+mentar | noun | thinker; intelligent
+mentarët | noun | the intelligentsia
+mentarisht | adv | mentally
+mentim | noun | thought
+mentshëm | adj | clever, rational, intelligent
+menjanem | verb | dodge, turn aside
+menjansi | noun | aloofness
+menjëz | noun | drizzle
+menjis | verb | treat, cure
+menjiza | noun | unison
+meqeme | noun | court of law
+meqik | noun | spool
+merana | noun | common pastures
+merakshëm | adj | sad
+merauzhgë | noun | 
+mercas | verb | incite, urge, induce
+meremet | noun | repair
+meremetis | verb | 
+merend | adv | in order; hurriedly
+merendoj | verb | arrange, put right; dispose of, have charge of
+mereshnik | noun | perfume
+merëm | adj | fragrant, aromatic
+mergë | noun | thin patch (in textiles)
+mergjurë | noun | price paid for a bride
+merikot | noun | boiled must
+merimajkë | noun | 
+meringonë | noun | 
+merkoj | verb | put aside, separate
