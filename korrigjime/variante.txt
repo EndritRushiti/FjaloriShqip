@@ -1828,3 +1828,6 @@ ngatrresë | ngatërresë | alternative
 ngatrrestar | ngatërrestar | alternative
 ngatrrim | ngatërrim | alternative
 ngatrroj | ngatërroj | alternative
+# ── Mann 1948 ──
+ngrohtsi | ngrohtësi | alternative
+ngrras | gërhas | alternative

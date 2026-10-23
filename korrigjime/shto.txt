@@ -54394,3 +54394,53 @@ ngryth | verb | work up, foment, rouse
 ngrifem | verb | get up, rise
 ngrimët | adj | bent, folded, inclined
 ngrimje | noun | freezing, congealing
+# ── mannshto.tsv ──
+ngrind | verb | be hostile
+ngrindem | verb | litigate, quarrel
+ngrindje | noun | quarrel, strife
+ngriqëzoj | verb | grow dark (of evening)
+ngrirem | verb | grow chill, freeze
+ngrisem | verb | get rich
+ngritme | noun | rising
+ngritse | noun | jack
+ngritsi | noun | sharp frost, hard frost
+ngrithem | verb | pull faces
+ngrithë | noun | wry face, grimace; rasp, grater
+ngrithët | adj | wry, distorted
+ngrofës | noun | heater, stove; heating, warming
+ngroftë | adj | warm
+ngrofje | noun | heating, hatching out, sitting (on eggs)
+ngrofse | noun | stove, heater, warmer
+ngroftsi | noun | warmth
+ngrohadorcë | noun | muff
+ngrohsinë | noun | warmth
+ngrohtsi | noun | 
+ngropët | adj | crippled
+ngrusht | noun | fist, punch
+ngrushtoj | verb | punch
+ngryej | verb | enrich
+ngryem | adj | rich
+ngryjmeni | noun | wealth
+ngryjtë | adj | rich, wealthy
+ngrykoj | verb | embrace
+ngryshëm | adj | frowning, forbidding
+ngrythë | adj | dry, withered, juiceless; timid, spineless, good-for-nothing
+ngrythët | adj | dry, withered, juiceless
+ngrras | verb | 
+ngrrihem | verb | roll about, wallow, wander round
+ngrruc | verb | cause to shrink, contract, paralyse; shrunk, huddled
+nguctar | adj | instigating; instigator
+nguctirë | noun | speed
+nguçëm | adj | urgent
+ngufmoj | verb | swell; well up
+ngufmim | noun | swelling; welling up, surge
+ngulaz | adv | persistently, insistently
+ngulçim | noun | breathlessness; asthma
+ngulçoj | verb | gasp, pant, be out of breath
+ngulë | adj | firm, fast, solid, fixed
+ngulisem | verb | be obstinate, have a fixed idea
+ngulmeni | noun | insistence, persistence
+ngulmë | noun | insistence, persistence
+ngulmëroj | verb | insist
+ngulmërje | noun | insistence, persistence, perseverance
+ngulsi | noun | persistence, eagerness, zeal
