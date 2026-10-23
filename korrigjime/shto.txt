@@ -53925,8 +53925,6 @@ ndobare | adv | at least
 ndobarem | adv | at least
 ndocá | pron | some, a few, a little, one or two; somewhat
 ndodhuna | noun | history, the past
-ndofëll | noun | hazelnut
-ndofulle | noun | hazelnut
 ndoftaj | adv | perhaps, probably, maybe
 ndoh | verb | defile, dirty
 ndohët | adj | dirty, foul
@@ -53951,3 +53949,5 @@ ndoqë | conj | although
 ndora | adv | for a short while, for a moment
 ndoretar | noun | patron, protector
 ndohtem | verb | get dirty
+# ── mannshto.tsv ──
+ndofullë | noun | jaw
