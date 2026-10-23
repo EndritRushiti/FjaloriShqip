@@ -51870,3 +51870,50 @@ mbathatar | noun | shoemaker
 mbathcë | noun | brace, support, jack
 mbathmeni | noun | footwear
 mbathura | noun | footwear
+# ── mannshto.tsv ──
+mbegatem | verb | grow rich
+mberë | prep | instead of
+mbesim | noun | belief, faith, confidence
+mbesni | noun | troth
+mbetë | adj | left (hand)
+mbetina | noun | remains; remainder, rest
+mbeturë | noun | remainder, surplus
+mbeturimë | noun | remains, leavings, dregs, refuse; oddment
+mbëçel | verb | close, stop up
+mbëdyshë | noun | doubt; obscurity, ambiguity
+mbëdyshi | noun | doubt
+mbëhis | verb | press, urge, constrain
+mbëhitem | verb | be obliged, be forced
+mbëjedh | verb | 
+mbëkatë | noun | 
+mbëkrejcë | noun | patch (on clothes); unploughed patch (of field)
+mbëledh | verb | 
+mbëlt | verb | 
+mbëltues | noun | planter; planting stick, dibble
+mbëras | verb | snap off
+mbërates | adj | snapping off
+mbërdhaset | verb | glows
+mbërdhecë | noun | young vineyard
+mbërdhes | noun | rheumatism
+mbërdhese | noun | cottage, bungalow
+mbërdheshëm | adj | ground-floor, ground-, level-
+mbërdhezem | verb | flush, burn, turn hot
+mbërdhije | noun | chill, chilliness
+mbërdhihem | verb | feel cold
+mbërsis | verb | boil over
+mbëshel | verb | shut, close, lock
+mbërshell | noun | bar, bolt
+mbërshelë | adj | shut, closed; rasping, shrill
+mbërtheskë | noun | button; fastener, loop, catch
+mbërthysë | noun | button; fastener, loop, catch
+mbërthyese | noun | button; fastener, loop, catch
+mbërthesë | noun | parenthesis
+mbërthyerë | noun | latch
+mbërthyesë | noun | fastener, catch, buckle; brace, belt
+mbërthyezë | noun | fastener, catch, buckle; brace, belt
+mbërzihem | verb | mate, couple (of animals)
+mbësej | verb | burst loose
+mbësëfundi | adv | finally
+mbëshaj | verb | sigh
+mbëshak | verb | blunt, dull; stupefy
+mbëshakët | adj | dull, blunt; stupefied, puzzled

@@ -1445,3 +1445,8 @@ mbaskënaj | mbaskëndaj | alternative
 mbasnesrit | mbasnesër | alternative
 mbastaj | mbasandaj | alternative
 mbashto | doç | alternative
+# ── Mann 1948 ──
+mbëjedh | mbledh | alternative
+mbëkatë | mëkat | alternative
+mbëledh | mbledh | alternative
+mbëlt | mbjell | alternative
