@@ -53621,3 +53621,41 @@ myzgë | noun | necrosis
 mzirë | noun | symptom
 # ── mannshto.tsv ──
 mylmesë | noun | seasoning of oil and butter
+# ── mannshto.tsv ──
+nade | adv | early, in the morning; early morning, morrow
+natatore | noun | goat with two beards
+nafe | noun | white mark on the throat of some animals; goatee; tassel, catkin
+nafë | noun | white mark on the throat of martens
+nagaçe | noun | chopper, small hatchet
+nagër | adj | dark, black, brown
+nagjasëm | noun | an aromatic plant (mint or similar)
+nagjazëm | noun | an aromatic plant (mint or similar)
+najazmë | noun | an aromatic plant (mint or similar)
+nakël | noun | tale, report; impression
+naks | adj | peevish, irascible, touchy
+naksafis | adv | suddenly, unexpectedly
+naksëri | noun | petulance, irritability
+naltas | adv | upwards
+naltash | adv | from above, from the heights
+nalti | noun | height
+naltmadhsi | noun | majesty (title)
+naltsi | noun | height, level, elevation, excellence, superiority, altitude
+naltsim | noun | height, elevation, exaltation
+naltsinë | noun | height
+naltshëm | adj | lofty, superior
+nalle | noun | slipper, slip-on clog, sandal clog
+nallbat | noun | shoeing-smith
+nallçe | noun | boot-protector, boot-stud
+nallme | noun | skate
+nallmim | noun | nailing (of boards)
+nallmoj | verb | nail
+nallon | noun | slipper, clog
+namatar | noun | charmer
+namati | noun | spell, charm, fascination
+nameta | adv | then, thereupon, presently; later; just, precisely
+namta | adv | then, thereupon
+namlli | noun | blade, stalk, stem; barrel (of gun or pistol)
+navlli | noun | barrel (of gun)
+namulli | noun | barrel (of gun)
+namqor | adj | ungrateful
+namurt | adj | wretched
