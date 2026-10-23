@@ -51142,3 +51142,40 @@ luftareshë | noun | amazon
 lugc | adj | concave, hollow; gouge
 lugedër | noun | valley, glen
 lugerë | noun | wooden ladle (made of poplar)
+# ── mannshto.tsv ──
+lugim | noun | groove, slot, moulding, fluting
+lugos | verb | hollow out, furrow, groove, flute
+lugosem | verb | become drawn, become haggard; warp (of wood)
+lugtizë | noun | ache, stomach ache, heartburn
+lugth | noun | stomach
+luhaçe | noun | swing, seesaw
+luhaçë | noun | swing, seesaw
+luhumoj | verb | pant, gasp
+luk | noun | 
+lukan | noun | tree-weevil
+lukatë | noun | bobbin, reel
+luksuri | noun | luxury
+lukur | adj | woolly; woolly ram
+lukuri | noun | pack of wolves
+lulak | noun | swaddled infant
+lulekumbone | noun | campanula
+lulekunde | noun | anemone
+luleshpatëz | noun | cornflower
+lulequmështore | noun | dandelion
+lulezëmër | noun | passion flower
+lulim | noun | flowering, inflorescence
+lulkuq | noun | poppy; menstruation
+lulkuqe | noun | poppy
+lulsi | noun | inflorescence
+lulubak | noun | moondaisy
+lulukuq | noun | poppy
+lulushan | adj | dandified; dandy, fop
+lulshkroj | verb | tattoo
+lulshkruej | verb | tattoo
+lulzim | noun | blossoming, bloom; prosperity; adornment
+lulzoj | verb | flower, bloom, blossom; flourish, prosper
+lulzueshëm | adj | blooming, flowering, flourishing, prosperous
+lumaq | noun | lichen, moss, growth on trees; blight
+lumbem | verb | be happy, flourish
+lumbur | adj | happy, lucky
+lumburem | verb | swagger

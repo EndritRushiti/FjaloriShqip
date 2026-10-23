@@ -1318,3 +1318,5 @@ lojdër | lodër | alternative
 lopqar | lopçar | alternative
 # ── Mann 1948 ──
 luath | livadh | alternative
+# ── Mann 1948 ──
+luk | lug | alternative
