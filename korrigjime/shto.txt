@@ -54362,3 +54362,35 @@ ngitë | adj | sated, full
 ngizhde | noun | thimble
 ngofe | noun | hip, haunch, rump (of animal)
 ngofje | noun | hip, haunch, rump (of animal)
+# ── mannshto.tsv ──
+ngojëz | noun | cavesson, curb
+ngojos | verb | mention, gossip about
+ngolar | noun | wooden peg
+ngopçar | adj | gluttonous; glutton
+ngopsi | noun | satiation, satiety
+ngoptar | adj | gluttonous; glutton
+ngordhaq | adj | broken-down, dying, wasting, decrepit
+ngordhet | adj | dead (of animals); bold, pert
+ngordhsinë | noun | carrion, dead animal matter
+ngosje | noun | satiation
+ngrackë | noun | slab (of stone), tablet; trap
+ngrafis | verb | hypnotise, bewitch
+ngraj | verb | raise, lift; rear, bring up
+ngrathët | adj | rough (to the touch), coarse, shaggy, bristly, prickly
+ngref | verb | lift, raise; wind up, set, charge; carry, bear; erect, build; put up; repeal (a law); attract
+ngrefem | verb | get up, rise, stand up
+ngrefë | noun | roof-timbering, skeleton frame, truss, architrave
+ngrefëm | adj | raised
+ngrefës | noun | jack; trigger
+ngrefët | adj | raised; charged, wound up, set
+ngrefje | noun | raising; construction, structure
+ngrehalucem | verb | swagger, show off
+ngrehëm | adj | erect
+ngrehët | adj | raised; strung up, wound up, tense; stiff, hard; gruff; upright
+ngrehi | noun | raising, erection; building, construction; fabric; elevation; installation
+ngrehme | noun | raising, lifting
+ngrënje | noun | eating, meal
+ngryth | verb | work up, foment, rouse
+ngrifem | verb | get up, rise
+ngrimët | adj | bent, folded, inclined
+ngrimje | noun | freezing, congealing
