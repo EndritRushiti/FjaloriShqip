@@ -1695,3 +1695,8 @@ mnjanoj | mënjanoj | alternative
 mnji | mëngji | alternative
 mnjistar | mëngjistar | alternative
 mobilloj | mobiloj | alternative
+# ── Mann 1948 ──
+mokël | mokër | alternative
+mollamuç | mushmollë | alternative
+mollmuçe | mushmollë | alternative
+mollmushe | mushmollë | alternative

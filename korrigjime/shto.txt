@@ -52974,3 +52974,55 @@ modeshë | noun | milliner
 modhistër | noun | milliner
 mogilë | noun | pile of stones, cairn
 mohar | noun | bristlegrass
+# ── mannshto.tsv ──
+mohenik | adj | negative
+mohesë | noun | denial
+mohë | noun | a fodder grass
+mohimtar | adj | renegade
+mohorr | noun | burr
+mohuesi | noun | apostasy
+moje | noun | bleak hill, exposed height
+mojse | noun | lesser celandine
+mokç | noun | yard
+mokël | noun | 
+mokërnar | adj | sandy, sterile; waste land
+moknar | adj | sandy, sterile; waste land
+moknoj | verb | erode, wear away
+moknore | noun | erosion, abrasion; friable rock, white rock
+mokrar | noun | miller
+mokthi | noun | nightmare, bogey
+molakuq | noun | grave-beetle
+molcë | noun | moth
+molinet | verb | gets infectious, foul
+molisës | adj | infectious
+moliset | verb | gets moth-eaten; is infected
+molishëm | adj | weary, exhausted
+molivadhe | noun | winter pear
+molushë | noun | toad; coarse woman
+mollafaqe | adv | bluntly
+mollakuqe | noun | ladybird
+mollamuç | noun | 
+mollan | noun | longing, yearning
+mollartë | noun | tomato
+mollatare | noun | tomato
+mollatoke | noun | potato
+mollavis | verb | sadden, touch, affect
+mollçinë | noun | crab-apple
+molldragë | noun | whitlow, disease affecting fingers and toes
+molldhe | noun | potato
+mollisem | verb | dally, delay, be late
+mollishtë | noun | apple-orchard
+mollmuçe | noun | 
+mollmushe | noun | 
+mollo | noun | pier, jetty, quay
+mollofrencë | noun | syphilis
+mollofrenxë | noun | syphilis
+mollok | noun | boulder, rock; strapping youth
+molloke | noun | strapping girl
+mollopoç | noun | rake, scapegrace
+mollopup | adj | plump, chubby
+mollopupëz | noun | chubby girl
+mollopupth | noun | chubby boy
+mollovatje | noun | accusation
+mollvigjëz | noun | sorb-apple
+mollvizës | noun | sorb-apple
