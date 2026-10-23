@@ -52065,3 +52065,68 @@ mbrinjem | verb | tilt, incline
 mbritje | noun | 
 mbrizoj | verb | 
 mbrojtsi | noun | protection; support, partisanship
+# ── mannshto.tsv ──
+mbrolje | noun | tackle; intrigue
+mbroqër | noun | Brussels sprouts
+mbrothsi | noun | 
+mbrothsoj | verb | prosper
+mbrumim | noun | leavening; fermentation
+mbrumoj | verb | leaven, ferment
+mbrumur | adj | leavened
+mbrushëm | adj | harsh, tart
+mbrydh | verb | ripen, overripen, mellow
+mbrydhët | adj | overripe, mellow
+mbryjtje | noun | 
+mbrymë | noun | mist, haze; dimness
+mbrymët | adj | leavened
+mbrimët | adj | leavened
+mbryshëm | adj | tart, rough
+mbrytar | noun | brewer
+mbrytari | noun | brewery
+mbrytë | adj | dense, thick, dark, heavy
+mbrrij | verb | 
+mbrij | verb | 
+mbrritme | noun | arrival
+mbrrime | adj | arrived; mature
+mbrrishëm | adj | mature
+mbrritje | noun | 
+mbrroj | verb | 
+mbrrol | verb | glare, scowl
+mbrrolem | verb | glare, scowl
+mbrrolar | noun | intriguer
+mbrrudh | verb | contract; screw up, wrinkle, purse up, pucker; curl; assemble
+mbrrudhem | verb | be contracted, screwed up; collect, gather
+mbrrudhët | adj | curly
+mbshakës | adj | injurious
+mbshehtazi | adv | secretly
+mbshere | noun | cheese-mould
+mbshelë | noun | gag
+mbshikzezë | noun | furuncle, tumour
+mbshisë | noun | 
+mbshoj | verb | 
+mbshtiell | verb | 
+mbuçis | verb | roar, boom
+mbufas | verb | inflate, swell; overflow, flood; smother
+mbufatë | adj | swollen, inflated
+mbugatshëm | adj | rich
+mbujak | adj | soft, yielding; boggy
+mujak | adj | soft, yielding; boggy
+mbulicë | noun | 
+mbulojcë | noun | breastplate
+mbulomë | noun | cover, covering, lid
+mbullij | verb | 
+mbullis | verb | 
+mbullungë | noun | 
+mbundoj | verb | 
+mburduklos | verb | darn
+mburesë | noun | shield; defence; stronghold
+mburim | noun | fountain, spring, source; defence
+mburë | noun | fountain, spring, source
+mburues | adj | protecting, protective; protector
+mburranik | adj | boasting; boaster
+mburresë | noun | boast, boasting
+mburrisem | verb | boast
+mburrsi | noun | boasting, boast; swagger, pride
+mburrtar | adj | boastful; boaster
+mburrus | verb | load, overburden; oppress
+mburrusët | adj | oppressive
