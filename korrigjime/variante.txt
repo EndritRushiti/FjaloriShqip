@@ -1354,3 +1354,9 @@ llobiç | labiç | alternative
 llockë | loçkë | alternative
 llogam | llagam | alternative
 llogori | llogari | alternative
+# ── Mann 1948 ──
+llokobere | llogobere | alternative
+llokoqis | llokoçis | alternative
+llondar | luan | alternative
+llumb | llum | alternative
+llump | llum | alternative

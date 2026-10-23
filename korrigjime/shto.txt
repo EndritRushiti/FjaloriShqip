@@ -51401,3 +51401,55 @@ llogë | noun | thicket; latch (of door); splint
 llogobere | noun | chatterbox
 llogori | noun | 
 llohetershëm | adj | pitch dark, dense, gloomy
+# ── mannshto.tsv ──
+llois | verb | think
+lloisem | verb | reflect, think
+llojc | adj | moody
+llojshëm | adj | various
+llokan | noun | inn, eating-house
+llokantë | noun | inn, eating-house
+lloke | noun | catch, latch (on door)
+llokëm | noun | flounce, furbelow
+llokobere | noun | 
+llokoqis | verb | 
+llokotis | verb | boil up, bubble up; gurgle
+llokotitje | noun | gurgle, gurgitation
+llomatar | adj | blustering, noisy, brawling; blusterer, brawler
+llomati | noun | bluster, brawling, noisy chatter
+llomatis | verb | bluster, brawl, chatter noisily
+llome | noun | mud
+llomicë | noun | mud, mire, mudbed, alluvium
+llomët | adj | muddy
+llomis | verb | squelch, turn to mire; pound, crush
+llomishte | noun | mudbed, mudbank
+llomishtë | noun | mudbed, mudbank
+llomkë | noun | lump, chunk; abusive language
+llomka | noun | game played with flat stones
+llomshti | noun | dregs; slums
+llondar | noun | 
+llondone | noun | landau
+llonxë | noun | pit, ditch, hole
+llopar | noun | juncture of ploughshare and plough
+llopës | noun | large variety of fig
+lloqe | noun | twaddle
+llostrom | noun | steward
+llosh | noun | mud, sludge, clay; bog, marsh; garbage, offal; jumble, mess; mash; weedy place, lair
+lloshë | noun | fool, tomfool
+lloznicë | noun | vine; pergola
+llozh | noun | rubbish
+llucët | adj | muddy
+llucis | verb | paddle, patter
+lluem | adj | maimed
+llufas | verb | gulp down, gobble, swallow up
+llufitës | adj | gluttonous, greedy; glutton
+llugë | noun | puddle
+llugaçe | noun | puddle
+lluks | noun | luxury
+llumb | noun | 
+llump | noun | 
+llumtar | adj | sedimentary
+llumun | noun | light
+llumunerë | noun | light, lamp
+lluncuall | noun | shroud, sheet
+llupsi | noun | gluttony, greed, voracity
+lluqe | noun | strapping girl or woman
