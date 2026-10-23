@@ -1673,3 +1673,11 @@ mizurisht | mizorisht | alternative
 mizyrë | mizori | alternative
 mjal | mjaltë | alternative
 mjalloj | mjaullij | alternative
+# ── Mann 1948 ──
+miel | mjel | alternative
+mjellonë | mulli | alternative
+mjendull | bajame | alternative
+mjerimagë | merimangë | alternative
+mjerni | mjerim | alternative
+mjertë | mjerë | alternative
+mjesëm | mesëm | alternative

@@ -52873,3 +52873,46 @@ mjeftueshëm | adj | adequate
 mjeguli | noun | fogginess, mistiness
 mjegullshëm | adj | cloudy, dim, misty, foggy
 mjegje | noun | remedy, medicine
+# ── mannshto.tsv ──
+mjekeshë | noun | woman doctor
+mjekse | noun | woman doctor
+mjeki | noun | cure, remedy; healing, treatment; medicine (science)
+mjeqi | noun | cure, remedy; medicine
+mjekruzë | noun | chin
+mjekrrar | noun | barber
+mjekrroç | adj | bearded, shaggy
+mjekrrosh | adj | bearded, shaggy
+mjeksim | noun | treatment
+mjeksinë | noun | medicine, remedy
+mjeksoj | verb | treat, cure
+mjekstar | noun | practitioner, doctor; medical
+mjekullë | noun | a bird
+miel | verb | 
+mjelcore | noun | milkmaid
+mbjelës | noun | milker, milkman; extortioner
+mjelse | noun | milk-pail
+mjellonë | noun | 
+mjendull | noun | 
+mjenoj | verb | tilt, incline; abandon
+mjenuet | adj | at an angle, crooked, awry
+mjenuetas | adv | awry, at an angle
+mjeqe | noun | doctors
+mjerësi | noun | woe, misery
+mjergullore | noun | nebula of stars
+mjeri | noun | misery, misfortune, unhappiness; affliction
+mjerimagë | noun | 
+mjerni | noun | 
+mjersi | noun | misery
+mjertë | adj | 
+mjerush | adj | sad
+mjesëm | adj | 
+mjesnatar | noun | middleman, broker
+mjeshtrak | adj | masterly, ingenious, professional; artificial
+mjeshtriak | adj | practical, useful
+mjeshtrar | adj | skilled, professional; artistic
+mjeshtreshë | noun | mistress
+mjeshtrim | noun | device
+mjeshtrisht | adv | cleverly, skilfully; artificially; by hand
+mjeshtroj | verb | ply a trade; teach, initiate; persuade; devise, contrive; master
+mjetar | adj | average, middle
+mjoj | verb | make a noise, kick up a row
