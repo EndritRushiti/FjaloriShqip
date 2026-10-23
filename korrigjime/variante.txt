@@ -1801,3 +1801,6 @@ ndallon | nallane | alternative
 # ── Mann 1948 ──
 ndepër | nëpër | alternative
 nderdh | derdh | alternative
+# ── Mann 1948 ──
+ëndigjonj | ndëgjoj | alternative
+ndëreq | ndreq | alternative

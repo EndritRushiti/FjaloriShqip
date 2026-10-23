@@ -53763,3 +53763,57 @@ nderr | verb | unfold, unfurl
 ndese | conj | although
 ndeshës | adj | clashing, contesting; contestant, player
 ndeshkueshëm | adj | punishable
+# ── mannshto.tsv ──
+ëndigjonj | verb | hear
+ndevonë | adv | afterwards, later
+ndezëm | adj | lighted, alight, kindled, inflamed
+ndezët | adj | inflamed, burning
+ndezme | noun | combustion
+ndeztar | noun | lamplighter
+ndegjesë | noun | obedience
+ndëgjesë | noun | obedience
+ndëgjim | noun | hearing; obedience
+ndëgjues | adj | auditory, auditive; hearer; audience
+ndëlej | verb | pardon, forgive; let, allow
+ndëlesë | noun | pardon, forgiveness, mercy
+ndëlier | adj | satisfied
+ndëlyer | adj | deceased, late
+ndënjës | noun | resident, inhabitant
+ndënjtje | noun | sitting, stay; dwelling
+ndënjuraj | adv | sitting
+ndëpërçoj | verb | transmit
+ndëpërdukshëm | adj | transparent
+ndëpërtoj | verb | penetrate
+ndëpërtueshëm | adj | penetrable
+ndërbej | verb | rise (of rivers)
+ndërçoj | verb | reform
+ndërditshëm | adj | daily
+ndërdomna | noun | doubt, suspense
+ndërdumna | noun | doubt, suspense
+ndërdyem | adj | in suspense, in doubt
+ndërdymi | noun | wondering, reflection
+ndërdysh | adj | in doubt, doubting
+ndërdhambtore | noun | interdental sound
+ndëreq | verb | 
+ndëreshte | noun | rancour, grudge, enmity
+ndërfolje | noun | dialect
+ndërfus | verb | insert
+ndërfutem | verb | intrude
+ndërgjakues | noun | one in a blood feud, murderer
+ndërgjegjesi | noun | conscientiousness
+ndërgjegjisht | adv | conscientiously
+ndërgjis | verb | affix, adjoin, add
+ndërgjoj | verb | send; send word, let know; obey
+ndërgjykës | adj | litigant
+ndërgjyqshëm | adj | litigating, litigant
+ndërhymje | noun | interference, intervention
+ndërkâmbsash | noun | game of "hunt the handkerchief"
+ndërkaqa | adv | meanwhile
+ndërkejm | adj | wasted, ruined
+ndërkohshëm | adj | intermittent, interim
+ndërkombiar | adj | international
+ndërkombtarisht | adv | internationally
+ndërkombtarsi | noun | internationalism
+ndërkrej | verb | butt (as goats); stupefy, madden
+ndërkyem | adj | lost, stray, wandering (of sheep)
+ndërkyhem | verb | lose one's head, wander
