@@ -51720,4 +51720,43 @@ marvazi | noun | Malvasian grapes
 marzipan | noun | marzipan
 marrak | adj | mad
 marrash | adj | mad
-marraz | noun | 
+marraz | noun |
+# ── mannshto.tsv ──
+marrëm | adj | foolish
+marrfundoj | verb | terminate, conclude
+marrhakje | noun | revenge
+marrishëm | adj | foolhardy
+marrmefrymë | noun | breathing
+marroç | adj | foolish; dolt
+marrohem | verb | be ashamed; get mad
+marrsi | noun | madness; shame, disgrace
+marrsonem | verb | go mad, rave
+marrueshëm | adj | shameful
+marrvështje | noun | 
+marrzi | noun | 
+marrzisht | adv | 
+masandaj | adv | 
+masandej | adv | 
+masanej | adv | 
+masnesrit | adv | 
+masar | noun | farm, estate
+masari | noun | furniture
+masaroj | verb | trim up, tidy up
+masditje | noun | afternoon
+masëlë | noun | 
+maskaroj | verb | play the clown; jest
+maskeratë | noun | masquerade
+maskëndaj | adv | hereafter, henceforth
+mastelë | noun | barrel, tub, keg, vat
+mastiçe | noun | gum mastic, hard glue, cement, putty
+mastiqe | noun | gum mastic, hard glue, cement, putty
+mastoj | verb | suffice
+mastore | noun | cow which calves after three years
+mastrapa | noun | tankard, mug, glass
+mastrapë | noun | tankard, mug, glass
+mastrek | noun | dish
+masu | noun | freemason
+masull | noun | fruit, produce
+maksull | noun | fruit, produce
+maksul | noun | fruit, produce
+masuni | noun | freemasonry

@@ -1413,3 +1413,12 @@ marqiz | markez | alternative
 martiris | dëshmoj | alternative
 martyr | martir | alternative
 marraz | maraz | alternative
+# ── Mann 1948 ──
+marrvështje | marrëveshje | alternative
+marrzi | marrëzi | alternative
+marrzisht | marrëzisht | alternative
+masandaj | mbasandaj | alternative
+masandej | mbasandaj | alternative
+masanej | mbasandaj | alternative
+masnesrit | pasnesër | alternative
+masëlë | masë | alternative
