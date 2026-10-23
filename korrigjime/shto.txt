@@ -52236,7 +52236,6 @@ mendaçok | adj | foolish
 mendari | noun | mentality, intelligence
 mendatar | noun | thinker
 mendçar | adj | clever
-mendjeprehtë | adj | clever
 mendekeq | adj | rash; wicked
 mendelehtë | adj | 
 mendemadh | adj | 
@@ -52245,7 +52244,6 @@ mendeqar | adj | clear-headed
 mendesquet | adj | intelligent
 mendesqueti | noun | intelligence
 mendetrashë | adj | 
-mendjethellë | adj | profound, wise
 mendëm | adj | intellectual
 mendërz | noun | 
 mendil | noun | handkerchief
