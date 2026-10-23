@@ -50664,3 +50664,61 @@ lerët | adj | stony; filthy, grimy
 leroj | verb | lighten; cultivate
 lertë | adj | native, congenital
 lerushkë | noun | clematis
+# ── mannshto.tsv ──
+les | noun | wicker-work, hurdle, frame, trellis; harrow; fallow rush; wicker dam; riddle; bier; wart, mole; tassel; ointment
+lesëm | noun | toilet, adornment
+leskërz | noun | thin layer, film
+leskic | noun | squirrel
+leskrar | adj | scaly, shredded, filmy
+leskrohet | verb | scales off, peels off
+lesmë | noun | trinket; toilet
+lesnishtë | noun | dry wood
+lesoj | verb | harrow, level (soil); smooth
+leste | noun | mason's carrier, four-handled barrow
+leshatar | adj | hairy, woolly
+leshavesh | adj | higgledy-piggledy, confused
+leshdridhe | noun | small variety of strawberry
+leshe | noun | pincushion
+lesheger | adj | dishevelled
+leshë | noun | wicker-work, hurdle, harrow
+leshët | adj | woollen, woolly; sheep's; hairy; slow, sluggish, lazy
+leshglatë | adj | long-haired
+leshmrrudh | adj | curly-haired
+leshmbrrudhë | adj | curly-haired
+leshnik | noun | woollen cloak
+leshnjane | noun | East wind
+leshpreme | noun | amazon
+leshpremë | adj | frivolous
+leshtan | adj | woolly, shaggy
+leshtok | adj | hairy
+leshtra | noun | hair
+leshtridhe | noun | strawberry
+leshtrik | noun | seaweed
+leshtrydhe | noun | variety of strawberry
+leshverdhët | adj | blond, fair
+leshzezë | adj | dark-haired
+let | adj | light, easy
+letanore | noun | wall or lining of the stomach
+letas | adv | lightly, easily
+letazi | adv | lightly, easily
+letërar | noun | literary man
+letërtar | adj | literary
+letojë | noun | mountain slope where snow does not stay
+letrandamës | noun | postman
+letratyrë | noun | literature
+letsi | noun | lightness, facility, ease
+letsim | noun | relief
+letsisht | adv | easily
+letsoj | verb | lighten
+letshëm | adj | light, easy
+letyrë | noun | swill, hogwash
+lethi | noun | hazel
+lethishtë | noun | hazel-copse
+levand | noun | lavender
+levandë | noun | lavender
+levencë | noun | blanket; woollen pad, saddle-pad
+levent | noun | hero, brave
+leverti | noun | profit, interest
+levërti | noun | profit
+levere | noun | washing, linen, laundry; rag, pamphlet
+leverkë | noun | rag
