@@ -49924,3 +49924,48 @@ kulluetsi | noun | clarity; limpidity
 kullufër | noun | plant resembling orach, leaves used for flavouring
 kullufis | verb | gobble, gulp; gulp down, swallow; engulf
 kullufruth | noun | long yarn
+# ── mannshto.tsv ──
+kullumri | noun | sloe
+kullutumbë | noun | somersault
+kulluver | noun | rainbow
+kulluvriqe | noun | nest (of a broody hen)
+kuluvrikë | noun | hut, shack
+kumaç | noun | fowl-pen, chicken-roost
+kumand | verb | manage, run
+kumandar | noun | commander
+kumandë | noun | command
+kumandoj | verb | command
+kumanore | noun | belfry
+kumant | noun | command
+kumare | noun | arbutus; flue
+kumaroj | verb | stand godfather
+kumash | noun | damask
+kumashët | adj | of damask
+kumbanjar | verb | accompany
+kumbare | noun | godmother
+kumberzacion | noun | conversation
+kumoj | verb | resound
+kumbonak | adj | bell-shaped
+kumbonare | noun | belfry, bell-tower, steeple; peal, chime
+kumbullore | noun | Victoria plum; grafted plumtree; tomato
+kume | noun | godmother; godchild
+kumend | noun | convent
+kumenjë | noun | tribe, family
+kumerë | noun | apprehension, fear, fright
+kumerq | noun | commerce; duty, tax, due
+kurmeq | noun | duty, tax
+kumerqar | noun | merchant; customs officer, toll-keeper
+kumet | noun | notice, announcement
+kumëri | noun | sloe
+kumill | noun | snail
+kuminar | noun | chimney-sweep
+kuminare | noun | belfry
+kuminë | noun | chimney; furnace; kiln, esp. brick kiln, potter's kiln, firing-oven; drying-house, silo
+këmin | noun | chimney
+kumisem | verb | rest on
+kumishte | noun | sandy place
+kumos | adv | everywhere
+kumpani | noun | company
+kumptër | noun | godfather
+kumtat | noun | property, wealth, substance
+kumptri | noun | godparenthood; godparents
