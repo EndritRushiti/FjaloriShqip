@@ -50389,3 +50389,47 @@ landar | noun | small black variety of grape
 landro | noun | oleander
 landrojë | noun | oleander
 lanetis | verb | curse, possess (with demons)
+# ── mannshto.tsv ──
+langor | noun | hound
+langore | noun | harrier-bitch
+languer | noun | hound
+lanomë | noun | mincemeat
+lanjse | noun | washerwoman
+lanjtar | noun | bath
+lanjtore | noun | washbasin; lavatory
+lapan | noun | chalk
+lapandar | adj | ragged, tattered
+lapatan | noun | wild pigeon
+lapcë | noun | pencil
+laper | adj | boorish, ignorant; duffer, dunce, boor
+lapere | noun | duffer, boor
+lapeti | noun | sheen, play of colour
+lapëkapës | adj | jocular, funny; jester
+lapërkoj | verb | undo, release, remove
+lapërz | noun | dewlap
+lapërzohem | verb | be beggared, behave like a tramp
+lapërzoj | verb | defile
+lapëzhis | verb | gulp down whole
+lapis | noun | pencil
+lapkë | noun | lobe (of the ear)
+lapostë | noun | kohlrabi
+laprushkë | noun | mushroom (psalliota campestris)
+lapsh | noun | melissa, balm-mint
+lapshë | noun | crest
+laptis | verb | gulp down
+lapuçkë | noun | rag; glume of a corncob
+lapurac | noun | bat (animal)
+lapurek | noun | filth
+lapurë | noun | dewlap
+lapush | adj | big-eared
+lapushkë | noun | mullein
+lapzhis | verb | gulp down whole
+laq | noun | loop
+laracak | adj | flecked, spotted, motley, gay; deceitful
+laracoj | verb | variegate
+laracuem | adj | spotted, motley
+larak | adj | patchy, mottled
+larakashë | noun | magpie
+laramanoj | verb | simulate, shift
+laras | noun | magpie
+larashkë | noun | magpie
