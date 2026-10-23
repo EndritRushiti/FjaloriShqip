@@ -1313,3 +1313,6 @@ lmue | limon | alternative
 lmues | lëmues | alternative
 lobiç | labiç | alternative
 lodhmeni | lodhje | alternative
+# ── Mann 1948 ──
+lojdër | lodër | alternative
+lopqar | lopçar | alternative

@@ -51069,4 +51069,50 @@ lobiç | noun |
 lodëz | noun | little tear
 lodrar | noun | player; sportsman
 lodrëz | noun | riddle
-lodhmeni | noun | 
+lodhmeni | noun |
+# ── mannshto.tsv ──
+logore | noun | burrow; gallery, tunnel, passage
+logorishëm | adj | mournful
+lojc | adj | shifty, fickle, unsteady; voluble, talkative
+lojcë | noun | a kind of fish
+lojdër | noun | 
+lojkë | noun | tadpole
+lojle | adj | stupid, silly
+lojnak | adj | playful
+lojnë | noun | plaything, toy
+lojtak | adj | movable
+lojtës | noun | player, actor; sportsman; entrant, contestant
+lojtje | noun | play, sport; acting; movement
+lokaç | noun | puddle
+lokaçkë | noun | puddle
+lokaçis | verb | shake
+lokanar | noun | intriguer
+lokandë | noun | inn
+lokandës | noun | innkeeper
+lokavis | verb | shake
+lokëm | noun | tine, cog, spike
+lokodredh | verb | twist, wrench, sprain, dislocate
+lokodredhas | adv | askew, awry; crosswise; windingly
+lokodredhje | noun | zigzag
+lokomendem | verb | drowse, swoon, faint
+lokovis | verb | move, shake, wag
+lol | adj | silly
+lolis | verb | laugh at, mock
+lomçkë | noun | fruit of the plane-tree
+londis | verb | move, wag, dangle, swing, sway
+londonë | noun | landau
+lonjak | adj | mobile, in flux, fluid
+lonxhë | noun | hole, hollow, cave
+lopare | noun | milkmaid
+lopatkë | noun | little shovel, dustpan; cobra
+lopçare | noun | cowgirl, milkmaid
+loprina | noun | cattle
+lopëz | noun | heifer; roach
+lopkë | noun | quarter-lek coin
+lopqar | noun | 
+loqikë | noun | lettuce
+lorë | noun | gale
+loshnik | noun | robe, mantle, cloak
+lotak | adj | tearful
+lotshëm | adj | tearful
+loxhikë | noun | lettuce
