@@ -52674,3 +52674,35 @@ mijëfarsh | adj | thousandfold
 mijëshëm | adj | thousandth
 mijëvjetshëm | adj | millennial, thousand-year-old
 mijëvjetore | noun | millennium
+# ── mannshto.tsv ──
+mikneshë | noun | woman friend, girl friend
+mikni | noun | friendship
+miksisht | adv | in a friendly fashion
+milaçë | noun | mountain fairy
+milak | noun | leveret
+milcë | noun | balm-mint, melissa
+milzë | noun | balm-mint, melissa
+milgonë | noun | 
+milgonjë | noun | 
+milgore | noun | 
+milionar | noun | millionaire
+miliuner | noun | millionaire
+miliu | noun | 
+miliun | noun | 
+miljardë | noun | milliard, billion
+miljon | noun | 
+miljonar | noun | millionaire
+milore | noun | ewe-lamb or nanny-goat (1–2 years old)
+millanjë | noun | 
+millcë | noun | mildew on cabbages
+millë | noun | alms, maundy money
+milloj | verb | intend
+mimkët | adj | lumpy, plump
+minak | noun | pup, cur, whelp
+minake | noun | mongrel bitch
+minc | noun | ducat
+minditë | noun | wage, recompense
+minëz | noun | pupil (of eye)
+minzë | noun | pupil (of eye)
+mintan | noun | waistcoat, vest, tunic
+minjer | noun | mine

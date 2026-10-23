@@ -1630,3 +1630,11 @@ miçe | micë | alternative
 midërr | mitër | alternative
 mielmë | mjellmë | alternative
 mifolje | mbifolje | alternative
+# ── Mann 1948 ──
+milgonë | milingonë | alternative
+milgonjë | milingonë | alternative
+milgore | milingonë | alternative
+miliu | milion | alternative
+miliun | milion | alternative
+miljon | milion | alternative
+millanjë | mëllenjë | alternative
