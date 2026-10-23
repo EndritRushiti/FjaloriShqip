@@ -52916,3 +52916,61 @@ mjeshtrisht | adv | cleverly, skilfully; artificially; by hand
 mjeshtroj | verb | ply a trade; teach, initiate; persuade; devise, contrive; master
 mjetar | adj | average, middle
 mjoj | verb | make a noise, kick up a row
+# ── mannshto.tsv ──
+mkatnoj | verb | 
+mkejmë | adj | wasted, ruined
+mkeqem | verb | get worse, deteriorate; rave, go mad, rage
+mkrejcë | noun | means, resources, expedient; unploughed corner of a field
+mkryec | noun | rage, rabidity
+mkryecim | noun | rage, rabidity
+mkryecohem | verb | rave, be rabid
+mkryem | adj | peculiar, abnormal
+mkuhem | verb | chafe
+mladë | noun | 
+mlec | noun | a tree
+mles | verb | moisten; bait
+mletem | verb | get damp
+mletonem | verb | get worn, wear
+mlezë | noun | eyelid
+mlezurzë | noun | eyelid
+mlocë | noun | 
+mlojë | noun | 
+mlose | noun | curtain, blind
+mlueme | noun | betrothal
+mlundroj | verb | put on board
+mlundrohem | verb | embark, board
+mllenjë | noun | 
+mlli | noun | 
+mlluzgë | noun | marl
+mnash | noun | 
+mnderohem | verb | fear
+mnelë | noun | baby's napkin
+mnere | noun | fear, fright
+mneri | noun | fear, fright, terror
+mnerim | noun | fear, fright, terror
+mnerohem | verb | be afraid
+mneroj | verb | terrify; dread, fear
+mnerueshëm | adj | terrifying
+mnij | verb | 
+mnijanoj | verb | 
+mnishëm | adj | hateful, abominable
+mnotar | noun | swimmer
+mnotëtar | noun | swimmer
+mnotoj | verb | swim
+mnuje | noun | haft (of knife)
+mnye | noun | haft (of knife)
+mnjanoj | verb | 
+mnji | noun | 
+mnjille | noun | fasting, abstinence
+mnjistar | noun | 
+mobilla | noun | furniture
+mobillë | noun | furniture
+mobilloj | verb | 
+mocatar | adj | contemporary
+mocinë | noun | carcass, carrion, corpse
+moçalërt | adj | muddy, marshy
+moçkë | noun | rough barren ground
+modeshë | noun | milliner
+modhistër | noun | milliner
+mogilë | noun | pile of stones, cairn
+mohar | noun | bristlegrass

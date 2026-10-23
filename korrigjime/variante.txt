@@ -1681,3 +1681,17 @@ mjerimagë | merimangë | alternative
 mjerni | mjerim | alternative
 mjertë | mjerë | alternative
 mjesëm | mesëm | alternative
+# ── Mann 1948 ──
+mkatnoj | mëkatoj | alternative
+mladë | mblatë | alternative
+mlocë | mbulojcë | alternative
+mlojë | mbulojë | alternative
+mllenjë | mëllenjë | alternative
+mlli | mëllenjë | alternative
+mnash | mëndafsh | alternative
+mnij | mënij | alternative
+mnijanoj | mënjanoj | alternative
+mnjanoj | mënjanoj | alternative
+mnji | mëngji | alternative
+mnjistar | mëngjistar | alternative
+mobilloj | mobiloj | alternative
