@@ -52615,4 +52615,62 @@ mëvesh | adj | indifferent
 mëvetëhesi | noun | 
 mëvitje | noun | anniversary
 mvitje | noun | anniversary
-mëxyrë | noun | 
+mëxyrë | noun |
+# ── mannshto.tsv ──
+mëzdrak | noun | spear, lance, javelin
+mëzdrakë | noun | spear, lance, javelin
+mësdrake | noun | 
+mzi | adv | 
+mëzirë | noun | symptom (of illness)
+mëzith | noun | ankle, astragal; wrist
+mëzhdravë | noun | cherry-like tree with bitter fruit
+mfal | verb | grant; greet
+mfalem | verb | pray, worship
+mfishkem | verb | languish, droop, pine, wither, fade
+mfryj | verb | blow up, inflate, swell
+mfryjtje | noun | swelling, inflation
+mfryrje | noun | swelling, inflation
+mfryt | adj | swollen
+mfrytë | adj | swollen, inflated; bombastic, blatant
+mfsheh | verb | 
+mfshehurazi | adv | secretly
+mfshikë | noun | 
+mfytyrim | noun | personification
+mfytyroj | verb | personify
+mgoje | noun | bit (of bridle)
+mgojë | noun | bit (of bridle)
+mgjejë | noun | stable, floor-space for cattle
+mgjile | noun | iron ring securing scythe-blade to handle
+mgjyle | noun | iron ring securing scythe-blade to handle
+mholë | noun | smith
+miagulloj | verb | mew
+miaullij | verb | mew
+miaullim | noun | mewing
+micaminë | noun | blind-man's-buff
+micërroj | verb | be finnicky, nibble (at food)
+mick | noun | weal, scar
+mickojë | noun | 
+micyrë | noun | hardness
+miçe | noun | 
+miçidar | adj | murderous, bloody
+midërr | noun | 
+midisëm | adj | middle, centre
+midhër | noun | uterus, womb
+mielmë | noun | 
+miellët | adj | floury, flour-, farinaceous
+miellnoj | verb | cover with flour, flour
+miellshëm | adj | mealy, floury
+miemnoj | verb | dub, nickname
+mifolje | noun | 
+migalë | noun | variety of spider (mygale)
+migëz | noun | gangrene; blight or mildew on grain and onions
+mihme | noun | digging, hoeing
+mihtar | noun | hoer, digger, sapper
+mijar | noun | thousand
+milar | noun | thousand
+mijavjeçar | adj | thousand-year-old
+mijës | noun | commander of 1000 men
+mijëfarsh | adj | thousandfold
+mijëshëm | adj | thousandth
+mijëvjetshëm | adj | millennial, thousand-year-old
+mijëvjetore | noun | millennium

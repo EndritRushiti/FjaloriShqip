@@ -1620,3 +1620,13 @@ mështremt | shtrembët | alternative
 mështymë | pshtymë | alternative
 mëvetëhesi | mëvetësi | alternative
 mëxyrë | mynxyrë | alternative
+# ── Mann 1948 ──
+mësdrake | mëzdrakë | alternative
+mzi | mezi | alternative
+mfsheh | fsheh | alternative
+mfshikë | fshikë | alternative
+mickojë | mushkonjë | alternative
+miçe | micë | alternative
+midërr | mitër | alternative
+mielmë | mjellmë | alternative
+mifolje | mbifolje | alternative
