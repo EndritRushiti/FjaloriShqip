@@ -50319,3 +50319,40 @@ lajkos | verb | cajole
 lajksi | noun | flattery, sycophancy, cringing
 lajksoj | verb | flatter
 lajktar | adj | flattering, cajoling; flatterer
+# ── mannshto.tsv ──
+lajktis | verb | flatter
+lajktoj | verb | flatter
+lajktuar | adj | flattering
+lajlim | noun | design, coil, twist, flourish, tracery, scroll-work
+lajloj | verb | ornament, decorate with tracery
+lajmatë | noun | news, information
+lajmprurës | noun | messenger
+lajmsi | noun | report, announcement; embassy, legation; mediation in marriage
+lajmsoj | verb | report, announce; mediate (in marriage)
+lajmtar | noun | courier, messenger, announcer, envoy
+lajs | verb | wet
+lajse | noun | washing-machine
+lajthis | verb | be wrong, be mistaken, go wrong, err
+lajthisje | noun | error
+lajthishte | noun | hazel-copse
+lajthitshëm | adj | erroneous
+lajush | noun | black sheep
+lakandraq | adj | slovenly, low; low person, slut
+lakërçoj | verb | cloud, muddy
+lakërdhi | noun | blemish, stain; impurity
+lakërme | noun | kohlrabi
+lakimë | noun | spur (of a mountain range), rise, bluff
+lakmec | adj | greedy; greedy person, glutton
+lakmeç | adj | greedy
+lakmes | adj | greedy
+lakmimtar | adj | greedy, jealous; coveter
+laknarme | noun | pickled cabbage
+laknoj | verb | shred, slice
+lakoç | noun | breeding boar
+lakom | noun | glutton
+lakomi | noun | gluttony, greed
+lakomic | adj | greedy, avaricious
+lakozë | noun | darling
+lakrame | noun | winter cabbage, savoy
+lakrishtë | noun | vegetable garden; vegetable
+lakrushkë | noun | Brussels sprouts
