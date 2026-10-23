@@ -51276,3 +51276,78 @@ llabudë | noun | orach
 llacka | noun | balustrade
 llacore | noun | New Year's gift
 llaçkatem | verb | turn flat, turn insipid
+# ── mannshto.tsv ──
+lladigë | noun | grape-skin
+lladik | noun | overripe melon
+llafazanke | noun | chatterbox (woman)
+llafzankë | noun | chatterbox (woman)
+llafje | noun | chatter, chitchat
+llafoj | verb | 
+llaftaris | verb | thrill, excite
+llagar | noun | emaciation, phthisis
+llagaris | verb | refine (metals)
+llagavitje | noun | blot (of ink)
+llagërese | noun | term, falling due
+llagëroj | verb | fall due
+llaheg | noun | woollen wrap or coat worn by shepherds
+llahurdë | noun | veil
+llahusë | noun | 
+llahusi | noun | 
+llaik | adj | lay; layman
+llajë | noun | pet, darling; pet lamb
+llajs | noun | wire
+llajkë | noun | hurdle; laths, boarding
+llakabere | noun | gossipy woman
+llakaqis | verb | 
+llakërçoj | verb | 
+llakoj | verb | fawn, play the parasite, sponge
+llakuc | adj | parasitic
+llakuci | noun | parasitism
+llakucoj | verb | infect, blight
+llallëz | noun | small moth
+llalltë | noun | 
+llalldë | noun | 
+llamarinët | adj | sheet- (metal)
+llamashkë | noun | snail
+llambadhe | noun | torch; lamp
+llambadhë | noun | torch; lamp
+llambaritës | adj | brilliant, resplendent, flashing
+llambik | noun | 
+llambikoj | verb | distil
+llamburd | noun | scion (of fruit-tree)
+llamburij | verb | shine, flash, dazzle, resplend, glare
+llamburis | verb | shine, flash, dazzle, resplend, glare
+llamburimë | noun | flash
+llamni | noun | gun-barrel
+llampadar | noun | lamp-stand, reading-lamp
+llampandar | noun | lamp-stand, reading-lamp
+llampje | noun | ogre
+llampis | verb | shine; light up
+llanc | noun | ruff
+llando | noun | landau
+llanëbardhë | adj | smooth-armed, white-armed
+llanjuzi | noun | filth, dirt
+llaos | verb | shock, stop, baffle
+llaosem | verb | stop dead, be baffled
+llaosur | adj | baffled, overcome
+llapas | verb | twaddle
+llapatë | noun | lump, clod
+llapazhar | noun | chatterbox
+llapëkapës | adj | talkative; chatterbox
+llapër | adj | muddy, dirty
+llapërç | adj | muddy, dirty
+llapërinë | noun | mud, dirt
+llapërçoj | verb | soil, bespatter
+llapis | verb | lap up; gobble up
+llaptar | noun | glutton; chatterbox
+llaptari | noun | gluttony
+llaptij | verb | gulp down
+llaptim | noun | chatter
+llaptimë | noun | brightness, splendour, light
+llaptoj | verb | twaddle, gossip, chatter
+llaptojkë | noun | gossip, chatterbox (woman)
+llaptore | noun | gossip, chatterbox (woman)
+llaptyrë | noun | gossip, slander
+llapuçkë | noun | 
+llapush | adj | long-eared; long-eared animal
+llapushë | noun | broad-leafed cabbage; glume; edging, braid

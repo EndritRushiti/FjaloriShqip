@@ -1333,3 +1333,13 @@ lvorë | lëvore | alternative
 lvyr | lëvyr | alternative
 lypinj | lyp | alternative
 lypjetë | lëpjetë | alternative
+# ── Mann 1948 ──
+llafoj | llafos | alternative
+llahusë | lehonë | alternative
+llahusi | lehoni | alternative
+llakaqis | llokoçis | alternative
+llakërçoj | llokoçis | alternative
+llalltë | dhalltë | alternative
+llalldë | dhalltë | alternative
+llambik | lambik | alternative
+llapuçkë | lëpushkë | alternative
