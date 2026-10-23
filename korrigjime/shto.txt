@@ -54217,3 +54217,58 @@ ngadalsoj | verb | slow down
 ngaditë | adv | daily
 ngaditshëm | adj | daily
 ngadhmoj | verb | wander, roam, make a pilgrimage
+# ── mannshto.tsv ──
+ngadhnim | noun | gain; reward; mastery, conquest, victory; self-assertion, superiority
+ngadhnjim | noun | conquest, victory
+ngadhnimtar | adj | conquering, victorious; conqueror, victor
+ngadhnoj | verb | gain; conquer, subdue
+ngadhnonjës | adj | victorious; conqueror
+ngadhnyes | adj | victorious; conqueror
+ngadhnjyes | adj | victorious; conqueror
+ngaehem | verb | find leisure
+ngaeshëm | adj | free, at leisure, idle
+ngahas | verb | yawn; burst
+ngaher | adv | always, for ever
+ngahera | adv | always, for ever
+ngajdo | adv | wherever, wherever from
+ngajherë | adv | sometimes, from time to time
+ngajim | noun | causing
+ngajk | noun | urge, motive, impulse
+ngajkoj | verb | mount (a horse), ride
+ngaktoj | verb | acquire
+ngal | adj | limping, slothful, sluggish, shuffling
+ngalc | noun | trigger
+ngales | verb | condemn
+ngalesë | noun | obstacle, snag
+ngalim | noun | obstacle
+ngalirohem | verb | climb, clamber
+ngalis | verb | strain, impair, dull
+ngalkoj | verb | ride (a horse); travel; copulate (of stallion)
+ngaloj | verb | hinder, impede, check, handicap
+ngalohem | verb | limp, shuffle
+ngalosh | adj | slow, sluggish, shuffling, clumsy, awkward, slothful
+ngallcë | noun | flowering head of onion
+ngallinë | noun | growth, excrescence
+ngallitme | noun | irritant, incitement
+ngallm | noun | annoyance, bother, nuisance
+ngallmim | noun | annoyance, bother, nuisance
+ngallmje | noun | annoyance, bother, nuisance
+ngallmues | adj | urging; irritating; causing; cause, author, instigator
+ngallzitje | noun | impetus, encouragement
+ngame | noun | run, race; irritation, bother
+ngamë | adj | incited, spurred, incensed; irritated, annoyed; taunting
+ngamje | noun | run, race
+nganjë | pron | one apiece
+nganjiherë | adv | now and then
+ngapak | adv | slowly, gradually, gently
+ngaqi | interj | behold! see!
+ngardulice | noun | goldfinch
+ngardh | verb | stain, blemish, blacken; brand, stigmatise
+ngardhe | noun | stain, blot, blemish
+ngardhë | noun | stain, blot, blemish
+ngarëse | noun | temptation
+ngarje | noun | running, race
+ngarkac | noun | stick for loading pack-animals
+ngarkaçe | noun | stick for loading pack-animals
+ngarkonjës | noun | loader, stevedore
+ngarmoj | verb | 

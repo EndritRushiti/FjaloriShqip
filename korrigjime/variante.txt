@@ -1821,3 +1821,5 @@ nepër | nëpër | alternative
 # ── Mann 1948 ──
 nëkurrgjâ | kurrgjë | alternative
 nëmër | numër | alternative
+# ── Mann 1948 ──
+ngarmoj | ngërmoj | alternative
