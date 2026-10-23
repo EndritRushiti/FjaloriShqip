@@ -1710,3 +1710,8 @@ morovicë | milingonë | alternative
 mortal | vdekshëm | alternative
 morte | mortje | alternative
 mortë | mortje | alternative
+# ── Mann 1948 ──
+mosaik | mozaik | alternative
+mosënder | musandër | alternative
+mosgja | mosgjë | alternative
+mosnjohtje | mosnjohje | alternative

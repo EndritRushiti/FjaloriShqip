@@ -53065,3 +53065,58 @@ morreps | verb | hunt for lice
 morretra | noun | brushwood, undergrowth
 morrë | noun | louse
 morris | verb | hunt for lice
+# ── mannshto.tsv ──
+mosmëkeq | adv | wretchedly, sordidly; sordid
+mosaik | noun | 
+mosbindës | adj | disobedient
+mosbluarje | noun | indigestion
+moscilsi | noun | disqualification
+moscilsues | adj | disqualifying
+mosçmim | noun | disregard, under-estimation
+mosdhimbje | noun | anaesthesia
+mosevari | noun | ingratitude
+mosënder | noun | 
+mosfitim | noun | loss, defeat
+mosfjetje | noun | sleeplessness, alertness, vigilance
+mosgoditje | noun | miss, failure
+mosgja | noun | 
+mosgjakun | adv | nowhere
+moshyrje | noun | non-participation
+mosje | noun | negative, negation
+mosko | noun | musk
+moskamje | noun | poverty, want
+moskatë | noun | muscatel wine
+moskokë | noun | nutmeg
+moskori | noun | scent (of musk)
+moskoris | verb | smell of musk
+moskosapun | noun | scented soap
+moskujdesi | noun | negligence, carelessness, indifference, neglect
+moskujdesim | noun | negligence, carelessness, neglect
+moskujdesur | adj | negligent, indifferent
+moskurr | adv | never, never before
+mosluftonjës | adj | non-combatant
+mosluftues | adj | non-combatant
+mosmatje | noun | impudence
+mosmeritim | noun | undeservedness; demerit
+mosmësyrje | noun | non-aggression
+mosmjaftim | noun | inadequacy, insufficiency
+mosmosë | noun | the impossible
+mosmundje | noun | inability
+mosndigjesë | noun | disobedience
+mosndodhje | noun | absence
+mosngjajtje | noun | inequality
+mosni | interj | don't! (pl.)
+mosnqasës | adj | absolute, exclusive
+mosnqasje | noun | exclusion, absoluteness
+mosnjë | adj | no
+mosnjohtje | noun | 
+mosparje | noun | ignoring, refusal to see
+mospërparim | noun | non-progressiveness
+mospërunje | noun | insubordination
+mospërzim | noun | non-interference
+mospikasje | noun | isolation
+mosprishje | noun | composure, calm
+mosprovim | noun | lack of proof
+mospunim | noun | inactivity, idleness, leisure
+mospushtueshëm | adj | indomitable
+mosputhitje | noun | non-contact, slackness, play, misfit
