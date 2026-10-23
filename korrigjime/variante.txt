@@ -1798,3 +1798,6 @@ myxyrë | mynxyrë | alternative
 nçef | fsheh | alternative
 ndallandish | dallëndyshe | alternative
 ndallon | nallane | alternative
+# ── Mann 1948 ──
+ndepër | nëpër | alternative
+nderdh | derdh | alternative

@@ -53741,3 +53741,25 @@ ndas | adj | dividing; dividend
 ndase | noun | partition
 ndashmi | noun | division (arith.)
 ndame | noun | division; compartment; department
+# ── mannshto.tsv ──
+ndejak | adj | inhabiting; resident, inhabitant
+ndejës | adj | sedentary
+ndejme | noun | settlement, camp
+ndejse | noun | chair, seat
+ndejsë | noun | chair, seat
+ndejtas | adv | standing
+ndeme | noun | dimension
+ndepër | prep | 
+nderazi | adv | facing, opposite
+nderçoj | verb | reform
+nderçim | noun | reform
+nderdh | verb | 
+ndereso | noun | interest
+nderet | adj | spread, hung out (to dry)
+ndergoj | verb | water (cattle)
+nderimtar | adj | reverent; respecting; honouring, distinguishing
+nderme | adj | flat, level, shallow
+nderr | verb | unfold, unfurl
+ndese | conj | although
+ndeshës | adj | clashing, contesting; contestant, player
+ndeshkueshëm | adj | punishable
