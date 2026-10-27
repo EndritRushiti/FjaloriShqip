@@ -56891,3 +56891,54 @@ përkuersi | noun | temperance, abstinence
 përkuershëm | adj | temperate, moderate
 përkueshëm | adj | fitting, suitable, apt; adapted
 përkuetas | adv | fitly, suitably, aptly
+# ── mannshto.tsv ──
+përkujdesi | noun | care, attention, caution
+përkujdestar | noun | patron, upholder; attentive, careful
+përkujë | noun | lament, misery
+përkujtore | noun | monument
+përkulme | noun | surrender
+përkulsi | noun | flexibility
+përkundra | adv | opposite; on the contrary, on the other hand
+përkundrej | adv | opposite, facing; against, across
+përkundreq | adv | opposite, facing
+përkuptoj | verb | perceive, apperceive
+përkuqët | adj | tawny, auburn, tan
+përkurem | verb | be temperate
+përkurmë | adj | temperate
+përkyej | verb | oppress
+përlahem | verb | fall out, become enemies
+përlajë | noun | quarrel
+përlamë | adj | swept, afflicted (by epidemic)
+përlamje | noun | flood; swirl, rapacity
+përlant | noun | diamond, brilliant
+përlas | verb | wash away, sweep
+përlasinë | noun | flood; alluvium, mudwash
+përlehtë | adj | very light, dainty
+përleshë | noun | ravel, tangle
+përleftoj | verb | fight; combat, fight against, destroy
+përlëfytemi | verb | grab (each other) by the throat, come to grips
+përlëfytje | noun | tussle
+përlëkurem | verb | ingratiate oneself
+përlëkurës | noun | wheedler, love-maker
+përlëmim | noun | polish, refinement
+përlëmoj | verb | polish, refine
+përlëpij | verb | cut up, hack up; flatter
+përlidh | verb | weave, plait, twist
+përlidhme | noun | plot (of story)
+përligsohem | verb | get worse, decline, deteriorate
+përligjëm | adj | permissible, lawful
+përligjtar | noun | repayer, avenger; tax-payer; tributary; indemnatory
+përlimtar | adj | of duty, of obligation; refining; refiner, polisher
+përlind | verb | regenerate
+përlindem | verb | be reborn
+përlodhshëm | adj | tiring
+përloqem | verb | whisper
+përlotëm | adj | tearful
+përlotim | noun | tear-shedding
+përlotoj | verb | bathe in tears; pity
+përlotueshëm | adj | tearful; deplorable, pitiable
+përluftar | noun | champion, crusader
+përlumë | adv | for nothing; spite
+përlundrim | noun | passage (by ship)
+përlus | verb | implore, intercede
+përlutje | noun | intercession
