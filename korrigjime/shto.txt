@@ -55160,3 +55160,45 @@ ovrat | noun | dike, ditch; baulk
 ovratë | noun | dike, ditch
 ozure | noun | usury
 uzure | noun | usury
+# ── mannshto.tsv ──
+paaftët | adj | inadequate; inefficient; unfit
+paana | noun | pants, drawers
+paanësim | noun | neutralisation
+paanësoj | verb | neutralise
+paant | adj | boundless, endless; impartial; absolute
+paaqshëm | adj | unequal, unlike, dissimilar
+paaqët | adj | unequal, unlike
+paaqti | noun | inequality, dissimilarity
+paarsi | noun | ignorance, boorishness
+paargasur | adj | untanned, undressed
+paargosur | adj | untanned, undressed
+paarmë | adj | unarmed
+paarmët | adj | unarmed
+paarritë | adj | unripe
+paarritje | noun | unripeness
+paarritsi | noun | unripeness
+paavitje | noun | non-approach, non-understanding
+paavitshëm | adj | unapproachable, irreconcilable
+pababë | adj | fatherless
+pabaft | adj | unfortunate
+pabarabitshëm | adj | incomparable
+pabarasi | noun | disparity, inequality
+pabarasueshëm | adj | incomparable
+pabashkim | noun | dissension, disunion
+pabeft | adv | by surprise, suddenly; at random
+pabesni | noun | faithlessness, treachery
+pabesrisht | adv | disloyally
+pabesët | adj | unfaithful, disloyal, treacherous
+pabesnik | adj | unfaithful, disloyal
+pabesnikërisht | adv | disloyally
+pabezdisshëm | adj | quiet, unobtrusive
+pabërshëm | adj | impracticable; impotent, ineffective
+pabintëm | adj | disobedient
+pabojë | adj | colourless
+pabrumë | adj | unleavened; unleavened bread
+pabujtshëm | adj | inhospitable
+pabukshëm | adj | fasting; starving, hungry
+paburrsi | noun | unmanliness, cowardice
+paburrshëm | adj | unmanly, cowardly
+pacakti | noun | inaccuracy
+pacaktim | noun | indefiniteness, vagueness; indetermination
