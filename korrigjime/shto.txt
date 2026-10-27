@@ -56942,3 +56942,43 @@ përlumë | adv | for nothing; spite
 përlundrim | noun | passage (by ship)
 përlus | verb | implore, intercede
 përlutje | noun | intercession
+# ── mannshto.tsv ──
+përlyeme | noun | dirt, stain; mark, mole
+përlyes | adj | defiling; catching, infectious, contagious
+përlyeshëm | adj | soiling, dirtying, defiling
+përlyet | adj | stained, soiled, dirty; clinging, sticky
+përlykem | verb | stain oneself
+përlloç | verb | bespatter, splash with mud
+përloc | verb | bespatter
+përmajsh | adv | up to the brim
+përmal | adv | upright; up, uphill
+përmasi | adv | since, seeing that
+përmbajte | noun | conduct
+përmbajtës | noun | container, receptacle; keeper, retainer
+përmbajtse | noun | vessel, container
+përmbajtshëm | adj | containable, supportable
+përmbesim | noun | accrediting
+përmbesoj | verb | accredit
+përmbij | prep | on, upon
+përmbiketó | adv | moreover, furthermore
+përmbifjalë | noun | epilogue
+përmbikqyrës | adj | supervisory, inspecting; supervisor, inspector
+përmbiqyrës | noun | supervisor, inspector
+përmbikqyrje | noun | supervision, inspection
+përmbinatyrshëm | adj | supernatural
+përmbishkresë | noun | address; inscription
+përmbishkrim | noun | inscription; survey, sketch, outline
+përmbivarrshëm | adj | graveside-, mourning-
+përmbirje | noun | accretion
+përmbjeth | verb | collect, gather
+përmbledhëm | adj | compound, composite (gram.)
+përmbloj | verb | fill
+përmbrapcë | noun | buttock (of animal)
+përmbrapshëm | adj | back, rear
+përmbrenca | noun | intestines
+përmbrendca | noun | bowels, intestines
+përmbrendsa | noun | bowels, intestines
+përmbrendshëm | adj | inner, internal
+përmbrendshme | noun | interior
+përmbri | adv | alongside, at the side
+përmyz | adv | upside-down, face downwards
