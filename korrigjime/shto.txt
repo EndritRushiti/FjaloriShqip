@@ -55244,3 +55244,47 @@ paderptim | noun | unruliness, want of discipline, disorder
 padirsur | adj | beardless
 padishëm | adj | unknown, obscure, unheard of; ignorant
 paditëri | noun | ignorance
+# ── mannshto.tsv ──
+paditshëm | adj | ignorant; unwitting; chargeable, indictable
+padjalë | adj | childless, barren
+padjelë | adj | childless, barren
+padjallzuar | adj | artless
+padjerrshëm | adj | indestructible
+padlirë | adj | dirty; impure, unchaste
+padlirsi | noun | dirt; impurity, inchastity
+padlirët | adj | dirty, impure
+padorë | adj | anonymous
+padrejtsi | noun | injustice, wrong
+padrejtsisht | adv | wrongfully, unjustly
+padreqzi | noun | innocence
+padridhëm | adj | fearless
+padrojtur | adj | fearless, frank, open
+padukëm | adj | invisible
+paduresë | noun | impatience
+paduruet | adj | impatient
+padyshimshëm | adj | indubitable, indisputable, unquestionable
+padhembje | adj | painless
+padhemçur | adj | merciless, hardhearted
+padhimshëm | adj | ruthless, merciless, hardhearted, callous, cold
+padhjatë | adj | intestate
+paerë | adj | odourless
+paesëll | adj | unsober
+paesëlli | noun | insobriety
+paevari | noun | ingratitude
+pafajmë | adj | innocent, not guilty
+pafajsi | noun | innocence; acquittal
+pafajsoj | verb | acquit, clear
+pafajtë | adj | innocent
+pafatshëm | adj | hapless, luckless
+pafeshëm | adj | irreligious; infidel; superstitious
+pafërguar | adj | raw, uncooked
+pafill | noun | radio, wireless
+pafinë | adj | endless, everlasting
+pafisni | noun | baseness, ignobility
+pafisnik | adj | base (of metals)
+pafisshëm | adj | impolite, rude
+pafitimshëm | adj | unprofitable
+pafitimtë | adj | unprofitable
+pafkë | noun | flat stone, slab; flat pebble; plate, layer; slate, tile, shingle
+paflejtëm | adj | sleepless
+pafolëm | adj | unspoken
