@@ -57500,3 +57500,60 @@ pikëri | noun | punctuality
 pikërr | noun | spirit, gin
 pikëthirrës | noun | exclamation-mark
 pikëarritje | noun | terminal point, terminus, goal
+# ── mannshto.tsv ──
+pikalore | noun | kind of white spotted grape
+pikllim | noun | bitterness; grief, sorrow
+pikllohem | verb | be grieved; regret
+pikllore | noun | woodpecker
+pikllues | adj | grievous, embittering
+piklueshëm | adj | grievous, bitter
+pikosh | adj | spotted
+pikopikë | noun | woodpecker
+pikopyetje | noun | question mark
+pikoranë | adj | apoplectic
+pikorinë | noun | a dye
+pikrrim | noun | drizzle; distillation
+pikrroj | verb | sprinkle; drip; drizzle; distil; irrigate with small channels
+pikse | noun | dot, point; a smooth yellow wood for making spoons
+piksëpari | adv | first of all, in the first place
+piksi | noun | punctuation, punctuality, exactness
+piksim | noun | punctuation; condensing; squeezing; dotting, stippling; painting, depiction
+piksisht | adv | just, exactly, precisely, punctually, sharp
+piksoj | verb | punctuate; condense, squeeze; dot, stipple; paint, depict
+piksohet | verb | stands out
+piksur | adj | condensed, thickened, congealed, curdled; hardened
+piktajth | noun | woodpecker
+piktim | noun | souring, making bitter; stabbing, piercing; irrigation; drawing
+piktoj | verb | sour, make bitter; stab, pierce; irrigate; draw
+pikturshëm | adj | picturesque
+pikth | noun | woodpecker; burner (of lamp), wick-holder; jet
+pikueshëm | adj | dripping; dotting
+pikuleshë | noun | woman mourner at funeral
+pikulloj | verb | burn
+pikzim | noun | punctuation
+pikzoj | verb | punctuate
+pil | noun | game of pitch-and-toss
+pilangelthi | adv | in the rear, dogging, sleuthing
+pilar | noun | honeycomb; landing (on staircase)
+pilas | adv | to the brim
+pilcë | noun | peg, pin; stick supporting stone clapper of bird-trap
+pilëz | noun | pebble; blob
+pilik | noun | small table
+pilikuri | adv | naked
+pilistër | noun | small mark on body of dead
+pilivoesë | noun | dragon-fly
+pilivrom | noun | syphilis
+piloçak | adj | squat, low-built
+piloj | verb | put in line, file, range; arrange
+pilohem | verb | line up, queue up
+pilos | verb | plane
+pilth | noun | trigger
+piluer | noun | pyloric end of stomach
+pilurë | noun | genista acanthoclada (bot.)
+pilzë | noun | small hole; pore; drop, particle; small pebble
+pillesë | noun | gold and silver embroidery; toilet; standing censer
+pillës | noun | hackler
+pillim | noun | hackling, flax-combing; comb-out, search; toilet; gold and silver embroidery; furnishings, adornment
+pilloj | verb | comb, hackle (flax); do up, adorn, furnish up; gather, amass, pile up
+pillohem | verb | comb one's hair, do one's toilet
+pillonjë | noun | knot, tangle (in flax)
