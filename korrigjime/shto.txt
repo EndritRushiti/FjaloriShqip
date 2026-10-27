@@ -55947,3 +55947,56 @@ parëndaloj | verb | prevent
 parëndienjë | noun | premonition
 parëpashëm | adj | foreseeable
 parelule | noun | horsetail (Equisetum arvense)
+# ── mannshto.tsv ──
+parërendës | adj | forerunning; forerunner
+parërojë | noun | vanguard
+parësitshëm | adj | indelible
+parëskanjim | noun | predestination
+parëskanjoj | verb | predestine
+parështim | noun | prefix
+parështoj | verb | prefix
+parëthem | verb | predict
+parëveshtrim | noun | prevision
+parëvendos | verb | predetermine
+pargule | noun | pergola
+paricë | noun | queen bee
+parigori | noun | consolation
+parigoris | verb | console
+parimtar | adj | of principle
+parir | verb | please
+paris | verb | steam; foment (a wound); embrocate
+paritem | verb | vaporise; cloud over, go dim
+parisi | noun | mention in church service
+parje | noun | preposition; parable
+parkalis | verb | beg, beseech
+parkalidhë | noun | chicory
+parllak | noun | remains (of dead animal)
+parmis | verb | overturn
+parmrâmë | adv | the evening before yesterday
+parodë | adj | common, commonplace
+paroj | verb | pair, pair up
+parok | noun | rector
+parollë | noun | password
+paroqi | noun | parish
+parotë | noun | jury
+parrotë | noun | jury
+parotnik | noun | juror, juryman
+paronik | noun | juror, juryman
+parpardje | adv | three days ago
+parprise | noun | preposition
+parpulis | verb | tan, beat, thrash
+parpulisem | verb | struggle, strive
+parpulitem | verb | struggle, strive
+parsi | noun | the aristocracy, nobility; precedence, leadership
+parsim | noun | the aristocracy; precedence
+parshëm | adj | first, fore-; front; foremost; primary, primitive; cardinal, basic; former, previous; preliminary
+partall | noun | things, chattels, belongings, effects; goods, stuff; lumber
+partallis | verb | undo, separate, sunder, unfasten, untie
+partaz | adv | for the first time
+parturonj | verb | give birth
+parthenë | noun | virgin
+parthi | adv | formerly, of yore; lately; at first; near by
+parthin | adv | formerly, of yore
+parur | noun | wheat bread
+parvasë | noun | frame, cornice
+parverë | noun | spring (season)
