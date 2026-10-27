@@ -56392,3 +56392,36 @@ peshimmatje | noun | measure of weight
 peshithi | adv | trailing, along the ground; by weight
 peshkar | noun | fisherman; crane (bird); gull
 peshkëtar | noun | fisherman, angler; kingfisher
+# ── mannshto.tsv ──
+peshkeq | adj | frivolous
+peshkqen | noun | shark
+peshkrrotullak | noun | tunny (fish)
+peshksqyt | noun | perch (fish)
+peshkujë | noun | pond, pool; swimming-pool, lake; aquarium
+peshkvoj | verb | tar, pitch
+peshletis | verb | exist, eke out an existence, make a living
+peshllinë | noun | jacket with sleeves
+peshmengë | noun | basin for holy water
+peshterkë | noun | barren woman or cow
+peshtoj | verb | cover
+peshuese | noun | scale, balance
+peshull | noun | scale, balance
+petasem | verb | attack, rush upon
+peteni | noun | mercerised cotton or sateen
+petëk | noun | layer, foil
+petërt | adj | flaky, flaked
+petkicë | noun | small garment, small jacket
+petoj | verb | roll out (dough); make layers of, stratify; flatten
+petrel | noun | petrel
+petrisel | noun | parsley
+petroleum | noun | petroleum
+petulloj | verb | shape like a pastie; throw flat stones
+petullohem | verb | hang round, loiter round
+pezatem | verb | pounce
+pezaul | noun | drag-net, trawling-net; wicker fish-trap
+pezevul | noun | drag-net, trawling-net
+pezeul | noun | drag-net
+pezjet | num | fifty
+pezmatar | adj | harsh, rude
+pezmati | noun | irritation, worry, annoyance; affliction, sorrow
+pezmoj | verb | worry, irritate
