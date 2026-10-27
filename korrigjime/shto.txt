@@ -58344,3 +58344,52 @@ prishtar | noun | corruptor
 prishtoj | verb | bud, shoot, sprout
 prishurina | noun | fragments, rubble
 pritar | noun | one who examines a denouncer
+# ── mannshto.tsv ──
+pritëm | adj | forthcoming, future, next
+pritim | noun | sloth
+pritosjellse | noun | maid of honour
+pritsi | noun | reception, receptiveness; laziness, sloth
+pritsoj | verb | intercept
+pritues | adj | slothful, lazy; sour, tart; negligent, careless; idler
+pritueshëm | adj | dallying, hesitating; lazy, slothful
+pritht | noun | priest
+prizivue | noun | drag-net
+prizmë | noun | prism
+problemë | noun | problem
+proboti | noun | adopted brother
+probotinohem | verb | fraternise
+prodh | noun | traitor
+prodhimsi | noun | productiveness
+prodhos | verb | betray
+prodhosi | noun | treachery
+prodhot | noun | traitor
+profetar | adj | prophetic
+profiti | noun | prophecy
+profetizonj | verb | prophesy
+profë | noun | display, show
+profiteps | verb | prophesy
+profitereshë | noun | prophetess
+profitik | adj | prophetic
+profitneshë | noun | prophetess
+profitoj | verb | observe, notice
+profitsi | noun | prophecy
+prognonatë | noun | christening cake
+programë | noun | programme
+progje | noun | tacks, hobnails
+proh | interj | oh dear!
+projektligjë | noun | bill
+projës | noun | defender
+projt | noun | harbour
+projtar | noun | defender
+projtje | noun | defence; defensive
+projzoj | verb | provide; protect
+prok | noun | tack, hobnail
+prokëz | noun | small fork
+prokof | noun | shroud, pall
+prokopishëm | adj | prosperous
+prokops | verb | prosper, progress
+prokopsës | adj | prosperous, progressive
+prokopsur | adj | fortunate, lucky, prosperous
+prokovacë | noun | bed-sheet, blanket
+prokudis | verb | try to steal, pilfer
+prokudish | noun | pilferer
