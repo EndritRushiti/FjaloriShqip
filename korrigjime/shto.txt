@@ -58653,3 +58653,48 @@ puntorkë | noun | worker, worker-bee
 puntorsi | noun | workmanship; diligence, application
 punzi | noun | misfortune
 punzezë | adj | hapless
+# ── mannshto.tsv ──
+puparac | noun | variety of fig
+pupas | adv | on the knees; at a bound, hopping; with both feet together
+pupca | adv | hopping
+pupcoj | verb | hop, hop along (on two feet)
+pukçik | adv | with both feet together
+pupçik | adv | squatting
+pupëlzë | noun | down, fluff
+pupisë | noun | (a tenuirostral bird)
+pupit | verb | re-echo, resound
+pupkë | noun | tuft, crest
+puplëz | noun | down
+puplishtë | noun | fluff, down; twigs growing out of tree-stumps
+puplore | adj | downy
+puprroj | verb | hoe over; fiddle about, potter about
+pupthin | adv | hopping
+pupulake | noun | crocus
+pupurish | verb | scratch about (as fowls)
+pupurriq | verb | dry up, shrivel
+pupurriqët | adj | shrivelled; bent (with age)
+pupzohem | verb | shrink; huddle up
+puqas | adv | joined, jointly, conjointly, flush
+puqasje | noun | contact, connection, conjunction
+puqër | noun | a pinch (of snuff)
+purbulës | verb | soil, defile
+purbuletem | verb | soil oneself
+pureshtur | adj | full of leeks
+purgonj | verb | purify
+purguom | noun | Atonement
+purifikonj | verb | purify, clean
+purifikuom | noun | purification
+purpurinë | noun | scarlet
+purpurtë | adj | scarlet
+purpërt | adj | scarlet
+porteke | noun | sapling
+purrith | noun | small wild leek
+purrq | noun | kind of onion or leek
+purris | verb | poke (a fire); purr
+purritem | verb | hesitate, halt, falter
+purrojë | noun | defence
+purroj | verb | defend
+pusitar | noun | lurker, ambusher; sniper
+pusollë | noun | ticket, note
+pustle | noun | compass
+pustovan | noun | metal club, knobkerry
