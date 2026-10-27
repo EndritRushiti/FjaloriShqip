@@ -57875,3 +57875,58 @@ plistar | noun | felt-maker
 plitë | noun | brick, sun-dried brick
 plivas | verb | swim
 ploçkë | noun | gaiter; woollen knee-caps; a disease of the feet
+# ── mannshto.tsv ──
+plogni | noun | sloth, sluggishness, indolence
+plogsi | noun | sloth, sluggishness, indolence
+plogti | noun | sloth, sluggishness
+plogsohem | verb | slack, laze, be lax
+plokshtë | adj | slothful; dull, blunt
+plogshtas | adv | idly
+plogshtaz | adv | idly
+plogshti | noun | sloth
+ploj | verb | fill
+plojtë | adj | slow, sluggish, inert; full-faced, chubby; bulging, crammed
+plokë | noun | scar
+plokët | adj | slow, sluggish
+plosk | noun | light fall of snow; snowfall, blizzard
+ploskë | noun | wooden flask
+ploskurë | noun | wooden flask
+plotëm | adj | full
+plotërisht | adv | fully, completely, thoroughly
+plotësirë | noun | fullness
+plotmeni | noun | density, intensity
+plotnisht | adv | fully, abundantly
+plotoj | verb | fill, complete
+plotpjestim | noun | division (arith.)
+plotsi | noun | fullness, amplitude, completeness
+plotsim | noun | fulfilment, completion, supplementation
+plotsisht | adv | fully, entirely
+plotsoj | verb | fill, replenish; fulfil, carry out; complete; supplement
+plotsonjës | adj | supplementary; corollary, counterpart, supplement
+plotsore | noun | supplement, addition, extra
+plotsues | adj | supplementary
+plotshëm | adj | full, abundant
+plozhët | adj | weak, effeminate; sleepy; inert, slack, lazy
+pluhnizë | noun | ash
+pluhnoj | verb | pulverise, turn to dust; cover with dust
+pluhunoj | verb | pulverise
+pluhnos | verb | pulverise
+pluhnim | noun | powdering, crushing, pounding
+pluhunueshëm | adj | pulverisable
+pluhurtë | adj | dusty
+plumbët | adj | lead-, leaden
+plumbnoj | verb | lead, fill with lead, stop, seal, solder
+plumçe | noun | pencil; casting-net
+plumpth | noun | pencil, crayon
+plumxhore | noun | witch, sorceress
+pluq | interj | flop! splash!
+plusk | noun | blizzard
+pluzhdë | noun | kind of sea-snail
+pluzhicë | noun | plough
+plyk | noun | peg
+plymsi | noun | crowd, crush
+plyskë | noun | strawberry
+pllacis | verb | flatten
+pllae | noun | upland
+pllagë | noun | slab
+pllakas | noun | game of curling
