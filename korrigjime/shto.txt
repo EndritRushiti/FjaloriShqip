@@ -55893,3 +55893,57 @@ parashëm | adj | uneven, rough, rugged
 parashëkim | noun | anticipation, forecast
 parashëkoj | verb | foresee, forecast
 parashkenë | noun | wing(s) of stage
+# ── mannshto.tsv ──
+parashkresë | noun | prescription
+parashkroj | verb | prescribe
+parashkruej | verb | prescribe
+parashkronjë | noun | initial
+parashtim | noun | prefix
+parashtjellues | adj | elicitive
+parashtymje | noun | propulsion
+parashtytës | adj | propelling, propulsive
+parashtytsë | noun | buffer
+parator | noun | leading sheep in flock
+paratren | noun | plough-point
+parathom | verb | prophesy, foretell
+parathir | noun | window
+parathyre | noun | window
+parathirje | noun | window
+paravajtje | noun | welfare, progress, well-being, ascendancy
+paraveshë | noun | slap, clout
+paraveshtrim | noun | providential act, anticipation
+paraveshtroj | verb | provide, foresee, anticipate
+paravoli | noun | parable
+paravrojc | adj | provident, prudent
+paravullë | noun | parable
+paraz | adv | previously, before; chiefly, in the first place, first of all
+parazi | adv | previously; chiefly
+parazan | noun | shoulder of knife nearest handle; back of knife-blade
+parcivjeti | adv | two years ago, formerly, of yore
+pardi | noun | rafter
+pardie | adv | the day before yesterday
+pardije | adv | the day before yesterday
+pardjehe | noun | the day before yesterday
+pardh | noun | leopard
+pardhall | noun | leopard
+paremane | noun | pin
+parend | noun | disorder; disorderly
+parendshëm | adj | irregular, disorderly, inconsistent
+pareqim | noun | pomp, show, display, decoration; preparation
+pareqoj | verb | decorate, adorn; prepare
+paretkë | noun | partition-wall; harrow
+parëcaktim | noun | predestination
+parëdije | noun | prescience
+parëdrekë | noun | forenoon
+parëdhomë | noun | antechamber
+parëfjalë | noun | prologue
+parëfjalim | noun | foreword, preface
+parëkohshëm | adj | premature
+parëlajmërim | noun | premonition
+parëlajmëroj | verb | forewarn
+parëlajmtar | adj | forewarning
+parëlindje | noun | primogeniture
+parëndaloj | verb | prevent
+parëndienjë | noun | premonition
+parëpashëm | adj | foreseeable
+parelule | noun | horsetail (Equisetum arvense)
