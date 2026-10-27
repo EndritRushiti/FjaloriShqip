@@ -56576,3 +56576,59 @@ përçapshëm | adj | chewable
 përçarthi | adv | ravingly
 përçiq | noun | short span
 përçitem | verb | mate (of goats); become pregnant (of she-goat); make a mess of oneself
+# ── mannshto.tsv ──
+përçkëmbej | verb | change, alter; alternate; transform
+përçkëmbesë | noun | alternation
+përçlam | noun | ivy; varicose vein
+përçmonjës | adj | contemptuous; despiser
+përçohem | verb | be roused
+përçor | noun | leading ram of flock
+përçpall | verb | proclaim
+përçquaj | verb | separate; distinguish
+përçquar | adj | distinguished
+përçquarët | adj | distinguished
+përçqyej | verb | distinguish
+përçud | adv | monstrously
+përçudës | noun | conjurer
+përçudni | noun | horror; ferocity; deformity
+përçudshëm | adj | surprising, sensational; conspicuous; ugly; monstrous, deformed, ghastly; savage, cruel
+përçuk | noun | forelock
+përdarje | noun | sharing, division; distribution; partition
+përdas | noun | distributor, sharer; postman
+përdegem | verb | branch out, ramify
+përdegje | noun | branching out, ramification
+përdelec | adj | cringing, beggarly, craven
+përderc | noun | beggar
+përderdh | verb | sprinkle; pour, scatter, spill, shed; broadcast, propagate
+përderdhje | noun | overflowing, flooding
+përderet | adv | by the door, from door to door
+përdëlim | noun | mercy, compassion; consolation; indulgence
+përdëlimshëm | adj | pitiable, pitiful
+përdëlimtar | adj | forgiving, kind, indulgent; pious
+përdëlyes | adj | compassionate, forgiving
+përdëllimmadh | adj | kind, merciful
+përdiçëm | adj | daily
+përdierr | verb | divert, cause to stray; seduce; mislead, misguide
+përdirrem | verb | stray, wander
+përdikase | conj | because
+përdirika | adv | finally
+përdita | adv | daily; by day
+përditet | adv | by day
+përditëm | adj | daily
+përditore | noun | daily wage
+përdjal | verb | adopt (a son)
+përdjeg | verb | scorch, blacken (with frost)
+përdjers | verb | soak with sweat
+përdjerr | verb | divert, cause to stray
+përdjerrje | noun | destruction
+përdorak | adj | docile, manageable; handy, useful
+përdoresh | adv | at hand, handy
+përduersh | adv | at hand
+përdorësh | adv | by hand, with the hand
+përdorme | noun | using, usage
+përdorse | noun | tool, instrument
+përdredhas | adv | evasively, shiftily, equivocally
+përdredhc | adj | vain, conceited
+përdredhëm | adj | winding, roundabout, devious, tortuous; wily, artful, tricky; fascinating
+përdredhëz | noun | coil
+përdredhim | noun | curling, waving
