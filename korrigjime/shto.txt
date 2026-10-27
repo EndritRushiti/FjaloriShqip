@@ -58737,3 +58737,40 @@ pykël | noun | wedge
 pyllkë | noun | wedge
 pykët | adj | wedge-shaped
 pylivesë | noun | dragon-fly
+# ── mannshto.tsv ──
+pyllar | noun | forester
+pyllinë | noun | grove, copse
+pyllos | verb | afforest
+pyllosh | adj | woody, wooded
+pylloz | adj | woody, wooded
+pyllrojës | noun | forester, ranger
+pyllrojtës | noun | forester, ranger
+pyllzim | noun | afforestation
+pyllzoj | verb | afforest
+pyrg | noun | heap, pile; tower
+pyrk | noun | heap, pile
+pyrtykat | noun | sty on eye
+pytikath | noun | sty on eye
+qaçkë | noun | booty, things
+qafcë | noun | collar
+qafëshkurtë | adj | short-necked
+qafkël | noun | kind of blackbird
+qafkëlore | noun | a tufted bird
+qafkore | noun | hen with ruff
+qafok | adj | wrynecked
+qafosje | noun | embrace
+qagë | noun | wound
+qahi | noun | kind of cake
+qaji | noun | kind of cake
+qajkë | noun | peg, pin; pin or bolt attaching plough-head to yoke
+qallinë | noun | telescope
+qamalë | noun | violin
+qamatar | adj | moaning, wailing, plaintive; complaining
+qamje | noun | wailing, moaning, mourning, weeping
+qandërr | noun | pneumonia
+qandërrafrues | adj | centripetal
+qandërrikës | adj | centrifugal
+qandërrprues | adj | centripetal
+qangjer | noun | kid
+qantoj | verb | plant
+qapell | noun | string (of figs)
