@@ -57557,3 +57557,58 @@ pillim | noun | hackling, flax-combing; comb-out, search; toilet; gold and silve
 pilloj | verb | comb, hackle (flax); do up, adorn, furnish up; gather, amass, pile up
 pillohem | verb | comb one's hair, do one's toilet
 pillonjë | noun | knot, tangle (in flax)
+# ── mannshto.tsv ──
+pijmë | adj | numb
+pimje | noun | drinking; drink; smoking
+pimos | verb | grieve
+pimzë | noun | toy balloon
+pinakë | noun | blackboard
+pindiksi | noun | painting
+pingrim | noun | twitter; singing in ears
+pingrimë | noun | twitter
+pingroj | verb | utter, mutter; resound; tingle; sing, have singing in ears; twitter, chirp; mourn
+pingulë | noun | perpendicular; tip, top, point; gable; peak; climax, zenith
+pingulësi | noun | uprightness, verticality
+pingulisht | adv | vertically, upright
+pingultas | adv | vertically
+pingull | adj | perpendicular, vertical, upright
+pingjall | noun | dagger, stiletto
+pîni | noun | lady's bedstraw (bot.)
+pinoçe | noun | lupine (bot.)
+pinuc | noun | dwarf
+pinue | noun | sailyard
+pinjar | noun | holm-oak
+pinjuell | noun | first shoot; sprout, cutting, scion; offspring; son, hero
+pipcë | noun | shoot
+pipeq | noun | kind of oil-cake; stick of crisp bread
+pipercë | noun | pepper-mill
+piperje | noun | pepper-plant, paprika
+piperoj | verb | pepper
+pipërr | noun | ring-shaped bun
+pipës | noun | tip; spark-contact (of sparking-plug)
+pipigjate | noun | large variety of plum
+pipij | verb | whisper; sing low, hum
+pipilij | verb | whistle
+pipingje | noun | spice
+pipirq | noun | kind of fungus
+pipirqoj | verb | doll up, furbish up; fake, travesty, falsify
+pipirqohem | verb | doll oneself up; swagger, flaunt oneself
+pipkë | noun | uvula; epiglottis; steam-valve, whistle; gapes (in chickens)
+piplac | noun | stammerer
+piplij | verb | whisper; lisp
+pipllij | verb | whisper
+piplim | noun | whisper; lisp; small voice, squeak
+piploj | verb | whisper; lisp; hiss
+piprij | verb | whisper; murmur; rustle, squeak, utter a sound
+pipërij | verb | whisper, murmur
+piprrij | verb | whisper, murmur
+piproj | verb | whisper, murmur
+piprroj | verb | whisper, murmur
+piprim | noun | whisper
+piptajth | noun | bud, shoot
+piptij | verb | squeak; give the show away
+piptoj | verb | pipe
+pipth | noun | woodpecker; mouthpiece; burner (of lamp); beak
+piqem | verb | meet; clash; struggle, be in difficulties
+pirac | noun | briar, bramble
+pirajkë | noun | sword; beater, washing-stick; part of loom
