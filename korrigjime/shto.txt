@@ -57711,3 +57711,62 @@ pjekarathi | adv | by chance, haphazard
 pjekëm | adj | roasted, done; ripe; baked, hardened
 pjekmeni | noun | maturity
 pjekoj | verb | tether
+# ── mannshto.tsv ──
+pjeks | verb | weave, plait
+pjeksi | noun | ripeness, maturity
+pjekshëm | adj | roastable; maturing
+pjektar | noun | baker; cook
+pjektare | noun | female cook
+pjektari | noun | art of cooking, kitchen-craft; kitchen
+pjekullë | noun | mudbrick
+pjelegë | noun | gutter
+pjep | noun | poplar
+pjerët | adj | inclined, sloping; tending; steep
+pjertë | adj | inclined, sloping
+pjersi | noun | tendency
+pjerje | noun | slope, drop
+pjermeni | noun | tendency, bent, inclination
+pjermë | adj | sloping
+pjersinë | noun | slope, drop
+pjerrakeq | noun | lascivious person
+pjerrim | noun | slope; incline; inclination, bent, trend, tendency
+pjerrinë | noun | slope
+pjerrme | noun | slope
+pjerrohem | verb | bend, bend over, duck
+pjerroj | verb | grieve
+pjerrsi | noun | slope, precipice
+pjerrsinë | noun | slope
+pjerrsim | noun | slope, drop, precipice
+pjesarak | adj | participial
+pjesarake | noun | participle (gram.)
+pjesatoj | verb | blaspheme, curse
+pjesëfolje | noun | part of speech
+pjesëm | adj | partial
+pjesherash | adv | sometimes
+pjesnik | adj | local (shower)
+pjesnore | noun | participle
+pjestar | noun | participant
+pjestari | noun | fraction
+pjestore | noun | participle
+pjestues | adj | dividing, distributing, distributory; divisor (arith.); distributor
+pjestueshëm | adj | divisible
+pjestullë | noun | particle (gram.)
+pjeshkëz | noun | small peach; plant with leaves like those of peach
+pjeshnim | noun | destiny, fate
+pjetipërmal | adv | upwards
+pjetiposhtë | adv | downwards, headlong
+pjetis | verb | twist, twine; knit
+pjetje | noun | rupture, hernia
+pjetkohem | verb | be ruptured
+pjetposht | adv | down, downwards
+pjetrosel | noun | parsley
+pjevicë | noun | leech
+pjuhuros | verb | cover with dust
+plaçkadis | verb | plunder, raid
+plaçkare | noun | mixture of vegetables; things, effects, gadgets
+plaçkroj | verb | plunder
+plaçkim | noun | raid, plundering
+plaçkues | noun | plunderer, raider, robber
+plaçkueshëm | adj | raidable, plunderable
+plaçkurina | noun | goods and chattels, effects, belongings
+plafar | noun | blanket-maker, rug-maker
