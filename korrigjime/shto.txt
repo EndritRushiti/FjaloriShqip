@@ -56736,3 +56736,59 @@ përgushë | noun | frill, ruff
 përgjajsim | noun | resemblance, parallel, analogy; image
 përgjajtme | noun | resemblance
 përgjajtur | noun | resemblance
+# ── mannshto.tsv ──
+përgjakëm | adj | bloodstained, bloody
+përgjakos | verb | bloodstain
+përgjalloj | verb | enliven, arouse
+përgjanjtor | adj | comparative
+përgjas | verb | resemble
+përgjasim | noun | likeness; imitation; assimilation
+përgjasoj | verb | assimilate; resemble
+përgjasues | adj | relative, comparative
+përgjashëm | adj | comparable, similar; imitable
+përgjatshëm | adj | lengthwise, longitudinal
+përgjatur | noun | likeness
+përgjegj | verb | answer
+përgjegjsi | noun | responsibility
+përgjejm | adj | mad, raving, angry, furious; horrible
+përgjel | noun | compass (for drawing circles)
+përgjes | verb | resemble; guess
+përgjesë | noun | spying, prying
+përgjenishëm | adj | affectionate, intimate
+përgjeratë | noun | monster
+përgjerim | noun | oath; swearing
+përgjirohem | verb | swear
+përgjerues | noun | curser, blasphemer
+përgjigjës | adj | responsible; person responsible
+përgjigjsi | noun | responsibility
+përgjimtar | adj | spying, prying; eavesdropper, spy
+përgjitëm | adj | in agreement, harmonious
+përgjithnisht | adv | in general
+përgjithsisht | adv | in general, generally
+përgjithët | adj | general
+përgjithsi | noun | generality, generalisation
+përgjithsim | noun | generality, generalisation
+përgjithsoj | verb | make general, generalise
+përgjonës | noun | eavesdropper, spy, watcher, listener
+përgjos | verb | overcome, weaken, enfeeble
+përgjosur | adj | bent with age, huddled up
+përgjukonj | verb | condemn
+përgjumë | noun | slumber
+përgjumët | adj | sleepy
+përgjumsi | noun | sleepiness
+përgjumoj | verb | put to sleep
+përgjunje | noun | kneeling
+përgjymsë | adv | in halves, in two, half and half, half-way, half-
+përgjymëz | adv | in halves
+përgjymsët | adj | halved, in halves
+përgjymsoj | verb | halve
+përgjynjur | adj | kneeling; decrepit
+përgjysët | adj | half, halved; medium
+përgjysmës | noun | (past) participle
+përgjysoj | verb | halve
+përgjysshëm | adj | half, semi-
+përhedhë | noun | jump
+përhedhët | adj | nimble
+përhera | adv | always, ever, for ever
+përherrë | adv | always
+përherët | adj | permanent, perpetual, continuous
