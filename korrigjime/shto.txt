@@ -54824,3 +54824,58 @@ njatem | verb | last
 njatje | adv | there, yonder, that way
 # ── mannshto.tsv ──
 njâzë | noun | one, unit
+# ── mannshto.tsv ──
+njazim | noun | unification, combination, assimilation
+njazoj | verb | unite, link up, combine, unify, assimilate
+njazues | adj | combining, linking, assimilating
+njefkë | noun | sepal
+njefme | noun | counting, calculation
+njefshë | noun | nod, gesture
+njegullë | noun | fog, mist, cloud
+njehanë | noun | ball-holder, container
+njehsi | noun | account
+njejtë | adj | one, same, identical
+njekaq | pron | so many, so much
+njektu | adv | here
+njel | noun | rheumatism
+njelbët | adj | salt, salty, briny
+njelmsoj | verb | salt, brine, pickle; make salty
+njell | verb | arouse
+njellët | adj | blue
+njemshtë | adj | manifold
+njend | verb | be free, be at leisure
+njera | conj | until
+njeranani | adv | hitherto
+njerajatrën | pron | each other
+njerdashës | adj | philanthropic; philanthropist
+njerdashje | noun | philanthropy
+njerjatrin | pron | each other
+njerntë | adj | human, humane
+njerrtë | adj | human, humane
+njervrasës | adj | homicidal; homicide
+njervrasje | noun | homicide
+njeroj | verb | potter about, idle
+njersa | conj | till
+njerzi | noun | people, kinsmen; humanity, humaneness
+njerzim | noun | humaneness
+njerzishëm | adj | humane, humanitarian
+njerzisht | adv | humanly, humanely
+njerzoj | verb | humanise
+njes | verb | attack
+njesh | adv | just as, equally with
+njeshëm | adj | equal, uniform
+njet | adv | near, by
+njetash | adv | at this very moment
+njeth | verb | fertilise; be fertile, grow
+njethët | adj | growing, green, tender
+njethje | noun | impregnation, fertilisation
+njëçast | adj | immediate, short-lived
+njëditëz | adv | the day before yesterday, a day or two ago
+njëdizaj | adv | the day before yesterday
+njëgjakas | noun | relative, kinsman
+njëherejt | adv | at once, at the same time
+njëheshëm | adj | uniform, like, equal
+njëhet | adj | adequate
+njëhu | noun | the one, unit, unity
+njëjatërm | adj | reciprocal
+njëjësim | noun | unification, standardisation; equality, unity
