@@ -56163,3 +56163,60 @@ paturpsi | noun | cheek, impudence, insolence
 paturpsisht | adv | shamelessly
 patush | noun | gosling
 patvalle | noun | bearing beam, transom
+# ── mannshto.tsv ──
+pathellë | adj | shallow
+pathellueshëm | adj | unfathomable, inscrutable, profound
+pathologji | noun | pathology
+pathologjik | adj | pathological
+paudhni | noun | wickedness, lawlessness, crime
+paudhëri | noun | wickedness, crime
+paudhsi | noun | wickedness, crime
+paugurshëm | adj | ill-omened
+paujdi | noun | disorder, bad arrangement
+paujdisëm | adj | disorderly; unfit, unsuitable; stormy
+paujë | adj | waterless, arid
+paunjishëm | adj | imperfect
+paunjur | adj | undaunted
+paurkë | noun | flask
+paurti | noun | imprudence, folly, rashness
+paurtsi | noun | imprudence, folly
+paushqim | noun | malnutrition, starvation
+pavadi | noun | inexperience
+pavalle | noun | foundation-timber, crossbeam
+pavarëm | adj | independent
+pavarni | noun | independence
+pavarsi | noun | independence
+pavarrëm | adj | independent
+pavatër | adj | homeless
+pavazhdim | adj | intermittent; non-continuation
+pavdeksi | noun | immortality
+pavdeksoj | verb | immortalise
+pavdirje | noun | permanency, immortality
+pavemendje | noun | inattention
+pavendëm | adj | out of place, inappropriate
+pavendët | adj | out of place
+pavendshëm | adj | out of place, inappropriate
+pavendsi | noun | inappropriateness
+pavepri | noun | inaction, inactivity, inertia
+paveprim | noun | inaction, inactivity, inertia
+paveshtrim | noun | inattention
+pavetdije | noun | (the) unconscious
+pavetditur | adj | unconscious
+pavëjefshëm | adj | worthless
+pavështgueshëm | adj | inscrutable
+pavleftë | adj | worthless
+pavlersi | noun | uselessness
+pavnertë | adj | non-poisonous
+pavoli | noun | inconvenience
+pavoltëm | adj | inconvenient; cramped, hampered; inopportune
+pavoltshëm | adj | inconvenient; inopportune
+pavoltje | noun | inconvenience
+pavon | noun | peacock
+pavrejshëm | adj | careless, inattentive, unobservant, heedless; unnoticeable
+pavërejshëm | adj | careless, inattentive
+pavrejtje | noun | inattention, carelessness, heedlessness
+pavyer | adj | worthless; unworthy
+pazbutueshëm | adj | implacable, indomitable
+pazellët | adj | apathetic, indifferent
+pazënë | adj | untaken, unoccupied, vacant, free
+pazarohem | verb | haggle, bargain
