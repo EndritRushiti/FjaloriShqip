@@ -55632,3 +55632,56 @@ pandeshk | noun | impunity
 pandeshkueshëm | adj | unpunishable
 pandigjueshëm | adj | disobedient
 pandël | noun | scrap, bit
+# ── mannshto.tsv ──
+pandërgjegjsi | noun | unconscientiousness, lack of conscience, callousness
+pandërpremë | adj | uninterrupted
+pandërsyer | adj | spontaneous
+pandienje | noun | insensitiveness; insensitive
+pandimeni | noun | numbness, anaesthesia
+pandimshëm | adj | imperceptible, insensible
+pandjehur | adj | unconscious, insensible
+pandiejshëm | adj | imperceptible, insensible
+pandienjshëm | adj | imperceptible, insensible
+pandjerë | adj | unpardoned, unpardonable; base
+pandoflë | noun | slipper
+pandomë | noun | hope; expectancy; supposition
+pandomimë | noun | pantomime
+pandrojtje | noun | fearlessness, bravery
+pandryshëm | adj | unchangeable, unchanging, invariable
+pandryshi | noun | unchangeableness, sameness, monotony
+pandrrueshëm | adj | unchanging, unchangeable, invariable
+pandyrë | adj | undefiled
+pane | noun | parsnip
+panerkë | noun | a vegetable; small basket
+pangadhnjyeshëm | adj | invincible, unconquerable
+pangeshëm | adj | busy, occupied
+pangimë | adj | unsated
+panginje | noun | insatiability
+panginsi | noun | insatiability
+panginshëm | adj | insatiable; eager, keen
+panginur | adj | insatiable
+pangopsi | noun | greed, gluttony, avidity
+pangosur | adj | insatiable, unsated
+pangrânme | noun | hunger, starvation
+pangushullueshëm | adj | desolate, unconsolable
+pangjajshëm | adj | unfit, improper, out of place; improbable
+pangjase | noun | dissimilarity
+pangjeshje | noun | flabbiness, looseness, slackness
+pangjyrët | adj | colourless
+panicë | noun | plate, platter, pan
+panikotë | noun | baked bread (of millet)
+panikpan | noun | cake of maize, sugar and eggs
+pankë | noun | plate, platter
+pankreat | noun | pancreas
+panom | adj | lawless
+panomë | adj | lawless
+panomëm | adj | lawless
+panomët | adj | lawless; iniquity, lawlessness, wickedness
+pantalonë | noun | trousers
+pandallonë | noun | trousers
+pantollë | noun | trousers
+panther | noun | panther
+panuç | adj | mud-bespattered
+panumërtë | adj | countless, innumerable
+panumurtë | adj | countless, innumerable
+panzehir | noun | wart on horses and donkeys (kept as a charm)
