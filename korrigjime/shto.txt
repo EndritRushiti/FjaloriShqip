@@ -55569,3 +55569,66 @@ pamendshëm | adj | ignorant, stupid
 pamendueme | noun | thoughtlessness
 pameshëm | adj | incessant
 pametë | adv | without waiting, forthwith
+# ── mannshto.tsv ──
+pametshëm | adj | unimpaired, perfect
+pamëhani | noun | bewilderment
+pamëkatsi | noun | innocence
+pamëndëri | noun | madness, stupidity
+pamënuar | adj | unhesitating
+pamërzishëm | adj | inoffensive, unobtrusive
+pamërzitshëm | adj | inoffensive, unobtrusive
+pamës | noun | seer, viewer; inspector; spectator
+pamëshirtë | adj | ruthless, pitiless, relentless
+pamiqsi | noun | hostility; cold, unfriendly
+pamirë | adj | unpleasant, disagreeable; improper; sinister, underhand; wrong; unwell
+pamirsi | noun | unfriendliness, coldness, uncharitableness
+pamirsueshëm | adj | incorrigible
+pamjaft | adj | insufficient
+pamjaftsi | noun | insufficiency
+pamolisje | noun | immunity (from infection)
+pamortshëm | adj | immortal
+pamosh | adj | junior, juvenile; juvenile
+pamoshni | noun | juvenility, minority
+pamoshsi | noun | juvenility, minority
+pamotnim | noun | eternity
+pampor | noun | steamer
+pampuar | noun | steamer
+pamprojtshëm | adj | undefended, indefensible, defenceless
+pamprojtur | adj | unprotected, defenceless
+pamsyeshëm | adj | unassailable, invulnerable; inviolable
+pamshehshëm | adj | unconcealable, undisguisable
+pamshuar | adj | unquelled, undamped
+pamuejshëm | adj | insuperable
+pamuje | noun | impotence
+pamuket | adj | (of) cotton
+pamundje | noun | illness, indisposition
+pamundsi | noun | impossibility, incapability
+pamungesë | noun | diligence, application
+pamvarsi | noun | independence
+pamvarsisht | adv | independently
+pamvarshëm | adj | independent
+panafak | adj | bad, evil, wrong; unruly, naughty
+panafaqë | noun | unruliness
+panagjir | noun | fair, festival, wake; market; exhibition
+panegjyr | noun | fair, festival
+panagyrë | noun | fair, festival
+panajir | noun | fair, festival
+panagjirshëm | adj | festive
+panaqe | noun | panacea
+panavetë | noun | side-table, sideboard, dinner-wagon
+pandaj | adv | so, then; hence, therefore
+pandajza | adv | so, then; hence
+pandalëm | adj | uninterrupted, unbroken, unchecked
+pandalje | noun | leave, permission
+pandamë | adj | undivided, indivisible; undecided
+pandamshëm | adj | indivisible, inseparable, undivided
+pandehëm | noun | expectation; illusion; hypothesis
+pandehsi | noun | supposition, suspicion, suspiciousness
+pandenjur | adj | uninhabited
+panderë | noun | apron; embroidered sash; embroidery; dishonourable
+panderje | noun | dishonesty
+pandertë | adj | undignified
+pandeshk | noun | impunity
+pandeshkueshëm | adj | unpunishable
+pandigjueshëm | adj | disobedient
+pandël | noun | scrap, bit
