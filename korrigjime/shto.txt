@@ -55072,3 +55072,37 @@ ogurplotë | adj | promising
 ohejnem | verb | grow beautiful, turn fine
 ohët | adj | sultry
 ohistër | adj | pale, sickly, yellow
+# ── mannshto.tsv ──
+ojë | noun | embroidery, needlework, lace
+ojna | noun | needlework; horseplay, high spirits
+okatare | noun | oka-measure; shallow earthen dish
+oklim | noun | woodland tree with hollow stems used for cigarette-holders
+okllajë | noun | rolling-pin
+okoll | noun | circle; gathering; preamble; about, round
+okolle | noun | round dance
+oktrov | noun | town-customs, tollhouse
+okullim | noun | crowd
+olare | noun | gilthead or dorado (fish)
+ollog | noun | camp, encampment
+ollok | noun | camp, encampment
+omer | noun | measure equal to about 10 lb.
+onager | noun | wild ass
+oncë | noun | ounce
+opangar | noun | sandal-maker
+operatë | noun | operation (surgical); opera
+opet | adv | again
+opopo | interj | oh! alas! I say!
+opor | adv | or
+opqinë | noun | tribe; family; relatives; in-laws
+oputë | noun | strap, thong, lace (of sandals)
+oranë | noun | clock
+orani | adv | now
+oratë | noun | prayer
+ordhen | noun | order, commandment
+ordhonj | verb | order
+ordhi | noun | army-corps, division; mass, horde
+ordhin | noun | order; recommendation
+ordhinjas | verb | order; recommend
+orend | adv | at once, straight away
+orëpremë | adj | hapless, unlucky
+orëtundë | noun | large stewpot
