@@ -58267,3 +58267,35 @@ prerendis | verb | plant out, propagate
 prerenditje | noun | planting out, propagation
 prerisht | adv | decisively
 preris | adj | cutting
+# ── mannshto.tsv ──
+presadis | verb | transplant
+presek | noun | department
+preset | adj | rough, mean, average
+presipkë | noun | burr
+preskë | noun | clearing, pasture
+preskoj | verb | decorate (with paintings)
+presme | noun | cut, cutting, edge (of knife)
+prestore | noun | tailor's shop, dressmaker's
+preshe | noun | press, wine-press
+preshkë | noun | spring onion or leek
+preshoj | verb | make green
+preshtoj | verb | make green
+pretar | noun | bandit, brigand, robber, raider; bird of prey; predatory
+pretk | noun | sermon
+preth | noun | game of prisoners' base
+prevezojë | noun | drag-net
+prezivojë | noun | drag-net
+prezvoje | noun | drag-net
+prezviteri | noun | presbytery
+prëjtur | adj | restful, easy, comfortable; rest, comfort
+prëmshëm | adj | last night's
+prëndec | noun | plough-head, plough-shaft
+prëngos | verb | fetter, handcuff
+priç | noun | brass; gout, arthritis
+priçët | adj | brass-
+prjer | verb | turn, incline
+përier | verb | turn, incline
+prirsi | noun | slope
+prirtë | adj | sloping, steep, inclined
+pries | noun | leader
+priftërim | noun | priesthood
