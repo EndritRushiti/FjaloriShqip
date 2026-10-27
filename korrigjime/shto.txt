@@ -54953,3 +54953,68 @@ njimdhjet | num | eleven
 njimë | adv | now; actually; at the same time
 njimende | noun | intention, purpose; agreement
 njimendët | adj | real, actual, genuine
+# ── mannshto.tsv ──
+njimendsi | noun | reality, certainty; fact; resolution, agreement
+njimethi | adv | shortly
+njimeshtë | adj | uniform, simple, single, plain
+njimëzaj | adv | uniformly
+njimijët | adj | thousandth
+njimstë | adj | uniform, simple
+njimti | noun | deceit; snare, pitfall
+njinë | noun | one; unit
+njingjyrshëm | adj | monochrome
+njinueshëm | adj | fasting, jejune
+njinji | adv | anyway, anyhow
+njinjisi | noun | equality, uniformity
+njinjisisht | adv | alike, uniformly
+njinjisoj | verb | equalise, level, make uniform, standardise
+njinjishëm | adj | uniform, single
+njipasnjishëm | adj | successive, consecutive
+njipeshë | noun | balance, equilibrium
+njipeshi | noun | balance, equilibrium
+njipeshim | noun | balance, equilibrium
+njipërnji | adv | downright, utter
+njiqelizar | adj | unicellular
+njiqindët | adj | hundredth
+njiqindsh | noun | hundred
+njiqindshe | noun | hundred
+njirëndi | adv | at once, forthwith
+njirrokç | adj | monosyllabic
+njirrokës | adj | monosyllabic
+njirrokshëm | adj | monosyllabic
+njisi | noun | unit, unity
+njisisht | adv | uniformly; unanimously, with one accord
+njisoj | adv | in one way, of one kind; the same, uniform
+njisojshëm | adj | uniform
+njisojtë | adj | uniform
+njish | adj | uniform; unit
+njishëm | adj | alike, similar, uniform, unique, sole
+njishtu | adv | likewise, in the same way; like this, thus
+njitas | adv | joined, joint, combined
+njitash | adv | now; at once; just, recently
+njitoj | verb | unite, unify
+njitsi | noun | union
+njitu | adv | just here
+njizetenjijtë | adj | twenty-first
+njizetëm | adj | twentieth
+njizetsh | noun | score
+njizetshe | noun | score
+njizë | noun | one, unit
+njofmë | noun | sign, symptom
+njoftëm | adj | known; well-known, famous
+njofti | noun | notion
+njoftje | noun | recognition; diagnosis
+njoftme | noun | acquaintance
+njoftni | noun | knowledge, observation, fact
+njohëm | adj | known, well-known
+njohni | noun | notion, idea, principle; knowledge
+njohsi | noun | knowledge
+njohsim | noun | conception, concept
+njohtim | noun | knowledge, information
+njohtje | noun | knowledge; criteria
+njohtoj | verb | inform
+njohuni | noun | notion
+njojtës | adj | expert; knowing
+njojtje | noun | knowledge, recognition
+njojtur | adj | known, well-known
+njimtar | noun | deceiver
