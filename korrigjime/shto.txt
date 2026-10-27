@@ -55522,3 +55522,50 @@ palumtëri | noun | unhappiness
 palumtsisht | adv | unfortunately
 palumur | adj | ill-fated, hapless
 palyeshëm | adj | indelible
+# ── mannshto.tsv ──
+palzë | noun | tuft, mop; lobe (anat.); string of figs
+palzoj | verb | fold, crease
+pallackë | noun | cartridge-case
+palladi | noun | giant
+pallagaja | noun | feast at naming-ceremony after birth of a child
+pallaganj | noun | feast at naming-ceremony
+pallamaçe | noun | clap; clapping, applause
+pallamaçë | noun | clap; clapping, applause
+pallancë | noun | balance, scale
+pallanxë | noun | balance, scale
+pallangë | noun | borough, parish; sedan-chair; stretcher, bier; palm of hand
+pallankë | noun | borough, parish
+pallavroj | verb | chatter
+pallavrues | noun | talker, chatterbox
+pallëz | noun | flap
+pallmë | noun | braying; bellowing
+palltoçkë | noun | little overcoat
+palluc | noun | variety of pigeon
+pamajë | adj | blunt
+pamajmë | adj | lean
+pamarangjasur | adj | unwithering
+pamarë | adj | disorderly
+pamartesë | noun | celibacy
+pamarrshëm | adj | shameless, cheeky, audacious, bold
+pamatë | noun | eternity, infinity
+pambar | adj | disorderly
+pambarshme | noun | lascivity
+pambarrshëm | adj | shameless, impudent
+pambikqyrshëm | adj | unsupervisable
+pambrapsueshëm | adj | irreversible, irremediable
+pambretëri | noun | anarchy
+pambrojë | adj | defenceless
+pambrrishëm | adj | immature; inaccessible, unattainable
+pambrritshëm | adj | inaccessible, unattainable
+pambrothshëm | adj | unfavourable
+pambuket | adj | (of) cotton
+pambyll | adj | open, undone, unlocked
+pambyllëm | adj | unfastened; patent, manifest
+pame | noun | view, vision, sight
+pameç | adj | irrational, mad
+pamejtuar | adj | imprudent
+pamendje | noun | bosh, rot
+pamendshëm | adj | ignorant, stupid
+pamendueme | noun | thoughtlessness
+pameshëm | adj | incessant
+pametë | adv | without waiting, forthwith
