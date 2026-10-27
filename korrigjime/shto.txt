@@ -55106,3 +55106,57 @@ ordhinjas | verb | order; recommend
 orend | adv | at once, straight away
 orëpremë | adj | hapless, unlucky
 orëtundë | noun | large stewpot
+# ── mannshto.tsv ──
+organoj | verb | beatify
+organet | noun | barrel-organ
+organizmë | noun | organism
+orgjyn | noun | narwhal, porpoise or grampus
+orhestër | noun | orchestra
+orizand | noun | horizon
+orizond | noun | horizon
+orizanë | noun | rice field
+orlë | noun | eagle
+orlig | adj | ill-fated, hapless, unlucky; wretch
+orlinë | noun | eagle-hen
+ormini | noun | warning
+oroe | noun | attention, heed
+oroes | noun | watchman, guard, keeper
+orof | noun | fright
+orog | noun | time, term, period; limit, end; appointment
+orok | noun | time, term, period; limit, end; appointment
+orolli | noun | flint
+oronj | verb | bless, congratulate
+oroshkë | noun | potato
+orqestër | noun | orchestra
+orqete | noun | withies, willows
+ortaki | noun | partnership, association
+ortar | noun | watch, clock, timekeeper; watchmaker
+ortunë | noun | large pot, stewpot
+ortungë | noun | large pot, stewpot
+orthodhoks | adj | orthodox
+orthodhoksi | noun | orthodoxy
+orvas | verb | train, practise, work
+orvatë | noun | exertion, effort, endeavour, struggle, work, job
+orvetë | noun | blindworm
+orzi | adj | ill-fated, unlucky, wretched, hapless, benighted; wretch, villain
+orrlë | noun | eagle
+ostari | noun | inn
+ostë | noun | goad, switch
+ostenë | noun | goad, switch
+ostnar | noun | herdsman with a goad
+ostër | noun | south wind
+ostrellë | noun | south wind
+osti | noun | sacrifice, host
+ostreshkë | noun | pitchfork
+ostrikë | noun | oyster
+oshinar | noun | hermit
+oshtim | noun | echo, rumble, resonance
+otavë | noun | aftermath
+otel | noun | hotel
+otresh | noun | yoke-peg holding trappings, clevis
+ovan | noun | tyrant
+oviskë | noun | ribbon, braid, tape, lace, string
+ovrat | noun | dike, ditch; baulk
+ovratë | noun | dike, ditch
+ozure | noun | usury
+uzure | noun | usury
