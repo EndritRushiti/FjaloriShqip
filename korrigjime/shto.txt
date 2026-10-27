@@ -55423,3 +55423,53 @@ paksi | noun | littleness, fewness
 paksim | noun | reduction, diminution, fall; subtraction
 paksimadh | noun | rusk; kind of biscuit or cake
 paksima | noun | rusk
+# ── mannshto.tsv ──
+bubunjos | verb | diminish
+paksoj | verb | lessen, diminish, reduce; belittle; modify; subtract
+paksohem | verb | fall, decline
+paksues | adj | modifying, reducing, lessening
+paksueshëm | adj | reducible
+paktues | adj | conciliating; Justice of the Peace
+pakthellim | noun | abyss
+pakthellueshëm | adj | inexplicable
+pakthiellët | adj | shallow; obscure; insincere
+paku | adv | at least, at any rate
+pakujdesë | noun | carelessness, neglect; indifference
+pakujti | noun | heedlessness
+pakujtue | adv | inadvertently
+pakujtuemas | adv | inadvertently
+pakuptesë | noun | unintelligence; misunderstanding; incapacity
+pakurmë | adj | immoderate; insatiable
+pakursim | noun | waste, wastefulness, prodigality
+pakursyeshëm | adj | unsparing
+pakuximshëm | adj | timid, meek, docile
+pakuximtë | adj | shy
+pakuxueshëm | adj | timid, afraid
+palac | noun | bed-cover, sheet
+palaç | noun | jester, clown
+palaçi | noun | tomfoolery
+palagshëm | adj | waterproof
+palajthishëm | adj | infallible, unerring
+palajthitur | adj | infallible, unerring
+palakare | noun | outlet, spout, spring
+palamendë | noun | illusion
+palândët | adj | abstract
+palândshëm | adj | abstract
+palanë | adj | unwashed
+palanik | noun | kind of pastie
+palapalë | adv | in pairs
+paljare | noun | platter, shallow dish
+palarzë | noun | pedicel, peduncle
+palavi | noun | filth, impurity; blot, blemish, stain; uncouthness; fraud; din, uproar
+palevi | noun | filth, impurity
+palovi | noun | filth, impurity
+palavoj | verb | soil, defile, dirty
+palavosur | adj | unhurt, unwounded; soiled, defiled
+palavrak | noun | flatterer
+palçë | noun | marrow; pith, core
+palsë | noun | marrow
+palcak | adj | marrowy
+palcore | noun | grease-box for gun
+palejshëm | adj | not permissible, illicit
+palemë | adj | unborn
+palargueshëm | adj | inalienable, inevitable

@@ -1833,3 +1833,5 @@ ngrohtsi | ngrohtësi | alternative
 ngrras | gërhas | alternative
 # ── Mann 1948 ──
 ngushulloj | ngushëlloj | alternative
+# ── Mann 1948 ──
+bubunjos | paksoj | alternative
