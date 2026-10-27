@@ -58698,3 +58698,42 @@ pusitar | noun | lurker, ambusher; sniper
 pusollë | noun | ticket, note
 pustle | noun | compass
 pustovan | noun | metal club, knobkerry
+# ── mannshto.tsv ──
+pushë | noun | down, fluff
+pushaleshur | adj | huddled, bent
+pushet | verb | gets downy, fluffy
+pushkalqe | noun | peashooter made from elder wood
+pushkalle | noun | peashooter
+pushkresë | noun | stink
+pushkrrije | noun | pimples, rash
+pushkrrizë | noun | pimples, rash
+pushkrritës | adj | blistering
+pushkrrizët | adj | pimply, blotchy
+pushkrroj | verb | erupt, come out in blisters, pimples, rash
+pushkrrohet | verb | becomes bubbly, bubbles
+pushkzoj | verb | shoot, fire
+pushterkë | noun | apron
+pushtetje | noun | power
+pushteshëm | adj | powerful, mighty
+pushtimtar | noun | conqueror
+pushtueme | noun | embrace
+putargë | noun | roe, caviar, esp. mullet caviar, botargo
+putarkë | noun | roe, caviar
+putur | noun | white trousers
+puthadori | noun | fawning, servility
+puthës | adj | kissing; fitting; kisser
+puthisje | noun | fitting, joining, welding; adjustment
+puthkë | noun | little kiss
+puthoj | verb | fit, fit together, join; squeeze together, crush, cram, compress; apply, affix, adapt
+puthos | verb | fit, fit together
+puz | noun | well
+puzhmuzh | noun | snail (child's word)
+pyvés | verb | ask
+pyetme | noun | question
+pyetsi | noun | enquiry; hearing, cross-examination
+pygark | noun | voracious species of eagle
+pyjeshëm | adj | wooded
+pykël | noun | wedge
+pyllkë | noun | wedge
+pykët | adj | wedge-shaped
+pylivesë | noun | dragon-fly
