@@ -56119,3 +56119,47 @@ pashtierrshëm | adj | inexhaustible
 pashtrak | noun | pasture-rent, pasturage money; fine for trespassing, indemnity paid to shepherds
 pashtritshëm | adj | intractile
 pashtruarshëm | adj | unyielding, disobedient
+# ── mannshto.tsv ──
+patac | noun | gander
+pataçyftë | noun | rissole
+patak | noun | gander
+patalok | noun | ground, space, area; green, lawn; arena, ring; yard; field, site
+patare | noun | battery (of guns); din, noise, row
+patarecë | noun | board, slat, lath, roof-shingle
+pataricë | noun | stick; crosier; crutch
+patavër | noun | truss, framework
+patepate | adj | luxuriant (of hair)
+patekat | noun | washing-stick
+patemel | adj | baseless
+patënzonë | adj | godless, atheistic; atheist
+patërdi | noun | noise
+patërshanë | noun | pike, spear, lance, dart, javelin
+patërzanë | noun | pike, spear
+patërxhanë | noun | egg-plant
+patështinë | noun | lees (of olives)
+patkonjë | noun | horseshoe
+patlixhan | noun | egg-plant, aubergine
+patllixhan | noun | egg-plant, aubergine
+patoj | verb | board, floor
+patomë | noun | floor, storey; garret, loft
+patoz | noun | floor
+patrembje | noun | fearlessness
+patrembshëm | adj | fearless, undaunted
+patriarkë | noun | patriarch
+patriarqi | noun | patriarchate
+patridhë | noun | homeland
+patrikisht | adv | patriarchally
+patrimni | noun | cowardice
+patrishanë | noun | pike, spear
+patronditshëm | adj | unshakable
+patrondur | adj | unshaken, unwavering, unflinching
+patrull | noun | patrol
+patrune | noun | lady patron
+patrup | adj | bodiless
+patundsi | noun | immobility, firmness
+patunë | noun | shovel
+paturpëm | adj | impudent, insolent, cheeky
+paturpsi | noun | cheek, impudence, insolence
+paturpsisht | adv | shamelessly
+patush | noun | gosling
+patvalle | noun | bearing beam, transom
