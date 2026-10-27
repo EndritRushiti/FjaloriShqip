@@ -57090,3 +57090,59 @@ përprishës | adj | destructive; decaying, decomposing
 përprishje | noun | decomposition, decay
 përpshij | verb | spread, scatter, strew
 përpshtjellë | noun | extract (from book)
+# ── mannshto.tsv ──
+përpuris | verb | rouse, stir up
+përpurthem | verb | defile oneself with excrement
+përpushem | verb | potter about, rummage about, be restless; make a fuss; gesticulate
+përpushtoj | verb | sweep, cover, include
+përqafe | adv | round the neck
+përqafos | verb | embrace; include
+përqarqe | noun | outskirts, surroundings
+përqarkët | adj | circuitous
+përqarkim | noun | circulation; environment; encirclement
+përqarkoj | verb | encircle, go round
+përqiell | verb | deride, mock
+përqellë | noun | ridicule, defamation
+përqellje | noun | mockery, scorn, contempt
+përqerthelloj | verb | revolve
+përqeshtar | noun | mocker, scoffer; mocking
+përqeth | verb | give a cold chill or shudder, thrill
+përqethem | verb | shudder
+përqethje | noun | shudder, chill, thrill
+përqethët | adj | awful, creepy, chilling; thrilling
+përqëllitës | adj | offensive, personal
+përqi | noun | dowry; gratuity, tip; gratis
+përqindesë | noun | percentage
+përqindës | adj | percental
+përqindët | adj | percental
+përqindsh | noun | percentage
+përqindshe | noun | percentage
+përqirrem | verb | drivel, snivel
+përqis | verb | hit, strike down
+përqokoj | verb | peck, peck at; pick out
+përquk | verb | peck
+përqullem | verb | slobber
+përqyej | verb | squeeze, press, squash; suppress
+përqyr | verb | remark; notice, observe
+përqyrr | verb | besnivel
+përqyrrem | verb | snivel, snuffle, sob
+përrahje | noun | repercussion, reverberation, rebound; after-effect
+përrëposh | adv | low; down, below
+përsaférmi | adv | from near by, close at hand; shortly; as soon as possible
+përsafri | adv | soon, shortly
+përsehe | noun | reason, ground
+përsekuitoj | verb | persecute, pursue
+përsëbashku | adv | together
+përsëdrejti | adv | straight
+përsëdys | verb | repeat, reproduce
+përsëdyti | adv | again, afresh, for the second time
+përsëfundi | adv | finally
+përsëgjati | adv | along
+përsëngjati | adv | along
+përsëgjeri | adv | across, crosswise
+përsëjashtmi | adv | from outside
+përsëkithi | adv | alongside; aside, apart, secretly, mysteriously
+përsëkthjellti | adv | out of a clear sky
+përsëlargu | adv | afar, from afar
+përsëlerg | adv | a long way off
+përsëllim | noun | burn, scalding, sting
