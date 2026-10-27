@@ -58233,3 +58233,37 @@ pregim | noun | visit paid to mourners after a death
 pregjim | noun | pastie, pie, cake, bun
 prehos | verb | sharpen
 prehshëm | adj | restful, comfortable
+# ── mannshto.tsv ──
+prejarem | verb | rejoice
+prejardhme | noun | derivation
+prejkahit | adv | where from, whence
+prejkajt | adv | where from, whence
+prejkë | noun | freckle
+prejoj | verb | prey
+prejtje | noun | rest
+prekadhe | noun | small plant with leaves like dandelion
+prikadhe | noun | small plant with leaves like dandelion
+prekme | noun | (sense of) touch
+prekulaç | noun | scorpion
+prelem | verb | waver, sway
+premagë | noun | cobweb
+prematar | noun | merchant
+premeti | noun | trade
+premetore | noun | store, warehouse
+premënit | adv | in the name of
+premje | noun | cutting, cut; section; indicative (gram.)
+premqyr | noun | street-seller, vendor
+premtyer | noun | monster, brute
+prenc | noun | prince, chief
+prendon | verb | sinks, sets (of sun)
+prenk | noun | chief, prince
+prens | noun | prince
+prenseshë | noun | princess
+prenjë | noun | freckle
+prep | adv | again; back again; lurk for, waylay
+prepsje | noun | dignity
+prera | noun | features
+prerendis | verb | plant out, propagate
+prerenditje | noun | planting out, propagation
+prerisht | adv | decisively
+preris | adj | cutting
