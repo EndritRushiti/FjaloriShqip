@@ -56982,3 +56982,51 @@ përmbrendshëm | adj | inner, internal
 përmbrendshme | noun | interior
 përmbri | adv | alongside, at the side
 përmyz | adv | upside-down, face downwards
+# ── mannshto.tsv ──
+brumules | verb | mix flour and water
+përmbystar | adj | subversive, revolutionary; revolutionary
+përmbytë | noun | flood, deluge
+përmbyz | adv | upside-down; in the stomach, internally
+përmbyzem | verb | prostrate oneself, kneel down
+përmendë | noun | plough-tail
+përmende | noun | memorial
+përmendtore | noun | monument
+përmesëm | adj | average
+përmetim | noun | promise; permission
+përmetoj | verb | promise; permit, allow
+përmëkatem | verb | sin
+përmëkatnoj | verb | incriminate
+përmëkatnueshëm | adj | sinful
+përmënishëm | adj | angry
+përmërguar | adj | absent, departed
+përmiell | verb | cover with flour or powder
+përmiellshëm | adj | floury, dusty
+përmier | verb | urinate; wet the bed
+përmillizoj | verb | cover with flour
+përmiqsoj | verb | placate, reconcile
+përmiqsohem | verb | make friends, club together
+përmirsi | noun | perfection, excellence
+përmirsim | noun | improvement
+përmirsoj | verb | improve; perfect
+përmirsohem | verb | improve, get better
+përmirsues | adj | improving; improver
+përmirsueshëm | adj | improvable, corrigible
+përmishnoj | verb | incarnate, embody
+përmjalt | verb | smear with honey; flatter
+përmjaltshëm | adj | honeyed
+përmjedis | adv | by the middle, by the waist
+përmles | verb | season with butter or other fats; soil, contaminate
+përmbles | verb | season with butter
+përmletem | verb | break one's fast; have breakfast
+përmnerët | adj | terrible, horrible
+përmnershëm | adj | terrible, horrible
+përmorrët | adj | lousy
+përmot | adj | of age; annually
+përmrapa | adv | behind
+përmrenca | noun | intestines
+përmrendë | noun | interior
+përmullëz | noun | rennet-sac (of cow)
+përmus | verb | bedung, defile with excrement
+përnallë | noun | holly
+përnata | adv | by night
+përnatet | adv | by night

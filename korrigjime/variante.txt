@@ -1835,3 +1835,5 @@ ngrras | gërhas | alternative
 ngushulloj | ngushëlloj | alternative
 # ── Mann 1948 ──
 bubunjos | paksoj | alternative
+# ── Mann 1948 ──
+brumules | përmles | alternative
