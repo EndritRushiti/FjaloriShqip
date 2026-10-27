@@ -58774,3 +58774,42 @@ qandërrprues | adj | centripetal
 qangjer | noun | kid
 qantoj | verb | plant
 qapell | noun | string (of figs)
+# ── mannshto.tsv ──
+qaramidhe | noun | tile
+qaretë | noun | trumpet
+qari | noun | clarity
+qarim | noun | explanation
+qarisht | adv | clearly
+qarje | noun | weeping, whining; complaint, grievance
+qarkanë | noun | horizon
+qarkos | verb | surround, besiege
+qarkosje | noun | encirclement, siege
+qarkulle | noun | circle
+qaroj | verb | clean, clear, polish; wash; clarify, clear up; explain
+qarsi | noun | clearness, clarity, brightness
+qartsi | noun | clearness, clarity, brightness; enlightenment
+qartsinë | noun | clarity
+qartsoj | verb | clarify
+qarz | noun | variety of melon with green peel
+qarravitem | verb | wail
+qarrët | adj | of bitter oak
+qasoj | verb | let drip, distil
+qason | verb | drips, oozes, sweats
+qashë | noun | felt, thick wool
+qashtëri | noun | chastity
+qatherë | adv | just then
+qaz | noun | copper baking-cover or lid
+qazën | noun | thick woollen material, felt
+qazhën | noun | felt
+qebabi | noun | spit
+qeberr | noun | keg, tub
+qeberricë | noun | keg, tub
+qebës | noun | tree resembling the elm
+qeçe | noun | woollen felt
+qeçibajnuz | noun | locust-bean
+qeçkë | noun | pin, peg, linch-pin
+qederos | verb | aggrieve, afflict
+qederosem | verb | mourn, grieve
+qejfali | noun | head, captain, primate
+qefell | noun | mullet
+qegëllë | noun | tile
