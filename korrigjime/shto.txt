@@ -56086,3 +56086,36 @@ pastram | noun | dried or smoked meat
 pastrore | noun | cleaner, charwoman
 pasthirrëm | noun | interjection
 pasvan | noun | guard
+# ── mannshto.tsv ──
+pashejtë | adj | unholy, profane
+pashembër | adj | unrivalled
+pashembëri | noun | absence of rivalry
+pasheshë | noun | wife of pasha
+pashëmbull | adj | unparalleled, unequalled
+pashëmbëllt | adj | unparalleled, unequalled
+pashëndetsi | noun | sickness, infirmity
+pashëndosh | adj | unhealthy; unfit, unsound
+pashfryem | adj | unexpressed
+pashigurtë | adj | uncertain
+pashijsi | noun | tastelessness, flatness, insipidity
+pashishëm | adj | tasteless, flavourless; uninteresting, dull
+pashkëlqyeshëm | adj | dull
+pashmangë | noun | slipper, embroidered shoe or sandal
+pashmag | noun | slipper
+pashmueshëm | adj | inestimable
+pashojtshëm | adj | ineffaceable, indelible
+pashoqët | adj | peerless, unparalleled
+pashpërdhi | noun | clumsiness, awkwardness
+pashpërdhitë | adj | clumsy, awkward
+pashpirtëm | adj | soulless, heartless
+pashpirtni | noun | heartlessness, callousness, cruelty
+pashpirtsi | noun | heartlessness, cruelty
+pashpirtshëm | adj | soulless; inanimate
+pashporrshëm | adj | irrefutable
+pashqizë | adj | inquisitive, prying; inquisitiveness
+pashtatshëm | adj | formless, bodiless
+pashterrueshëm | adj | inexhaustible
+pashtierrshëm | adj | inexhaustible
+pashtrak | noun | pasture-rent, pasturage money; fine for trespassing, indemnity paid to shepherds
+pashtritshëm | adj | intractile
+pashtruarshëm | adj | unyielding, disobedient
