@@ -57030,3 +57030,63 @@ përmus | verb | bedung, defile with excrement
 përnallë | noun | holly
 përnata | adv | by night
 përnatet | adv | by night
+# ── mannshto.tsv ──
+përndejshëm | adj | stationary; sedentary; still, stable, motionless
+përnderje | noun | bow, curtsey
+përndershëm | adj | reverend (in titles)
+përndën | prep | under; (motion) under
+përndor | verb | use
+përndris | verb | illuminate, light
+përndryshej | adv | otherwise, else
+përndrrim | noun | change, alteration
+përngroh | verb | warm
+përngul | verb | remove, transplant; plant; push in, break in, force
+përngulem | verb | intrude
+përngulje | noun | intrusion; emigration
+përngulur | adj | removed, transplanted; fixed, lodged, stubborn
+përngut | adv | in haste, in a hurry
+përngutshëm | adj | pressing, urgent
+përngjall | verb | revive, rouse, enliven
+përngjallës | adj | rousing, reviving
+përngjas | verb | compare; resemble; assimilate; imitate
+përngjasi | noun | assimilation
+përngjetshëm | adj | similar
+përngjis | verb | join, stick
+përnzij | verb | blacken; darken, brown; overshadow, cloud
+përnjergjesh | adv | suddenly, at random
+përnjes | verb | pile up, accumulate
+përnjecastëm | adj | instantaneous
+përnjëherej | adv | at once, immediately
+përnjëherthi | adv | at once, immediately
+përnjihem | verb | get to know
+përnjihere | adv | at once, immediately; suddenly, unexpectedly; at the same time; in the meantime
+përnjiherej | adv | at once
+përnjiheresh | adv | at once
+përnjiherthi | adv | at once
+përnjiherët | adj | immediate, spontaneous
+përnjihershëm | adj | sudden
+përnjimé | adv | really, actually, in fact
+përnjimendët | adj | real, actual
+përnjis | verb | join
+përnjisoj | verb | equalise, align, standardise, unify, homogenise
+përnjishëm | adj | uniform, unified, consistent
+përnjohje | noun | reconnoitring, scouting
+përnjom | verb | refresh
+përpajnë | noun | shoot, scion, cutting, runner (esp. of vines)
+përpajnim | noun | propagation (by cuttings or runners)
+përpajnoj | verb | propagate (by cuttings or runners); plant; bury, inter
+përpajre | noun | apron
+përpak | adv | nearly
+përpall | verb | publish, announce, declare, advertise; blab out, noise abroad, divulge
+përpallshëm | adj | publishable, divulgable
+përpaltoj | verb | reflect
+përparandej | adv | previously, beforehand
+përparandejshëm | adj | former
+përparazi | adv | in front; towards the front; first of all
+përparazit | adv | in front
+përparecë | noun | apron
+përpare | noun | forehead
+përparëm | adj | fore, front-, preceding, prefixed
+përparësm | adj | fore, front-
+përparimdashje | noun | progressiveness
+përparsi | noun | façade of wall
