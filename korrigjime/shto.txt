@@ -57815,3 +57815,63 @@ plashkë | noun | booty, things
 platarac | noun | pot-bellied person
 platesë | noun | plaice
 platinë | noun | platinum
+# ── mannshto.tsv ──
+platis | verb | flatten; level out, smooth; invade; inflict (upon)
+platitës | adj | flattening, levelling; invading; leveller, flattener; invader
+platitje | noun | flattening, levelling out; invasion
+platos | verb | dash, shatter
+platosem | verb | hurtle down
+plavicë | noun | clamp, clasp
+plaz | noun | flat sword
+plazëm | noun | plasm
+plazhna | noun | mixed herbs
+plebat | noun | avalanche
+plebeshit | noun | plebiscite
+plef | noun | coloured blanket
+plehnishtë | noun | rubbish heap, dungheap
+plehna | noun | sweepings, rubbish, muck, manure
+plehnim | noun | manuring, fertilisation
+plehnos | verb | manure, fertilise
+plehrizë | noun | grain of dust, speck, mote
+plehsirë | noun | dirt
+plehurë | noun | cloth
+plekinj | verb | weave, knit
+pleksidhë | noun | plait
+pleksim | noun | complication, intrigue
+plemat | noun | fishing-net
+plepët | adj | poplar-
+pleqsim | noun | council of elders; arbitration
+pleqsinë | noun | old age
+pleqsoj | verb | have priority, be in authority; meet in council
+pleqsohem | verb | confer (with)
+pleqsonjës | noun | arbitrator, referee, umpire
+pleqshit | adv | of old
+pleshtis | verb | hunt for fleas
+pleshtoj | verb | hunt for fleas
+pletenicë | noun | brooch worn by highland women
+pletër | noun | a land measure; furlong; 4 sq. poles
+plethër | noun | a land measure
+plevas | verb | swim, float; splash
+plevatem | verb | swim; paddle
+plevatës | adj | swimming, for swimming; swimmer
+plevatje | noun | swimming
+plevickë | noun | a bird
+plevis | verb | weed
+plevitë | noun | pleurisy
+plovitë | noun | pleurisy
+plevitem | verb | paddle
+plevitos | verb | affect with pleurisy
+plevitosem | verb | contract pleurisy or pneumonia
+plevitosje | noun | pleurisy, pneumonia
+plevmon | noun | pneumonia
+plevra | noun | pleures
+plër | noun | lap
+pliko | noun | envelope; note, message
+plikë | noun | envelope
+plisar | noun | felt cap-maker
+plise | noun | felt cap
+plisët | adj | of felt
+plistar | noun | felt-maker
+plitë | noun | brick, sun-dried brick
+plivas | verb | swim
+ploçkë | noun | gaiter; woollen knee-caps; a disease of the feet
