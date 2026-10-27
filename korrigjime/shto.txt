@@ -58557,3 +58557,54 @@ pshtjerrë | noun | heifer
 pshtyej | verb | spit; spit on
 pshtymëz | noun | maggot, flyblow
 pshtirë | adj | dirty, filthy; despicable
+# ── mannshto.tsv ──
+pshtymore | noun | spittoon
+pshtyturit | noun | spitting
+pshurrë | noun | damp, wet; urine
+pshym | verb | cover with soot, begrime
+pshymë | noun | spittle; soot
+ptyh | interj | pah! faugh!
+publikan | noun | toll-gatherer, publican
+pucalis | verb | burst (of figs)
+puckti | noun | ivy
+puçë | noun | blister; lump, eruption, pimple, pustule; small bubble; swelling
+puçrrak | adj | pimply, blotchy
+puçik | noun | catchment, rain-pond, water-hole
+puçis | verb | pout
+puçkërr | noun | pimple
+puçkëron | verb | erupt, become pimply, blister
+puçketi | noun | ivy
+puçrrizë | noun | pimple, lump
+pudar | noun | groom, stable-boy
+pugaçe | noun | cake
+pugânës | adj | defiling; defiler
+pugânsi | noun | filth, dirt, rubbish
+pugare | noun | ballad
+puhan | noun | dwarf
+pukë | noun | promenade; public way, thoroughfare
+pulabardhë | noun | titmouse, tomtit
+pulamene | noun | coin worth 60 paras
+pullânder | noun | buck, lye
+pulaqidhe | noun | fowl, birds, poultry
+pulastër | noun | woodcock; cockerel
+pulastre | noun | cockerel; turkey-cock
+pulastri | noun | cockerel
+pulazeqinë | noun | wild olive
+puldash | noun | popcorn
+pulëbabje | noun | (a bird)
+pulëdetës | noun | turkey-hen
+pulëdecë | noun | turkey-hen
+pulëdushke | noun | pheasant-hen; woodcock
+pulëmangës | noun | (a bird)
+pulgare | noun | leech
+puligri | noun | pilgrim
+pulikare | noun | leech
+pulivezhëz | noun | earwig
+puliz | noun | poultry-louse
+pulizë | noun | poultry-louse
+pulkë | noun | pullet
+pulmaz | noun | fish-eating marsh bird
+pulmangëz | noun | fish-eating marsh bird
+pulpazë | noun | calf (of leg)
+pulpëz | noun | finger-tip
+pulqorthi | adv | game in which a blindfolded player is misled by others clinking stones
