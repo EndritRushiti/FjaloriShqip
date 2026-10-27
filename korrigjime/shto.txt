@@ -58439,3 +58439,59 @@ prozopi | noun | strength
 pruçes | noun | lawsuit
 prudhë | adv | on the way
 pruej | verb | sack, rifle, plunder; defend
+# ── mannshto.tsv ──
+prujtë | adj | humble
+prul | verb | humble, abase
+prulinë | noun | poppy
+prulinkë | noun | poppy
+prunjem | verb | bow
+prunjë | noun | bowing; bend, incline
+prunjët | adj | humble
+prunjim | noun | abasement; baseness
+prunjoj | verb | lower; abase
+prushët | adj | glowing, fiery
+prushka | noun | tinsel
+pruvidencje | noun | providence
+pruvohem | verb | experience
+pruzuncion | noun | presumption
+prytykath | noun | sty on eye
+prrallem | verb | chat, converse; joke, make jokes
+prrallar | noun | story-teller, fabulist
+prrallës | noun | story-teller
+prrallëz | noun | butt; proverb
+prrallim | noun | story, account, rendering; twaddle, tattle
+prrallitje | noun | twaddle, gossip
+prrallos | verb | chatter, twaddle
+prrallosës | noun | tattler, chatterbox
+prrallosje | noun | chatter, twaddle, tittle-tattle
+prrallosur | noun | tale-telling
+prrallshëm | adj | fabulous, legendary
+prralltar | adj | tell-tale; legendary; story-teller
+prrallueshëm | adj | fabulous, legendary, mythical
+prrallzim | noun | tale-telling
+prrallzoj | verb | tell tales
+prrashtë | noun | sling; stirrup
+prreckë | noun | butcher's broom (ruscus aculeatus)
+prrere | noun | cave; excavation, mine
+prropëz | noun | warmer, blanket, incubator
+prruj | verb | humble
+psalmtar | noun | psalmist
+psaltëroj | verb | chant
+psallës | noun | psalmist, chanter
+psallm | noun | psalm
+psallmoj | verb | chant
+psallt | noun | chorister
+psalltar | noun | psalmist
+psalltër | noun | book of psalms, psaltery
+psalltir | noun | book of psalms
+pseh | noun | reason, ground
+pseja | noun | reason, ground
+psikollogji | noun | psychology
+psikollogjik | adj | psychological
+psim | noun | suffering, sorrow; anguish
+psiq | noun | spiritual nature, psyche
+psiqi | noun | spiritual nature, psyche
+psofis | verb | die off
+psonjës | adj | patient, tolerant
+psonjtore | noun | passive (gram.)
+pstajna | adv | then
