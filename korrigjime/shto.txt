@@ -57340,3 +57340,56 @@ përvarem | verb | incline; deviate; degenerate; desert, change faith; stray
 përvarë | adj | negligent
 përvazhdueshëm | adj | prosecutable
 përvdarje | noun | corruption
+# ── mannshto.tsv ──
+përvihem | verb | humble oneself, apply oneself
+përvaç | prep | except; besides
+përveçni | noun | exception
+përveçoj | verb | separate
+përveglim | noun | organism
+përveshë | noun | hem, turn, tuck; brim (of hat)
+përveshtrim | noun | observation; observations, notes
+përvete | adv | alone, by oneself
+përvetëhe | adv | alone, by oneself
+përveti | adv | alone, by oneself
+përvetem | verb | be fulfilled
+përvetim | noun | appropriation; plying (of trade)
+përvetkënse | noun | coexistence
+përvetsim | noun | assertiveness; appropriation; assimilation
+përvetsoj | verb | appropriate; assimilate; acquire
+përvetshëm | adj | personal; exceptional; isolated; proper (noun)
+përvlak | noun | rich wheat cake
+përvëlore | noun | bread and lard
+përvëloshkë | adj | sunburnt, bronzed
+përvëluotë | adj | burnt up
+përvështrim | noun | observation
+përvështroj | verb | note, observe
+përviel | verb | fling out, let fly; turn over, hem; roll up
+përvilem | verb | roll up sleeves
+përvierr | verb | incline, tilt; overthrow
+përvier | verb | incline, tilt
+përvijes | verb | outline
+përvijos | verb | sketch, draft
+përvirem | verb | incline, tend
+përvishem | verb | turn up one's sleeves
+përvitje | noun | anniversary
+përvizim | noun | outline; description
+përvjedmi | prep | in the midst of
+përvjedmis | prep | across, through
+përvjelim | noun | streak, slash
+përvjerr | verb | incline, tilt
+përvjet | noun | anniversary; annually
+përvjetë | adv | every year, annually
+përvjetim | noun | anniversary
+përvjetore | noun | year-book; almanack; anniversary
+përvlim | noun | burn, scald
+përvloj | verb | scald, burn
+përvner | verb | embitter; grieve; nauseate, sicken
+përvnershëm | adj | poisonous; embittering, grievous; nauseating, sickening
+përvoes | verb | bedew
+përvoesoj | verb | bedew
+përvraj | verb | cloud, darken
+përvrej | verb | look hard, glare, stare (at)
+përvuajtshëm | adj | low, mean, wretched, miserable, forlorn, humble
+përvueshëm | adj | low, wretched, humble
+përvuejt | adj | low, wretched, humble
+përvuejtnisht | adv | humbly
