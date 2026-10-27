@@ -57419,3 +57419,50 @@ pësh | adv | in whispers
 pëshpëritem | verb | sigh; whisper; rustle
 pëshpëshje | noun | whispering
 pësht | adv | quickly, at once
+# ── mannshto.tsv ──
+pështierë | adv | down, low
+pëti | noun | butter-keg
+pëtkus | verb | plough for the second time
+pëtrore | noun | camera
+piace | noun | square; walk
+pianak | noun | hard drinker, habitual drinker, tippler, drunkard
+pianik | noun | hard drinker, drunkard
+piavicë | noun | leech
+pijavicë | noun | leech
+pjavicë | noun | leech
+piavecë | noun | leech
+pijavecë | noun | leech
+pjavecë | noun | leech
+picak | adj | naked
+picakoj | verb | strip naked
+picakzoj | verb | strip naked
+picangul | adj | vertical, perpendicular; upside-down
+picangulthi | adv | headlong, head-first
+picarak | noun | dwarf, little fellow
+piceminare | noun | a small wild plant resembling meadow centaury
+picerroke | noun | sledge
+picërrina | noun | trifling nonsense
+picërroj | verb | make very small, diminish; screw up (the eyes)
+picërrohem | verb | shrink; lose heart, fail
+picigjat | adv | towering aloft
+picimaj | adv | head-first, downwards, upside-down
+picimajë | adv | head-first
+picimajkash | adv | head-first
+picinakë | noun | salamander
+picingul | adj | vertical, perpendicular; sheer, steep
+picingulët | adj | vertical, perpendicular
+picatë | noun | mosquito, gnat; sting, bite
+picatore | noun | tweezers, forceps
+pickërr | noun | tongs, forceps, tweezers
+picmagë | noun | spider; web; webbing, texture
+picun | noun | young pigeon
+piçër | noun | pitcher, pot
+piçmangë | noun | spider
+piçmakë | noun | spider
+pjellake | noun | two-year-old ewe or she-goat
+pjellme | noun | brood, hatch
+pjelloj | verb | fertilise
+pjellorsi | noun | fertility
+pjellsi | noun | fertility
+pjellsim | noun | fecundity
+pjellzim | noun | fertilisation, fructification
