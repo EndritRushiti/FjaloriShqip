@@ -55793,3 +55793,42 @@ paqdashës | adj | pacific, peaceful; pacifist
 paqef | adj | indisposed, unwell
 paqefsi | noun | indisposition; dislike
 paqem | verb | quieten, grow peaceful
+# ── mannshto.tsv ──
+paqeprishës | adj | riotous; rioter, disturber of the peace
+paqeprurës | adj | peace-bringing
+paqetsueshëm | adj | restless, uneasy
+paqetsi | noun | uneasiness, restlessness
+paqëllimët | adj | aimless; fruitless
+paqëndresë | noun | instability, mobility, levity; inconstancy
+paqindresë | noun | instability; inconstancy
+paqëndrim | noun | instability; inconstancy
+paqindrim | noun | instability; inconstancy
+paqërtueshëm | adj | beyond reproach
+paqim | noun | purification
+paqlore | noun | variety of sweet white grape with round berries
+paqlloj | verb | clean, cleanse
+paqprishës | noun | disturber of the peace
+paqprues | adj | peace-bringing
+paqsi | noun | peacefulness, calm; cleanness, cleanliness
+paqsim | noun | peace, calm; pacification
+paqsisht | adv | peacefully
+paqsoj | verb | appease, pacify, calm
+paqtueshëm | adj | peaceful
+paqyll | adj | frivolous, emptyheaded
+paqytetëri | noun | barbarism
+parabirni | noun | primogeniture
+parabullë | noun | parable
+paraditshëm | adj | morning, forenoon
+paradoj | verb | parade
+paradrekshëm | adj | morning, forenoon
+paradhë | adj | undue, improper
+paradhis | noun | paradise
+paradhos | verb | betray
+paraflas | verb | foretell, predict; make an introductory speech; lecture
+parafolje | noun | introduction, introductory speech; prophecy
+parafshë | adj | uneven, rough
+parafytyrë | noun | model, precept, example
+paragatis | verb | prepare, get ready, arrange
+paragatitje | noun | preparation
+paragune | noun | flint-lock gun
+parahistoriak | adj | prehistoric
