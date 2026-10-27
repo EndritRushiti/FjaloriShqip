@@ -57612,3 +57612,53 @@ pipth | noun | woodpecker; mouthpiece; burner (of lamp); beak
 piqem | verb | meet; clash; struggle, be in difficulties
 pirac | noun | briar, bramble
 pirajkë | noun | sword; beater, washing-stick; part of loom
+# ── mannshto.tsv ──
+piramidhë | noun | pyramid
+piranec | adj | drunkard
+piras | verb | cram
+piratem | verb | overeat
+pirash | adj | drunkard
+pirgos | verb | pile up, heap up
+pirgosur | adj | piled up; towering
+piriput | noun | adventurer, quixote; wandering
+pirishtup | noun | leapyear
+pirivesh | noun | scorpion
+pirollë | interj | hail! bravo!
+pirosti | noun | tripod
+pirpir | noun | wine made from berries
+pirpiri | noun | jacket worn by women
+pirpishkë | noun | flute (made from wheat-straw)
+pirua | noun | fork
+pirrua | noun | fork
+pirulë | noun | pearl, bead
+pirrac | noun | briar, thicket
+pisër | noun | bitterness
+pisëroj | verb | embitter, anger, exasperate; engulf
+pisërohem | verb | get angry
+piskas | verb | squeal, squeak; shout, cry, shriek, scream
+piskatshëm | adj | shrill, strident
+piskë | noun | pinch, tweak, twinge
+piskër | noun | pinch
+piskërr | noun | small splinter
+piskil | adj | twanging; twang; Jew's harp; peewit
+piskoj | verb | bite, pinch; peck
+piskohem | verb | retreat, retire, shrink, recoil; become enervated, paralysed
+piskole | noun | airgun
+piskthi | adv | tightly
+pizgëthi | adv | tightly
+piskueshëm | adj | paralysing, enervating
+pisos | verb | tar, pitch
+pispilac | adj | purring
+pispillohem | verb | dress up, smarten oneself, spruce oneself
+pispilluar | adj | dressed up, smart; done up (of hair)
+pispiri | noun | whispering, rustling
+pispiris | verb | whisper, rustle, fluster
+pisqoll | noun | pistol
+pisqollis | verb | fire at (with a pistol)
+pistallem | verb | show off, strut about, swagger
+pistol | noun | pistol; small gun; sportsgun
+pistole | noun | pistol
+pistoloj | verb | fire at (with a pistol)
+pistrik | noun | kind of fig
+pishar | noun | torch
+piskaz | adv | hurriedly, hastily
