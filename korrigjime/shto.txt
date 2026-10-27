@@ -58495,3 +58495,65 @@ psofis | verb | die off
 psonjës | adj | patient, tolerant
 psonjtore | noun | passive (gram.)
 pstajna | adv | then
+# ── mannshto.tsv ──
+psues | noun | sufferer; suffering
+psueshëm | adj | aged; tiresome, toilsome
+psun | noun | shopping
+psunis | verb | shop
+psunisje | noun | shopping
+pshaj | verb | sigh
+pshatimë | noun | sigh, groan
+pshef | verb | hide
+pshifem | verb | hide
+pshehtas | adv | secretly
+pshelinok | noun | balm, melissa officinalis
+pshellinok | noun | balm, melissa
+psherinok | noun | balm, melissa
+psheti | noun | sigh
+psherti | noun | murmur, whisper; sigh, moan
+pshertis | verb | sigh, moan, groan
+pshertoj | verb | sigh, moan
+pshertitës | adj | sighing, moaning, groaning
+psherre | noun | wedge of cheese
+pshes | verb | sweep
+psheshë | noun | sop, usually of bread and milk; frumenty with honey or oil; higgledy-piggledy; destroy
+pshihem | verb | hide
+pshikartë | noun | bladder senna (shrub)
+pshikëz | noun | small bladder
+pshikull | noun | whip
+pshim | noun | slander, gossip; blasphemy
+pshiqë | noun | bladder
+pshirë | noun | sweepings, dirt
+pshirje | noun | wiping; sweeping
+pshkardh | verb | abuse, mishandle, enslave
+pshtecë | noun | support; bannister
+pshtes | verb | support, prop up
+pshtetë | noun | rescue
+pshtetës | adj | supporting; supporter
+pshtetje | noun | rest, prop; support; basis
+pshti | noun | ketchup (of okra and tomatoes)
+pshtiell | verb | wrap, wrap up; bandage; envelope
+pshtielakë | noun | kind of skirt
+pshtiellas | adv | higgledy-piggledy
+pshtiellce | noun | back, reverse side
+pshtiellë | adj | confused, in a muddle; volume; whirlwind; whirlpool
+pshtiellës | noun | a plant (bindweed); wrapping, winding
+pshtjellëse | noun | wrapping paper
+pshtiellueshëm | adj | intricate, involved, confused
+pshtielje | noun | wrap, wrapping, wrapper
+pshtierë | adv | down
+pshtij | verb | spit
+pshtillem | verb | wrap oneself
+pshtimë | noun | spittle
+pshtimët | adj | hollow
+pshtjellakë | noun | kind of apron worn behind
+pshtjellet | verb | heave, try to vomit
+pshtjellëz | noun | small wrapper
+pshtjelloj | verb | confuse; complicate; implicate; hinder, impede
+pshtjellues | adj | confusing; disturber, nuisance
+pshtjellueshëm | adj | confused, complicated; bundled up
+pshtjerr | noun | loom
+pshtjerrë | noun | heifer
+pshtyej | verb | spit; spit on
+pshtymëz | noun | maggot, flyblow
+pshtirë | adj | dirty, filthy; despicable
