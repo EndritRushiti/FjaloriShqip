@@ -54678,3 +54678,57 @@ nshtoj | verb | add
 nshurr | verb | wet, soak
 ntrash | verb | thicken, condense
 ntres | verb | melt
+# ── mannshto.tsv ──
+nthej | verb | shatter, smash
+nthellë | adj | deep
+nther | verb | pierce, stab, slay, slaughter
+nuçiencje | noun | innocence
+nuçiend | adj | innocent
+nuer | noun | glory; bright idea
+nueth | noun | small knot, small joint
+nuhi | noun | odour, smell
+nuhis | verb | smell, sniff
+nuhuris | verb | sniff, smell, scent, get wind of, sleuth
+nuhuritje | noun | sniff, sniffing, scenting
+nukët | adj | weary
+nulk | verb | ripen, keep till ripe
+nulkëm | adj | ripe, overripe
+nulkët | adj | ripe, overripe; ripened off the tree
+nultë | adj | ripe, overripe
+nullcë | noun | tartar, crust on wine
+nullim | noun | repeal, annulment, cancellation
+nulloj | verb | cancel, annul, repeal
+nullos | verb | cancel, annul, repeal
+nullzë | noun | gum, gums (of teeth)
+numëratore | noun | reckoner, calculator, arithmetic book
+numërik | adj | numerical
+numëros | verb | count
+numërosh | adj | numerous
+numërtë | adj | numerous
+numërtar | adj | numerical; counter
+numurim | noun | counting
+numuroj | verb | count
+numurues | adj | counting, calculating; numerator
+nunë | noun | godmother
+nunël | noun | grandmother
+nunër | noun | corner of hearth where wood is kept, chimney-corner
+nunëri | noun | godparents; godparenthood
+nunërim | noun | confession
+nunëroj | verb | hear confession; bless
+nunos | verb | hear confession; absolve; baptise, bless
+nunosem | verb | confess, make a confession
+nunosës | adj | confessional; confessional priest
+nunosje | noun | confession; absolution
+nupërthuej | verb | claw, paw, maul
+nuq | noun | refusal
+nurec | adj | irascible, crusty
+nusez | noun | weasel
+nuseri | noun | maidenhood, bridehood
+nuseroj | verb | take a bride; act as bride, become a bride
+nusezë | noun | weasel; ferret; doll; small abscess in armpit
+nusi | noun | bridehood; bridal dress
+nuskëz | noun | truss of maize-straw
+nusni | noun | bridehood, maidenhood, young womanhood
+nusnohem | verb | get engaged (of girl)
+nusnoj | verb | give in marriage; become a bride
+nuveg | noun | kind of owl
