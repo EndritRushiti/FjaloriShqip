@@ -56846,3 +56846,48 @@ përkasje | noun | meeting, encounter
 përkatsi | noun | relation, connection; relevancy, suitability
 përkatsisht | adv | relatively, relevantly
 përkatshëm | adj | relative, relevant; corresponding; in question, particular
+# ── mannshto.tsv ──
+përkdhelëm | adj | soft, gentle, pet-
+përkdhelës | adj | caressing, fondling; flattering
+përkdheli | noun | caress, fondling; flattery
+përkdhelim | noun | caress, fondling; compliment
+përkdhelosh | adj | caressing; flattering
+përkeqsoj | verb | worsen
+përkënaqshëm | adj | suave, pleasing; jovial, pleasant
+përkëndoj | verb | conjure, cast out (spirits)
+përkëndonjës | noun | witchdoctor, quack
+përkitës | adj | relative, relevant
+përkitsi | noun | contagiousness, contagion
+përkjell | verb | flatter
+përkjellë | noun | flattery
+përkohsi | noun | temporariness, temporary nature
+përkohsisht | adv | temporarily, provisionally, for the time being
+përkohet | verb | it fits me, suits me
+përkokë | noun | a fish
+përkoq | verb | pick up (grain at a time), collect, glean; strip (boughs) of fruit
+përkorët | adj | temperate, moderate
+përkorsi | noun | moderation, self-restraint, temperance
+përkovaç | noun | blanket
+përkovë | noun | sheet laid under corpse
+përkqyrës | noun | bailiff, overseer, steward
+përkrahas | adv | arm in arm
+përkrahshëm | adj | supportable, maintainable; comparable
+përkrej | verb | complete, finish off
+përkrejtëm | adj | extreme
+përkresë | noun | pillow, cushion
+përkrieti | adv | above, over, on top
+përkryeme | noun | completion, perfection, consummation
+përkryes | noun | complement (gram.)
+përkryp | verb | salt; pickle
+përkryqët | adj | crossed, cross-shaped; transversal
+përkthenje | noun | form, turn of phrase
+përkthesë | noun | accidence, grammar; declension, conjugation; rendering
+përkthiellohem | verb | clear up, reveal, expose; clarify
+përkthjelloj | verb | clear up, clarify
+përkuatënem | verb | sin
+përkuatënuom | noun | sin, sinfulness
+përkuerm | adj | moderate, temperate
+përkuersi | noun | temperance, abstinence
+përkuershëm | adj | temperate, moderate
+përkueshëm | adj | fitting, suitable, apt; adapted
+përkuetas | adv | fitly, suitably, aptly
