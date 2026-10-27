@@ -58182,3 +58182,54 @@ prapohem | verb | recoil, retreat
 prapsej | adv | backwards
 prapsesi | adv | hence, therefore
 prapsi | noun | retrogression; detriment, drawback, handicap; adversity, bad times; bad luck, mishap, misfortune; perversity
+# ── mannshto.tsv ──
+prapsje | noun | recoiling, shrinking; retreat; reverse
+prapsme | noun | the rear
+praptsoj | verb | avert, prevent
+prapshëm | adj | rear, back; hind (legs)
+prapshikim | noun | retrospection
+prapshtas | adv | backwards
+prapshtë | adj | wicked, evil, perverse; low, vulgar; the other way round, upside-down, inside-out
+prapshti | noun | perversion; evil, wickedness; lowness, vulgarity
+prapshtoj | verb | upset, overturn; reverse; confuse, throw into disorder
+prapshta | adv | backwards, the wrong way round, reversed, inside out
+prapshtazi | adv | backwards, the wrong way round
+praptoj | verb | reverse, repulse; deter, avert; overthrow
+praresye | adv | rightly
+prasi | interj | well, all right
+praskë | noun | veil, cover; film, thin covering; cataract on eye
+prasmi | adv | from the rear; for the last time
+prashajkë | noun | small hoe
+preshajkë | noun | small hoe
+prashë | noun | a bit, a little
+prashkullicë | noun | kind of vetch
+prashtë | noun | sling
+prashtu | adv | thus, therefore, so; wherefore
+pratk | noun | threshold
+prato | adv | therefore
+prata | adv | therefore
+pratunerë | noun | kind of cheese
+pravas | noun | frame, cornice
+prevaz | noun | frame, cornice
+pravoj | verb | try, test
+pravulloj | verb | scald, burn
+prazën | adj | free
+prazot | interj | by heaven!
+prazhdë | noun | sling
+preçart | adv | ravingly, wildly; row, disturbance, interruption
+predëk | noun | sermon
+predëkim | noun | preaching, sermon
+predikatar | noun | preacher
+predikatuor | noun | preacher
+predk | noun | sermon
+predhje | noun | a scented herb
+preg | noun | threshold
+pregaç | noun | apron
+pregatitës | adj | preparatory, preliminary; preparer
+pregatitje | noun | preparation
+pregatitore | noun | preparatory school or class
+pregadis | verb | prepare
+pregim | noun | visit paid to mourners after a death
+pregjim | noun | pastie, pie, cake, bun
+prehos | verb | sharpen
+prehshëm | adj | restful, comfortable
