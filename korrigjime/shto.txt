@@ -58101,3 +58101,47 @@ posullë | noun | note, message
 posull | noun | note
 poshtash | adv | from below
 poshtërm | adj | lower, inferior
+# ── mannshto.tsv ──
+poshtinë | noun | basement
+poshtnisht | adv | basely
+poshtnues | adj | humiliating, disgraceful
+poshtoj | verb | defeat, subdue
+poshtolak | noun | winner in a children's game
+poshtrak | adj | low, bottom, lower; villainous
+poshtrëtij | verb | sigh, groan
+pote | noun | stove
+potë | noun | crucible
+potar | noun | village constable, rural policeman
+potillë | noun | foot; sole of foot
+potinë | noun | shoe
+potis | verb | water (animals); water, irrigate
+potisk | noun | fish-trap
+potkë | noun | boundary post, boundary mark; marking-stake; landmark; ridge of earth forming boundary; small tree planted to commemorate St George; gravestone
+potmol | noun | marsh
+potoq | noun | hiding-place, den
+potresë | noun | torment, torture
+potresis | verb | torture, torment
+potur | noun | renegade; turncoat, infidel
+potura | noun | white trousers worn by Tosks
+povastis | verb | venture
+povel | noun | brook, fall
+povod | noun | vine-runner, shoot; planting-out, propagation
+povodë | noun | vine-runner, shoot
+povojë | noun | swaddling band
+povojt | adv | certainly, in fact
+povojtë | adj | certain, sure
+pozatë | noun | cutlery
+pozeks | verb | pass, disappear
+pozhege | noun | long black variety of plum
+pqirë | noun | breastplate
+prafëm | noun | threshold
+praftoj | verb | continue
+prafulloj | verb | toast; singe
+pragalasur | adj | calm
+pragmati | noun | association
+prahër | noun | lap
+prahi | noun | rest
+prahje | noun | rest
+prajkë | noun | drumstick
+praksim | noun | aberration, wandering, vagrancy, truancy
+praksohem | verb | wander, stray, get lost; play truant; go to the bad
