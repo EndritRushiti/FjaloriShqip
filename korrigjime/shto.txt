@@ -53694,7 +53694,6 @@ nashproj | verb | embitter, exacerbate
 nashtivon | adv | of late
 nashtishëm | adj | present
 natja | adv | early, in the morning
-natoj | verb | spend the night
 natshëm | adj | nightly, nocturnal
 naturak | adj | natural
 natyrak | adj | natural
@@ -53980,7 +53979,6 @@ ndrejtoj | verb | straighten, arrange, put right; correct; direct, guide
 ndrejtohem | verb | address, accost; make for, go to
 ndreloks | verb | turn giddy
 ndreqme | noun | arrangement, disposal; fixture; repair
-ndresë | noun | underwear; houselinen
 ndreush | noun | fawn
 ndriçëm | adj | bright
 ndridh | verb | twist, screw; gather (of sores)
@@ -54453,7 +54451,6 @@ ngullmbardhë | adj | lucky, fortunate
 ngullmzi | adj | unlucky, unfortunate
 nguq | verb | redden
 nguqem | verb | turn red; blush
-ngur | verb | turn to stone
 ngurem | verb | turn to stone, petrify, solidify
 ngurëm | adj | hard, solid; harsh, gruff
 ngurje | noun | petrifaction, solidification
@@ -54506,7 +54503,6 @@ ngjatë | adj | long
 ngjatim | noun | reach, stretch, range
 ngjatje | noun | extension, prolongation, projection, range
 ngjatshëm | adj | broad, large-scale
-ngje | interj | look, behold
 ngjeç | adv | until, up to
 ngjel | verb | stay, stick, stop
 ngjellë | noun | trance, coma
@@ -54568,7 +54564,6 @@ nigjah | noun | dowry, settlement; alimony
 nigjoj | verb | hear
 nijetoj | verb | intend
 # ── mannshto.tsv ──
-nikotin | noun | nicotine
 nimë | noun | couch, sofa
 nimeroj | verb | count
 ninëz | noun | pupil of the eye
@@ -54701,7 +54696,6 @@ nulloj | verb | cancel, annul, repeal
 nullos | verb | cancel, annul, repeal
 nullzë | noun | gum, gums (of teeth)
 numëratore | noun | reckoner, calculator, arithmetic book
-numërik | adj | numerical
 numëros | verb | count
 numërosh | adj | numerous
 numërtë | adj | numerous
@@ -54834,7 +54828,6 @@ njefshë | noun | nod, gesture
 njegullë | noun | fog, mist, cloud
 njehanë | noun | ball-holder, container
 njehsi | noun | account
-njejtë | adj | one, same, identical
 njekaq | pron | so many, so much
 njektu | adv | here
 njel | noun | rheumatism
@@ -55488,7 +55481,6 @@ palëvruet | adj | unpolished
 palëz | noun | fold, pleat, tuck; poultice; ice-pack
 palëzim | noun | fold, pleat
 pali | noun | small shot (for airgun)
-palidh | adj | without buds, without blossoms
 paligë | noun | cow which bears after two years; animal bearing prematurely
 paligjë | adj | unlawful, illegal, wrong
 paligjni | noun | wrong; illegality
@@ -55688,7 +55680,6 @@ panzehir | noun | wart on horses and donkeys (kept as a charm)
 # ── mannshto.tsv ──
 panjeshëm | adj | countless, untold, innumerable
 panjejtë | adj | unequal
-panjerëz | adj | uninhabited
 panjerzi | noun | inhumanity
 panjerzishëm | adj | inhuman, inhumane; uncivil
 panjisi | noun | lack of uniformity, inequality, unevenness, variation, variety
@@ -55895,7 +55886,6 @@ parashëkoj | verb | foresee, forecast
 parashkenë | noun | wing(s) of stage
 # ── mannshto.tsv ──
 parashkresë | noun | prescription
-parashkroj | verb | prescribe
 parashkruej | verb | prescribe
 parashkronjë | noun | initial
 parashtim | noun | prefix
@@ -55973,7 +55963,6 @@ parkalidhë | noun | chicory
 parllak | noun | remains (of dead animal)
 parmis | verb | overturn
 parmrâmë | adv | the evening before yesterday
-parodë | adj | common, commonplace
 paroj | verb | pair, pair up
 parok | noun | rector
 parollë | noun | password
@@ -56078,7 +56067,6 @@ pastenag | noun | electric-ray fish
 pasterellos | noun | disease in lungs of goats
 pastërk | noun | step-son
 pastërkë | noun | step-daughter
-pastërm | noun | dried or smoked meat
 pastërt | adj | clean
 pastilë | noun | pastille
 pastoli | adj | plain, unadorned
@@ -56153,7 +56141,6 @@ patrimni | noun | cowardice
 patrishanë | noun | pike, spear
 patronditshëm | adj | unshakable
 patrondur | adj | unshaken, unwavering, unflinching
-patrull | noun | patrol
 patrune | noun | lady patron
 patrup | adj | bodiless
 patundsi | noun | immobility, firmness
@@ -56361,7 +56348,6 @@ perperugë | noun | butterfly
 përpërugë | noun | butterfly
 perpelugëuji | noun | dragon-fly
 persejatje | noun | hard thinking, puzzling out
-persias | verb | ponder, puzzle out
 personë | noun | person
 perua | noun | nail; pin, peg
 perukë | noun | wig
@@ -56748,7 +56734,6 @@ përgjasues | adj | relative, comparative
 përgjashëm | adj | comparable, similar; imitable
 përgjatshëm | adj | lengthwise, longitudinal
 përgjatur | noun | likeness
-përgjegj | verb | answer
 përgjegjsi | noun | responsibility
 përgjejm | adj | mad, raving, angry, furious; horrible
 përgjel | noun | compass (for drawing circles)
@@ -56756,7 +56741,6 @@ përgjes | verb | resemble; guess
 përgjesë | noun | spying, prying
 përgjenishëm | adj | affectionate, intimate
 përgjeratë | noun | monster
-përgjerim | noun | oath; swearing
 përgjirohem | verb | swear
 përgjerues | noun | curser, blasphemer
 përgjigjës | adj | responsible; person responsible
