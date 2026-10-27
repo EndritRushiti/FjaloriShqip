@@ -57656,8 +57656,6 @@ pispiris | verb | whisper, rustle, fluster
 pisqoll | noun | pistol
 pisqollis | verb | fire at (with a pistol)
 pistallem | verb | show off, strut about, swagger
-pistol | noun | pistol; small gun; sportsgun
-pistole | noun | pistol
 pistoloj | verb | fire at (with a pistol)
 pistrik | noun | kind of fig
 pishar | noun | torch
