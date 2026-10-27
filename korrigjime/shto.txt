@@ -55018,3 +55018,57 @@ njojtës | adj | expert; knowing
 njojtje | noun | knowledge, recognition
 njojtur | adj | known, well-known
 njimtar | noun | deceiver
+# ── mannshto.tsv ──
+njomth | noun | young child
+njomsi | noun | freshness, softness, tenderness; greens
+njomsim | noun | softening effect, freshening
+njomsinë | noun | freshness, greenness
+njomsirë | noun | freshness, greenness
+njomsis | verb | wet, sprinkle
+njomshtë | adj | fresh, green, moist
+njomshti | noun | moisture
+njomshtinë | noun | moisture
+njoshë | noun | union, society, company
+njota | adv | only, still
+njufkë | noun | down, vein (of feather)
+njuhas | verb | sniff
+njyej | verb | colour, dye, tint
+njyj | verb | colour, dye, tint
+njyemë | noun | colour, dye
+njyes | noun | colour, dye
+njyesinë | noun | tint, colour, shade, hue
+njyestar | noun | dyer; colourman, ink-seller
+njyrg | noun | ointment
+njyroj | verb | colour, tint, tinge, dye
+njytari | noun | dyeing, dyeing industry
+obad | noun | horsefly
+obidiencë | noun | obedience
+oborrsi | noun | courtesy, politeness
+oborrsisht | adv | politely, courteously
+oborrshëm | adj | courteous, polite
+oborvë | noun | strap, lace, thong
+oçkur | noun | garter
+odatar | noun | chamber valet
+odepritje | noun | waiting-room; reception room
+odetar | noun | chamber valet
+odetare | noun | chambermaid
+odëz | noun | cell, closet
+ofake | noun | mite, small coin
+ofice | noun | office; breviary, prayer book
+oficier | noun | officer (army)
+ofiçe | noun | divine worship, service
+ofoj | verb | gape with amazement
+ofqejë | noun | last unction
+oftikjasur | adj | tubercular
+oftikos | verb | infect with tuberculosis
+oftikosem | verb | contract tuberculosis
+oftikosur | adj | tubercular
+oftim | noun | sigh
+ogradë | noun | garden
+ogradi | noun | bother, annoyance
+ogradis | verb | annoy, bother
+ogradisem | verb | get into trouble
+ogurplotë | adj | promising
+ohejnem | verb | grow beautiful, turn fine
+ohët | adj | sultry
+ohistër | adj | pale, sickly, yellow
