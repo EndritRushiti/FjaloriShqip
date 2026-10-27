@@ -55473,3 +55473,52 @@ palcore | noun | grease-box for gun
 palejshëm | adj | not permissible, illicit
 palemë | adj | unborn
 palargueshëm | adj | inalienable, inevitable
+# ── mannshto.tsv ──
+palere | noun | platter, shallow dish
+paletërsi | noun | illiteracy
+paletra | adj | illiterate
+palëçitshëm | adj | illegible
+palëndshëm | adj | abstract
+palënttë | adj | abstract
+palëpalë | adv | in folds, in wrinkles; pleated work, petals (of cultivated rose)
+palëvizëm | adj | still
+palëvizje | noun | immobility
+palëvizme | noun | stability, immobility, inertia
+palëvruet | adj | unpolished
+palëz | noun | fold, pleat, tuck; poultice; ice-pack
+palëzim | noun | fold, pleat
+pali | noun | small shot (for airgun)
+palidh | adj | without buds, without blossoms
+paligë | noun | cow which bears after two years; animal bearing prematurely
+paligjë | adj | unlawful, illegal, wrong
+paligjni | noun | wrong; illegality
+paligjsi | noun | wrong; illegality
+palim | noun | folding, fold; packing, stacking
+palinë | noun | slim girl
+palirshëm | adj | restricted
+palis | verb | fold, bend
+palivri | noun | stillness, immobility
+palivrueshëm | adj | motionless, still
+palivruet | adj | uncultivated, waste, wild
+palk | noun | box (at theatre)
+palmëz | noun | short palm, palm-like shrub
+palmuq | adj | bent (with age)
+palodhsi | noun | indefatigability
+palojtshëm | adj | still, motionless
+paloj | verb | bend, fold, double
+palore | noun | hip-flask, brandy flask
+paloshapkë | noun | wretched old hat
+palpë | noun | feeler, palp
+palpuris | verb | bounce
+paltar | noun | folder, paper-knife
+paltim | noun | fold, crease; volume
+paltoj | verb | fold, crease, bend
+paltueshëm | adj | bendable, flexible
+paluejshëm | adj | motionless, immovable, still, fixed
+paluejtsi | noun | immobility, stillness
+paluejtshëm | adj | motionless, immovable
+palues | noun | folder, paper-knife
+palumtëri | noun | unhappiness
+palumtsisht | adv | unfortunately
+palumur | adj | ill-fated, hapless
+palyeshëm | adj | indelible
