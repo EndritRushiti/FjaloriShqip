@@ -56476,3 +56476,56 @@ pëploj | verb | chirp, peep
 pëptij | verb | chirp, peep, squeak, make a sound
 pëqirë | noun | breastplate
 pëqitë | noun | brick, tile
+# ── mannshto.tsv ──
+përafërisht | adv | approximately; roughly speaking, roughly
+përafërm | adj | approximate
+përaftoj | verb | last, continue
+përanas | adv | alongside, at the side
+përandaj | adv | therefore, so
+përandajta | adv | therefore
+përandej | adv | therefore
+përanem | verb | deviate, swerve
+përanesh | adv | alongside
+përanë | prep | beside, near
+përanës | noun | supporter, upholder; supporting
+përapë | adv | again
+përapëtë | adv | again
+përarendim | noun | rotation of crops
+përarendis | verb | scatter (seed), broadcast; disturb, bother
+përashtu | adv | as for that, so, therefore
+përavullohet | verb | evaporates, turns to steam
+përbaft | adv | by chance
+përbalcas | noun | fighter, wrestler
+përballës | adj | opposing; opponent
+përballshëm | adj | facing, opposite, adjacent
+përbar | verb | transfer, transport, bring, take
+përbars | verb | transfer, transport
+përbartës | noun | conductor (electr.)
+përbartje | noun | transfer, transportation
+përbarr | verb | load; charge, commission
+përbashkëm | adj | united, joint, common, combined, mutual, total
+përbashkni | noun | collectivity
+përbef | verb | rail, mock, jeer at
+përbej | verb | adjure; conjure; charm away; swear
+përbem | noun | oath; false oath, perjury; spell
+përbetar | noun | exorcist, conjurer
+përbie | verb | fall down, plunge
+përbim | noun | marvel, miracle
+përbime | noun | marvel, miracle
+përbimë | noun | weed
+përbind | verb | amaze, astound; astoundingly, marvellously
+përbindë | noun | monster
+përbindës | adj | surprising
+përbindsh | noun | monster, bogey; bugbear, horror, fright
+përbinsh | noun | monster, bogey
+përbinjore | noun | sheep or goat which bears twice before age of 3 years
+përbisht | verb | scatter, rout, put to flight, strew, disperse
+përbleme | noun | problem
+përblosë | noun | handful of meal, enough for baking one loaf
+përblesë | noun | handful of meal
+përbluej | verb | eat away, corrode; digest; plot, contrive, hatch; commit
+përboçë | noun | hearthstone
+përboll | adv | enough, ample
+përborëm | adj | snow-white
+përbotsi | noun | universality
+përbrendsa | noun | interior; intestines; heart
