@@ -57044,3 +57044,49 @@ përparëm | adj | fore, front-, preceding, prefixed
 përparësm | adj | fore, front-
 përparimdashje | noun | progressiveness
 përparsi | noun | façade of wall
+# ── mannshto.tsv ──
+përparthi | adv | in front
+përpas | adv | behind
+përpash | adj | greedy, gluttonous
+përpeq | noun | pudding made with eggs and milk
+përpëlis | verb | tug, jerk; blink
+përpërim | noun | purr, purring; rustle
+përpërimë | noun | purr, purring
+përpërij | verb | purr; murmur, whisper, rustle
+përpëroj | verb | purr; murmur, rustle
+përpikët | adj | exact, punctilious, prompt
+përpikni | noun | precision, punctuality; pains, care; effort, endeavour
+përpikshëm | adj | exact, precise, punctual, definite
+përpillim | noun | draft, scheme, sketch, outline, construction
+përpilloj | verb | draw up, draft, frame
+përpishëm | adj | greedy, voracious
+përpizë | noun | navel
+përpjekës | adj | hardworking; reciprocal; wrestler, fighter
+përpjekme | noun | meeting, gathering
+përpjerë | adj | hanging, sloping, steep; dependent
+përpjesë | noun | proportion, rate; analogy
+përpjesëm | adj | proportionate
+përpjesisht | adv | proportionately
+përpjestim | noun | distribution, division, allocation, assignment; lay-out; proportion; classification
+përpjestisht | adv | proportionately
+përpjestoj | verb | distribute, allot, assign
+përpjetshëm | adj | steep; uphill; rising
+përpjetshme | noun | rise
+përplasme | noun | crash, clash
+përplis | verb | entangle, entwine; complicate; perplex, puzzle, confuse, muddle
+përplisje | noun | complexity
+përplotës | adj | supplementary; supplement
+përplotsim | noun | supplement, supplementation
+përpluhënoj | verb | cover with dust
+përporitem | verb | be in doubt, be nonplussed
+përpose | noun | exception
+përposë | noun | exception
+përposhtëm | adj | lower, nether
+përprapsem | verb | retreat
+përpres | verb | cut in, retort, contradict
+përprish | verb | annul; crush, crumble; decompose
+përprishet | verb | decomposes
+përprishës | adj | destructive; decaying, decomposing
+përprishje | noun | decomposition, decay
+përpshij | verb | spread, scatter, strew
+përpshtjellë | noun | extract (from book)
