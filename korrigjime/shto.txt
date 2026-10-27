@@ -57770,3 +57770,48 @@ plaçkues | noun | plunderer, raider, robber
 plaçkueshëm | adj | raidable, plunderable
 plaçkurina | noun | goods and chattels, effects, belongings
 plafar | noun | blanket-maker, rug-maker
+# ── mannshto.tsv ──
+plagim | noun | wounding
+plagsi | noun | weakness
+plagsoj | verb | wear out, fatigue, exhaust
+plagsohem | verb | get fatigued
+plagueshëm | adj | vulnerable
+plajë | adj | overloaded, weighed down
+plajm | noun | fine flour
+plakarushkë | noun | old chatterbox
+plakesë | noun | old age
+plakneshë | noun | old woman
+plakojë | noun | old maid, nun
+plakon | adj | plebeian; the common people
+plakosh | noun | old man, little old man
+plakrric | adj | old, withered, over, past their best (of plants)
+plancok | adj | stout, plump, fat, pot-bellied
+plancosh | adj | stout, plump, fat
+plancuk | adj | stout, plump, pot-bellied
+planeps | verb | deceive
+planesem | verb | wander, err, get lost, drift
+planoj | verb | level, flatten out, smooth
+planosem | verb | wander, drift
+planozi | noun | fig-eater; decoy-bird
+plantë | adj | flat, level
+planxak | adj | pot-bellied, stout; fat man
+planxosh | adj | pot-bellied, stout
+plapuri | noun | struggle
+plapurij | verb | tug, jerk
+plapurizet | verb | cracks, claps, snaps
+plaqi | noun | dish of cold haricot beans in meat gravy; fish ragout
+plasarac | noun | pot-bellied person
+plasarim | noun | bursting, burst, explosion
+plasaritem | verb | burst
+plasaritëm | adj | burst, split; splitting, liable to crack
+plaskom | noun | gorge, canyon, precipice; glen, ravine, pass
+plaskomë | noun | gorge, ravine
+plasme | noun | burst, puncture
+plastër | noun | calcium sulphate
+plasuridhë | noun | watercress
+plashicë | noun | small fish (anchovy, sprat)
+plashkare | noun | fodder, mash
+plashkë | noun | booty, things
+platarac | noun | pot-bellied person
+platesë | noun | plaice
+platinë | noun | platinum
