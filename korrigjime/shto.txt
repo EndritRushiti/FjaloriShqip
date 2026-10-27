@@ -56220,3 +56220,42 @@ pazbutueshëm | adj | implacable, indomitable
 pazellët | adj | apathetic, indifferent
 pazënë | adj | untaken, unoccupied, vacant, free
 pazarohem | verb | haggle, bargain
+# ── mannshto.tsv ──
+pazi | noun | beetroot
+pazonjë | adj | inefficient, incompetent (fem.)
+pazotsi | noun | inefficiency, inability, incapacity
+pazvan | noun | night watchman
+pazhik | noun | waste land (near a house)
+pecendari | noun | poverty
+pecoj | verb | piece together; patch
+peçartë | adj | delirious, raving
+peças | verb | touch; hurt, scathe; spoil
+peçatshëm | adj | touchable; vulnerable
+peçinë | noun | cave
+pedament | noun | pediment
+pedamend | noun | pediment
+pedharij | verb | pursue, chase
+pegâ | noun | pagan, heathen
+pegâj | verb | soil, dirty, defile
+pegalloj | verb | pitch, tar
+pegâmë | adj | filthy; filth
+pegân | adj | pagan, heathen
+pegânët | adj | pagan, heathen
+pegânim | noun | paganism
+pegull | noun | pitch
+pegulloj | verb | pitch, tar, smear with pitch
+pegurkë | noun | fungus, mushroom
+pehas | verb | weaken, enfeeble
+pehatem | verb | grow weak, fail; pant, gasp
+pejcë | noun | lint
+pejçë | noun | lint
+pejde | noun | silly joke
+pejdis | verb | multiply, increase
+pêjzatak | adj | muscular, sinewy
+pêjzëplotë | adj | muscular, brawny
+peks | noun | bitterness, chagrin, spite
+peksimadh | noun | biscuit, rusk
+peksimat | noun | biscuit, rusk
+pekule | noun | savings, something laid by, private possession
+pekuloj | verb | regale, reward
+pekulore | noun | treasury
