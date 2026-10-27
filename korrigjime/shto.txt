@@ -55832,3 +55832,64 @@ paragatis | verb | prepare, get ready, arrange
 paragatitje | noun | preparation
 paragune | noun | flint-lock gun
 parahistoriak | adj | prehistoric
+# ── mannshto.tsv ──
+parais | noun | orchard
+paraje | noun | orchards
+paraklishë | noun | chapel, oratory
+parakohës | adj | anterior
+parakujdesi | noun | precaution
+parakuptim | noun | presupposition, preconception
+parakurt | noun | front yard
+paralajmoj | verb | notify in advance
+paralajmtar | adj | forewarning, announcing beforehand; harbinger, herald
+paralajmues | adj | forewarning; harbinger, herald
+paralemë | adj | firstborn
+paralojë | noun | prelude
+paramejtim | noun | forethought
+paramejtoj | verb | premeditate
+paramesditë | noun | forenoon
+paramur | noun | ridge, bulwark, outer wall
+parandal | verb | check in advance, prevent
+parandejshëm | adj | former, anterior
+parandie | noun | foretaste, foreknowledge, premonition, apprehension
+parandij | verb | sense beforehand, presage
+parandienjë | noun | presentiment
+parandisi | noun | presentiment
+parandijës | adj | sensing, suspecting
+parandis | adj | sensing, suspecting
+parandsi | noun | unimportance; unimportant
+parango | noun | hut
+parangjyllëz | noun | antimacassar
+paranik | noun | forefather, ancestor; prosthetic
+paraodë | noun | front sitting-room
+parapagoj | verb | prepay, pay in advance
+parapamë | adj | foreseen, expected, presumed, estimated
+parapamës | adj | foreseeing, anticipatory, estimating
+parapandehje | noun | premonition, presupposition
+parapas | noun | anticipator
+parapikas | verb | sense in advance, forewarn
+parapjekës | adj | early (wheat)
+paraprimë | adj | led, headed
+parapris | noun | leader, pioneer
+paraprise | noun | preposition
+paraqitse | noun | showroom, shop-window
+pararonjë | noun | guard, vanguard
+pararojtës | noun | vanguardsman, outpost
+pararojtje | noun | vanguard
+pararuhem | verb | take precautions, guard (against)
+paras | adv | equally, the same, alike
+parasiell | verb | present, deliver
+parasim | noun | equality; resemblance
+parasit | noun | parasite
+parasiti | noun | parasitism
+parasjell | verb | allege; present, deliver
+parasjellës | adj | presentation-; oratorical
+parasjellje | noun | presentation, delivery
+parasoj | verb | equal, resemble
+parastej | verb | be with, stand by, be present at
+parasueshëm | adj | equal, comparable
+parashes | verb | sell beforehand; enjoin, bid
+parashëm | adj | uneven, rough, rugged
+parashëkim | noun | anticipation, forecast
+parashëkoj | verb | foresee, forecast
+parashkenë | noun | wing(s) of stage
