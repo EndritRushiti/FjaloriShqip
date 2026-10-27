@@ -56259,3 +56259,46 @@ peksimat | noun | biscuit, rusk
 pekule | noun | savings, something laid by, private possession
 pekuloj | verb | regale, reward
 pekulore | noun | treasury
+# ── mannshto.tsv ──
+pekurar | noun | shepherd
+pelaqis | verb | trim, rough-hew; avenge
+pelargt | adv | from afar
+pelc | noun | fur
+pelegreni | noun | pilgrimage
+peleq | noun | axe, trimming tool
+peleqi | noun | axe
+pelëqorre | noun | blind man's buff
+pelëz | noun | small mare
+pelim | noun | wormwood; absinth, vermouth
+pelimth | noun | wormwood
+pelind | noun | wormwood
+pelinë | noun | wormwood
+pelqyer | noun | thumb; fold of the duodenum
+pëlqer | noun | thumb
+pellarg | noun | stork
+pelleng | noun | fen with running water
+pelltar | noun | rump, buttocks (of cattle)
+pemëprurës | adj | fruitful
+pemëri | noun | coster's barrow or stall
+pemërinë | noun | orchard; fruit
+pemësim | noun | fruition
+pemnaje | noun | orchard
+pemnishte | noun | orchard
+pemnoj | verb | plant with trees
+pemnore | noun | orchard, fruit farm
+pemtore | noun | orchard, fruit farm
+pemurinë | noun | fruit; fruit trees
+pemurishte | noun | orchard
+pemze | noun | shingles, herpes
+penaroj | verb | hold up, check, force to stop
+pendaroj | verb | hold up, check, force to stop
+pendarohem | verb | bind oneself by contract
+pendart | noun | offering of five loaves brought to church on name-day
+pendefrangë | noun | five-franc piece
+pendestore | noun | penitentiary
+pendëdaci | noun | a tall flowering plant with large seed-clock
+pendkuq | noun | rochet (fish)
+pendimtar | adj | penitent, repentant; penitential
+pendirem | verb | repent
+pendlik | noun | ring by which oxen are attached to yoke
+pendonem | verb | repent
