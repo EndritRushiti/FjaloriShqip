@@ -57393,3 +57393,30 @@ përvuajtshëm | adj | low, mean, wretched, miserable, forlorn, humble
 përvueshëm | adj | low, wretched, humble
 përvuejt | adj | low, wretched, humble
 përvuejtnisht | adv | humbly
+# ── mannshto.tsv ──
+përzalishëm | adj | sickening
+përzët | noun | spite
+përzim | noun | mixture, medley, mess, confusion; slander
+përzimë | adj | mixed; confused
+përzimas | adv | untidily, in disorder
+përzimje | noun | mixture, mixing; confusion; interference, meddling; medley
+përzimtar | noun | disturber, nuisance, meddler, interferer, mischief-maker, rowdy; mischief-making
+përzis | adj | mixing; confusing; interfering
+përzishtas | adv | higgledy-piggledy, in confusion
+përzitës | noun | herdsman, drover
+përzivue | noun | drag-net, trawling-net
+përzgjatshëm | adj | widespread
+përzvartur | adj | ambiguous, equivocal
+përzhëlis | verb | scorch, parch; wither; toast; singe
+përzhlis | verb | scorch, parch
+përzholle | noun | cutlet, chop
+përzhyhem | verb | besmear oneself, get smothered in dust, soot, flour
+përzhytem | verb | get smothered
+përresh | verb | sand, cover with sand
+përroj | noun | stream, torrent
+pëskat | adv | out of spite, in defiance; in spite of
+pësh | adv | in whispers
+pëshpërim | noun | whisper
+pëshpëritem | verb | sigh; whisper; rustle
+pëshpëshje | noun | whispering
+pësht | adv | quickly, at once
