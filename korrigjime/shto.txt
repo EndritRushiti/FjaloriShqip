@@ -55343,3 +55343,53 @@ pagjashëm | adj | unsuitable, improper, inappropriate, undue
 pagjegjur | adj | unheeded
 pagjë | noun | peace
 pagjët | adj | peaceful, quiet
+# ── mannshto.tsv ──
+pagjinishëm | adj | solitary, unsociable, reticent
+pagjumsi | noun | sleeplessness, insomnia
+pagjumt | adj | sleepless
+pagjyg | noun | tyrant
+pagjykimtë | adj | injudicious, ill-advised, irrational
+pagjymët | adj | unimpaired, unspoiled, undamaged
+pagjyqsi | noun | lack of judgment, tactlessness
+pahar | noun | ointment
+paharrirë | adj | unripe
+paheksëm | adj | opaque
+pahepsi | noun | rigidity
+pahepshëm | adj | unbending, rigid; unflinching, unwavering
+pahepur | adj | unbending, rigid; unwavering
+pahërinë | noun | pollen
+pahije | noun | uncouthness, indecorum, indecency
+pahijesi | noun | uncouthness, indecorum
+pahikshëm | adj | inevitable
+pahirë | adv | by force; unwillingly, grudgingly
+pahirsi | noun | ruthlessness; reluctance, repugnance
+pahirsisht | adv | by force
+pahirt | adj | ruthless; forced, unwilling, grudging, reluctant; ungracious; indecorous
+pahirje | noun | force
+pahirsoj | verb | force
+pahis | verb | fan, cool; steam, smoke
+pahoneps | noun | indigestion
+pahonepsje | noun | indigestion
+pahonepshëm | adj | indigestible
+pajagë | noun | blight on vines
+pajamajtas | adv | partially, onesidedly
+pajcim | noun | pacification
+pajcoj | verb | appease, reconcile, pacify, still, placate; clean
+pajesë | noun | aptitude
+pajetërtueshëm | adj | inalienable
+pajetme | noun | nitrogen
+pajëshkrim | noun | marriage contract, dowry-pledge
+pajimend | noun | enormity, outrage
+pajka | noun | twaddle, chitter-chatter
+pajmend | noun | horror, outrage
+pajni | noun | endowment; talent, gift
+pajnoj | verb | endow; equip, fit; provide
+pajollë | noun | loop, noose; intrigue, craft; deck
+pajos | verb | endow; equip, fit
+pajosje | noun | endowment; equipment
+pajovë | noun | winding-sheet
+pajshëm | adj | fit
+pajtar | noun | patron, guardian; authority; veterinary surgeon
+pajtë | adj | peaceful
+pajti | noun | pact, contract
+pajtimdashës | adj | compromising, ready to make concessions
