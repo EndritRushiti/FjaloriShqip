@@ -56425,3 +56425,54 @@ pezjet | num | fifty
 pezmatar | adj | harsh, rude
 pezmati | noun | irritation, worry, annoyance; affliction, sorrow
 pezmoj | verb | worry, irritate
+# ── mannshto.tsv ──
+pezhë | noun | weight
+pëc | noun | a bird
+pëcel | noun | kind of corn
+pëci | noun | miser
+pëdhar | verb | repulse, send off, rout, turn out, drive off
+pëdhete | noun | apron
+pëdhite | noun | apron
+pëganj | verb | dirty, soil, defile
+pugâj | verb | dirty, soil
+pëgënj | verb | dirty, soil
+pëgan | adj | filthy; filth; pagan
+pëgani | noun | filth
+pëgërës | noun | defiler
+pëgërsi | noun | filth, dirt
+pëgërt | adj | dirty
+pëgun | noun | leveret
+pëhar | noun | cup, goblet
+pëkat | noun | sin
+pëlandër | noun | lye
+pëlas | noun | palace
+pëlsas | verb | burst, explode
+pëlçicë | noun | anchovy, pilchard
+pilhurë | noun | cloth
+pluhurë | noun | cloth
+pëlhurëndës | noun | weaver, textile worker
+pëlhurtar | noun | weaver, textile worker
+pëlhurtë | adj | textile, cloth-
+pëlore | noun | domestic animal that has borne young; ewe in lamb
+pëlqere | noun | antipodes
+pëlqimdashje | noun | flirtation
+pëlqimtar | adj | approbative
+pëlqirë | noun | virtue
+pëltuc | verb | press, squeeze
+pëlyr | verb | veil
+pëlleng | noun | stagnant pond; wash-tub, washing-pit; soaked, saturated
+pëllore | adj | fertile; fertile woman or animal; wet-nurse
+pëllorsi | noun | fertility
+pëllori | noun | fertility
+pëllsim | noun | fertility
+pëndar | noun | field watchman; farm worker, land worker; vine-dresser, vine-grower; bailiff, steward
+pëndlë | noun | pen
+pëndëz | noun | small pen
+pëndplump | noun | pencil
+pëndkuq | noun | rochet (fish)
+pëngoj | verb | push, jerk, nudge
+pënik | noun | panic grass; millet, red millet
+pëploj | verb | chirp, peep
+pëptij | verb | chirp, peep, squeak, make a sound
+pëqirë | noun | breastplate
+pëqitë | noun | brick, tile
