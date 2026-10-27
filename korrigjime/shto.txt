@@ -56335,3 +56335,60 @@ pergamen | noun | parchment
 pergaman | noun | parchment
 pergime | noun | visits paid by mourners after a death
 pergullë | noun | erection, stage; housetop
+# ── mannshto.tsv ──
+pergjel | noun | compass (for drawing circles)
+pergjell | noun | compass (for drawing circles)
+perifanepsem | verb | swagger
+perifani | noun | swagger
+perikullë | noun | peril, danger
+perimigë | noun | a flowering plant
+perimore | noun | small herbs, small vegetables; vegetable garden
+peripeti | noun | journeying, wandering
+peris | noun | diet
+periz | noun | diet
+periste | noun | plight
+peristjë | noun | circumstance
+perishan | noun | bridal crown, headdress, chaplet of sequins
+perushan | noun | bridal crown, headdress
+perivol | noun | garden; bower-garden; orchard
+perkë | noun | perch (fish)
+permë | noun | fear, fright; anger
+perondë | noun | nail
+peronas | noun | nail-maker
+peronë | noun | nail; spike; hook; peg; rivet; fibula (of lower leg)
+perone | noun | nail
+perperugë | noun | butterfly
+përpërugë | noun | butterfly
+perpelugëuji | noun | dragon-fly
+persejatje | noun | hard thinking, puzzling out
+persias | verb | ponder, puzzle out
+personë | noun | person
+perua | noun | nail; pin, peg
+perukë | noun | wig
+perusti | noun | tripod; game of "scrum"
+pervane | noun | butterfly
+pervaz | noun | cornice, window-frame, frame of door; shelf
+perri | noun | fairy
+pesdhiet | num | fifty
+pesdhetët | adj | fiftieth
+pesëgishtë | noun | cinquefoil
+pesëmeste | adj | fivefold
+pesësh | noun | sou, halfpenny, cent; mite, farthing; group of five
+pesfish | adj | quintuple
+pesluftim | noun | pentathlon
+pesmerç | noun | child born after its father's death
+pesmëstë | adj | fivefold
+pesmëzaj | adv | fivefold
+pesmëzoj | verb | multiply by five
+pesqind | num | five hundred
+pesrrokç | adj | (line) of five syllables
+pestilkë | noun | dried fruit chips
+pestrovë | noun | trout
+pesvjeçar | adj | five-year, five-year-old
+pesvjetshëm | adj | five-year
+pesh | noun | seam, border
+peshanë | noun | scale, balance
+peshimmatje | noun | measure of weight
+peshithi | adv | trailing, along the ground; by weight
+peshkar | noun | fisherman; crane (bird); gull
+peshkëtar | noun | fisherman, angler; kingfisher
