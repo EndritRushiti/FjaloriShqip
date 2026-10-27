@@ -57930,3 +57930,36 @@ pllacis | verb | flatten
 pllae | noun | upland
 pllagë | noun | slab
 pllakas | noun | game of curling
+# ── mannshto.tsv ──
+pllaneps | verb | deceive
+pllangë | noun | bar, lever; palm of hand
+pllanitë | noun | planet
+pllanjë | noun | plane (tool)
+pllaq | adj | foolish
+pllask | noun | slimy growth on water, pondweed
+pllaskë | noun | lath, roof-timber; snowflake
+pllashëm | adj | fertile
+pllat | adj | incandescent, glistening white; residue of snow left unmelted; snowslide
+pllatinë | noun | platinum
+pllë | noun | fertile domestic animal; suckling cow; goat or sheep being milked
+pllëjë | noun | fertile domestic animal
+pllehë | adj | fertile
+pllehshëm | adj | fertile, productive
+pllejshëm | adj | fertile, productive
+plloçëz | noun | small stone dish; small flagstone
+pllofkë | noun | popgun; peg used in a game
+pllokë | noun | scar
+pllore | noun | fertile animal
+pllua | adv | clean; unscathed, untouched
+pllumeshë | noun | hen-pigeon
+plluskë | noun | bubble, blister; popgun
+pllush | noun | coarse woollen sock or stocking
+pobratinë | noun | fraternisation, fraternity
+pocaq | noun | trouble, difficulty, pain, distress, suffering, torment, torture
+poçem | noun | valley; lowland, marsh
+poçrrina | noun | pottery, crockery
+poçkë | noun | pot, mug
+pod | noun | loft; storey, floor; cellar, basement; bottom; foot (measure); foot (of mountain); slope, upland
+podar | noun | watchman, ranger; bailiff, steward
+podis | verb | scare off (birds)
+podhe | noun | oilcloth, waterproof
