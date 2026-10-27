@@ -54732,3 +54732,32 @@ nusni | noun | bridehood, maidenhood, young womanhood
 nusnohem | verb | get engaged (of girl)
 nusnoj | verb | give in marriage; become a bride
 nuveg | noun | kind of owl
+# ── mannshto.tsv ──
+nuzullë | noun | store, stock, supply
+nvar | verb | hang, hang up
+nvesh | verb | clothe, dress
+nveshje | noun | garment
+nveshuna | noun | clothes
+nvierr | verb | hang
+nvis | noun | agent, steward, manager
+nvoes | verb | bedew
+nvras | verb | overpower, injure, bruise, kill
+nxar | noun | four nuts in a cluster
+nxehjegjakrash | noun | hot-bloodedness, hotheadedness
+nxehshëm | adj | heatable; irritable
+nxehtsi | noun | heat, warmth; fervour
+nxehtsinë | noun | heat; temperature
+nxehtsisht | adv | warmly, fervently
+nxemë | noun | heating, warming
+nxenshëm | adj | intelligent
+nxetë | adj | hot
+nzetë | adj | hot
+nxënsi | noun | capacity
+nxierr | verb | pull out, draw out, extract, remove
+nxier | verb | pull out, draw out, extract
+nxihtim | noun | haste, hurry
+nxihtoj | verb | urge, impel; hurry
+nzij | verb | blacken, turn black
+nxinj | verb | blacken, turn black
+nxitshëm | adj | hasty, rapid
+nxituarshëm | adj | hasty, rapid
