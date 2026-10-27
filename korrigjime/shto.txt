@@ -56041,3 +56041,48 @@ paskaj | adj | endless
 paskanj | adj | endless
 paskajtë | adj | interminable
 paskësaj | adv | henceforth
+# ── mannshto.tsv ──
+paskëtajthi | adv | henceforth
+paskëtajm | adj | future, subsequent, ulterior; forthcoming
+paskëtajshëm | adj | future, subsequent
+paskush | pron | each (one)
+pasme | noun | the rear
+pasmejtim | noun | afterthought
+pasmesdite | adv | in the afternoon; afternoon
+pasmi | adv | at last, in the end, lastly
+pasndjekës | adj | succeeding; successor
+pasneserm | adj | of the day after tomorrow
+pasnesërtjetër | adv | three days hence
+pasnjeh | verb | despise, disregard, look down on
+pasnjëni | pron | each (one)
+pasonjë | noun | continuation; consequence, result
+pasos | noun | infinitive, the infinite
+pasose | noun | infinitive
+pasosëm | adj | eternal, endless
+pasosmeni | noun | infinity, the infinite
+paspajë | noun | fine flour, flour dust
+paspalar | noun | miller
+paspilar | noun | miller
+paspallos | verb | sweeten; heighten, elaborate
+paspjegueshëm | adj | inexplicable
+paspjesë | noun | analogy, similarity, counterpart, proportion
+pasquem | adj | indefinite (gram.)
+pasquet | adj | indefinite (gram.)
+pasqyrëz | noun | table, chart
+passhënoj | verb | add (in postscript)
+pastafat | adv | purposely
+pastajme | noun | future; consequence; end; next day
+pastajshëm | adj | subsequent, following, later
+pastejshëm | adj | subsequent
+pastenag | noun | electric-ray fish
+pasterellos | noun | disease in lungs of goats
+pastërk | noun | step-son
+pastërkë | noun | step-daughter
+pastërm | noun | dried or smoked meat
+pastërt | adj | clean
+pastilë | noun | pastille
+pastoli | adj | plain, unadorned
+pastram | noun | dried or smoked meat
+pastrore | noun | cleaner, charwoman
+pasthirrëm | noun | interjection
+pasvan | noun | guard
