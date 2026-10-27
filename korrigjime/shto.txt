@@ -55737,3 +55737,59 @@ papërlyeshëm | adj | untarnishable; immaculate
 papërmirsueshëm | adj | incorrigible
 papërsosëm | adj | imperfect
 papërsosët | adj | imperfect
+# ── mannshto.tsv ──
+papërshpirtshëm | adj | irreligious, godless, impious
+papërshtatë | noun | irregularity, misdemeanour
+papërshtatsi | noun | unsuitableness
+papime | noun | thirst
+papinë | adj | without drink
+papirë | adj | thirsty
+papiros | noun | papyrus
+papishëm | adj | undrinkable
+papjellsi | noun | infertility, unproductiveness
+papjellori | noun | infertility
+papjesshëm | adj | non-participating, not involved
+papjestueshëm | adj | indivisible
+paplangë | adj | destitute, indigent
+paplasshëm | adj | non-exploding
+paplasur | adj | unexploded
+paplekshëm | adj | unaging
+paplakshëm | adj | unaging
+paplotsi | noun | incompleteness, imperfection
+papllomë | noun | quilt, eiderdown
+papni | noun | papacy; popery
+papor | noun | steamer
+paprajshëm | adj | incessant, continual
+paprajtë | adj | incessant
+paprapshëm | adj | irreversible
+papregatitje | noun | unpreparedness
+paprekëm | adj | untouched, intact, inviolate
+papremë | adj | incessant, uninterrupted
+paprehje | noun | unrest, disturbance; incessantly
+paprehshëm | adj | restless, irritable
+paprish | adj | unscathed, unhurt, uninjured, undamaged
+paprishëm | adj | unscathed, unhurt, undamaged
+papritesë | noun | agility, quickness
+papritë | adv | unexpectedly
+papritëm | adj | sudden, unexpected
+papritje | noun | surprise
+paprittueshëm | adj | eager, active, agog, restless; agile, busy
+paprodhimshëm | adj | unproductive
+paprokopsur | adj | unhappy, unlucky, unfortunate; down-and-out
+paprovueshëm | adj | reprobate
+papsoj | verb | quieten, still
+papsuar | adj | unaffected, unimpaired
+paptar | adj | papal, pontifical
+paptungj | adj | chubby, tubby, plump
+paptung | noun | peeled chestnut; darling
+papuer | adj | papal
+papulë | noun | bag, purse
+papuli | noun | bag, purse
+papunët | adj | idle
+papunsi | noun | idleness, inactivity, unemployment
+papunshëm | adj | idle
+paputhisur | adj | badly fitting, unjoined, unstuck
+paqdashës | adj | pacific, peaceful; pacifist
+paqef | adj | indisposed, unwell
+paqefsi | noun | indisposition; dislike
+paqem | verb | quieten, grow peaceful
