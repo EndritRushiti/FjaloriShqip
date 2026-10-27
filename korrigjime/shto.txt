@@ -58608,3 +58608,48 @@ pulmangëz | noun | fish-eating marsh bird
 pulpazë | noun | calf (of leg)
 pulpëz | noun | finger-tip
 pulqorthi | adv | game in which a blindfolded player is misled by others clinking stones
+# ── mannshto.tsv ──
+pulqyer | noun | thumb; dwarf
+pulugare | noun | leech
+pulvesh | noun | small cluster (of grapes)
+pulzezë | noun | a fish-eating bird
+pullalesh | adj | pied, piebald
+pullandris | verb | deck up, doll up
+pullar | noun | foal
+pullare | noun | filly
+pullas | noun | roof
+pullëndër | noun | soup made from nuts and garlic
+pulligri | noun | pilgrim
+pullos | verb | stamp (a letter)
+pullumbeshë | noun | a variety of solo dance
+pullundris | verb | deck up
+pumbakët | adj | cotton
+pumth | noun | stomach or entrails of bird
+pum | noun | stomach of bird
+punashkë | noun | purse
+punashë | noun | purse
+punjoshkë | noun | purse
+punç | noun | punch
+pundar | verb | stay, remain
+punend | noun | strong November wind
+punëlumë | noun | blockhead
+punëqyrës | noun | foreman, overlooker
+punëz | noun | little job, chore
+punëzezë | adj | hapless, unfortunate
+pungacë | noun | (kind of plant)
+pungë | noun | purse, wallet
+pungjezë | noun | window
+punhere | noun | epilepsy
+punil | noun | young shoot, esp. axillary bud of tobacco
+punilth | noun | small shoot
+punonjëm | noun | workman, artisan
+punonjsi | noun | activity
+punore | noun | workshop
+punsi | noun | activity
+punt | noun | point
+puntar | adj | working; hard-working, industrious
+puntori | noun | workshop; working class; wages
+puntorkë | noun | worker, worker-bee
+puntorsi | noun | workmanship; diligence, application
+punzi | noun | misfortune
+punzezë | adj | hapless
