@@ -40222,7 +40222,6 @@ angorë | noun | anchor
 angsht | adj | wild, rude, harsh
 angshti | noun | fear, anxiety
 angullis | verb | moan, groan, wail; whine
-angullij | verb | moan, groan, wail
 angullitje | noun | wailing, groaning, whining
 angurroj | verb | anchor
 angusë | noun | sorrow, anguish
@@ -41635,7 +41634,6 @@ burdel | noun | brothel
 burdhullak | noun | purslane
 vurdhullak | noun | purslane
 burek | noun | pie
-burk | noun | prison
 burgamë | noun | arrogance, impudence
 burgi | noun | iron post
 burgonjë | noun | Burgundy wine
@@ -41971,7 +41969,6 @@ conagrimë | noun | cotton thread
 copaçika | adv | in little bits
 copinë | noun | bit, fragment
 copkë | noun | bit, fragment; passage, extract
-coptoj | verb | shatter
 coptuar | adj | broken; desolate, heartbroken
 coptues | adj | breaking, smashing, crushing
 copzoj | verb | shatter
@@ -42078,7 +42075,6 @@ cyrle | noun | thrush
 çallmarkë | noun | a bird
 çallmazhuk | noun | a bird
 çallmushkë | noun | a bird
-çallme | noun | turban
 çallti | noun | (in phrase) bees at work
 çamak | noun | club
 çamarok | noun | fool, simpleton; disturber, mischief-maker
@@ -42209,7 +42205,6 @@ cyrle | noun | thrush
 çenakull | noun | dining room
 çendëllis | verb | embitter
 çeni | noun | porcelain
-çenturion | noun | centurion
 çepallkë | noun | variety of marrow dried and used as a bottle
 çepan | noun | a piece of armour
 çepke | noun | shock of hair
@@ -43292,7 +43287,6 @@ dricë | noun | fanlight, skylight
 driçim | adj | bright
 dridhë | noun | tremor, shock, horror; the shivers
 dridhëri | noun | trembling, tremor, shudder
-dridhme | noun | trembling, tremor
 dridhna | noun | quaker-grass
 drimcoj | verb | shatter, crush, pound; tremble
 drinas | noun | dweller in the Drin valley
@@ -44330,7 +44324,6 @@ fërtër | noun | fan
 fërtërim | noun | fanning
 fërtëroj | verb | fan
 fërrashtë | noun | stove
-fërreckë | noun | lucerne
 fërrik | noun | oven
 fërrlë | noun | spinning-top
 fëstan | noun | dress
@@ -44653,7 +44646,6 @@ fotografis | verb | photograph, snap
 foveri | noun | fear
 foveris | verb | terrify
 fozhnje | noun | infant
-fqi | noun | neighbour
 fqinjsi | noun | neighbourhood, vicinity, proximity
 fqinjëroj | verb | adjoin
 fqinjëzim | noun | proximity
@@ -45155,7 +45147,6 @@ gastagua | noun | pack-animal, donkey, mare
 gastan | adv | then, afterwards
 gastarinë | noun | glassware
 gastartë | adj | glass-, of glass
-gastër | noun | plot, area; district; slice
 gashërimë | noun | sobbing
 gashëronem | verb | sob
 gatër | noun | bunch of dry leaves
@@ -45566,7 +45557,6 @@ gorromim | noun | precipice
 gorromis | verb | dash down, overthrow, hurl down
 gorroshungë | noun | blue-bottle fly
 gorruzhdë | noun | porridge-spoon
-gostë | noun | banquet, feast
 gostiar | noun | host
 gostiare | noun | hostess
 gostitës | noun | host; entertaining
@@ -45587,7 +45577,6 @@ gozhdare | noun | stingy woman
 gozhdias | verb | nail
 gozhel | noun | seesaw, kind of roundabout
 grabcoj | verb | rob
-grabi | noun | robbery; graft
 grabitas | adv | with violence
 grabitçar | noun | robber, plunderer
 grabitçarem | verb | scold; rob
@@ -47725,7 +47714,6 @@ kallç | noun | lime
 kallçinë | noun | plate; last, boot-tree
 kalldërma | noun | cobble-stone paving
 kalldrun | noun | kind of mulberry
-kallep | noun | form, mould; model, impression, cast; boot-last; corncob; gramophone record
 kallup | noun | form, mould
 kallyp | noun | form, mould
 kallë | noun | slander; billhook
@@ -48060,7 +48048,6 @@ kartolle | noun | brushwood
 kartroz | adj | Carthusian
 karturina | noun | stationery
 kartushkë | noun | card, ticket
-karth | noun | yoke-peg of a plough
 karthël | noun | brushwood
 karthe | noun | brushwood
 karthela | noun | chips, shavings
@@ -48091,8 +48078,6 @@ karrinaqe | noun | affectation, pretence, presumption
 karriq | noun | net
 karrocar | noun | coachman, cabman
 karrocatar | noun | coachman
-karrocer | noun | coachman
-karroce | noun | carriage, coach, wagon
 karrosë | noun | carriage
 karrsh | adj | arid, barren
 karrube | noun | bee-hive
@@ -48235,7 +48220,6 @@ kavatoj | verb | imagine, contrive, think out; impress, imprint; awaken, arouse
 kave | noun | coffee
 # ── mannshto.tsv ──
 kavez | noun | cage
-kavi | noun | strength; mainspring; source, author
 kavis | verb | arise (out of), happen
 kavishëm | adj | firm, strong
 kaviti | noun | motive
@@ -48932,7 +48916,6 @@ kollandis | verb | rock, sway, wag, shake
 kollandisur | adj | weak, feeble
 kollanë | noun | Christmas or New Year's gift, usually a cake; wassailers' cake; belt; collar
 kllandë | noun | Christmas cake
-kollar | noun | bridle; collar
 kollçak | noun | cuff, wristband, armlet; braid on cuffs
 kollçik | noun | sock, short stocking; kind of gaiter
 kolle | noun | breast of meat; pulley
@@ -49061,7 +49044,6 @@ konxhë | noun | bud; haw, berry
 konxhel | noun | roundabout
 konjar | noun | rogue, rascal
 konjos | noun | swelling, boil
-kop | noun | peace-offering
 kopace | noun | truncheon, bludgeon
 # ── mannshto.tsv ──
 kopal | noun | copal
@@ -50543,8 +50525,6 @@ lavirem | verb | hang down, droop
 lavis | verb | hit, strike, wound
 lavjerc | noun | pendant, chain (of flowers); pendulum
 lavjerth | noun | pendulum; plumb-line, bob
-lavjerr | verb | hang, suspend, dangle; hang (a person)
-lavjerrë | noun | waterfall
 lavos | verb | wound
 lavreshë | noun | lark
 lavri | noun | study
@@ -51394,7 +51374,6 @@ lloçë | noun | a winter lake fish (shad, herring)
 llof | noun | gluttony
 llog | adj | limp, flabby; frail, ailing
 llogam | noun | 
-llogar | noun | accountant; account
 llogarim | noun | beat, time, rhythm
 llogarithëm | noun | logarithm
 llogë | noun | thicket; latch (of door); splint
@@ -51491,7 +51470,6 @@ magaçe | noun | small chopper
 magarc | noun | donkey, ass
 magaze | noun | 
 magazë | noun | 
-magazi | noun | 
 magaztar | noun | storekeeper
 magazoj | verb | store, hoard
 magese | noun | manganese
@@ -51622,7 +51600,6 @@ manganis | verb | card (wool)
 mangerush | adj | left-handed
 mângënoj | verb | calender, mangle
 mângërr | noun | sou, halfpenny
-mangoj | verb | 
 mângore | noun | embroidered shirt or jacket
 mangullis | verb | impress
 mangjët | adj | left, left-hand
@@ -52305,7 +52282,6 @@ mermertar | noun | marble-cutter
 meroj | verb | cook, prepare (food); mock, laugh at
 merpunoj | verb | undertake
 merqi | noun | 
-merqinjë | noun | 
 merqinë | noun | 
 merqis | verb | dispose of, ordain
 mershë | noun | 
@@ -52368,7 +52344,6 @@ mexhidi | noun | dollar, 20-piastre piece
 mezat | noun | auction
 mezatarisht | adv | 
 mezhollë | adj | slim, slender
-mezikë | noun | 
 meznatë | noun | 
 mezhd | noun | baulk, strip of land between fields; village corral
 mezhde | noun | baulk, strip of land between fields
@@ -52610,7 +52585,6 @@ mëshumët | adj | long since
 mëtëhapem | verb | boast
 mëtëkeqem | verb | worsen
 mëtëparsh | adv | at first, at the outset
-mëtrik | noun | tumour, gangrene, ulcer
 mëvesh | adj | indifferent
 mëvetëhesi | noun | 
 mëvitje | noun | anniversary
@@ -52797,7 +52771,6 @@ misrok | noun | turkey, turkey-cock
 misrroke | noun | turkey-hen
 mistrok | noun | turkey, turkey-cock
 misteri | noun | mystery
-mistër | noun | 
 mistrishe | noun | maize-cob
 mistros | verb | plaster (with a trowel)
 misur | noun | earthen pan, dish, bowl
@@ -53373,7 +53346,6 @@ mullarth | noun | trendle (of millstone)
 mullcë | noun | 
 mullej | noun | 
 mullevez | noun | cheat, deceiver
-mullez | noun | 
 mullërçuk | adj | pot-bellied
 mullmadh | adj | stout
 mullc | noun | miller
@@ -53486,7 +53458,6 @@ musolin | noun | muslin
 mustaqoç | adj | wearing moustaches, whiskered
 mustaqosh | adj | wearing moustaches, whiskered
 mustaqth | noun | small river fish; tuft (on maize); young furry shell of nuts
-mustaq | noun | 
 mustaqan | adj | whiskered
 mustaqës | noun | a river fish
 musteqe | noun | whiskers
