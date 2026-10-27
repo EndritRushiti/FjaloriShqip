@@ -54765,7 +54765,6 @@ nxituarshëm | adj | hasty, rapid
 nxonis | verb | force, constrain, hold, check
 nxonitje | noun | check, constraint
 nyjth | noun | callouse
-nyem | adj | bounded, limited
 nyerë | adj | jointed
 nyes | adj | knotty
 nyetar | adj | articulated, jointed, knotty; article (gram.)
@@ -54823,4 +54822,5 @@ njasoj | verb | unite, join, unify
 njatças | adv | at once, suddenly
 njatem | verb | last
 njatje | adv | there, yonder, that way
-njaze | noun | one, unit
+# ── mannshto.tsv ──
+njâzë | noun | one, unit
