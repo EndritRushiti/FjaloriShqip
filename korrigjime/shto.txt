@@ -56000,3 +56000,44 @@ parthin | adv | formerly, of yore
 parur | noun | wheat bread
 parvasë | noun | frame, cornice
 parverë | noun | spring (season)
+# ── mannshto.tsv ──
+parzim | noun | pairing off, coupling
+parzoj | verb | pair off, couple; fold, double
+parradi | noun | row, squabble; uprising, revolt
+parrafshë | adj | uneven, rough, rugged
+parrais | noun | paradise
+parrajs | noun | paradise
+parregull | noun | irregularity, confusion, mess
+parregullim | noun | breach of rules, violation, infringement; immoderation
+parregullshëm | adj | irregular
+parregulltë | adj | irregular
+parrënueshëm | adj | indestructible
+parrëzik | adj | safe, secure
+parrëzikshëm | adj | safe, secure
+parrip | noun | gelding
+parritshëm | adj | ungrown, undeveloped
+parrjesht | adj | disorderly, untidy, out of order; intemperately
+parrjeshti | noun | disorder, untidiness
+parrojtur | adj | unshorn, untonsured
+parrotulltë | adj | invertebrate
+parrudhshëm | adj | unshrinkable, non-shrinking, non-corrugating, unwrinkled; firm, unyielding
+parrudhët | adj | unshrinkable, unwrinkled
+parrugë | adj | wrong, illicit; wrongly
+pasandajmë | adj | subsequent; last
+pashaportë | noun | passport
+pasardhje | noun | succession; result
+pasardhur | adj | succeeding, subsequent
+pasdaj | adv | then, afterwards
+pasdrekshëm | adj | afternoon-
+pasdhe | noun | hinterland
+pase | noun | mirror
+pasëm | adj | rear, hind-; following, succeeding; later, subsequent; back; offspring, descendant
+pasëqyrë | noun | mirror
+pasfolje | noun | adverb
+pasiqer | noun | mirror
+pasiqirë | noun | mirror
+pasjatërt | adj | alternate, successive
+paskaj | adj | endless
+paskanj | adj | endless
+paskajtë | adj | interminable
+paskësaj | adv | henceforth
