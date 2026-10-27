@@ -55202,3 +55202,45 @@ paburrsi | noun | unmanliness, cowardice
 paburrshëm | adj | unmanly, cowardly
 pacakti | noun | inaccuracy
 pacaktim | noun | indefiniteness, vagueness; indetermination
+# ── mannshto.tsv ──
+pacanik | noun | apron worn by mountaineers
+pacaq | adj | homeless, unsettled
+pacavel | noun | dishcloth, kitchen rag; ragamuffin
+pacekët | adj | unblemished
+pacekshëm | adj | untouchable, immune
+pacen | adj | lazy
+pacenë | noun | laziness
+pacenshëm | adj | dilatory, lazy, negligent; incorrigible
+pacerkë | noun | funnel, tundish
+pacënosur | adj | untouched, inviolate, intact
+pacënueshëm | adj | untouchable, inviolable
+paciencë | noun | patience
+pacikshëm | adj | untouchable
+pacipët | adj | shameless, barefaced
+paçamur | noun | soup
+paçansueshëm | adj | indefinable, ineffable
+paçartshëm | adj | unchangeable, inviolable
+paçelëm | adj | unopened; undeveloped, potential, latent
+paçfaqshëm | adj | inexpressible, ineffable
+paçfaqur | adj | unexpressed; undisplayed, disguised
+paçka | conj | well, so
+paçkëputur | adj | unpaid, unsettled (of accounts)
+paçqitur | adj | integral
+paçquajtje | noun | indefiniteness
+paçquar | adj | indefinite, vague; abstract
+paçquarshëm | adj | indefinable
+padamë | adj | indivisible, undivided; incessant, continuous
+padâmtueshëm | adj | inviolable
+padasisht | adv | indivisibly
+padash | adv | involuntarily
+padashëm | adj | indivisible
+padashje | noun | unwillingness
+padashtas | adv | involuntarily, accidentally, unawares
+padashuraj | adv | involuntarily
+padêjshëm | adj | undignified
+padeksoj | verb | immortalise
+padekshëm | adj | immortal
+paderptim | noun | unruliness, want of discipline, disorder
+padirsur | adj | beardless
+padishëm | adj | unknown, obscure, unheard of; ignorant
+paditëri | noun | ignorance
