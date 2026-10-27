@@ -58393,3 +58393,49 @@ prokopsur | adj | fortunate, lucky, prosperous
 prokovacë | noun | bed-sheet, blanket
 prokudis | verb | try to steal, pilfer
 prokudish | noun | pilferer
+# ── mannshto.tsv ──
+promend | verb | mention; record; confess, admit
+prometonj | verb | promise
+prometuom | noun | promise
+pronaroj | verb | own
+pronarsi | noun | ownership
+prondim | noun | product, produce, production, output
+prondis | verb | produce, yield; bring about, cause
+pronditës | adj | productive, fruitful, fertile
+pronditje | noun | production
+pronjës | adj | possessing, possessive
+pronjësi | noun | (land-)ownership, possession
+pronjak | adj | property-
+pronjar | noun | landowner; landed, proprietary
+pronjëz | noun | small property
+propë | noun | crag; prow
+prorcë | noun | kind of cloth
+proseqe | noun | chips, chippings (from pruned tree)
+proskonis | verb | recover, collect
+prosodhi | noun | prosody
+proshmar | noun | grumbler, grouser
+proshmim | noun | slander, mischief-making; fault-finding
+proshmimtar | adj | slandering, mischief-making; slanderer, gossip
+proshtimë | noun | piece of skin straight from slaughtered animal
+proshtokuth | noun | rascal, rogue; fool; ghastly
+protestan | noun | Protestant
+protojen | noun | one-year-old kid; young kid
+protokall | noun | orange
+protokalë | noun | orange
+protogalle | noun | orange
+protoplazëm | noun | protoplasm
+proth | noun | booty, fruit, winnings; use, benefit
+prothoj | verb | be of use
+prothshëm | adj | productive
+provani | noun | providence
+provedonj | verb | provide
+proverbi | noun | proverb
+provimtar | adj | experimental
+provincar | adj | provincial
+provodina | noun | furnishings, effects, equipment
+provodis | verb | arrange
+provolis | verb | plunge (feet) into hot water
+prozopi | noun | strength
+pruçes | noun | lawsuit
+prudhë | adv | on the way
+pruej | verb | sack, rifle, plunder; defend
