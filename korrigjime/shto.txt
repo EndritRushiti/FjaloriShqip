@@ -54625,3 +54625,56 @@ nkuqje | noun | reddening; blush
 nkurajim | noun | encouragement
 nkurajoj | verb | encourage
 nkoj | verb | feed by hand, feed (an infant)
+# ── mannshto.tsv ──
+nlidh | verb | bind, fasten
+nobare | adv | at least
+noer | noun | thought
+noeroj | verb | think
+nofëll | noun | jaw, jawbone; cheekbone; clamp, grip, vice, holder
+nogajkë | noun | stilt
+nogolkë | noun | buttress, pier
+noj | pron | some, any
+nojfar | pron | some, a certain
+nokërth | adj | very small, tiny
+nomatis | verb | call by name, conjure, incantate, cite, quote
+nombërës | adj | lawgiving; lawgiver
+nomërisht | adv | legally
+nomët | adj | lawful, legal
+nomotis | verb | conjure, cite, quote
+nomshëm | adj | legal, legitimate, lawful
+nomtar | noun | doctor of laws, man of law
+nomvënës | noun | legislator
+nonse | conj | although
+normaliste | noun | student teacher; teachers' training-
+nortë | noun | woollen sandal, slipper
+norul | noun | ball of wool, distaff-full of wool
+nosillë | noun | stretcher
+nozillë | noun | stretcher
+noshtër | noun | young plant, sapling, seedling
+noshtërzë | noun | young plant, sapling
+notarak | adj | swimming, floating
+notis | verb | leak, sweat (of walls), drip; soak, saturate; swim
+notishëm | adj | damp, dank
+notkë | noun | sign, mark, impression
+notore | noun | fin; float
+notëtar | noun | swimmer
+novicë | noun | kind of gun
+nozikë | noun | knife worn in the belt
+nozullë | noun | stretcher
+nozull | noun | store, stock, supply, reserve
+nozullim | noun | treasure, prize, riches
+nqas | verb | bring near; admit; meet
+nqasem | verb | approach, come near; be admitted; come to blows with
+nqasje | noun | approach; admission
+nqoj | verb | wake, rouse
+nqonem | verb | wake up
+nquem | adj | awake
+nqull | verb | penetrate
+nqurdhis | verb | fix, affix
+nsish | pron | from them, of them
+nsosh | pron | from them, of them (fem.)
+nshoj | verb | deviate, waver, break faith
+nshtoj | verb | add
+nshurr | verb | wet, soak
+ntrash | verb | thicken, condense
+ntres | verb | melt
