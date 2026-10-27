@@ -57146,3 +57146,72 @@ përsëkthjellti | adv | out of a clear sky
 përsëlargu | adv | afar, from afar
 përsëlerg | adv | a long way off
 përsëllim | noun | burn, scalding, sting
+# ── mannshto.tsv ──
+përsëlloj | verb | burn, scorch; sting, nettle
+përsëmbari | adv | to perfection
+përsëmbrapthi | adv | backwards
+përsëpaku | adv | at least
+përsëprapi | adv | backwards; perversely, wrongly
+përsëprapthi | adv | backwards, the other way round
+përsëmprapthi | adv | backwards
+përsërish | adv | again
+përsërita | adv | again
+përsëriu | adv | again
+përsëriut | adv | again
+përsëshpejti | adv | soon
+përsëtepri | adv | too much, excessively
+përsëtepërmi | adv | too much
+përsëtreti | adv | for the third time
+përsi | adv | again
+përsejas | verb | plan, think out
+përsiell | verb | accompany; swallow
+përsiellë | noun | obsequies
+përsiellje | noun | manners, behaviour
+përsikë | noun | perch (fish)
+përsill | verb | accompany
+përsillem | verb | wander about, stroll about, roam
+përsimti | adv | in detail
+përsipërshëm | adj | superficial
+përsipje | noun | surface
+përsipshëm | adj | top, upper
+përsipri | adv | on top, above
+përsit | adv | again
+përsjatem | verb | debate, weigh
+përsjatme | noun | plan, draft
+përsjell | verb | accompany
+përsjellës | adj | concomitant; accompanist; side-dish, salad
+përsjellje | noun | accompaniment
+përsjellme | noun | gerund
+përskas | verb | sprinkle; bespatter
+përskatur | adj | speckled, spotted; bespattered
+përskej | adv | near by, near
+përskejt | adv | near by
+përslloj | verb | chap (skin)
+përspëris | verb | whisper; mutter, murmur
+përspëritje | noun | whisper; whispering, murmur
+përspjes | verb | train, drill; rear, bring up; do hurriedly
+përspjetim | noun | training, drilling; rearing, upbringing; education
+përspjetje | noun | training, upbringing
+përspjetoj | verb | train, rear, bring up
+përspjetues | adj | training; trainer, rearer; educator
+përsykët | adj | reddish, light red, red-roan; flea-bitten grey (of horses)
+përsypje | noun | surface
+përsypri | adv | on top, above
+përsysh | verb | eye, ogle
+përshaj | verb | bully, abuse
+përshëllij | verb | salt; whisper
+përshëllim | noun | whisper
+përshëmbëllej | verb | represent
+përshëndetshëm | adj | salutary, healthful
+përshëndosh | verb | greet; hug; say goodbye
+përshënim | noun | remark, insinuation
+përshënoj | verb | remark, insinuate
+përshëndritshëm | adj | transparent; illustrious
+përshënjtëroj | verb | consecrate
+përshihet | verb | crumbles, is pulverised
+përshikoj | verb | look over; overlook
+përshimë | adj | included, covered
+përshimje | noun | inclusion; inclusiveness
+përshitas | adv | inclusive; inclusive of
+përshkëndej | verb | refract (light)
+përshkëti | noun | plait
