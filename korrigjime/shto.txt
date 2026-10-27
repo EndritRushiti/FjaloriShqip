@@ -57274,3 +57274,69 @@ përtëkeq | adv | maliciously, with evil intentions
 përtëkeqem | verb | fly into a passion
 përtëmirë | adv | with good intentions, benignly
 përtëposhtë | adv | declining, falling, waning
+# ── mannshto.tsv ──
+përtërihet | verb | there is a new moon
+përtërim | noun | repetition, renewal
+përtërimë | noun | repetition, renewal
+përtëris | verb | repeat, renew
+përtërthur | verb | cross, pass
+përtidhësh | adj | childless
+përtonjës | adj | idle, lazy
+përtoqark | adv | all round; circumference
+përtoqarqe | noun | circumference
+përtrelë | noun | bolt, bar
+përtrij | verb | renew, restore
+përtrim | noun | renewal
+përtrimë | adj | renovated, renewed
+përtris | adj | repeating, repeated; renewed, recurrent; reproductive
+përtrishëm | adj | renewable
+përtritës | adj | repeating, renewed
+përtritje | noun | repetition, renewal, reproduction
+përtritshëm | adj | renewable
+përtrojc | adj | creeping, clambering
+përtrojcë | noun | young vineyard, low-growing vineyard; bungalow
+përtruej | verb | reflect, think over, meditate upon
+përtrus | verb | repress
+përtrusës | adj | repressive
+përtues | adj | idle, lazy
+përturpshëm | adj | shameful
+përtymoj | verb | smoke
+përtyps | verb | chew
+përtypc | adj | ruminant
+përthahem | verb | dry up, wither; heal up, form a scab
+përthem | verb | recite
+përthënë | adj | retold
+përthetij | verb | percolate, filter through
+përthetim | noun | percolation
+përthierm | adj | dark blue, indigo
+përthij | verb | turn grey
+përthihem | verb | turn grey
+përthikës | noun | bully, brawler
+përthimë | adj | grey
+përthirrës | adj | exclamatory; interjection
+përthitem | verb | kick up a row
+përthrras | verb | invoke
+përthurë | noun | texture
+përthej | verb | fold, bend
+përthehem | verb | twist, turn
+përthyeme | noun | refraction
+përthyemje | noun | fold, bend; reflection, refraction
+përthyenjës | adj | reflexive, refractive
+përudhë | adv | away, abroad; on a journey; on the way
+përunj | verb | abase, humble
+përulsi | noun | humility
+përulsisht | adv | humbly
+përulshëm | adj | humble
+përungj | verb | humble, abase
+përungjët | adj | humble, humiliated
+përungjsi | noun | humility
+përunjsi | noun | humility
+përunjsisht | adv | humbly
+përunjtje | noun | humility
+përushane | noun | bridal crowns
+përvajtoj | verb | deplore
+përvar | verb | incline, tilt
+përvarem | verb | incline; deviate; degenerate; desert, change faith; stray
+përvarë | adj | negligent
+përvazhdueshëm | adj | prosecutable
+përvdarje | noun | corruption
