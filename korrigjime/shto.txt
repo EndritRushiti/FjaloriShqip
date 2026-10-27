@@ -57265,7 +57265,6 @@ përtek | prep | addressed to, destined for; towards
 përtekë | noun | rod, switch
 përteposhtë | adv | falling, sloping downwards, dropping
 përter | verb | wipe, dry
-përtes | noun | idler, lounger, dawdler
 përtetim | noun | dedication
 përtetoj | verb | dedicate
 përtëkocë | noun | frog
