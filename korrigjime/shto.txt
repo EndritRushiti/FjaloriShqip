@@ -54761,3 +54761,66 @@ nzij | verb | blacken, turn black
 nxinj | verb | blacken, turn black
 nxitshëm | adj | hasty, rapid
 nxituarshëm | adj | hasty, rapid
+# ── mannshto.tsv ──
+nxonis | verb | force, constrain, hold, check
+nxonitje | noun | check, constraint
+nyjth | noun | callouse
+nyem | adj | bounded, limited
+nyerë | adj | jointed
+nyes | adj | knotty
+nyetar | adj | articulated, jointed, knotty; article (gram.)
+nyezim | noun | linking, conjugation
+nyjët | adj | jointed
+nyjoj | verb | add, say further
+nyjore | noun | articulata
+nyke | noun | great-granddaughter
+nylket | adj | overripe
+nylkur | adj | overripe
+nymtar | noun | reporter, informer
+nymtoj | verb | announce, inform
+nymnej | verb | turn pale
+nymnyem | adj | livid, ashen
+nymnyhem | verb | turn pale, become livid
+nymnym | noun | livor
+nyrth | noun | callosity, hard lump, growth
+nyrthoj | verb | make lumpy
+nyshtëri | noun | compunction, tenderness
+nytërim | noun | whisper, murmur
+nytrim | noun | whisper, murmur
+nytroj | verb | whisper, murmur
+nzanme | noun | eclipse
+nzej | verb | heat, warm
+nzehem | verb | get hot, get angry
+nzierr | verb | pull out, extract
+nzim | noun | eclipse
+nzis | verb | urge, incite
+nzitem | verb | hurry
+nzitim | noun | haste, hurry
+nzitje | noun | impulse, urge
+nzitoj | verb | hurry
+njac | noun | roe; caviar
+njaç | noun | roe; caviar
+njaças | adv | suddenly, unawares
+njadisa | pron | some, a few, a little
+njadó | pron | some, a few
+njady | num | one or two
+njaisoj | verb | unify, unite, join, fuse, level
+njaizoj | verb | unify, unite, join
+njaishëm | adj | like, same, identical, uniform
+njaitë | adj | one, single, identical, uniform, level, equal
+njaitas | adv | similarly, uniformly
+njaitazi | adv | similarly, uniformly
+njaiti | noun | unity
+njaiz | noun | singular
+njall | verb | rouse, revive, quicken
+njalldryshkë | noun | swallow
+njallje | noun | resurrection
+njanë | adj | sole, unique; partial
+njapak | adv | a little; slowly, a bit at a time
+njapërnja | adv | just the same
+njariç | adj | moody, peculiar
+njasoj | verb | unite, join, unify
+njatças | adv | at once, suddenly
+njatem | verb | last
+njatje | adv | there, yonder, that way
+njaze | noun | one, unit
