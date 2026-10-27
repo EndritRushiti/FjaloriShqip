@@ -54567,3 +54567,61 @@ nigël | noun | water-nymph, mermaid
 nigjah | noun | dowry, settlement; alimony
 nigjoj | verb | hear
 nijetoj | verb | intend
+# ── mannshto.tsv ──
+nikotin | noun | nicotine
+nimë | noun | couch, sofa
+nimeroj | verb | count
+ninëz | noun | pupil of the eye
+ninfë | noun | chrysalis
+ninul | verb | rock, lull (in a cradle)
+ninulis | verb | rock, lull (in a cradle)
+nipash | noun | nephew (sister's son)
+nipe | noun | niece, grand-daughter
+nipeshë | noun | niece, grand-daughter
+nipoll | noun | nephew; grandson
+nipsi | noun | nepotism
+nipstërnip | noun | great-grandson
+niq | noun | rent, hire
+niqar | noun | hirer
+niqas | verb | let, hire out
+niqasje | noun | letting, hire
+nirsë | noun | sweat
+nirth | verb | feel cold
+nisak | noun | novice
+nisës | adj | initial, beginner-; beginner, novice
+nisjak | noun | novice, beginner; initial, beginning
+nisjativë | noun | initiative, enterprise
+nistar | adj | initial, commencing; starter, beginner
+nistim | noun | initiation
+nistoj | verb | initiate
+nishastë | noun | starch
+nishatër | noun | ammonia; sal ammoniac
+nishestë | noun | starch
+nishk | noun | paralytic stroke
+nishkë | noun | waist
+nishti | adv | now
+nitër | noun | nitre
+njetoj | verb | aim, intend
+nkahe | noun | cause, reason
+nkahje | noun | cause, reason
+nkamati | noun | avarice
+nkeqem | verb | turn bad, worsen, deteriorate
+nkëdhollët | adj | mean, wretched, vile
+nkërkoj | verb | lay out flat, lay on its back
+nkëthej | verb | turn, turn round, reverse; return, give back; translate; convert; restore
+nkëthyeshëm | adj | tractable, manageable
+nkrahazim | noun | comparison
+nkrahazoj | verb | compare
+nkrahë | adv | on the shoulder
+nkrijoj | verb | create
+nkryej | verb | complete
+nkryet | adv | at the head
+nkryp | verb | salt
+nkthyej | verb | turn, return
+nkulpuom | adj | to blame, guilty
+nkuq | verb | redden, turn red
+nkuqem | verb | redden, blush
+nkuqje | noun | reddening; blush
+nkurajim | noun | encouragement
+nkurajoj | verb | encourage
+nkoj | verb | feed by hand, feed (an infant)
