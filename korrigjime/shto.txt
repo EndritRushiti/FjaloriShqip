@@ -58299,3 +58299,48 @@ prirsi | noun | slope
 prirtë | adj | sloping, steep, inclined
 pries | noun | leader
 priftërim | noun | priesthood
+# ── mannshto.tsv ──
+priftnisht | adv | as a priest
+prigje | noun | steps, stairs
+prigjim | noun | peeping, prying; eavesdropping, spying; lurking; observation
+prigjoj | verb | peep, pry; eavesdrop, spy; lurk; observe; watch; catch, overhear
+prigjues | adj | spying, eavesdropping; spy, eavesdropper
+prihet | verb | is sharpened; manages, succeeds
+prijsi | noun | leadership
+prijshëm | adj | suitable
+prikos | verb | endow, provide
+prille | noun | furnishings, effects
+prillon | verb | dusk falls
+prim | noun | bow (of ship)
+primor | noun | wired pole of armature
+prins | noun | prince
+prinxh | noun | brass
+prindar | adj | parental
+prinde | noun | parent
+prindja | noun | parents
+prindsi | noun | parentage; affinity
+prindsoj | verb | correlate
+prindor | adj | parental
+pringjipeshë | noun | princess
+prink | noun | chief, prince
+prinj | verb | lead
+prinjës | noun | leader
+prirët | adj | sloping, inclining, tending
+prirmë | adj | sloping
+prironj | verb | incline, turn, lead
+prirtas | adv | at an angle, diagonally
+primës | adj | leading
+prise | noun | woman leader; fertile (of cows)
+prisëm | noun | bag of firewood
+prisi | noun | leadership
+prinjësi | noun | leadership
+priskë | noun | (red-footed) bird
+prishalesh | noun | carder, comber
+prishaqefas | adv | downcast, downhearted
+prishë | noun | expense; lunch
+prishk | noun | blockhead
+prisht | noun | shoot, sprout
+prishtar | noun | corruptor
+prishtoj | verb | bud, shoot, sprout
+prishurina | noun | fragments, rubble
+pritar | noun | one who examines a denouncer
