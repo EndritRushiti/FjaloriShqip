@@ -56792,3 +56792,57 @@ përhedhët | adj | nimble
 përhera | adv | always, ever, for ever
 përherrë | adv | always
 përherët | adj | permanent, perpetual, continuous
+# ── mannshto.tsv ──
+përhëshëm | adj | temporary
+përhidhem | verb | bound, leap; wave, flap, flutter; fly about, scatter; show off, swank
+përhimerim | noun | dedication, consecration
+përhimeroj | verb | dedicate, consecrate
+përhihem | verb | see visions, fancy; imagine
+përhij | verb | scatter ashes about; besprinkle with ashes
+përhijen | noun | shade
+përhijenim | noun | shade
+përhijenoj | verb | shade, overshadow
+përhijtë | adj | fawn, ashen, grey, greyish, grey-brown; strewn with ashes
+përhimët | adj | fawn, ashen, grey
+përhinc | noun | stay-at-home, mollycoddle
+përhiqem | verb | be in throes of death
+përhir | verb | pardon
+përhirë | adj | gracious
+përhirimtar | adj | congratulatory
+përhirshëm | adj | gracious
+përhitë | adj | grey, ashen
+përhjedh | verb | blow (of wind)
+përhollet | verb | is unfurled (of a flag)
+përhosh | verb | caress, fondle
+përhoshës | adj | caressing; flattering; fondler; flatterer
+përhudhem | verb | jump about, frisk about
+përhukas | verb | perfume
+përhunjur | adj | humble, humiliated
+përhyrje | noun | introduction (of book)
+përhysht | verb | charm, fascinate, overpower
+përikje | noun | flight
+përitë | adj | brass, brazen
+përjap | verb | hand over, deliver
+përjarg | verb | slobber; beslobber, cover with spittle
+përjashtazi | adv | externally, outwardly
+përjashtë | adv | out; outside
+përjashtëm | adj | exterior, outer, external, outward
+përjashtëna | adv | outside, beyond; outside of
+përjashtësm | adj | exterior, external, outward
+përjashtme | noun | exterior
+përjavë | adv | weekly
+përjaz | adj | sad, melancholy; in mourning
+përjetsi | noun | permanence; immortality, eternity
+përjetsim | noun | perpetuation, permanence
+përjetsoj | verb | perpetuate, immortalise
+përjul | noun | stone for skimming over water
+përkaj | verb | concern
+përkalesi | noun | experience
+përkaqë | adv | insomuch as, wherefore
+prëkas | verb | touch
+përkitem | verb | be touched
+përkase | noun | requisite
+përkasje | noun | meeting, encounter
+përkatsi | noun | relation, connection; relevancy, suitability
+përkatsisht | adv | relatively, relevantly
+përkatshëm | adj | relative, relevant; corresponding; in question, particular
