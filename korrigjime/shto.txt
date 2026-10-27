@@ -55393,3 +55393,33 @@ pajtar | noun | patron, guardian; authority; veterinary surgeon
 pajtë | adj | peaceful
 pajti | noun | pact, contract
 pajtimdashës | adj | compromising, ready to make concessions
+# ── mannshto.tsv ──
+pajtore | noun | patroness, protectress
+pajuell | noun | deck (of ship)
+pakanunët | adj | illegal, illicit
+pakaptueshëm | adj | unsurpassable, unattainable
+pakemos | adv | near; nearly, about
+pakepak | adv | little by little
+pakeq | adj | innocent, harmless, simple
+pakeqe | noun | innocence
+pakeqsi | noun | innocence, frankness
+pakëmyem | adj | adamant
+pakënaqsi | noun | discontent, dissatisfaction
+pakëndueshëm | adj | unreadable, illegible; illiterate
+pakërshtenë | adj | un-Christian, non-Christian
+pakëzith | adv | a little
+pakfon | noun | kind of nickel-silver
+pakfong | noun | kind of nickel-silver
+pakollajshëm | adj | difficult
+pakondend | adj | discontented, dissatisfied
+pakrejmë | adj | leaderless; infinite, endless, boundless
+pakreshtën | adj | un-Christian
+pakryem | adj | imperfect (gram.)
+pakrysi | noun | lack of leadership, anarchy
+pakryshëm | adj | unachievable
+pakrypët | adj | insipid, tasteless
+paksel | verb | caulk, plug, stop up, bung
+paksi | noun | littleness, fewness
+paksim | noun | reduction, diminution, fall; subtraction
+paksimadh | noun | rusk; kind of biscuit or cake
+paksima | noun | rusk
