@@ -57466,3 +57466,37 @@ pjellorsi | noun | fertility
 pjellsi | noun | fertility
 pjellsim | noun | fecundity
 pjellzim | noun | fertilisation, fructification
+# ── mannshto.tsv ──
+pierr | verb | incline, tilt
+pierrme | noun | tendency, trend
+pietat | noun | pity, mercy
+pigamer | noun | prophet
+pijamber | noun | prophet
+pigan | noun | rue (bot.)
+pigël | noun | stone oil-jar
+pigull | adj | exhausted, faint
+piguillohem | verb | fall exhausted, faint
+pihas | verb | falter, languish, be exhausted
+pijar | noun | spa-guest
+pijellë | noun | lane, passage
+pijesinë | noun | drink, beverage
+pijtas | adv | while drinking
+pijull | noun | lament, mourning
+pikabardh | adj | white-spotted
+pikalar | adj | spotted, speckled
+pikalarthi | adv | at random, by chance
+pikalas | verb | dot, point, stud
+pikalash | adj | dotted, spotted
+pikalec | adj | dotted, spotted
+pikaleckë | noun | spot, marking; spotted snake
+pikaris | verb | speckle, dot, spot, chequer
+pikëmesnatë | noun | dead of night, midnight
+pikëpresë | noun | semicolon
+pikëpshtetje | noun | fulcrum; (operative) base
+pikëpyetës | noun | question-mark
+pikëpyetse | noun | question-mark
+pikëqarkës | noun | compass (for drawing circles)
+pikëri | noun | punctuality
+pikërr | noun | spirit, gin
+pikëthirrës | noun | exclamation-mark
+pikëarritje | noun | terminal point, terminus, goal
