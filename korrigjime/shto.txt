@@ -56302,3 +56302,36 @@ pendimtar | adj | penitent, repentant; penitential
 pendirem | verb | repent
 pendlik | noun | ring by which oxen are attached to yoke
 pendonem | verb | repent
+# ── mannshto.tsv ──
+penez | noun | old silver coin (now used as ornament)
+penërohem | verb | struggle, toil, slave
+pengac | adj | crumpled up, contracted, doubled
+pengcë | noun | pledge, pawned article
+pengicë | noun | tether
+pengimtar | adj | obstructive; obstructionist
+pengore | noun | block, scotch
+pengruajtës | noun | depositary
+pengsim | noun | surety, hostage
+pensionat | noun | boarding-house
+pentekostë | noun | Whitsuntide
+penxherkë | noun | small window
+penjë | noun | kind of edible rush; part of a lemon
+peperonë | noun | a figure dressed up in leaves at Easter (fertility rite)
+peperunë | noun | poppy
+peperuqe | noun | capsicum
+perajkë | noun | washing-stick, beater
+perandim | noun | empire, monarchy
+perandoj | verb | rule, dominate
+perandorik | adj | imperial
+perç | noun | uncastrated goat; bell-wether
+perenik | noun | faithful guide, reliable man
+perësh | noun | bunch, cluster; stump, block
+perëndilutës | adj | superstitious
+perëndindruanjës | adj | godfearing
+perëndush | noun | child-god, cupid
+perfet | adj | perfect
+perfosfat | noun | hyperphosphate
+pergamen | noun | parchment
+pergaman | noun | parchment
+pergime | noun | visits paid by mourners after a death
+pergullë | noun | erection, stage; housetop
