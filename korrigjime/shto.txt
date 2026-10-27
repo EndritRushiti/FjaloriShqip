@@ -57660,3 +57660,54 @@ pistoloj | verb | fire at (with a pistol)
 pistrik | noun | kind of fig
 pishar | noun | torch
 piskaz | adv | hurriedly, hastily
+# ── mannshto.tsv ──
+pishëm | adj | drinkable; drunk; half-drunk
+pishët | adj | pine, of pine, of deal; hard (of wood)
+pishkatuar | noun | fisherman
+pishqar | noun | fisherman
+pishtaje | noun | pod
+pishtak | noun | torch
+pishtëllij | verb | whisper
+pishtëllim | noun | whisper, murmur, muttering, rustle
+pishtëllimë | noun | whisper, murmur
+pishtëllinjës | adj | whispering; whisperer; murmurer; talebearer, slanderer
+pishtëllonjës | adj | whispering; whisperer
+pishtëllis | verb | whisper
+pishtëlloj | verb | whisper
+pishtole | noun | pistol
+pishtull | noun | epistle
+pitakë | noun | breve (mus.)
+pitëgjarpën | noun | apple roll, fruit roll; cake made from peas
+pitrop | noun | steward, manager, bailiff, administrator, warder, guardian
+pitse | noun | beetroot
+piturë | noun | picture
+pituroj | verb | paint
+pithë | noun | gaiters
+pithik | noun | ape
+pixë | noun | cap, hood
+pixhamë | noun | pyjamas, sleeping-suit
+pixhere | noun | window
+pizatem | verb | strive, try hard
+pizaveng | noun | low wretch, procurer, pimp
+pizëri | noun | show, swagger; sophistry
+pizgëz | noun | small splinter
+pizgër | noun | chip, splinter; metal shaving or turning; tongs, tweezers
+pizoj | verb | whisper
+pizull | noun | spook, bogey, devil; candlestick
+pizhamara | noun | pyjamas
+pjakë | noun | old woman
+pjakri | noun | old age
+pjaneps | verb | deceive
+pjanofortë | noun | pianoforte
+pjarimtar | noun | beggar
+pjatazë | noun | small plate, saucer
+pjazm | noun | human being, creature
+pjazmë | noun | life
+pjegull | noun | pitch
+pjegullë | noun | pitch
+pjeguloj | verb | pitch, tar
+pjekallarthi | adv | by chance, haphazard
+pjekarathi | adv | by chance, haphazard
+pjekëm | adj | roasted, done; ripe; baked, hardened
+pjekmeni | noun | maturity
+pjekoj | verb | tether
