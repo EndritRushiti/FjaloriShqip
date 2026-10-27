@@ -55685,3 +55685,55 @@ panuç | adj | mud-bespattered
 panumërtë | adj | countless, innumerable
 panumurtë | adj | countless, innumerable
 panzehir | noun | wart on horses and donkeys (kept as a charm)
+# ── mannshto.tsv ──
+panjeshëm | adj | countless, untold, innumerable
+panjejtë | adj | unequal
+panjerëz | adj | uninhabited
+panjerzi | noun | inhumanity
+panjerzishëm | adj | inhuman, inhumane; uncivil
+panjisi | noun | lack of uniformity, inequality, unevenness, variation, variety
+panjëjsi | noun | lack of uniformity, inequality
+panjishëm | adj | unequal, uneven, varied, irregular
+panjofshëm | adj | unknown, unknowable
+panjojtshëm | adj | unknowable, unrecognisable
+panjollsi | noun | stainlessness
+papajcuarshëm | adj | irreconcilable
+papajtim | noun | inconsistency, incompatibility
+papamë | adj | unseen, invisible
+papandehuraj | adv | unexpectedly
+papandyerthi | adv | unexpectedly
+papanë | adj | unseeing
+papaqëm | adj | unclean
+papaqsi | noun | uncleanness
+papaqtueshëm | adj | warlike, restless
+paparapamë | adj | unforeseen
+paparude | noun | poppy; anemony
+paparunde | noun | poppy
+papas | adj | poor, indigent
+papasë | adj | poor, indigent
+papasëm | adj | poor, indigent
+papasme | noun | poverty
+papeçatshëm | adj | unspoilable; safe from harm
+papemë | adj | fruitless
+papemët | adj | fruitless
+papemsi | noun | fruitlessness
+papemshëm | adj | fruitless, unfruitful, barren
+papendim | adj | unrepentant
+papesësh | adj | impecunious
+papërçamë | adj | undivided
+papërdlyeshëm | adj | merciless, pitiless
+papërdllyeshëm | adj | merciless, pitiless
+papërenë | adj | uncircumcised
+papërfundshëm | adj | not final, inconclusive
+papërgjajtur | adj | incomparable
+papërgjashëm | adj | dissimilar
+papërgjegjsi | noun | irresponsibility
+papërkatsi | noun | irrelevance
+papërkatshëm | adj | irrelevant
+papërkor | adj | immoderate, avaricious, greedy, intemperate
+papërkori | noun | intemperance, immoderation, greed
+papërkulët | adj | inflexible, unbending
+papërlyeshëm | adj | untarnishable; immaculate
+papërmirsueshëm | adj | incorrigible
+papërsosëm | adj | imperfect
+papërsosët | adj | imperfect
