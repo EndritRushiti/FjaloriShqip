@@ -58059,3 +58059,45 @@ porpollog | noun | quail
 porpolloshkë | noun | small quail
 porpollak | noun | lark
 porsalyer | adj | newly painted
+# ── mannshto.tsv ──
+portafol | noun | portfolio
+portalle | noun | partridge
+portareshë | noun | woman gatekeeper, porter's wife
+portjer | noun | gatekeeper, doorman, porter; goalkeeper
+portokallët | adj | orange-
+porrëz | noun | game with stones
+porrezi | noun | game with pebbles
+posaç | adj | special
+posaçi | noun | necessity, supply
+posaçisht | adv | especially
+posaqëm | adj | special
+posaqi | noun | trouble, pain
+posaqis | verb | trouble, pain
+posek | noun | prime beef, fattened livestock
+possi | conj | as, like
+posiç | conj | as, like
+posikundrës | conj | as, like
+posikurse | conj | as if, as though
+postaf | noun | trough; catchment; water-basin; fish-barrel; wine-vat; area cleared by mowing
+postav | noun | trough; water-basin
+postafat | adv | purposely, on purpose
+postahe | noun | quilt, blanket
+postaletër | noun | postcard
+postas | verb | weaken, enfeeble, exhaust
+postatem | verb | pine, languish
+postbartës | noun | postman
+postdas | noun | postman
+postek | noun | fleece
+posterkë | noun | step-daughter
+postërkinjë | noun | step-daughter
+postimosur | adj | consumptive
+postkartë | noun | postcard
+postkomandë | noun | outpost
+postpërdas | noun | postman
+postre | noun | shelter, verandah; porch, lobby, vestibule; roof-gutter; gutter
+postrehë | noun | shelter, porch
+posttelegrafanë | noun | post-office
+posullë | noun | note, message
+posull | noun | note
+poshtash | adv | from below
+poshtërm | adj | lower, inferior
