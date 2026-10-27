@@ -56529,3 +56529,50 @@ përboll | adv | enough, ample
 përborëm | adj | snow-white
 përbotsi | noun | universality
 përbrendsa | noun | interior; intestines; heart
+# ── mannshto.tsv ──
+përbrij | verb | butt into, charge
+përbrijët | adj | lateral
+përbrinjët | adj | lateral
+përbrijshëm | adj | adjoining, adjacent
+përbryllem | verb | prop oneself up on elbow, rest on one's elbows
+përbuej | verb | lodge, put up, quarter; spend the night; watch over, guard; rise (of moon); spend
+përbujtë | adj | proud
+përbujtje | noun | lodging, quartering, quarters; spending the night
+përbujtore | noun | bedroom
+përbules | verb | spice, season
+përbulmes | verb | feed on buttered food
+përbus | verb | scorn, despise
+përbusi | verb | scorn, despise
+përbuzë | adv | to the brim
+përbuztar | noun | mocker, sneerer
+përbyth | verb | truncate, cut down; sole; overwhelm; bully, abuse, illtreat, tan, thrash
+përcakti | noun | accuracy, exactitude
+përcas | verb | mate (of goats); burst
+përcenës | adj | irritable, ill-tempered; painstaking; irritant
+përcepët | adj | diagonal
+përcëllak | noun | roll or cake baked in ashes; sharp, keen, cutting
+përcëllij | verb | toast, roast; singe
+përcëllis | verb | toast, roast; singe
+përcëllohet | verb | crackles (of fire); smarts
+përcell | verb | accompany
+përciellës | noun | guide, companion, attendant; escort
+përciellje | noun | accompaniment; escort
+përcielltme | noun | present participle
+përcielltore | noun | gerund, participle
+përcipe | adv | on the surface
+përcipër | adv | on top, above
+përcipërisht | adv | superficially
+përcipët | adj | superficial, skin-deep, shallow
+përcipshëm | adj | superficial
+përcipje | noun | surface
+përckë | noun | butcher's broom (ruscus aculeatus)
+përcllake | noun | twigs, undergrowth
+përcllinë | noun | sun-parched land
+përclloj | verb | toast, roast; singe; parch, bake
+përçak | noun | uncastrated goat (kept for breeding)
+përçals | verb | overwhelm
+përçapës | adj | ruminant
+përçapshëm | adj | chewable
+përçarthi | adv | ravingly
+përçiq | noun | short span
+përçitem | verb | mate (of goats); become pregnant (of she-goat); make a mess of oneself
