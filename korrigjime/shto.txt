@@ -56632,3 +56632,56 @@ përdredhc | adj | vain, conceited
 përdredhëm | adj | winding, roundabout, devious, tortuous; wily, artful, tricky; fascinating
 përdredhëz | noun | coil
 përdredhim | noun | curling, waving
+# ── mannshto.tsv ──
+përdrejt | adv | upright; straight for, towards
+përdrejtoj | verb | direct
+përdrejtohem | verb | make for
+përdris | verb | illuminate
+përdritët | adj | transparent
+përdritsi | noun | transparency
+përdritsoj | verb | shine upon
+përdroje | noun | consumption, using up
+përdorë | adj | handy, convenient
+përdukje | noun | show, showing off, display, swagger
+përdukshëm | adj | transparent
+përdyj | verb | swallow
+përdys | verb | repeat
+përdhake | noun | ant
+përdheckë | noun | ground floor; bungalow; ant
+përdhekoj | verb | preach
+përdhel | verb | deceive, cheat
+përdhelmë | noun | deception, fraud
+përdheskë | noun | ground floor
+përdheshëm | adj | on the ground, grounded
+përdhiej | verb | besmirch with dung, bedung
+përdhikul | noun | variety of fig
+përdhimbtim | noun | sympathy, consolation, condolence
+përdhunët | adj | forced
+përenë | noun | circumcision
+përeroj | verb | scent, perfume
+përersoj | verb | scent, perfume
+përerret | verb | be dazzled
+përes | verb | cut
+përetë | adj | cut off
+përenbrenda | adv | inside
+përendënë | prep | under
+përfam | verb | spread (a rumour), broadcast
+përfaqe | adv | openly; apparently, evidently; on the face
+përfaqëz | adv | openly, publicly
+përfaqje | noun | display; side-taking, adherence
+përfaqës | adj | representative
+përfaqsi | noun | agency, representation
+përfaqsim | noun | agency, representation; exterior
+përfaqsoj | verb | represent
+përfaqsonjës | adj | representative
+përfaqsueshëm | adj | representative
+përfaqshëm | adj | exterior
+përfaronj | verb | exterminate, waste
+përfaruom | adj | waste, desolate
+përferkas | verb | stop; stay
+përfikosem | verb | shudder
+përfillës | adj | regardful, considerate; decent
+përfitonjës | adj | profitable
+përfjaloj | verb | dispute
+përflakës | noun | incendiary
+përflakoj | verb | scorch; roast, toast
