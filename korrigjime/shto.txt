@@ -57215,3 +57215,63 @@ përshimje | noun | inclusion; inclusiveness
 përshitas | adv | inclusive; inclusive of
 përshkëndej | verb | refract (light)
 përshkëti | noun | plait
+# ── mannshto.tsv ──
+përshkoq | verb | waste, squander, scatter; grab, seize; wipe up
+përshkrep | verb | graze
+përshkrimtar | adj | descriptive
+përshkurtim | noun | abbreviation, abridgement, summary
+përshkurtoj | verb | shorten, abridge, abbreviate, summarise, condense; curtail
+përshllij | verb | whisper
+përshmoj | verb | despise
+përshof | verb | perceive, notice
+përshoqnoj | verb | associate
+përshpatë | adv | at the side, from the side
+përshpëris | verb | whisper; rustle
+përshpërimë | noun | whisper, whispering; rustle
+përshpëritje | noun | whisper, whispering
+përshpirtem | verb | cringe, toady, fawn
+përshpirtës | adj | edifying, uplifting
+përshpirtje | noun | service for the dead, requiem; piety
+përshpjes | verb | come upon (someone)
+përshpjetem | verb | arrive unexpectedly
+përshqas | verb | slide over, glide over
+përshqis | verb | graze, touch, verge on
+përshquej | verb | separate; distinguish
+përshquar | noun | distinction, discrimination
+përshqyej | verb | tear up, lacerate, mangle; pull apart; understand
+përshtatas | adv | fitly, suitably, aptly
+përshtatsi | noun | fitness, suitability
+përshtesë | noun | twaddle
+përshtije | noun | nausea, loathing
+përshtim | noun | propagation
+përshtimë | adj | adjoining, adjacent
+përshtitshëm | adj | sickening, loathsome
+përshtoj | verb | add; adjoin; affix
+përshtroj | verb | submit
+përshtues | noun | connecting particle; adjective; twaddler, gossip
+përshtueshëm | adj | additional
+përshtyej | verb | push out, thrust out; repel
+përshtyhem | verb | throng, press round
+përshumët | adj | excessive
+përtak | adj | idle, lazy
+përtacnisht | adv | idly, lazily
+përtanishëm | adj | for the present, temporary
+përtardhëm | adj | future
+përtardhme | noun | future
+përtashëm | adj | present, temporary, provisional
+përtejsëm | adj | yonder, further, on the other side
+përtejnatyrshëm | adj | supernatural
+përtek | prep | addressed to, destined for; towards
+përtekë | noun | rod, switch
+përteposhtë | adv | falling, sloping downwards, dropping
+përter | verb | wipe, dry
+përtes | noun | idler, lounger, dawdler
+përtetim | noun | dedication
+përtetoj | verb | dedicate
+përtëkocë | noun | frog
+përtëgjallë | adv | during one's lifetime
+përtëgjatë | adv | along; during all, throughout
+përtëkeq | adv | maliciously, with evil intentions
+përtëkeqem | verb | fly into a passion
+përtëmirë | adv | with good intentions, benignly
+përtëposhtë | adv | declining, falling, waning
