@@ -58007,3 +58007,55 @@ poltis | verb | pass, accept, sanction, consent to; decide
 poltishëm | adj | acceptable
 pollagaç | noun | youngster, stripling
 pollikë | noun | waist (of body)
+# ── mannshto.tsv ──
+pollunb | noun | pigeon, dove
+pombë | noun | pomp, show
+pombok | adj | chubby, plump
+pombol | noun | unwatered patch in a field
+pomend | verb | mention, record
+pomendare | noun | memorial, monument
+pomende | noun | memorial; memory
+pomendore | noun | memorial, monument
+pomendshëm | adj | memorable
+pomodis | verb | freeze, chill
+pomorre | noun | dazedness; sleepy sickness
+pomotis | verb | freeze
+pomotitem | verb | be numbed with cold
+ponç | noun | punch (drink)
+pond | noun | point, centre; a measure of length
+poni | noun | respect, reverence, dignity, honour; awe; ceremony; chivalry
+ponicë | noun | platter; plate for bread-baking, bread-pan; oven, stove; flagstone, tombstone; pot, flower-pot
+ponori | noun | whirlpool
+popare | noun | cock-and-bull tale
+popo | interj | alas!
+popor | conj | but, however
+populldashës | adj | public-spirited; popular, democratic
+popullorsi | noun | popularity
+popurish | verb | scratch about (as fowl)
+pupuris | verb | scratch about (as fowl)
+poqë | conj | as, since
+pordhall | adj | timid
+pordhar | noun | shuffler
+pordhash | adj | wind-breaking
+pordhicë | noun | bubble, bladder
+pordhosh | adj | idle, good-for-nothing; scamp, rake
+pore | noun | rill of water caused by rainfall; passage, transit
+porend | noun | hedge
+poreps | verb | alleviate, heal
+porepsem | verb | recover
+pores | noun | tax
+porez | noun | tax
+porfirë | noun | (regal) purple
+porfyrë | noun | (regal) purple
+porfirtë | adj | scarlet, purple
+poroli | noun | grimace
+poronicë | noun | scion, cutting, runner
+porosim | noun | registration
+porosij | verb | order; command, demand
+porotnik | noun | juror, juryman
+porozhde | noun | tether
+porpollok | noun | quail
+porpollog | noun | quail
+porpolloshkë | noun | small quail
+porpollak | noun | lark
+porsalyer | adj | newly painted
