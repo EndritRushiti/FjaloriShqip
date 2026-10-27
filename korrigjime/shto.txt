@@ -57416,7 +57416,6 @@ përresh | verb | sand, cover with sand
 përroj | noun | stream, torrent
 pëskat | adv | out of spite, in defiance; in spite of
 pësh | adv | in whispers
-pëshpërim | noun | whisper
 pëshpëritem | verb | sigh; whisper; rustle
 pëshpëshje | noun | whispering
 pësht | adv | quickly, at once
