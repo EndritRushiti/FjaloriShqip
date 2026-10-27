@@ -58145,3 +58145,40 @@ prahje | noun | rest
 prajkë | noun | drumstick
 praksim | noun | aberration, wandering, vagrancy, truancy
 praksohem | verb | wander, stray, get lost; play truant; go to the bad
+# ── mannshto.tsv ──
+pratikë | noun | practice, experience, practical considerations
+pratekonj | verb | work, deal
+pram | adv | in the evening; last night
+pramatare | noun | woman peddler
+pramati | noun | trade, business, occupation; goods, wares
+pramje | noun | evening
+pramshëm | adj | evening-
+pramverë | noun | spring (season)
+prandej | adv | therefore
+prandajta | adv | therefore
+prand | noun | distraction, break, change, rest
+prandi | noun | distraction, break, rest
+prandis | verb | distract; break off, knock off; interrupt; swing, dangle; rest (from work)
+pranditem | verb | waste time, loaf
+pranmik | noun | neighbour
+pranmiqë | noun | neighbours
+pranës | noun | helper, assistant
+pranisht | adv | at present, nowadays
+pranimesës | noun | third finger
+pranueshmeni | noun | acceptability, plausibility
+prapamejtim | noun | hidden intention
+prapaniksi | noun | backwardness; delinquency
+prapaqenë | noun | background (of stage)
+prapashtim | noun | ending, inflection; suffix
+prapavepri | noun | retroaction, retrospectiveness
+prapazit | adv | back; behind
+prapëm | adj | last, rear, hindmost
+prapëmas | adv | backwards
+prapëmi | adv | at length
+prapëndere | noun | threshold
+prapësm | adj | rear
+prapët | adj | back, rear; perverse; vain
+prapohem | verb | recoil, retreat
+prapsej | adv | backwards
+prapsesi | adv | hence, therefore
+prapsi | noun | retrogression; detriment, drawback, handicap; adversity, bad times; bad luck, mishap, misfortune; perversity
