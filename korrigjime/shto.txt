@@ -56685,3 +56685,54 @@ përfitonjës | adj | profitable
 përfjaloj | verb | dispute
 përflakës | noun | incendiary
 përflakoj | verb | scorch; roast, toast
+# ── mannshto.tsv ──
+përfles | verb | turn over (pages), look through (a book)
+përfletoj | verb | peruse (a book)
+përflush | verb | overflow
+përfllis | verb | cook quickly
+përfolës | noun | talker; slandered; debater; accuser
+përfolje | noun | discussion, debate; conversation; charge, accusation, denunciation
+përfor | verb | parch, dry (soil)
+përfrigueshëm | adj | terrifying, terrible
+përfshiës | adj | comprehensive; sweeping, drastic; widespread
+përftik | verb | dry up
+përfundesë | noun | consequence
+përfundëm | adj | final, definite, conclusive; ultimate
+përfundërisht | adv | finally, conclusively
+përfundët | adj | bottom
+përfundit | adv | below
+përfundshëm | adj | lower, inferior; final, conclusive, peremptory
+përfuntëm | adj | final, conclusive
+përfuqim | noun | reinforcement
+përfuqis | verb | reinforce
+përfuqoj | verb | reinforce
+përfushët | adj | flat; level, even; (on the) ground floor; shallow
+përfys | verb | seize by the throat, throttle
+përfytemi | verb | fly at each other's throats, come to grips
+përfytje | noun | struggle; wrestling; clasp, embrace; collaboration
+përfytyrimisht | adv | figuratively, metaphorically; by way of illustration
+përftyrim | noun | illustration; reflection; conception; representation
+përftyroj | verb | illustrate; reflect; conceive, imagine; form; represent
+përgaç | noun | apron
+përgaçe | noun | apron
+përgaçkë | noun | pinafore; small apron; child's bib
+përgadis | verb | prepare
+përgaditje | noun | preparation
+përgazshëm | adj | glad, joyful
+përgëmem | verb | branch out, ramify
+përgëmje | noun | branching out, ramification
+përgëdhel | verb | caress, fondle
+përgëledh | verb | caress, fondle
+përgëzohet | verb | brush round (of a dog)
+përgëzonjës | adj | cheering, approving; congratulatory
+përgishte | noun | duel
+përglas | verb | spread, broadcast; prolong
+përgledh | verb | caress, fondle
+përgoj | verb | gossip about; repeat, mumble, mutter; pronounce; defile
+përgone | noun | lavatory
+përgrimë | adj | contrite
+përgrimosur | adj | weak
+përgushë | noun | frill, ruff
+përgjajsim | noun | resemblance, parallel, analogy; image
+përgjajtme | noun | resemblance
+përgjajtur | noun | resemblance
