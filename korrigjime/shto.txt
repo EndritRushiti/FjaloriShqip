@@ -57963,3 +57963,47 @@ pod | noun | loft; storey, floor; cellar, basement; bottom; foot (measure); foot
 podar | noun | watchman, ranger; bailiff, steward
 podis | verb | scare off (birds)
 podhe | noun | oilcloth, waterproof
+# ── mannshto.tsv ──
+poene | adv | also, as well; even
+poetar | noun | poet
+pof | noun | game of hitting the stick
+pofkë | noun | lump, swelling, tumour; clenched fist; fungus
+poganatë | noun | feast held on third evening after a birth; christening cake
+poh | noun | affirmation, yes, aye
+pohe | noun | affirmation; pomp, splendour, pageantry, display; fishing-net; cobweb
+pohë | noun | pomp, splendour, display
+pohënik | adj | affirmative, positive
+pohës | adj | affirmative, positive
+pohik | noun | channel, dyke
+pohimtar | noun | positivist
+pohis | verb | admit, confess, acknowledge, own, affirm
+pohonjës | adj | affirmative
+pohsim | noun | positivism
+pohsimtar | noun | positivist
+pohtis | verb | get, gain
+pojellë | noun | stove
+pojs | verb | meet, encounter
+pojtem | verb | meet, encounter
+pokmol | adv | strewn about, littered about, untidy; litter
+pokojnë | noun | apron
+polag | noun | ravage
+polenë | noun | pollen
+polin | noun | pollen
+poleskë | noun | a flowering plant
+polezhan | adj | weak, feeble, powerless; weakling
+policanë | noun | police-station; police-court
+policë | noun | shelf, ledge; lower soot in chimney; policy, note, bill
+polikal | noun | margin, edge
+polikandri | noun | chandelier
+polisht | noun | colt
+polit | noun | city
+politikërisht | adv | politically
+politiqi | noun | politics
+politrikë | noun | new shoot, sprout
+polithronë | noun | easy chair, armchair
+polje | noun | upland, rise, highland
+polog | noun | ravage, slaughter, massacre
+poltis | verb | pass, accept, sanction, consent to; decide
+poltishëm | adj | acceptable
+pollagaç | noun | youngster, stripling
+pollikë | noun | waist (of body)
