@@ -55288,3 +55288,58 @@ pafitimtë | adj | unprofitable
 pafkë | noun | flat stone, slab; flat pebble; plate, layer; slate, tile, shingle
 paflejtëm | adj | sleepless
 pafolëm | adj | unspoken
+# ── mannshto.tsv ──
+pafrênueshëm | adj | uncontrollable
+pafrigë | adj | fearless
+pafrigshëm | adj | fearless
+pafrigshtë | adj | fearless
+pafrigueshëm | adj | fearless
+pafrikje | noun | fearlessness
+pafriksi | noun | fearlessness
+pafrigsi | noun | fearlessness
+pafrymsi | noun | lifelessness
+pafshë | adj | incompetent, minor, juvenile
+pafshimë | adj | unwiped
+pafshishëm | adj | indelible, ineffaceable
+pafunde | noun | depth, deep
+pafundëm | adj | bottomless; endless, unending, boundless, vast
+pafundi | noun | abyss
+pafundim | noun | infinity, space
+pafundje | noun | abyss, deep, depth; eternity, infinity
+pafundsi | noun | abyss; infinity, eternity
+pafuqisi | noun | weakness, debility
+pagabimtë | adj | unfailing, unerring
+paganët | adj | pagan
+paganim | noun | paganism
+pagatim | noun | unreadiness, unpreparedness
+pagdhêndëm | adj | unpolished, rough
+pagëtyrë | noun | baptism; rented field; reward, remuneration; tax, payment
+pagimtar | noun | payer; satisfactory, adequate
+paglanë | adj | unseemly, unsuitable, indecent; uncleanness, fornication
+paglinjur | adj | unsated
+paguonj | verb | pay
+pagojsi | noun | dumbness, muteness
+pagojt | adj | dumb
+pagrac | noun | copper jug
+pagratshëm | adj | fruitless, profitless, useless
+pagraçëm | adj | fruitless, profitless, useless
+pagrisë | adj | untorn
+pagtyrë | noun | payment, tax
+paguej | verb | pay
+pagur | noun | flask, hipflask
+pagurkë | noun | small flask (for raki)
+pagzim | noun | baptism
+pagzimore | noun | font
+pagzimtar | noun | baptist
+pagzoj | verb | baptise
+pagzore | noun | font
+pagzues | noun | baptist, baptiser
+pagjajshëm | adj | unlikely; unsuitable
+pagjaksi | noun | anaemia
+pagjakshëm | adj | bloodless
+pagjallë | adj | lifeless, inanimate; inorganic
+pagjasëm | adj | improper
+pagjashëm | adj | unsuitable, improper, inappropriate, undue
+pagjegjur | adj | unheeded
+pagjë | noun | peace
+pagjët | adj | peaceful, quiet
