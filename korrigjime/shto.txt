@@ -54879,3 +54879,77 @@ njëhet | adj | adequate
 njëhu | noun | the one, unit, unity
 njëjatërm | adj | reciprocal
 njëjësim | noun | unification, standardisation; equality, unity
+# ── mannshto.tsv ──
+njëjësisht | adv | solely
+njëjshëm | adj | equal, like
+njëjti | noun | unity; equality, simplicity
+njëjtsi | noun | unity; equality, simplicity
+njëkohas | adv | simultaneously, at the same time
+njëkohsisht | adv | simultaneously
+njëkombas | noun | compatriot, fellow countryman
+njëlekës | adj | costing one lek
+njëleksh | noun | one-lek piece
+njëllojët | adj | uniform, the same
+njëllojsi | noun | uniformity, sameness
+njëmë | adv | now, actually; really
+njëmendje | noun | agreement
+njëmestë | adj | simple
+njëmijshe | noun | thousand
+njëmoshas | noun | contemporary, one of the same age
+njëmstë | adj | simple
+njënatëzaj | adv | the other night, a few nights ago
+njërgesh | adv | at once, suddenly
+njërisi | noun | unity
+njërisim | noun | unity; unification, standardisation; unit
+njërisisht | adv | uniformly
+njërisoj | verb | unite, assemble, unify; standardise
+njërisor | adj | singular (gram.)
+njërish | adv | single, simple, alone
+njërishe | noun | unit
+njërishëm | adj | uniform, single, singular
+njërishtë | adj | single, only
+njëritash | adv | now, at once
+njërivit | adv | a year ago
+njërivjetor | adj | one-year-old
+njëzetenjëjtë | adj | twenty-first
+njëzetsh | noun | score
+njëzetshe | noun | score
+njiani | pron | the one
+njicë | noun | kind of net
+njiditës | adj | of a day, ephemeral
+njiditshëm | adj | of a day, ephemeral
+njiditëz | adv | the other day
+njiditëzaj | adv | the other day
+njifarsoj | adv | all the same
+njifarsh | adv | all the same
+njifishët | adj | single, simple
+njigjakas | noun | kinsman, fellow tribesman
+njigjaksi | noun | consanguinity
+njigjeshtë | adj | compact
+njihërezi | adv | once
+njiheri | adv | at once, at the same time
+njiherit | adv | at once, at the same time
+njiheshëm | adj | uniform, like, equal
+njijavshëm | adj | week's, one-week-old
+njijsim | noun | standardisation, unification
+njijsoj | verb | unify, standardise
+njikaq | adv | so much; there and then, on the spot
+njike | adv | just
+njikështu | adv | just like this
+njikohsi | noun | contemporaneity, synchronism
+njikohsisht | adv | simultaneously, at the same time
+njikohshëm | adj | simultaneous, contemporary
+njikombas | noun | fellow countryman, compatriot
+njikombsi | noun | national unity
+njiktu | adv | just here
+njikuptimsh | adj | synonymous
+njiky | pron | this very (one)
+njillore | noun | kitchen, cook-house, canteen
+njilltar | noun | cook
+njimasnji | adv | successively
+njimasnjishëm | adj | successive, consecutive
+njimbasnjishëm | adj | successive, consecutive
+njimdhjet | num | eleven
+njimë | adv | now; actually; at the same time
+njimende | noun | intention, purpose; agreement
+njimendët | adj | real, actual, genuine
