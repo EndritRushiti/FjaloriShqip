@@ -60925,3 +60925,52 @@ stajanicë | other | housekeeper
 staje | other | gang, band
 stajë | other | gang, band
 stalë | other | flock, herd
+# ── mannshto.tsv ──
+stambë | other | press, printing-press
+stambos | other | press, print
+stamnar | other | potter
+stamnë | other | water-pot, pitcher, jug
+stamë | other | water-pot, pitcher
+stangë | other | pole, bar, lever
+stanoj | other | quarter, house (cattle)
+stapis | other | beat, thrash, flog
+stapitem | other | stop dead; stiffen
+stapitje | other | stop
+stapon | other | stable-boy, cow-herd
+stara | other | measure of capacity (about 20 litres)
+starë | other | measure of capacity
+staricë | other | mother superior (of an Orthodox nunnery)
+starisvat | other | guest of honour at a wedding
+starisfat | other | guest of honour at a wedding
+stasion | other | station
+stasjon | other | station
+stacjon | other | station
+statue | other | statue
+statyt | other | statue
+stavis | other | pile up, heap up
+stazhë | other | practical training
+sten | other | cliff, wall of rock
+stenë | other | partition wall
+stenicë | other | bedbug
+stepmeni | other | avoidance, abstinence
+steros | other | blacken
+sterposet | other | get dusk
+sterrim | other | blackening, black-out
+sterroj | other | make jet-black, darken
+stëhirrë | other | element, extract, substance
+stërbel | other | sage (plant)
+stërbelë | other | sage (plant)
+stërbexh | other | sage (plant)
+stërbij | other | descendants, offspring
+stërckë | other | squirter, syringe
+stërdij | other | strike, attack
+stërdhamb | other | canine tooth
+stërflokës | other | trouble-maker
+stërfiloj | other | snort, rave, curse
+stërformim | other | transformation
+stërformoj | other | transform
+stërfujnë | other | rag
+stërfyc | other | tube; wooden water-bottle
+stërfys | other | squirt, spray
+stërfytës | other | syringe, squirter, spray
+stërk | other | stork
