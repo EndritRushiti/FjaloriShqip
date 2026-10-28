@@ -65290,3 +65290,56 @@ vjekur | adj | hanging, pendent
 vjelna | other | vintage-time
 vjelshëm | adj | sickening, nauseating
 vjeltore | other | anthology
+# ── mannshto.tsv ──
+vjellme | other | vomiting
+vjeme | other | grub, larva
+vjemje | other | grub, larva
+vjemë | adj | last year's
+vjerdhshëm | adj | tame, trained
+vjerdhull | other | weasel; badger
+vjerë | adj | sown in March (of wheat)
+vjergullë | other | ermine, stoat
+vjershatar | other | poet
+vjershnim | other | versification
+vjershnoj | other | versify
+vjershi | other | poetry
+vjershtar | other | poet
+vjershtim | other | versification
+vjershtoj | other | versify
+vjershtore | other | poetess
+vjert | adj | hanging
+vjertas | adv | hanging, suspended, dangling; perpendicularly
+vjerrc | other | pendulum, plumb-line, bob
+vjerrës | other | braces
+vjerrje | other | suspense, suspension
+vjerrsa | other | braces
+vjerrtas | adv | suspended, hanging, in suspense
+vjesë | other | value
+vjeshtakës | other | fig which ripens in autumn
+vjeshtët | adj | autumnal
+vjeshtullë | other | mistletoe
+vjetak | adj | year by year; one-year-old
+vjete | other | last year
+vjetik | adj | age-long, ancient, long-standing
+vjetri | other | age, antiquity
+vjoj | other | weave
+vjollë | other | violet
+vjollëz | other | violet
+vjollcor | adj | violet, purple
+vjyer | adj | valued, valuable
+vlagët | adj | moist, humid
+vlak | other | trawling-net; leather water-bucket
+vllastar | other | sprout, shoot
+vlastar | other | shoot
+vlajë | other | shoot
+vlaskonjë | other | shoot
+vleftë | other | value, use, validity
+vleftim | other | valuing, evaluation
+vleftje | other | value, use
+vleftsim | other | appreciation, rise in value; exploitation
+vleftsoj | other | enhance, raise in value; exploit
+vleftsohet | other | rises, appreciates
+vleftsues | adj | validating, enhancing
+vleftshëm | adj | valid, valuable
+vlehet | other | holds good, is valid; appreciates
+vlenje | other | worth
