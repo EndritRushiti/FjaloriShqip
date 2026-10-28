@@ -63266,7 +63266,6 @@ tetmëstë | adj | eightfold
 tetmëzoj | other | multiply eightfold
 tetmuejsh | adj | eight-month-old
 tetrrokcë | adj | eight-syllabled
-tetrrokësh | adj | eightfold; group of eight
 tetrrokshe | other | group of eight, octet; squad
 teth | other | cultivate, make fertile
 tethem | other | thrive
@@ -63281,3 +63280,5 @@ tevlik | other | yoke-collar
 tevligë | other | yoke-collar
 tezgja | other | bench; loom
 tezgjere | other | mortar-tray borne by two men
+# ── mannshto.tsv ──
+tetrroksh | adj | eightfold; unit of eight
