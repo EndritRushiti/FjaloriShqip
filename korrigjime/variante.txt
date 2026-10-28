@@ -2638,3 +2638,14 @@ shtamën | shtambë | alternative
 shtampoj | stampoj | alternative
 # ── Mann 1948 ──
 shrranjos | çrrënjos | alternative
+# ── Mann 1948 ──
+shtasë | shtazë | alternative
+shtasni | shtazëri | alternative
+shtasnisht | shtazërisht | alternative
+shtatujë | statujë | alternative
+shtatvjeçëm | shtatvjetshëm | alternative
+shtasarak | shtazor | alternative
+shtazni | shtazëri | alternative
+shtekëtar | shtegtar | alternative
+shtektim | shtegtim | alternative
+shtekëti | shtegtim | alternative

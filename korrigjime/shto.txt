@@ -62566,3 +62566,36 @@ shtampoj | other | print
 shtangër | adj | squint-eyed
 # ── mannshto.tsv ──
 shrranjos | other | uproot
+# ── mannshto.tsv ──
+shtangoj | other | numb, paralyse, stun, petrify
+shtangsi | other | rigidity, paralysis
+shtangsim | other | rigidity, stiffening, solidity
+shtangsoj | other | stiffen, make solid, harden
+shtaroj | other | make bitter, embitter; turn bad
+shtasë | other | animal, beast
+shtasni | other | bestiality
+shtasnisht | adv | bestially
+shtatdhjetore | other | seventieth part
+shtatmadhëri | other | burliness
+shtatpulqyer | other | dwarf
+shtatrrokshë | adj | heptametric, septenary
+shtatsisht | adv | bodily, physically
+shtatsh | adv | in sevens
+shtatu | other | dwarf
+shtatujë | other | statue
+shtatvjetshëm | adj | seven-year-, seven-year-old
+shtatvjeçëm | adj | seven-year-old
+shtavillë | other | leather
+shtasarak | adj | bestial
+shtazëroj | other | bestialise
+shtazëz | other | animalcule
+shtazni | other | bestiality
+shtekëtar | other | traveller
+shtektim | other | journey
+shtekëti | other | journey, tramp, pilgrimage
+shterb | other | tendril, runner, shoot
+shterbët | adj | sterile, fruitless, unproductive
+shtercë | other | old woman
+shterckë | other | syringe, water-pistol
+shterç | other | irascible old person
+shterem | other | run dry, be exhausted
