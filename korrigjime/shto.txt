@@ -63687,3 +63687,45 @@ trecki | other | tit, titmouse
 treçipët | adj | three-cornered, triangular
 treçiptë | adj | triangular
 treçipse | other | triangle
+# ── mannshto.tsv ──
+tregëri | other | trade
+tregonjës | adj | indicative; index
+tregtaruc | other | tradesman, shopkeeper
+tregtarisht | adv | commercially
+tregtisht | adv | commercially
+tregëtonj | other | trade
+tregjyshe | other | great-great-grandmother
+trejti | other | intelligence
+trejtim | other | intelligence
+trejtueshëm | adj | intelligible
+trekandsh | adj | triangular; triangle
+trekande | other | triangle
+trektar | other | trader
+trektim | other | trade
+trekuzal | other | festive dance
+trelë | other | gimlet; imp of the devil
+trellë | other | gimlet
+trelu | other | trillion
+trelju | other | trillion
+trelun | other | trillion
+trembak | adj | timid, afraid
+tremdhet | num | thirteen
+trembdhjet | num | thirteen
+trembëdhjetët | adj | thirteenth
+trembllak | adj | timid, cowardly
+trembshëm | adj | terrifying, awe-inspiring, threatening; dire
+trementinë | other | turpentine
+tremestë | adj | threefold
+tremsoj | other | triplicate
+tremsh | adv | at a gallop
+tremti | other | turpentine
+tremuejsh | adj | three-month, quarterly
+trenskë | other | chip
+trentafil | other | rose
+trendafillë | other | rose
+trendafilët | adj | pink
+trepiras | other | burst
+trepo | adv | downwards
+treskajsh | adj | three-cornered
+treskë | other | hard lump of stone, flint, fragment; donkey shoe
+treskullë | other | scrap, shred
