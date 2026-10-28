@@ -58940,3 +58940,43 @@ qesetis | verb | mock, jeer at, quizz, banter, tease
 qesetishëm | adj | laughable, absurd
 qeshqé | noun | dish of wheat or maize boiled with meat or butter
 qeshshëm | adj | laughable, ridiculous
+# ── mannshto.tsv ──
+qetar | noun | cowman, drover
+qetash | adv | now; henceforth, forthwith
+qetashe | noun | present
+qetashëm | adj | present, present-day
+qetem | verb | quieten down
+qetinë | noun | solitude, peaceful place, peace
+qetsi | noun | quiet, peace, calm, stillness
+qetsirë | noun | quiet, peace, calm
+qetsisht | adv | quietly, peaceably
+qetsohem | verb | get quiet; rest
+qetsonjës | adj | quietening, soothing, pacific, palliative
+qetsues | adj | quietening, soothing, palliative, sedative
+qetshëm | adj | peaceful, quiet, tranquil, calm, still, comfortable
+qetueshëm | adj | peaceable, peaceful, quiet
+qethare | noun | guitar
+qethël | noun | woodlouse
+qethse | noun | mechanical clipper, shearer
+qethshëm | adj | sharp, keen, cutting
+qethtore | noun | hairdresser's, barber's shop
+qevernì | noun | effect, household utensil, contrivance, gadget
+qevernitar | noun | governor
+qeverr | noun | government
+qeverris | verb | govern, rule; salute
+qeverritar | adj | government-; government agent, government supporter; governor, regent
+qezap | noun | azotic acid
+qezër | noun | canine tooth
+qëherthi | adv | long ago
+qëkëtej | adv | hence, from here
+qëkuri | adv | some time ago
+qëkurthi | adv | some time ago
+qëllatë | noun | care, attention
+qëllonjës | adj | aiming; marksman, shot
+qëndërkë | noun | centre point
+qëndërsim | noun | concentration
+qëndërsoj | verb | concentrate
+qëndisëm | adj | embroidered, worked
+qëndrimtar | adj | tenacious, resistant; stable, steady
+qëndrinë | noun | centre, headquarters
+qëndrojse | noun | stand, prop, rest, support
