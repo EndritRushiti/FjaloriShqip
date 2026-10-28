@@ -60101,3 +60101,59 @@ rrugtoj | verb | travel, journey
 rrugullimë | noun | rolling down
 rrugullisem | verb | hurtle, roll down, crash
 rruj | verb | shave; razor
+# ── mannshto.tsv ──
+rrukulli | noun | precipice
+rrukullim | noun | rolling, roll, spin
+rrukullimë | noun | steep place, drop, precipice; roll, spin; roundness, globe
+rrukullues | adj | precipitous; precipice
+rrumbdeti | noun | turbot, flounder
+rrumbaduc | adj | short, stunted, dumpy
+rrumbullgjaku | noun | blood corpuscle
+rrumbullaktë | adj | round
+rrumbullaksi | noun | roundness
+rrumbullë | noun | round
+rrumbulloj | verb | round, round off; roll; polish off, devour
+rrumbullsi | noun | roundness
+rrumbullues | adj | rounding; differential (auto)
+rrume | noun | bottle
+rrunçë | noun | red-flowering plant like quince
+rrungall | noun | avalanche; landslide
+rrungallë | noun | avalanche
+rrungë | noun | avalanche
+rrungicë | noun | chunk of rough wood
+rrungullij | verb | roll, trundle, bowl, hurl down; roll out, project, plan
+rrungullis | verb | roll, trundle
+rrungullisem | verb | roll, roll down, rumble down, tumble, hurtle down
+rrungullim | noun | rolling, rumbling, banging
+rrungullimë | noun | roll, rolling, trundling, hurtling
+rrunicë | noun | hunch, chunk (of bread)
+rrunxë | noun | young ewe
+rrunzak | noun | male lamb, young ram
+rrunzë | noun | ewe-lamb
+rrupë | noun | cushion, pad
+rrupicë | noun | stripe, edging
+rrupshtihet | verb | withers, shrivels (of fruits)
+rrupshtimë | adj | withered, shrivelled
+rrupshtishëm | adj | withered, flaccid
+rrupullisem | verb | collapse, fall into ruin
+rrurëz | noun | ewe bearing for the first time
+rruskoj | verb | prune, trim, lop; filch, pilfer; abuse
+rruskulli | noun | abuse, foul language
+rrushtetë | noun | raisins
+rrushtajkë | noun | muscatel grape
+rrushdurrsak | noun | small, numerous variety of grape tinged red
+rrushdeti | noun | cuttlefish eggs
+rrushp | noun | a gold coin
+rrushqyqe | noun | grape-hyacinth
+rrutem | verb | huddle up
+rrutullak | adj | round; full, voluminous
+rrutullame | adj | round
+rrutulloj | verb | turn; roll; trump up, invent; round off; surround
+rrutullohem | verb | turn, spin, revolve
+rrutulluar | adj | round
+rruth | verb | contract
+rruvijë | noun | line; stripe
+rruvizë | noun | little line; marking, grain
+rruvjeshkullë | noun | line
+rruxë | noun | ewe that has born only once; rust
+rruxollim | noun | globe
