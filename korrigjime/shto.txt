@@ -61077,3 +61077,54 @@ strafulec | other | attendant at a wedding
 strogëz | other | clot of mud (in wool)
 stroj | other | layer; section
 strokem | other | get the itch, contract scab
+# ── mannshto.tsv ──
+strongjilos | other | strongylosis, worms (in animals)
+struth | other | ostrich
+strutokamillë | other | ostrich
+strufar | other | tinker
+strufë | other | tin
+strufët | adj | of tin
+strufulloj | other | tie up, involve
+strugalinë | other | shaving
+strugas | other | plane
+strugatës | other | planer, joiner
+strugëri | other | carpentering, joinery
+strugim | other | planing, carpentry, woodwork
+strugis | other | plane
+strugoj | other | plane
+strugtar | other | joiner
+strugtore | other | carpenter's workshop
+strugullishtë | other | shaving, splinter
+strugnoj | other | pilfer
+strujë | other | pelf
+strujni | other | pilfering
+struktar | other | joiner
+struktari | other | joinery
+strukulloj | other | arrange, fit, form
+strumbullari | other | centralisation
+strumbullaris | other | centralise
+strumbullthi | adv | vertically
+strumull | other | haycock
+strupjat | adj | lame
+strupull | other | bunch, tuft; heap
+strupulloj | other | involve, tie up
+studis | other | study
+studjoj | other | study
+studjues | other | student, scholar
+stumbo | other | pot-bellied man
+sturnar | other | flint
+styllë | other | style (of a plant)
+stypës | other | alum
+stypsë | other | alum
+subervje | other | haughtiness, pride
+sufër | other | low table
+sufros | other | inflate, swell
+sufull | other | bagpipes
+sugari | other | rabble, mob
+suguri | other | certainty, safety
+suguroj | other | assure, secure
+suhade | other | piles, haemorrhoids
+suade | other | haemorrhoid
+suhadhe | other | piles
+sukrojë | other | peak, height; watch-post, lookout
+sukulloj | other | tear to rags, tatter, shred
