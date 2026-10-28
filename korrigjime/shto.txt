@@ -65384,3 +65384,73 @@ vneroj | other | poison, contaminate
 vnerosh | adj | poisonous
 vnertë | adj | poisonous
 vnerët | adj | poisonous
+# ── mannshto.tsv ──
+vneshtak | other | vineyard
+vobeg | adj | poor
+vobegsi | other | poverty, dearth, scarcity
+vobegsim | other | impoverishment
+vobeksim | other | impoverishment
+vobegsoj | other | impoverish
+vobeksoj | other | impoverish
+vobekë | other | poor woman
+vobeqi | other | poverty
+vobeqar | adj | poor
+vobët | adj | poor
+vobsi | other | poverty, want, need
+vobezi | other | poverty
+vobsim | other | impoverishment
+vobsoj | other | impoverish
+vobtoj | other | impoverish
+vobzim | other | impoverishment
+vobzoj | other | impoverish
+vocër | adj | tiny, small, wee
+vocërri | other | childhood, infancy
+vocërrina | other | smallwares, haberdashery, fancy goods
+vocërrush | adj | darling, pet
+vockë | other | drinking bottle, flask
+vocrrak | adj | tiny, diminutive; tiny tot
+vocrri | other | tininess, minuteness; babyhood
+vocrrim | other | diminution
+vocrrina | other | smallwares
+vocrrinar | other | haberdasher
+vocrroj | other | reduce, diminish, stunt
+vodhëz | other | sorb-apple
+vogloj | other | reduce
+voglsi | other | littleness, smallness
+voglsoj | other | reduce, diminish, belittle
+vogëlth | other | little one; tiny
+vogërr | adj | undersized, dwarfed, stunted, short, small
+vogërrim | other | dwarfing, stunting
+vogërroj | other | dwarf, stunt, deform
+vogli | other | smallness, littleness; infancy, childhood
+voglim | other | lessening, reduction, diminution, stunting, minimisation, shrinkage
+voglinë | other | small thing, mite, trifle, detail
+voglohem | other | decrease, dwindle, shrink
+voglosh | adj | little, tiny; little one, tiny tot, darling
+voglush | adj | little
+vogjëli | other | small fry, populace, mob, crowd
+vojak | adj | oily, oil-bearing; oval
+vojanicë | other | oil-container, oil-can, oil-bottle, oiler, grease-gun
+vojcë | other | layer, broody hen; laying
+vojguri | other | petroleum, oil; paraffin, kerosene
+vojgurore | other | oil-field
+vojicë | other | oil can; grease-gun
+vojim | other | unction; supreme unction
+vojm | other | sacramental oil
+vojnik | other | oil measure
+vojnore | other | oil-mill
+vojoj | other | oil, anoint
+vojohem | other | receive (last) unction
+vojshtar | other | customs officer, tax-gatherer
+vojshti | other | duty, customs, revenue
+vojtak | adj | oil-, oleaceous
+vojtje | other | going, gait, behaviour; suffering
+vojtore | other | oil-bottle, oil-container
+vojufull | other | rainbow
+vojz | other | barrel
+vokem | other | grow tepid, get cool; get slightly warm
+voker | other | little finger
+vokërr | other | little finger
+vokët | adj | tepid, cool, lukewarm
+voksi | other | lukewarmness, tepidity
+voksinë | other | lukewarmness
