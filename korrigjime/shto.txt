@@ -65034,3 +65034,43 @@ vetveprim | other | spontaneity
 vetveprues | adj | spontaneous, automatic
 vetvesh | other | ear-witness
 vetvetshëm | adj | private, peculiar
+# ── mannshto.tsv ──
+vethkë | other | fuchsia; butcher's broom
+vezarak | adj | oviparous, laying
+vezëpashkë | other | salmon-pink (colour)
+vezigandë | other | blister
+vezoj | other | form eggs, lay eggs
+vezëll | other | gleam
+vezill | other | gleam
+vezullis | other | gleam, flash
+vezullojc | adj | glittering
+vezhdë | other | ribbon, tape; edging, braid
+vezhdët | adj | edged, braided
+vezhdoj | other | edge, border; watch
+vezhër | other | earwig
+vezhgëlloj | other | watch closely, scrutinise
+vëjefshëm | adj | useful, valuable
+vëjetje | other | worth, worthiness, dignity
+vëjetshëm | adj | valuable
+vëjetur | adj | valuable, precious
+vëjim | other | value
+vëjyeshëm | adj | valuable
+vëjyetshëm | adj | valuable, worthy
+vëlyer | adj | valuable
+vllaznisht | adv | in brotherly fashion
+vllaznohem | other | fraternise
+vllim | other | volume
+vëllimtar | adj | voluminous, capacious, bulky; of volume
+vënduar | other | catch, latch, holder, clasp, peg, bracket
+vëngërosh | adj | cross-eyed
+vëngërt | adj | cross-eyed
+vëngjill | other | vigil, eve; period of fasting before a feast
+vëngjillët | adj | vigilant
+vëngjillim | other | vigilance
+vëngjilloj | other | be vigilant, watch
+vënjeçëm | adj | valuable, valued
+vënjej | other | be worth
+vënjim | other | aid, benefit, furtherance
+vënjyeshëm | adj | valuable
+vërbel | other | protocol
+vërcëlloj | other | wriggle, writhe
