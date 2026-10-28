@@ -63628,3 +63628,62 @@ trandshëm | adj | shaking, shocking
 trano | adv | downwards, below, at the bottom
 transfiguracion | other | transfiguration
 trantofill | other | rose
+# ── mannshto.tsv ──
+trapar | other | ferryman
+trapeskë | other | small table
+trapis | other | outline, sketch, draft; wander, tramp, roam
+trapisje | other | sketch, plan, scheme, draft
+trapitës | adj | wandering, erratic; wanderer, tramp
+trapoj | other | plough into furrows; furrow, channel, flute
+traptar | other | ferryman, boatman
+trapuç | adj | thickset, squat, short
+trapzan | other | bannister
+trasëz | other | sac, follicle
+trasje | other | bag
+trastje | other | bag
+trashamani | other | grossness, stoutness, bulkiness; coarseness
+trashanikëri | other | coarseness, boorishness
+trashaniksi | other | coarseness
+trashanikërisht | adv | coarsely
+trashgi | other | inheritance
+trashgim | other | inheritance
+trashgimtar | other | heir
+trashgoj | other | inherit
+trashgues | other | heir
+trashgueshëm | adj | heritable
+trashëgimlanës | other | legator
+trashkël | other | crumb, fragment
+trashoj | other | consolidate, solidify, thicken, fatten
+trashsi | other | thickness
+trashulak | adj | base, low, coarse
+trat | adv | thereupon, forthwith
+tratë | other | net, trawling net; trellis
+tratëk | other | tithe, land-tax
+tratkë | other | large net
+tratkim | other | assessment of land, land-survey
+tratkoj | other | assess (land), survey
+trathtar | adj | treacherous
+trathti | other | treachery
+trathtinë | other | treachery
+trathtisht | adv | treacherously
+trathtohem | other | betray oneself, commit oneself
+travajë | other | suffering, sorrow, hardship, care, worry
+travajoj | other | afflict, worry, tire
+travajshëm | adj | sorrowful, careworn
+travajueshëm | adj | tiring, wearisome
+travaloj | other | afflict
+travinë | other | shepherd's wallet
+travis | other | turn silly, stupefy
+travitem | other | get silly, be stupefied, be dazed
+travok | other | cheese-curd, cottage cheese
+trazimtar | adj | interfering, mischief-making; disturber
+trazuemas | adv | untidily, in disorder
+trazyrë | other | confusion
+tregurësh | other | solo game of three stones
+trebrezsh | other | one of the third generation
+trecepsh | other | triangle
+treckë | other | chip
+trecki | other | tit, titmouse
+treçipët | adj | three-cornered, triangular
+treçiptë | adj | triangular
+treçipse | other | triangle
