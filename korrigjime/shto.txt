@@ -59561,3 +59561,41 @@ ronitem | verb | crumble
 ronitur | adj | broken-down, dilapidated
 ropëri | noun | slavery
 ropkë | noun | slave-girl
+# ── mannshto.tsv ──
+rorostan | noun | rose
+rosel | noun | fine variety of wheat or rye; white rye
+roskë | noun | duckling
+rosmari | noun | rosemary
+rosh | adj | spotted, freckled
+roshë | noun | spot, eruption, freckle
+rotel | noun | spin, turn
+rotjel | noun | spin, turn
+rotkë | noun | spiral, coil, bobbin, spool
+rovolis | verb | break, break down, ruin, crumble, demolish
+rozolin | noun | attar of roses
+ruanj | verb | keep, guard
+ruazore | noun | rosary
+rubcë | noun | kerchief
+rubje | noun | kerchief
+rubinë | noun | ruby
+ruboj | verb | bung, caulk; pry
+ruce | noun | sheep lambing for the first time
+rucë | noun | sound walnut
+rucoj | verb | pilfer
+rudak | adj | curly, woolly, shaggy
+rudo | noun | woolly ram
+rudhe | noun | burr
+ruojtës | noun | guardian
+ruenazot | interj | God save us! God forbid!
+rufë | noun | watery egg, soft-boiled egg
+rufis | verb | devour; consume, use up, swallow up; absorb, soak up
+rugënj | noun | vessel
+rugullimë | noun | rumble
+rujtës | noun | guard
+rulis | verb | roll
+rumeg | noun | bellow
+rumegim | noun | bellow
+rumegoj | verb | bellow
+rumor | noun | uproar
+rupoj | verb | caulk, plug
+ruptoj | verb | caulk, plug
