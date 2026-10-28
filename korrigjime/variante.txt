@@ -2865,7 +2865,6 @@ tatpjetë | tatëpjetë | alternative
 taull | daulle | alternative
 tavernës | tavernar | alternative
 teator | teatër | alternative
-tebe | shkumës | alternative
 tehnikë | teknikë | alternative
 tejkqyrë | dylbi | alternative
 tejparshëm | tejdukshëm | alternative

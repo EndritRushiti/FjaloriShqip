@@ -63119,7 +63119,6 @@ tavernar | other | inn-keeper; picnicker
 tavernës | other | inn-keeper
 tavullë | other | tray, ashtray; backgammon
 teator | other | theatre
-tebe | other | chalk
 tefcë | other | safety-razor blade
 tefterdar | other | bookkeeper; receiver-general
 tegelkë | other | small hem
