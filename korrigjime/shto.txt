@@ -61414,3 +61414,34 @@ shdrejtim | other | deflection, misdirection
 shdrejtoj | other | misguide, misdirect
 shdrejtonjës | adj | misleading
 shdris | other | shine, flash
+# ── mannshto.tsv ──
+shdrivillim | other | evolution, development
+shdrivilloj | other | evolve, develop
+shdrivillues | adj | evolutionary
+shdryj | other | unlock
+shdrysk | other | remove rust
+shduk | other | efface, cancel, exterminate
+shdukem | other | disappear
+shdukje | other | effacement, disappearance
+shebojë | other | wallflower
+shegertëshë | other | girl apprentice
+shegerti | other | apprenticeship; apprentices
+sheherije | other | vermicelli
+shehtullë | other | case, box, casket, coffer
+shëjmirë | other | cricket (insect)
+shëjnoj | other | aim
+shëjnjohtim | other | criterion, hallmark
+shëjsha | other | carbine, musket
+shëjshane | other | carbine
+shëjdamës | other | hyphen
+shëjez | other | Pleiades
+shëjtoj | other | sanctify, hallow
+shëjtnisht | adv | sacredly, holily
+shëjtnore | other | sanctuary, shrine, temple
+shëjtuer | other | saint; hermit
+shëjtvjet | other | Holy Year
+shëjth | other | mole, birth-mark
+shëjtueshëm | adj | notable, noteworthy
+shekëz | other | millwheel
+shekroj | other | hallow, sanctify, consecrate
+sheleke | other | ewe-lamb (about one year old)

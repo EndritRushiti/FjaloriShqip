@@ -2118,3 +2118,13 @@ shdërdhis | shdërdhij | alternative
 shdoganim | zhdoganim | alternative
 shdoganoj | zhdoganoj | alternative
 shdrejtë | zhdrejtë | alternative
+# ── Mann 1948 ──
+shdrivillim | zhvillim | alternative
+shdrivilloj | zhvilloj | alternative
+shduk | zhduk | alternative
+shdukem | zhdukem | alternative
+shdukje | zhdukje | alternative
+shebojë | shabojë | alternative
+shëjshane | shëjsha | alternative
+shëjtoj | shenjtëroj | alternative
+shëjtuer | shenjtor | alternative
