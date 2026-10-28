@@ -62638,3 +62638,35 @@ shtërgatë | other | storm, gale, squall
 shtërgatshëm | adj | stormy
 shtërgi | other | tube, pipe
 shtërgti | other | shingles, herpes
+# ── mannshto.tsv ──
+shtërkitem | other | chatter (with the teeth)
+shtërmak | adj | left, left-hand
+shtërmog | other | face, confront
+shtërngatë | other | difficulty, handicap, restriction
+shtërngesë | other | constraint
+shtërngim | other | constraint, compulsion, hardship
+shtërngoj | other | compel, force, constrain
+shtërngohem | other | strive with, contend with, cope with
+shtërngucë | other | ladybird
+shtërngueshëm | adj | cramped, restricted; severe, strict
+shtërnguet | adj | tight; strict
+shtërnip | other | great-grandson
+shtërpej | other | creep, crawl
+shtërpë | other | barren spot, wilderness
+shtërpicë | other | intrigue
+shtërpore | other | farmhouse
+shtërpyerazi | adv | creeping, crawling
+shtërvinë | other | carcass
+shtërvjelër | adj | clever
+shtërzoj | other | bear (esp. too soon, of ewes, goats)
+shtëzri | other | bestiality
+shtjellesë | other | explanation
+shtjellc | other | winding-wheel
+shtierkeq | other | instigator
+shtijëz | other | dart
+shtikeq | other | disturber, mischief-maker; slanderer
+shtill | other | axle, axle-tree
+shtillë | other | winding-machine; eddy
+shtilloj | other | unroll, unfurl; develop
+shtimoj | other | esteem, estimate, suppose
+shtinjak | adj | insatiable, gluttonous

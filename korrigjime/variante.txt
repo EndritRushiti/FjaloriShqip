@@ -2669,3 +2669,14 @@ shtëngë | shtagë | alternative
 shtëpiar | shtëpiak | alternative
 shtëpireshë | shtëpiresë | alternative
 shtërgi | stërgji | alternative
+# ── Mann 1948 ──
+shtërmak | majtë | alternative
+shtërngesë | shtrëngesë | alternative
+shtërngim | shtrëngim | alternative
+shtërngoj | shtrëngoj | alternative
+shtërngucë | mollëkuqe | alternative
+shtërnip | stërnip | alternative
+shtërvinë | stërvinë | alternative
+shtëzri | shtazëri | alternative
+shtijëz | shtizë | alternative
+shtilloj | shtjelloj | alternative
