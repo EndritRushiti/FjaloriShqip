@@ -61291,3 +61291,52 @@ shalapurithin | adv | topsy-turvy
 shalaq | other | scaling-pole; stilt
 shalar | other | saddler
 shalcë | other | salted yoghurt
+# ── mannshto.tsv ──
+shalëhapët | adj | straddle-legged
+shalis | other | twist, bend
+shalonjës | other | saddler
+shaltar | other | saddler
+shalos | other | saddle
+shalzë | other | swing; roundabout
+shallatem | other | amuse oneself
+shallatje | other | amusement
+shalldan | other | candlestick
+shalltisem | other | be moonstruck, be bewildered
+shandërvarë | other | trousers, breeches
+shamallë | other | discord
+shamallon | other | be strident, be discordant
+shamandil | other | handkerchief
+shamandur | other | lampstand; beacon, buoy
+shamandure | other | beacon, buoy
+shamatim | other | brawl, row
+shamatoj | other | kick up a row, brawl
+shamblak | adj | awkward
+shambrellë | other | inner tube (of a tyre)
+shamër | other | rival
+shamërkë | other | concubine
+shamëri | other | rivalry
+shamërtoj | other | come out in boils
+shamje | other | invective, abuse, defamation
+shamlinjë | other | damask linen
+shamtinë | other | sigh, groan
+shangër | other | viscous matter from a sore
+shanik | other | ape
+shantjer | other | yard, shipyard
+shanjë | other | abuse
+shapakotem | other | play the fool
+shapetë | other | felt cap
+shapërtim | other | wallowing
+shapërtohem | other | wallow, flounder
+shaponjë | other | wallflower
+shaptore | other | woodcock
+shapullicë | other | frog
+shapullë | other | slap, clout
+sharais | other | plane
+sharaperë | other | gibberish
+sharapjek | other | wave, brandish
+sharapjekem | other | dance, leap, frolic
+shargoj | other | scare off
+sharlagan | other | sesame oil
+sharmatim | other | disarmament
+sharmatoj | other | disarm
+sharmend | other | vine shoot

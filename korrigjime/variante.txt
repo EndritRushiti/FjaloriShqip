@@ -2074,3 +2074,17 @@ sytjash | sutlaç | alternative
 shahiti | dëshmi | alternative
 shahthin | shahthi | alternative
 shalapurithin | shalapurthi | alternative
+# ── Mann 1948 ──
+shalonjës | shalar | alternative
+shaltar | shalar | alternative
+shalos | shaloj | alternative
+shalldan | shandan | alternative
+shandërvarë | shallvare | alternative
+shamandil | shami | alternative
+shamandure | shamandur | alternative
+shamtinë | shamtimë | alternative
+shaponjë | shabojë | alternative
+shaptore | shapkë | alternative
+sharmatim | çarmatim | alternative
+sharmatoj | çarmatoj | alternative
+sharmend | shermend | alternative
