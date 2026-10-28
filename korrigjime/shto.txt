@@ -60974,3 +60974,58 @@ stërfyc | other | tube; wooden water-bottle
 stërfys | other | squirt, spray
 stërfytës | other | syringe, squirter, spray
 stërk | other | stork
+# ── mannshto.tsv ──
+stërgji | other | tube, pipe; fistula
+stërhollës | other | wit, sophist
+stërholli | other | shrewdness, hair-splitting, sophistry
+stërhollues | adj | analytical, hair-splitting
+stërkas | other | spray, sprinkle, bespatter
+stërkis | other | sprinkle
+stërklas | other | sprinkle
+stërkitje | other | sprinkling, spraying
+stërkeqem | other | languish, pine; get angry
+stërkeqët | adj | sickly, lean, ailing
+stërkë | other | track, sheep-track
+stërkranth | other | lateral bud
+stërmak | adj | awkward, clumsy
+stërmas | other | measure up, size up
+stërmesë | other | great-niece
+stërmullar | other | pivot
+stërnjeh | other | count carefully
+stërpak | other | sprinkle, spray
+stërpapë | other | antipope
+stërpelë | other | fern, brake
+stërpicë | other | trap, mousetrap
+stërpidhë | other | gutter, waste-pipe, drain
+stërpikës | other | spray, sprinkler
+stërprindë | other | ancestors
+stërshkrim | other | copy
+stërvesh | other | disguise
+stërvi | other | training
+stibnium | other | antimony
+sticë | other | speck; irritation, pique
+sticim | other | irritation, pique
+sticoj | other | hurt, offend, irritate, annoy
+sticohem | other | be piqued
+stif | other | heap, pile, stack
+stifë | other | heap, pile
+stifoj | other | heap up, pile up
+stigmatë | other | stigma (bot.)
+stihar | other | cape, cloak
+stihas | other | involve, implicate; instigate
+stihjo | other | demon, dragon
+stilet | other | stiletto
+stimar | other | esteem
+stimë | other | esteem, honour, reputation
+stimoj | other | suppose; esteem
+stipar | other | adze
+stipc | other | alum
+stipës | other | alum
+stipëz | other | alum
+stips | other | alum
+stisës | other | founder, maker, builder
+stisor | other | mason
+stoçen | other | cold east wind; gale
+stofë | other | stove
+stoko | other | stucco, putty
+stolë | other | stole
