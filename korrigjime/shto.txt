@@ -65502,3 +65502,45 @@ votonjës | other | voter, elector
 vovë | other | bogey, scarecrow
 # ── mannshto.tsv ──
 votore | other | witch who tells fortunes by using ashes
+# ── mannshto.tsv ──
+vozgë | other | cask, tub, barrel; vat; jar, container
+vozgar | other | cooper
+vozgoj | other | barrel, cask
+vozitar | other | oarsman; sailing, seafaring
+vozitare | other | flight feather, quill; remiges
+vozitshëm | adj | sailable, navigable; negotiable (of a road)
+vozitari | other | navigation, rowing, sailing, seamanship
+voemazë | other | membrane of an egg
+voesak | adj | oval
+voeson | other | bedew; fall (of dew)
+voetak | adj | oval
+voezak | adj | oval
+voezë | other | ovule; spore
+voezoj | other | bedew
+vqollë | other | salting-place
+vraçë | adj | rape, black (of a horse); black horse
+vraës | adj | killing
+vragji | other | row, drilling, plot, bed
+vrahet | other | gets dark, gets cloudy, gets overcast
+vrahthim | other | mortification, disappointment, consternation
+vrahthoj | other | mortify, disappoint
+vrame | other | injury, bruise; killing
+vrameqe | other | a small tufted bird
+vramus | adj | dark, glowering, scowling, truculent, grim
+vrantë | adj | cloudy, overcast
+vrang | other | scratching of one's face (as a sign of repentance)
+vranim | other | overclouding, gloom; frowning, disapproval
+vranohet | other | gets overcast
+vransi | other | cloudiness, darkness, overclouding, gloom
+vransinë | other | cloudiness
+vrancinë | other | cloudiness
+vrep | other | haste, rush
+vraparak | adj | hasty, sudden
+vraponjës | adj | dashing, running; runner, racer
+vrapsi | other | haste, speed, dash
+vrapshëm | adj | hasty, hurried, swift
+vraptar | adj | racing, running; racer, runner
+vraptoj | other | run
+vrapthi | adv | in haste, hastily
+vrarës | adj | killing, lethal; killer, murderer
+vrasi | other | murder

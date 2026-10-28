@@ -3731,3 +3731,14 @@ vorreze | varrezë | alternative
 vorros | varros | alternative
 vorrtar | varrmihës | alternative
 votonjës | votues | alternative
+# ── Mann 1948 ──
+voetak | vezak | alternative
+voezak | vezak | alternative
+vqollë | gjollë | alternative
+vraës | vrasës | alternative
+vrantë | vranët | alternative
+vransinë | vransi | alternative
+vrancinë | vransi | alternative
+vrep | vrap | alternative
+vraptoj | vrapoj | alternative
+vrasi | vrasje | alternative
