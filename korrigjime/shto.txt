@@ -59841,3 +59841,52 @@ rrëmbac | adj | rapacious, violent
 rrëmbacak | adj | rapacious, violent
 rrëmbaç | adj | rapacious, violent
 rrëmbenjës | adj | plundering, rapacious, violent; (birds) of prey; robber, extortioner, kidnapper
+# ── mannshto.tsv ──
+rrëmbimqar | adj | rapacious, predatory, of prey
+rrëmbimtar | adj | rapacious, predatory
+rrëmbjeras | adv | violently, hastily
+rrëmbjerazi | adv | violently, hastily
+rrëmbjerë | noun | violence, robbery; rape
+rrëmbjerje | noun | seizure, violence, rape
+rrëmbjerthi | adv | violently, hastily
+rrëmbullë | noun | plunder
+rrëmbyerazi | adv | rashly, violently, hot-headedly, in haste
+rrëmbyershëm | adj | violent; torrential; predatory, rapacious
+rrëmesë | noun | robbery, violence
+rrëmetë | noun | clog made of narrow strips of wood
+rrëmij | verb | dig, excavate
+rrëmihse | noun | bulldozer
+rrëmijë | noun | excavation, digging, burrowing; delving, exploration
+rrëminjë | noun | excavation
+rrëmimtar | adj | excavating; excavator
+rrëmiqe | noun | crags, rocks
+rrëmitës | noun | digger, excavator
+rrëmocë | noun | toothpick
+rrëmonjës | noun | sapper
+rrëmore | noun | hillside, steep slope, ravine, precipice; noise, rumble, roar
+rrëmp | noun | vein
+rrëmujdashës | adj | turbulent, chaotic, riotous
+rrëmull | adj | rowdy, riotous
+rrëmyeshëm | adj | violent, torrential
+rrënesë | noun | life
+rrëni | noun | disaster
+rrënicë | noun | hunk of bread
+rrënkim | noun | groan
+rrënkoj | verb | groan
+rrënojcë | adj | durable
+rrënok | noun | islet, holm
+rrënxak | adj | ruptured
+rrënxim | noun | fall, downfall, collapse; rupture, hernia
+rrënjelë | noun | rill, brook
+rrënjosem | verb | strike root, take root
+rrënjsisht | adv | radically
+rrëpijtë | adj | steep
+rrëpilë | noun | precipice
+rrëpinshëm | adj | precipitous
+rrëpitë | adj | steep, precipitous
+rrëposhëm | adj | lower, inferior, low
+rrëposhem | verb | hurtle down
+rrëqas | verb | bother, annoy
+rrëqethe | noun | the shivers, shuddering, the creeps
+rrëqoshk | adj | squint-eyed, cross-eyed
+rrësk | noun | treasure
