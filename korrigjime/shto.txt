@@ -62219,3 +62219,32 @@ shortthënës | other | fortune-teller
 shortzi | adj | hapless
 shoshar | adj | holed, perforated
 shoshare | other | sieve
+# ── mannshto.tsv ──
+çpabesem | verb | lose faith
+shoshitës | adj | sifting; sifter
+shoshis | other | sift, riddle
+shoshloj | other | sift
+shoshkë | other | riddle, sieve
+shovenist | other | chauvinist
+shovenizëm | other | chauvinism
+shpaz | other | pumice
+shpabesem | other | turn traitor, desert
+shpagonjës | adj | repaying, avenging; repayer
+shpalis | other | unfold, unfurl
+shparcë | other | duster
+shparthishtë | other | wood of broad-leafed oaks
+shparë | adv | earlier, previously
+shpargjën | other | swaddling clothes
+shparshëm | adj | previous
+shparroj | other | rout, scatter
+shpasunim | other | impoverishment
+shpasunoj | other | impoverish
+shpatëll | other | shoulder-blade
+shpatinë | other | slope
+shpatillic | adj | sword-shaped
+shpatore | other | iris (plant)
+shpattar | other | swordsman
+shpatullore | other | shoulder-strap
+shpejtni | other | speed, haste
+shpejtsi | other | speed
+shpejtueshëm | adj | quick, hasty

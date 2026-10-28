@@ -2465,3 +2465,17 @@ shorttar | fallxhor | alternative
 shortthënës | fallxhor | alternative
 shortzi | fatzi | alternative
 shoshare | shoshë | alternative
+# ── Mann 1948 ──
+çpabesem | shpabesem | alternative
+shoshis | shoshit | alternative
+shoshloj | shoshit | alternative
+shoshkë | shoshë | alternative
+shpaz | shtuf | alternative
+shpagonjës | shpagues | alternative
+shpalis | shpalos | alternative
+shpargjën | shpërgënj | alternative
+shpasunim | varfërim | alternative
+shpasunoj | varfëroj | alternative
+shpatëll | shpatull | alternative
+shpejtni | shpejtësi | alternative
+shpejtsi | shpejtësi | alternative
