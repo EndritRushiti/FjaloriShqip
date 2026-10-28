@@ -61494,3 +61494,37 @@ sherit | other | ribbon, band, tape
 shertëroj | other | sigh
 shertoj | other | sigh
 shertimë | other | sigh
+# ── mannshto.tsv ──
+sherrac | adj | wicked
+sherregjuer | adj | hypocritical; hypocrite
+sherragjuer | adj | hypocritical
+sherrtar | adj | fraudulent, wily, wicked
+shestek | adv | badly, unluckily
+shesti | other | art, method, system
+shestis | other | trouble, disturb
+shestje | other | aim, object
+sheshane | other | carbine, musket
+sheshen | other | turret, watch-tower
+sheshël | other | slipper
+sheshojcë | other | rasp, scraper
+sheshtirë | other | plain
+sheshtim | other | levelling, plan
+shetas | other | walk
+sheti | other | walk
+shetitar | other | traveller, tourist
+shetullë | other | case, box
+shezë | other | covert, hide-out (for shooting birds)
+shëfrej | other | suffer
+shufrenj | other | suffer
+shëfrim | other | suffering
+shëgjetar | other | archer
+shëgjetoj | other | shoot (arrows)
+shëgjetullë | other | arrow, dart
+shëkim | other | sight
+shëkonjës | other | spectator
+shëlar | other | swing
+shilar | other | swing
+shëlarem | other | swing, sway
+shëlarës | other | swing
+shëloj | other | saddle
+shëllinshëm | adj | salty, briny
