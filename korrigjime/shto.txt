@@ -59630,3 +59630,45 @@ rrahadere | noun | scamp, street urchin
 rrahanoj | verb | raze, fell, lay low
 rrahcë | noun | trigger
 rrahme | noun | beating, thrashing; threshing; throb, pulsation; blow, clap, beat
+# ── mannshto.tsv ──
+rrahse | noun | beater; cudgel
+rrajpë | noun | strap
+rrajzë | noun | worm, esp. lob-worm used as bait; earthworm; silkworm; belly-worm; root, rootlet
+rrakaticë | noun | rattle, esp. to scare birds
+rrakëtrakë | noun | din, row, clatter
+rrakith | noun | agnus castus (bot.)
+rrakullej | verb | warble, croon
+rrallazi | adv | rarely, sparsely
+rralli | noun | rarity; sparseness
+rrallsim | noun | thinning
+rrallsoj | verb | thin out
+rralluk | noun | corn-cob with few grains
+rramis | verb | pass the time, amuse oneself
+rrangaj | adv | in disorder, in a muddle
+rrangë | noun | office, capacity
+rrangëllej | verb | chatter, rattle, jangle, clatter
+rrangëlloj | verb | chatter, rattle, jangle, clatter
+rrangëtohem | verb | worry (about), bother (about)
+rranguloj | verb | chatter, rattle
+rrangje | noun | oddments, chattels, belongings; merchandise; affairs; bother, trouble
+rrangjetonem | verb | worry, bother
+rrapame | noun | row, din, noise, clatter, commotion
+rrapas | verb | kick up a row, make a din, bang, slam, bash, crash
+rrapatem | verb | have a row, fight, brawl; strive, struggle, endeavour
+rrapaticë | noun | knocking about, struggle, racket
+rrapatimë | noun | noise, row
+rrapatoj | verb | brandish, wield
+rrapinë | noun | body of cart
+rrapsall | noun | barley-wheat
+rraptimë | noun | din, row, noise
+rraptoj | verb | make a noise, kick up a row
+rraqetar | noun | porter
+rrasallis | verb | press down, trample; force, press on, impel
+rrasanike | noun | seed-cabbage
+rrasbuq | noun | game played with flat stones or walnuts
+rrasëz | noun | slate (for writing)
+rrasik | noun | flat stone, pebble, slate; flat; slaty, stratified, schistose
+rrasmeni | noun | density
+rrasmoj | verb | press, compress
+rrastas | adv | as the case may be
+rrapalloj | verb | brandish, wave
