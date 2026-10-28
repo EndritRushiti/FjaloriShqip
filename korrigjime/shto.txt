@@ -63482,7 +63482,6 @@ tockë | other | corn-cob
 toçile | other | potter's wheel
 toçis | other | pour out, decant, draw off (wine); transfuse
 toçitje | other | pouring out, decanting; transfusion
-togëz | other | small coin
 togkomandant | other | group commander
 togoj | other | pile up, heap up, amass
 togjer | other | lieutenant
@@ -63490,7 +63489,7 @@ tojagë | other | staff
 tojere | other | baker's peel
 tojzë | other | ligament; string (of an instrument)
 toklimzë | other | mill-clapper
-tokmakës | other | hawfinch
+tokmakës | other | bird of medium size with a thick beak and short tail
 toknajë | other | land, territory
 toksë | other | buckle
 toksim | other | grouping, system
@@ -63498,7 +63497,6 @@ toksoj | other | bunch together, group, systematise
 tokthi | adv | in mass, wholesale
 tolec | other | tomb, vault
 tollmoll | adv | in a mess, higgledy-piggledy
-tolopuçe | other | cheeks (in phrase)
 tolu | other | leguminous plant used for bronchitis
 tollac | adj | bald
 tollohem | other | get bald
@@ -63515,7 +63513,6 @@ tomate | other | tomato
 tomboll | other | a musical instrument
 tomës | other | bird with a thick beak
 tomherr | other | fig-eater (bird)
-tomoriqe | other | corn bunting
 ton | other | tunny
 tonaç | other | fool
 tonellatë | other | ton
