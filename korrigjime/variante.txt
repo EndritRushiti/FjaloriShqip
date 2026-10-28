@@ -3182,3 +3182,11 @@ tuhas | tuharis | alternative
 tuhatet | tuharitet | alternative
 tujis | tuis | alternative
 tulipë | tulipan | alternative
+# ── Mann 1948 ──
+tullgë | tullë | alternative
+tunckë | tundës | alternative
+tundc | tundës | alternative
+tundulloj | tundullij | alternative
+turçi | turshi | alternative
+turfan | tufan | alternative
+turishtë | torishtë | alternative

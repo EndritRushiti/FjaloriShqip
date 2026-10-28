@@ -63983,3 +63983,43 @@ tulis | other | tame, quell, smother, stifle
 tulitje | other | quelling, smothering, suppression; cowering, huddling
 tulpan | other | gauze, tulle
 tultac | adj | flabby, fleshy
+# ── mannshto.tsv ──
+tultinë | other | fertile land, arable land, rich soil
+tullgë | other | brick
+tullos | other | tile
+tullupan | adj | bald
+tumak | other | counter (in games); bronze, tombac
+tumakët | adj | of bronze
+tuman | other | a bird; pelican
+tumane | other | drawers, baggy trousers
+tumb | other | unripe fig; cream
+tumbakët | adj | of bronze
+tumbë | other | tumulus, hillock, knoll, mound; peak; pile, heap, bunch; tomb
+tumirem | other | get better, improve
+tumullac | other | bladder, balloon; chubby, bonny
+tunckë | other | churn
+tunç | other | bronze
+tundc | other | churn
+tundëllimë | other | surge, swell, breaking (of waves)
+tundëlloj | other | shake, rattle
+tundërshkundër | adj | dolled up, decked out
+tundme | other | shake, shock
+tundubishte | other | wagtail
+tundullij | other | shake, rattle
+tundulloj | other | shake
+tunsh | other | bronze, brass
+tupel | other | umbrella
+tupis | other | blunt
+turçi | other | pickles
+turec | other | partridge
+tureçkë | other | nose, snout; phiz, mug
+turë | other | turtle-dove; bolster
+turëz | other | sequin, coin; cash, money
+turfan | other | gale
+turibullë | other | censer
+turis | other | scare off
+turishtë | other | paddock, fold
+turjelim | other | boring, sounding
+turjeloj | other | bore, sound, tap
+turllos | other | stun, stupefy, daze
+turllosur | adj | stunned, dazed, giddy, dizzy
