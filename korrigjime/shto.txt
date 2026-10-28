@@ -60556,3 +60556,81 @@ skapërdhiks | verb | lower the head (of horses); rear
 skapis | verb | castrate
 skapitoj | verb | show the teeth; chatter the teeth (with cold)
 skapulis | verb | overcome
+# ── mannshto.tsv ──
+skapull | noun | breaker, trainer (of horses)
+skapulli | noun | higgling, jobbing; escape
+skapullim | noun | higgling, jobbing; escape
+skapulloj | verb | higgle, job; escape
+skaq | noun | chess
+skaramagje | noun | raincoat
+skarci | noun | extravagance
+skarçelar | verb | spoil, ruin, waste
+skarllat | noun | scarlet
+skarllatin | adj | scarlet
+skarmá | noun | rowlock
+skarpinë | noun | shoe
+skarrivojë | noun | scorpion
+skataris | verb | bewitch, spellbind
+skatragjysh | noun | great-grandfather
+skatragjyshe | noun | great-grandmother
+skef | noun | race, stock, strain
+skej | noun | tip, edge, end
+skembël | noun | stool
+skencë | noun | science
+skep | noun | point, tip, corner, outer corner (of building); beak; prong of fork
+skepa | noun | serrations (of leaves)
+skepatar | adj | slim, slender; swaggering, vain
+skepkuq | noun | horned viper; redbeak; male blackbird
+skepoj | verb | peck
+skeptore | noun | woodcock
+skeptrashë | noun | grossbeak
+skepverdhë | adj | with yellow beak; male blackbird
+skerre | noun | worm
+skëlpurdh | noun | fungus
+skëmle | noun | stool, chair, seat
+skëndejmë | adj | drunk
+skërbaj | noun | monsters
+skërfell | noun | shoot
+skërfëndell | noun | buzzard
+skërfis | verb | scratch, graze, chap
+skërlepkë | noun | matter from the eyes, rheum
+skërloq | noun | matter from the eyes
+skërlut | noun | matter from the eyes
+skërmis | verb | tear
+skërmitës | adj | snarling; threatening
+skërtas | verb | creak
+skëtejmit | adv | excessively
+skëterë | noun | darkness
+skëterrtë | adj | hellish, infernal
+skij | verb | strain (one's eyes)
+skilfer | noun | hawk
+skilfyer | noun | hawk
+skili | noun | craft, cunning, shrewdness
+skilifacë | noun | grimace
+skilifaqe | noun | grimace
+skinjur | adj | clear, bright
+skirficë | noun | mole-cricket
+skistër | noun | crowbar with hook
+skitë | noun | diarrhoea, dysentery
+skitloj | verb | smudge, blot, smear, mess, scribble on
+skithem | verb | whinney
+skithi | adv | sideways
+skjaret | verb | it is clearing up
+skjarim | noun | clearing up; explanation
+skjaroj | verb | clear up (of weather); explain
+skjav | noun | slave
+skjep | noun | beak; fork of shaft (on cart)
+skjufur | noun | sulphur
+skjup | noun | beak
+skjuq | adv | (sit) brooding
+skjuqët | adj | reticent, coy
+skjutë | adj | awake, alert
+sklavi | noun | slavery
+sklavos | verb | enslave
+sklepos | adj | gowly
+sklubë | noun | matter of the eyes, gowl
+skluqem | verb | sob
+sklapë | noun | thickly falling snow; catarrh
+skllaq | verb | squash, batter
+skllevëri | noun | slavery, captivity
+skllevëroj | verb | enslave; take prisoner, capture, captivate
