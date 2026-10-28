@@ -61933,3 +61933,42 @@ shkolis | other | undo, unfasten
 shkolitem | other | get unstuck, come undone
 shkolkë | other | shell; keel
 shkollomendo | other | madness
+# ── mannshto.tsv ──
+shkombsim | other | denationalisation
+shkombsoj | other | denationalise
+shkombtarim | other | denationalisation
+shkombzim | other | denationalisation
+shkombtaroj | other | denationalise
+shkombzoj | other | denationalise
+shkond | other | shake off
+shkonxuronj | other | abjure
+shkopaxingëll | other | tipcat (game)
+shkopëçingël | other | tipcat
+shkopec | other | castrated goat
+shkopsis | other | unbutton, unfasten
+shkoqitshëm | adj | explicable
+shkordh | other | deflate; break down
+shkorth | other | deflate
+shkordhem | other | break down, decline, collapse
+shkordhët | adj | deflated; decadent, broken down
+shkordhoqe | other | cock-and-bull tale, rubbish
+shkoshë | other | carpet
+shkorzë | other | flue, chimney
+shkozabardhë | other | large-leafed hornbeam
+shkracë | other | trigger
+shkrackë | other | slab of stone
+shkrahis | other | expand, develop
+shkrahitje | other | expansion, development
+shkrapje | other | scorpion
+shkrapth | other | viper, adder
+shkref | other | release, discharge, fire
+shkrefët | adj | discharged; broken down, decayed
+shkrefje | other | discharge, shot; collapse
+shkreftij | other | snort
+çkreftij | other | snort
+shkreftis | other | snort
+shkreftim | other | snort
+shkrehëz | other | slab of stone (for a bird-trap)
+shkrej | other | break down, discharge
+shkrepas | other | blink
+shkrepcë | other | match
