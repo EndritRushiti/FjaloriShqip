@@ -65120,3 +65120,41 @@ vërushkë | other | small hole
 vërvij | other | hurl, fling
 vërvitës | adj | vigorous, active, lively, impetuous, hasty, dashing
 vërvitsi | other | impetuosity, hastiness, liveliness, vigour
+# ── mannshto.tsv ──
+vërrnal | adj | big-built, huge, gigantic, massive; giant
+vërrnoz | adj | huge
+vëshëllej | other | whistle
+vëshëllim | other | whistle
+vëshëllimë | other | whistle
+vëshgimtar | other | examiner, investigator
+vëshgonjës | adj | investigation-, watch-; investigator, inspector
+vëshnak | other | ditch, dike, channel
+vështar | other | treasure
+vështinë | other | viscous substance, matter; bung, stopper
+vështirim | other | impediment, hindrance, detriment, handicap
+vështiroj | other | hinder, check, impede, handicap
+vështirsinë | other | difficulty
+vështonjës | adj | visiting, watching, observing; visitor, observer
+vëtul | other | kid
+vëxoj | other | thrive, bloom, come into bloom
+vëzhdallë | other | furrow, channel, ditch
+vgjall | other | revive
+vgjanj | other | find
+vgjenishtë | other | plantation of pines, pine wood
+vgjerishtë | other | pine wood
+vgjenjë | other | cedar; juniper
+vgjollë | other | salting-place for cattle
+viaxë | other | journey, voyage
+viaçë | other | journey
+viçtak | other | veal
+vidan | other | wood-pigeon
+vidlim | other | cuddling, flirtation
+vidloj | other | cuddle, flirt
+vidrush | adj | mottled, pied, variegated
+vidulac | adj | fondling, coaxing, flattering
+vidullë | other | tap, faucet; water-spout
+vidush | adj | mottled, speckled (of birds)
+vidhem | other | be plundered, be robbed; creep away, steal away, slink
+vidhët | adj | of elm
+vidhimë | other | boring, siphon, sunk well
+vidhoj | other | screw, screw up

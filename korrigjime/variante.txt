@@ -3572,3 +3572,11 @@ vërgjiri | virgjëri | alternative
 vërtetsi | vërtetësi | alternative
 vërtullim | vërtëllim | alternative
 vërtudë | vërtyt | alternative
+# ── Mann 1948 ──
+vërrnoz | vërrnal | alternative
+vëshëllej | vërshëllej | alternative
+vëshëllim | vërshëllim | alternative
+vëshëllimë | vërshëllimë | alternative
+vështirsinë | vështirësi | alternative
+vgjerishtë | vgjenishtë | alternative
+viaçë | viaxë | alternative
