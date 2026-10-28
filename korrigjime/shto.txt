@@ -64662,3 +64662,53 @@ valsi | other | undulation
 valsim | other | undulation
 valsoj | other | undulate, surge
 valavimë | other | swaying, waving
+# ── mannshto.tsv ──
+valzim | other | undulation
+valzoj | other | undulate
+valandosem | other | lose heart
+vallanidh | other | acorn
+vallanith | other | acorn
+valldarje | other | large black variety of plum
+vallkim | other | dance (in phrase); ball
+vallni | other | ball, dance
+valloj | other | surround; drive (goats); turn round
+valltak | adj | marshy
+valltë | other | marsh, stagnant water
+vallto | other | marsh
+valltor | other | dancer
+valltore | other | dancer (woman)
+valltorkë | other | dancer
+valltovinë | other | marsh, morass
+vallue | other | fishing-net, eel-net
+vallzim | other | dancing
+vallzoj | other | dance
+vandaqe | other | bundles, sheaves
+vandi | other | praise; boasting
+vandim | other | praise
+vandoj | other | praise, flatter; pack, parcel up
+vandok | other | bundle, sheaf
+vanell | other | plover, lapwing
+vanelë | other | plover
+vanesë | other | sloth, dallying, loitering, delay
+vanestar | adj | dallying, dilatory, slothful; loiterer
+vangnim | other | squinting, strabismus
+vangnoj | other | squint
+vangullim | other | squinting
+vangulloj | other | squint
+vangjel | other | Gospel
+vangjelis | other | evangelise
+vangjelistë | other | evangelist
+vanim | other | delay, loitering
+vanxhkë | other | loop-hole, musket-hole
+vapk | adj | poor
+vaporr | other | steamer, steamboat
+vapore | other | freckle
+vapulloj | other | singe, sear, scorch
+vapoj | other | rest at noon, have a siesta; keep cool, spend the summer
+varavigë | other | babble, din, chatter
+vardall | other | large variety of plum
+vardisur | adj | insistent, persistent, importunate
+vardhar | other | waterfall
+vardhër | other | waterfall
+vardhë | other | sentry, guard
+varelar | other | cooper
