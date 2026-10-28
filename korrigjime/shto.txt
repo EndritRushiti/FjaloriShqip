@@ -63782,3 +63782,50 @@ trimath | other | hero
 trimëdhetët | adj | thirteenth
 trimëronjës | adj | encouraging, heartening
 trimijë | num | three thousand
+# ── mannshto.tsv ──
+trimnisht | adv | heroically, bravely
+trimnohem | other | become bold, take courage
+trimnoj | other | encourage, hearten
+trimoç | adj | brave
+trimth | other | little hero (term of endearment for a deceased husband)
+trimuejshëm | adj | quarterly
+trinak | other | triplet
+trinckë | other | a bird
+tring | adv | packed full, chock-full
+tringec | other | bullfinch
+tringulloj | other | ring
+tringlloj | other | ring
+tringullimë | other | ringing
+tringllimtar | adj | ringing, tinkling
+tringullues | adj | ringing
+tringjyrsh | adj | tricolour(ed)
+tringjyrtë | adj | tricolour
+trini | other | threesome, trio
+trinim | other | harrowing
+trinoj | other | harrow
+triore | other | sieve, riddle
+triorje | other | embroidery
+tripalsh | adj | tripartite
+triptë | other | trivet
+triqoshe | other | triangle
+triqoshës | adj | triangular
+trirrokcë | adj | trisyllabic
+trirrokës | adj | trisyllabic
+trirrokse | other | trisyllable
+triskajës | adj | three-cornered, triangular
+trishçe | adv | in three parts, threefold
+trishkull | other | shoot, scion, twig; flat stone for skimming; crust of bread; darling
+trishtonj | other | frighten, sadden
+trishulët | adj | three-masted
+trishultë | adj | three-masted
+triumfonjës | adj | triumphant
+triungj | other | great-great-uncle
+trivjetshëm | adj | three-year
+trizanore | other | triphthong
+trizantore | other | triphthong
+trizash | adv | in three parts
+trobolec | adv | recovering (from an illness)
+trobolicë | other | butter-churn
+troçkë | other | scrap of bread
+trohallë | other | rock eroded by water
+trokale | other | little bell
