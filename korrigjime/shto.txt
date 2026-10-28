@@ -59311,3 +59311,59 @@ raskapitur | adj | panting, gasping, exhausted; decrepit
 raskutë | noun | rock-cave
 rasojë | noun | pickles
 rasshëm | adj | casual, occasional, opportune, apposite, convenient
+# ── mannshto.tsv ──
+rastëm | adj | apposite, convenient
+rastnisht | adv | occasionally; as the case may be; by chance, casually
+rastërisht | adv | occasionally, by chance
+rastsisht | adv | occasionally, by chance
+rastshëm | adj | chance, casual
+rasuell | noun | pickling cabbage; pickles
+rasolli | noun | pickles
+rashëm | adj | falling; deciduous
+rashqel | noun | rake
+rashtjel | noun | rake
+ratas | adv | horizontally, flat
+ratmeni | noun | levelness, horizontalness
+ravend | noun | rhubarb
+ravë | noun | path, track, esp. mountain-track; sense of direction, bearings
+ravgim | noun | wandering, roaming, straying
+ravgoj | verb | seduce, mislead; wander, stray, roam, deviate, lose one's way
+ravgohem | verb | stray, roam
+ravisë | noun | drawing, sketch
+ravizë | noun | drawing, sketch
+ravizim | noun | drawing, sketching, sketch, outline, tracing
+ravizoj | verb | draw, sketch, trace, outline
+razakë | noun | dark variety of grape
+razaki | noun | dark variety of grape
+razë | noun | beam, ray; line
+razëm | noun | spokeshave
+razishëm | adj | acquiescing, condescending
+raznim | noun | discussion, chat
+raznoj | verb | discuss, chat
+razog | noun | levy, poll tax, family tax
+rebe | noun | caprice, whim
+rebemadh | adj | capricious, whimsical
+rebelonj | verb | rebel
+rebesh | noun | downpour
+rebër | noun | rib
+rebët | adj | steep
+recin | noun | castor oil
+recinë | noun | spiritous liquor made from resin
+reçet | noun | rest, repose
+red | noun | turn, order, series, layer
+redinë | noun | clearing (in a forest)
+redis | verb | arrange
+reditem | verb | sit down
+reditat | noun | adoption
+reditonj | verb | inherit
+redoj | verb | talk, chat
+reformonj | verb | reform
+refreskonj | verb | refresh
+regti | noun | gasp
+regtij | verb | breathe, breathe out, gasp
+regtimë | noun | breath, gasp; sob, wail, groan
+regtis | verb | breathe; gasp, choke
+regtizë | noun | little sob, slight gasp
+regtoj | verb | sob, gasp
+regzinë | noun | swaddling-band, napkin
+regjëroj | verb | rule
