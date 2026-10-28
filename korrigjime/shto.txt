@@ -63389,3 +63389,48 @@ tërshërt | adj | oaten
 tërtër | other | barocco, coils, flourishes
 tërtërcë | other | a small-leafed plant
 tërthorcë | other | cross-piece, cross-beam, sleeper
+# ── mannshto.tsv ──
+tërthorsi | other | obliquity, athwartness
+tërthorshëm | adj | crooked, awry, crosswise
+tërthorzohet | other | misfire, ricochet (of a gun)
+tërthuershëm | adj | transversal, oblique
+tërthuras | adv | crosswise, askew; obliquely, indirectly
+tërthurazi | adv | crosswise
+tërthurshëm | adj | crooked, awry; oblique, indirect
+tërthurtë | adj | oblique
+tërthurveprues | adj | proxy, third party
+tërvesë | other | table
+tërvjelë | other | gimlet
+tërxhimend | other | dragoman, interpreter
+tëryelë | other | gimlet
+tfaqem | other | appear, show, be manifest
+tfaqje | other | display, manifestation
+tfillim | other | detailing, explanation, development; instructions
+tfurk | other | crutch; table-fork
+tfurkth | other | scorpion
+tidhunë | other | bitterness
+tiell | other | wind, wrap
+tierr | other | spin
+tierrje | other | spinning
+tierrshëm | adj | spinnable
+tifë | other | typhus
+tiftik | other | lint; mohair
+tigankë | other | small frying-pan
+tigëz | other | brim (of a hat)
+tihinjaç | adj | roan (of a horse)
+tihme | other | regard, consideration
+tihmoj | other | help
+tiktim | other | beat, pulse
+tiktoj | other | beat, pulsate
+timaros | other | feed up, fatten, rear (cattle)
+timjon | other | thyme
+timoj | other | smoke
+timonar | other | steersman, helmsman
+timos | other | smoke, fumigate
+timu | other | helm, rudder
+timue | other | helm
+timunar | other | helmsman
+timur | other | fright, terror
+tinazi | adv | secretly
+tingrim | other | trice (in a trice)
+tingthi | adv | on one foot (hopping)
