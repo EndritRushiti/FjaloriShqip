@@ -60866,3 +60866,62 @@ spurdhiak | other | sparrow
 sqartas | adv | clearly, obviously
 sqartim | other | explanation
 sqartoj | other | explain
+# ── mannshto.tsv ──
+sqebe | other | scabies, itch
+sqebon | other | melon
+sqele | other | quay, wharf, harbour
+sqelë | other | quay, wharf
+sqeletë | other | skeleton; framework
+sqelet | other | skeleton
+sqiletë | other | skeleton
+sqelm | other | kick
+sqendroj | other | tarry, dally, loiter
+sqenë | other | scene, stage
+sqentar | other | scenery-furnisher
+sqepos | other | peck
+sqepoj | other | peck
+sqeptër | other | sceptre
+sqërbull | other | dandruff
+sqermë | other | fencing
+sqermoj | other | fence
+sqetë | adj | clear
+sqërtokë | other | magpie
+sqicë | other | sketch
+sqicoj | other | sketch
+sqiftër | other | hawk
+sqili | other | sunny spot
+sqimtar | adj | showy, flashy, vain
+sqimohem | other | show off, doll oneself up
+sqimth | other | dandruff
+sqipar | other | lane, defile, gorge
+sqist | other | slate
+sqoj | other | wake, rouse
+sqohem | other | wake (intr.)
+sqotsi | other | alertness, ability
+sqolloj | other | ditch, drain
+squet | adj | alert, attentive, bright, clever
+squetas | adv | alertly, cleverly
+squetsi | other | alertness, sagacity, intelligence
+squfurtë | adj | sulphur-
+squfurosh | adj | sulphurous
+squk | other | hatch
+squkë | other | broody hen
+squksi | other | broodiness
+squp | other | beak
+sqyp | other | beak
+squrfull | other | sulphur
+sqyfur | other | sulphur
+squtas | adv | cleverly, cautiously
+sqylet | other | stiletto, dagger
+sqyre | other | dish, bowl, basin; crucible
+sqyrje | other | dish, bowl
+sqyrtar | other | inspector
+sqyrtim | other | enquiry, inspection
+sqyrtoj | other | examine, inspect
+stadje | other | furlong
+stadhe | other | furlong
+stajan | other | butler, steward
+stajanicë | other | housekeeper
+staje | other | gang, band
+stajë | other | gang, band
+stalë | other | flock, herd
