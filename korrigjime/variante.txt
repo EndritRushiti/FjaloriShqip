@@ -3011,3 +3011,12 @@ tollovis | tollovij | alternative
 tonellatë | tonelatë | alternative
 tonos | tonis | alternative
 topalloj | çaloj | alternative
+# ── Mann 1948 ──
+topërr | topër | alternative
+topus | topuz | alternative
+torallak | torollak | alternative
+torelë | torel | alternative
+torolla | torollak | alternative
+torrovan | torovan | alternative
+torroveshkë | torroveçkë | alternative
+torrua | torua | alternative

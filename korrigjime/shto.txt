@@ -63522,3 +63522,56 @@ tonos | other | cause to ache
 topallak | other | bunch, sheaf, bundle, cluster
 topalloj | other | limp
 topan | other | drum
+# ── mannshto.tsv ──
+topar | other | gunner
+topas | adv | altogether
+topepritenjë | other | kind of cricket or rounders game
+topë | other | unripe fig
+topërr | other | axe, hatchet
+topil | other | truss (of hay, maize), sheaf, rick; irrigation pond, reservoir
+topile | other | reservoir, head of water, cistern
+topkalorthazi | adv | game of "horses and riders" (with a ball)
+topkë | other | stigma (of a flower)
+topkiethin | adv | game of ball with a ring round a leader
+toprri | other | stupor
+toprrohem | other | be dazed, faint, swoon
+toprroj | other | daze, stupefy
+topte | other | wholesale
+topthi | adv | in a ball, like a ball
+topus | other | club, heavy stick
+toraç | other | bullock, steer
+torallak | adj | foolish; fool
+toravore | other | twaddle, chatter
+torbiçkë | other | anther
+torboz | adj | peaty
+torel | other | press (for wine or oil); screw; shrewd person
+torelë | other | press
+torlar | adj | shrewd, crafty; intriguer
+torloj | other | swindle, cheat
+toris | other | disperse, scatter
+toritem | other | scatter, be dispersed; be distracted, be embarrassed
+torkë | other | hank, skein; hunt-the-torque game
+torkullë | other | press
+toro | other | track, path, scent, direction, bearings
+torolla | other | fool
+torollaqe | interj | victory chant (in the "cap" game)
+toroman | adj | stupid; fool
+torameçkë | other | silly wench
+toromezas | adv | blindly, gropingly
+torovan | other | cricket
+torovol | adj | stupid; fool
+torozhan | other | a bird
+torpedinë | other | torpedo
+torpilloj | other | torpedo
+torpillore | other | destroyer
+tortoshere | adj | doting, dotty
+tortulloj | other | incite, egg on, trick into doing
+torraq | adj | importunate, bothersome, boring
+torrem | other | bend, double oneself
+torrent | other | torrent
+torrloc | adj | foolish; fool
+torromezas | adv | staggering, unsteadily
+torrovan | other | cricket
+torroveçkë | other | mouth, muzzle, snout; blubber-lip
+torroveshkë | other | snout
+torrua | other | track, path
