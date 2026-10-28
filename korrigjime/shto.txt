@@ -63556,7 +63556,6 @@ toro | other | track, path, scent, direction, bearings
 torolla | other | fool
 torollaqe | interj | victory chant (in the "cap" game)
 toroman | adj | stupid; fool
-torameçkë | other | silly wench
 toromezas | adv | blindly, gropingly
 torovan | other | cricket
 torovol | adj | stupid; fool
@@ -63575,3 +63574,5 @@ torrovan | other | cricket
 torroveçkë | other | mouth, muzzle, snout; blubber-lip
 torroveshkë | other | snout
 torrua | other | track, path
+# ── mannshto.tsv ──
+toromeçkë | other | silly wench
