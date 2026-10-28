@@ -60372,3 +60372,55 @@ serraf | noun | money-changer
 serrotinë | noun | hoop, ring
 sesenë | noun | limestone
 sesihe | noun | means
+# ── mannshto.tsv ──
+sestë | noun | sixth hour
+sestim | noun | basting, rough-sewing
+sestoj | verb | baste, rough-sew
+sestoje | noun | grille, iron bars, hurdle, railing
+setëm | adj | sifted
+seter | noun | jacket, coat; bonnet (of car)
+sevapçar | noun | almoner
+sevrijen | noun | basil
+sëgjithash | adv | altogether
+sëhan | noun | bowl
+sëkëlldis | verb | worry, trouble
+sëkëlldisem | verb | be worried, worry
+sëllis | verb | walk
+sëmbrapi | adv | backwards
+sëmedel | noun | plant with leaves like those of the Judas tree
+sëmuetore | noun | hospital
+sëmund | adj | ill, sick
+sëmundem | verb | fall ill
+sëmundëm | adj | ill, sick
+sëmundmi | noun | invalid
+sëmundtore | noun | hospital
+sëmurtore | noun | hospital
+sëndisur | adj | grieved, troubled, sad
+sëndyq | noun | box, chest
+sëprapi | adv | back, again
+sëqetthi | adv | quietly, unawares
+sëqish | adv | thus, as follows
+sëraj | noun | palace, mansion
+sëravis | verb | cumulate
+sëravitje | noun | cumulation
+sërendis | verb | line up, string together, arrange
+sërishti | adv | anew, again
+sërithi | adv | anew, again
+sërmanjtë | adj | silver
+sërmë | noun | silver
+sërosem | verb | line up, fall in
+sërthin | noun | follow-my-leader (game)
+sërrek | noun | new growth on trees
+sëvoni | adv | lately, of late
+sfejkël | noun | aromatic plant used in salads
+sfëngjertë | adj | spongy
+sfikë | noun | ichneumon
+sfilis | verb | torment, torture, try, worry
+sfinë | noun | wedge
+sfinger | noun | sponge
+sfingë | noun | sphinx; hawkmoth
+sfingës | noun | finch
+sfingji | noun | bayonet
+sfongar | noun | sponge
+sfunk | noun | crop or breastbone of bird
+sfurgje | noun | tongs
