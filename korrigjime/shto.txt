@@ -64454,3 +64454,52 @@ ullak | other | messenger
 ullug | other | pipe, drain
 # ── mannshto.tsv ──
 ultare | other | chair
+# ── mannshto.tsv ──
+ullullim | other | crooning
+ullulloj | other | croon
+ulluvegë | other | barn owl; little owl
+uman | adj | humane
+umbidha | other | front milk teeth of a horse
+umbrellë | other | umbrella
+umrelë | other | umbrella
+umth | other | gastric juice, chyme
+unak | other | hearthstone
+unazth | other | third finger, ring finger
+undyrë | other | fat, suet; the cream, the elite
+undyrtë | adj | fatty, suety, greasy
+unejre | other | fat
+unshim | other | hunger, greed
+unëshim | other | hunger
+ungjërim | other | grunt, grunting
+ungjëroj | other | grunt
+ungëroj | other | grunt
+ungjentë | other | salve, oil
+unjill | other | Gospel
+ungjillisht | adv | evangelically
+ungjillsim | other | evangelisation
+ungjillzim | other | evangelisation
+ungjillsoj | other | evangelise
+unirem | other | unite
+unorth | other | steel
+unq | other | lower
+unshëm | adj | hungry; eager, greedy
+unshoj | other | hunger
+unshtë | adj | hungry
+unshtohem | other | be hungry, get hungry
+unshtueshëm | adj | hungry, avid
+unuer | other | striking-steel, striker, fire-steel
+unur | other | fire-steel
+unjem | other | sit down
+unjësi | other | lowness, lowliness, humility
+unjisim | other | unification, unity, solidarity, union
+unjisoj | other | unify
+unjishëm | adj | total, entire, complete, perfect, absolute
+unjshëm | adj | humble
+unjtër | adj | low
+unjtsor | adj | humble
+upi | other | bishopric
+upupu | interj | alas!
+urac | other | plank-bridge, foot-bridge
+urakull | other | oracle
+uratar | other | priest; one who pronounces a benediction
+uratës | other | worshipper
