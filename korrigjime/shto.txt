@@ -64282,3 +64282,36 @@ thjerishtë | other | small variety of lentil
 thjerishtëm | adj | ashen, grey
 thjeshtëm | adj | simple, primary, elemental; cardinal (of numbers)
 thjeshtas | adv | purely, simply
+# ── mannshto.tsv ──
+thjeshtni | adv | purely
+thjeshtsi | other | purity, simplicity
+thjeshtsim | other | purification, simplification
+thjeshtsisht | adv | purely, simply, merely, sheer
+thjeshtsoj | other | purify, simplify
+thkolltë | adj | thin, lean
+thkolltohem | other | get thin, get lean
+thkolltoj | other | wear thin, consume
+thkullem | other | get thin
+thmakth | other | caul (of animals)
+thnugël | other | dogberry
+tholohem | other | pine, languish
+thomasi | other | Thomas meal (chemical manure)
+thomse | adv | perhaps, maybe
+thonjës | adj | ungulate
+thopç | other | sprite, spook, roisterer, imp
+thopërnoj | other | obsess, possess (of devils)
+thrapse | other | broken branch of a tree with dried leaves
+thron | other | throne
+thrras | other | call, shout, summon
+thrreckë | other | briar; thistle
+thrres | other | call
+thrresë | other | call, appeal, summons, convocation
+thrritje | other | call, shout
+thtof | other | cool
+thtoftë | adj | cold
+thuath | other | bloodshot eye, ophthalmia
+thuer | other | weave, knit
+thukmeni | other | density
+thumbec | other | goad
+thumbos | other | sting, prick
+thumbsëpatë | other | a bird with thick spurs
