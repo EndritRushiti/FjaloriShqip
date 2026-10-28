@@ -63729,3 +63729,58 @@ trepo | adv | downwards
 treskajsh | adj | three-cornered
 treskë | other | hard lump of stone, flint, fragment; donkey shoe
 treskullë | other | scrap, shred
+# ── mannshto.tsv ──
+treshëm | adj | triple, threefold
+tretembramë | adj | antipenultimate
+tretmeni | other | solubility
+tretsi | other | solubility, digestibility
+trevezë | other | table
+trezanash | adj | three-part (song)
+trezgë | other | lump of stone, flint
+trëfil | other | clover
+trëmbë | other | stump
+trëmerak | adj | timid
+trëndafilok | other | wild rose
+trëndalinë | other | melilot
+trëndis | other | shake
+trëngëllij | other | ring, jingle, rattle, clink
+trëngullij | other | ring, jingle
+trëngëllis | other | ring
+trënk | adv | brand-new
+trëntor | other | male bee
+trianës | adj | three-cornered
+trianët | adj | three-cornered
+trianse | other | triangle
+triansh | adj | three-cornered
+tricep | other | triangle
+triçip | other | triangle
+tricepët | adj | triangular
+triçipët | adj | triangular
+triçkë | other | trio, threesome
+triçoj | other | renew, revive, benefit
+tridhambsh | other | trident (for spearing fish)
+tridhëmbsh | other | trident
+tridhjetët | adj | thirtieth
+trielë | other | gimlet
+trifil | other | clover
+trigli | other | red mullet
+trijore | other | riddle, sifter
+trikambcë | other | trivet, tripod
+trikambsh | adj | three-legged
+trikand | other | triangle
+trikande | other | triangle
+trikandës | other | triangle
+trikandët | adj | triangular, three-cornered
+trikëndsh | other | triangle
+trikëmbës | other | tripod, trivet
+trikomel | other | maize
+trikul | other | pitchfork
+trilidhje | other | triple alliance
+trillan | adj | whimsical, capricious, arbitrary, fanciful
+trillë | other | whim, fancy
+trimaç | adj | bold, brave
+trimaloç | adj | bold
+trimath | other | hero
+trimëdhetët | adj | thirteenth
+trimëronjës | adj | encouraging, heartening
+trimijë | num | three thousand
