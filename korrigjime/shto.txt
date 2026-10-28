@@ -61972,3 +61972,38 @@ shkrehëz | other | slab of stone (for a bird-trap)
 shkrej | other | break down, discharge
 shkrepas | other | blink
 shkrepcë | other | match
+# ── mannshto.tsv ──
+shkrepkë | other | match
+shkreptij | other | flash, sparkle; lighten
+shkreptoj | other | strike, flash
+shkresinë | other | writing materials
+shkresori | other | stationery
+shkretëri | other | solitude
+shkretnac | adj | wretched, forlorn
+shkretnim | other | devastation
+shkridhët | adj | steep, sheer
+shkrifoj | other | shred; loosen, break up, crumble
+shkrifsi | other | looseness, crumbliness
+shkrinjë | other | casket, foundry
+shkrimtari | other | writing, authorship
+shkrimtarkë | other | writing-desk
+shkrimës | other | writer, author
+shkrimisht | adv | in writing
+shkrip | other | quarry-stone, ashlar
+shkris | adj | melting, dissolving; founder, caster
+shkrisinë | other | solution
+shkristar | other | founder, caster
+shkrithem | other | flounder (as mules)
+shkrizë | other | solution
+shkrofe | other | sow
+shkrofë | other | sow
+shkroje | other | letter, character
+shkrojë | other | letter
+shkrolë | other | letter, document; flourish
+shkrojtore | other | office; writing-book
+shkrolc | other | wall-board, rack
+shkronjëzi | adj | unlucky
+shkronjëzezë | adj | unlucky
+shkronjtore | other | grammar (book); office
+shkruos | other | scribe
+shkruf | other | cord, rope

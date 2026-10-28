@@ -2364,3 +2364,16 @@ shkrefje | shkrehje | alternative
 shkreftis | shkreftij | alternative
 shkrej | shkreh | alternative
 shkrepcë | shkrepëse | alternative
+# ── Mann 1948 ──
+shkrepkë | shkrepëse | alternative
+shkreptoj | shkrep | alternative
+shkretnim | shkretim | alternative
+shkrinjë | shkrijë | alternative
+shkrimës | shkrimtar | alternative
+shkrisinë | tretësirë | alternative
+shkristar | shkrirës | alternative
+shkrizë | tretësirë | alternative
+shkrofë | shkrofe | alternative
+shkrojë | shkroje | alternative
+shkronjëzezë | shkronjëzi | alternative
+shkruos | shkrues | alternative
