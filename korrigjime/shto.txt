@@ -61727,3 +61727,44 @@ shkado | adj | some, any; something
 shkadohi | adj | some, any
 shkadhare | other | windowsill
 shkadhis | other | prune, trim, lop; hoe
+# ── mannshto.tsv ──
+shkafët | adj | able, skilful
+shkafis | other | swallow, gulp down
+shkafnoj | other | disembowel; break, shatter
+shkafnjej | other | disembowel
+shkafularës | other | shoulder-blade
+shkahje | other | state, condition
+shkaj | other | take a wrong course, go to the bad
+shkajk | other | cause, reason, pretext
+shkajoj | other | limit, restrict
+shkajqoj | other | cause
+shkajtshëm | adj | slippery
+shkaksi | other | causality
+shkalavesh | other | abuse, ill-treat, maul, disfigure
+shkalazis | other | mishandle, maul
+shkalbaltë | other | slander, insult
+shkalc | other | stretcher, bier; sedan-chair
+shkalitar | adj | spoilt, pampered; spoiler, pamperer
+shkalkohem | other | dismount (from a horse)
+shkalkoj | other | unhorse; unload (a horse)
+shkallart | adj | high-grade, superior, noble
+shkallnaltë | adj | high-grade, highly placed
+shkallim | other | craziness
+shkallinë | other | staircase; groove, channel
+shkallisht | adv | gradually
+shkallomë | other | step, stair
+shkallsim | other | grading
+shkallsisht | adv | gradually
+shkallsoj | other | grade
+shkallsuer | adj | gradual
+shkallzim | other | grading, graduation
+shkallzoj | other | scale, grade
+shkalltore | other | moving stairway
+shkallua | other | sprout
+shkam | other | stool, seat, chair
+shkanb | other | rock, cliff
+shqembe | other | rock
+shkambar | adj | rocky
+shkami | other | cliff
+shkamore | other | cliff
+shkamis | other | batter, dash
