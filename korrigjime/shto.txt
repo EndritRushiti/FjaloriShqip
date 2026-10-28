@@ -65158,3 +65158,47 @@ vidhem | other | be plundered, be robbed; creep away, steal away, slink
 vidhët | adj | of elm
 vidhimë | other | boring, siphon, sunk well
 vidhoj | other | screw, screw up
+# ── mannshto.tsv ──
+vik | other | bier, carrier
+vigam | other | shout, cry
+viganu | other | giant
+vigandër | other | giant
+vigandërt | adj | gigantic
+viganshëm | adj | gigantic, huge
+vigëm | other | shout, noise, cry; vigour
+vigurë | other | shout
+vigjëllim | other | vigilance, supervision
+vigjëlloj | other | watch, keep watch (over)
+vigjëllonjës | adj | vigilant; watcher
+vijacë | other | alley
+vijaçë | other | alley
+vijadam | adv | continuous(ly), successive(ly), running
+vijanos | adv | continuously
+vijashkë | other | rut
+vijëshkrim | other | drawing
+vijtore | other | victory
+vijocë | other | channel, gutter
+vijosës | adj | lining; liner, grainer, draughtsman
+vijosje | other | delineation; sketch; ruling
+vijsim | other | delineation
+vijsoj | other | line, rule
+vikamë | other | shout, cry, roar
+vikas | other | shout, cry
+vikem | other | shout
+vikë | other | plough
+vilapila | other | two nuts taken together (in the game of five stones)
+vilak | other | young straight sapling
+vilani | other | faint, swoon, unconsciousness
+vilanis | other | faint, swoon
+vilanos | other | faint
+vilanosur | adj | unconscious
+vilcje | other | group, cluster
+vilej | other | be worth
+vilem | other | be sick, vomit
+vilirem | other | pluck up courage
+viliron | other | well up, bubble, spring
+vilis | other | stun
+vilus | other | velvet
+vilush | other | velvet
+villar | other | roll
+vingjoj | other | defeat, overcome
