@@ -59441,3 +59441,45 @@ rëgjohem | verb | flag, droop, wither
 rëmarëm | adj | noisy, rumbling
 rëmërëma | adv | rumblingly
 rëmic | verb | scratch
+# ── mannshto.tsv ──
+rëndënj | verb | run
+rëndok | adj | massive, ponderous, onerous
+rëndomshëm | adj | common, ordinary
+rëndomthi | adv | commonly, ordinarily
+rëndsirë | noun | weight, burden, difficulty
+rëndzak | adj | ruptured
+rëndzuar | adj | ruptured
+rënje | noun | striking, blow; fall, collapse, downfall
+rënkesë | noun | sigh, moan, groan
+rënkimtar | adj | moaning, lamenting
+rënoj | verb | patch
+rënxak | adj | ruptured
+rënxë | noun | sperm
+rënxim | noun | fall, crash; rupture
+rënxoj | verb | rupture
+rënxohem | verb | be ruptured
+rënxuar | adj | ruptured
+rëpitur | adj | hunchbacked
+rëpjetëm | adj | rising, uphill, steep
+rëposhtëm | adj | lower
+rëqis | verb | pull out, uproot, pluck, jerk
+rëshas | verb | slip, slide
+rëshegullë | noun | woollen rope (for the cradle)
+rëshoj | verb | send away
+rëshohem | verb | depart
+rëshim | noun | slip, slide, sliding
+rëvoj | verb | arrive
+rgjandje | noun | silver
+riaftim | noun | rehabilitation, reinstatement
+riaftoj | verb | rehabilitate, reinstate
+ribesh | noun | currant
+ribiqin | noun | double-bass, cello
+ricinë | noun | ricinus; castor oil
+riell | noun | spurge; paddock
+rigalar | verb | give, present
+rigatë | noun | kingdom
+regën | noun | drizzle
+rikër | noun | drizzle
+rigët | adj | drizzly
+rigoj | verb | sprinkle, damp, moisten, water
+rihës | adj | complaining
