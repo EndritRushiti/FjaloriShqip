@@ -65544,3 +65544,54 @@ vraptoj | other | run
 vrapthi | adv | in haste, hastily
 vrarës | adj | killing, lethal; killer, murderer
 vrasi | other | murder
+# ── mannshto.tsv ──
+vrastall | other | shoot
+vrashndeshje | other | encounter
+vrashtë | adj | harsh, hard, cruel, rough, brusque, coarse, brutal, rude, crude
+vrratë | other | marking
+vrazhdi | other | harshness, hardness, cruelty, roughness, brutality
+vrazhdët | adj | harsh, rough
+vrazhët | adj | harsh, rough
+vrehem | other | be noticed
+vreje | other | notice, observation
+vrejshëm | adj | noticeable, observable; vigilant, watchful
+vrejtje | other | notice, observation, watch, note, remark
+vrejtim | other | note, remark, observation
+vrejtoj | other | note, remark, observe
+vrejtore | other | observatory; notebook
+vrejtshëm | adj | noticeable
+vrektuar | other | murderer
+vrelë | other | rush, bulrush
+vrrellë | other | spring, source
+vremçë | other | sparrow, starling
+vremc | other | sparrow
+vreme | other | note, remark, observation
+vremje | other | note, remark
+vrenjtimë | other | gloom, anxiety
+vreptar | other | runner
+vrerosem | other | be poisoned; feel bitter, fume, rage; be clouded over
+vrerosh | adj | poisonous, harmful
+vrersoj | other | cloud over, darken
+vretën | other | plot of land; measure of land
+vretinë | other | resin
+vrevë | other | bugbear, fear, anxiety, nightmare
+vrevëz | other | nightmare
+vrëhem | other | get cloudy; glower, frown
+vrëhje | other | overclouding; gloom
+vrëjtje | other | overclouding
+vrëjtur | adj | overcast, cloudy; gloomy, frowning
+vrëngër | adj | cross-eyed
+vrëngosh | adj | cross-eyed
+vrënjtem | other | cloud over, frown
+vrënjtur | adj | overcast, glum
+vrëroset | other | gets cloudy; frowns
+vrigsi | other | capacity, ability
+vrigullët | adj | lobed, lapped, flapping
+vrigullim | other | buzz, hum, whizz, whir
+vrigulloj | other | buzz, hum, whizz, whir
+vrikshëm | adj | dashing, hasty
+vrikull | other | flap, lobe
+vrilloj | other | rush, swoop, pounce
+vrimëz | other | hole; pore
+vringllim | other | whizz, whir, hum
+vringllimë | other | whizz, whir
