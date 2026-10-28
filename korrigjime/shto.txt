@@ -62830,3 +62830,40 @@ shtymës | adj | instigating; instigator
 shtymje | other | push, knock, jolt; postponement
 shtypëc | other | mortar (for crushing)
 shtypore | other | printing-house
+# ── mannshto.tsv ──
+shtyshëm | adj | aged, advanced in years
+shtytkë | other | encouragement, incentive; child's napkin
+shuajtje | other | extinction, erasure
+shuajëz | other | apostrophe
+shuajse | other | snuffer
+shubel | other | larkspur
+shuburtinë | other | lees of olives (after the last pressing)
+shueme | other | extinction
+shues | adj | extinguishing; extinguisher
+shuet | adj | extinct, put out; obscure; glum
+shufalak | adj | ragged, tattered
+shufalec | adj | ragged
+shufiak | adj | ragged
+shufioj | other | tatter
+shuframe | other | bolt, bar
+shufrim | other | thrashing, flogging
+shufroj | other | flog, thrash
+shufullij | other | murmur
+shug | other | lump, clump, clot, ball
+shugëllaq | adj | trembling
+shugëlloj | other | tremble, quake, rustle
+shujëz | other | apostrophe
+shujtar | adj | nutritive
+shujtje | other | fodder, foodstuff
+shujtim | other | feeding, provender
+shujtoj | other | feed
+shujtues | adj | feeding; feeder
+shujtueshëm | adj | nutritious
+shukare | other | row, brawl, scuffle
+shukas | other | silence; be silent
+shukë | other | flake (of snow, corn); forgetful person
+shukllojë | other | poker
+shukretë | other | slap, blow
+shukth | other | pellicule, pellet
+shukthi | adv | in a ball
+shulthi | adv | crosswise, transversely; askew

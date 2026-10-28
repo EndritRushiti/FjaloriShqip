@@ -2741,3 +2741,11 @@ shtrras | shtras | alternative
 shtullungë | shtëllungë | alternative
 shtupi | shtupë | alternative
 shtypore | shtypshkronjë | alternative
+# ── Mann 1948 ──
+shuajtje | shuarje | alternative
+shuajëz | apostrof | alternative
+shueme | shuarje | alternative
+shues | shuarës | alternative
+shufalec | shufalak | alternative
+shufiak | shufalak | alternative
+shujëz | apostrof | alternative
