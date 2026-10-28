@@ -59941,3 +59941,35 @@ rrëzikët | adj | dangerous, risky
 rrëzimtë | adj | steep
 rrëzjuell | noun | sty (on the eye)
 rrëzojë | noun | subtraction (arith.)
+# ── mannshto.tsv ──
+rrëzuell | noun | sty (on the eye)
+rrëzueme | noun | fall; drop; landslide, scree
+rrgjandtar | noun | silversmith
+rricë | noun | anguish, distress
+rrickë | noun | slice, strip
+rricoj | verb | distress, cramp, constrain
+rriçëm | adj | full-grown, adult
+rriel | noun | canal, waterway
+rrifem | verb | come to blows; debate, discuss; spawn (of fish)
+rrig | noun | king, prince, ruler
+rrigë | noun | ruler (for drawing lines)
+rrigneshë | noun | queen, princess
+rrigni | noun | reign; kingdom, princedom, kingship
+rrigoj | verb | sprinkle, damp
+rrigon | noun | thyme
+rriguj | noun | columns (of cartilage in the cerebellum)
+rriki | noun | buttermilk
+rrikz | noun | radish
+rrilekull | adv | bunglingly, badly
+rriloj | verb | be careless about, neglect
+rrimtar | noun | rimer
+rrimtoj | verb | rime
+rringexhinge | noun | jingle, jangle, din
+rrinqit | noun | vine-louse, phylloxera
+rripjetë | adj | sloping, steep
+rriq | noun | rat
+rriqe | noun | annual rings (of tree)
+rriskull | noun | sickle
+rrithë | noun | goat-pasture
+rrizgë | noun | slice, shive, shaving, chip
+rrizhgoj | verb | roll
