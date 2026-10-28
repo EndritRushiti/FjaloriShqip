@@ -63576,3 +63576,55 @@ torroveshkë | other | snout
 torrua | other | track, path
 # ── mannshto.tsv ──
 toromeçkë | other | silly wench
+# ── mannshto.tsv ──
+tos | other | dust, powder
+tostongale | other | bonfire
+totëlulesh | other | cow-parsley
+totkë | other | nickname
+tovër | other | old woman
+trabak | other | schooner
+trabakull | other | schooner
+trabullë | other | schooner
+trabazan | other | recess near the ceiling of a room
+trabokull | other | one-year-old kid
+trac | adj | viscid, treacly
+trace | other | hardships; hard labour
+tracë | other | phlegm
+trackë | other | tit (bird)
+tragzoj | other | trace, trail, sleuth
+trajcë | other | bag
+trajir | other | sigh
+trajkë | other | net
+trajsë | other | bag; table
+trajsëz | other | purse
+trajstar | other | bag-maker
+trajstavicë | other | bag, wallet
+trajstëz | other | sac, vesicle, pouch
+trajtni | other | building; size, shape, format
+trajtonjës | other | former, shaper, builder; formative
+trakalic | other | unripe fig
+trakalle | other | clapper, knocker
+traktoj | other | survey, map out, define
+trakull | other | knot, torque, tourniquet
+trakullij | other | knock (on the door)
+trakullues | adj | knocking; chatterbox
+trallos | other | daze, stun
+trallnicë | other | churn for curds
+tramaks | other | stun, flabbergast, daze
+trambuk | other | fetter
+trambure | other | fear
+tramë | other | fear
+traminë | other | tax
+trampë | other | change
+tramzi | other | confusion
+tramzim | other | confusion
+tramzoj | other | confuse, stir, muddle
+tran | other | cereal food
+trandafil | other | rose
+trandafilët | adj | pink
+trandës | adj | shaking, shattering
+trandim | other | shaking, shock, jolt
+trandshëm | adj | shaking, shocking
+trano | adv | downwards, below, at the bottom
+transfiguracion | other | transfiguration
+trantofill | other | rose
