@@ -59230,3 +59230,53 @@ rabushoj | verb | mark up, score; ration
 raçinë | noun | cap
 radi | noun | enquiry; preparation, equipment
 radikë | noun | hillock
+# ── mannshto.tsv ──
+radis | verb | enquire into, find out; equip, furnish, provide, prepare
+raditës | noun | furnisher, supplier, equipper, provisioner; purveyor, contractor
+raditshëm | adj | procurable
+rrádhas | adv | successively, in turn
+rrádhazi | adv | successively, in turn
+rradhis | verb | line up, arrange
+rradhitës | noun | arranger, compiler
+rradhoj | verb | arrange, file, list
+radhos | verb | arrange, list
+radhonjës | noun | filer; compositor
+radhore | noun | list
+radhosës | noun | arranger, filer; compositor
+radhua | noun | copybook, exercise-book, register, ledger; row, order, series, turn, line; pile of stones; scree
+rradhua | noun | copybook, register
+rae | noun | worm, esp. belly-worm
+rafsh | adj | flat, even, level; exactly, just; plain; to the brim
+rafshak | adj | horizontal
+rafshas | adv | level
+rafshazi | adv | level
+rafshatak | adj | flat
+rafshe | noun | level, standard
+rafshim | noun | levelling
+rafshinë | noun | plain; plane, flat surface; level
+rafshnalt | noun | upland, plateau
+rafshoj | verb | level, level out, flatten; lay low, raze to the ground; fill to the brim
+rafshore | noun | plain; plane (geom.)
+rafshsi | noun | flatness
+rafshtinë | noun | level, plain, flat surface, plane
+rag | verb | pluck, shake
+ragabardh | noun | white variety of grape
+ragazi | noun | black variety of grape
+ragim | noun | side-look, side-glance
+ragnicë | noun | canvas
+ragushe | noun | horned ewe
+raglë | noun | jacket of coarse material
+rahanoj | verb | fell, lay low, raze to the ground
+rahatoj | verb | comfort, pacify, soothe
+rahatshëm | adj | peaceful, quiet, comfortable, restful, convenient
+raishte | noun | stony bank, scree
+rakis | verb | prune
+rakitë | noun | kind of willow, withy
+rakoj | verb | hoax, fool
+rámas | adv | fallen, prostrate, sprawling, laid out
+rambë | noun | ray
+ramët | adj | copper, brass; copper-coloured
+ramishta | noun | brassware, copperware
+ramsi | noun | ramification
+ramtar | noun | coppersmith
+randesë | noun | weight, load, burden, charge, debt, levy
