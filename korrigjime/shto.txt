@@ -60451,3 +60451,53 @@ sile | noun | bottle; flash, dazzle
 silfjan | noun | basil
 sillidó | pron | whoever, each, any
 sillidota | pron | each
+# ── mannshto.tsv ──
+sillse | noun | lunch; screw-propeller
+sillsë | noun | screw-propeller
+simbjet | adv | this year
+simbjetshëm | adj | this year's
+simbull | noun | symbol
+simidhalë | noun | roll (of bread)
+simjeçëm | adj | this year's
+simjet | adv | this year
+simjetshëm | adj | this year's
+simkoj | verb | pinch, nip
+simpathi | noun | sympathy
+simpathik | adj | sympathetic, likeable, amiable
+simpjet | adv | this year
+simplert | adj | simple
+simsar | noun | middleman
+simvjetëm | adj | this year's
+simvjeçëm | adj | this year's
+sinaq | noun | cold, catarrh
+sindaks | noun | syntax
+sindëkur | adv | just as; as before; even if, however
+sindërmjemë | adj | medium
+sindon | noun | sheet
+sindonjá | adv | about, approximately, some
+sindozot | adv | however; as for example; especially
+singër | noun | ally
+singlidhe | noun | bars, railings
+sinuar | noun | region, area
+sinxhir | noun | chain
+sinjet | adv | this year
+sinjënje | adj | equal, like
+sinji | noun | unit, troop
+sipar | noun | curtain (esp. of theatre)
+sipci | noun | bowl of pipe
+sipërfaqisht | adv | superficially
+sipërndieshëm | adj | supersensitive
+sipërqyrje | noun | supervision
+sipërsi | noun | superiority
+sipërshkrim | noun | superscription
+sipi | noun | sepia, cuttle-fish
+sipran | adj | superior; sovereign; monarch
+siprani | noun | superiority; sovereignty
+sipri | adv | on top, above
+siprí | noun | superiority
+siprinë | noun | top; surface, area
+sipsi | noun | bowl of pipe
+sirá | noun | line, row, series
+siringë | noun | syringe
+sirmë | noun | ear of maize; silk
+sironkë | noun | sprat
