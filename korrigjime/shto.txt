@@ -61768,3 +61768,56 @@ shkambar | adj | rocky
 shkami | other | cliff
 shkamore | other | cliff
 shkamis | other | batter, dash
+# ── mannshto.tsv ──
+shkandallis | other | scandalise, offend
+shkandalizoj | other | scandalise
+shkandaloj | other | offend, provoke
+shkandullët | adj | scandalous
+shkandulloj | other | scandalise
+shkanglohem | other | degenerate, get depraved
+shkangull | other | degenerate, good-for-nothing
+shkangëll | other | degenerate
+shkangulli | other | degeneracy, depravity
+shkape | other | zenith
+shkapem | other | come undone
+shkapës | other | pour, pour off
+shkapëtet | other | pour down, stream
+shkapëtje | other | pouring, streaming, downpour
+shkapërcell | other | stile
+shkapërdaj | other | scatter, disperse
+shkapërdahem | other | be scattered, be dispersed
+shkapërdamë | adj | scattered, strewn, sporadic
+shkapërvilem | other | clamber about
+shkapërxej | other | cross, pass
+shkapërxim | other | crossing; excess
+shkapërxyes | adj | passing; excessive
+shkapularës | other | shoulder-blade
+shkaq | other | pulp, squash
+shkaranik | adj | slippery
+shkaravesh | other | lug about, maul, make shapeless
+shkaravinë | other | smudge
+shkaravis | other | drag along, trail; slink, crawl
+shkardhni | other | service, servitude, slavery
+shkardhnoj | other | enslave
+shkarës | adj | slipping, sliding
+shkart | adj | slippery
+shkarikoj | other | unload
+shkarta | other | throw-outs, waste
+shkartim | other | removal
+shkarthazi | adv | sliding, gliding; askew
+shkarthët | adj | slim, lithe
+shkarxej | other | defile, foul
+shkarxehem | other | wallow
+shkarrafend | other | drag, trail
+shkarrafendem | other | drag oneself, trail; wallow
+shkarravesh | other | mangle, lacerate
+shkarretë | adj | haggish, wizened
+shkarrezej | other | slide, slip, glide
+shkarrezis | other | slide, slip
+shkarrzoj | other | despise
+shkaz | other | impulse; occasion
+shkasës | adj | sliding, gliding
+shkatëraq | adj | slovenly, sloppy
+shkatërrej | other | destroy
+shkatrrim | other | destruction
+shkatrrimtar | adj | disruptive, destructive
