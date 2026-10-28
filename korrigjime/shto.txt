@@ -58894,3 +58894,50 @@ qepushkë | noun | seedling onion; gossip, shrew
 qeramidh | noun | tile, brick
 qerasmë | noun | tip, gift
 qerbë | noun | she-goat with red and black nose
+# ── mannshto.tsv ──
+qereç | noun | mortar
+qereçe | noun | robe with wide sleeves worn by Moslem women
+qerellojkë | noun | tadpole
+qeremidë | noun | tile
+qeremide | noun | tile
+qerep | noun | shallow earthen tray for baking
+qereste | noun | timber
+qerevis | noun | celery
+qerëz | noun | small scurf
+qeribar | noun | amber
+qerkë | noun | handcart, barrow
+qerm | noun | edge, outside; outside strip of land, dike; fallow land
+qerosem | verb | get scurvy; get bald
+qerosk | noun | bald-headed (or scurvy) girl
+qerpe | noun | tress, forelock
+qerpi | noun | hair, bristle; tentacle; level (instrument)
+qershiz | noun | snowberry
+qershijtë | adj | cherry-, of cherry
+qershishtë | noun | cherry-orchard
+qertas | adv | clearly
+qerthënj | noun | hoops, circles
+qerthell | noun | circle, hoop; reel, spool, bobbin; wheel; rotation; vicinity; picture-frame; whirlwind
+qerthellim | noun | circle, hoop; enclosure; circulation; gyration; blockade, siege
+qerthelloj | verb | turn, gyrate, rotate, spin; surround, besiege
+qerthunjë | noun | large spool
+qerubim | noun | cherubim
+qerubin | noun | cherubim
+qerrar | noun | carter
+qerratar | noun | carter
+qerrcë | noun | carriage
+qerrcetar | noun | coachman
+qerrektore | noun | flock of wool
+qerretar | noun | carter
+qerretore | noun | highway
+qerrtar | noun | carter
+qerrzë | noun | couch
+qesas | verb | prune, trim (bushes)
+qeseqi | noun | main iron post in fence
+qeseteh | noun | guitar, zither
+qesetetar | noun | guitar-player, zither-player
+qeseti | noun | mockery, banter
+qesetim | noun | mockery, irony, ridicule; insult, injury, wrong
+qesetis | verb | mock, jeer at, quizz, banter, tease
+qesetishëm | adj | laughable, absurd
+qeshqé | noun | dish of wheat or maize boiled with meat or butter
+qeshshëm | adj | laughable, ridiculous
