@@ -64834,3 +64834,38 @@ vehtjak | adj | personal
 vehtsi | other | characteristic, trait
 vejgë | other | handle (esp. of a pot)
 vejk | other | small variety of fig
+# ── mannshto.tsv ──
+vejnoj | other | live in widowhood, live in bereavement
+vejshëm | adj | widowed, bereft
+vejtës | other | weaver; weaving
+vejtëszog | other | weaver bird
+vejtshëm | adj | weavable
+vejuk | other | small variety of dark fig
+vekë | other | loom
+veksh | other | pot, stewpot, jar
+vekutiçkë | other | ovary
+velenzë | other | blanket
+veleni | other | faint, swoon
+veletar | adj | crafty
+veleti | other | craftiness, wiliness
+veliz | other | move; sail
+velshëm | adj | sickening
+veltoj | other | sicken, nauseate; blink, drowse
+veltohem | other | dissimulate oneself
+veltur | adj | sated, satisfied, surfeited; nauseated, sick; bored, fed up
+velzë | other | gill (of a fish); bronchial tubes
+velzoj | other | hoist sails, set sail
+vellem | other | thought
+vemesë | other | outer tissue, top skin, film; membrane (of an egg); skin (of an onion)
+venicë | other | small wine
+vençë | other | small wine
+vendak | adj | local, native, indigenous
+vendali | other | inhabitant, native
+vendalok | adj | local, native
+vendërik | other | outer surface of a wooden water-bottle
+vendiak | adj | local; native
+vendjak | adj | positive; decisive
+vendmbajtës | adj | deputising; locum tenens, deputy
+vendth | other | spot, little place
+venecjan | adj | Venetian
+venetik | adj | Venetian; ducat

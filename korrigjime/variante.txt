@@ -3492,3 +3492,10 @@ vehtoj | personifikoj | alternative
 vehtiak | vetjak | alternative
 vehtjak | vetjak | alternative
 vehtsi | veçori | alternative
+# ── Mann 1948 ──
+veksh | vegsh | alternative
+velenzë | velenxë | alternative
+veleni | velani | alternative
+veletar | velet | alternative
+vençë | venicë | alternative
+vendalok | vendas | alternative
