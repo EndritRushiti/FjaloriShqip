@@ -63016,3 +63016,44 @@ takamis | other | fit out, equip, rig, harness
 takamisje | other | equipment, harnessing, rigging
 takatuke | other | ashtray
 takfak | adv | there and then, on the spot
+# ── mannshto.tsv ──
+taklim | other | knock, rap, tap
+taklimë | other | knock, rap
+taklimëz | other | mill-clapper
+takloj | other | knock, tap, rap
+taklues | adj | knocking
+takmak | other | rammer; beater
+taksatë | other | taxation
+taksurë | other | promise
+taltë | adj | able, capable, efficient, adequate
+talërush | other | small keg
+talim | other | training
+talko | other | talcum
+talvë | other | shelf; mantelpiece
+tallagan | other | coat, cloak, cape
+tallagane | other | cloak, cape
+tallallis | other | cry, proclaim, herald
+tallamac | other | bladder
+talland | other | talent (weight)
+tallant | other | talent (weight)
+tallar | adj | white-footed (of a horse)
+tallas | other | wave
+tallasim | other | spell, incantation
+tallazitet | other | surge, fluctuate (of the sea)
+tallos | other | straw, chaff; dregs; rabble
+talloz | other | straw, chaff
+tallshëm | adj | ridiculous
+taman | adv | exactly
+tamamtë | adj | exact, just right
+tamansi | other | exactitude
+tamëlcinë | other | dairy produce
+tamër | other | two-stringed lute (played with a plectrum)
+tamërr | other | two-stringed lute
+tamzë | other | temple (of the head)
+tamtane | other | din, row
+tamtim | other | row, disturbance
+tamtoj | other | annoy, disturb
+tandej | adv | thither
+tandellë | other | lace
+tandesë | other | nuisance, annoyance
+tandë | other | arbour, awning; tent
