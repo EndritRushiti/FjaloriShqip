@@ -59181,3 +59181,52 @@ qykë | noun | back ridge of knife
 qykën | noun | swan
 qyler | noun | cellar
 qylym | noun | carpet
+# ── mannshto.tsv ──
+qymec | noun | coop, chicken-run, fowl-pen; nest, lair, roost; brothel
+qymes | noun | coop, chicken-run
+qymezë | noun | worm which infests sores
+qymyrtë | adj | coal-
+qyngj | noun | pipe, tube; drain; flue; cylinder
+qynq | noun | pipe, tube
+qypë | noun | earthen pot
+qypër | noun | cyperus torundus (bot.)
+qypkë | noun | (a bird)
+qyprinë | noun | goldfish, cyprinus
+qyqatoj | verb | make wretched, reduce to poverty
+qyqebinoz | noun | locust bean
+qyrmidhe | noun | roof-tile
+qyrohem | verb | quarrel, fight
+qyrsak | adj | curious, inquisitive
+qyrsi | noun | curiosity
+qyrtar | noun | inspector
+qyrrak | adj | snivelling
+qyrran | adj | snivelling
+qyrranjoc | adj | snivelling
+qyrranjosh | adj | snivelling
+qyrravec | adj | snivelling
+qyrraman | adj | snivelling
+qyrroj | verb | besnivel, snivel
+qyshdongjyshëm | adj | gay, motley
+qyshe | noun | aspect, character, quality
+qyshëmën | noun | adjective
+qyshetekë | noun | detail, particular
+qyshk | noun | lodge
+qyshkë | noun | condition, state
+qyshni | noun | quality, property, characteristic
+qyshtashti | adv | just, recently
+qytash | adv | at once, immediately
+qyteterí | noun | civility; civilisation
+qytetni | noun | citadel
+qytetnues | adj | civilising
+qytetsi | noun | citizenship
+qytetzim | noun | civilisation
+qytetzoj | verb | civilise
+rabec | noun | sparrow
+rabeçkëgamile | noun | ostrich
+rabullak | noun | coot, moor-hen
+rabushë | noun | tally, score-stick
+rabushim | noun | rationing
+rabushoj | verb | mark up, score; ration
+raçinë | noun | cap
+radi | noun | enquiry; preparation, equipment
+radikë | noun | hillock
