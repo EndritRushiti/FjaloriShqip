@@ -62949,9 +62949,6 @@ shushullas | other | daze, bewilder
 shushullim | other | lisp; bewilderment
 shushulloj | other | lisp; daze, bewilder
 shushullonjës | adj | lisping, sibilant; dazing
-shushuris | other | murmur, rustle, whisper
-shushurij | other | rustle
-shushuroj | other | rustle, whisper
 shutar | other | dry
 shutër | other | typhus
 shutërz | other | typhus
