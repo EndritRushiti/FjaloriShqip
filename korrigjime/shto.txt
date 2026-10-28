@@ -65242,7 +65242,6 @@ vitshëm | adj | annual
 vitullë | other | tap, faucet, stopcock; screw; crank; spirally
 # ── mannshto.tsv ──
 vitvet | other | year
-vithi | other | landslide, scree, precipice, steep bank
 vivë | other | weever (fish)
 vivlë | other | book
 vivlëz | other | booklet
