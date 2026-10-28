@@ -3531,3 +3531,17 @@ veston | veson | alternative
 veshnjë | veshkë | alternative
 veshkël | veshkë | alternative
 veshla | veshkë | alternative
+# ── Mann 1948 ──
+vetëdijeni | vetëdije | alternative
+vetëqeverrim | vetëqeverisje | alternative
+vetëqeverrimtar | vetëqeverisës | alternative
+vetëshkop | autokrat | alternative
+vetështytur | vetvetishëm | alternative
+vetëzot | autokrat | alternative
+vetëzotim | vetëkontroll | alternative
+vetëzotni | autokraci | alternative
+vetsim | personifikim | alternative
+vetsoj | personifikoj | alternative
+vetsundim | vetëkontroll | alternative
+vetsundues | vetëqeverisës | alternative
+vettimë | vetëtimë | alternative

@@ -64977,3 +64977,60 @@ veshura | other | clothes
 vetar | adj | alone, lonesome, solitary
 vetçfaqje | other | self-expression
 vetëdashni | other | free will, spontaneity
+# ── mannshto.tsv ──
+vetëdijeni | other | conscience, consciousness
+vetëdijtur | adj | conscious
+vetëdoras | adv | by his own hand
+vetëgjyqsi | other | self-judgment, self-criticism
+vetëhej | pron | he himself
+vetëheqës | adj | automatic
+vetëmërgim | other | self-removal
+vetëmlenë | adj | only-begotten
+vetëmendim | other | egoism
+vetëpërmbajtës | adj | temperate
+vetëqeverrim | other | self-government
+vetëqeverrimtar | adj | self-governing
+vetëshkop | other | autocrat
+vetështytje | other | spontaneity
+vetështytur | adj | spontaneous
+vetëtis | other | sparkle, flash, glint
+vetëtoj | other | animate
+vetëtor | adj | personal
+vetëtuar | adj | isolated
+vetëzot | other | autocrat
+vetëzotim | other | self-control
+vetëzotni | other | autocracy
+vetijekeq | adj | base, vile
+vetijemirë | adj | noble, fine, refined, polite
+vetimevëti | adv | within oneself
+vetimith | adv | alone
+vetimshëm | adj | peculiar, particular, special
+vetmevedi | adv | alone
+vetmënoj | other | isolate
+vetmim | other | isolation, seclusion, solitude
+vetmimtar | adj | solitary, lone; hermit
+vetmoj | other | isolate
+vetmues | adj | privative, isolating
+vetpunim | other | spontaneity
+vetqeveris | other | be self-governing
+vetromet | other | cold wind, blast
+vetsim | other | personification
+vetsoj | other | personify
+vetsundim | other | self-control, self-government
+vetsundues | adj | self-controlling, self-governing
+vetsy | other | eyewitness
+vetshëm | adj | own, private, special
+vettimë | other | lightning, flash
+vettimët | adj | of lightning
+vettis | other | lighten, flash
+vetues | adj | flashing
+vetullan | adj | with beetling or bushy eyebrows
+vetulloj | other | raise the eyebrows
+vetun | adj | sole, only, single
+vetunurdhnim | other | self-control, self-government
+vetvendim | other | autonomy
+vetvendues | adj | autonomous
+vetveprim | other | spontaneity
+vetveprues | adj | spontaneous, automatic
+vetvesh | other | ear-witness
+vetvetshëm | adj | private, peculiar
