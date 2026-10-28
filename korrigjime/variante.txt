@@ -3171,3 +3171,14 @@ trushkoj | trushkej | alternative
 trushkonjës | trushkimtar | alternative
 truthatë | trutharë | alternative
 truvese | tryezë | alternative
+# ── Mann 1948 ──
+tryesë | tryezë | alternative
+tryeztues | tryezështrues | alternative
+tryshe | ndryshe | alternative
+tudeshk | tudesk | alternative
+tudik | zamare | alternative
+tuhafshëm | çuditshëm | alternative
+tuhas | tuharis | alternative
+tuhatet | tuharitet | alternative
+tujis | tuis | alternative
+tulipë | tulipan | alternative

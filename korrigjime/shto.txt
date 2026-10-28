@@ -63934,3 +63934,52 @@ trushkyes | adj | sacrilegious; profaner
 trutrashë | adj | stupid, brainless
 truthatë | adj | brainless
 truvese | other | table
+# ── mannshto.tsv ──
+truza | other | cerebellum
+tryesar | other | banker
+tryesë | other | table
+tryezështrues | other | tablecloth
+tryeztues | other | tablecloth
+tryezëz | other | counter
+tryshë | other | gum (of teeth)
+tryshe | adv | otherwise
+tuletë | other | toilet, evening dress (ladies')
+tubëz | other | cluster, group; movement, phrase, bar (music); verse
+tubnim | other | accretion, concretion, growth
+tubnohet | other | agglomerate, form a mass
+tubsi | other | cohort
+tuckë | other | mons Veneris
+tuckët | adj | tight
+tuç | other | bronze
+tudesk | adj | German
+tudeshk | adj | German
+tudik | other | bagpipes
+tuej | other | stare at, watch closely
+tufkë | other | little bunch, little tuft
+tufkuqe | other | a flower
+tufër | other | fan
+tufoq | other | a plant
+tugoj | other | abash, embarrass, cow
+tugohem | other | be abashed
+tuhafshëm | adj | strange, odd
+tuharis | other | disperse, scatter, dispel
+tuhas | other | disperse
+tuharitet | other | be dispersed, evaporate, vanish into thin air
+tuhatet | other | be dispersed
+tuis | other | save, keep, reserve
+tujis | other | save
+tujtë | other | turkey-hen
+tujtuj | adj | dazed, stupid
+tukeqem | other | feel sad, grieve; get worse, deteriorate, fail
+tukeqëm | adj | sad, sorrowful; ailing, sinking, failing
+tukë | other | mass of charred ruins
+tulas | other | shake, rock, sway; daze
+tulatur | adj | dazed
+tulët | adj | fleshy, lean, pulpy, soft; chubby, bonny
+tulicë | other | soft flesh, buttock
+tulinë | other | soft soil, loess
+tulipë | other | tulip
+tulis | other | tame, quell, smother, stifle
+tulitje | other | quelling, smothering, suppression; cowering, huddling
+tulpan | other | gauze, tulle
+tultac | adj | flabby, fleshy
