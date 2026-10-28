@@ -63230,3 +63230,54 @@ tertil | other | gold or silver braid
 tertohem | other | frown, scowl
 terza | other | shallows
 terzicë | other | tailoress
+# ── mannshto.tsv ──
+terrë | other | land
+terrina | other | darkness
+terrnoj | other | darken
+terrsinë | other | darkness
+terrsoj | other | darken
+terrsohem | other | darken, glower
+terrshëm | adj | dark
+tesk | other | adze, mattock
+teskë | other | adze
+teslicë | other | adze, carpenter's trimmer
+tesqere | other | permit, pass, ticket
+tesqeré | other | permit
+tespigje | other | kind of pastry
+testamend | other | testament
+teste | other | bundle of ten or a dozen
+testembel | other | knuckle
+tesheritem | other | swagger, show off
+teshëz | other | herpes
+teshkë | other | chip, shaving; woodpecker
+teshme | other | sneeze
+teshëtij | other | sneeze
+tetëçip | other | octagon
+tetëçipët | adj | octagonal
+tetëçiptë | adj | octagonal
+tetëdhjetët | adj | eightieth
+tetëfaqes | adj | octagonal, eight-sided
+tetëhu | adv | this way, hither
+tetëkëndës | adj | octagonal
+tetëmbëdhjettë | adj | eighteenth
+tetërrokcë | adj | eight-syllabled
+tetkë | other | aunt, auntie
+tetmëstë | adj | eightfold
+tetmëzoj | other | multiply eightfold
+tetmuejsh | adj | eight-month-old
+tetrrokcë | adj | eight-syllabled
+tetrrokësh | adj | eightfold; group of eight
+tetrrokshe | other | group of eight, octet; squad
+teth | other | cultivate, make fertile
+tethem | other | thrive
+tethmeni | other | fertility
+tethni | other | fertility
+tethshëm | adj | fertile, productive
+tevatyr | other | rumour, report
+tevatyrë | other | rumour
+tevdilleshë | other | woman in disguise
+tevlig | other | bifurcated neck-piece of a yoke, yoke-collar
+tevlik | other | yoke-collar
+tevligë | other | yoke-collar
+tezgja | other | bench; loom
+tezgjere | other | mortar-tray borne by two men
