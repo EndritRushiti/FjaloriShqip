@@ -65673,3 +65673,47 @@ vuzhdagë | other | stick, pole
 vuzdagë | other | stick
 vuzhë | other | hellebore
 vytshëm | adj | valuable
+# ── mannshto.tsv ──
+xalatë | other | helmet
+xale | other | darkness
+xalisem | other | trudge, shuffle along, slouch
+xalmë | other | braying, bray
+xandë | other | fault, error
+xanesë | other | study
+xani | other | knowledge, experience
+xanme | other | arrest, capture; learning
+xanse | other | schoolgirl
+xaper | other | green lizard
+xarr | adv | trailing
+xas | other | pupil, schoolboy
+xase | other | schoolgirl, pupil
+xath | other | unshoe, take off (shoes)
+xathur | adj | barefoot
+xegël | other | ember
+xegoj | other | blame
+xehtore | other | mineral
+xeheroj | other | petrify, turn to stone, become mineral, fossilise
+xej | other | boil
+xeje | other | craft, trade
+xejetar | other | artisan, craftsman
+xejtar | other | artisan
+xeladë | other | helmet
+xemë | adj | hot, boiling
+xepkas | other | accost, broach
+xer | other | American holly (mahonia)
+xetar | adj | industrious; craftsman
+xetë | adj | hot; heat, warmth, temperature
+xetmasë | other | thermometer
+xëgis | other | rile, irritate, urge
+xëgoj | other | urge, incite, instigate
+xëgonjës | other | instigator, mischief-maker
+xërxëricë | other | twaddle
+xërxëris | other | chirrup (as crickets)
+xibunë | other | woollen cloak worn by women
+xigëlis | other | tickle
+xij | other | blacken, char
+xijas | other | pipe, tweet, chirp
+xil | other | lily
+xingë | other | zinc
+xingoj | other | zinc, galvanise
+xinkë | other | zinc
