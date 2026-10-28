@@ -59753,3 +59753,52 @@ rreptoj | verb | make violent, tighten up, be severe on
 rreptohem | verb | become violent
 rreptsim | noun | severity, rigour, tightening up
 rreptsoj | verb | make more severe or rigorous, tighten up; rile, enrage, infuriate
+# ── mannshto.tsv ──
+rreq | verb | tan, steep; disentangle, extricate
+rreshë | noun | piece
+rreshëm | adj | lying, false, untrue
+rreshën | noun | bone
+rreshkem | verb | get parched, roasted, sunburnt
+rreshkoj | verb | toast, roast, parch, scorch
+rreshme | noun | scree; avalanche
+rreshnje | noun | deposit of soot
+rreshtak | adj | in line, orderly; (a bird)
+rreshtazi | adv | in turn, running, on end, in succession
+rreshtem | verb | rest, pause, stop; depart, go away; avoid, shun; pile up, drift (of snow)
+rreshtëm | adj | ordinal, serial
+rreshtën | noun | bones
+rreshtje | noun | stop, halt, stoppage, arrest; rest, repose
+rreshtues | noun | arranger, compiler
+rretën | noun | shoe-strap, thong
+rrethatar | noun | rim (of wheel)
+rrethatore | noun | cartridge-belt
+rrethkë | noun | ring
+rrethonjës | adj | surrounding, besieging; besieger
+rrethos | verb | surround
+rrethosë | noun | timber for strengthening walls
+rrethpemë | noun | pericarp
+rrethpërqarkët | adj | whorled, rotate
+rrethpremë | adj | circumcised
+rrethpresje | noun | circumcision
+rrethsjellës | adj | circulatory
+rrethsjellme | noun | circulation
+rrethtoj | verb | surround
+rrethujë | noun | island
+rrethujzë | noun | island
+rrevgët | adj | sparse, thin
+rrexegi | noun | muscatel grape
+rrexë | noun | lace
+rrezegi | noun | muscatel grape
+rrezëshëm | adj | radial
+rrezëtim | noun | radiation
+rrezëtoj | verb | radiate
+rrezëtonjës | adj | radiating, radiant
+rrezigi | noun | muscatel grape
+rrezmim | noun | shock, jerk; dysentery
+rrezmoj | verb | jolt, jar, jerk
+rrezullane | noun | hemisphere
+rrezhde | noun | ring at goat's throat
+rrezhdë | noun | ring at goat's throat; blossom of walnut, juniper or hazel; rust; honey-cell
+rrezhdos | verb | rust
+rrëban | adj | bold, proud, aggressive
+rrëbisht | verb | trim (the tail), dock
