@@ -1882,3 +1882,16 @@ spenxoj | shpenzoj | alternative
 speranc | shpresë | alternative
 spërfill | shpërfill | alternative
 spërvjerr | spërvjer | alternative
+# ── Mann 1948 ──
+spidal | spital | alternative
+spiju | spiun | alternative
+spiu | spiun | alternative
+spitullar | spitullaq | alternative
+spjegim | shpjegim | alternative
+spjegoj | shpjegoj | alternative
+sponxë | sfungjer | alternative
+sprijë | sprije | alternative
+sprihë | sprije | alternative
+spurdhiak | spurdhjak | alternative
+sqartim | shpjegim | alternative
+sqartoj | shpjegoj | alternative

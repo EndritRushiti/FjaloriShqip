@@ -60822,3 +60822,47 @@ spërthiket | adj | lively, brisk
 spërvjer | other | tent, pavilion
 spërvjerr | other | tent
 spicatem | other | gorge oneself, cram
+# ── mannshto.tsv ──
+spicer | other | druggist
+spicerane | other | druggist's, pharmacy
+spictar | adj | intriguing, plotting; intriguer
+spidal | other | hospital
+spihat | other | fall in fine flakes (of snow)
+spiju | other | spy
+spiu | other | spy
+spikatsi | other | distinction, eminence
+spilar | other | lever, prop, jack
+spilcë | other | splint, splinter; yoke-peg
+spipllore | other | gossipy woman
+spirohem | other | have diarrhoea
+spirue | other | spur
+spirre | other | chip, splinter
+spisarem | other | roam, wander
+spitakull | other | spectacle, sight
+spitullar | adj | affected, foppish
+spitullim | other | affectation, foppishness, swagger
+spitullohem | other | show off, swagger
+spitulloj | other | doll up, furbish up; falsify
+spithak | adj | insolent; base
+spjek | other | take after, resemble
+spjegim | other | explanation
+spjegoj | other | explain
+spol | other | bucket, scoop
+spolatë | other | vine-shoot, vine-trailer
+spoletë | other | fuse
+sponxë | other | sponge
+sporis | other | send, despatch, scatter
+spranim | other | refusal
+spranoj | other | refuse
+sprapem | other | retreat, retire, withdraw
+sprastë | adj | empty
+sprastoj | other | empty, discharge, evacuate
+sprije | other | fairy, sprite
+sprijë | other | fairy
+sprihë | other | fairy
+springje | other | suspenders
+sprovimtar | other | tester, examiner
+spurdhiak | other | sparrow
+sqartas | adv | clearly, obviously
+sqartim | other | explanation
+sqartoj | other | explain
