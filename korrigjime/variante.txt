@@ -3780,3 +3780,16 @@ vrrigos | rrëgos | alternative
 vshaj | fshij | alternative
 vshtirtim | vshtirim | alternative
 vshtirtoj | vshtiroj | alternative
+# ── Mann 1948 ──
+vuçi | fuçi | alternative
+vulkan | vullkan | alternative
+vullar | dëshiroj | alternative
+vullëndeje | vullnet | alternative
+vullëndet | vullnet | alternative
+vullim | vëllim | alternative
+vullneçëm | vullnetshëm | alternative
+vurcë | furçë | alternative
+vurcos | vurcoj | alternative
+vuvak | vuv | alternative
+vuvër | vuv | alternative
+vuzdagë | vuzhdagë | alternative

@@ -65637,3 +65637,39 @@ vshtirim | other | difficulty, obstacle
 vshtirtim | other | difficulty
 vshtiroj | other | make difficult, handicap
 vshtirtoj | other | make difficult
+# ── mannshto.tsv ──
+vuçer | other | butcher
+vuçi | other | barrel, tub, cask, vat
+vudhni | other | rush, torrent, outburst
+vuejtës | adj | suffering; sufferer
+vuet | adj | low; depth
+vugjë | other | voice
+vukullë | other | buckle, clasp
+vulkan | other | volcano
+vulomë | other | seal
+vullajë | other | bed, plot, patch, bank (of a garden)
+vullar | other | desire, wish
+vullëndeje | other | will
+vullëndet | other | will
+vullëndohem | other | be content, be satisfied
+vullëndueshëm | adj | content
+vullim | other | volume
+vullneçëm | adj | voluntary
+vumje | other | placing, putting
+vup | other | blow
+vurcë | other | brush
+vurcoj | other | brush
+vurcos | other | brush
+vurcosje | other | brushing
+vurctar | other | brushmaker
+vurdël | other | ankle
+vurvullë | other | swarm, crowd
+vurratshëm | adj | scarred
+vuvak | adj | dumb
+vuvër | adj | dumb
+vuvos | other | strike dumb, silence
+vuxhë | other | elder (tree)
+vuzhdagë | other | stick, pole
+vuzdagë | other | stick
+vuzhë | other | hellebore
+vytshëm | adj | valuable
