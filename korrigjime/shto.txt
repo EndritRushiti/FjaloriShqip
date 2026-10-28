@@ -62923,3 +62923,65 @@ shupullë | other | slap, smack
 shuralë | other | gravel
 shurbej | other | serve
 shurbës | other | thing, matter, theme
+# ── mannshto.tsv ──
+shurdhak | adj | deaf
+shurdhesë | other | pus, matter
+shurdhëz | other | lymph
+shurdhonjës | adj | deafening
+shurdhsi | other | deafness
+shurdhti | other | deafness
+shurth | adj | deaf
+shurishtë | other | sandpit, sandbed; sandy
+shurishte | other | sandpit
+shurkë | other | stagnant pond
+shurlë | other | clarinet
+shushallas | other | make dizzy, confuse
+shushaman | adj | dotty
+shushavis | other | scatter, disperse
+shushavitem | other | lounge, loiter
+shushël | other | maize-chaff
+shushkël | other | chaff
+shushis | other | muffle, deaden, quieten
+shushonjëz | other | leech
+shushujë | other | leech
+shëshonjëz | other | leech
+shushullas | other | daze, bewilder
+shushullim | other | lisp; bewilderment
+shushulloj | other | lisp; daze, bewilder
+shushullonjës | adj | lisping, sibilant; dazing
+shushuris | other | murmur, rustle, whisper
+shushurij | other | rustle
+shushuroj | other | rustle, whisper
+shutar | other | dry
+shutër | other | typhus
+shutërz | other | typhus
+shutis | other | calm, quieten, hush; put out (a fire)
+shutrak | adj | typhus-
+shuzhim | other | buzz, hum, sizzle, rustle
+shuzhoj | other | buzz, hum
+shvargoj | other | unchain, release
+çvargoj | other | unchain
+shvarris | other | explain, expound
+shvarritem | other | disappear
+shvarros | other | exhume
+shvarrosje | other | exhumation
+shvas | other | tear, lacerate, rend
+shvatem | other | tussle
+shvendoj | other | dislodge, displace
+shvendohem | other | emigrate
+shvendim | other | displacement
+shvendosje | other | displacement, deportation
+shvesh | other | strip, undress
+shvishem | other | undress
+shvijos | other | derail
+shvijosje | other | derailment
+shvillim | other | development
+çvillim | other | development
+shvilloj | other | develop
+shvjerdhshëm | adj | repugnant
+shvleftsim | other | devaluation, depreciation
+shvleftsoj | other | depreciate, devalue
+shvlersim | other | devaluation
+shvlersoj | other | devalue
+shvoshk | other | peel, shell, husk, bark
+shvulos | other | unseal
