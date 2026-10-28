@@ -62719,3 +62719,38 @@ shtrapullzoj | other | abuse, browbeat
 shtras | other | drain, dry, strain; run dry
 shtrashgim | other | disinheritance
 shtrashgoj | other | disinherit
+# ── mannshto.tsv ──
+shtratbartës | other | bier, carrier
+shtravis | other | cause to shudder, thrill
+shtrazim | other | extradition, banishment
+shtrazoj | other | banish, exile
+shtraztar | other | watchman, guard, sentry, warder, jailor
+shtrejti | other | severity, hardship; dearth
+shtrejtoj | other | make dearer
+shtrejtsi | other | dearness
+shtrejtsim | other | rise in prices
+shtrejtsinë | other | dearness, expense; dearth, shortage
+shtrell | other | arquebus
+shtrellar | other | bowman
+shtrem | other | four-wheeled cart
+shtrembën | adj | crooked, twisted
+shtrembni | other | perversity
+shtrembnim | other | distortion
+shtrembnoj | other | twist, distort
+shtrembsinë | other | crank (mech.)
+shtrembzoj | other | bend, twist
+shtremtas | adv | the wrong way round, inside-out
+shtremti | other | perversity, wrong, injustice
+shtrestar | adj | stratified
+shtrezoj | other | force the bowels, cram
+shtrembarak | adj | perverse, distorted
+shtrembazi | adv | crookedly, wrongly
+shtrëngac | adj | miserly; miser
+shtrëngestar | adj | compelling, oppressive; oppressor, blackmailer
+shtrëngimtar | adj | compelling, oppressive
+shtrëngojë | other | cramp, vice
+shtrënguet | adj | tight, rigorous
+shtrica | other | parallel bars
+shtriganë | other | witch
+shtrigëri | other | witchcraft, sorcery
+shtrigni | other | witchcraft

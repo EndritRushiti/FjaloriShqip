@@ -2698,3 +2698,17 @@ shtramojt | majtë | alternative
 shtrangoj | shtrëngoj | alternative
 shtrapnjej | shtrapnoj | alternative
 shtrapullzoj | shtrapacoj | alternative
+# ── Mann 1948 ──
+shtrejtoj | shtrenjtoj | alternative
+shtrejtsi | shtrenjtësi | alternative
+shtrejtsim | shtrenjtim | alternative
+shtrembën | shtrembër | alternative
+shtrembnim | shtrembërim | alternative
+shtrembnoj | shtrembëroj | alternative
+shtrembzoj | shtrembëroj | alternative
+shtrëngac | koprrac | alternative
+shtrëngimtar | shtrëngestar | alternative
+shtrëngojë | morsë | alternative
+shtrënguet | shtrënguar | alternative
+shtriganë | shtrigë | alternative
+shtrigni | shtrigëri | alternative
