@@ -2320,7 +2320,6 @@ shkepton | shkeptin | alternative
 shkëbonjë | shkabë | alternative
 shkëlas | shkel | alternative
 # ── Mann 1948 ──
-shkëlyeshëm | shkëlqyeshëm | alternative
 shkëlzej | shkëlxej | alternative
 shkëlxyeshëm | shkëlqyeshëm | alternative
 shkëmpët | shkëmbor | alternative

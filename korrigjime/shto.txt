@@ -61854,7 +61854,6 @@ shkëlqerore | other | lamp
 shkëlqesë | other | brilliance, polish, shine; Excellency
 shkëlqihem | other | be roasted through
 # ── mannshto.tsv ──
-shkëlyeshëm | adj | bright, brilliant
 shkëlvesh | other | flay; bark (a tree)
 shkëlxej | other | sparkle, shine, brighten
 shkëlzej | other | sparkle, shine
