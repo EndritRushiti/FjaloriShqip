@@ -64503,3 +64503,51 @@ urac | other | plank-bridge, foot-bridge
 urakull | other | oracle
 uratar | other | priest; one who pronounces a benediction
 uratës | other | worshipper
+# ── mannshto.tsv ──
+urazë | other | bead
+urcuell | other | pitcher, stone jar, wine- or water-jar with handles
+urcuoll | other | pitcher
+urcuellth | other | small pitcher
+urdi | other | army, corps, unit
+urdhërmarrje | other | the taking of orders, order
+urdhënqindës | other | centurion
+urdhënmarrje | other | taking of orders
+urdhëntar | other | commander
+urdhërtar | other | commander
+urdhëri | other | order, command; doctrine
+urdhërimtar | other | commander
+urdhëronjës | adj | commanding, imperious, domineering; commander
+urdhërndalimi | other | warrant
+urdhërqindës | other | centurion
+urdhësjellse | other | crawl-stroke (in swimming)
+urdhje | other | herpes, shingles
+ordhnonj | other | command
+urdhnues | adj | commanding, imperious
+urekth | other | urea
+uresë | other | urea
+urëtoj | other | hunger
+urëtohem | other | hunger, be hungry
+urëtuar | adj | hungry
+urgosje | other | flatulence (vet.)
+urgjisur | adj | infuriated; destructive
+urimtore | other | prayer-book
+uriqdeti | other | sea-urchin
+urishëm | adj | hungry, avid
+urishtues | adj | appetising, stimulating
+urithburgth | other | mole-cricket
+urjek | other | watery discharge, pus, matter
+urmë | other | date (fruit); persimmon
+urovë | other | vetch
+urog | other | fallow land, fallow field; fallow
+urok | other | aim, intention; fallow land
+uromë | other | prop, support
+ursi | other | hunger
+urshëm | adj | hungry
+urtërisht | adv | prudently, wisely
+urtsi | other | wisdom, prudence
+urtsim | other | reason, bringing to reason
+urtsisht | adv | wisely
+urtsoj | other | bring to reason
+urtsohem | other | come to reason, be wise, settle down, behave
+urtsuar | adj | sensible
+urtuar | adj | hungry, famished, avid
