@@ -64351,3 +64351,57 @@ udhëpastronjës | other | roadsweeper
 udhëpukë | other | branching of roads, fork
 udhëpuqe | other | fork in the road
 udhërrëfenjës | other | guide, leader
+# ── mannshto.tsv ──
+udhëtërheqës | other | guide, leader
+udhëzezë | other | error, wrong
+udhëzi | other | rascal
+udhicë | other | alley
+udhsi | other | rectitude, righteousness
+udhshëm | adj | viable, accessible; right, timely
+udhtore | other | timetable
+udhtuar | other | travel, travelling
+udhtues | other | traveller
+udhtonjës | other | traveller
+udhzim | other | instruction, direction
+udhzoj | other | instruct, direct
+udhzues | adj | instructive; guide
+ufë | other | sultry heat
+ufll | other | vinegar
+ufëm | other | sultry heat
+ufmë | other | sultry heat
+ufiq | other | office
+ufiqët | adj | official
+ufëll | other | vinegar
+ufullaç | adj | acid, vinegary
+ufullim | other | acidity, acidifying
+ufulloj | other | acidify, sour
+ufulltim | other | acidity
+ufulltoj | other | acidify
+ufulltore | other | vinegar bottle
+ugarr | other | fallow field
+ugur | other | omen, augury
+ugurshëm | adj | auspicious, lucky
+ugurzi | adj | unlucky, ill-starred
+ugurzezë | adj | unlucky
+uhadhanje | other | loan
+uhamarrje | other | loan
+uhashtas | adv | reciprocally, mutually
+uhazash | adv | mutually
+uhazë | other | small loan
+uhazi | other | reciprocity
+uhëm | other | sultriness, heat-wave
+ujcë | other | crust of scurf
+ujdhazë | other | island
+ujdhazar | other | islander
+ujem | other | miller's fee; mash, medley, miscellany, muddle
+ujeme | other | meal-measure
+unjë | other | hunger
+ujkolonjë | other | eau de Cologne
+ujprurës | adj | aqueduct
+ujët | adj | low, low-pitched; humble, lowly; hungry
+unjët | adj | low
+ujgunshëm | adj | suitable, agreeable
+ujkët | adj | wolf's
+ujkërisht | adv | wolfishly
+ujknisht | adv | wolfishly
+ujkojë | other | she-wolf
