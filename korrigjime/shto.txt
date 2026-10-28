@@ -59672,3 +59672,62 @@ rrasmeni | noun | density
 rrasmoj | verb | press, compress
 rrastas | adv | as the case may be
 rrapalloj | verb | brandish, wave
+# ── mannshto.tsv ──
+rrash | adj | flat, level; just, exactly; level; plain
+rrashatak | adj | flat, level; squat, short-built
+rrashinoj | verb | level
+rrashkatjel | noun | pastry, layer of pastry; noodles, macaroni
+rrashkë | noun | stomach (of animal, used for curdling); rennet; curd cheese, junket
+rrashkëz | noun | rennet
+rrashnalte | noun | upland, mountain pasture
+rrashoj | verb | level, flatten; raze to the ground
+rrashqel | noun | rake; hook of tapeworm; gross, coarse
+rrashtel | noun | rake
+rrashtimë | noun | flat place, level, plain
+rrashtinë | noun | flat place, level, plain; cap; head-dress
+rrashtjel | noun | grate, bars, grille
+rrashtjeloj | verb | rake
+rrashtulte | noun | lowland plain
+rrathçë | noun | eel-net
+rravëz | noun | furrow
+rrebak | adj | bonny, robust
+rrebemadh | adj | capricious
+rrebeshim | noun | attack, onrush, onset; disaster, destruction
+rrebeshoj | verb | attack, rush at, assault; destroy
+rrebeshtar | adj | disastrous
+rrebeshtor | adj | disastrous
+rrebër | noun | rib
+rrebtë | adj | horrible, terrible, frightful, awful; violent, severe
+rrebkeq | adj | ill-tempered, irascible
+rrebnehem | verb | get annoyed, get angry
+rrebshëm | adj | awful, horrible
+rrebtsi | noun | severity
+rrebullt | adj | of maple
+rrecë | noun | wall or lining of stomach
+rreckanik | adj | ragged, tattered
+rreçkos | verb | tatter
+rred | noun | net
+rredhoj | verb | surround
+rrefazi | adj | damned, cursed
+rrefët | adj | strict, severe
+rrefkë | noun | pulse, throb
+rrefkët | adj | wild, stormy, violent, headstrong
+rrefkëtoj | verb | make violent
+rrefkëtohem | verb | get violent, lose one's temper
+rrefksi | noun | violence, rage, temper
+rregtar | noun | ruler, overlord
+rregulltare | noun | nun
+rregj | verb | soak, steep, pickle, tan (leather), ret (flax); clean, mend; harden, try, toughen
+rregjem | verb | toil, strive; lie ill
+rregjëni | noun | kingdom
+rregjërí | noun | kingdom
+rregjënoj | verb | rule, reign
+rregjëroj | verb | rule, reign
+rregjëzinj | verb | tear
+rregjineshë | noun | queen
+rregjinë | noun | queen
+rregjini | noun | kingdom; reign
+rregjje | noun | tanning, steeping, retting; training, toughening
+rregjni | noun | kingdom
+rregjnoj | verb | reign, rule
+rregjos | verb | tan, steep
