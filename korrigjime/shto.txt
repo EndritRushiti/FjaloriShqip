@@ -61659,3 +61659,42 @@ shgjetë | other | arrow
 shgjetoj | other | shoot (with bow and arrow)
 shgjetuer | other | bowman
 shgjetullë | other | arrow, dart
+# ── mannshto.tsv ──
+shgjymtim | other | deformation, impairment, detriment
+shgjymtoj | other | spoil, impair, damage, wreck
+shgjyrim | other | mutilation, disfigurement
+shgjyroj | other | mutilate, disfigure
+shibë | other | cold, catarrh
+shibi | other | trifle
+shif | other | basin, horse-pond; pelvis
+shigëlloj | other | cause to shudder, quake, vibrate
+shigurësë | other | certainty, security; certificate, licence
+shiguri | other | certainty, safety, security
+shigurim | other | securing, insurance
+shigurisht | adv | safely, certainly
+shiguroj | other | secure, ensure, insure
+shiguronjës | other | insurer
+shigurtë | adj | sure, safe
+shigjill | other | seal
+shigjilloj | other | seal
+shijak | adj | tasty, savoury
+shijatoj | other | flavour, spice
+shijazi | adv | tastily
+shijesë | other | taste, fragrance
+shijër | other | nape (of the neck)
+shijonjës | adj | gastronomic; gastronome
+shijosh | adj | tasty, nice, savoury
+shikarth | other | bladder-senna
+shikë | other | bladder, blister
+shikëz | other | blister; ampoule
+shikonjtore | other | observatory
+shileg | other | lamb
+shilek | other | lamb
+shilege | other | ewe-lamb
+shilur | other | swing, dangle
+shilurem | other | swing, sway, dangle
+shilurth | other | swing, seesaw; ups-and-downs
+shimatës | other | hygrometer
+shimbajtës | other | water butt, rain butt
+shimb | other | demolish
+shimës | other | thresher
