@@ -59973,3 +59973,49 @@ rriskull | noun | sickle
 rrithë | noun | goat-pasture
 rrizgë | noun | slice, shive, shaving, chip
 rrizhgoj | verb | roll
+# ── mannshto.tsv ──
+rrjedhsi | noun | flow; fluency; rhythm
+rrjedhsim | noun | deduction
+rrjedhsoj | verb | deduce
+rrjedhtim | noun | flow, current; deduction; outcome, consequence, result
+rrjepët | adj | flayed, skinned, fleeced
+rrjeshtar | noun | poet
+rrjeshtas | adv | continuously, in turn, on end, running
+rrjeshtazi | adv | continuously, in turn
+rrjeshtë | noun | line, row, series, rank; class
+rrjeshtëm | adj | orderly, tidy; ordinal, serial
+rrjeshtës | adj | ordering; orderer
+rrjeshtim | noun | arrangement, alignment; classification; array
+rrjeshtoj | verb | arrange, align; draw up, line up; classify
+rrjetëz | noun | gauze, filament
+rrjollë | noun | trickle, rill, brook
+rrnê | noun | larch
+rrnesë | noun | life, being, existence
+rrnoftë | interj | long live!
+rrnueshëm | adj | durable, lasting
+rrobaqepse | noun | dressmaker
+rrobaqepsi | noun | tailoring establishment, dressmaker's
+rrobis | verb | enslave; wear out, make haggard
+rrobitur | adj | enslaved; worn out, careworn, lined, haggard
+rrobiti | noun | slavery
+rroc | noun | unformed bone, cartilage
+rrocis | verb | gobble, devour
+rrocombok | adj | stunted, deformed, hunchbacked, underformed
+rrocomok | adj | stunted, deformed
+rroçmbërroç | adv | spinning, whirling, rolling
+rrodhesë | noun | parting of hair or mane, crown of head, tuft of hair at the crown
+rrodhik | noun | waste-pipe, outlet, drain, gutter
+rrofatë | noun | clump of withies
+rrofis | verb | devour
+rrogaç | adj | hireling
+rrogombok | adj | shaggy; lewd fellow
+rrogos | noun | mat, esp. rush-mat; rush, straw; matting
+rrogost | noun | mat
+rrogtar | noun | wage-earner, employee, hireling, servant; salaried
+rrogtare | noun | wage-earner (woman)
+rrogtari | noun | staff
+rrogtoj | verb | pay, pay off, salary
+rrojbëz | noun | tangle, twisted knot
+rrojnik | noun | honey-comb
+rrojtar | noun | barber
+rrojtës | noun | barber
