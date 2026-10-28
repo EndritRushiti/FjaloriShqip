@@ -64117,3 +64117,37 @@ thalbsë | other | kernel
 thamem | other | wonder
 thamje | other | drying; withering; drainage
 thanc | other | black variety of grape
+# ── mannshto.tsv ──
+thanëqere | other | wild cornel-cherry
+thaneqere | other | wild cornel-cherry
+thanukull | other | wild cornel, dogberry
+thanulë | other | wild cornel
+thanzë | other | cornel cherry
+thapë | other | claw; bracket
+tharakac | other | hoe
+tharbtim | other | acidity, sourness, sharpness
+tharbtoj | other | acidify
+tharp | adj | sour
+tharptim | other | sourness, acidity
+tharptoj | other | turn sour
+tharsinë | other | sourness, acidity
+tharsirë | other | sourness
+thartinë | other | sourness
+thartanik | adj | sourish, sour-faced, crabbed, surly
+tharti | other | sourness, acidity
+thartore | other | sorrel
+thartosh | adj | acid, acetic, tart
+thashethemje | other | twaddle, hearsay, tittle-tattle, gossip
+thatimë | adj | lean, thin
+thatinë | other | dryness, drought; dry place
+thatni | other | dryness
+thatsi | other | dryness, drought
+thatsinë | other | drought
+thatsirë | other | drought
+thaumë | other | wonder
+thavmë | other | wonder
+thaumazët | adj | surprised
+theatër | other | theatre
+theatro | other | theatre
+theatrar | adj | theatrical
+thefqafë | other | waterfall; breakneck precipice, dangerous place
