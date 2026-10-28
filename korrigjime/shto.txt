@@ -62362,3 +62362,49 @@ shpirtshtrëngim | other | anguish
 shpirtvogli | other | narrow-mindedness
 shpirtzim | other | inspiration, encouragement
 shpirtzoj | other | inspire, fire, encourage
+# ── mannshto.tsv ──
+shpisak | adj | domestic
+shpjertueshëm | adj | quick, rapid
+shpjunsi | other | espionage
+shplakim | other | slapping, beating; clapping
+shplakoj | other | beat, slap; scourge
+shplamë | adj | washed-out, pale
+shplasje | other | outburst
+shpleshtoj | other | hunt for fleas
+shplodh | other | give rest to
+shplodhje | other | rest, repose
+shplotë | adj | incomplete, imperfect
+shplotët | adj | incomplete
+shpluhoj | other | pulverise; beat out (dust)
+shpluhunoj | other | beat out, extract dust from
+shpnesoj | other | hope
+shpofkë | other | bay-window
+shponxë | other | sponge
+shponjës | adj | piercing, piquant; borer, gimlet
+shporëng | other | asparagus
+shporis | other | scatter
+shporoj | other | spur, goad, prick; bore, pierce
+shportëz | other | small basket
+shporues | adj | piercing, penetrating; goading
+shporrshëm | adj | exterminable, removable
+shpotar | adj | mocking, ironical, sarcastic; mocker
+shpotis | other | scorn, mock, sneer
+shpovarës | other | rake, nuisance, mischief-maker
+shpozis | other | stir, poke, rouse
+shpraj | other | disturb, annoy, trouble
+shpratë | other | unrest, trouble
+shpratës | other | disturber
+shprallcë | other | gossip, chatterbox
+shprallës | other | tale-teller, yarn-spinner
+shprallim | other | gossip, talebearing
+shprallis | other | gossip about, slander
+shpralloj | other | gossip about
+shprallues | adj | talebearing; talebearer
+shprap | other | check, thwart
+shpraps | other | check
+çpraps | other | check
+shprapsem | other | recoil, retire, retreat
+shprapsje | other | retreat
+shprazët | adj | empty
+shpraztar | adj | discharging, unloading
+shprazti | other | void, vacancy
