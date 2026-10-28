@@ -2622,7 +2622,6 @@ shqymët | shqimët | alternative
 shqyptues | shqiptues | alternative
 shqyre | sqyre | alternative
 shranjos | çrrënjos | alternative
-shrrranjos | çrrënjos | alternative
 shrrënjos | çrrënjos | alternative
 shrrënjoj | çrrënjos | alternative
 shrrënjim | çrrënjim | alternative
@@ -2637,3 +2636,5 @@ shrregulltë | çrregullt | alternative
 shtalë | stallë | alternative
 shtamën | shtambë | alternative
 shtampoj | stampoj | alternative
+# ── Mann 1948 ──
+shrranjos | çrrënjos | alternative

@@ -62536,7 +62536,6 @@ shqyre | other | plate
 shqyrë | other | barrier, stile
 shqytem | other | cover oneself (against risk)
 shranjos | other | uproot
-shrrranjos | other | uproot
 shrrënjos | other | uproot, eradicate
 shrrënjoj | other | uproot
 shrrënjim | other | eradication
@@ -62565,3 +62564,5 @@ shtamin | other | stamen
 shtamnohem | other | be ruptured
 shtampoj | other | print
 shtangër | adj | squint-eyed
+# ── mannshto.tsv ──
+shrranjos | other | uproot
