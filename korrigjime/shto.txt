@@ -58859,3 +58859,38 @@ qemale | noun | lute; cymbal; violin
 qembale | noun | lute
 qemben | noun | cymbal
 qemti | noun | gathering, collection, gleaning; harvest
+# ── mannshto.tsv ──
+qendimë | noun | needlework
+qendrak | noun | diameter
+qenehur | adj | pretentious
+qenës | noun | element; essence
+qenët | adj | dog's, canine
+qenezë | noun | agnail, whitlow
+qengë | noun | belt, girth-belt; restriction
+qenq | noun | lamb
+qengjel | noun | girth
+qenik | adj | cynical
+qênmeni | noun | existence, nature
+qênsi | noun | nature, character; cynicism
+qênsishëm | adj | essential, real, actual, material
+qênsisht | adv | essentially; cynically
+qênshëm | adj | essential
+qêntoj | verb | exist
+qenth | noun | cur, whelp; canine tooth; agnail; ulcer on tongue, canker; hydrophobia
+qenzë | noun | agnail, quick
+qepeng | noun | shutter
+qepenk | noun | shutter
+qeparinë | noun | small snail
+qeparis | noun | cypress
+qepkë | noun | onion, bulb
+qepnar | noun | mill clapper
+qepoj | verb | batter; nudge, tap
+qepore | noun | bulb; swelling, knob
+qepriz | noun | cypress
+qeproj | verb | cover in a roof, frame a roof
+qepse | noun | tailoress, dressmaker
+qepshqepës | noun | mischief-maker
+qepushkë | noun | seedling onion; gossip, shrew
+qeramidh | noun | tile, brick
+qerasmë | noun | tip, gift
+qerbë | noun | she-goat with red and black nose
