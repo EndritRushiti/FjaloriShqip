@@ -62982,3 +62982,37 @@ shvlersim | other | devaluation
 shvlersoj | other | devalue
 shvoshk | other | peel, shell, husk, bark
 shvulos | other | unseal
+# ── mannshto.tsv ──
+shyretoj | other | adorn
+shytak | adj | one horn short
+shytan | adj | hornless (of rams)
+shytim | other | truncation, maiming; amputation
+shytoj | other | truncate, maim, amputate; lop, trim
+tabakane | other | tannery
+tabar | other | overcoat, winter coat
+tabarr | other | overcoat
+tabare | other | overcoat
+tabellë | other | table, board
+tabllë | other | backgammon; table
+taborr | other | battalion
+tabuar | other | battalion
+taçile | other | potter's wheel
+tafar | other | funnel
+taftim | other | shock, sensation
+taftis | other | stupefy, amaze
+taftisem | other | be amazed, be moonstruck
+tagrim | other | taxation
+tagroj | other | tax
+tah | adv | now
+tahir | other | baker's peel
+tais | other | ooze, sweat, seep (of porous pots)
+tajis | other | ooze, seep
+tajtar | other | turner
+tajkë | other | muscatel grape
+tajoj | other | bother, disturb, perturb
+takam | other | set, utensils, harness
+takâm | other | set, utensils
+takamis | other | fit out, equip, rig, harness
+takamisje | other | equipment, harnessing, rigging
+takatuke | other | ashtray
+takfak | adv | there and then, on the spot
