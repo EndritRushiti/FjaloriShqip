@@ -64795,3 +64795,42 @@ vdimë | adj | absent; scattered
 vdirem | other | be lost, perish
 vdirshëm | adj | perishable
 vdjerret | other | gutter, flicker out (as a candle)
+# ── mannshto.tsv ──
+veçanas | adv | separately, singly
+veçanëri | other | speciality, peculiarity
+veçanisht | adv | separately; particularly, especially
+veçansi | other | speciality, peculiarity; particular, detail
+veçansoj | other | separate, isolate
+veçanshëm | adj | peculiar, particular, special
+veçantas | adv | specially, particularly; besides
+veçantoj | other | separate, segregate
+veçazi | adv | apart, separately
+veçe | adv | only, but
+veçë | adj | own, personal, particular, private, special
+veçëm | adj | own, particular
+veçët | adj | separate, private
+veçor | adj | singular; peculiar
+veçore | other | singular (gram.)
+veçorshëm | adj | peculiar, proper (to)
+veçsi | other | peculiarity
+veçtë | adj | alone, apart, lonesome, isolated; separate, private
+veçti | other | peculiarity
+vedisht | adv | personally; personal
+vedtim | other | appropriation
+vedtoj | other | appropriate, annex
+vefte | pron | oneself
+vegcë | other | hook; bend of the knee
+vegla-çelës | other | skeleton key, master key
+vegonjës | adj | guardian, tutelary
+vegosh | adj | lanky, long-legged
+vegshar | other | potter, pot-maker
+vehtsim | other | personification
+vehtim | other | personification
+vehtsoj | other | personify
+vehtoj | other | personify
+vehti | other | person, individual; quality, property
+vehtiak | adj | personal
+vehtjak | adj | personal
+vehtsi | other | characteristic, trait
+vejgë | other | handle (esp. of a pot)
+vejk | other | small variety of fig
