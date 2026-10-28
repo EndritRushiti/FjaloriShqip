@@ -58813,3 +58813,50 @@ qederosem | verb | mourn, grieve
 qejfali | noun | head, captain, primate
 qefell | noun | mullet
 qegëllë | noun | tile
+# ── mannshto.tsv ──
+qehribá | noun | amber
+qejfshëm | adj | pleasant
+qejnim | noun | mockery, derision
+qejnoj | verb | mock, deride, scoff at
+qekaq | adv | so much
+qekerk | noun | winch, windlass, capstan
+qekëtá | pron | those yonder
+qekëtu | adv | just there, here
+qekëndena | adv | hence
+qeksajt | adv | this way
+qelapoç | noun | cap
+qelapoçe | noun | marriage crown
+qelbacak | adj | stinking
+qelbash | adj | stinking, putrid
+qelbak | noun | polecat (or skunk)
+qelbcirë | noun | stink, rot, decay
+qelbëz | noun | strong-smelling plant; polecat
+qelbosh | adj | stinking, putrid
+qelbsim | noun | rot, decay, filth
+qelbsinë | noun | rot, decay, filth, foulness, putrefaction, stench, pus
+qelbsoj | verb | putrefy, cause to stink, rot
+qelendryshe | noun | nightingale
+qeleposhe | noun | white Albanian fez
+qeler | noun | cellar, pantry, larder, sideboard
+qeletë | adj | bald, scurvy
+qelqer | noun | poison-gland (of insect)
+qelohem | verb | get bald
+qelosh | adj | bald, scurvy
+qelp | verb | rot
+qelpsë | noun | pustule
+qelqem | verb | glint, shine
+qelqeshkë | noun | pane of glass
+qelqenez | noun | kestrel
+qelqerinë | noun | glassware
+qelqët | adj | glass-, of glass; glassy
+qelqtar | noun | glass-worker; glazier
+qelqurinë | noun | glassware
+qelvasare | noun | brawl, row
+qervasare | noun | brawl, row
+qelli | noun | cell, room, chamber
+qellje | noun | stoppage, check, hold-up, stand
+qellzane | noun | roof of mouth, palate
+qemale | noun | lute; cymbal; violin
+qembale | noun | lute
+qemben | noun | cymbal
+qemti | noun | gathering, collection, gleaning; harvest
