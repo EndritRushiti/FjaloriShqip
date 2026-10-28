@@ -63738,7 +63738,6 @@ trevezë | other | table
 trezanash | adj | three-part (song)
 trezgë | other | lump of stone, flint
 trëfil | other | clover
-trëmbë | other | stump
 trëmerak | adj | timid
 trëndafilok | other | wild rose
 trëndalinë | other | melilot
@@ -63757,7 +63756,6 @@ triçip | other | triangle
 tricepët | adj | triangular
 triçipët | adj | triangular
 triçkë | other | trio, threesome
-triçoj | other | renew, revive, benefit
 tridhambsh | other | trident (for spearing fish)
 tridhëmbsh | other | trident
 tridhjetët | adj | thirtieth
