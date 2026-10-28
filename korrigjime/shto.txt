@@ -59599,3 +59599,34 @@ rumegoj | verb | bellow
 rumor | noun | uproar
 rupoj | verb | caulk, plug
 ruptoj | verb | caulk, plug
+# ── mannshto.tsv ──
+rusurë | noun | blush
+rushçi | noun | cramp, pins-and-needles
+rushgjer | adj | torrential, stormy; downpour, heavy rain
+ruzar | noun | rosary
+ruzare | noun | rosary
+rybe | noun | grade, rank, title
+ryej | verb | train
+ryhem | verb | drill, train
+rymë | noun | entrance
+ryp | noun | band, strap, thong
+rypkë | noun | band, strap
+rytylloj | verb | roll
+rythë | noun | money-box, cash-till
+ryzë | noun | rue (bot.)
+rrabush | noun | score, marker, ledger, record-book, inventory
+rrabushim | noun | scoring, logging, recording, entry
+rrabushoj | verb | score, log, record, enter
+rradungal | noun | dwarf with big head
+rrafc | noun | washing-stick, beater
+rrafme | noun | beating, thrashing; throb, pulsation
+rrafse | noun | beater, churn
+rraganicë | noun | piece of cloth; rag, wiper
+rragatar | adj | contentious, bickering; bickerer
+rragatem | verb | argue, bicker, quarrel, dispute
+rragatës | adj | quarrelsome; bickerer
+rragjas | verb | break (of stalks of corn)
+rrahadere | noun | scamp, street urchin
+rrahanoj | verb | raze, fell, lay low
+rrahcë | noun | trigger
+rrahme | noun | beating, thrashing; threshing; throb, pulsation; blow, clap, beat
