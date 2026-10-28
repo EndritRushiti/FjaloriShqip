@@ -59405,3 +59405,39 @@ repç | noun | waif, stray
 repët | adj | peeled, skinless, skinned
 repicë | noun | rape (bot.)
 repth | noun | radish
+# ── mannshto.tsv ──
+repuqohem | verb | get wizened, shrivel up
+reqën | noun | woodlouse, sowbug
+reqin | noun | woodlouse
+resis | verb | delete, cross out, erase, obliterate, wipe out, destroy, cancel, annul
+resitje | noun | deletion, cancellation
+resm | noun | design, picture
+resmarin | noun | rosemary
+resmëtar | noun | heir
+resore | noun | mooring-cable
+reshet | verb | piles up (of snow)
+reshk | noun | habit, custom
+reshme | noun | tinsel
+reshper | noun | merchant
+reshpereshë | noun | business-woman
+reshperi | noun | trade, business
+reshperim | noun | dealings, business; frequentation, intercourse, contact
+retër | noun | thong, shoelace
+retiçele | noun | laces
+revaniçkë | noun | small spongecake
+revgët | adj | thin, sparse
+revis | verb | rave, dream, wander in mind
+revitje | noun | raving, wandering in mind, woolgathering, dreaming, trance, reverie
+rezegji | noun | muscatel grapes or raisins
+rezm | noun | inheritance
+rezmëtar | noun | heir
+rezullim | noun | reflection; meditation
+rezulloj | verb | reflect; meditate upon
+rëfegoj | verb | feed up, revive with food
+rëgallinë | noun | stony place
+rëgjakur | adj | anaemic
+rëgjoj | verb | cause to flag, make droop
+rëgjohem | verb | flag, droop, wither
+rëmarëm | adj | noisy, rumbling
+rëmërëma | adv | rumblingly
+rëmic | verb | scratch
