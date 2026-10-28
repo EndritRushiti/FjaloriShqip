@@ -64315,3 +64315,39 @@ thukmeni | other | density
 thumbec | other | goad
 thumbos | other | sting, prick
 thumbsëpatë | other | a bird with thick spurs
+# ── mannshto.tsv ──
+thundërz | other | coltsfoot (broad-leafed plant of damp places)
+thundrore | other | ungulates
+thuprim | other | thrashing, lashing
+thuproj | other | thrash, lash
+thurr | other | fence in, weave
+thurës | adj | enclosing, fitting, knitting
+thurmë | other | structure, texture, weave
+thuthë | other | lisp
+thuthoj | other | lisp
+thyjej | other | break
+thyejtës | adj | breaking; breaker
+thyeme | other | breaking, break, fracture
+thyemje | other | breaking
+thyerazi | adv | brokenly
+thyerina | other | rubble, fragments
+thyerishtë | other | scrap-heap, rubbish-heap
+thyershëm | adj | breakable
+thyet | adj | broken, bent, dented, defeated
+thymjatos | other | perfume with incense
+thymje | other | breaking
+thynje | other | breaking
+thyrje | other | breaking
+ububu | interj | oh dear! heavens! alas!
+udobë | adj | easy
+udobtë | adj | easy, convenient, handy
+udobi | other | ease, facility, skill, dexterity; comfort, convenience
+udobisht | adv | easily, conveniently
+udobshëm | adj | easy, handy, convenient, comfortable; docile, mild
+udhakryq | other | crossroads
+udhëdiftues | other | guide, leader; handbook
+udhëfshis | other | road-sweeper
+udhëpastronjës | other | roadsweeper
+udhëpukë | other | branching of roads, fork
+udhëpuqe | other | fork in the road
+udhërrëfenjës | other | guide, leader
