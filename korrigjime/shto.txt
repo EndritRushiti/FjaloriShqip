@@ -63139,3 +63139,54 @@ tejshikim | other | far-sightedness; television
 tejveshtrim | other | far-sightedness
 tejshkroj | other | wire, telegraph
 tejshkronjë | other | wire, telegram
+# ── mannshto.tsv ──
+tekanjos | adj | frivolous
+tekado | adv | wherever, whithersoever, everywhere
+tekembrëmja | adv | towards evening; finally
+teket | other | it pleases, it suits; it befalls
+tekfek | adv | there and then, on the spot
+tekfekje | other | whim, fancy
+teknikan | other | technician
+tekpo | conj | as, while
+tekqi | conj | whereas
+tektu | adv | here and there
+teku | adv | where
+tekunë | other | covetousness; fancy, whim
+telatinë | other | leather (esp. Russia leather)
+telçe | other | wire
+telefonis | other | telephone
+telegramë | other | telegram
+televizionik | adj | television-
+televizjon | other | television
+telis | other | embroider (a dress) with gold and silver thread
+telët | adj | of wire
+telig | other | horse-collar
+telishte | other | wired place
+telishtë | other | wire-nail
+teloj | other | draw (wire)
+telozë | other | tax, tribute, levy
+teltyrë | other | soil
+tembell | other | temple
+tembull | other | temple
+temelim | other | foundation, establishment
+temelis | other | found, establish
+temeloj | other | found
+temelues | other | founder
+temën | other | warp
+temian | other | incense
+teminë | other | decorative metalwork on peasant dress
+temjanos | other | perfume with incense
+temlik | other | horse-collar
+temonar | other | helmsman
+temperonj | other | modify
+tempeshir | other | chalk
+tempeshirë | other | chalk
+tentonj | other | try, tempt
+tenel | other | basil
+teneqar | other | tinman
+teneqenjtë | adj | tin-, pewter-
+tenerith | adj | soft
+tenët | adj | tight
+tengel | other | thong, strap
+tengjere | other | pot, saucepan
+tengjë | other | whooping-cough
