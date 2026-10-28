@@ -64444,7 +64444,6 @@ ulpti | other | alder
 ulqeshë | other | she-wolf
 ulqnisht | adv | wolfishly
 ulsinë | other | lowness; low place, depression, flat
-ulsetare | other | chair
 ultinë | other | lowland; depression, flat
 ultsi | other | lowness, lowliness, humility
 ultsinë | other | lowness; abjection; lowland, depression
@@ -64453,3 +64452,5 @@ uluroj | other | howl
 ulzueshëm | adj | lowering, debasing
 ullak | other | messenger
 ullug | other | pipe, drain
+# ── mannshto.tsv ──
+ultare | other | chair
