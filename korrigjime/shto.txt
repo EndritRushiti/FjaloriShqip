@@ -64023,3 +64023,57 @@ turjelim | other | boring, sounding
 turjeloj | other | bore, sound, tap
 turllos | other | stun, stupefy, daze
 turllosur | adj | stunned, dazed, giddy, dizzy
+# ── mannshto.tsv ──
+turmez | other | sparrow
+turoj | other | bore
+turojë | other | turtle-dove
+turpëm | adj | shameful, disgraceful
+turpje | other | shame
+turpnim | other | shaming, disgracing; rape
+turpnisht | adv | basely, shamefully
+turpënonj | other | shame
+turpnueshëm | adj | shameful
+turqni | other | Turkdom
+turqnim | other | Turkdom
+turqsoj | other | turkify
+turshij | other | beat, thrash, pound, bruise; combat
+turullak | adj | silly, stupid; fool
+turuluq | adj | silly
+turulluqe | other | foolish girl or woman
+turulloj | other | turn silly
+turraqit | adv | dashingly, with a rush, hastily
+turras | adv | in haste
+turravrapthi | adv | in haste
+turrec | other | turtle-dove
+turresë | other | joust, tournament
+turrëz | other | globularia (plant)
+turri | other | snout; trunk
+turribardhë | adj | white-nosed
+turris | other | frighten, scare
+turrivramë | adj | grumpy, morose
+turrizë | other | muzzle, snout
+turrizi | adj | black-nosed
+turrjelë | other | gimlet
+turrme | other | dash, charge
+turrshëm | adj | dashing, hurried, headstrong; mountainous
+turrthin | adv | with a rush, hastily
+tushë | other | grouse
+tusht | other | puff of wind, gust
+tushtis | other | blow, puff
+tutarak | adj | anxious, nervous, timid
+tutec | adj | timid, cowardly; coward
+tutël | adv | crumpled up, in a heap
+tutërr | other | intrigue
+tutëz | other | cigar-stump
+tutjem | adj | yonder, farther, distant
+tutkë | other | brain
+tutkunëri | other | madness
+tutloj | other | bundle up, crumple
+tutoj | other | frighten, abash, embarrass
+tudoj | other | frighten
+tutshëm | adj | timid, afraid
+tutulis | other | soothe, calm, pacify, put to sleep
+tutulitem | other | calm down, get drowsy
+tutulec | other | lilac
+tutumar | other | stupefy
+tuvës | other | barb or awn on maize

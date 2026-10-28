@@ -3190,3 +3190,17 @@ tundulloj | tundullij | alternative
 turçi | turshi | alternative
 turfan | tufan | alternative
 turishtë | torishtë | alternative
+# ── Mann 1948 ──
+turpje | turp | alternative
+turpnim | turpërim | alternative
+turpnisht | turpërisht | alternative
+turpënonj | turpëroj | alternative
+turpnueshëm | turpërueshëm | alternative
+turullak | torollak | alternative
+turuluq | torollak | alternative
+turravrapthi | turravrap | alternative
+turrjelë | turjelë | alternative
+turrme | turrje | alternative
+tutkë | tru | alternative
+tutkunëri | çmenduri | alternative
+tudoj | tutoj | alternative
