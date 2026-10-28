@@ -64189,3 +64189,48 @@ theollog | other | theologian
 theolog | other | theologian
 theollogji | other | theology
 theori | other | theory
+# ── mannshto.tsv ──
+thepç | other | point, tip
+thepëm | adj | pointed, sharp-edged
+thepët | adj | pointed, sharp-edged, keen, tapering
+therimi | other | butcher's broom
+thirimi | other | butcher's broom
+theristi | other | June; August
+therite | other | wound, blow
+therorsoj | other | sacrifice
+therorzoj | other | sacrifice
+therorsim | other | sacrificing, sacrifice
+therorzim | other | sacrifice
+therortar | other | victim
+thershëm | adj | piercing, sharp
+therrtore | other | slaughter-house
+thezë | other | thesis
+thëllanzë | other | partridge
+thëlinë | other | bird with only three foreclaws, no spur
+thëngjillguri | other | coal
+thëngjillak | adj | of coal, carbonic
+thëngjillar | other | coalman, coal-hauler; collier
+thëngjillbamës | other | charcoal burner
+thëngjillës | other | carbuncle
+thëngjillgurt | other | coal
+thëngjillim | other | charring, carbonisation; carbon
+thëngjilloj | other | char, carbonise
+thëngjillos | other | char
+thëngjilltirë | other | carbon dioxide
+thëngjilltore | other | coal-place
+thërbë | adj | hollow, empty (of a nut)
+thërbël | adj | hollow
+thërk | other | pen, fold
+thërrmaqe | other | gravel, groats
+thërmikë | other | grain, speck
+thërmim | other | wearing down, crushing, trituration
+thërmizë | other | atom
+thërmojnë | other | fragment
+thërmos | other | alarm
+thërmueshëm | adj | friable, crumbly
+thërpihem | other | mate (of cats)
+thëthis | other | suck
+thëthihem | other | live (by or on)
+thëthim | other | suction
+thëthinjës | adj | sucking, absorbent
+thëthitës | adj | sucking, imbibing, absorbent; sucker
