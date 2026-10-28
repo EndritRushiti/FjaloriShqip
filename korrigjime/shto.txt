@@ -60224,3 +60224,55 @@ sakrifiç | noun | sacrifice
 sakrifikonj | verb | sacrifice
 saktas | adv | surely, certainly
 saku | conj | while, till
+# ── mannshto.tsv ──
+saler | noun | salt-cellar
+salë | noun | hind, doe; hall, large room
+saliagos | noun | sea-snail
+salikim | noun | burial service, obsequies
+salikoj | verb | conduct a funeral, bury, read burial service
+salikon | noun | basil
+salter | noun | spelling-book, alphabet
+salvim | noun | tirade, invective, attack; persecution
+sallagjak | noun | hammock
+sallahan | adj | vagrant, wandering; tramp, vagabond
+sallahane | noun | slaughter-house; swing, seesaw
+sallak | adj | left
+sallakët | adj | left
+sallamakem | verb | be baffled
+sallandis | verb | rock, swing, sway
+sallcë | noun | sauce
+sallëndis | verb | rock, swing
+sallëz | noun | heavy curtain, screen
+sallgem | noun | acacia
+sallkëm | noun | acacia
+sallmanis | verb | rock, swing
+sallutet | noun | health, salvation
+samaparshëm | adj | urgent
+samarnicë | noun | widow
+samem | verb | go bad, decay
+samsar | noun | middleman, broker, agent
+samun | noun | salmon; bun, cake, esp. pastry-cake eaten during Ramazan
+samurr | noun | sable
+sanaje | noun | hay
+sandall | noun | ferry-boat, paddle-boat, canoe, landing-boat
+sande | adv | tonight; thy, thine
+sandërgjoj | verb | work
+sandraç | noun | chess
+sandte | adv | tonight
+sanduk | noun | box, chest, coffer
+sanep | noun | a bitter herb
+sanesë | noun | island
+sanicë | noun | sledge
+sanktifikonj | verb | sanctify
+sante | adv | tonight
+santur | noun | kind of lute or guitar
+sanzë | noun | gentian
+sanxë | noun | gentian
+sapetkë | noun | bag, satchel, haversack
+saplak | noun | ladle, saucepan
+sapli | noun | ladle, saucepan
+sapue | noun | soap
+sapuntore | noun | soapworks
+saragë | noun | smoked sprat, herring, kipper or anchovy
+sarahosh | adj | hard-drinking; tippler
+saravis | verb | string, thread
