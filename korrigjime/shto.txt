@@ -62670,3 +62670,52 @@ shtillë | other | winding-machine; eddy
 shtilloj | other | unroll, unfurl; develop
 shtimoj | other | esteem, estimate, suppose
 shtinjak | adj | insatiable, gluttonous
+# ── mannshto.tsv ──
+shtinjatem | other | pretend, dissimulate, sham, feign
+shtiratem | other | pretend
+shtip | other | press
+shtipëz | other | alum
+shtirëz | other | harrow
+shtis | other | caster of lots
+shtitje | other | cast, throw, shot
+shtitrak | adj | educative
+shtitresë | other | education
+shtitrim | other | education, teaching
+shtitroj | other | educate, teach
+shtizar | other | lancer
+shtizkeq | other | mischief-maker
+shtjegëz | other | slit in the side of trousers used as a pocket
+shtjegullë | other | eaves, roof-gutter
+shtjekëz | other | stick supporting a bird-trap
+shtjeksë | other | stick supporting a bird-trap
+shtjellis | other | unfold, develop
+shtjellisje | other | unfolding, development
+shtjerkeq | adj | mischief-making; mischief-maker
+shtjerakeq | other | mischief-maker
+shtjerrak | other | castrated kid
+shtjeshkë | other | prophecy
+shtojligjë | other | amendment
+shtonjë | other | suffix
+shtonjës | other | adder; top-bidder
+shtopis | other | blunt
+shtozim | other | thanks, gratitude
+shtozoj | other | give thanks, show gratitude
+shtozueshëm | adj | grateful
+shtrajtim | other | transformation, deformation
+shtrajtoj | other | transform, deform
+shtramët | adj | strong, robust
+shtramnoj | other | twist, distort
+shtramojt | adj | left, left-hand
+shtrangoj | other | tighten, compel
+shtrangullim | other | strangulation
+shtrangulloj | other | strangle, strangulate
+shtrapacim | other | abuse
+shtrapacoj | other | abuse, browbeat
+shtrapnoj | other | spread out, luxuriate, get bushy
+shtrapnjej | other | spread out
+shtrapnohem | other | be spread out, lie, sprawl
+shtrapullzim | other | ill-treatment, abuse
+shtrapullzoj | other | abuse, browbeat
+shtras | other | drain, dry, strain; run dry
+shtrashgim | other | disinheritance
+shtrashgoj | other | disinherit
