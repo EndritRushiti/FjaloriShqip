@@ -60324,3 +60324,51 @@ seku | adv | where
 sekullë | noun | a vegetable from which a kind of pie is made
 sekur | adv | when
 sekush | pron | everyone, everybody; whoever, who
+# ── mannshto.tsv ──
+selc | noun | soda-water
+selcë | noun | carbon
+selep | noun | salep
+seler | noun | celery
+selfigan | noun | basil
+selfigen | noun | basil
+selfion | noun | basil
+selfijan | noun | basil
+selishtë | noun | garden-plot, bed, allotment, kitchen-garden
+sellë | noun | breakfast
+semidhallë | noun | fine flour
+semin | noun | jasmine
+semos | conj | lest; I suppose, no doubt
+sempël | adj | simple
+sempell | adj | simple
+senap | noun | mustard
+sendërgjues | adj | inventive, ingenious, resourceful; maker, inventor
+sendërgjueshëm | adj | conceivable
+sendërtar | adj | hardworking
+sendërtë | adj | real, material, concrete
+sendërtohem | verb | materialise, come into being
+sendis | verb | annoy, trouble
+sendisem | verb | sorrow, grieve
+sengser | noun | broker, middleman, dealer
+senkser | noun | broker
+senofeqe | noun | Feast of Tabernacles
+senoj | verb | stabilise
+sepellenj | verb | bury
+sepellonj | verb | bury
+sepetkë | noun | little basket, work-basket, sewing-box
+sepi | noun | sepia, cuttle-fish
+seqysh | adv | how
+serek | noun | turban
+serele | noun | pain, ache
+seren | noun | cold
+sergjend | noun | shelf
+sergji | noun | shelf, dresser
+sermajtë | adj | silver
+seros | verb | pitch, tar
+serpos | verb | darken
+serposet | verb | night falls
+sertelloj | verb | anger
+servitur | noun | servant
+serraf | noun | money-changer
+serrotinë | noun | hoop, ring
+sesenë | noun | limestone
+sesihe | noun | means
