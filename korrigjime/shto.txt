@@ -62408,3 +62408,43 @@ shprapsje | other | retreat
 shprazët | adj | empty
 shpraztar | adj | discharging, unloading
 shprazti | other | void, vacancy
+# ── mannshto.tsv ──
+shprehunisht | adv | expressly
+shpresdhanës | adj | cheering, heartening, promising
+shpresplotë | adj | hopeful, optimistic
+shpriftnoj | other | unfrock
+çpriftëroj | other | unfrock
+shprigë | other | witch
+shpronsi | other | confiscation, expropriation
+shpronsim | other | expropriation
+shpronsoj | other | confiscate, expropriate
+shpronsueshëm | adj | confiscable, alienable
+shprovë | other | experience, trial
+shprovim | other | experience, trial, test
+shprovimtar | adj | experimental; tester, experimenter
+shprovoj | other | experience, try, test
+shpruvim | other | trial
+shpruvoj | other | test
+shpryhem | other | storm, attack
+shpryme | other | attack
+shpulpoj | other | unflesh, lacerate
+shpunim | other | stoppage, lock-out
+shpuplim | other | plucking (of feathers)
+shpuplohem | other | preen (feathers), moult
+shpuplish | other | tousle
+shpuprish | other | tousle
+shpurga | other | swaddling band
+shpurizë | other | papule
+shpurtun | other | basket
+shpurthiq | other | addle
+shpusë | other | sponge
+shputoj | other | uncork
+shpuzatak | adj | spongy, rotten, fungus-like
+shpuzis | other | stir, poke
+shpves | other | cross-question, cross-examine
+shpyej | other | put forward, present
+shpyllzim | other | deforestation
+shpyllzoj | other | deforest
+shqaj | other | tear, rend
+shqanthi | adv | glidingly, smoothly
+shqaq | other | squash, batter
