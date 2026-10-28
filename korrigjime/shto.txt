@@ -64151,3 +64151,5 @@ theatër | other | theatre
 theatro | other | theatre
 theatrar | adj | theatrical
 thefqafë | other | waterfall; breakneck precipice, dangerous place
+# ── mannshto.tsv ──
+thartues | adj | souring, acidifying; acidifier
