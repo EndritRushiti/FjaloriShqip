@@ -3424,3 +3424,14 @@ uthur | uthër | alternative
 uvëm | ufë | alternative
 uxhë | shpellë | alternative
 vabzi | vabsi | alternative
+# ── Mann 1948 ──
+vajanik | vajanicë | alternative
+vajisëm | vajisur | alternative
+vaksinatë | vaksinim | alternative
+vaksirë | vakësi | alternative
+vakuf | vakëf | alternative
+valanith | valanidh | alternative
+valikë | valigë | alternative
+valicë | valixhe | alternative
+valsim | valsi | alternative
+valavimë | valavitje | alternative

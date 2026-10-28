@@ -64627,3 +64627,38 @@ vagulluar | adj | dim, faint, dark
 vagur | other | bar, swing-bar
 vagjel | other | diet
 vagjeloj | other | diet, feed carefully, nurture
+# ── mannshto.tsv ──
+vajanicë | other | oil-bottle, oil-can
+vajanik | other | oil-can
+vajisur | adj | inclined, sloping; biased, tending, tendentious
+vajisëm | adj | inclined
+vajme | other | woe, sorrow
+vajnik | other | oil-can, oil-flask
+vajosh | adj | mournful; oily
+vajshëm | adj | mournful, sorrowful; oily
+vajtimore | other | chief wailer, woman hired to lead the wailing
+vajtonjës | other | mourner
+vajtuarshëm | adj | mourning-; sad, grievous, lamentable
+vakërr | adj | black-marked on the feet and nose (of sheep)
+vaksinatë | other | vaccination
+vaksirë | other | tepidness
+vakuf | other | foundation
+valanicar | other | fuller
+valanith | other | acorn
+valatë | other | valley; river-basin
+valavitje | other | swinging, swaying, waving, billowing, whirling
+valavis | other | swing, sway, wave, rock, swerve, whirl, roll, heave
+valavitës | adj | swinging, swaying, waving, rocking
+valent | other | valency (chem.)
+valigë | other | right time (for cultivation), seasonableness (of soil)
+valikë | other | right time for cultivation
+valicë | other | suitcase
+valis | other | seek out, explore
+valisem | other | shuffle along
+valonjës | adj | seething, boiling, surging, heaving, fluctuating, waving
+valos | other | cause to surge, make heave; heave, surge, boil
+valosem | other | heave, surge, well up; crash, fall, be overthrown
+valsi | other | undulation
+valsim | other | undulation
+valsoj | other | undulate, surge
+valavimë | other | swaying, waving
