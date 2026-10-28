@@ -61198,3 +61198,66 @@ svogëlim | other | diminution, reduction
 svogëloj | other | diminish, reduce
 sybardhje | other | the white of the eyes
 syçkë | other | little eye; bud; hole (in a stocking)
+# ── mannshto.tsv ──
+sydhelpën | adj | wily, shrewd, sly, crafty
+sydhi | adj | goat-eyed
+syej | other | aim at, attack
+syglebër | adj | blear-eyed
+sygloq | adj | blear-eyed
+sygur | adj | fearless
+syhapje | other | wink, blink
+sykath | other | sty (on the eye)
+sykët | adj | piebald
+sykun | adj | piebald
+sykur | adj | piebald
+sykuqe | other | red-eyed sheep or goat
+sylarë | adj | bright-eyed, with variegated eyes
+sylarosh | adj | bright-eyed
+sylarush | adj | bright-eyed
+sylfatë | other | quinine
+sylfato | other | quinine
+sylidhur | adj | blindfold
+sylinë | other | pipe, tube
+syltërt | adj | blue
+sylti | other | twisted strand of wool, yarn
+sylule | adj | beautiful-eyed
+sylygjen | other | arsenic
+syll | adj | squinting, cross-eyed
+syllambyllthi | adv | gropingly
+symanushaqe | adj | blue-eyed
+symbol | other | symbol
+symbyllëm | adj | blindfold
+symbylltas | adv | blindly, with eyes closed
+symetri | other | symmetry
+symetrik | adj | symmetrical
+symfoni | other | symphony
+symfonik | adj | symphonic
+sympati | other | sympathy
+sympatik | adj | sympathetic
+synagogji | other | synagogue
+synetbas | other | circumciser
+synore | other | borderland, march
+synjyrë | other | sponge
+sypër | adv | over, above
+syperfaqe | other | surface
+sypërfaqshëm | adj | superficial
+sypërm | adj | topmost, upper
+syprëm | adj | upper
+syplasët | adj | caddish, low
+syplasun | adj | caddish
+sypran | adj | sovereign
+syprani | other | sovereignty
+syprori | other | supremacy
+sypule | other | ogress, vampire
+syquet | adj | intelligent-looking
+syqutë | adj | intelligent-looking
+syrbis | other | sip, sup
+syrdis | other | get rid of, banish
+syrë | other | shelf
+syrrëmaktë | adj | squinting
+syrrëmyes | adj | searching, piercing
+sysam | other | sesame
+system | other | system
+syshkëndi | adj | with flashing eyes
+syshtrembët | adj | cross-eyed
+sytjash | other | rice pudding
