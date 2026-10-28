@@ -2305,3 +2305,17 @@ shkaz | shkas | alternative
 shkatërrej | shkatërroj | alternative
 shkatrrim | shkatërrim | alternative
 shkatrrimtar | shkatërrimtar | alternative
+# ── Mann 1948 ──
+çkëthem | shkathem | alternative
+shkathsi | shkathtësi | alternative
+shkathtsi | shkathtësi | alternative
+shkathtsinë | shkathtësi | alternative
+shkeltar | shkelës | alternative
+shkemje | fshikëz | alternative
+shkencar | shkencëtar | alternative
+shkeptimë | vetëtimë | alternative
+shkeptinë | vetëtimë | alternative
+shkeptis | shkeptin | alternative
+shkepton | shkeptin | alternative
+shkëbonjë | shkabë | alternative
+shkëlas | shkel | alternative

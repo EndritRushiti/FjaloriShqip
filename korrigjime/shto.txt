@@ -61821,3 +61821,35 @@ shkatëraq | adj | slovenly, sloppy
 shkatërrej | other | destroy
 shkatrrim | other | destruction
 shkatrrimtar | adj | disruptive, destructive
+# ── mannshto.tsv ──
+çkëthem | verb | slip away
+shkathem | other | get back the use (of limbs), stretch oneself; revive, recover
+shkathsi | other | agility, deftness
+shkathtsi | other | agility, skill
+shkathtsinë | other | agility
+shkekë | other | slit, opening (in trousers)
+shkelcë | other | rung of a ladder
+shkelsë | other | step, stair
+shkeltar | other | trampler, kicker; infringer
+shkemje | other | bladder
+shkencar | other | scientist
+shkepës | other | flint
+shkeptimë | other | flash of lightning
+shkeptinë | other | flash of lightning
+shkeptin | other | flash, lighten
+shkeptis | other | flash
+shkepton | other | flash
+shkerr | other | tear, rend, open up; disembowel
+shkerrët | adj | castrated
+shkezë | other | large chip, splinter
+shkëbith | other | wipe out, destroy
+shkëbonjë | other | eagle
+shkëbozë | other | inner bark of pines
+shkëfoj | other | shuck (wheat)
+shkëlas | other | tread, trample
+shkëlfihet | other | decay, waste away, rot
+shkëlfimë | adj | wasted away, rotten
+shkëlqerët | adj | bright, alive
+shkëlqerore | other | lamp
+shkëlqesë | other | brilliance, polish, shine; Excellency
+shkëlqihem | other | be roasted through
