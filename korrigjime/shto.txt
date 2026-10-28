@@ -62518,3 +62518,50 @@ shqufroj | other | sulphurate, fumigate
 shqufuroj | other | sulphurate
 shqufrues | adj | sulphurating, fumigating
 shqufurtë | adj | sulphurous; sulphur-
+# ── mannshto.tsv ──
+shqut | other | shield
+shqutinë | other | lee-side of a wall
+shqutoj | other | shield, hide
+shquth | other | little shield
+shqyek | other | front opening of trousers
+shqyfur | other | sulphur
+shqym | other | tear; destroy
+shqyme | other | threshold
+shqymë | other | row, din
+shqymës | other | apostrophe
+shqymët | adj | wretched
+shqyptrash | other | kind of eagle with a thick beak
+shqyptues | adj | pronouncing, articulate
+shqyre | other | plate
+shqyrë | other | barrier, stile
+shqytem | other | cover oneself (against risk)
+shranjos | other | uproot
+shrrranjos | other | uproot
+shrrënjos | other | uproot, eradicate
+shrrënjoj | other | uproot
+shrrënjim | other | eradication
+shrëngjim | other | eradication
+shrrënjosje | other | eradication
+shroditem | other | degenerate
+shroditje | other | degeneracy, degeneration
+shrrodis | other | cause to degenerate, corrupt
+shrrodoj | other | corrupt
+shrok | other | sirocco
+shrregullim | other | irregularity, disorder
+shrregulloj | other | throw into disorder
+shrregullshëm | adj | irregular
+shrregulltë | adj | irregular, disorderly
+shrrudhem | other | brighten
+shtabmadhor | other | general staff
+shtajgë | other | revenge, vengeance, vendetta
+shtalboj | other | curdle
+shtalbsë | other | rank grass; rushes
+shtalë | other | stable
+shtalkoj | other | frame
+shtalkore | other | frame, window-frame
+shtamët | adj | tin
+shtamën | other | pot, jar, pitcher
+shtamin | other | stamen
+shtamnohem | other | be ruptured
+shtampoj | other | print
+shtangër | adj | squint-eyed
