@@ -64869,3 +64869,52 @@ vendmbajtës | adj | deputising; locum tenens, deputy
 vendth | other | spot, little place
 venecjan | adj | Venetian
 venetik | adj | Venetian; ducat
+# ── mannshto.tsv ──
+vëngrosh | adj | squinting
+venje | other | placing, putting
+venome | other | privilege
+venomë | other | privilege
+venqitës | other | butler, cupbearer
+venshitës | other | wine-merchant
+venjesë | other | worth, value, character
+vepen | other | vixen, fox
+vepresë | other | activity
+vepronjës | adj | active, operative; operator
+veprueshëm | adj | effective; practicable, practical; actual
+veqaron | other | old man
+veqoj | other | weave
+veraj | other | harvest; spend the summer
+verbën | adj | blind
+verbni | other | blindness
+verbonjës | adj | blinding, dazzling
+verbsinë | other | blindness
+verbsirë | other | blindness
+verbtas | adv | blindly, rashly, at random
+vercë | other | gill
+verdhakaq | adj | reddish-brown
+verdhalak | adj | sallow, pale
+verdhalash | adj | sallow
+verdhaman | adj | sallow
+verdhan | adj | sallow
+verdhanak | adj | sallow
+verdhanik | adj | sallow
+verdhash | adj | sallow, pale, yellowish, sickly, jaundiced; gold piece, ducat; canary
+verdhashkë | other | canary; brooch worn by mountain women
+verdhcë | other | gill
+verdhenikem | other | turn livid
+verdhejë | other | fig-eater (bird)
+verdhet | adj | yellow, pale, sickly, sallow
+verdhje | other | yellowness, sallowness, pallor
+verdhmeni | other | pallor
+verdhnikem | other | turn pale
+verdhsi | other | yellowness; jaundice
+verdhsinë | other | yellowness
+verdhsirë | other | yellowness
+verdhucë | other | gold coin, ducat, sequin
+verenik | other | blacken, make dark, turn livid
+verenikem | other | turn black, turn livid
+verevërtetë | adj | genuine, real, proper
+verëpirës | other | wine-bibber
+verëz | other | Y-shaped yoke-pin
+vergjë | other | pine
+vergjeri | other | virginity
