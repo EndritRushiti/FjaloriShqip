@@ -61604,3 +61604,58 @@ shfamsi | other | slander, libel
 shfamsim | other | slander
 shfamsoj | other | slander, libel
 shfamshëm | adj | infamous
+# ── mannshto.tsv ──
+shfaqsim | other | performance, display
+shfaqsinë | other | performance, display
+shfaqtoj | other | present, introduce
+shfarsi | other | quality, grade
+shfarues | adj | exterminating
+shfejim | other | breaking off (of an engagement)
+shfejoj | other | break off (an engagement)
+shfëlliq | other | disinfect
+shfërdukull | other | daffodil
+shfisëroj | other | degenerate
+shfisim | other | degeneracy, degeneration
+shfisohem | other | degenerate
+shfok | other | shuck (maize), husk
+shfokës | other | maize-shucker
+shfoshk | other | peel off, pare, bark
+shfrë | other | snowdrift; avalanche
+shfreh | other | break out, erupt (of spots, measles)
+shfreni | other | license, intemperance
+shfronim | other | dethronement
+shfronsim | other | dethronement
+shfronzim | other | dethronement
+shfronoj | other | dethrone
+shfronsoj | other | dethrone
+shfronzoj | other | dethrone
+shfryej | other | blow, inflate; vent
+shfrymoj | other | expire
+shfrytim | other | exploitation
+shfrytsim | other | exploitation
+shfrytzim | other | exploitation
+shfrytoj | other | exploit
+shfrytsoj | other | exploit
+shfrytzoj | other | exploit
+shfrytues | adj | exploiting; exploiter
+shfulqi | other | jaw, jowl
+shfundos | other | send to the bottom, wreck
+shgabë | other | eagle
+shgënjej | other | undeceive, disillusion
+shgënjim | other | disillusionment
+shgreh | other | take down, dismantle
+shgryej | other | roll down; stain, foul
+shgryhem | other | wallow, welter
+shgrri | other | wantonness
+shgrrys | other | scratch
+shgul | other | pull up
+shgunë | other | coarse woollen cloth, felt
+shgjakos | other | avenge
+shgjaksoj | other | avenge
+shgjaksim | other | revenge
+shgjandërr | other | vision, illusion, nightmare
+shgjetar | other | archer, bowman
+shgjetë | other | arrow
+shgjetoj | other | shoot (with bow and arrow)
+shgjetuer | other | bowman
+shgjetullë | other | arrow, dart
