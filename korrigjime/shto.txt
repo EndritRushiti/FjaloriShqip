@@ -63465,3 +63465,63 @@ tjetërfeshëm | adj | heterodox
 tjetërkohë | adv | at another time
 tjetërllojshëm | adj | heterogeneous
 tjetërsi | adv | otherwise
+# ── mannshto.tsv ──
+tmere | other | fear
+tmerdhanës | adj | intimidating
+tmerët | adj | terrified
+tmerik | adj | terrifying, horrifying
+tmerisht | adv | horribly
+tmertar | adj | horrible
+tmerues | adj | horrifying
+tmerueshëm | adj | horrible, awful
+tmetuj | other | children
+tobe | other | abomination
+toborr | other | battalion
+toc | other | corn-cob
+tockë | other | corn-cob
+toçile | other | potter's wheel
+toçis | other | pour out, decant, draw off (wine); transfuse
+toçitje | other | pouring out, decanting; transfusion
+togëz | other | small coin
+togkomandant | other | group commander
+togoj | other | pile up, heap up, amass
+togjer | other | lieutenant
+tojagë | other | staff
+tojere | other | baker's peel
+tojzë | other | ligament; string (of an instrument)
+toklimzë | other | mill-clapper
+tokmakës | other | hawfinch
+toknajë | other | land, territory
+toksë | other | buckle
+toksim | other | grouping, system
+toksoj | other | bunch together, group, systematise
+tokthi | adv | in mass, wholesale
+tolec | other | tomb, vault
+tollmoll | adv | in a mess, higgledy-piggledy
+tolopuçe | other | cheeks (in phrase)
+tolu | other | leguminous plant used for bronchitis
+tollac | adj | bald
+tollohem | other | get bald
+tolloqis | other | rock, sway, shake
+tollosun | other | bustle, din
+tollovij | other | disarrange, confuse
+tollovim | other | rising, uproar, tumult
+tollovinë | other | uproar
+tollovis | other | confuse
+tollovitës | other | disturber; mischief-making
+tom | other | ribbon, tape
+tomak | other | bird of prey (leaves the mountains when it snows); ear of maize
+tomate | other | tomato
+tomboll | other | a musical instrument
+tomës | other | bird with a thick beak
+tomherr | other | fig-eater (bird)
+tomoriqe | other | corn bunting
+ton | other | tunny
+tonaç | other | fool
+tonellatë | other | ton
+tonis | other | soak up, absorb; saturate; cause to ache
+tonitet | other | ache
+tonos | other | cause to ache
+topallak | other | bunch, sheaf, bundle, cluster
+topalloj | other | limp
+topan | other | drum
