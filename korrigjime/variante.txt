@@ -2336,3 +2336,15 @@ shkërrmoq | shkërmoq | alternative
 shkëthem | shkathem | alternative
 shkindërr | rrëshirë | alternative
 shkishnoj | shkishëroj | alternative
+# ── Mann 1948 ──
+shkjezoj | lesoj | alternative
+shklek | unazë | alternative
+shkllepë | glepë | alternative
+shklepën | shklepër | alternative
+shkliri | liri | alternative
+shkllav | skllav | alternative
+shkllavi | skllavëri | alternative
+shkllavni | skllavëri | alternative
+shkllavos | skllavëroj | alternative
+shkmim | shkëmbim | alternative
+shkokrroj | shkoqit | alternative

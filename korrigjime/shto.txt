@@ -61901,3 +61901,35 @@ shkitje | other | slip, slide; detachment, separation
 shkitse | other | sledge
 shkithem | other | whimper
 shkjepul | adj | lame
+# ── mannshto.tsv ──
+shkjezë | other | harrow
+shkjezoj | other | harrow
+shklaf | other | spring tide
+shklahet | other | crumble, get powdery
+shklek | other | ring
+shklekëz | other | knot, loop, mesh; notch
+shkllepë | other | matter from the eyes
+shklepën | adj | lame
+shkliri | other | freedom
+shkloqis | other | gabble, chatter
+shkllaf | other | breaker, big wave
+shkllav | other | slave
+shkllavi | other | slavery
+shkllavni | other | slavery
+shkllavos | other | enslave
+shkllop | other | mud; patch of mud, puddle
+shkllukë | adj | addled, bad (of an egg)
+shkmej | other | change; cancel, annul
+shkmim | other | change, exchange
+shkobis | other | open, undo
+shkokërdhohem | other | exhaust oneself with jumping
+shkoklavis | other | unravel, disentangle; solve
+shkoklavitje | other | unravelling; solution
+shkoklim | other | breaking off, crumbling away, erosion
+shkokloj | other | break off, erode; shuck (corn); hoe
+shkoklohet | other | crumble, break up
+shkokrroj | other | shuck (corn)
+shkolis | other | undo, unfasten
+shkolitem | other | get unstuck, come undone
+shkolkë | other | shell; keel
+shkollomendo | other | madness
