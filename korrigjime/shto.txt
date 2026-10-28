@@ -60183,3 +60183,44 @@ rrypth | noun | little strap or belt; thong; ligament; ribbon, tape
 rryshëm | adj | trainable; hard, tough, heavy
 rryshkët | adj | wrinkled, withered
 rryzë | noun | bead
+# ── mannshto.tsv ──
+sabetar | noun | slinger
+sabli | noun | sabre
+saborrë | noun | sable
+saçmá | noun | leadshot, grape-shot
+sadef | noun | mother-of-pearl
+sadoshëm | adj | sufficient, adequate, bare
+safergjan | noun | basil
+safermi | adv | at close quarters
+saftijan | noun | morocco leather
+sagri | noun | kind of melon
+sagrin | noun | shagreen
+sagutë | noun | sago
+sagjithë | adv | at all, altogether, quite
+saharkë | noun | sweet, goodie
+sahitem | verb | keep in the shade, rest in the shade, have a siesta
+sahitë | noun | knitting-needle
+sahonë | noun | basin, bowl
+saidis | verb | esteem, count
+sajdishëm | adj | respectable
+sajm | noun | kind, form
+sajmë | noun | tidal wave, breaker
+sak | noun | palliasse; certainly
+sakaqe | adv | at once
+sakaherë | adv | at once
+sakahersh | adv | at once
+sakavicë | noun | chopper
+sakaviçe | noun | chopper
+sakë | noun | winter coat, overcoat
+sakëj | verb | care for
+sakërgjoj | verb | hit point blank, aim at
+sakët | adj | sure, certain
+sako | noun | cape
+sakol | noun | hawk
+sakramend | noun | sacrament
+sakrestan | noun | sacristan
+sakresti | noun | sacristy
+sakrifiç | noun | sacrifice
+sakrifikonj | verb | sacrifice
+saktas | adv | surely, certainly
+saku | conj | while, till
