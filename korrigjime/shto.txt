@@ -59036,3 +59036,62 @@ qimitër | noun | cemetery
 qimitir | noun | cemetery
 qimitor | noun | (experimental) chemist
 qiklopedist | noun | encyclopaedist
+# ── mannshto.tsv ──
+qimjar | adj | long-haired, tressed
+qimjon | noun | caraway
+qimoli | noun | chalk
+qimpanzi | noun | chimpanzee
+qimtoj | verb | collect, amass, glean
+qimush | noun | ragged edge of cloth, selvedge; woollen snippings
+qinamon | noun | cinnamon
+qinar | noun | scrub-oak
+qindëri | noun | century
+qindës | noun | centurion; captain
+qindët | adj | hundredth
+qindinar | noun | hundred (as unit)
+qindisëm | adj | embroidered
+qindisje | noun | embroidery
+qindmëstë | adj | hundredfold
+qindmëzaj | adv | a hundredfold
+qindrak | adj | persistent, obstinate, stubborn, obdurate; durable; assiduous
+qindrestar | adj | firm, stable, steady, resistent, persistent
+qindrisht | adv | firmly, obstinately
+qindrizë | noun | splinter
+qindrosë | noun | hinge
+qindrues | adj | firm
+qindsh | noun | hundred (as unit)
+qindtar | noun | centurion
+qindturi | noun | century
+qindvjeçëri | noun | century
+qindvjetë | noun | century
+qindvjetar | adj | century-old, centennial
+qindvjetsh | adj | century-old
+qindvjetore | noun | centenary
+qinematograf | noun | cinematograph
+qinematografi | noun | cinematography
+qingjël | noun | shore, beach, shingle
+qinik | adj | cynical
+qininë | noun | quinine
+qinismë | noun | cynicism
+qinovit | noun | cenobite, monk
+qinqillë | noun | chinchilla
+qinqinë | noun | Peruvian bark
+qip | noun | tip, corner; beak; bow (of ship)
+qipar | noun | feature, characteristic, hallmark, criterion, trait
+qipërt | adj | copper, bronze
+qipsht | noun | garden; allotment, plot of ground
+qiptoj | verb | peck
+qiqërvicër | noun | peanut
+qiqirec | noun | ear of wheat; variety of wheat
+qiramidhe | noun | roof-tile
+qirás | verb | tip; regale (bride at wedding)
+qirgorinë | noun | finch
+qirikuleç | noun | nightlight
+qiriç | noun | mortar
+qirish | noun | glue
+qirith | noun | horsetail (bot.)
+qirizë | noun | swaddling band
+qirohem | verb | clear one's throat
+qirthi | adv | bolt upright
+qirthin | adv | bolt upright
+qirues | adj | purgative
