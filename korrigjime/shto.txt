@@ -65240,3 +65240,54 @@ vitorshëm | adj | victorious
 vitorzi | adj | wretched, poor
 vitshëm | adj | annual
 vitullë | other | tap, faucet, stopcock; screw; crank; spirally
+# ── mannshto.tsv ──
+vitvet | other | year
+vithi | other | landslide, scree, precipice, steep bank
+vivë | other | weever (fish)
+vivlë | other | book
+vivlëz | other | booklet
+vizar | adj | artistic; artist
+vizas | other | rule, line
+vizatonjës | adj | designing; designer
+vizi | other | bicycle
+vizillon | other | twinkle, flash
+vizg | other | whine, whinny
+vizim | other | lining, marking; sketching, drawing
+vizir | other | vizier
+vizitash | adv | visiting (in phrase: visiting day)
+vizitonjës | other | visitor
+vizllim | other | twinkle, sparkle, glint, shine
+vizlloj | other | twinkle, shine, sparkle, glint
+vizllueshëm | adj | twinkling, glittering, sparkling
+vizhë | other | insect; beetle
+vizhëz | other | small insect
+vjaskë | other | way, track, rut
+vjeçëm | adj | annual
+vjeçor | adj | annual; one-year-old
+vjedmi | other | midst
+vjedhaman | adj | thievish
+vjedhashtar | adj | thievish
+vjedhcak | adj | thievish
+vjedhas | adv | by stealth
+vjedhazi | adv | by stealth
+vjedhci | other | thievishness, pilfering
+vjedhsi | other | thievishness
+vjedhëm | adj | stolen
+vjedhrazi | adv | by stealth
+vjedhtar | adj | thievish
+vjefsi | other | usefulness, value, advantage, benefit
+vjejë | other | plough-tail
+vjejshëm | adj | valuable
+vjejtje | other | worth
+vjek | other | link, connect, chain
+vjekcë | other | knot; loop (on a garment)
+vjekem | other | be linked; hang; depend on
+vjekës | adj | hanging, linked; hinge
+vjekët | adj | hanging, dependent
+vjeksë | other | appendage, pendulum
+vjeksi | other | pendency, hanging, dependence
+vjeksoj | other | soothe, comfort, cheer
+vjekur | adj | hanging, pendent
+vjelna | other | vintage-time
+vjelshëm | adj | sickening, nauseating
+vjeltore | other | anthology
