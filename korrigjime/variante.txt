@@ -2070,3 +2070,7 @@ syrbis | surb | alternative
 sysam | susam | alternative
 system | sistem | alternative
 sytjash | sutlaç | alternative
+# ── Mann 1948 ──
+shahiti | dëshmi | alternative
+shahthin | shahthi | alternative
+shalapurithin | shalapurthi | alternative

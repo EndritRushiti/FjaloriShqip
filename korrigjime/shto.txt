@@ -61261,3 +61261,33 @@ system | other | system
 syshkëndi | adj | with flashing eyes
 syshtrembët | adj | cross-eyed
 sytjash | other | rice pudding
+# ── mannshto.tsv ──
+sythellë | adj | deep-eyed, hollow-eyed
+sythjermë | adj | hazel-eyed
+sythton | other | shoot, sprout
+syzanë | adj | blind, blinded
+shabojë | other | wallflower
+shaës | adj | abusive; abuser
+shafis | other | quell, quench, calm, appease
+shafitës | adj | palliative
+shafjan | other | sheepskin
+shagatë | other | mockery
+shage | other | coarse cloth, coarse linen, sacking
+shaherak | adj | abusive
+shahirë | other | mouth-organ
+shahiti | other | testimony
+shahthin | adv | rearing
+shajë | other | pressure, compression
+shakamis | other | scatter, disperse, rout
+shakamisur | adj | scattered; dishevelled
+shakllabani | other | twaddle
+shakullij | other | clout, slap
+shakullore | other | small waistcoat
+shalaga | other | artichoke
+shalagë | other | frame supporting a pack-saddle
+shalak | other | saddle-shaped bough of a tree
+shalapurthi | adv | anyhow, topsy-turvy, upside-down
+shalapurithin | adv | topsy-turvy
+shalaq | other | scaling-pole; stilt
+shalar | other | saddler
+shalcë | other | salted yoghurt
