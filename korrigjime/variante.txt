@@ -3561,3 +3561,14 @@ vëngërosh | vëngër | alternative
 vëngërt | vëngër | alternative
 vënjej | vlej | alternative
 vënjyeshëm | vlefshëm | alternative
+# ── Mann 1948 ──
+vërer | vrer | alternative
+vëresë | vërejtje | alternative
+vëreshtar | vreshtar | alternative
+vëreshtë | vreshtë | alternative
+vërgjilazi | vërgjilas | alternative
+vërgjireshë | virgjëreshë | alternative
+vërgjiri | virgjëri | alternative
+vërtetsi | vërtetësi | alternative
+vërtullim | vërtëllim | alternative
+vërtudë | vërtyt | alternative

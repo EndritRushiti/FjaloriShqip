@@ -65074,3 +65074,49 @@ vënjim | other | aid, benefit, furtherance
 vënjyeshëm | adj | valuable
 vërbel | other | protocol
 vërcëlloj | other | wriggle, writhe
+# ── mannshto.tsv ──
+vërdallar | other | roamer, tramp
+vërdallem | other | roam, rove
+vërdallës | adj | wandering, roaming; wanderer
+vërderrshëm | adj | gigantic, massive
+vërejtshëm | adj | notable, noteworthy, observable, noticeable
+vërer | other | gall
+vëresë | other | attention, observation
+vëreshtar | other | vine-grower
+vëreshtë | other | vineyard
+vërevërtet | adv | really, indeed, in fact, actually
+vërgar | adj | for breeding, uncastrated; goat for breeding; stallion
+vërgjilas | adv | nimbly, briskly
+vërgjilazi | adv | nimbly
+vërgjilët | adj | nimble, brisk, lively, sharp, clever, lithe
+vërgjireshë | other | virgin
+vërgjiri | other | virginity
+vërkeqe | other | owl; a bird of the jay or jackdaw type
+vërkë | other | small hole
+vërkollak | other | vampire, bogey
+vërpc | other | string, cord
+vërsom | other | string-bag
+vërsulës | adj | attacking; attacker
+vërsulshëm | adj | attackable, violable, vulnerable
+vërshëllenjës | adj | whistling, whizzing, hissing
+vërshnik | other | earthen bread-pan
+vërtes | other | bear out, corroborate
+vërtetëri | other | truthfulness
+vërtetohem | other | prove right, turn out right, be borne out
+vërtetsi | other | reality, truthfulness
+vërtetshëm | adj | truthful
+vërtetthënës | adj | truthful; seer, forecaster
+vërtetni | other | truthfulness; truth; righteousness
+vërtëllim | other | wind, turn, rotation, revolution; chatter, palaver, twaddle
+vërtullim | other | rotation
+vërtëlloj | other | turn, revolve, rotate; twaddle, chatter
+vërtëllues | adj | talkative; chatterbox
+vërtikshëm | adj | dashing, sudden, hurried
+vërtis | other | turn, revolve
+vërtillic | other | chatterbox; talkative
+vërtytshëm | adj | vigorous; virtuous
+vërtudë | other | strength, virtue
+vërushkë | other | small hole
+vërvij | other | hurl, fling
+vërvitës | adj | vigorous, active, lively, impetuous, hasty, dashing
+vërvitsi | other | impetuosity, hastiness, liveliness, vigour
