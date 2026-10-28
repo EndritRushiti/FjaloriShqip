@@ -62102,3 +62102,82 @@ shlyeme | other | erasure, cancellation
 shlyeshëm | adj | effaceable, delible
 shlyspis | other | peel, shell
 shllavit | other | sleet
+# ── mannshto.tsv ──
+shllij | other | pickle, salt
+shllimë | adj | salted, pickled
+shllinë | other | brine
+shllini | other | salinity
+shllinoj | other | pickle
+shllishëm | adj | briny, salt
+shllitë | adj | briny, pickled
+shllotë | other | sleet
+shlluk | other | hatch (out)
+shllukë | other | addled egg
+shllungë | other | distaff-ful (of wool, flax)
+shllup | other | gulp down
+shmajkët | adj | left, left-hand
+shmajtë | adj | left
+shmajtun | adj | left
+shmall | other | affect, touch
+shmallem | other | be touched, feel tenderness; give vent to one's feelings
+shmallë | other | sentiment, feeling
+shmallosem | other | console oneself, feel relieved
+shmangcë | other | points (on a railway)
+shmartim | other | divorce
+shmartoj | other | unmarry, divorce
+shmaskim | other | unmasking
+shmaskoj | other | unmask
+shmashkullim | other | emasculation
+shmashkulloj | other | emasculate
+shmbre | other | unharness
+shmbreh | other | unharness
+shmençëri | other | foolishness
+shmend | other | amaze; madden
+shmendinë | other | madness; madhouse
+shmendje | other | madness, folly
+shmendore | other | lunatic asylum
+shmendsi | other | folly
+shmendshëm | adj | amazing; foolish
+shmeritshëm | adj | amazing
+shmertis | other | uncover
+shmëroj | other | mince
+shmije | other | baseness, disgrace
+shmini | other | confusion
+shmim | other | price
+shmisim | other | dismemberment
+shmisoj | other | dismember
+shmolis | other | disinfect, free of moth
+shmoris | other | destroy, exterminate
+shmpreh | other | blunt, dull
+shmrazem | other | get talkative
+shmrazët | adj | talkative
+shmrijak | other | fellow shepherd sharing a flock
+shmruej | other | pound, pulp
+shmueshëm | adj | precious
+shnatyrim | other | denaturing, denaturalisation
+shnatyroj | other | denature, denaturalise
+shnder | other | dishonour, disgrace
+shnderim | other | dishonour, degradation
+shnderoj | other | dishonour, disgrace
+shnderje | other | insult, affront
+shnderonjës | adj | debasing, disgracing, shameful
+shndershëm | adj | dishonourable, disgraceful
+shnderues | adj | disgraceful, debasing
+shndrrim | other | change
+shndrroj | other | change
+shnejshëm | adj | without the particle (of adjectives)
+shnesë | other | marker
+shngarkim | other | exoneration, exemption
+shngarkoj | other | excuse, exonerate, exempt
+shngrim | other | thaw
+shngul | other | uproot
+shngjesh | other | ungird; unharness
+shngjis | other | unstick, detach
+shngjyej | other | discolour
+shnomsim | other | sequestration
+shnomsoj | other | sequester, outlaw
+shnos | other | break one's word, recant
+shnotshëm | adj | reversible, revocable
+shnjerzim | other | inhumanity; debasement
+shnjerzisht | adv | inhumanly; basely
+shnjerzoj | other | dehumanise
