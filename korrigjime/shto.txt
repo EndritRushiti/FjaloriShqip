@@ -60065,3 +60065,39 @@ rrotullenjës | noun | turner
 rrotullesë | noun | round, circle
 rrotullore | noun | round variety of pear
 rrotulltë | adj | disc-shaped; vertebrate
+# ── mannshto.tsv ──
+rroz | noun | corn (on foot)
+rrozgabjerga | noun | abuse, rough-handling
+rrozigallë | noun | arsenic
+rrozigi | noun | muscatel grape
+rrozullim | noun | globe
+rrozhgetë | noun | clump of withies
+rruckulloj | verb | gulp down, gobble up, devour
+rruç | noun | stunted tree, scrub
+rrudhët | adj | wrinkled; amassed, hoarded
+rrudhura | noun | gatherings (in dress)
+rruestar | noun | barber; (for) shaving
+rrueshëm | adj | durable
+rruezë | noun | bead, small round body; corpuscle
+rruezull | noun | bead
+rruezëgjaku | noun | corpuscle
+rrufan | noun | half-dried grape
+rrufçoj | verb | make up (the moustache)
+rrufepritse | noun | lightning-conductor
+rrufezë | noun | small flash of lightning
+rrufezoj | verb | flash, lighten
+rrufgesë | noun | overhaste, rush
+rrufgim | noun | overhaste, rush
+rrufgohem | verb | be in a hurry, bolt, be overhasty
+rrufgueshëm | adj | overhasty
+rrufguf | adv | in a great hurry
+rrufull | noun | bubbling spring, source, eddy, rising water
+rrugacë | noun | lane, avenue, alley
+rrugatar | noun | traveller
+rrugim | noun | route; communication
+rrugtar | adj | travelling; traveller, hiker, tramp, tourist
+rrugtim | noun | journey
+rrugtoj | verb | travel, journey
+rrugullimë | noun | rolling down
+rrugullisem | verb | hurtle, roll down, crash
+rruj | verb | shave; razor
