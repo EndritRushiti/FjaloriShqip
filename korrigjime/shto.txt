@@ -64586,3 +64586,5 @@ ushtrijak | adj | military
 ushtrisht | adv | soldier-like, in military fashion
 # ── mannshto.tsv ──
 urrnesë | other | look-out, watch
+# ── mannshto.tsv ──
+urresë | other | look-out

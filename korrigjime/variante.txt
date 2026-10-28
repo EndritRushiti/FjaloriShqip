@@ -3408,3 +3408,5 @@ ushtij | ushtoj | alternative
 ushtor | ushtar | alternative
 ushtriak | ushtarak | alternative
 ushtrijak | ushtarak | alternative
+# ── Mann 1948 ──
+urresë | urrnesë | alternative
