@@ -64948,3 +64948,32 @@ veston | other | fall (of dew)
 veshak | adj | eared, long-eared; a bird
 veshatak | adj | eared, long-eared; long-eared bat
 veshezë | other | little ear; handle of a pot; kind of distaff
+# ── mannshto.tsv ──
+veshmë | other | garment, dress
+veshgim | other | investigation, inquiry
+veshgues | adj | exploratory, investigation-; explorer
+veshnjë | other | kidney
+veshkël | other | kidney
+veshjesë | other | costume
+veshjetore | other | vestry
+veshkem | other | wither, fade, droop, shrivel
+veshkëllij | other | whistle
+veshkët | adj | withered, shrivelled, faded; dull, dun
+veshla | other | kidneys
+veshlis | other | fertilise
+veshlitje | other | fertilisation
+veshme | other | coat, garment
+veshqeroz | other | hazelwort
+veshqok | adj | clever, smart, intelligent
+veshtak | adj | observant, sharp, clever, intelligent
+veshtan | adj | eared, long-eared
+veshtik | other | crack, chink
+veshtim | other | observation, attention, noting
+veshtrak | adj | observant, attentive
+veshtuk | adj | long-eared
+veshuk | adj | eared, long-eared, with outstanding ears
+veshul | other | bunch, cluster (of grapes)
+veshura | other | clothes
+vetar | adj | alone, lonesome, solitary
+vetçfaqje | other | self-expression
+vetëdashni | other | free will, spontaneity

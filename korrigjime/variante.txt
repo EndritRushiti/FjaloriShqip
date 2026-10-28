@@ -3527,3 +3527,7 @@ verth | verdh | alternative
 vërzomë | verrzom | alternative
 veskshëm | veskës | alternative
 veston | veson | alternative
+# ── Mann 1948 ──
+veshnjë | veshkë | alternative
+veshkël | veshkë | alternative
+veshla | veshkë | alternative
