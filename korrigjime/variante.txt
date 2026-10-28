@@ -3410,3 +3410,17 @@ ushtriak | ushtarak | alternative
 ushtrijak | ushtarak | alternative
 # ── Mann 1948 ──
 urresë | urrnesë | alternative
+# ── Mann 1948 ──
+ushunj | ushuj | alternative
+ushujë | shushunjë | alternative
+ushunje | shushunjë | alternative
+utëri | uturij | alternative
+utërimë | uturimë | alternative
+utërij | uturij | alternative
+uthullaç | uthullosh | alternative
+uthullirë | uthullime | alternative
+uthullueshëm | uthulltë | alternative
+uthur | uthër | alternative
+uvëm | ufë | alternative
+uxhë | shpellë | alternative
+vabzi | vabsi | alternative

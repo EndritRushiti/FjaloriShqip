@@ -64588,3 +64588,42 @@ ushtrisht | adv | soldier-like, in military fashion
 urrnesë | other | look-out, watch
 # ── mannshto.tsv ──
 urresë | other | look-out
+# ── mannshto.tsv ──
+ushtrore | adj | army-, military
+ushunj | other | fat bacon, lard
+ushujë | other | leech
+ushunje | other | leech
+ushozoj | other | satisfy
+utëri | other | hum, buzz, murmur
+utërimë | other | buzz, hum
+utrojdisem | other | go round and round; be impatient
+utërij | other | buzz, resound
+uthër | other | wheat-smut, bunt, blight
+uthtoj | other | turn sour, sour
+uthullaç | adj | sourish
+uthullime | other | sorrel
+uthullirë | other | sorrel
+uthullore | other | vinegar bottle
+uthullosh | adj | sourish
+uthulltë | adj | vinegary, acid, acetic
+uthullueshëm | adj | vinegary
+uthur | other | wheat-smut
+uvëm | other | sultry heat
+uxhë | other | cave
+uzdatem | other | take heart, pluck up courage
+uzurtar | other | usurer
+vabsi | other | need, poverty
+vabzi | other | poverty
+vaçkë | other | hole
+vadi | other | training, drill
+vadim | other | training, practice, experience
+vagët | adj | faded, faint, dim
+vagull | adj | dim, faint; weak-sighted
+vagullesë | other | daybreak
+vagulli | other | dimness, faintness; weak sight
+vagullim | other | weak-sightedness; dimness; daybreak
+vagulloj | other | be dim, be weak (of eyes); screw up the eyes; dawn
+vagulluar | adj | dim, faint, dark
+vagur | other | bar, swing-bar
+vagjel | other | diet
+vagjeloj | other | diet, feed carefully, nurture
