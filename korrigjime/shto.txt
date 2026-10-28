@@ -63057,3 +63057,46 @@ tandej | adv | thither
 tandellë | other | lace
 tandesë | other | nuisance, annoyance
 tandë | other | arbour, awning; tent
+# ── mannshto.tsv ──
+tandim | other | temptation
+tandimqar | adj | annoying, trying
+tandoj | other | tempt; tease, annoy
+tanithi | adv | now
+tanik | adj | tannic
+tansi | other | wholeness, entirety
+tansisht | adv | wholly, entirely
+tantane | other | din, row
+tantanim | other | din, row
+tantanis | other | turn someone's head, stupefy with noise
+tanuer | other | baker's peel
+tapall | adj | lame
+tapaloj | other | limp
+tapicer | other | decorator, paper-hanger
+tapir | other | tapir
+tapuz | other | mace
+tarabec | other | boy
+taracë | other | terrace
+taroq | other | bullock
+tarall | other | burly fellow
+tarallaki | other | stupidity
+taratyre | other | garlic soup with sour milk and cucumber
+taravol | adj | fit, robust, brawny, sinewy
+taraxhile | other | wheel, cartwheel
+tarçuk | other | leather pouch, sporran
+taritan | adj | rocking, swaying, toddling
+tarnagop | other | hoe
+tarogëz | other | helmet
+tartabik | other | bedbug
+tartarake | other | machine-gun
+tartarik | adj | tartaric
+tartaros | other | sour, turn sour, acidify
+tarramé | other | outburst, noise, commotion; tirade
+tarrameté | adv | anyhow, higgledy-piggledy
+tarrës | adj | raking, weeding; weeder
+taskë | other | small cup, small bowl
+tasuk | other | mug, small cup
+tashpara | adv | hitherto
+tashtimë | adv | henceforth
+tashtinë | adv | now
+tashtishëm | adj | present, current
+tatalosh | other | simpleton
