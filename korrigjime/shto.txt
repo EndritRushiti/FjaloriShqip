@@ -63433,3 +63433,35 @@ timur | other | fright, terror
 tinazi | adv | secretly
 tingrim | other | trice (in a trice)
 tingthi | adv | on one foot (hopping)
+# ── mannshto.tsv ──
+tinglim | other | sound, ringing
+tingllimë | other | sound, chime
+tingullinë | other | sound, strain
+tinglloj | other | sound, resound
+tingullonjës | adj | resounding, resonant
+tingullshëm | adj | resounding
+tingullueshëm | adj | resonant
+tinore | other | cask
+tinsë | adv | o thou! (in address)
+tinthi | adv | secretly
+tinzak | adj | secret, secretive, stealthy
+tinzash | adv | secretly
+tinzi | other | secrecy
+tinzim | other | secrecy, concealment
+tinzisht | adv | secretly, furtively
+tinzoj | other | conceal, keep dark, cloak
+tinzshëm | adj | secret, dark, obscure, hidden
+tirgjand | other | silver
+tiskë | other | fear, funk; nightmare
+titim | other | cold, chill
+titosh | adj | potbellied
+tjatrazi | adv | otherwise
+tjek | other | milk (in a riddle)
+tjerakund | adv | elsewhere
+tjesk | other | press, winepress
+tjeskonj | other | press, tread down
+tjetërdashës | adj | altruistic
+tjetërfeshëm | adj | heterodox
+tjetërkohë | adv | at another time
+tjetërllojshëm | adj | heterogeneous
+tjetërsi | adv | otherwise
