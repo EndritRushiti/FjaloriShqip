@@ -62867,3 +62867,59 @@ shukretë | other | slap, blow
 shukth | other | pellicule, pellet
 shukthi | adv | in a ball
 shulthi | adv | crosswise, transversely; askew
+# ── mannshto.tsv ──
+shulak | adj | cylindrical
+shulc | other | bolt, bar, beam
+shulës | other | winding-stick, roller; poker
+shulët | adj | awry, crooked, askew
+shulicë | other | yard (of a ship); bolt (of a door)
+shulk | other | boy, helper, apprentice
+shulkëri | other | hirelings
+shuloj | other | place horizontally; bend, warp; fell (a tree)
+shulore | other | fold (geol.)
+shultinë | other | season
+shulthin | adv | crosswise
+shullaj | other | sun, warm in the sun
+shullëhem | other | bask, sunbathe
+shullandore | other | sun-bower on a roof
+shullat | adj | bright, sunny
+shullhje | other | basking, sunbathing
+shullim | other | covering, hiding; pretence
+shulloj | other | cover up, hide; pretend
+shumaqsh | adv | often
+shumbricë | other | caraway seed
+shumfarsh | adv | manifold, various
+shumfish | adv | manifold; multiple
+shumfishim | other | multiplication
+shumfishoj | other | multiply
+shumgjuhshëm | adj | polyglot
+shumhamës | adj | greedy; glutton
+shumhera | adv | often
+shumkëndsh | adj | many-angled
+shumkush | pron | many a one
+shumllojshëm | adj | diverse, various
+shumllojtë | adj | diverse
+shumnduer | adj | diverse, various, manifold
+shumngrënës | adj | voracious
+shumngjyrët | adj | many-coloured, motley
+shumngjyrshëm | adj | many-coloured
+shumore | other | plural
+shumpjellës | adj | prolific
+shumqelizar | adj | multicellular
+shumrrokës | adj | polysyllabic
+shumshum | adv | on the whole, largely
+shumtim | other | increase, excess
+shumtues | other | multiplier
+shumtueshëm | adj | multipliable
+shumvjetshëm | adj | of long standing
+shumzashëm | adj | polyphonous
+shumzim | other | multiplication; accumulation
+shumzoj | other | multiply, increase
+shungëllim | other | rustle, whistle, echo, rumble
+shungëlloj | other | rustle, roar, echo, rumble, reverberate
+shungur | adj | overripe
+shup | other | stop, hide, muffle, quell
+shupullë | other | slap, smack
+shuralë | other | gravel
+shurbej | other | serve
+shurbës | other | thing, matter, theme
