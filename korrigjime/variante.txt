@@ -3597,3 +3597,17 @@ vilanos | vilanis | alternative
 vilej | vlej | alternative
 vilush | vilus | alternative
 vingjoj | mund | alternative
+# ── Mann 1948 ──
+violl | violinë | alternative
+virgjni | virgjëri | alternative
+virgjnisht | virgjërisht | alternative
+virtuçim | virtytshëm | alternative
+virtut | virtyt | alternative
+virtutë | virtyt | alternative
+virtytë | virtyt | alternative
+visartar | arkëtar | alternative
+vishëm | vlefshëm | alternative
+vishtull | veshtull | alternative
+vishvishe | shkrepëse | alternative
+vishvizhe | shkrepëse | alternative
+vitorshëm | vitoreshëm | alternative

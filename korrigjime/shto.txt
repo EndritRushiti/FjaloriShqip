@@ -65202,3 +65202,41 @@ vilus | other | velvet
 vilush | other | velvet
 villar | other | roll
 vingjoj | other | defeat, overcome
+# ── mannshto.tsv ──
+vinxh | other | (mechanical) crane
+violl | other | violin
+virem | other | be suspended, be hung, be hanged; be put, be placed
+virë | other | hole; whey; urine
+virgjill | other | mercury
+virgjni | other | virginity
+virgjnisht | adv | chastely
+virtuçim | adj | virtuous
+virtut | other | virtue
+virtutë | other | virtue
+virtytë | other | virtue
+viryl | other | beryl
+visartar | other | treasurer, bursar
+visek | other | leap-year
+visoskë | other | landscape
+vistar | other | treasure
+vistrim | other | filing, stringing, threading
+vistroj | other | file, string, thread
+vish | other | bier, carrier
+vishar | other | bier-maker
+vishëm | adj | useful, valuable
+vishkullore | adj | sibilant
+vishkullues | adj | sibilant; prompter
+vishnjos | other | shake out (clothes)
+visht | other | standing corn
+vishtull | other | mistletoe
+vishvishe | other | match
+vishvizhe | other | match
+vitelë | other | calf-skin, calf-leather
+vitez | other | prosperous-looking person
+vitëll | other | screw; screw-press
+vitllos | other | screw down, clamp
+vitoreshëm | adj | victorious
+vitorshëm | adj | victorious
+vitorzi | adj | wretched, poor
+vitshëm | adj | annual
+vitullë | other | tap, faucet, stopcock; screw; crank; spirally
