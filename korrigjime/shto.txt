@@ -64077,3 +64077,43 @@ tutulitem | other | calm down, get drowsy
 tutulec | other | lilac
 tutumar | other | stupefy
 tuvës | other | barb or awn on maize
+# ── mannshto.tsv ──
+tuvlë | other | brick
+tuvllë | other | brick
+tuvlar | other | brickmaker
+tuvllar | other | brickmaker
+tyb | other | tube, pipe; pot, pan
+tybe | other | abomination
+tyfeke | other | gun
+tymak | other | chimney; smoky
+tymar | other | chimney
+tymb | other | smoke
+tymës | other | tobacconist; smoker; exhaust-pipe
+tymët | adj | smoky; gaseous
+tymim | other | smoking, fumigation
+tymitje | other | smoking, fumigation
+tymonjës | adj | smoker, fumigator; fumigating, smoking
+tymore | other | chimney, funnel
+tympanë | other | timbrel, tambourine
+tymtaje | other | murk, smokiness, gloom
+tymtajë | other | murk
+tymtoj | other | vanish into thin air, go up in smoke
+tynjatjeta | interj | greeting formula
+typ | other | hammer; impression, mark; type; tube, pipe
+typar | adj | typical; type; standard
+tytkath | other | sty (on the eye)
+tytkë | other | pipe, tube; flue
+tytni | other | emptiness, void
+tytnisht | adv | in vain
+thaç | other | chatter, twaddle, gossip
+thadrim | other | carving, engraving, incision, inscription
+thafmë | other | miracle
+thagëm | other | miracle, marvel
+thagmëri | other | marvel, witchery
+thajtë | adj | clean-cut, well-built
+thakëm | other | wonder
+thakmë | other | wonder
+thalbsë | other | kernel
+thamem | other | wonder
+thamje | other | drying; withering; drainage
+thanc | other | black variety of grape
