@@ -64556,9 +64556,6 @@ urum | other | Greek (esp. a member of the Greek Orthodox Church)
 urumeshë | other | Greek woman
 urup | other | shilling, dollar (a coin)
 urzë | other | sapwood
-urrenesë | other | look-out, watch
-urresë | other | look-out
-urrenoj | other | watch, look out
 urrët | adj | of sapwood
 ustaj | other | master-builder
 ustar | other | breeder, trainer
@@ -64587,3 +64584,5 @@ ushtratë | other | campaign
 ushtriak | adj | military, army-
 ushtrijak | adj | military
 ushtrisht | adv | soldier-like, in military fashion
+# ── mannshto.tsv ──
+urrnesë | other | look-out, watch

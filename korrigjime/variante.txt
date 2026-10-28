@@ -3398,7 +3398,6 @@ urtsisht | urtësisht | alternative
 urtsuar | urtsuem | alternative
 # ── Mann 1948 ──
 urzë | urrë | alternative
-urresë | urrenesë | alternative
 ustaj | usta | alternative
 ushëtoj | ushtoj | alternative
 ushqenjës | ushqyes | alternative
