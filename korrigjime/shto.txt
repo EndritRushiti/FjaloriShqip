@@ -61562,4 +61562,3 @@ shëndroj | other | change, alter
 shëndrroj | other | change
 shëndrojsë | adj | variable, changeable
 # ── mannshto.tsv ──
-shëndri | other | shine, glory
