@@ -62754,3 +62754,41 @@ shtrica | other | parallel bars
 shtriganë | other | witch
 shtrigëri | other | witchcraft, sorcery
 shtrigni | other | witchcraft
+# ── mannshto.tsv ──
+shtrirsi | other | expanse, dimension
+shtriskim | other | pruning, trimming
+shtriskoj | other | prune, trim
+shtritje | other | spread, expansion, extension
+shtritsi | other | covering, layer
+shtritshëm | adj | stretchable, elastic
+shtroerë | other | lee, sheltered spot; harbour, haven
+shtroherë | other | lee, harbour
+shtrojerë | other | lee, harbour
+shtroere | other | harbour
+shtroth | other | run dry
+shtrofkullë | other | den, lair
+shtrofullë | other | den, lair, hole
+shtrokullë | other | den, lair
+shtrokë | other | itch (in animals); leprosy
+shtromacë | other | mattress, litter
+shtropis | other | rub, grate
+shtruarazi | adv | on the ground
+shtruarshëm | adj | yielding, obedient
+shtrudh | other | cramp, squeeze, wring
+shtruth | other | squeeze, wring
+shtruf | other | leather thong used as a tether
+shtruge | other | wooden milking-pail
+shtrugës | other | pail, bucket
+shtrugem | other | nestle, cower, huddle
+shtruk | other | cramp, compress; tuck in; bend
+shtrukë | other | wrinkle, fold
+shtrukër | adj | bent, huddled
+shtrukëri | other | curvature; huddling; hump
+shtrukni | other | curvature
+shtruknoj | other | bend, double, huddle
+shtrukoj | other | bend double
+shtrume | other | mattress; table-ware, crockery; furniture
+shtrument | other | instrument
+shtrupsoj | other | maim, deform, disfigure
+çtrupsoj | other | maim
+shtrushullim | other | noise, rustle, rush
