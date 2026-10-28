@@ -64712,3 +64712,58 @@ vardhar | other | waterfall
 vardhër | other | waterfall
 vardhë | other | sentry, guard
 varelar | other | cooper
+# ── mannshto.tsv ──
+varfë | other | monk, dervish, hermit
+varfnim | other | impoverishment
+vargenj | other | breeding ram
+vargës | other | ram for breeding; uncastrated
+vargnim | other | filing, threading, stringing; syntax; versification
+vargërim | other | filing, threading
+vargnoj | other | file, string, thread; concatenate; versify
+vargëroj | other | file, string
+vargos | other | line up, link
+vargsi | other | linking, filing, concatenation
+vargsim | other | linking, concatenation
+vargsoj | other | link, thread, file, concatenate
+vargtar | other | filer; versifier
+vargues | other | pendant, trinket; chain
+vargzoj | other | link
+vargzues | other | filer; poet
+varis | other | order about, send from one place to another, transfer, shunt, badger
+varisje | other | hanging
+varjelë | other | small cask, keg
+varkore | other | brace(s), belt
+varme | other | subjunctive mood; dependent clause
+varome | other | faint, swoon
+varomë | other | faint
+varoshar | adj | suburban
+varse | other | hanger; coat-hanger
+varsi | other | dependence
+varshëm | adj | dependent
+vartas | adv | hanging; in the air, undecided
+vartur | adj | hanging, suspended
+varvar | other | barbarian
+varrakas | other | delay, hesitate, dally, linger; put off, postpone
+varrakatem | other | delay, hesitate
+varrakatës | adj | dallying
+varrelë | other | barrel, keg
+varresë | other | grave; burial
+varrëz | other | tomb
+varrishtë | other | graveyard, burial place, cemetery; tomb, mausoleum
+varrosh | adj | dappled, pied, striped, marked
+varrsi | other | vulnerability
+varrsor | adj | funereal
+varrtar | other | undertaker
+varrtor | other | surgeon
+varrtore | other | cemetery
+varrueshëm | adj | vulnerable
+vasi | other | guardian, tutor
+vasnak | adj | hanging, pendant; cluster, icicle; catkin
+vastaguan | other | company, party
+vastangarkë | other | loading-stick (for pack-animals)
+vastarke | other | loading-stick
+vastarkë | other | loading-stick
+vashëm | adj | fordable
+vashni | other | girlhood, maidenhood
+vatkë | other | cotton-wool
+vatrëz | other | place in a forest cleared by fire; onion or tobacco plantation; rick, pile

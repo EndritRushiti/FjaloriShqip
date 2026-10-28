@@ -3455,3 +3455,14 @@ vanim | vonesë | alternative
 vaporr | vapor | alternative
 vardhar | ujvarë | alternative
 vardhër | ujvarë | alternative
+# ── Mann 1948 ──
+varfnim | varfërim | alternative
+vargërim | vargnim | alternative
+vargëroj | vargnoj | alternative
+vargos | vargoj | alternative
+vargsim | vargsi | alternative
+vargzoj | vargsoj | alternative
+varomë | varome | alternative
+varsi | varësi | alternative
+vastarke | vastangarkë | alternative
+vastarkë | vastangarkë | alternative
