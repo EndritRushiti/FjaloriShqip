@@ -2732,3 +2732,12 @@ shtruk | struk | alternative
 shtrukni | shtrukëri | alternative
 shtrukoj | shtruknoj | alternative
 çtrupsoj | shtrupsoj | alternative
+# ── Mann 1948 ──
+shtrydhëz | luleshtrydhe | alternative
+shtrykem | struk | alternative
+shtryll | shtrydh | alternative
+shtryth | shtrydh | alternative
+shtrras | shtras | alternative
+shtullungë | shtëllungë | alternative
+shtupi | shtupë | alternative
+shtypore | shtypshkronjë | alternative

@@ -62792,3 +62792,41 @@ shtrument | other | instrument
 shtrupsoj | other | maim, deform, disfigure
 çtrupsoj | other | maim
 shtrushullim | other | noise, rustle, rush
+# ── mannshto.tsv ──
+shtrydhak | adj | strained
+shtrydhc | other | press; mangle
+shtrydhëz | other | strawberry
+shtrydhore | other | press
+shtrykem | other | nestle, cower
+shtryll | other | squeeze
+shtryq | other | stretch out, stiffen
+shtryqem | other | stretch (oneself)
+shtryth | other | squeeze
+shtrrajë | other | runner, trailer (of a plant)
+shtrras | other | run dry; ooze
+shtrriqe | other | carrion
+shtuarje | other | addition, supplement, appendage
+shtuarshëm | adj | appendable, increasable
+shtubardh | other | kind of oats
+shtufak | adj | pumice-; sandstone-
+shtufë | other | slate
+shtullungë | other | ball of wool
+shtupac | adj | tough, sinewy
+shtupi | other | tow
+shtupoj | other | plug, bung, block, stop up
+shtupsi | other | brittleness, fragility
+shturgon | other | sturgeon
+shtyes | other | pusher, rammer; barge-pole
+shtyesë | other | mixture
+shtyllajë | other | colonnade
+shtyllak | adj | powerful (of a horse); jamb (of a door)
+shtyllar | other | stylist
+shtyllim | other | colonnade; alignment
+shtyllis | other | draw up (in columns)
+shtylloj | other | prop, shore up
+shtyllos | other | impale, tie to a stake
+shtyllosur | adj | pillar-like, pillared
+shtymës | adj | instigating; instigator
+shtymje | other | push, knock, jolt; postponement
+shtypëc | other | mortar (for crushing)
+shtypore | other | printing-house
