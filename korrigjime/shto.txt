@@ -62323,3 +62323,42 @@ shpërzhej | other | loose, free, disengage
 shpërzihem | other | get free
 shpëtestar | other | rescuer
 shpidal | other | hospital
+# ── mannshto.tsv ──
+shplegim | other | explanation
+shplegoj | other | explain
+shpiert | adv | quickly
+shpiertë | adj | swift, rapid, quick
+shpiettë | adj | swift
+shpifër | adj | intriguing, mischief-making
+shpifërisht | adv | slanderously
+shpifsi | other | calumny
+shpiftar | other | slanderer
+shpihem | other | stretch (one's limbs), limber up
+çpihem | other | stretch, limber up
+shpijak | adj | domestic, household-
+shpijanik | other | tenant; domesticated
+shpijtar | adj | domestic; domestic employee
+shpikatar | adj | inventive; inventor
+shpinak | other | spinach
+shpinake | other | stickleback; back-cloth (for carrying loads)
+shpindë | other | back, backbone
+shpinjë | other | back
+shpinoj | other | reject, disregard, ignore, refute
+shpiratë | other | breath
+shpiritë | other | animation; spirit, notion
+shpiroj | other | inspire
+shpirtdhanës | adj | quickening, refreshing, encouraging
+shpirtgrymur | adj | damned, accursed, wretched
+shpirtgjanë | adj | broadminded
+shpirtligsi | other | evil, wickedness
+shpirtmadhërisht | adv | generously
+shpirtmadhsi | other | magnanimity
+shpirtmirsi | other | goodness, kindness
+shpirtnisht | adv | spiritually
+shpirtos | adj | spirituous
+shpirtprejtur | adj | calm, easy in mind
+shpirtsoj | other | animate
+shpirtshtrëngim | other | anguish
+shpirtvogli | other | narrow-mindedness
+shpirtzim | other | inspiration, encouragement
+shpirtzoj | other | inspire, fire, encourage
