@@ -3466,3 +3466,12 @@ varomë | varome | alternative
 varsi | varësi | alternative
 vastarke | vastangarkë | alternative
 vastarkë | vastangarkë | alternative
+# ── Mann 1948 ──
+vargzim | vargsim | alternative
+vavaj | vav | alternative
+vazile | mbret | alternative
+vazhdonjës | vazhdues | alternative
+vdas | vdes | alternative
+vdekësprues | vdekëprues | alternative
+vdesh | zhvesh | alternative
+vdierr | vdjerr | alternative

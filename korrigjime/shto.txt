@@ -64767,3 +64767,31 @@ vashëm | adj | fordable
 vashni | other | girlhood, maidenhood
 vatkë | other | cotton-wool
 vatrëz | other | place in a forest cleared by fire; onion or tobacco plantation; rick, pile
+# ── mannshto.tsv ──
+vargzim | other | linking
+vathatore | other | bearded goat
+vathnaje | other | sheepfolds
+vathim | other | sheep's dung
+vathoj | other | pen, enclose; manure with sheep's dung
+vav | interj | woe, alas
+vavaj | interj | alas
+vazatë | other | kiss
+vazile | other | king
+vazhdi | other | continuity, succession, series
+vazhdonjës | adj | continuous; successor
+vdas | other | die
+vdekëm | adj | dead
+vdekëprues | adj | death-dealing, fatal, mortal, deadly
+vdekësprues | adj | fatal
+vdekjeshëm | adj | deadly, fatal
+vdeksim | other | killing, manslaughter
+vdeksoj | other | put to death, kill
+vdesh | other | strip, plunder
+vdeshtar | other | plunderer
+vdierr | other | destroy, lose
+vdierrshëm | adj | corruptible
+vdigë | other | epilepsy
+vdimë | adj | absent; scattered
+vdirem | other | be lost, perish
+vdirshëm | adj | perishable
+vdjerret | other | gutter, flicker out (as a candle)
