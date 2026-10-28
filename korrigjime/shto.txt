@@ -62497,3 +62497,24 @@ shqezoj | other | harrow
 shqicë | other | sketch
 shqier | other | tear, rend
 shqilcë | other | rennet
+# ── mannshto.tsv ──
+shqilt | other | rennet
+shqilzë | other | rennet
+shqimth | other | scurf
+shqint | other | mastic tree
+shqipëronjës | other | translator (into Albanian)
+shqipkë | other | eagle
+shqiponjkë | other | eaglet
+shqipzoj | other | render into Albanian
+shqirët | adj | hard, toilsome
+shqirëz | other | partridge
+shqiroj | other | be stubborn
+shqokë | other | clucking hen, broody hen
+shqukë | other | broody hen
+shquajtje | other | distinction; brilliance
+shqufrim | other | sulphuration, fumigation
+shqufurim | other | sulphuration
+shqufroj | other | sulphurate, fumigate
+shqufuroj | other | sulphurate
+shqufrues | adj | sulphurating, fumigating
+shqufurtë | adj | sulphurous; sulphur-

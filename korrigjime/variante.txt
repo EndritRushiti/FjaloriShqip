@@ -2601,3 +2601,14 @@ shqetsues | shqetësues | alternative
 shqezoj | lesoj | alternative
 shqicë | skicë | alternative
 shqier | çjerr | alternative
+# ── Mann 1948 ──
+shqilt | shqilcë | alternative
+shqilzë | shqilcë | alternative
+shqint | shqind | alternative
+shqipkë | shqiponjë | alternative
+shqipzoj | shqipëroj | alternative
+shqirëz | thëllëzë | alternative
+shqukë | shqokë | alternative
+shqufurim | shqufrim | alternative
+shqufroj | squfuroj | alternative
+shqufuroj | squfuroj | alternative
