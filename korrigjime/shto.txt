@@ -58911,7 +58911,6 @@ qerosem | verb | get scurvy; get bald
 qerosk | noun | bald-headed (or scurvy) girl
 qerpe | noun | tress, forelock
 qerpi | noun | hair, bristle; tentacle; level (instrument)
-qershiz | noun | snowberry
 qershijtë | adj | cherry-, of cherry
 qershishtë | noun | cherry-orchard
 qertas | adv | clearly
