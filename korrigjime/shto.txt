@@ -58980,3 +58980,59 @@ qëndisëm | adj | embroidered, worked
 qëndrimtar | adj | tenacious, resistant; stable, steady
 qëndrinë | noun | centre, headquarters
 qëndrojse | noun | stand, prop, rest, support
+# ── mannshto.tsv ──
+qëndruet | adj | firm, stable
+qëntër | noun | hair growing on the belly
+qëparthënaj | adv | some time ago
+qëriç | noun | mortar
+qërimtar | adj | cleaning; cleaner, peeler
+qërocë | noun | cleaner, brush, wire brush
+qërosë | noun | scurf
+qërtimtar | adj | of censure, admonishing; reprover, fault-finder, critic
+qërtues | adj | reproving, of censure, criticising
+qiellët | adj | sky-, heavenly
+qiellshëm | adj | heavenly, celestial
+qielltregonjë | noun | astronomy
+qielluq | adj | bluish, azure
+qiellzon | noun | palate; roof; dome, cupola; garret, attic
+qiellzore | noun | palate; ceiling; palatal (sound)
+qiës | noun | fornicator
+qifkël | noun | (a bird)
+qikëll | noun | tip, peak; spear, spearhead; ski
+qikloped | noun | encyclopaedia
+qiklosh | adj | tipped, pointed, sharp
+qikulle | noun | tip, peak
+qiky | pron | this very same, selfsame
+qiler | noun | cellar
+qili | noun | cell; granary, barn
+qilis | verb | roll; destroy
+qilismë | noun | rolling
+qilizë | noun | small cell, cellule
+qilizmë | noun | ditch, furrow
+qilogram | noun | kilogram
+qilometër | noun | kilometer
+qillem | verb | dawdle, linger
+qillistër | noun | honeycomb
+qilloj | verb | hit; reach, attain; aim; alight on, chance upon; happen, turn out
+qillohem | verb | chance to be, happen, find oneself
+qillotë | noun | trousers, breeches
+qillues | noun | marksman, shot
+qillzore | noun | ceiling, roof, top
+qimak | adj | capillary
+qimar | noun | weaver's tool
+qimçë | noun | jujube
+qimethithse | noun | fibre, fibrous root
+qimeflokë | noun | quiff of hair
+qimi | noun | chemistry
+qimik | adj | chemical
+qimikisht | adv | chemically
+qimin | noun | caraway
+qiminon | noun | caraway
+qimlon | noun | caraway
+qimino | noun | caraway
+qimist | noun | chemist; teacher of chemistry
+qimiter | noun | cemetery
+qimitër | noun | cemetery
+qimitir | noun | cemetery
+qimitor | noun | (experimental) chemist
+qiklopedist | noun | encyclopaedist
