@@ -62287,3 +62287,39 @@ shpërbesoj | other | cause to break one's word
 shpërblestar | other | redeemer
 shpërçmim | other | devalorisation; discredit
 shpërçmoj | other | devalue, debase; despise, discredit
+# ── mannshto.tsv ──
+shpërdaj | other | divide up, distribute, scatter
+shpërdahem | other | be scattered
+shpërdamje | other | distribution, dispersal
+shpërdamës | adj | distributing; distributor
+shpërdas | adj | distributing
+shpërdierr | other | scatter, rout
+shpërdhejtë | adj | agile
+shpërdhikët | adj | agile
+shpëreng | other | asparagus
+çpërfaq | other | disclose, reveal
+shpërfjaloj | other | let out, blab out
+shpërfles | other | peruse, glance through
+shpërformim | other | transformation
+shpërformoj | other | transform
+shpërga | other | swaddling band, napkin
+shpërgënjë | other | baby-clothes
+shpërkatës | adj | sprinkling; sprinkler
+shpërkoq | other | scatter (seed), disseminate
+shpërkoqje | other | scattering (of seed), dissemination
+shpërlasinë | other | downpour, torrent; alluvium
+shpërlodhem | other | rest, recuperate
+shpërmënt | other | confuse
+shpërnderët | adj | dishonourable; degenerate
+shpërndorim | other | abuse
+shpërndoroj | other | abuse, misuse
+shpërndorues | other | abuser, misuser
+shpërndrij | other | shine, glitter
+shpërngjasi | other | dissimilation
+shpërpjestë | adj | disproportionate
+shpërthiq | other | squash, batter
+shpërvilem | other | turn up (the sleeves), tuck up; get busy
+shpërzhej | other | loose, free, disengage
+shpërzihem | other | get free
+shpëtestar | other | rescuer
+shpidal | other | hospital
