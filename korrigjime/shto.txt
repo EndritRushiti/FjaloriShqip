@@ -60501,3 +60501,58 @@ sirá | noun | line, row, series
 siringë | noun | syringe
 sirmë | noun | ear of maize; silk
 sironkë | noun | sprat
+# ── mannshto.tsv ──
+sisak | adj | mammal, mammalian
+sisam | noun | sesame
+sisarak | adj | mammal, mammalian; sucking
+sitëthuash | adv | ostensibly, so to speak
+sitkë | noun | kind of rush or marsh-grass; sieve; dandruff; bran
+sitos | verb | sift
+siujdhezë | noun | peninsula
+sivakë | noun | jacket
+sivë | noun | jacket
+sivjeçëm | adj | this year's
+sivjemë | adj | this year's
+sivjete | noun | the current year
+sivlla | noun | colleague, fellow, companion
+sixhim | noun | string, thread, cord
+sizar | noun | caraway
+sjellura | noun | turn; phrase, expression
+sjepar | noun | mattock
+sjetërherë | adv | formerly
+sjetullohem | verb | turn aside
+sjollë | noun | waste-pipe, gutter
+skaftor | noun | diver
+skajë | noun | tip, edge, corner
+skaki | noun | chess
+skakitar | noun | chess-player
+skalapë | noun | sleet
+skalapuri | adv | amiss, wrong, in a muddle, topsy-turvy; evilly, with ill-will
+skalapurthin | adv | amiss, wrong
+skalavarun | adj | hung, hanged
+skali | noun | carving, engraving; sculpture
+skalinë | noun | (a flat-fish)
+skalisur | adj | carved, engraved
+skallomë | noun | landing-stage, quay
+skam | noun | poverty
+skamali | noun | confession
+skamalisem | verb | confess
+skambilë | noun | draughts, checkers
+skamë | noun | poverty
+skamët | adj | poor, needy
+skamile | noun | seat
+skamollar | noun | confessional priest
+skamtar | adj | poor, needy
+skandalisem | verb | be shocked
+skandall | noun | plumb-line; offence; scandal
+skandhall | noun | plumb-line
+skandhali | noun | offence
+skanjim | noun | defining; inflection
+skanjoj | verb | define; inflect
+skapan | adj | burly; burly fellow
+skapas | verb | castrate
+skape | noun | tip, top, peak, gable
+skapërdhiks | verb | lower the head (of horses); rear
+skapis | verb | castrate
+skapitoj | verb | show the teeth; chatter the teeth (with cold)
+skapulis | verb | overcome
