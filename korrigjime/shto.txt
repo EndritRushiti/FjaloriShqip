@@ -61562,3 +61562,45 @@ shëndroj | other | change, alter
 shëndrroj | other | change
 shëndrojsë | adj | variable, changeable
 # ── mannshto.tsv ──
+# ── mannshto.tsv ──
+shënesë | other | token; marker, crayon
+shënik | other | bushel
+shënt | adj | holy
+shëntni | other | holiness
+shënvënd | other | holy of holies, sanctuary
+shenjtuar | other | saint
+shëpullë | other | slap
+shëptim | other | whisper
+shëptis | other | whisper
+shërbel | other | sage (plant)
+shurbelë | other | sage (plant)
+shërbicë | other | maid, servant
+shërbimtar | adj | serviceable, helpful, obliging
+shërbtore | other | maid-servant, housemaid
+shërbtorkë | other | maid-servant
+shërbtuer | other | servant
+shërbetuer | other | servant
+shërbtyrë | other | service; servitude; ministry
+shërdhoj | other | deafen
+shëresë | other | healing
+shërikë | other | string
+shërimsjellës | adj | healing, healthful, restorative
+shërimtar | adj | healing; healer
+shëringë | other | syringe
+shërkë | other | copse, thicket, evergreen wood
+shermët | other | shoots, cuttings
+shërmil | other | hangman
+shëromë | other | remedy, medicine
+shërpë | other | celery
+shërroj | other | saw
+shëshëris | other | hiss
+shëshujëz | other | leech
+shfajsim | other | excuse, apology; acquittal, exoneration
+shfajsohem | other | be acquitted; apologise
+shfajsoj | other | acquit, exonerate
+shfajstim | other | exoneration
+shfajstoj | other | exonerate
+shfamsi | other | slander, libel
+shfamsim | other | slander
+shfamsoj | other | slander, libel
+shfamshëm | adj | infamous
