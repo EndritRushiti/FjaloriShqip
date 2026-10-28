@@ -2259,3 +2259,16 @@ shilek | sheleg | alternative
 shilege | sheleke | alternative
 shimb | shemb | alternative
 shimës | shirës | alternative
+# ── Mann 1948 ──
+shindnoj | shenjtëroj | alternative
+shint | shenjtë | alternative
+shintni | shenjtëri | alternative
+shinjë | rrëshirë | alternative
+shiqim | shikim | alternative
+shiqoj | shikoj | alternative
+shisnuer | shiqnuer | alternative
+shiques | shikues | alternative
+shitan | shejtan | alternative
+shitëtës | shitendës | alternative
+shkabojë | shkabë | alternative
+shkadohi | shkado | alternative

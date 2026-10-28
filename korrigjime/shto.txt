@@ -61698,3 +61698,32 @@ shimatës | other | hygrometer
 shimbajtës | other | water butt, rain butt
 shimb | other | demolish
 shimës | other | thresher
+# ── mannshto.tsv ──
+shinakot | adj | queer, odd; queer fellow
+shindnoj | other | sanctify
+shint | adj | holy
+shintni | other | holiness
+shinjall | other | rogue, rascal
+shinjë | other | resin
+shinjët | adj | of resin
+shinjollë | other | vision, apparition
+shipakuar | adj | charming, fascinating
+shiqim | other | sight, look
+shiqoj | other | look
+shiqnuer | other | vine-prop
+shisnuer | other | vine-prop
+shiques | other | spectator
+shirgj | other | skin bag
+shishko | adj | tubby, fat
+shitan | other | devil
+shitend | other | hawk, peddle
+shitendës | other | hawker, peddler
+shitëtës | other | hawker
+shitkë | other | sale, deal
+shitsi | other | saleability
+shitura | other | article sold
+shkabojë | other | eagle
+shkado | adj | some, any; something
+shkadohi | adj | some, any
+shkadhare | other | windowsill
+shkadhis | other | prune, trim, lop; hoe
