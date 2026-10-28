@@ -62007,3 +62007,50 @@ shkronjëzezë | adj | unlucky
 shkronjtore | other | grammar (book); office
 shkruos | other | scribe
 shkruf | other | cord, rope
+# ── mannshto.tsv ──
+shkrumbët | adj | charred, burnt; black-spotted (of horses)
+shkrumbis | other | char, turn to ash
+shkrumbitje | other | charring, burning
+shkrumos | other | char, burn
+shkrumoj | other | char
+shkrumzoj | other | char, blacken
+shkrumbzoj | other | char
+shkryth | other | crumble
+shkrydhem | other | work oneself to death
+shkrythsi | other | softness, crumbliness, looseness
+shkryej | other | roll in mud, soil, dirty
+shkryhem | other | wallow
+shkrrahem | other | wallow, flounder
+shkrramë | adj | foul, filthy
+shkrrej | other | defile, foul; waste, squander
+shkrryej | other | defile
+shkrryhem | other | defile oneself, wallow; plod; drudge
+shkrroftij | other | blow (the nose) hard, snort
+shkrroj | other | weary, exhaust
+shkuemje | other | going, gait
+shkuemeni | other | harmony, smooth running
+shkugë | other | gelder-rose
+shkujmoj | other | generate
+shkulëz | other | etching-fluid, acid
+shkulmim | other | impulse, urge, passion
+shkulmoj | other | impassion, impel
+shkull | other | firemark, brand
+shkullim | other | distillation
+shkullonjës | adj | distilling; distiller
+shkullonjtore | other | distillery
+shkumash | adj | frothy, foaming
+shkumbash | adj | frothy
+shkumatar | adj | frothy
+shkumbatar | adj | frothy
+shkumbavis | other | cause to foam, whip to a lather
+shkumbavitem | other | foam (at the mouth)
+shkumbtë | adj | foamy
+shkumbztë | adj | chalky
+shkumbri | other | mackerel
+shkumbzoj | other | lather, whip up a foam
+shkumbzohem | other | foam, effervesce, froth up
+shkumboj | other | lather
+shkumsoj | other | lather
+shkumzoj | other | froth, effervesce
+shkumez | other | chalk
+shkumtesë | other | notice to quit
