@@ -63100,3 +63100,43 @@ tashtimë | adv | henceforth
 tashtinë | adv | now
 tashtishëm | adj | present, current
 tatalosh | other | simpleton
+# ── mannshto.tsv ──
+tatareç | adj | cone-shaped (of a felt cap)
+tatarrosem | other | play the bully, be arrogant
+tatepuç | other | pompom
+tatmadh | other | grandpa
+tatëll | other | thorn-apple
+tatule | other | thorn-apple
+tatyle | other | thorn-apple
+tatëpjes | other | tilt, slope, incline
+tatëpjetëm | adj | sloping, inclined, steep
+tatëpjeti | other | slope, declivity
+tatëposht | adv | down, downhill
+tatpjetë | adv | downhill
+taull | other | tambourine, drum
+tavanisje | other | ceiling material, ceiling-boards
+tavernar | other | inn-keeper; picnicker
+tavernës | other | inn-keeper
+tavullë | other | tray, ashtray; backgammon
+teator | other | theatre
+tebe | other | chalk
+tefcë | other | safety-razor blade
+tefterdar | other | bookkeeper; receiver-general
+tegelkë | other | small hem
+tegëll | other | milk-jug, milk-can
+tegjenare | other | house-spider
+tehnikë | other | technique
+tehri | other | cord, string
+tejet | adv | very much, extremely
+tejkalueme | other | pluperfect (gram.)
+tejkqyrë | other | telescope, field-glasses
+tejparshëm | adj | transparent
+tejshikueshëm | adj | transparent
+tejpas | adj | far-sighted
+tejshikues | adj | far-sighted
+tejveshtronjës | adj | far-sighted
+tejri | other | band, string, cord
+tejshikim | other | far-sightedness; television
+tejveshtrim | other | far-sightedness
+tejshkroj | other | wire, telegraph
+tejshkronjë | other | wire, telegram
