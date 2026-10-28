@@ -59517,3 +59517,47 @@ ritoj | verb | water, irrigate, soak
 rivile | noun | bitter reflection, qualm
 rivleftsim | noun | reflation, revaluation
 rivleftsoj | verb | reflate, revaluate
+# ── mannshto.tsv ──
+riznicë | noun | treasury
+robalarse | noun | laundress
+robazë | noun | things, clothes
+robërina | noun | things, clothes
+robinë | noun | female slave
+robis | verb | capture; enslave; wear out, exhaust, make haggard
+robitem | verb | be captured, be enslaved; get worn out, become jaded
+robitur | adj | captured, enslaved; haggard, jaded
+robizgë | noun | pine-cone, fir cone
+robkinjë | noun | female slave
+robnim | noun | capture; enslavement; game of prisoner's base
+robnisht | adv | servilely
+robnoj | verb | capture; enslave
+robti | noun | slavery; captivity
+roçkë | noun | for nothing, gratis
+roçomil | noun | simpleton
+rodinë | noun | family, race, kind
+rodtar | adj | specific (gravity)
+rodhan | noun | spinning-wheel; intrigue
+rodhiqe | noun | burr
+rodhje | noun | burr
+roe | noun | attention
+rofë | noun | turbot
+rogajë | noun | meadow
+roginë | noun | forest clearing
+rogos | noun | rush mat
+rogoz | noun | rush mat
+rogoveckë | noun | a flowering plant
+rojes | adj | watchful; watchman
+rojis | verb | swarm
+rojkë | noun | queen-bee (escaping from hive); sheep left in charge of a hired shepherd; chatterbox
+rojtje | noun | keep, watch, guard, preservation; hygiene; life
+rojtkë | noun | bearing, attitude, manner
+rokodan | noun | dolt
+rolë | noun | disc
+romansoj | verb | romanise
+romantar | noun | novel-writer
+rongjerë | noun | landslide, scree
+ronis | verb | fall, crumble, break down
+ronitem | verb | crumble
+ronitur | adj | broken-down, dilapidated
+ropëri | noun | slavery
+ropkë | noun | slave-girl
