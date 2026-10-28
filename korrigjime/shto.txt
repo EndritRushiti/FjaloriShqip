@@ -65454,3 +65454,50 @@ vokërr | other | little finger
 vokët | adj | tepid, cool, lukewarm
 voksi | other | lukewarmness, tepidity
 voksinë | other | lukewarmness
+# ── mannshto.tsv ──
+volant | other | steering-wheel
+volatik | other | braid
+volëndër | other | desire, wish
+volëndim | other | satisfaction
+volçëm | adj | handy, convenient
+volirem | other | die off, starve
+volitsi | other | convenience, handiness; aptitude, ability, capacity
+volkan | other | volcano
+voltë | other | death-struggle, throes, agony; button
+voltoj | other | button, provide with buttons
+vollcë | other | sorb-apple; whim, fancy, caprice
+vollëndim | other | satisfaction
+vollndeje | other | will
+vollndet | other | will
+vollndohem | other | be satisfied, satisfy oneself
+vollnesë | other | will
+vollnet | other | will
+vollundede | other | will
+vollntiera | adv | voluntarily
+vome | other | centipede; wail, lament
+vonashi | adv | lastly, in the end, finally, latterly, ultimately
+vongorec | other | cattle-worm, cattle-tick
+voni | other | lateness
+vonjës | adj | dilatory, slothful, sluggish
+vonues | adj | dilatory, slothful, sluggish; loiterer, delayer
+vonueshëm | adj | belated
+vorbar | other | potter
+vorbare | other | large pot
+vorbëri | other | pottery
+vorbtar | other | potter
+vorde | other | young girl
+vorfnim | other | impoverishment; bereavement (of an orphan)
+vorfnisht | adv | poorly, wretchedly, miserably
+voroj | other | wet
+vorvë | other | pot
+vorvoll | other | bulb
+vorresë | other | grave
+vorreze | other | cemetery
+vorros | other | bury, inter
+vorrtar | other | sexton, undertaker
+voshtinë | other | honeycomb
+votar | other | voter
+votëm | other | gait
+votonjës | other | voter, elector
+votrore | other | witch who tells fortunes by using ashes
+vovë | other | bogey, scarecrow
