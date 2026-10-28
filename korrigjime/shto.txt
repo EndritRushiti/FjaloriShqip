@@ -60785,3 +60785,40 @@ sorua | other | heap, pile
 sorollas | other | turn, wind, revolve, rotate
 soropuç | other | outcast
 sorrak | other | male crow; wretch
+# ── mannshto.tsv ──
+cakllimë | noun | gnashing of teeth
+sotëparë | adv | every day
+soval | other | poisonous snake that strikes with its tail
+sovalkë | other | shuttle
+spaku | adv | at least
+spallë | other | shoulder
+spanaq | other | spinach
+spanoj | adj | beardless
+sparagë | other | asparagus
+sparang | other | asparagus
+sparëngje | other | asparagus
+spërengj | other | asparagus
+sparanjoj | other | save, economize
+spari | adv | in the beginning, first of all
+sparmacetë | other | spermaceti
+spermacetë | other | spermaceti
+sparrangjisem | other | wander, err
+sperritem | other | go out, be extinguished
+spastronjës | adj | cleaning, cleansing
+specë | other | pepper
+spenzë | other | expense, expenditure
+spenxim | other | expense, expenditure
+spenxoj | other | expend, spend
+spenxues | other | caterer
+speranc | other | hope
+spërfill | other | neglect, ignore
+spërhell | other | sharpen, point
+spërk | adj | beardless
+spërndris | other | brighten, lighten, polish
+spërndritur | adj | bright, radiant
+spërthej | other | analyse
+spërthyerje | other | analysis
+spërthiket | adj | lively, brisk
+spërvjer | other | tent, pavilion
+spërvjerr | other | tent
+spicatem | other | gorge oneself, cram
