@@ -61853,3 +61853,52 @@ shkëlqerët | adj | bright, alive
 shkëlqerore | other | lamp
 shkëlqesë | other | brilliance, polish, shine; Excellency
 shkëlqihem | other | be roasted through
+# ── mannshto.tsv ──
+shkëlyeshëm | adj | bright, brilliant
+shkëlvesh | other | flay; bark (a tree)
+shkëlxej | other | sparkle, shine, brighten
+shkëlzej | other | sparkle, shine
+shkëlxim | other | brilliance, splendour, sparkle
+shkëlxyeshëm | adj | bright, brilliant
+shkëmes | other | weed (by cutting), prune, lop
+shkëmpët | adj | rocky
+shkënaqsi | other | discontent
+shkënd | other | garment
+shkëndi | other | flash, spark
+shkëndillë | other | spark
+shkëndis | other | sparkle, flash
+shkëndoj | other | sparkle
+shkëndris | other | sparkle, glisten
+shkëndishëm | adj | sparkling, glowing
+shkëndizë | other | spark; firefly
+shkëndritje | other | sparkle, twinkle, gleam
+shkënxej | other | shine, flash, sparkle
+shkënxim | other | flash, sparkle
+shkërbadërsi | other | monstrosity
+shkërbim | other | imitation
+shkërbyes | adj | imitative; imitator
+shkërbyeshëm | adj | imitable
+shkërfitem | other | blossom
+shkërhis | other | thrive
+shkërmim | other | scraping, burrowing, excavation
+shkërmoj | other | scrape, burrow, excavate; demolish
+shkërrmoq | other | pound, crush
+shkërmoqshëm | adj | friable, crumbly
+shkërvitje | other | scraping, scratching
+shkërzej | other | care
+shkëshillim | other | dissuasion
+shkëshilloj | other | dissuade
+shkëthej | other | divert, deflect
+shkëthem | other | stretch oneself, revive
+shkill | other | whisper
+shkim | other | extinguish, put out; wipe out
+shkimë | adj | put out, extinguished; wiped out
+shkimit | adv | utterly
+shkindërr | other | resin
+shkishnoj | other | excommunicate
+shkitem | other | come apart, separate, break away
+shkitës | adj | slippery
+shkitje | other | slip, slide; detachment, separation
+shkitse | other | sledge
+shkithem | other | whimper
+shkjepul | adj | lame
