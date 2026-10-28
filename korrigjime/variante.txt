@@ -2945,3 +2945,17 @@ tërfas | turfulloj | alternative
 tërfilloj | turfulloj | alternative
 tërfllamë | tërfamë | alternative
 tërfllas | turfulloj | alternative
+# ── Mann 1948 ──
+tërfonjë | tërfojë | alternative
+tërfojnë | tërfojë | alternative
+tërfu | tërfojë | alternative
+tërfule | tërfolë | alternative
+tërfytës | tërfyc | alternative
+tërhanik | tërhan | alternative
+tërhozshëm | tërhozët | alternative
+tërhuzem | tërhozem | alternative
+tërmalej | tërmal | alternative
+tërnaltë | tërmal | alternative
+tërnokop | tarnagop | alternative
+tërpjetë | tërmal | alternative
+tërsëllimë | tërsëllim | alternative

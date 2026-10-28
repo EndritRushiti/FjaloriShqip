@@ -63339,3 +63339,54 @@ tërfas | other | snort
 tërfilloj | other | snort
 tërfllamë | other | snort
 tërfllas | other | snort
+# ── mannshto.tsv ──
+tërfonjë | other | clover
+tërfojnë | other | clover
+tërfu | other | clover
+tërfolë | other | precept, instruction; report, bulletin
+tërfule | other | precept
+tërfurcë | other | crutch
+tërfurkth | other | scorpion
+tërfurkore | other | grallatorial birds
+tërfyc | other | squirter, syringe; pipe, tube
+tërfytës | other | squirter
+tërgjoj | other | reprove, reprimand; bully; seek a bride on behalf of another
+tërgjues | other | third party, proxy
+tërhafem | other | rush at
+tërhan | other | porridge or thick soup of wheatmeal soaked in buttermilk
+tërhanik | other | thick soup
+tërhedh | other | throw in disorder, disarrange
+tërhidhem | other | tumble over
+tërhjeksi | other | attractiveness
+tërhollës | other | rolling-pin
+tërhos | other | snatch away, snap, sweep away
+tërhozem | other | rage, rear, shy, gesticulate in anger
+tërhozët | adj | furious, raging
+tërhozshëm | adj | furious
+tërhul | adv | crosswise, athwart
+tërhulët | adj | wrong
+tërhuzem | other | rage
+tërij | other | mend, repair
+tërjaki | other | amateur, fan, enthusiast, addict
+tërkaç | other | wool-card
+tërkul | other | pitchfork
+tërma | adv | up, uphill, upwards; upright
+tërmalë | other | slope, hill, rise, ascent
+tërmalej | adv | uphill
+tërmaltë | adj | steep, rising sharply
+tërmegem | other | rage, rave
+tërmegët | adj | furious, raging
+tërnaltë | adv | uphill
+tërnim | other | change, variation, fluctuation
+tërnokop | other | hoe
+tërnjë | adv | always
+tërpas | adj | transparent
+tërpjetë | adv | uphill
+tërpni | other | dodder
+tërsëllim | other | shock, thrill, shudder, convulsion
+tërsëllimë | other | shock, shudder
+tërshërt | adj | oaten
+tërtër | other | barocco, coils, flourishes
+tërtërcë | other | a small-leafed plant
+tërthoj | other | cross, cross-breed
+tërthorcë | other | cross-piece, cross-beam, sleeper
