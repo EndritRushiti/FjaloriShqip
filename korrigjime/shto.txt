@@ -61166,3 +61166,35 @@ surrugjatë | adj | oval
 sutlaç | other | rice pudding
 sutulloj | other | fling down, floor
 suvajkë | other | shuttle
+# ── mannshto.tsv ──
+suvari | other | horseman, mounted policeman
+suvran | adj | sovereign
+svagulloj | other | spread, expand (of light); shimmer, gleam; dawn
+svugulloj | other | shimmer, dawn
+svar | other | hang
+svarë | adv | trailing
+svaras | adv | trailing
+svarsh | adv | trailing
+svarna | adv | trailing
+svarg | other | unhook, take down; hang
+svark | other | unhook
+svargëri | other | suspense
+svaris | other | drag, trail
+svarris | other | drag, trail
+svaroj | other | trail
+svecun | adj | simple
+sverdh | other | turn yellow
+sverdhoj | other | turn yellow, cause to fade
+sverk | other | nape
+svishem | other | undress
+svetëtim | other | degeneration
+svetnim | other | degeneration
+svetëtoj | other | cause to degenerate
+svërdhij | other | cram
+svërdhis | other | cram
+svicëran | adj | Swiss
+svican | adj | Swiss
+svogëlim | other | diminution, reduction
+svogëloj | other | diminish, reduce
+sybardhje | other | the white of the eyes
+syçkë | other | little eye; bud; hole (in a stocking)
