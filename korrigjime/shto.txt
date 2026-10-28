@@ -64153,3 +64153,40 @@ theatrar | adj | theatrical
 thefqafë | other | waterfall; breakneck precipice, dangerous place
 # ── mannshto.tsv ──
 thartues | adj | souring, acidifying; acidifier
+# ── mannshto.tsv ──
+thekatueshëm | adj | hurried, eager, hasty, anxious, flurried
+thekël | other | peg, wedge; twig
+thekërr | other | rye
+thekëris | other | toast
+thekërt | adj | of rye
+theknaje | other | rye (collective)
+thekënore | other | barley-field
+thekërore | other | barley-field
+thekris | other | toast
+theksë | other | accent, stress
+thelaz | other | small slice
+thelemoj | other | slice up
+thellimë | other | will, wish
+theloj | other | slice, carve up
+thellas | adv | deeply
+thellazi | adv | deeply
+thellët | adj | deep
+thelli | other | depth
+thellonjës | adj | probing, thorough
+thellsi | other | depth
+thellsinë | other | depth, deep place
+thellsisht | adv | deeply
+thembën | adj | female
+thenbër | other | heel
+themelisht | adv | fundamentally
+themelos | other | found, establish
+themelonjës | other | founder
+themelshëm | adj | fundamental, basic
+themeltë | adj | founded, established
+themeni | other | pact, convention, agreement
+themethashe | other | twaddle, tittle-tattle, hearsay
+thëmth | other | dug, teat (of a cow)
+theollog | other | theologian
+theolog | other | theologian
+theollogji | other | theology
+theori | other | theory
