@@ -60424,3 +60424,30 @@ sfingji | noun | bayonet
 sfongar | noun | sponge
 sfunk | noun | crop or breastbone of bird
 sfurgje | noun | tongs
+# ── mannshto.tsv ──
+sfurkth | noun | crop or breastbone of bird
+sfuturoj | verb | snort
+sfynos | verb | wedge
+sfytyrij | verb | snort, sniff, show anger
+sfytyrim | noun | snort
+sicilla | pron | each (fem.)
+sicilis | verb | allot, assign
+siciliti | noun | detail
+sicilitim | noun | assignment, empowerment
+siçdo | pron | something, anything
+sidozot | adv | however
+sidhe | conj | as well as
+siellë | adj | brought; polite, courteous
+siellës | adj | bringing, yielding, supplying; turning, spinning, revolving; hand-crank, winder, jack
+siellje | noun | bringing; turn, expression; manner, bearing; manners, behaviour
+siellme | noun | turn, revolution, spin
+siellshëm | adj | polite
+sigurshëm | adj | sure, safe, secure, reliable
+sikar | noun | murderer
+sikarth | noun | bladder senna
+sikushdo | pron | anyone, everyone
+sikushi | pron | everyone
+sile | noun | bottle; flash, dazzle
+silfjan | noun | basil
+sillidó | pron | whoever, each, any
+sillidota | pron | each
