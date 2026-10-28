@@ -61551,7 +61551,6 @@ shëndetsi | other | health, hygiene
 shëndetsim | other | recovery
 shëndij | other | buzz, hum
 shëndoshsi | other | robustness, sturdiness
-shëndri | other | shine, glory
 shëndrij | other | shine
 shëndrillë | other | roof-shingle
 shëndrim | other | shine, glitter
