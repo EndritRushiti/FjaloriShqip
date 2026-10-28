@@ -62599,3 +62599,42 @@ shtercë | other | old woman
 shterckë | other | syringe, water-pistol
 shterç | other | irascible old person
 shterem | other | run dry, be exhausted
+# ── mannshto.tsv ──
+shterme | other | drying up, evaporation
+shteronjës | adj | draining
+shterpar | other | two-year-old goat (not yet bred)
+shterpuer | other | two-year-old goat
+shterpim | other | sterilisation
+shterpnoj | other | sterilise
+shterpsi | other | barrenness, sterility
+shterpsim | other | sterilisation
+shterpsinë | other | sterility
+shterpsirë | other | sterility
+shterpsohem | other | become sterile
+shterpsoj | other | sterilise
+shterrje | other | drainage
+shtesërroge | other | rise (in pay)
+shtetsi | other | citizenship
+shtetzim | other | nationalisation
+shtetzoj | other | nationalise
+shtezë | other | hold (of a ship)
+shtëkur | other | stretch, expand
+shtëkurem | other | stretch, expand
+shtëllij | other | unfold, unfurl; explain
+shtëllis | other | unfold
+shtëmeng | other | turn aside
+shtëmënk | other | turn aside
+shtëmanktë | adj | left, left-handed
+shtëngë | other | pole, bar
+shtënoj | other | oppress, depress, cramp, stunt
+shtënohem | other | fail, be limp, be stunted
+shtëpiakës | other | tenant, householder
+shtëpiar | adj | domestic, household
+shtëpizoj | other | house; domesticate
+shtëpiresë | other | housewife
+shtëpireshë | other | housewife
+shtërbllok | other | den, lair
+shtërgatë | other | storm, gale, squall
+shtërgatshëm | adj | stormy
+shtërgi | other | tube, pipe
+shtërgti | other | shingles, herpes
