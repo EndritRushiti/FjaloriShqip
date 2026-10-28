@@ -61163,7 +61163,6 @@ surullim | other | turn, revolution
 surup | other | roof-gutter
 surril | other | water-spout, jet, outlet pipe, spring
 surrugjatë | adj | oval
-sushë | other | heatwave, drought
 sutlaç | other | rice pudding
 sutulloj | other | fling down, floor
 suvajkë | other | shuttle
