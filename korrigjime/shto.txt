@@ -62248,3 +62248,42 @@ shpatullore | other | shoulder-strap
 shpejtni | other | speed, haste
 shpejtsi | other | speed
 shpejtueshëm | adj | quick, hasty
+# ── mannshto.tsv ──
+shpendve | other | dwarf-elder
+shpenkoj | other | disembowel, eventrate
+shpenxatuer | other | steward, treasurer, purser
+shpenxë | other | cost, expense
+shpenxim | other | expense, expenditure
+shpenxonj | other | spend
+shpenzej | other | spend, expend
+shpenxues | other | spender
+shpëndë | other | bird
+shpestinë | other | bird-life; aviary
+shpesurina | other | birds, fowl
+shpeshoj | other | densify; be frequent; reiterate
+shpeshti | other | density, frequency
+shpeshtore | other | bird-cage, aviary
+shpeztore | other | aviary
+shpeshtsi | other | density
+shpëlamë | adj | washed out, rinsed; faded
+shpëlaqët | adj | washed-out, dun
+shplaqët | adj | washed-out
+shpëlqej | other | displease
+shpëlqim | other | displeasure
+shpëli | other | edge, seam, border
+shpëlvej | other | rout, disperse
+shpëlvierr | other | overthrow, rout
+shpënej | other | hope
+shpënetë | other | expectancy
+shpënesë | other | hope
+shpënesoj | other | hope
+shpënetkë | other | spleen
+shpënës | adj | driving, propelling
+shpënje | other | drive, propulsion; transfer
+shpërbamje | other | decomposition
+shpërbes | other | perjurer
+shpërbesoj | other | cause to break one's word
+çpërblenj | other | redeem, repay
+shpërblestar | other | redeemer
+shpërçmim | other | devalorisation; discredit
+shpërçmoj | other | devalue, debase; despise, discredit
