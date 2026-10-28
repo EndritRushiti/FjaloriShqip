@@ -2893,3 +2893,15 @@ tempeshirë | tebeshir | alternative
 tentonj | tendoj | alternative
 tengel | tegel | alternative
 tengjere | tenxhere | alternative
+# ── Mann 1948 ──
+teollogji | teologji | alternative
+tepërsi | tepri | alternative
+tepërshëm | tepërt | alternative
+teracë | tarracë | alternative
+terebinthinë | terebentinë | alternative
+terik | terig | alternative
+ternagop | tarnagop | alternative
+tërnagop | tarnagop | alternative
+tërnakop | tarnagop | alternative
+termsinë | terma | alternative
+terzicë | rrobaqepës | alternative

@@ -63190,3 +63190,43 @@ tenët | adj | tight
 tengel | other | thong, strap
 tengjere | other | pot, saucepan
 tengjë | other | whooping-cough
+# ── mannshto.tsv ──
+tenkë | other | tench
+tentene | other | lace, edging
+tentuome | other | temptation
+tenjas | other | corrupt, moth-eat; mortify
+tenjos | other | moth-eat, corrupt, blight
+teollogji | other | theology
+tepërsi | other | excess
+tepërshëm | adj | excessive
+tepkë | adv | just as, exactly as
+tepore | other | field of spelt
+teprazi | adv | excessively
+teprohem | other | abound; be excessive
+teracë | other | terrace
+terebinthinë | other | turpentine
+tereleke | other | sandal
+tereris | other | trill, tralala
+tererisje | other | trill; musical scale
+terezis | other | balance, weigh
+terig | other | breeze, west wind
+terik | other | breeze
+terinë | other | dry land, mainland, continent, territory
+terjak | adj | laconic, curt
+terjas | other | try, attempt
+terjasje | other | trial, attempt
+terkavile | adv | zigzag
+terkë | other | asthma; broken-windedness
+terlë | other | colony of mountain huts, shepherds' colony
+termë | adj | dry
+ternagop | other | hoe
+tërnagop | other | hoe
+tërnakop | other | hoe
+ternoj | other | change, fluctuate, alternate, vary
+ternuerazi | adv | alternately
+terpo | adv | up, upwards, uppermost
+termsinë | other | topsoil
+tertil | other | gold or silver braid
+tertohem | other | frown, scowl
+terza | other | shallows
+terzicë | other | tailoress
