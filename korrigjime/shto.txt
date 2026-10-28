@@ -63282,3 +63282,60 @@ tezgja | other | bench; loom
 tezgjere | other | mortar-tray borne by two men
 # ── mannshto.tsv ──
 tetrroksh | adj | eightfold; unit of eight
+# ── mannshto.tsv ──
+tëboj | other | drive away, scare off, chase off; banish, exile
+tëbuar | adj | in heat (of animals)
+tëbore | other | snow
+tëdill | other | loom
+tëhapem | other | lunge out, make for, strike out (at)
+tëhapët | adj | ample, wide
+tëhar | other | weed; trim, prune
+tëhelk | other | pull, draw
+tëheq | other | pull, draw
+tëhillem | other | covet, desire
+tëhjek | other | pull
+tëhjellmeni | other | desire, lust
+tëhollë | other | faint, swoon
+tëhuej | other | remove, take away; estrange, alienate
+tëhuell | other | roll out, flatten (pastry)
+tëhull | other | roll out
+tëktëk | adv | pitapat
+tëkur | other | shrink, contract
+tëkurem | other | shrink, contract
+tëkurës | adj | contracting
+tëkurje | other | contraction, shrinkage
+tëkurshëm | adj | contracting, contractible, shrinkable
+tëkurr | other | shrink
+tëkurrni | other | contraction
+tëlana | other | waste, scraps
+tëlinda | other | drawers, pants
+tëlyn | other | butter
+tëlyore | other | buttery, dairy
+tëmall | other | molar tooth
+tëmallë | other | molar
+tëmalsh | adj | toothed
+tëndyeshëm | adj | loathesome
+tëndyhem | other | loathe, feel nauseated
+tëngëllis | other | ring, tinkle
+tëngsyna | other | chill, the shivers
+tënzonë | other | master, overlord
+tëpjetë | adj | perpendicular, vertical; incline, slope
+tëposhtizë | other | slope, drop
+tërazi | adv | as a whole
+tërbacak | adj | hydrophobic
+tërbesh | other | brushwood, scrub
+tërbonj | other | enrage, madden
+turbonj | other | enrage
+tërbosh | adj | raging, rabid
+tërçuk | other | skin-bag, skin bottle; pouch; bellows
+tërdjelë | other | gimlet
+tërdheçës | adj | reptile
+tërfuqishëm | adj | almighty
+tërndritshëm | adj | most excellent
+tërsej | adv | wholly
+tërsoj | other | integrate, totalise
+tërfamë | other | snort
+tërfas | other | snort
+tërfilloj | other | snort
+tërfllamë | other | snort
+tërfllas | other | snort
