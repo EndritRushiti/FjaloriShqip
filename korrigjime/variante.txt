@@ -3518,3 +3518,12 @@ verdhmeni | verdhje | alternative
 verdhsinë | verdhsi | alternative
 verdhsirë | verdhsi | alternative
 vergjeri | virgjëri | alternative
+# ── Mann 1948 ──
+verilemje | verilindje | alternative
+veriprendim | veriperëndim | alternative
+vernice | vernik | alternative
+verniq | vernik | alternative
+verth | verdh | alternative
+vërzomë | verrzom | alternative
+veskshëm | veskës | alternative
+veston | veson | alternative

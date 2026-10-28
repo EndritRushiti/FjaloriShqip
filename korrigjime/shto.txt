@@ -64918,3 +64918,33 @@ verëpirës | other | wine-bibber
 verëz | other | Y-shaped yoke-pin
 vergjë | other | pine
 vergjeri | other | virginity
+# ── mannshto.tsv ──
+veril | other | purse
+verilemje | other | north-east
+veriprendim | other | north-west
+verishte | other | alder (prob.)
+verishtë | other | heap of grain
+vernice | other | varnish
+verniq | other | varnish
+vernikoj | other | varnish, lacquer
+veronjë | other | dye-yielding tree, larch
+verth | other | turn yellow
+ververe | other | twaddle, chatter
+verzelik | other | bracelet
+verrç | other | jaundice
+verrile | other | spinning-top
+verrzom | other | byssus spun by mussels; trawling-net
+vërzomë | other | trawling-net
+vesëm | adj | immoral
+vesët | adj | dewy
+veskë | other | ovule
+veskës | adj | charming
+veskshëm | adj | charming
+vesmirë | adj | moral
+vesmirsi | other | morality
+vesndytë | adj | immoral
+vestar | adj | immoral
+veston | other | fall (of dew)
+veshak | adj | eared, long-eared; a bird
+veshatak | adj | eared, long-eared; long-eared bat
+veshezë | other | little ear; handle of a pot; kind of distaff
