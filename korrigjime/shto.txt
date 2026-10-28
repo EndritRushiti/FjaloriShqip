@@ -63876,3 +63876,61 @@ truçkaq | adj | coiled up (as a snake)
 truçkë | other | cheese-form
 truçkoj | other | flop
 true | other | curse; sacrifice
+# ── mannshto.tsv ──
+truetar | other | blasphemer; dedicatory, blasphemous
+trues | other | blasphemer
+truesë | other | table
+truezar | other | money-changer
+trufulloj | other | snort
+truholle | adj | shrewd
+truj | other | rot, decay, destroy
+trujë | other | fortress, dungeon
+truk | other | trick
+trullohem | other | be confused, be bewildered
+trulloj | other | confuse, bewilder, daze
+trumbar | other | fireman
+trumbë-thithse | other | suction pump
+trumbull | adj | turbid, cloudy
+trumbullim | other | turbulence, uproar
+trumbullirë | other | uproar
+trumbulloj | other | stir up, cloud
+trumbulluar | adj | turgid, cloudy, muddy; disturbed
+trumc | other | sparrow
+trumhas | other | startle, frighten, bewilder, dumbfound
+trumhasem | other | be startled, be dumbfounded
+trunç | other | bronze, brass
+trunçerina | other | bronze-ware
+trungim | other | truncation, amputation
+trungoj | other | truncate, amputate
+trungth | other | stem
+trungullim | other | brainstorm, mental derangement
+trunk | other | trunk
+trunsh | other | bronze
+trunxh | other | bitter orange
+trupmadhsi | other | corpulency
+trupnisht | adv | bodily, corporally
+trupsim | other | embodiment
+trupsoj | other | embody, incorporate
+trupshëm | adj | corporal
+trupshëndosh | adj | stout, portly
+trupth | other | small body, particle, corpuscle
+trupthin | adv | plumb, flop
+trupull | other | flock, tuft
+trupzim | other | embodiment
+trupzoj | other | embody
+trus | other | press, compress, squeeze; suppress, oppress
+trusje | other | pressure, compression; suppression, oppression
+truskë | other | marsh parsley, sedge
+trusni | other | pressure
+trushëm | adj | brainy
+trushij | other | tear up, destroy, massacre
+trushkej | other | outrage, violate, desecrate
+trushkoj | other | desecrate
+trushkim | other | outrage, violation, desecration, sacrilege
+trushkimtar | adj | sacrilegious, profane
+trushkonjës | adj | sacrilegious
+trushkyeme | other | sacrilege
+trushkyes | adj | sacrilegious; profaner
+trutrashë | adj | stupid, brainless
+truthatë | adj | brainless
+truvese | other | table
