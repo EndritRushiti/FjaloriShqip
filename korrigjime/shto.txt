@@ -62181,3 +62181,41 @@ shnotshëm | adj | reversible, revocable
 shnjerzim | other | inhumanity; debasement
 shnjerzisht | adv | inhumanly; basely
 shnjerzoj | other | dehumanise
+# ── mannshto.tsv ──
+shnjesh | other | ungird
+shnjis | other | unstick
+shnjollë | other | blemish, stain, mark
+shnjon | other | godparenthood
+shogem | other | grow bald
+shogan | adj | bald
+shoglinë | other | bare ground, scree
+shogrim | other | dedication, consecration, devotion; sacrifice
+shogroj | other | dedicate, consecrate, devote; sacrifice
+shojë | other | arch (of the foot)
+shojtje | other | extinction, cancellation
+shoksim | other | accompaniment; retinue
+shoksoj | other | accompany
+shoktoj | other | accompany
+sholarem | other | tremble, shudder
+sholarë | other | tremor, trembling
+shollar | other | cobbler
+shollëz | other | small sole; small sandal
+shondolem | adj | awkward, foolish
+shoner | other | schooner
+shoqnim | other | association
+shoqnohem | other | associate (with), join
+shoqnues | adj | accompanying; companion
+shoqnueshëm | adj | sociable
+shoqnishëm | adj | associable
+shoqollogji | other | sociology
+shoqsim | other | association
+shoqshëm | adj | sociable
+shortëti | other | witchcraft, magic
+shortim | other | graft, grafting
+shortje | other | sort, kind
+shortlik | other | hapless person
+shorttar | other | fortune-teller
+shortthënës | other | fortune-teller
+shortzi | adj | hapless
+shoshar | adj | holed, perforated
+shoshare | other | sieve
