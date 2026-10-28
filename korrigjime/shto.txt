@@ -61340,3 +61340,77 @@ sharlagan | other | sesame oil
 sharmatim | other | disarmament
 sharmatoj | other | disarm
 sharmend | other | vine shoot
+# ── mannshto.tsv ──
+shartak | other | graft, grafting
+shartas | adv | rashly
+shartojcë | other | grafting-knife
+sharvarë | other | trousers
+sharrak | other | copse, thicket, clump of trees
+sharraperë | other | frivolous excuse
+sharrar | other | sawyer
+sharratuer | other | sawyer
+sharrtar | other | sawyer
+sharronjës | other | sawyer
+sharros | other | saw
+shasme | other | shot, grapeshot
+shasma | other | shot
+shazme | other | shot, grapeshot
+shasti | other | amazement, bewilderment, stupor
+shashti | other | amazement
+shashtis | other | amaze, bewilder
+shatërkaz | other | long narrow hoe
+shatoj | other | hoe, cultivate
+shatorr | other | tent
+shatore | other | tent
+shatorre | other | tent
+shatorez | other | flap of the ear, concha
+shatorth | other | little umbrella
+shatorzohet | other | spread out like an umbrella
+shatrapatra | other | twaddle, gibberish
+shattar | other | hoer, cultivator
+shavren | other | shagreen
+shavullim | other | evaporation
+shavulloj | other | let out steam
+shbaj | other | undo, unfasten
+shballancim | other | unbalancing
+shballancoj | other | unbalance
+shbardh | other | whitewash
+shbarkim | other | disembarkation, landing
+shbarkoj | other | disembark, land
+shbarrim | other | unburdening, lightening
+shbarroj | other | unburden, lighten
+shbashkim | other | separation, disunity
+shbashkoj | other | separate, disunite
+shbaticë | other | ebb, low tide
+shbij | other | destroy, demolish
+shbind | other | dissuade
+shbindje | other | dissuasion
+shbiroj | other | penetrate
+shbirues | adj | penetrating, inquisitive
+shbojatis | other | discolour
+shboq | other | pour out
+shbordoj | other | pierce, stab
+shbras | other | empty
+shbrazje | other | emptying, discharge
+shdëmtim | other | compensation, reparation, damages
+shdëmtoj | other | compensate, reimburse
+shdamtim | other | compensation
+shdamtoj | other | compensate
+shdëmim | other | compensation
+shdëmoj | other | compensate
+shdeshem | other | get undressed
+shdetyrim | other | release, exoneration, exemption
+shdetyroj | other | release, exonerate, exempt
+shdëfrej | other | give vent to, vent
+shdëfrim | other | venting, relief, recreation
+shdërdhij | other | undo, unknit
+shdërdhis | other | undo, unknit
+shdjergim | other | childbed
+shdoganim | other | customs clearance
+shdoganoj | other | pass through customs
+shdrejtazi | adv | indirectly
+shdrejtë | adj | indirect
+shdrejtim | other | deflection, misdirection
+shdrejtoj | other | misguide, misdirect
+shdrejtonjës | adj | misleading
+shdris | other | shine, flash
