@@ -1837,3 +1837,13 @@ ngushulloj | ngushëlloj | alternative
 bubunjos | paksoj | alternative
 # ── Mann 1948 ──
 brumules | përmles | alternative
+# ── Mann 1948 ──
+skyftér | skifter | alternative
+smadhim | zmadhim | alternative
+smelç | smalt | alternative
+smiloj | smilas | alternative
+smundtore | smutore | alternative
+soçëm | sotshëm | alternative
+sodçëm | sotshëm | alternative
+sodshëm | sotshëm | alternative
+sodëm | sotëm | alternative

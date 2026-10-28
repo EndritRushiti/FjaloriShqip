@@ -60708,3 +60708,34 @@ skutar | noun | armour, coat of mail; shield
 skutelë | noun | dome
 skutem | verb | waddle, get along
 skutëtar | noun | miner
+# ── mannshto.tsv ──
+skutuliq | other | corner, nook, crevice
+skutoj | other | block up, bung
+skuturë | other | ado, fuss
+skuthni | other | sponging, hypocrisy
+skyftér | other | hawk
+slugos | other | dislocate, wrench out of socket
+sllobë | other | character, letter
+smadhim | other | enlargement, magnification
+smakth | other | afterbirth (of animals)
+smelç | other | enamel
+smilar | other | plane, chisel
+smilas | other | fondle, caress, pamper, spoil
+smilatë | other | fondling, caressing
+smilatës | other | flatterer, pamperer
+smiloj | other | fondle, caress
+smirtar | adj | jealous, malicious
+smirzi | adj | jealous, malicious, envious
+smutore | other | hospital, nursing-home
+smundtore | other | hospital
+smyrnë | other | myrrh
+sndërulshëm | adj | indeclinable (gram.)
+snel | adv | high, up high
+sobatar | other | stove-fitter
+soçëm | adj | present, of today
+sodçëm | adj | of today
+sodshëm | adj | of today
+sodëm | adj | today's, present-day
+sodom | other | exterminate, annihilate, devastate
+sogar | other | rogue
+sogari | other | roguery; mob, crowd
