@@ -59095,3 +59095,45 @@ qirohem | verb | clear one's throat
 qirthi | adv | bolt upright
 qirthin | adv | bolt upright
 qirues | adj | purgative
+# ── mannshto.tsv ──
+qiruet | adj | clean
+qisar | noun | poisonous variety of ivy
+qisojet | adv | of this kind
+qishtu | adv | thus, like this
+qitallet | verb | (the weather) is clearing up
+qitas | adv | at full speed
+qitaqit | adv | at full speed
+qitash | adv | just now, at the moment
+qitem | verb | be put out, be exposed
+qitër | noun | citrus fruit, citron; dirty
+qitme | noun | putting out
+qitu | adv | just here, right here
+qitharaq | noun | variety of pastry
+qitharë | noun | harp; guitar, lyre; zither; mandoline
+qitharis | verb | harp, play on stringed instrument
+qitherje | noun | ringdove, wood pigeon
+qiveris | verb | govern
+qivernis | verb | govern
+qivernitar | noun | governor, ruler
+qoftëlargu | noun | the Devil
+qokaç | noun | woodpecker
+qolli | noun | case, occasion, adventure, happening
+qollim | noun | case, occasion
+qollimas | adv | by chance, at random
+qollimazi | adv | by chance, at random
+qollitme | noun | adventure
+qolloj | verb | happen
+qollopitë | noun | kind of cake
+qomë | noun | plum- or cherry-juice; progress
+qoqar | noun | squire, feudal lord, gentleman
+qorajkë | noun | blind girl or woman
+qorfishek | noun | firework, rocket
+qorfyshek | noun | firework, rocket
+qorim | noun | blindness
+qorkë | noun | blind girl or woman
+qorni | noun | blindness
+qorohem | verb | become blind
+qorollis | verb | stumble, trip (of horses)
+qorrulis | verb | stumble, trip
+qoros | verb | blind
+qortimtar | adj | disciplinary, corrective, punitive
