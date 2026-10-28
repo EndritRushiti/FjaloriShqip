@@ -2397,10 +2397,6 @@ shkumez | shkumës | alternative
 # ── Mann 1948 ──
 shkurc | shkurtë | alternative
 shkurdhis | shkurdis | alternative
-shkurtalac | shkurtabiq | alternative
-shkurtalaç | shkurtabiq | alternative
-shkurtalak | shkurtabiq | alternative
-shkurtalec | shkurtabiq | alternative
 shkus | shkund | alternative
 shkushëllim | shkushullim | alternative
 shkushulloj | shkurajoj | alternative

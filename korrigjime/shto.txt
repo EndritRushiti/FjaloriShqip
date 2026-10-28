@@ -62072,10 +62072,6 @@ shkurc | other | quail
 shkurdis | other | put out of tune; put out of gear; set at odds
 shkurdisje | other | breakdown; discord
 shkurdhis | other | put out of tune
-shkurtalac | adj | dwarfed, stunted
-shkurtalaç | adj | dwarfed
-shkurtalak | adj | dwarfed
-shkurtalec | adj | dwarfed
 shkurtezë | other | lot
 shkurticë | other | lot, fate; summary
 shkurth | other | high-liver
