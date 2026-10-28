@@ -63829,3 +63829,50 @@ trobolicë | other | butter-churn
 troçkë | other | scrap of bread
 trohallë | other | rock eroded by water
 trokale | other | little bell
+# ── mannshto.tsv ──
+trokashkë | other | mill-clapper
+trokçe | other | clapper; door-knocker; cowbell; dolt
+trokçë | other | whelk, winkle
+trokëllas | other | knock, tap
+trokëllis | other | knock
+trokollis | other | knock
+trokëlloj | other | knock
+trokulloj | other | knock
+trokullim | other | knock
+trokolar | other | beggar, down-and-out
+trokomel | other | maize
+trokopallë | adj | silly; fool
+trokthi | adv | at a trot
+trolim | other | fatigue, exhaustion; planting-out; seedling
+troloj | other | overwhelm, fatigue, exhaust, tire
+tromarë | other | fear
+trombetë | other | trumpet
+tronbetë | other | trumpet
+trombë | other | trunk, proboscis
+trombim | other | trumpeting, blasting; boost
+trombuk | other | tree-stump
+tromolluz | adj | stout, fat
+trondalis | other | pilfer
+trondi | other | knock, buffet, shake, jolt
+trondis | other | shake, jolt, disturb
+trongull | other | cucumber
+tropare | other | chant, hymn
+tropiko | other | dropsy
+tropshëm | adj | scrubby, overgrown
+troskë | other | any hard substance; couchgrass; donkey's shoe; razor-blade
+troshis | other | crumble; dilapidate, break down, crush
+troshitje | other | crumbling, dilapidation; break-down, dejection
+troshitur | adj | crumbled; broken, dejected, downcast
+trovoloj | other | trouble, nauseate
+trozhdë | other | yellow variety of clover or vetch
+trubullim | other | clouding; disturbance, uproar
+trubullimtar | adj | turbulent, noisy; disturber
+trubullirë | other | disturbance
+trubulloj | other | stir up, cloud, trouble
+trubulltë | adj | turbid, muddy
+trubullues | adj | disturbing
+trucoj | other | mass, amass
+truçkaq | adj | coiled up (as a snake)
+truçkë | other | cheese-form
+truçkoj | other | flop
+true | other | curse; sacrifice
