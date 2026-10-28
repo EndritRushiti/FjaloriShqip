@@ -64234,3 +64234,51 @@ thëthihem | other | live (by or on)
 thëthim | other | suction
 thëthinjës | adj | sucking, absorbent
 thëthitës | adj | sucking, imbibing, absorbent; sucker
+# ── mannshto.tsv ──
+thierrëz | other | lentil
+thij | other | turn grey (of hair); dissemble
+thiaç | adj | grey-haired, grey; white (of cows)
+thioç | adj | grey-haired
+thiosh | adj | grey-haired
+thikas | adv | vertically, steeply, sheer; incisively
+thikazi | adv | vertically
+thikëbas | other | cutler
+thikëbërës | other | cutler
+thiksë | other | ploughshare
+thiksisht | adv | vertically, sheer
+thiktar | other | cutler
+thiliqe | other | slip-knot, noose
+thillonj | other | tell, explain
+thimaç | adj | grey (of horses)
+thiman | adj | grey
+thimë | adj | grey-haired, hoary
+thimiamë | other | incense, perfume
+thimjamë | other | incense
+thimiator | other | censer
+thimjator | other | censer
+thimione | other | shock, stook (of sheaves)
+thimios | other | provoke, annoy
+thimthak | adj | stinging, prickly, stabbing
+thimthim | other | stinging, pricking
+thimthoj | other | sting, prick, goad
+thini | other | swinishness
+thinjaç | adj | greyish, grey, iron-grey
+thinjak | adj | greyish
+thinjan | adj | greyish
+thir | other | soot
+thirreri | other | call, shout, cry
+thirrët | adj | sooty, soot
+thirrmeni | other | calling, occupation
+thirrtar | other | crier, herald
+thirrtore | other | vocative (gram.)
+thitak | other | pork
+thithëz | other | teat, dug
+thithtore | other | suction, supping, sipping
+thithoj | other | suckle
+thjamë | other | incense
+thjamos | other | incense, perfume
+thjatro | other | theatre
+thjerishtë | other | small variety of lentil
+thjerishtëm | adj | ashen, grey
+thjeshtëm | adj | simple, primary, elemental; cardinal (of numbers)
+thjeshtas | adv | purely, simply
