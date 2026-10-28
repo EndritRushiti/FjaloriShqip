@@ -61445,3 +61445,52 @@ shëjtueshëm | adj | notable, noteworthy
 shekëz | other | millwheel
 shekroj | other | hallow, sanctify, consecrate
 sheleke | other | ewe-lamb (about one year old)
+# ── mannshto.tsv ──
+shelgush | other | wicket, osier
+shelkë | other | wooden box (for cutlery, salt, etc.)
+shelqet | other | willow bank
+shelqërar | other | forked peg, tent peg
+shelqëruer | other | forked peg
+shelqi | other | water-melon
+shember | other | rival, competitor
+shemberi | other | rivalry
+shembri | other | rivalry
+shemërk | other | mistress, concubine
+shëmbës | adj | destructive, ruinous; demolisher
+shembrohem | other | compete, vie
+shemëroj | other | rival
+shëmllej | other | resemble
+shëmnoj | other | depose
+çëmnoj | other | depose
+shemnjej | other | resemble; mean
+shemnjehem | other | be compared; be indicated
+shemptim | other | deformation
+shemptoj | other | deform
+shemrim | other | competition, rivalry
+shemroj | other | rival
+shemtinë | other | landslide, scree
+shemtyrë | other | image, likeness
+shëndërr | other | resin
+shëndoj | other | cheer
+shëndohem | other | rejoice
+shenikë | other | bushel
+shenmil | other | executioner
+shentor | other | saint
+shenvjet | other | Holy Year
+shenjël | other | sign, omen; coat of arms
+shenjtar | adj | beaming, radiant
+shepkë | other | woodcock
+sheptore | other | woodcock
+sheputkë | other | pod (of pulse)
+sheqerçe | other | sugar basin
+sheqerore | other | sugar basin
+sheqerlis | other | sugar
+sheqertar | other | confectioner
+sheqëz | other | small bucket
+sheqroj | other | sugar
+sheregjuer | adj | astute, shifty
+sheregjyer | adj | astute, shifty
+sherit | other | ribbon, band, tape
+shertëroj | other | sigh
+shertoj | other | sigh
+shertimë | other | sigh
