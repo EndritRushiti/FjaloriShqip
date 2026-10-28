@@ -65343,3 +65343,44 @@ vleftsues | adj | validating, enhancing
 vleftshëm | adj | valid, valuable
 vlehet | other | holds good, is valid; appreciates
 vlenje | other | worth
+# ── mannshto.tsv ──
+vlerim | other | valuation, appreciation
+vleroj | other | value, appreciate
+vlersi | other | value, significance, importance; validity
+vlersim | other | evaluation, exploitation, utilisation, validation, appraisal, esteem
+vlerët | adj | valuable
+vlitem | other | get muddled, get confused
+vlockë | other | shell, husk
+vlezhgë | other | shell, husk, peel
+vluarës | adj | match-making; match-maker
+vlukoj | other | flourish, be at (its) peak
+vlladikë | other | ruler, potentate; bishop (in Montenegro)
+vllag | other | damp, moisture
+vllagë | other | damp
+vllagshëm | adj | damp, humid, moist
+vllak | other | trawling-net; dampness
+vllamëri | other | blood-brotherhood, fraternisation
+vllamëroj | other | link in brotherhood
+vllamërohem | other | fraternise
+vllamni | other | blood-brotherhood
+vllamnisht | adv | fraternally
+vllamnoj | other | fraternise
+vllamnohem | other | become (as) brothers
+vllas | other | cloth
+vllasfimis | other | blaspheme, curse
+vllasfimitar | adj | blasphemous; blasphemer
+vllastis | other | shoot, sprout
+vllath | other | little brother
+vllavrasës | adj | fratricidal; fratricide
+vllavrasë | other | fratricide
+vllavrasje | other | fratricide
+vllazërisht | adv | fraternally
+vllaznim | other | fraternisation
+vllaznoj | other | join in brotherhood
+vllaznueshëm | adj | fraternisable; pairable, linkable
+vllimtar | adj | voluminous, massive
+vnerim | other | poisoning, contamination
+vneroj | other | poison, contaminate
+vnerosh | adj | poisonous
+vnertë | adj | poisonous
+vnerët | adj | poisonous
