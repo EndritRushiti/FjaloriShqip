@@ -61527,3 +61527,39 @@ shëlarem | other | swing, sway
 shëlarës | other | swing
 shëloj | other | saddle
 shëllinshëm | adj | salty, briny
+# ── mannshto.tsv ──
+shëllirshëm | adj | briny, salt
+shëllishëm | adj | briny, salt
+shëllitë | adj | salt, pickled
+shëmllesë | other | resemblance
+shëmbëllore | other | parallel, simile, model
+shëmbëllshëm | adj | similar
+shëmbim | other | bruise
+shëmënjej | other | resemble; mean
+shëmoj | other | pant, gasp; sob
+shëmrjak | other | upland herdsman
+shëmtij | other | pant, heave
+shëmtuarë | other | ugliness
+shëmtuet | adj | ugly
+shëndan | other | candelabrum
+shëndemë | adj | well, healthy
+shëndete | other | health
+shëndede | other | health
+shnede | other | health
+shëndetore | other | sanatorium
+shëndetsi | other | health, hygiene
+shëndetsim | other | recovery
+shëndij | other | buzz, hum
+shëndoshsi | other | robustness, sturdiness
+shëndri | other | shine, glory
+shëndrij | other | shine
+shëndrillë | other | roof-shingle
+shëndrim | other | shine, glitter
+shëndris | other | shine, gleam
+shëndritës | adj | shining, brilliant
+shëndritshëm | adj | bright, radiant
+shëndrizë | other | diamond
+shëndrrim | other | change, alteration
+shëndroj | other | change, alter
+shëndrroj | other | change
+shëndrojsë | adj | variable, changeable
