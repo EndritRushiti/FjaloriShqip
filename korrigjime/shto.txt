@@ -59890,3 +59890,54 @@ rrëqas | verb | bother, annoy
 rrëqethe | noun | the shivers, shuddering, the creeps
 rrëqoshk | adj | squint-eyed, cross-eyed
 rrësk | noun | treasure
+# ── mannshto.tsv ──
+rrëshanas | adv | sliding, trailing
+rrëshanë | adv | sliding, gliding, trailing
+rrëshas | verb | slip, slide, glide
+rrëshell | noun | sow-thistle
+rrëshes | verb | slip, slide
+rrëshicë | noun | accessory work, finishing
+rrëshikoj | verb | skate
+rrëshinës | adj | resinous
+rrëshirtë | adj | resin-, resinous
+rrëshitas | adv | by the way, by chance
+rrëshitë | noun | slip, slide
+rrëshitës | adj | gliding, sliding, slipping; reptile
+rrëshitse | noun | sledge
+rrëshizë | noun | slide; sliding, skating; slippery slope
+rrëshizoj | verb | slide, glide, skate
+rrëshkamë | noun | slip, slide
+rrëshkanjas | adv | slipping, sliding, gliding
+rrëshkanjaz | adv | slipping, sliding
+rrëshkanjë | adv | slipping, sliding
+rrëshnjathas | adv | slipping, sliding
+rrëshqandërr | noun | resin
+rrëshqanore | noun | reptile
+rrëshqel | noun | rake
+rrëshqesë | noun | reptile
+rrëshqimëz | noun | gutter, channel
+rrëshqirë | adj | slippery; slide, slippery place
+rrëshqitë | noun | slide; slippery slope
+rrëshqitse | noun | reptile
+rrëshqitme | noun | slide, slip; skid, skidding
+rrëshqizë | adj | slippery
+rrështjel | noun | rake
+rrëtek | noun | avalanche
+rrëvi | noun | line; marking; channel; streak
+rrëvijë | noun | line, marking
+rrëvizë | noun | line; marking; channel; grain
+rrëvjeshkullë | noun | line, marking
+rrëvoj | verb | arrive
+rrëxajë | noun | ruin
+rrëxak | adj | ruptured
+rrëxoj | verb | hurl down, overthrow, ruin, destroy; rupture; subtract; reject, refute
+rrëxohem | verb | be overthrown; crash, collapse
+rrëxuar | adj | ruptured
+rrëxuell | noun | sty (on the eye)
+rrëxues | adj | destructive; destroyer
+rrëxhuell | noun | small jug, mug, tankard
+rrëzikçar | adj | dangerous
+rrëzikët | adj | dangerous, risky
+rrëzimtë | adj | steep
+rrëzjuell | noun | sty (on the eye)
+rrëzojë | noun | subtraction (arith.)
