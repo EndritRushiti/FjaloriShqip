@@ -59280,3 +59280,34 @@ ramishta | noun | brassware, copperware
 ramsi | noun | ramification
 ramtar | noun | coppersmith
 randesë | noun | weight, load, burden, charge, debt, levy
+# ── mannshto.tsv ──
+randis | verb | water, wash, sprinkle
+rangail | adj | jaded
+rangtohem | verb | worry (about), bother (about)
+rangsi | noun | levelling
+rangsim | noun | levelling
+rangsoj | verb | level
+rangulla | noun | lumber, junk, rubbish, litter
+rangulloj | verb | jangle, clatter; chatter (of teeth)
+rangje | noun | need
+rangjtohem | verb | take heed, take care
+rapaqapa | adv | higgledy-piggledy
+rapatë | noun | rasp, stripper
+rapaticë | noun | trial, hardship
+rapatupa | adv | higgledy-piggledy, ramblingly
+rapsal | noun | variety of wheat with long barbs, barley-wheat
+rapsinë | noun | barley-wheat
+rapsodhi | noun | rhapsody
+raptimë | noun | noise, rattle, clatter
+raptoj | verb | clatter, rattle
+rapush | noun | onion-top, flower of onion
+rapushë | noun | onion-top
+raqitë | noun | kind of willow
+raskall | noun | vine-tendril, vine-trailer
+raskapi | noun | lassitude, exhaustion
+raskapitës | adj | exhausting
+raskapitem | verb | pant, gasp, be worn out, be exhausted
+raskapitur | adj | panting, gasping, exhausted; decrepit
+raskutë | noun | rock-cave
+rasojë | noun | pickles
+rasshëm | adj | casual, occasional, opportune, apposite, convenient
