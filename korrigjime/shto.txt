@@ -59731,3 +59731,25 @@ rregjje | noun | tanning, steeping, retting; training, toughening
 rregjni | noun | kingdom
 rregjnoj | verb | reign, rule
 rregjos | verb | tan, steep
+# ── mannshto.tsv ──
+rregjuar | adj | stunted, diminutive
+rrekës | noun | variety of fig
+rrektimë | noun | breath; wail, groan; sob
+rrektis | verb | breathe
+rrektoj | verb | breathe; sob, weep; be barely alive; rouse, encourage, stimulate
+rremdeti | noun | ocean current
+rremak | adj | oared
+rremall | adj | lying, deceitful; liar
+rremar | noun | oarsman
+rrenjim | noun | radiance, splendour, brightness
+rrepickë | noun | variety of beet
+rrepishte | noun | grove of planes
+rrepkëkuqe | noun | carrot
+rrepnej | verb | madden
+rrepore | noun | beet-field
+rrepshëm | adj | violent, terrible, awful, severe
+rreptimë | noun | din, row
+rreptoj | verb | make violent, tighten up, be severe on
+rreptohem | verb | become violent
+rreptsim | noun | severity, rigour, tightening up
+rreptsoj | verb | make more severe or rigorous, tighten up; rile, enrage, infuriate
