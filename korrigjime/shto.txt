@@ -65716,3 +65716,63 @@ xil | other | lily
 xingë | other | zinc
 xingoj | other | zinc, galvanise
 xinkë | other | zinc
+# ── mannshto.tsv ──
+xinxër | other | cicada
+xinxami | other | cicada
+xinxillonjë | other | a fruit-bearing tree
+xip | other | tip, point, prong, spike, tang
+xipët | adj | pointed, pronged, spiked
+xis | other | incite, urge
+xitim | other | incitement
+xitoj | other | hurry, urge
+xixill | other | spark
+xixëll | other | spark
+xixillim | other | twinkling, sparkle
+xixillimë | other | firefly
+xixilloj | other | twinkle, sparkle
+xixmoj | other | sparkle; tingle
+xierr | other | draw out, pull out
+xogë | other | wedding-dress
+xolluf | other | tuft of hair, shock of hair, lock
+xug | other | twilight
+xugulli | other | tickling, tickle
+xugulis | other | tickle
+xukis | other | incite
+xungth | other | rush, bulrush
+xunxar | other | rat
+xunxurim | other | hum, buzz
+xunxuroj | other | hum, buzz
+xuq | adj | aged, crabbed
+xuqe | other | hag, crony
+xurë | other | shawm
+xurrxull | adj | soaked, wet through
+xurroj | other | throw down
+xvar | adv | trailing, dragging
+xvarë | other | harrow
+xvarrem | other | withdraw, retire
+xvarros | other | drag along, trail
+xvarëm | adj | trailing; trailer- (mech.)
+xvarthi | adv | trailing
+xvas | other | scratch, graze, lacerate, scarify
+xvatem | other | scratch oneself
+xvishem | other | get undressed
+xvetim | other | neuralgia; catarrh
+xvetosje | other | neuralgia
+xvëllim | other | development
+xvëlloj | other | develop
+xha | other | old man, daddy, grandad
+xhaçkë | other | aunt
+xhagadoj | other | practise quackery
+xhaka | conj | because
+xhake | other | small bag, wallet
+xhakoni | other | deacons, deaconry, clergy
+xhakue | other | deacon
+xhalavis | other | tatter, bedraggle
+xhalavitur | adj | tattered, ragged, bedraggled, shabby, untidy, abject
+xhalm | other | braying
+xhallok | other | clot of blood
+xhamët | adj | glass-
+xhapi | other | lizard
+xharap | other | stocking
+xharë | other | hawk, vulture
+xhaurrë | other | chip, splinter
