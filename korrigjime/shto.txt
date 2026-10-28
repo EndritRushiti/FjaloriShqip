@@ -59802,3 +59802,42 @@ rrezhdë | noun | ring at goat's throat; blossom of walnut, juniper or hazel; ru
 rrezhdos | verb | rust
 rrëban | adj | bold, proud, aggressive
 rrëbisht | verb | trim (the tail), dock
+# ── mannshto.tsv ──
+rrëfas | verb | branch out
+rrëfatem | verb | branch out
+rrëfatë | noun | branch, twig
+rrëfenjës | adj | tell-tale, indicative, telling; confessional priest
+rrëfenjsi | noun | confession
+rrëfeprites | noun | lightning-conductor
+rrëfesë | noun | tale
+rrëfeshëm | adj | lightning, flashing, fulminating
+rrëfeshkzog | noun | goldfinch
+rrëfyetore | noun | confessional box
+rrëgon | noun | thyme
+rrëgos | noun | rush; straw; rush-mat
+rrëgosar | noun | mat-maker
+rrëgostë | noun | rush, rush-mat
+rrëgozët | adj | straw, rush-
+rrëguna | noun | lowest branches of a tree
+rrëgjakur | adj | anaemic
+rrëgjej | verb | shine, beam
+rrëgjis | verb | dissipate
+rrëgjolle | noun | waste-land, rough ground
+rrëgjuell | noun | sty (on the eye); jug
+rrëgjyerë | noun | lesion, rawness, redness
+rrëgjylë | noun | lesion, rawness
+rrëkeshëm | adj | torrential
+rrëkëll | noun | water-jar carried by pack-animals
+rrëkoshën | noun | goat-tick
+rrëkotë | noun | hardened wax or grease
+rrëkutem | verb | lurk, hide, burrow, cower
+rrëkutë | noun | shelter, hiding-place, nook
+rrëmajtë | adj | left, left-hand
+rrëmaktë | adj | left
+rrëmakët | adj | left
+rrëmangët | adj | left; cross-eyed
+rrëmatë | noun | fleet
+rrëmbac | adj | rapacious, violent
+rrëmbacak | adj | rapacious, violent
+rrëmbaç | adj | rapacious, violent
+rrëmbenjës | adj | plundering, rapacious, violent; (birds) of prey; robber, extortioner, kidnapper
