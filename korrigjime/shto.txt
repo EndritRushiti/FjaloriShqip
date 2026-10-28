@@ -60157,3 +60157,29 @@ rruvizë | noun | little line; marking, grain
 rruvjeshkullë | noun | line
 rruxë | noun | ewe that has born only once; rust
 rruxollim | noun | globe
+# ── mannshto.tsv ──
+rruzë | noun | bead; vertebra; one-year-old ewe-lamb; mountain ridge
+rruzëllim | noun | globe
+rruzëz | noun | little bead; tiny bubble
+rruzulltë | adj | round, spherical
+rryç | noun | bread-basket, fruit-basket
+rryesë | noun | training, drill, exercise
+rryeshmeni | noun | urge, drive
+rryhem | verb | get hardened, get used
+rryj | verb | harden; enter
+rrykël | noun | bolt, nail, peg
+rryll | noun | trachea, windpipe, larynx; spurge
+rryllë | noun | pea; lentil
+rrymbë | noun | current
+rrymeni | noun | experience
+rrymësi | noun | flow
+rrymshtyrë | noun | lumber, junk, oddments, effects
+rrymshtytas | adv | sweepingly, torrentially, noisily
+rrypali | noun | (empty) grape-stalk
+rrypcë | noun | grape-stalk
+rrypkë | noun | band, strap
+rrypshtejshëm | adj | tough, withered, hardened, aged
+rrypth | noun | little strap or belt; thong; ligament; ribbon, tape
+rryshëm | adj | trainable; hard, tough, heavy
+rryshkët | adj | wrinkled, withered
+rryzë | noun | bead
