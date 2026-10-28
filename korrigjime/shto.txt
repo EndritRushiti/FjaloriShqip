@@ -61128,3 +61128,42 @@ suade | other | haemorrhoid
 suhadhe | other | piles
 sukrojë | other | peak, height; watch-post, lookout
 sukulloj | other | tear to rags, tatter, shred
+# ── mannshto.tsv ──
+sule | other | small boat, skiff, canoe
+sullacë | other | promenade
+sulldat | other | soldier
+sulltanik | adj | sultan's
+sulltë | other | mite, sou
+sumbullis | other | curdle
+sumbullore | other | hilltop, knoll
+sumbëll | other | button, knob
+sumëll | other | button, knob
+sumim | other | reckoning, counting
+sumoj | other | reckon, count
+sumpare | other | emery
+sumpur | other | sulphur
+sumullar | other | cervical bone
+sumullore | other | knoll
+sundonjës | adj | ruling, dominant
+sungji | other | bayonet
+supje | other | cuttlefish
+surbull | adj | thin, sloppy, watery
+surdis | other | purge
+surdisem | other | purge oneself; have diarrhoea
+surdullinë | other | pipe, clarinet
+surfulloj | other | sulphurate, fumigate
+surfullore | other | sulphur spring
+surrle | other | pipe, clarinet
+surmopull | other | palfrey
+surullas | other | turn, revolve
+surrullas | other | turn, revolve
+surllas | other | turn, revolve
+surullatem | other | wonder, ruminate, think over
+surullim | other | turn, revolution
+surup | other | roof-gutter
+surril | other | water-spout, jet, outlet pipe, spring
+surrugjatë | adj | oval
+sushë | other | heatwave, drought
+sutlaç | other | rice pudding
+sutulloj | other | fling down, floor
+suvajkë | other | shuttle
