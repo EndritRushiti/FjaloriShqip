@@ -61523,7 +61523,6 @@ shëgjetullë | other | arrow, dart
 shëkim | other | sight
 shëkonjës | other | spectator
 shëlar | other | swing
-shilar | other | swing
 shëlarem | other | swing, sway
 shëlarës | other | swing
 shëloj | other | saddle
