@@ -60019,3 +60019,49 @@ rrojbëz | noun | tangle, twisted knot
 rrojnik | noun | honey-comb
 rrojtar | noun | barber
 rrojtës | noun | barber
+# ── mannshto.tsv ──
+rrokel | noun | skate
+rrokollej | verb | roll
+rroketel | noun | (a child's toy), rattle
+rroketjel | noun | plunger (of a churn)
+rrokësim | noun | spelling
+rrokësoj | verb | spell
+rroketabekem | verb | turn somersault
+rroketabektazi | adv | head over heels
+rroketar | noun | hireling
+rrokullëz | noun | nought, zero
+rrokullot | verb | spin, revolve
+rrokulltë | adj | round, spherical
+rrokullues | adj | precipitous; precipice
+rrolbë | noun | plant with reddish roots
+rrole | noun | crabbed old woman, decrepit old hag
+rrolle | noun | disc, quoit; orb, ball, globe
+rrollimë | noun | latch (of door)
+rromanx | noun | novel, romance
+rromb | noun | rhombus; a flat sea-fish (plaice)
+rrome | noun | empty corn-cob; tale, yarn
+rromkë | noun | tale, yarn, story
+rromullakët | adj | round
+rromus | noun | innuendo, insinuation, hint, allusion
+rrongla | noun | junk, rubbish
+rronglloj | verb | bang
+rronjës | noun | barber; razor
+rropatë | noun | struggle, effort
+rropaticë | noun | rattle (for scaring birds)
+rroposem | verb | be shattered, be ruined
+rropoti | noun | din, row
+rroqmëtroq | adv | from bad to worse
+rrosa | noun | salting-place for cattle
+rrosk | adj | mean
+rrosok | noun | rag
+rroshpojë | noun | hollowed-out river-bed, eroded river-bank, overhanging bank or cliff, grotto
+rrotar | adj | rotary, cyclic
+rrotatar | adj | circular
+rrotem | verb | get drunk
+rrotovile | noun | wheel, esp. potter's wheel; windlass, capstan
+rrotuvilë | noun | wheel
+rrotullakdrite | noun | halo
+rrotullenjës | noun | turner
+rrotullesë | noun | round, circle
+rrotullore | noun | round variety of pear
+rrotulltë | adj | disc-shaped; vertebrate
