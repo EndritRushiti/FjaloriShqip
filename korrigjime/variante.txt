@@ -3396,3 +3396,16 @@ urovë | urov | alternative
 urtsi | urtësi | alternative
 urtsisht | urtësisht | alternative
 urtsuar | urtsuem | alternative
+# ── Mann 1948 ──
+urzë | urrë | alternative
+urresë | urrenesë | alternative
+ustaj | usta | alternative
+ushëtoj | ushtoj | alternative
+ushqenjës | ushqyes | alternative
+ushtrak | ushtarak | alternative
+ushtërtor | ushtar | alternative
+ushtëtor | ushtar | alternative
+ushtij | ushtoj | alternative
+ushtor | ushtar | alternative
+ushtriak | ushtarak | alternative
+ushtrijak | ushtarak | alternative

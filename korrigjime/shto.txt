@@ -64551,3 +64551,39 @@ urtsoj | other | bring to reason
 urtsohem | other | come to reason, be wise, settle down, behave
 urtsuar | adj | sensible
 urtuar | adj | hungry, famished, avid
+# ── mannshto.tsv ──
+urum | other | Greek (esp. a member of the Greek Orthodox Church)
+urumeshë | other | Greek woman
+urup | other | shilling, dollar (a coin)
+urzë | other | sapwood
+urrenesë | other | look-out, watch
+urresë | other | look-out
+urrenoj | other | watch, look out
+urrët | adj | of sapwood
+ustaj | other | master-builder
+ustar | other | breeder, trainer
+ustëri | other | able woman, hard-working woman; midwife; rivalry
+ustëtar | other | rival
+ustëtim | other | rivalry, competition
+ustëtoj | other | rival, compete against
+ustim | other | suggestion
+ustje | other | breeding, training, rearing, cultivation
+ustre | other | ear (of corn)
+ustruk | other | plane (tool)
+ushëm | adj | hungry; avid, greedy
+ushëtoj | other | resound
+ushinth | other | briar with small thorns, white flowers and red berries
+ushqenjës | adj | nutritive, nourishing; feeder
+ushqimtar | adj | nutritive, alimentary; purveyor, caterer
+ushqimtore | other | communal dining-room
+ushtrak | adj | military
+ushtërtor | other | soldier
+ushtëtor | other | soldier
+ushtij | other | resound, echo
+ushtimje | other | breeding, rearing, training
+ushtonjës | adj | resonant
+ushtor | other | soldier
+ushtratë | other | campaign
+ushtriak | adj | military, army-
+ushtrijak | adj | military
+ushtrisht | adv | soldier-like, in military fashion
