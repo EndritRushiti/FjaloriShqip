@@ -60633,3 +60633,79 @@ sklapë | noun | thickly falling snow; catarrh
 skllaq | verb | squash, batter
 skllevëri | noun | slavery, captivity
 skllevëroj | verb | enslave; take prisoner, capture, captivate
+# ── mannshto.tsv ──
+skllok | noun | bog, tip, dump, slough
+skllop | noun | bog
+sklloqis | verb | mud-bespatter
+sklotë | noun | large-flaked sleety snow
+skllotë | noun | sleety snow
+sklluk | verb | brood
+skllukë | adj | addled (egg)
+sklup | verb | gulp down, gobble up
+skobuz | noun | (a fish)
+skobuskë | noun | (a fish)
+skodele | noun | plate
+skodhé | noun | board harrow, levelling board, smoothing board
+skomolis | verb | confess
+skopac | adj | castrated; eunuch
+skopaç | adj | castrated; eunuch
+skopak | adj | castrated
+skopan | adj | castrated
+skopas | verb | castrate
+skopatoj | verb | castrate
+skopec | noun | castrated ram or goat, wether; lean person
+skopell | noun | gawk, awkward fellow; a night bird
+skopis | verb | geld, castrate
+skopitje | noun | castration, gelding
+skorë | noun | poor devil, sorry jade
+skorfan | noun | scorpaena scrofa (a fish)
+skorkë | noun | hole, opening, cranny, chink
+skorpis | verb | scatter, squander
+skorpjonar | noun | scorpion
+skort | noun | small fish; bait
+skorratinë | noun | sharp shower, downpour, squall
+skoturë | noun | worry, trial, hardship
+skrajë | noun | worm
+skrapath | noun | poisonous snake, orange, with markings on one side of throat
+skrefë | adj | lean, ill-shapen, deformed
+skrepatar | adj | thin, lean
+skrinjë | noun | chest, coffer
+skrob | noun | chest, breast
+skrofë | noun | lair, hole
+skrofurë | noun | scrofula
+skropth | noun | bread-sop, porridge
+skroth | noun | parasite, fawner
+skrutë | noun | swank, silliness
+skrutnar | adj | swanking, swaggery, impudent
+skrutunjar | adj | swanking, impudent
+skrutni | noun | swagger, impudence
+skrrajë | noun | worm, belly-worm; earth-worm; lean woman
+skrrile | noun | lean woman
+skrrutë | noun | lean woman
+skud | noun | udder (of cow); shield
+skudë | noun | udder
+skudellë | noun | platter, wooden dish
+skudër | noun | shed, stall, stable
+skuf | noun | leather bolster or mattress
+skujdesë | noun | heedlessness
+skujmë | adj | deep red, dark red, wine-coloured
+skulariç | adj | low-down, good-for-nothing
+skulifaqe | noun | grimace
+skulith | noun | lout
+skulot | noun | lout, ruffian
+skulli | noun | distaff-full of flax
+skundër | noun | contrary wind
+skundill | noun | hem, seam; edge, border, strip
+skundi | noun | hem, seam
+skupira | noun | sweepings, refuse
+skurcë | noun | garden-plot, allotment
+skuri | noun | rust
+skurisur | adj | rusty
+skurth | noun | trap; swelling in the neck
+skurthë | noun | swelling in the neck
+skurzë | noun | chance
+skutaliq | noun | hiding-place, covert, creek, inlet, alcove
+skutar | noun | armour, coat of mail; shield
+skutelë | noun | dome
+skutem | verb | waddle, get along
+skutëtar | noun | miner
