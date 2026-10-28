@@ -65595,3 +65595,45 @@ vrilloj | other | rush, swoop, pounce
 vrimëz | other | hole; pore
 vringllim | other | whizz, whir, hum
 vringllimë | other | whizz, whir
+# ── mannshto.tsv ──
+vringulloj | other | whizz, hum, whir
+vrisëm | other | wisp of straw; bite of grass
+vrismë | other | wisp of straw
+vrishëllej | other | whistle
+vrishkull | other | trickle, small waterfall
+vritem | other | be killed; be injured, be bruised
+vrojë | other | observation; cloud
+vrojtar | other | observer
+vrojtë | other | note, remark, observation
+vrojtje | other | observation
+vrokull | other | broccoli
+vromcirë | other | stench
+vrugcim | other | darkening; frown, scowl
+vrugcoj | other | darken; frown, scowl
+vrugni | other | blight
+vrugnoj | other | blight
+vrugoj | other | darken, overcast
+vruim | other | spring, fountain; sweat from walls
+vrulë | other | dash, dart, rush; spinning-top
+vrullët | adj | dashing, wild, turbulent
+vrulloj | other | whizz, dash, rush, charge
+vrullues | adj | dashing, rushing, whizzing, whirring, turbulent, wild, impetuous, noisy, torrential
+vrumulis | other | sigh, moan, groan, roar, bellow, moo
+vrumullohem | other | rush, dash, hurtle
+vrundulloj | other | dash, rattle, whirl, swirl, rush, gush
+vrungull | other | dash, rush
+vruon | other | well up
+vrushkullë | other | catalpa, Indian bean (tree)
+vrushkulloj | other | gabble, chatter
+vrras | other | cry, shout, bleat, bellow, roar, call, whine, yelp
+vrretë | adj | cloudy
+vrrietë | adj | hollow
+vrrigos | other | stock-dove
+vrrinë | other | shout, cry, lowing, bleating; hum, buzz, whirr
+vrrishte | other | alder-bed; winter pasture
+vrrotome | other | avalanche
+vshaj | other | sweep
+vshtirim | other | difficulty, obstacle
+vshtirtim | other | difficulty
+vshtiroj | other | make difficult, handicap
+vshtirtoj | other | make difficult
