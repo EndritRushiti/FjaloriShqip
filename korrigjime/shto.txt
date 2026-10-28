@@ -63424,7 +63424,6 @@ tiktim | other | beat, pulse
 tiktoj | other | beat, pulsate
 timaros | other | feed up, fatten, rear (cattle)
 timjon | other | thyme
-timoj | other | smoke
 timonar | other | steersman, helmsman
 timos | other | smoke, fumigate
 timu | other | helm, rudder

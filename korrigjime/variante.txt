@@ -2971,7 +2971,6 @@ tierr | tjerr | alternative
 tierrje | tjerrje | alternative
 tifë | tifo | alternative
 tihmoj | ndihmoj | alternative
-timoj | tymos | alternative
 timonar | timonier | alternative
 timos | tymos | alternative
 timu | timon | alternative
