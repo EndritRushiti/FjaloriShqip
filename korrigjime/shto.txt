@@ -60276,3 +60276,51 @@ sapuntore | noun | soapworks
 saragë | noun | smoked sprat, herring, kipper or anchovy
 sarahosh | adj | hard-drinking; tippler
 saravis | verb | string, thread
+# ── mannshto.tsv ──
+saraxha | noun | scrofula
+sardhele | noun | anchovy
+sardhelë | noun | anchovy
+sardhë | noun | fit of anger, rage, temper
+sardhone | noun | flower resembling convolvulus
+sarek | noun | turban
+sargi | noun | bandage, clout, bundle of rags; mop
+sarkadhe | noun | roe, fawn, doe
+sarkopt | noun | ringworm tick
+sarrek | noun | turban
+sasë | noun | kind of rush with hexagonal stem
+sash | adv | how much
+satac | noun | sieve, sifter, riddle, esp. corn sieve
+satin | noun | satin
+satraç | noun | hoof-paring knife
+satroj | verb | hit the mark, score a bull's-eye
+satur | noun | tax-collector
+saturak | adj | dogged, persistent, firm, constant
+savat | noun | black tracings on silver, marquetry, tracery, inlay
+savatisur | adj | traced, inlaid, with patterns or designs
+savorrë | noun | ballast
+savurë | noun | ballast
+savurrë | noun | ballast
+savurros | verb | ruin, scatter, rout
+saxh | noun | baking-plate
+saxhak | noun | tripod
+sazëm | noun | blanket, bed-cover
+sederti | noun | luxury
+sefergjen | noun | basil
+sefir | noun | botrychium lunaria (bot.)
+sefkel | noun | beet
+seflen | noun | basil
+segur | adj | sure, safe, certain
+seguri | noun | safety, certainty
+segurim | noun | assurance, ensuring
+seguroj | verb | ensure, make safe
+selcili | pron | each, every
+sej | adv | so long as
+sejdo | pron | of each
+sekël | noun | water-pot
+sekëldi | noun | embarrassment
+sekëldis | verb | embarrass
+sekicë | noun | large hatchet, chopper
+seku | adv | where
+sekullë | noun | a vegetable from which a kind of pie is made
+sekur | adv | when
+sekush | pron | everyone, everybody; whoever, who
