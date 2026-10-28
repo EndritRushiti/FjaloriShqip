@@ -65499,5 +65499,6 @@ voshtinë | other | honeycomb
 votar | other | voter
 votëm | other | gait
 votonjës | other | voter, elector
-votrore | other | witch who tells fortunes by using ashes
 vovë | other | bogey, scarecrow
+# ── mannshto.tsv ──
+votore | other | witch who tells fortunes by using ashes
