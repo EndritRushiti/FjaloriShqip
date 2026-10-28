@@ -64405,3 +64405,51 @@ ujkët | adj | wolf's
 ujkërisht | adv | wolfishly
 ujknisht | adv | wolfishly
 ujkojë | other | she-wolf
+# ── mannshto.tsv ──
+ujmetur | adj | damp, wet, moist
+ujmjaltë | other | nectar, mead
+ujoj | other | water
+ujprues | other | aqueduct
+ujsjellje | other | water-circulation
+ujsinë | other | liquid; watering; slops
+ujsoj | other | liquefy; water, wet
+ujtak | adj | water-, aquatic
+ujtoj | other | water; soak
+ujtsohet | other | get soaked, get watered (of soil)
+ujtshëm | adj | watery
+ujvarë | other | waterfall
+ujvare | other | waterfall
+ujvartë | other | waterfall
+ujzoj | other | liquefy
+ujzuar | adj | liquid, fluid
+ukas | other | pant, gasp
+ukrajë | other | wood
+ukth | other | king-post, queen-post (of a truss); wolf cub
+ulanik | other | apiary
+ulcinë | other | dampness, moisture
+ulcoj | other | moisten, damp
+ulërej | other | howl
+ulëroj | other | howl
+ulitur | adj | forlorn, wretched
+ulverë | other | rainbow
+ulmes | other | wet, soak
+ulmetoj | other | wet; knead, work up
+ulmetur | adj | wet, moist
+uloksi | other | paralysis
+ulogsi | other | paralysis
+uloksim | other | paralysing, crippling
+uloksoj | other | paralyse
+ulpte | other | alder
+ulpti | other | alder
+ulqeshë | other | she-wolf
+ulqnisht | adv | wolfishly
+ulsinë | other | lowness; low place, depression, flat
+ulsetare | other | chair
+ultinë | other | lowland; depression, flat
+ultsi | other | lowness, lowliness, humility
+ultsinë | other | lowness; abjection; lowland, depression
+uluras | other | howl
+uluroj | other | howl
+ulzueshëm | adj | lowering, debasing
+ullak | other | messenger
+ullug | other | pipe, drain
