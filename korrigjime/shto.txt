@@ -59367,3 +59367,41 @@ regtizë | noun | little sob, slight gasp
 regtoj | verb | sob, gasp
 regzinë | noun | swaddling-band, napkin
 regjëroj | verb | rule
+# ── mannshto.tsv ──
+regjini | noun | kingdom
+regjos | verb | tan
+regjuar | adj | doting, childish
+rejhani | noun | grape-brandy
+rekas | adv | deceitfully
+rekëz | noun | joke, banter
+reksej | verb | frighten, cause to shudder
+rektij | verb | beat, throb
+rektimë | noun | heartbeat, throb
+reliqjon | noun | religion
+rell | noun | spurge
+remar | noun | oarsman, boatman
+rembohet | verb | branches out, ramifies
+rembsohet | verb | branches out
+rembsi | noun | ramification
+rembsim | noun | branching out, ramification
+remtar | noun | coppersmith
+renbje | adj | of brass
+rendas | adv | joined, adjacent
+rendëz | noun | rasp, grater; sperm
+rendis | verb | draw up, arrange, align, classify
+rendore | noun | register, index, table, list, file
+rendueshëm | adj | orderly
+rendyrë | noun | discharge, waste matter
+renegonj | verb | deny
+reng | noun | trick, ruse, deceit, fraud; harm, injury
+rengjoj | verb | cheer, rouse, encourage
+renzë | noun | rasp, grater
+renzoj | verb | grate
+renj | noun | kingdom
+regjënonj | verb | reign
+repan | noun | radish; carrot
+repane | noun | turnip; salsify
+repç | noun | waif, stray
+repët | adj | peeled, skinless, skinned
+repicë | noun | rape (bot.)
+repth | noun | radish
