@@ -59137,3 +59137,47 @@ qorollis | verb | stumble, trip (of horses)
 qorrulis | verb | stumble, trip
 qoros | verb | blind
 qortimtar | adj | disciplinary, corrective, punitive
+# ── mannshto.tsv ──
+qosem | adj | rich
+qostër | noun | whetstone, touchstone
+qoshtër | noun | whetstone
+qoshkoj | verb | clout
+quanjtore | noun | nominative case, subject
+qud | noun | obstinacy
+qudoj | verb | resist, be firm, hold out, be stubborn
+qudohem | verb | resist, be stubborn
+qudueshëm | adj | firm, obstinate
+quell | noun | mash, porridge
+quem | adj | awake, alert; turned, bent
+quet | adj | awake, alert, sharp, quick-witted, clever
+qukaçikë | noun | freckle
+qukalos | verb | dot, spot
+qukapiq | noun | woodpecker
+qukas | verb | peck
+qukëz | noun | hook
+qukme | noun | prick, peck, bite
+qukos | verb | peck
+qukulë | noun | large crow
+qullapitë | noun | tart
+qullës | adj | soaking; pappy, juicy
+qullopitë | noun | tart
+qullprues | adj | secretive, oozing
+qum | noun | lead
+qumshtar | noun | dairyman, milkman; mammalian
+qumshtore | noun | small badger-like animal with striped body; spurge; milkweed; dandelion; sow-thistle; dairy
+qumshtarak | adj | sucking (of infant)
+quq | noun | peck, pecking
+qurá | noun | turkey-cock
+quravec | adj | snotty; snotty-nose
+qurdhele | noun | slice of toast; rusk
+qurk | noun | spring, fount; spurt
+qurraç | adj | snivelling, besnivelled
+qurrak | adj | snivelling
+qurramash | adj | snivelling
+qutë | adj | awake, alert
+qyçnicë | noun | lock; bolt
+qyftër | noun | fruit jelly, jam
+qykë | noun | back ridge of knife
+qykën | noun | swan
+qyler | noun | cellar
+qylym | noun | carpet
