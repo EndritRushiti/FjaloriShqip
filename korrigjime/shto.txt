@@ -59483,3 +59483,37 @@ rikër | noun | drizzle
 rigët | adj | drizzly
 rigoj | verb | sprinkle, damp, moisten, water
 rihës | adj | complaining
+# ── mannshto.tsv ──
+rijë | noun | youth
+rikqyr | verb | re-examine, revise
+rikqyrje | noun | re-examination, revision
+rikz | noun | sucking-pig
+rilë | noun | pea
+rimeni | noun | renewal; rejuvenation, renaissance
+rimët | adj | rejuvenated; green
+rimtohem | verb | turn blue, get livid
+rimtoj | verb | turn blue
+rimtosem | verb | turn blue
+ringegjinge | noun | twaddle
+ringjinge | noun | toy; nonsense
+ripërtrypës | adj | ruminant
+ripërtrypje | noun | chewing of cud, rumination
+ripkë | noun | shoelace, thong
+riprodhimsi | noun | reproductiveness, fertility
+riprodhimtar | adj | reproductive
+riprondis | verb | reproduce
+ripronditje | noun | reproduction
+ripyllzim | noun | reforestation
+ripyllzoj | verb | reforest
+rispëndoj | verb | answer
+ristoras | verb | restore, re-establish
+ristorasje | noun | restoration
+rishadi | noun | kind of pudding
+rishëm | adj | fresh, recent, new, upstart
+rishmi | adv | recently; again, anew, afresh
+rishtje | noun | variety of pear with long stalk
+rishtnore | noun | probationary year
+ritoj | verb | water, irrigate, soak
+rivile | noun | bitter reflection, qualm
+rivleftsim | noun | reflation, revaluation
+rivleftsoj | verb | reflate, revaluate
