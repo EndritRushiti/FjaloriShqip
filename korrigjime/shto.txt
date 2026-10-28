@@ -61029,3 +61029,51 @@ stoçen | other | cold east wind; gale
 stofë | other | stove
 stoko | other | stucco, putty
 stolë | other | stole
+# ── mannshto.tsv ──
+stolitar | other | decorator
+stolisës | other | decorator
+stoll | other | stool, seat
+stomah | other | stomach
+stomnë | other | water-jar, pitcher
+stomën | other | water-jar, pitcher
+stomoj | other | embank, bank up
+stopan | other | dairyman, cheese-maker
+stopis | other | beat, thrash
+storas | adv | standing, upright, on end
+storasem | other | stand up, rear
+storasje | other | erection, setting up, establishment
+storazi | adv | upright
+strejcë | other | bag
+strastje | other | bag
+stragalë | other | girth-belt
+strahë | other | slab, slate, flagstone
+strakol | other | leash
+strakulshedër | other | dragon
+strrall | other | flint
+strrallë | other | flint
+stramastik | adj | mongrel
+stramullar | other | pivot
+strangulis | other | dislocate, luxate
+strangullij | other | dislocate
+strangulisje | other | dislocation
+stranicë | other | flagstone; gravestone
+strapc | other | sparrow
+stravecë | other | covering, small apron
+strë | other | henroost, fowl-pen
+streckë | other | small hole, outlet
+streditem | other | loom up, appear
+stredh | other | wind, twist; unwind
+stregë | other | bundle of sheaves; hayrick
+strehzim | other | assistance
+strehzoj | other | assist
+strehos | other | cover, shelter
+strelem | other | be bedridden
+strëgjysh | other | great-grandfather
+stridhje | other | oyster
+strin | other | gift
+stringë | other | jewelry, finery, sequins
+stroflec | other | attendant at a wedding breakfast
+strafulec | other | attendant at a wedding
+strogëz | other | clot of mud (in wool)
+stroj | other | layer; section
+strokem | other | get the itch, contract scab
