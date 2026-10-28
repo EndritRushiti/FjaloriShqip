@@ -62448,3 +62448,52 @@ shpyllzoj | other | deforest
 shqaj | other | tear, rend
 shqanthi | adv | glidingly, smoothly
 shqaq | other | squash, batter
+# ── mannshto.tsv ──
+shqar | other | squirrel
+shqardh | other | squirrel
+shqarrth | other | squirrel
+shqerrëz | other | squirrel
+shqarim | other | explanation
+shqaroj | other | explain
+shqarje | other | slip, slide
+shqas | other | slip, slide, glide
+shqasëm | adj | black-marked (of sheep)
+shqasje | other | slip, skid
+shqej | other | tear up, rend
+shqekëz | other | loop, holder
+shqelb | other | kick
+shqelboj | other | kick
+shqelmonjës | adj | kicking, trampling
+shqemë | other | sumach
+shqencatar | other | scientist
+shqencar | other | scientist
+shqencë | other | science
+shqëndërsi | other | decentralisation
+shqëndërsim | other | decentralisation
+shqepadru | other | woodpecker
+shqepoj | other | hobble, limp
+shqepsë | other | foot-and-mouth disease
+shqeptore | other | woodcock
+shqepul | adj | lame
+shqerak | adj | raking, scratching (of fowls)
+shqerbe | other | wild beast
+shqerbë | other | wild beast
+shqerë | other | lamb
+shqerkë | other | lamb, lambkin
+shqerohet | other | fall (dead-ripe) from a tree
+shqerth | other | squirrel
+shqerzim | other | exhaustion
+shqerzoj | other | exhaust
+shqerrak | adj | castrated
+shqesë | other | split, tear, gash
+shqetë | adj | perturbed, disturbed
+shqeti | other | disquiet, unrest
+shqetsi | other | unrest
+shqetsim | other | disquiet, worry
+shqetsoj | other | perturb, disturb
+shqetsonjës | adj | disquieting
+shqetsues | adj | disquieting, alarming
+shqezoj | other | harrow
+shqicë | other | sketch
+shqier | other | tear, rend
+shqilcë | other | rennet
