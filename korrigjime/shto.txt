@@ -60739,3 +60739,49 @@ sodëm | adj | today's, present-day
 sodom | other | exterminate, annihilate, devastate
 sogar | other | rogue
 sogari | other | roguery; mob, crowd
+# ── mannshto.tsv ──
+sogjoj | other | mount guard
+sogjtar | other | watchman
+sohishtë | other | shade, shady spot
+sohis | other | shade
+sojkë | other | pruning-knife, clasp-knife, pocket-knife
+sojak | other | pocket-knife
+sojshëm | adj | various
+sojt | adv | today
+sojtar | other | juggler
+sojtari | other | juggling
+sojtrash | adj | coarse, rude, vulgar
+sokëllas | other | shriek, screech, creak
+sokllas | other | shout, yell
+sokllimë | other | shriek, screech
+sokllatë | other | shout, yell, screech
+sokullenj | other | tremble, shake; chatter (of teeth)
+solfat | other | sulphate
+solinë | other | pipe, tube, rainpipe
+sulinë | other | pipe, tube
+solnicë | other | barn, granary
+sojnicë | other | barn, granary
+sollogjim | other | deliberation, discussion
+sollogjoj | other | deliberate, discuss
+som | other | silure (fish)
+somar | other | pack-saddle
+somënatë | adv | this morning
+sominë | other | dwarf juniper
+somsa | other | baklava made in layers with walnuts
+somun | other | white bread, loaf
+sone | adv | tonight
+sunte | adv | tonight
+sunde | adv | tonight
+sontshëm | adj | this evening's
+sopë | other | height, hillock, mound
+sopije | other | cuttle-fish
+sopravis | other | put straight, make shipshape
+supravis | other | put straight
+soreg | other | field-mouse
+sorkë | other | sheep with black markings on nose or face
+sormë | adj | of today
+soro | other | heap, pile, mound
+sorua | other | heap, pile
+sorollas | other | turn, wind, revolve, rotate
+soropuç | other | outcast
+sorrak | other | male crow; wretch
