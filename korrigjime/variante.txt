@@ -4320,3 +4320,5 @@ daima | gjithmonë | alternative
 dajim | gjithmonë | alternative
 # ── Hahn 1854 ──
 dervend | derven | alternative
+# ── Hahn 1854 ──
+xhet | soj | alternative

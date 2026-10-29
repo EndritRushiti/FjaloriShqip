@@ -67233,3 +67233,5 @@ daima | adv | always
 dajim | adv | always
 # ── hahnshto.tsv ──
 dervend | noun | narrow mountain pass
+# ── hahnshto.tsv ──
+xhet | noun | lineage, descent
