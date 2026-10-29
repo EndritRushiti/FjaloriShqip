@@ -4302,3 +4302,8 @@ bezerjan | tregtar | alternative
 bezerjanllëk | tregti | alternative
 # ── Hahn 1854 ──
 bulukçi | bylykbash | alternative
+# ── Hahn 1854 ──
+jemin | be | alternative
+jeshiloj | gjelbëroj | alternative
+jetëk | gjetëk | alternative
+urnek | jurnek | alternative

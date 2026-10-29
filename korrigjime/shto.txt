@@ -67215,3 +67215,8 @@ bezerjan | noun | merchant
 bezerjanllëk | noun | trade, commerce
 # ── hahnshto.tsv ──
 bulukçi | noun | leader of an armed band; a chieftain's adjutant
+# ── hahnshto.tsv ──
+jemin | noun | oath (sworn on holy things)
+jeshiloj | verb | to turn green
+jetëk | adv | elsewhere
+urnek | noun | example, model
