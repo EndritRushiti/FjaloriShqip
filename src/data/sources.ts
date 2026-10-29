@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854";
 
 export interface SourceInfo {
   id: SourceId;
@@ -345,6 +345,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen.",
       en: "The definitions, examples and etymologies of the book are not copied.",
+    },
+  },
+  "hahn-1854": {
+    id: "hahn-1854",
+    name: "Johann Georg von Hahn, Albanesische Studien, vëll. 3: Beiträge zu einem albanesisch-deutschen Lexikon (Vjenë 1853, Jena 1854)",
+    publisher: "Johann Georg von Hahn (1811–1869); skanimi i Bayerische Staatsbibliothek në archive.org",
+    url: "https://archive.org/details/10589474bsb",
+    licence: "Domen publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Fjalë të vjetra dhe krahinore (gege e toske) që mungonin, me klasën e fjalës, dialektin dhe kuptimin. Fjalorin e shkroi Hahn me alfabet greko-latin; fjalët i kthejmë në drejtshkrimin e sotëm dhe përshkrimet shqip i shkruajmë vetë.",
+      en: "Old and regional words (Gheg and Tosk) that were missing, with their word class, dialect and meaning. Hahn wrote Albanian in a Greek-based alphabet; we convert the words to today's spelling and write the Albanian descriptions ourselves.",
+    },
+    notUsed: {
+      sq: "Shembujt, shënimet etimologjike dhe skanimi nuk ribotohen.",
+      en: "The examples, etymological notes and the scan are not republished.",
     },
   },
 
