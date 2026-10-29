@@ -65831,3 +65831,54 @@ xhugës | other | scabies
 xhukulis | other | tickle
 xhulk | adj | ripe, mellow
 xhullinë | other | jacket
+# ── mannshto.tsv ──
+xhumbo | other | hunchback
+xhumkë | other | swelling, lump, bump, gnurl
+xhunkël | other | turf, sod, tuft of grass
+xhunxhule | other | carnation
+xhupe | other | jacket, coat
+xhurap | other | stocking
+xhurmë | other | noise
+xhushkë | other | swelling, tumour, lump
+xhvaritet | other | clear up (of weather)
+xhvas | other | tear, pull, tug at, rend, skin, flay, strip; harass, bully
+xhverdh | other | turn yellow
+xhvishem | other | get undressed
+xhvetë | other | tuft, tassel
+xhvillim | other | development
+xhvilloj | other | develop
+xhvokth | other | husk, shuck, peel
+xhvoshk | other | husk, shuck
+xhynxhë | adj | huddled, hunchbacked
+xhynxhris | other | huddle, crouch, stoop, bend
+xhynxhroj | other | huddle
+xhys | other | plunge, dip
+yftar | other | breaking of the fast
+yjët | adj | divine, holy
+yjkë | other | star; spot, speck
+yjnor | adj | divine
+yjplime | other | Milky Way
+yjshëm | adj | divine
+ylbyer | other | rainbow
+ylvër | other | rainbow
+yliver | other | rainbow
+ylybër | other | rainbow
+ylme | adv | haphazard
+ylnjej | other | suck; draw, derive
+ylti | other | flat-iron
+ylle | other | star
+ylldetse | other | starfish
+ylldije | other | astronomy
+ylldijës | other | astronomer
+ylltë | other | last card (in games)
+ymell | other | chestnut parasite (forming chestnut gall)
+ymnoj | other | resound, re-echo
+ynjer | other | characteristic, trait
+yrtar | other | market-gardener
+yrtytë | other | strawberry
+yst | other | agio, discount; interest (on capital)
+ysh | interj | gee-up! (call to a donkey)
+yshtyra | other | magic, witchcraft
+yshyr | other | harvest, crops
+ytë | other | an aromatic plant
+yve | pron | you
