@@ -67022,3 +67022,36 @@ frikanak | adj | cowardly
 fryshkulloj | other | whistle
 fshikim | other | flogging
 fshikoj | other | flog
+# ── mannshto.tsv ──
+fshtyrsinë | other | difficulty
+ftoft | other | well, spring
+ftorim | other | freshness, coldness (esp. of forests)
+ftoritje | other | freshness
+ftuarje | other | invitation
+fundinë | other | depth, abyss
+fursatoj | other | empower
+gabrros | adj | with full kit, rigged out
+gacëroj | other | entangle
+gadish | adv | nearly
+galimarde | adv | in a heap, in a muddle
+gavë | other | cavity, hollow
+gembët | adj | cross-eyed
+gëlqerak | adj | lime-, limy
+gëlvojkë | other | peel, shell, husk
+gëlvoxhë | other | shell, peel, husk
+gërdhaçinë | other | swallet, natural subsidence
+gërejtje | other | rattle (in the voice)
+gërëvëra | other | carpings, bickerings, petty gossip
+gërthetër | other | tendril
+gëzofore | other | a furry animal of the stoat kind
+gidh | other | untie
+gilicoj | other | tickle
+gillçë | other | string of an instrument
+gobis | other | fine
+gojërisht | adv | orally, by word of mouth
+goliç | other | journeyman, apprentice
+golloj | other | empty
+granicë | other | frontier, boundary
+grendë | other | rock, cliff
+grëshërë | other | fork
+grivët | adj | grey, grizzled

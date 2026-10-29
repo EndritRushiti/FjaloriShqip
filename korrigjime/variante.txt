@@ -4243,3 +4243,14 @@ fotografist | fotograf | alternative
 frikanak | frikacak | alternative
 fshikim | fshikullim | alternative
 fshikoj | fshikulloj | alternative
+# ── Mann 1948 ──
+fshtyrsinë | vështirësi | alternative
+ftoritje | ftorim | alternative
+fundinë | fundi | alternative
+gacëroj | ngatërroj | alternative
+gërthetër | kthetër | alternative
+gidh | zgjidh | alternative
+gobis | gjobis | alternative
+granicë | kufi | alternative
+grëshërë | gërshanë | alternative
+grivët | grivë | alternative
