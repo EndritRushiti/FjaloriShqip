@@ -4217,3 +4217,13 @@ bibliotore | bibliotekë | alternative
 bindtëm | bindur | alternative
 blokadë | bllokadë | alternative
 bramangë | merimangë | alternative
+# ── Mann 1948 ──
+bulos | vulos | alternative
+burokrasi | burokraci | alternative
+cbrydh | zbrydh | alternative
+cgahem | zgahem | alternative
+cgjej | zgjaj | alternative
+cigarris | tiganis | alternative
+cimentë | çimento | alternative
+crreme | crrem | alternative
+çasht | çast | alternative

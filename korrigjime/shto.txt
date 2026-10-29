@@ -66863,3 +66863,38 @@ bubash | other | worm
 bubinjë | other | an imported shrub or tree
 bukatar | adj | baker's, of bread
 buletinë | other | voting-slip, ballot paper
+# ── mannshto.tsv ──
+bulmeti | other | dairy-farming
+bulos | other | seal
+bulluris | other | bawl
+bullçim | other | jaw
+bumbeçkë | other | shoot, eye (of a potato)
+bunitem | other | get lumpy, get pimply
+burdokull | other | muscle complexus
+burgateshë | other | female prisoner
+burgjezi | other | bourgeoisie
+burokrasi | other | bureaucracy
+burroj | other | overflow, flood
+caktsi | other | exactitude, exactness, precision
+caruqe | other | a kind of trousers
+carraniqe | other | storehouses, pantries, larders
+cbrydh | other | over-ripen
+cëkazi | adv | shallowly
+cgahem | other | be exhausted
+cgjej | other | widen
+cicoj | other | tease, annoy
+cigarris | other | fry
+cignueme | other | quarrel
+cikorje | other | chicory
+cikrromë | other | icicle
+ciltik | adj | high-grade, fine
+cimentë | other | cement
+cipura | other | lees, skins (of olives)
+cirkëz | other | drop, sup, nip (of wine)
+coprinë | other | fragment
+crrem | other | earthen baking-pan
+crreme | other | baking-pan
+çamuke | other | a food dish
+çasht | other | moment
+çdredhis | other | unravel
+çelfitje | other | marking, scarring, scratching, scarifying
