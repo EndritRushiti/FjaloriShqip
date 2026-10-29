@@ -67207,3 +67207,5 @@ zdrukthtar | other | carpenter
 zdrukthtari | other | carpentry
 # ── hahnshto.tsv ──
 vezne | noun | balance, scales (for gold)
+# ── hahnshto.tsv ──
+bandjerë | noun | flag

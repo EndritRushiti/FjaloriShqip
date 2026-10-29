@@ -4294,3 +4294,5 @@ shkishnim | shkishërim | alternative
 çveshës | shveshës | alternative
 # ── Hahn 1854 ──
 vezne | peshore | alternative
+# ── Hahn 1854 ──
+bandjerë | flamur | alternative
