@@ -4102,3 +4102,5 @@ zvaritem | zvarritem | alternative
 zvaritje | zvarritje | alternative
 zvarna | zvarrë | alternative
 zvaros | zvarris | alternative
+# ── Mann 1948 ──
+zukas | zukat | alternative

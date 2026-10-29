@@ -66498,3 +66498,5 @@ zvarnisje | other | trailing, crawling, protraction
 zvaros | other | trail, drag
 zvarosem | other | drag along, trail, traipse, creep, crawl
 zvarrtur | adj | dragged out, protracted, dallying
+# ── mannshto.tsv ──
+zukas | other | buzz, hum
