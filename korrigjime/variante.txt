@@ -4276,3 +4276,14 @@ karvicë | karficë | alternative
 katorr | kotorr | alternative
 keqbënjës | keqbërës | alternative
 konjoj | kunjoj | alternative
+# ── Mann 1948 ──
+lopsuar | lopsuem | alternative
+minjollë | millonjë | alternative
+nënvijim | nënvizim | alternative
+nënvijoj | nënvizoj | alternative
+nënvleftsim | nënvlerësim | alternative
+nënvleftsoj | nënvlerësoj | alternative
+penelë | penel | alternative
+përfshimje | përfshirje | alternative
+përshkesë | procedurë | alternative
+prezore | dritare | alternative

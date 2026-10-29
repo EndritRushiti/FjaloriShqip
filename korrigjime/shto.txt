@@ -67156,3 +67156,30 @@ komisjer | other | commission agent
 komtoj | other | communicate
 kondendsi | other | contentment
 konjoj | other | peg
+# ── mannshto.tsv ──
+kopsutë | other | primula, auricula (in phrase)
+krokem | other | croak, caw
+kryegjeneral | other | marshal, field-marshal
+kryevijë | other | main line (railway); arterial road
+kundërtankës | adj | anti-tank
+letërlidhje | other | passbook, identification card, credential
+lopsuar | adj | stupefied
+llampadis | other | blind, glare
+malinkonik | adj | melancholy
+millonjë | other | tree stripped of its lower branches
+minjollë | other | stripped tree
+minaspastrues | other | minesweeper
+motosilurant | other | motor torpedo-boat
+motoveljer | other | motor sailing vessel
+mrros | other | drive along, impel
+nënvijim | other | underlining
+nënvijoj | other | underline
+nënvleftsim | other | undervaluation
+nënvleftsoj | other | undervalue, underrate
+pafikshëm | adj | unquenchable, inextinguishable
+palmuç | adv | in a heap
+penelë | other | paint-brush
+përfshimje | other | inclusion
+përshkesë | other | procedure
+ploshtët | adj | sluggish
+prezore | other | window
