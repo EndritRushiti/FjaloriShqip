@@ -67205,3 +67205,5 @@ vojgurmbajtse | other | oil tanker (in phrase)
 xhenjo | other | engineers (army)
 zdrukthtar | other | carpenter
 zdrukthtari | other | carpentry
+# ── hahnshto.tsv ──
+vezne | noun | balance, scales (for gold)
