@@ -66440,3 +66440,63 @@ zort | adv | by force
 zorrak | other | bull, ox; coward
 zorrovinë | other | long intestine, colon
 zorruk | other | glutton, parasite
+# ── mannshto.tsv ──
+zotdalës | other | defender, advocate
+zotët | adj | able, capable
+zotimtar | adj | promissory; guarantee-
+zotneshë | other | lady
+zotnim | other | control, rule; ownership; command
+zotnisht | adv | in lordly fashion
+zotëronjës | adj | mastering, dominating, ruling
+zotnjë | other | lady
+zotnohem | other | promise, vow, pledge oneself; guarantee
+zotnirisate | pron | yours (polite form)
+zotnirote | pron | you (polite form)
+zotsi | other | mastery; ability, competence
+zotynë | other | Our Lord
+zotyzot | other | the Lord God
+zuban | other | woman's cloak
+zucë | other | waste matter, dross, dregs, lees, sediment
+zue | other | heat
+zug | other | bother, annoyance, nuisance
+zugis | other | annoy, bother
+zuhadhe | other | haemorrhoids, piles
+zukas | other | buzz, hum
+zukë | other | buzzing
+zulij | other | shout
+zulis | other | distress
+zulmar | adj | ambitious; seeker after fame
+zumba | other | hand-punch
+zumbër | other | mullet
+zumbrut | other | emerald
+zumbyle | other | hyacinth
+zumim | other | buzz, hum, drone
+zumoj | other | buzz, hum, drone
+zungth | other | reed, rush
+zunkth | other | reed, rush
+zuqë | other | rush
+zurkajë | other | waterfall
+zurlë | other | clarinet
+zurrnë | other | clarinet
+zushkë | other | wench
+zuzare | other | scoundrelly woman, street-girl
+zuzarkë | other | street-girl
+zuzari | other | rascality, blackguardliness
+zuzaroj | other | play the rogue, act like a scoundrel
+zuzkë | other | rogue of a woman, bad woman
+zvar | adv | trailingly, draggingly
+zvarë | adv | trailingly
+zvaranik | adj | trailing, rambling, clambering; reptile
+zvaras | adv | trailingly
+zvarazi | adv | trailingly
+zvaris | other | trail, drag along; harrow
+zvaritem | other | creep, crawl
+zvaritje | other | harrowing; trailing
+zvarna | adv | trailing
+zvarnis | other | drag, trail along; protract, drag out
+zvarnisem | other | crawl, creep along, trail; linger, loiter
+zvarnisës | adj | trailing, crawling, loitering, protracted
+zvarnisje | other | trailing, crawling, protraction
+zvaros | other | trail, drag
+zvarosem | other | drag along, trail, traipse, creep, crawl
+zvarrtur | adj | dragged out, protracted, dallying
