@@ -66500,3 +66500,56 @@ zvarosem | other | drag along, trail, traipse, creep, crawl
 zvarrtur | adj | dragged out, protracted, dallying
 # ── mannshto.tsv ──
 zukas | other | buzz, hum
+# ── mannshto.tsv ──
+zverdhak | adj | pale, yellowish, ghastly
+zverdhëmtë | adj | pale, yellowish
+zverdhosh | adj | dun, tawny
+zverdhuk | adj | pale, yellowish, faded
+zverdhul | adj | roan
+zvertis | other | nauseate, turn, sicken
+zvertitje | other | nausea, sickening feeling, antipathy, loathing
+zveshët | adj | undressed, stripped, bare; unsheathed, drawn
+zvetnim | other | loss of character, disfigurement, degeneracy, defacement, denaturing
+zvetnoj | other | rob of character, degenerate, deface, disfigure, denature; change, adapt
+zvetorisht | adv | impersonally
+zvërdhij | other | satiate, nauseate
+zvërdhis | other | satiate
+zvërtis | other | nauseate, sicken, turn
+zvërtitem | other | be sickened, be nauseated; turn bad, decay, atrophy
+zvërtitje | other | nausea; decay, corruption, atrophy
+zvillatet | other | clears up (of weather)
+zvirdhem | other | be weaned; be repelled
+zvizlloj | other | whistle
+zvilim | other | breaking-off (of an engagement)
+zvloj | other | break off (an engagement)
+zvoglim | other | dwindling, wane, lessening, diminution, reduction; miniature
+svoglim | other | dwindling
+zvogloj | other | reduce, diminish, lessen
+zvoglohem | other | get smaller, lessen, abate
+zvugullon | other | dawns
+zvulos | other | unseal
+zyfnehet | other | wither, fade; evaporate
+zyft | other | tar, pitch
+zyle | other | bell
+zymbët | adj | gloomy
+zymç | other | cobbler's awl
+zymët | adj | dark, gloomy, glum, sullen
+zymnej | other | sadden
+zymnim | other | darkness, gloom; sadness, sorrow, dejection
+zymnyer | adj | dull, heavy
+zymti | other | gloom, sadness
+zymtuni | other | gloom
+zymyl | other | hyacinth
+zyrtari | other | officialdom
+zhabaris | other | dabble, splash
+zhabaritje | other | babbling, splashing, plashing, dabbling, paddling
+zhablak | other | toad
+zhablinë | other | buttercup, water-buttercup, kingcup
+zhabis | other | rinse, slop, dabble
+zhabillimë | other | shuffle
+zhabilloj | other | shuffle, trudge
+zhagas | adv | trailing
+zhagis | other | trail, drag
+zhagmis | other | tear, tousle, tug
+zhagmitem | other | scuffle, fight
+zhagravis | other | carve, incise, impress
