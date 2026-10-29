@@ -67231,3 +67231,5 @@ gjyç | adv | with difficulty, hard (to do)
 # ── hahnshto.tsv ──
 daima | adv | always
 dajim | adv | always
+# ── hahnshto.tsv ──
+dervend | noun | narrow mountain pass
