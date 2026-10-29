@@ -66764,3 +66764,21 @@ zhuzhullim | other | buzzing, hum
 zhuzhulloj | other | buzz, hum
 zhuzhun | other | weevil, louse (esp. vine-louse)
 zhuzhunë | other | vine-louse
+# ── mannshto.tsv ──
+zhvadis | other | disaccustom
+zhvaritet | other | clears up (of the weather)
+zhvas | other | snatch, seize, grab, plunder, raid
+zhvej | other | displace, dislodge
+zhvillesë | other | development, explanation, expounding
+shvillesë | other | development
+zhvillimtar | adj | development-, evolutionary
+zhvillonjës | adj | developing, constructive
+zhyj | other | dirty, soil
+zhyhem | other | dirty oneself, befoul oneself, wallow, get dirty
+zhylas | other | dirty, defile, foul, bespatter
+zhyshka | other | mumps
+zhytkryekuqe | other | diver-bird (red-headed)
+zhytrej | other | soil, foul, bespatter, dirty
+zhytrrej | other | soil
+zhytryem | adj | dirty, muddy, mud-bespattered
+zhytrryem | adj | muddy

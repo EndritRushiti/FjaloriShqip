@@ -4194,3 +4194,10 @@ zhuzhgë | zhuzhgaman | alternative
 zhuzhgët | zhuzhgaman | alternative
 zhuzhgitë | zhuzhgi | alternative
 zhuzhunë | zhuzhun | alternative
+# ── Mann 1948 ──
+shvillesë | zhvillesë | alternative
+zhvillonjës | zhvillues | alternative
+zhyj | zhyej | alternative
+zhyshka | zhushka | alternative
+zhytrrej | zhytrej | alternative
+zhytrryem | zhytryem | alternative
