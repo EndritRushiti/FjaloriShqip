@@ -66215,3 +66215,53 @@ zeshkaman | adj | dark, swarthy
 zeshkem | other | turn dark, turn brown
 zeshkoj | other | turn brown, obfuscate, tan, bronze
 zevë | other | holy mother, goddess
+# ── mannshto.tsv ──
+zëmbak | other | lily
+zëmblak | other | lily
+zëmrek | other | spring, catch, latch
+zënore | other | vowel
+zënor | adj | vocalic
+zëpritës | other | (telephone) receiver
+zërmurë | other | fire, fieriness, zeal
+zërnore | other | vowel
+zërtoj | other | shout
+zërvë | other | pap, mush (sweet liquid food for babies)
+zësjellës | adj | informative; informer
+zëth | other | little voice
+zëzëlloj | other | buzz, hum, whir
+zgada | other | hollow in a riverbank, water-cave, water-hole; river-bed
+zgafelloj | other | hollow out
+zgafiloj | other | expose, lay bare
+zgaj | other | weary, exhaust, wear out
+zgahem | other | be exhausted
+zgajtur | adj | exhausted; exhaustion
+zgal | other | emaciate; clear
+zgalem | other | sea-gull
+zgalët | adj | lean, emaciated
+zgalitet | other | clears up (of weather)
+zgalon | other | dawns
+zgaq | other | monster
+zgarbullë | other | hollow (esp. in a tree); hollow tree
+zgarbulloj | other | hollow, hollow out
+zgardhan | other | basket (esp. for the back)
+zgas | other | stretch; abuse, ill-treat, bully
+zgauriq | other | hollow
+zgauroj | other | hollow out
+zgavelle | other | hole, cave
+zgavlan | other | mantelpiece
+zgavloj | other | unearth
+zgavrë | other | hollow
+zgavriq | adj | hollow
+zgerbë | other | grape
+zgërbis | other | scrub, scour, scrape
+zgërbojë | other | hollow (esp. in a tree-trunk); hole, cavity
+zgërbonjë | other | hollow
+zgërdhehem | other | snarl, show the teeth
+zgërdhi | other | guffaw, horse-laugh; ridicule, scorn
+zgërdhij | other | crack open; chap; grin, sneer, snarl
+zgërdhimë | other | guffaw; grin, sneer, snarl
+zgërdhuc | other | open the eyes, stare
+zgërgërim | other | bubbling, burbling
+zgërgëroj | other | bubble, burble, purl
+zgëris | other | pull faces, make grimaces, pout; blub, be tearful
+zgërlitës | adj | tearful, with a wry face

@@ -4015,3 +4015,14 @@ zemërgjansi | zemërgjerësi | alternative
 zenpio | shembull | alternative
 ezenpio | shembull | alternative
 zerzevat | barishte | alternative
+# ── Mann 1948 ──
+zëmbak | zambak | alternative
+zëmblak | zambak | alternative
+zënore | zanore | alternative
+zënor | zanor | alternative
+zërnore | zanore | alternative
+zgafiloj | zgafulloj | alternative
+zgauriq | zgavër | alternative
+zgavelle | zgafelle | alternative
+zgavrë | zgavër | alternative
+zgërbonjë | zgërbojë | alternative
