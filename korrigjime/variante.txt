@@ -4008,3 +4008,10 @@ zehroj | helmoj | alternative
 zellnenë | zellnen | alternative
 zëmbrohem | zemërohem | alternative
 zëmbroj | zemëroj | alternative
+# ── Mann 1948 ──
+zemërdhimbur | zemërdhimbshëm | alternative
+zemërgjanë | zemërgjerë | alternative
+zemërgjansi | zemërgjerësi | alternative
+zenpio | shembull | alternative
+ezenpio | shembull | alternative
+zerzevat | barishte | alternative

@@ -66177,3 +66177,41 @@ zellnenë | other | depression
 zelloj | other | enthuse, fire
 zëmbrohem | other | get angry
 zëmbroj | other | anger
+# ── mannshto.tsv ──
+zemëratshëm | adj | passionate, ill-tempered, angry, irascible
+zemërbishë | adj | cruel
+zemërçjerrës | adj | heart-rending
+zemërçelët | adj | frank, open
+zemërdrejtë | adj | righteous
+zemërdysh | adj | in doubt, sceptical
+zemërdhimbshëm | adj | merciful, compassionate; kind
+zemërdhimbur | adj | compassionate
+zemërgatishëm | adj | willing, obliging
+zemërgrymë | adj | rascally; rascal, scamp
+zemërgurët | adj | callous, cruel
+zemërgjanë | adj | broadminded, magnanimous, generous
+zemërgjansi | other | broadmindedness
+zemërhapët | adj | open, frank
+zemërheqje | other | suffering
+zemërkeqem | other | grieve, be troubled, be worried
+zemërkërthijtë | adj | sensitive
+zemërkllirë | adj | malevolent
+zemërkthjelltë | adj | pure in heart, frank, ingenuous
+zemërligshtë | adj | evil
+zemërmadhërisht | adv | magnanimously
+zemërosh | adj | bold, brave
+zemërpak | adj | cowardly
+zemërplasë | adj | dejected, downcast; desperate; raging, furious
+zenpio | other | example
+ezenpio | other | example
+zeqine | other | wild olive (in phrase)
+zeraki | other | small sweet white grape
+zerde | other | rice pudding with saffron
+zere | other | zero, nil
+zerzevat | other | vegetables
+zerr | other | molecule, particle, element
+zerrak | other | ox which still follows the cows
+zeshkaman | adj | dark, swarthy
+zeshkem | other | turn dark, turn brown
+zeshkoj | other | turn brown, obfuscate, tan, bronze
+zevë | other | holy mother, goddess
