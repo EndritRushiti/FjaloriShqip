@@ -66821,3 +66821,45 @@ atilloj | other | strengthen, invigorate
 avallangë | other | avalanche; mass attack
 aviz | other | notice, announcement
 avri | other | wind
+# ── mannshto.tsv ──
+ballafaqes | adv | openly
+balltos | other | make muddy
+bangjer | other | banker
+barbole | other | a kind of shell-fish
+barje | other | loss, destruction, ruin
+barkore | other | frog-tribe
+barmiu | other | arsenic
+bashkjetesë | other | symbiosis
+bashkohtar | adj | contemporary
+bashklindës | adj | cognate
+bashtjel | other | ball, tangle, clew
+benzinatë | other | motor boat, patrol boat
+berca | other | a variety of olive (in phrase)
+bëgamë | adj | dirty, infected
+biblië | other | book
+bibliotore | other | library
+bimsë | other | hotbed
+bindtëm | adj | convinced
+binjollë | other | graft, grafting
+biskoj | other | branch out
+bistur | other | a kind of knife
+bizhdila | other | rubbish, offal
+blaçkë | other | stagnant water
+blijan | other | a fodder plant or tree
+blokadë | other | blockade
+blludis | other | wander, err
+bombahedhse | other | bomb-thrower
+borije | other | trumpet
+borinjtë | adj | of Scotch firs
+bostanore | other | plantation
+bramangë | other | spider; cobweb
+bredhishtë | other | fir-wood
+brengoj | other | swell, ulcerate, form tumours
+brestenë | other | white variety of grape (in phrase)
+bretanik | adj | British
+bruhajë | other | crumbly soil (in phrase)
+brugë | other | coastal shrub, tamarind (prob.)
+bubash | other | worm
+bubinjë | other | an imported shrub or tree
+bukatar | adj | baker's, of bread
+buletinë | other | voting-slip, ballot paper

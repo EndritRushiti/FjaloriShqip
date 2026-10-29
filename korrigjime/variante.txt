@@ -4209,3 +4209,11 @@ andejna | andej | alternative
 aqtor | ekuator | alternative
 armubulicë | tundës | alternative
 arollë | aureolë | alternative
+# ── Mann 1948 ──
+bashkjetesë | bashkëjetesë | alternative
+bashkohtar | bashkëkohës | alternative
+biblië | libër | alternative
+bibliotore | bibliotekë | alternative
+bindtëm | bindur | alternative
+blokadë | bllokadë | alternative
+bramangë | merimangë | alternative
