@@ -67055,3 +67055,38 @@ granicë | other | frontier, boundary
 grendë | other | rock, cliff
 grëshërë | other | fork
 grivët | adj | grey, grizzled
+# ── mannshto.tsv ──
+grona | other | a textile
+gropesje | other | pit, hollow
+grushë | other | breaking of cover, dislodgement
+gruzhdëz | other | small prolific variety of grape (in phrase)
+grrithem | other | scratch oneself, get scratched
+guashkë | other | shell, husk, peel
+gurtore | other | stonebed, quarry
+gjaculojë | other | firefly
+gjakftohtsisht | adv | cold-bloodedly
+gjamshëm | adj | bad, unlucky, disastrous, fatal
+gjanicë | other | loam
+gjasisht | adv | correspondingly, comparatively, relatively
+gjestojë | other | hurdle of a fold
+gjintar | other | gentile
+gjithëjetshëm | adj | eternal
+gjithnjëherje | adv | at once
+gjithsado | pron | whatever
+gjithsecilido | pron | everyone, anyone
+gjithzaj | adv | in general
+gjujtar | other | huntsman, sportsman
+gjurmsi | other | scouting
+gjymtrymoj | other | mutilate, cripple
+gjysatar | other | halfling, half-caste; peasant owner, truck farmer
+gjyti | other | hunting
+gjyverdare | other | a kind of gun
+habinim | other | curse
+hallkoj | other | ring, forge with a ring
+hallosur | adj | wretched, benighted, deserted
+hambullë | other | stubble
+hamlla | other | stubble
+hasmoj | other | hate
+hazmohem | other | yawn
+hejshëm | adj | early-ripening, early
+hesapoj | other | reckon, count

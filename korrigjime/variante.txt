@@ -4254,3 +4254,13 @@ gobis | gjobis | alternative
 granicë | kufi | alternative
 grëshërë | gërshanë | alternative
 grivët | grivë | alternative
+# ── Mann 1948 ──
+guashkë | guaskë | alternative
+gjaculojë | xixëllonjë | alternative
+gjakftohtsisht | gjakftohtësisht | alternative
+gjujtar | gjahtar | alternative
+gjymtrymoj | gjymtoj | alternative
+gjyti | gjueti | alternative
+hambullë | hamullë | alternative
+hamlla | hamullë | alternative
+hasmoj | urrej | alternative
