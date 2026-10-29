@@ -4287,3 +4287,8 @@ penelë | penel | alternative
 përfshimje | përfshirje | alternative
 përshkesë | procedurë | alternative
 prezore | dritare | alternative
+# ── Mann 1948 ──
+regjizor | regjisor | alternative
+suzam | susam | alternative
+shkishnim | shkishërim | alternative
+çveshës | shveshës | alternative

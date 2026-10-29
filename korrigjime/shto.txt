@@ -67183,3 +67183,25 @@ përfshimje | other | inclusion
 përshkesë | other | procedure
 ploshtët | adj | sluggish
 prezore | other | window
+# ── mannshto.tsv ──
+regjizor | other | producer, director
+rimkambje | other | reinstatement
+ronitës | adj | of attrition
+skarnoj | other | strip (leather)
+skërbajë | other | moth
+solfegj | other | solfa
+suzam | other | sesame
+shartore | other | graftling
+shfrimtar | adj | alleviating, relieving
+shkishnim | other | excommunication
+shkulse | other | grubber
+shveshës | adj | stripping
+çveshës | adj | stripping
+turrmak | other | male wood-pigeon (prob.)
+turrshej | other | rush
+urimtar | adj | congratulatory
+vetëvendosës | adj | self-determining
+vojgurmbajtse | other | oil tanker (in phrase)
+xhenjo | other | engineers (army)
+zdrukthtar | other | carpenter
+zdrukthtari | other | carpentry
