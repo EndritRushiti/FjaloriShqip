@@ -65776,3 +65776,58 @@ xhapi | other | lizard
 xharap | other | stocking
 xharë | other | hawk, vulture
 xhaurrë | other | chip, splinter
+# ── mannshto.tsv ──
+xhavidhe | other | shell
+xhaville | other | shell
+xhaxheshë | other | aunt
+xhbarroj | other | unload
+xheleg | other | yearling lamb
+xhelik | other | tipcat (game)
+xhelinë | other | short jacket
+xhelit | other | javelin, dart, arrow
+xhenxhafil | other | ginger
+xhepane | other | powder magazine, arsenal, ammunition dump
+xhepth | other | pouch
+xhevair | other | gem, jewel
+xhevërdare | other | rifle
+xhevërxhile | other | nitre, saltpetre
+xhevze | other | coffee-pot
+xheze | other | coffee-pot
+xhezme | other | coffee-pot
+xhëngërris | other | clatter, hurtle down
+xhgan | other | crowd
+xhiç | pron | something
+xhigant | other | giant
+xhimbllik | other | gold braid
+xhimkodan | other | primrose
+xhimkurth | other | scilla (plant)
+xhimxhakës | other | sparrow
+xhimxhimës | other | sparrow
+xhing | other | zinc
+xhingo | other | zinc
+xhingëroj | other | galvanise
+xhirit | other | javelin
+xhixhillim | other | sparkle, flash
+xhixhilloj | other | sparkle, flash, gleam, twinkle
+xhixhëllim | other | sparkle
+xhixhëllonjës | adj | sparkling, dazzling, gleaming, radiant, twinkling
+xhixhëllues | adj | sparkling
+xhixhëllueshëm | adj | sparkling
+xhollë | other | garden-bell, plant-protector
+xhomangë | other | club
+xhongë | other | lump, swelling
+xhongël | other | lump
+xhonglohem | other | form a lump, swell
+xhorë | other | dart, javelin
+xhudh | other | Jew
+xhudhisht | adv | in Hebrew; in Jewish fashion
+xhufkët | adj | tufted, crested, hairy
+xhugas | other | bother, annoy
+xhuguli | other | tickling
+xhugulis | other | tickle
+xhuk | other | darkness
+xhukës | other | scabies
+xhugës | other | scabies
+xhukulis | other | tickle
+xhulk | adj | ripe, mellow
+xhullinë | other | jacket
