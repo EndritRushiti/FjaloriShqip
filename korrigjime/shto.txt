@@ -67125,3 +67125,34 @@ kapuloj | other | storm, overwhelm, overcome
 kapulues | adj | storming, overwhelming
 karagua | other | a variety of maize (in phrase)
 karakollanë | other | sentry-box, patrol-box, police-station
+# ── mannshto.tsv ──
+kartëpirës | other | blotting-paper
+karvicë | other | pin, brooch
+kashore | other | bite
+kashull | other | safe, strongbox (perh.)
+katorr | other | buffalo-calf
+keqbënjës | other | evildoer
+keqbënjësi | other | crime, wrongdoing
+keshnjet | other | a tree found in lowland scrub areas
+kemajë | other | wafer (for the dying)
+këmbëmbledhur | adj | with feet together
+këmbëndejturaj | adv | with legs apart, sprawling
+këmbëvartur | adj | with legs dangling
+kënatje | other | oval-shaped water-bottle
+këndipari | adv | hence
+këngtoj | other | sing
+këpuctari | other | shoe-repair shop, shoe-shop
+kërbec | adj | dun, brown (of cattle)
+kërqapë | other | triangle of wood fitted to a pig's neck to prevent escape
+kërthneset | adj | gay, bright
+kjarim | other | clearing up, brightening; explanation, clarification
+klaptim | other | wailing
+koçaç | other | woody nightshade
+kohëshok | other | contemporary
+kohëz | other | short time, while
+koklan | other | a fish
+komcoj | other | button
+komisjer | other | commission agent
+komtoj | other | communicate
+kondendsi | other | contentment
+konjoj | other | peg

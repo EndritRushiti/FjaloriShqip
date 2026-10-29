@@ -4271,3 +4271,8 @@ kaçarel | kaçurrel | alternative
 kaçurel | kaçurrel | alternative
 kallëmb | kallam | alternative
 kaprroç | kaprreç | alternative
+# ── Mann 1948 ──
+karvicë | karficë | alternative
+katorr | kotorr | alternative
+keqbënjës | keqbërës | alternative
+konjoj | kunjoj | alternative
