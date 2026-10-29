@@ -4307,3 +4307,7 @@ jemin | be | alternative
 jeshiloj | gjelbëroj | alternative
 jetëk | gjetëk | alternative
 urnek | jurnek | alternative
+# ── Hahn 1854 ──
+gargi | shtizë | alternative
+gatëri | ngatërresë | alternative
+gatëroj | ngatërroj | alternative
