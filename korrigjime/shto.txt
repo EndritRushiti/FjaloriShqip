@@ -66782,3 +66782,42 @@ zhytrej | other | soil, foul, bespatter, dirty
 zhytrrej | other | soil
 zhytryem | adj | dirty, muddy, mud-bespattered
 zhytrryem | adj | muddy
+# ── mannshto.tsv ──
+adjudikatë | other | offer of contract, government tender
+axhudikatë | other | government tender
+aerodetar | adj | sea-air
+aeroplanmbartëse | other | aircraft-carrier
+afsohem | other | run out, fail
+ajeni | interj | let us go!
+ajy | pron | he, that one
+aktdorzim | other | deed of transfer
+aktlidhje | other | agreement, bond
+aktzyrtar | other | official act
+aktueshëm | adj | compressible
+alivin | other | chrysolite
+allatis | other | fan, cool
+ambëlsinar | other | confectioner
+anasjellët | adj | reversed
+andejna | adv | just round there
+andese | conj | although
+angshtoj | other | fasten, make firm
+angjeç | conj | until
+anice | other | aniseed
+ankast | adv | on purpose, specially
+apor | conj | or
+aqtor | other | equator
+arabashnje | other | rubbish
+aralik | adj | withered, blighted
+arapishte | other | Arabic
+armubulicë | other | churn
+arollë | other | aureole, halo
+artsi | other | fattiness, fat
+asdikush | pron | nobody
+asem | other | meet
+asgjasi | other | nothingness
+asjatërsor | adj | neutral
+ashikësh | other | a game played with walnuts
+atilloj | other | strengthen, invigorate
+avallangë | other | avalanche; mass attack
+aviz | other | notice, announcement
+avri | other | wind

@@ -4201,3 +4201,11 @@ zhyj | zhyej | alternative
 zhyshka | zhushka | alternative
 zhytrrej | zhytrej | alternative
 zhytrryem | zhytryem | alternative
+# ── Mann 1948 ──
+axhudikatë | adjudikatë | alternative
+ajy | ay | alternative
+ambëlsinar | ëmbëltore | alternative
+andejna | andej | alternative
+aqtor | ekuator | alternative
+armubulicë | tundës | alternative
+arollë | aureolë | alternative
