@@ -4296,3 +4296,7 @@ shkishnim | shkishërim | alternative
 vezne | peshore | alternative
 # ── Hahn 1854 ──
 bandjerë | flamur | alternative
+# ── Hahn 1854 ──
+bardakçi | poçar | alternative
+bezerjan | tregtar | alternative
+bezerjanllëk | tregti | alternative

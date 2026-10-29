@@ -67209,3 +67209,7 @@ zdrukthtari | other | carpentry
 vezne | noun | balance, scales (for gold)
 # ── hahnshto.tsv ──
 bandjerë | noun | flag
+# ── hahnshto.tsv ──
+bardakçi | noun | potter
+bezerjan | noun | merchant
+bezerjanllëk | noun | trade, commerce
