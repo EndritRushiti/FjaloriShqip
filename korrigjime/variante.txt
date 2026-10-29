@@ -4300,3 +4300,5 @@ bandjerë | flamur | alternative
 bardakçi | poçar | alternative
 bezerjan | tregtar | alternative
 bezerjanllëk | tregti | alternative
+# ── Hahn 1854 ──
+bulukçi | bylykbash | alternative

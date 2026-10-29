@@ -67213,3 +67213,5 @@ bandjerë | noun | flag
 bardakçi | noun | potter
 bezerjan | noun | merchant
 bezerjanllëk | noun | trade, commerce
+# ── hahnshto.tsv ──
+bulukçi | noun | leader of an armed band; a chieftain's adjutant
