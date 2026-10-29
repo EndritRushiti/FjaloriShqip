@@ -67090,3 +67090,38 @@ hasmoj | other | hate
 hazmohem | other | yawn
 hejshëm | adj | early-ripening, early
 hesapoj | other | reckon, count
+# ── mannshto.tsv ──
+hexel | other | bogey, evil genius (perh.)
+hërças | other | belch
+hirkë | other | a garment
+hoshmare | other | a cheese dish
+huajpritës | adj | hospitable
+huajpritje | other | hospitality
+huarje | other | loan
+hurdhatar | adj | marshy, boggy, swampy
+hushhush | adv | with a rustling noise
+inglishte | other | English language
+ingjineri | other | engineering
+interesëm | adj | interesting
+ithkë | other | a garment, veil (prob.)
+jakut | other | ruby
+jehem | other | remain
+jetëm | other | remain
+jonsi | other | melody
+juzhis | other | damp, make wet
+kabardisem | other | boast
+kacafys | other | egg on, rile, set on
+kaçarel | other | curl
+kaçurel | other | curl
+kaleshen | other | curl, frizz, shrivel (of hair)
+kallamoqishtë | other | maize-field
+kallëmb | other | reed
+kapakli | other | a kind of gun
+kapellabërës | other | hatter, hatmaker, milliner
+kaprroç | adj | bold
+kaptis | other | seize, take possession of
+kapulis | other | enfold, clasp
+kapuloj | other | storm, overwhelm, overcome
+kapulues | adj | storming, overwhelming
+karagua | other | a variety of maize (in phrase)
+karakollanë | other | sentry-box, patrol-box, police-station

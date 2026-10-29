@@ -4264,3 +4264,10 @@ gjyti | gjueti | alternative
 hambullë | hamullë | alternative
 hamlla | hamullë | alternative
 hasmoj | urrej | alternative
+# ── Mann 1948 ──
+jetëm | jehem | alternative
+kabardisem | mburrem | alternative
+kaçarel | kaçurrel | alternative
+kaçurel | kaçurrel | alternative
+kallëmb | kallam | alternative
+kaprroç | kaprreç | alternative
