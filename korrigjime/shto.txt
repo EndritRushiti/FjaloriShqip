@@ -65977,3 +65977,57 @@ zaproj | other | fold, crease
 zaprues | adj | ear-witness
 zaptimtar | adj | dominant, victorious; overlord
 zaptonjës | adj | conquering; conqueror
+# ── mannshto.tsv ──
+zaraki | other | red variety of grape
+zarfë | other | envelope
+zarkadhe | other | doe
+zarm | other | fire
+zarr | other | fire
+zastojë | other | gate, grille, iron bars
+zashëm | adj | sounding, vocal, resounding
+zashme | other | vowel
+zates | other | pounce on, swoop on, attack, seize, capture
+zatis | other | attack, seize
+zatitës | adj | seizing, attacking, occupying; attacker, aggressor, occupier
+zatitje | other | seizure, attack, aggression, occupation
+zatrash | adj | deep-voiced, bass
+zavanak | other | outsider, foreigner
+zavatar | adj | clumsy; clumsy fellow
+zavendës | adj | acting, vice-, deputy; representative, agent
+zavendësi | other | deputising, representation, agency, substitution
+zavendësim | other | replacement, substitution
+zavendësoj | other | represent, replace, substitute
+zavendësues | adj | substituting
+zavojë | other | appliance for fastening a scythe-blade to the handle
+zavrak | other | spoilt child, wayward child
+zavrat | other | garden-bed, flower-bed
+zazë | other | shellfish, crustacean; shell of a fish, conch
+zbaltihet | other | becomes white, dawns
+zbaltoj | other | mud-bespatter
+zbardhem | other | turn white, turn pale, fade; dawn
+zbardhëm | adj | pale, whitish
+zbardhme | other | whitening, bleaching; dawn, daybreak; white marking
+zbardhuk | adj | pale, whitish; albino
+zbardhukët | adj | whitish
+zbardhulem | other | turn white, turn pale, fade
+zbardhullej | other | turn pale; dawn
+zbardhullohem | other | turn pale, blanch
+zbardhullim | other | whitening, paling, bleaching; dawn, daybreak
+zbardhulloj | other | whiten
+zbardhulluar | other | daybreak
+zbardhuqem | other | turn white, turn pale
+zbardhylem | other | turn pale
+zbaris | other | turn pale
+zbaritem | other | lose colour, turn pale; be dumbfounded
+zbashku | adv | together
+zbat | other | ebb
+zbatis | other | ebb
+zbatonjës | adj | executive, effective
+zbatharak | adj | barefoot
+zbavi | other | amusement, sport
+zbehtoj | other | turn pale
+zbejtje | other | pallor
+zbemë | adj | pale; dark
+zbeq | other | beat, thrash
+zbetak | adj | pale, pallid
+zbetë | adj | pale, pallid; pallor
