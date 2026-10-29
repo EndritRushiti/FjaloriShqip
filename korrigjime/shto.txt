@@ -66073,3 +66073,62 @@ zbrydhur | adj | overripe
 zbuarje | other | dispersal, rout, deportation
 zbulimtar | adj | pioneering, exploratory; pioneer, discoverer
 zbuluet | adj | revealed, bare
+# ── mannshto.tsv ──
+cbruj | verb | soak
+zbroj | other | mash, knead
+zbunoj | other | caress, cajole, wheedle, coax, flatter; derive
+zbunj | other | mash, knead
+zbunjë | other | blister; fluff from spinning
+zburak | other | sparrow, martin
+zburk | other | cyclamen
+zburth | other | tumour on a horse's palate
+zburthem | other | appear, show oneself
+zburrnim | other | unmanning
+zburrnoj | other | unman
+zbutoj | other | soften, soothe
+zbutsoj | other | soften
+zbutues | adj | taming, softening, attenuating, emollient; tamer
+zbyll | other | undo, unlock, open
+zdaçëm | adj | bold, confident
+zdapal | adj | tough, sinewy, knotted, gnurled
+zdaparoj | other | blockade, barricade
+zdaplloj | other | cane, flog, thrash
+zdapulloj | other | cane, flog
+zdas | other | free, emancipate, allow freedom to, give way to, encourage, spoil
+zdatem | other | make bold, take the liberty, take liberties
+zdati | other | boldness, liberty, freedom, self-assurance, confidence
+zdatk | other | inner wall, partition
+zdatkë | other | partition
+zdatkohem | other | overeat
+zdatshëm | adj | bold, free, confident, unchecked, impudent
+zdatur | adj | bold, confident
+zdathë | adj | barefoot
+zderr | other | gossip, twaddler
+zderraman | adj | talkative
+zderrë | other | gossipy woman
+zdeshem | other | get undressed, strip, bare oneself
+zdeshë | adj | bare, stripped, undressed, naked
+zderë | other | crony, hag; wizened, haggish
+zdërgahem | other | spread oneself out, sprawl, lounge; show off, swagger
+zdërgjahem | other | sprawl
+zdërhallem | other | feast, revel
+zdërhallë | other | revelry
+zdërlavis | other | dirty, soil, spoil
+zdërmoj | other | descend, alight
+zdërvallem | other | revel
+zdërvek | other | nape
+zdërris | other | brawl, bawl
+zdërritem | other | brawl
+zdishem | other | get undressed
+zdjeg | other | burn up
+zdjerg | other | descend
+zdo | pron | some, a few, several
+zdolqem | other | be in childbed
+zdrahem | other | be bruised; form a lump, swell; over-eat, sate oneself
+zdrangthi | adv | at a gallop, at a jogtrot
+zdrankthi | adv | at a gallop
+zdredh | other | untwist, unwrap, unfold, unfurl
+zdridhem | other | untwist (oneself)
+zdriçim | adj | bright, radiant
+zdris | other | light up, illuminate; enlighten; glorify; shed light on, explain
+zdritur | adj | illuminated
