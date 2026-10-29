@@ -4328,3 +4328,5 @@ ikram | nderim | alternative
 isharet | shenjë | alternative
 # ── Hahn 1854 ──
 kandilier | shandan | alternative
+# ── Hahn 1854 ──
+keramidhçi | tjegullar | alternative

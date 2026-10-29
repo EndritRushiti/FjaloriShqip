@@ -67241,3 +67241,5 @@ ikram | noun | honourable welcome, reception with honours
 isharet | noun | sign, wink
 # ── hahnshto.tsv ──
 kandilier | noun | candlestick, lamp-holder
+# ── hahnshto.tsv ──
+keramidhçi | noun | tile-maker; brick-maker
