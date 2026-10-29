@@ -66343,3 +66343,66 @@ zierr | other | draw out
 ziesë | other | vegetable
 zijesë | other | vegetable
 zigare | other | scale, balance
+# ── mannshto.tsv ──
+zigjas | other | weigh
+zihariq | other | news, good news, tidings
+xihariq | other | news
+zihariqtar | other | messenger
+zihje | other | fight, brawl, quarrel, strife
+zij | other | boil; blacken
+zijas | other | famish
+zijos | other | famish
+zijosh | adj | dark
+zik | other | tuberculosis
+zikal | adj | consumptive
+zikan | adj | consumptive
+zikojë | adj | dark, dusky, swarthy
+zikzak | adj | zigzag
+zilepsëm | adj | enviable, desirable
+zilijar | adj | jealous
+zilitar | other | jealous person
+ziliqarisht | adv | jealously
+zilkë | other | little bell
+zilshëm | adj | jealous
+zimbicë | other | tumour on a horse's palate
+zimbil | other | hyacinth
+zimë | adj | boiled
+zios | other | starve
+ziosur | adj | famished
+ziosh | adj | dark, dark-haired
+zis | other | egg on, urge, provoke, irritate
+zishëm | adj | gloomy, drab, dark; quarrelsome, irritable, grumpy
+zitje | other | incitement
+zizillim | other | hum, buzz
+zizilloj | other | hum, buzz
+zjabicë | other | latch
+zjamure | other | bonfires
+zjar | other | lever
+zjarishtje | other | fireplace
+zjamëz | other | firefly
+zjarmje | other | feverishness
+zjarmoj | other | fire, inflame
+zjarmos | other | fire, inflame
+zjarrët | adj | fiery, igneous; passionate, fervent
+zjarrim | other | excitement, passion, temper
+zjarrlutës | other | fire-worshipper
+zjarros | other | fire, set on fire, inflame
+zjarrosur | adj | passionate, inflamed, burning
+zjarrsi | other | passion, ardour
+zjarrsim | other | inflammation, firing, incitement
+zjarrshëm | adj | fiery
+zjarrshojtës | other | fire-extinguisher
+zjarrtore | other | furnace
+zjarrtsi | other | ardour, passion
+zjarrth | other | canker (in the mouth)
+zjarrvënje | other | arson
+zjerë | adj | effervescent, boiling; on fire
+zjerje | other | boiling, effervescence
+zjermi | other | heat, passion
+zllak | other | gaiter
+zmaltim | other | enamelling, enamel
+zmaltoj | other | enamel
+zmbrap | other | press back, force back
+zmbrapem | other | retire, retreat, recoil, withdraw, retrogress
+zmbruj | other | pound, pulp; browbeat
+zmeks | other | amaze, take aback
