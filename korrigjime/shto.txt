@@ -67235,3 +67235,7 @@ dajim | adv | always
 dervend | noun | narrow mountain pass
 # ── hahnshto.tsv ──
 xhet | noun | lineage, descent
+# ── hahnshto.tsv ──
+ikajet | noun | story, tale, legend
+ikram | noun | honourable welcome, reception with honours
+isharet | noun | sign, wink
