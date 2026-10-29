@@ -66264,3 +66264,53 @@ zgërgërim | other | bubbling, burbling
 zgërgëroj | other | bubble, burble, purl
 zgëris | other | pull faces, make grimaces, pout; blub, be tearful
 zgërlitës | adj | tearful, with a wry face
+# ── mannshto.tsv ──
+zgërmis | other | groove, scoop out, hollow out
+zgidhëm | adj | solvable
+zgidhme | other | release
+zgidhshëm | adj | solvable
+zgiq | other | hole, cell; creek, chamber
+zglebe | other | matter from the eyes
+zglibë | other | matter from the eyes
+zgloq | other | matter from the eyes
+zgllebe | other | part of a car's steering gear
+zgobinatë | other | subsidence of soil, hollow, swallet
+zgofe | other | hollow
+zgorç | adj | hollow, hollow-stemmed
+zgorgë | other | hole, cavity, hollow
+zgorgem | other | be famished
+zgorofaqe | other | primrose, cowslip
+zgozhdoj | other | unnail
+zgradivoj | other | scorpion
+zgrap | other | take a bite out of, bite into, cut into, graze, chap, lacerate
+zgrebis | other | scrub, scour, scrape
+zgrindëm | adj | savage, snappy
+zgripët | adj | sparing, moderate, simple-living, thrifty, ascetic, frugal
+zgripina | other | shallows
+zgroftirë | other | stink
+zgrop | other | stomach; pit of the stomach
+zgropem | other | have an empty feeling, be hungry
+zgropëm | adj | empty-feeling, hungry
+zgropim | other | excavation
+zgropoj | other | excavate
+zgrymë | adj | dirty, soiled, muddy, filthy; dirtying
+zgurdhullim | other | bulging
+zgurrem | other | be famished
+zgurroj | other | hollow, hollow out
+zgurris | other | scratch, scrape
+zgjaj | other | tire, exhaust, weary
+zgjahem | other | be exhausted; spread oneself, extend, broaden out; take liberties, swagger
+zgjamë | adj | outspread, extended, wide; bold, confident, swaggering
+zgjanim | other | widening, broadening, expansion, extension, amplification
+zgjanoj | other | widen, broaden, expand
+zgjanues | adj | widening, broadening
+zgjeronjës | adj | widening
+zgjarth | other | scurvy; furred tongue
+zgjardh | other | scurvy
+zgjebanik | adj | leprous, scurvy, scabby, mangy
+zgjebash | adj | scabby
+zgjebët | adj | scabby, mangy
+zgjebëz | other | scabious (a flowering plant)
+zgjebos | other | infect with mange
+zgjebosem | other | get scabby, get mangy
+zgjebuar | adj | scabby, mangy

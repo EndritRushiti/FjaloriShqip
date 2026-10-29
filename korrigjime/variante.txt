@@ -4026,3 +4026,16 @@ zgauriq | zgavër | alternative
 zgavelle | zgafelle | alternative
 zgavrë | zgavër | alternative
 zgërbonjë | zgërbojë | alternative
+# ── Mann 1948 ──
+zgidhshëm | zgidhëm | alternative
+zglebe | glepë | alternative
+zglibë | glepë | alternative
+zgloq | glepë | alternative
+zgurdhullim | zgurdullim | alternative
+zgjanoj | zgjeroj | alternative
+zgjanues | zgjerues | alternative
+zgjeronjës | zgjerues | alternative
+zgjardh | zgjarth | alternative
+zgjebash | zgjebanik | alternative
+zgjebët | zgjebanik | alternative
+zgjebuar | zgjebosur | alternative
