@@ -4069,3 +4069,11 @@ zjarrshojtës | zjarrfikës | alternative
 zjarrtsi | zjarrsi | alternative
 zjarrvënje | zjarrvënie | alternative
 zjermi | zjarrmi | alternative
+# ── Mann 1948 ──
+zmilar | cmilar | alternative
+zmrap | zmbrap | alternative
+zodhja | zodiak | alternative
+zogari | zogori | alternative
+zojushë | zonjushë | alternative
+zorçëm | zorshëm | alternative
+zorkalle | zorkadhe | alternative

@@ -66406,3 +66406,37 @@ zmbrap | other | press back, force back
 zmbrapem | other | retire, retreat, recoil, withdraw, retrogress
 zmbruj | other | pound, pulp; browbeat
 zmeks | other | amaze, take aback
+# ── mannshto.tsv ──
+zmilar | other | ignition, fuse
+zmilem | other | set out, set off
+zmiroj | other | envy, bear ill will
+zmirtar | adj | spiteful, envious, grudging
+zmirueshëm | adj | spiteful, envious
+zmirzi | adj | spiteful, envious, grudging
+zmrap | other | press back
+znaq | adj | stingy, miserly
+zoçkë | other | chick; female of small animals
+zodhja | other | zodiac
+zogar | other | poultry-keeper
+zogari | other | pack, crowd
+zogdelje | other | wagtail
+zogkamilë | other | peacock
+zografis | other | paint, draw, sketch
+zogsi | other | ornithology
+zoguherë | other | bird of ill omen, poor wretch
+zojth | other | ankle, ankle-bone
+zojushë | other | young lady, Miss
+zojushkë | other | little miss
+zojz | other | ancient Albanian god of lightning
+zollotë | other | coin worth 30 paras
+zorçëm | adj | difficult
+zorim | other | force, pressure, constraint; difficulty
+zoris | other | force, attempt by force; compel; worry
+zorkalle | other | doe
+zorkadhe | other | doe, roe; a variety of grape; a marsh plant
+zorkllim | other | chatter (of teeth)
+zorklloj | other | chatter (of teeth)
+zort | adv | by force
+zorrak | other | bull, ox; coward
+zorrovinë | other | long intestine, colon
+zorruk | other | glutton, parasite
