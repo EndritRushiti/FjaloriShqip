@@ -65918,3 +65918,62 @@ zahuri | other | sadness
 zahuris | other | sadden
 zakarinë | other | saccharine
 zakob | other | pickling-vat for cheese
+# ── mannshto.tsv ──
+zakonët | adj | usual, customary
+zakonis | other | accustom
+zakonoj | other | accustom, habituate
+zakosë | other | mowing field
+zakovë | other | iron ring (esp. securing a scythe-blade to the handle)
+zalar | adj | pushing, impertinent
+zalikë | other | opportunity
+zalishëm | adj | giddy, frivolous; opportune
+zallë | other | shingle, gravel
+zallah | other | hubbub, row, racket, din
+zallahishëm | adj | rowdy, noisy, tumultuous
+zallahitem | other | kick up a row, brawl
+zalldan | other | weariness, sadness, sorrow
+zallët | adj | gravelly, shingly, sandy
+zalloj | other | silt up
+zallohet | other | silts up
+zallotë | other | coin (30 paras)
+zallshëm | adj | shingly, gravelly
+zamak | other | lily
+zambare | other | shawm, bagpipes
+zamaris | other | study, examine, take stock of, view, eye
+zamaritje | other | study, examination, viewing, eyeing
+zamc | other | hinge
+zame | other | graver, stylus; chisel, gouge
+zamë | other | graver
+zamërherë | other | late afternoon, teatime
+zamëroj | other | breakfast
+zaminar | other | examine
+zaminonj | other | examine
+zamirë | adj | melodious, harmonious
+zanmare | other | shawm
+zanaqar | adj | workmanlike, skilled; handy-man, artisan
+zanatqar | adj | skilled
+zanc | other | dam, sluice (of a millrace)
+zang | other | gum, glue
+zangale | other | milch sheep or goat without young
+zanje | other | taking, seizure, stoppage, arrest; curdling; betrothal; occupation
+zankë | other | row, wrangle, squabble
+zanme | other | taking, seizure
+zanoj | other | strike (with a spell), bewitch; harm
+zantore | other | vowel
+zantri | other | trumpet
+zanxhafil | other | ginger
+zanzar | adj | irascible, crusty, irritable
+zanzari | other | irritability
+zap | other | captive, (one) under arrest
+zapaçitur | adj | nervous
+zapaçkë | other | sneer
+zapana | other | mansion
+zapar | other | sultriness
+zaparis | other | boil, brew, stew
+zapoj | other | capture, seize
+zapri | other | crease, fold, wrinkle
+zapris | other | fold, crease, wrinkle; pucker
+zaproj | other | fold, crease
+zaprues | adj | ear-witness
+zaptimtar | adj | dominant, victorious; overlord
+zaptonjës | adj | conquering; conqueror
