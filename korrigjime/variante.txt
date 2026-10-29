@@ -4315,3 +4315,6 @@ gatëroj | ngatërroj | alternative
 gjemixhi | detar | alternative
 # ── Hahn 1854 ──
 gjyç | vështirë | alternative
+# ── Hahn 1854 ──
+daima | gjithmonë | alternative
+dajim | gjithmonë | alternative

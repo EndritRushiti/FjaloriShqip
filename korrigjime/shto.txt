@@ -67228,3 +67228,6 @@ gatëroj | verb | to confuse, to entangle
 gjemixhi | noun | seaman, sailor
 # ── hahnshto.tsv ──
 gjyç | adv | with difficulty, hard (to do)
+# ── hahnshto.tsv ──
+daima | adv | always
+dajim | adv | always
