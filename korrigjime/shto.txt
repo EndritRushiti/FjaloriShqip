@@ -66132,3 +66132,48 @@ zdridhem | other | untwist (oneself)
 zdriçim | adj | bright, radiant
 zdris | other | light up, illuminate; enlighten; glorify; shed light on, explain
 zdritur | adj | illuminated
+# ── mannshto.tsv ──
+zdrivillim | other | development, evolution
+zdrivilloj | other | develop, evolve
+zdrivillohem | other | develop
+sdrug | other | plane
+zdrugth | other | plane
+zdrugim | other | planing
+zdrugos | other | plane
+zdrugtar | other | carpenter, joiner
+zdruktar | other | carpenter
+zdrugtari | other | carpenter's shop, joinery
+zdruktari | other | joinery
+zdrugthoj | other | plane
+zdrugthsi | other | carpentry
+zdrukthatar | other | carpenter
+zdrukthinë | other | shaving
+zdrukthni | other | carpentry, joinery
+zdrukthoj | other | plane
+zdrupzdrup | adv | tinkle-tinkle (of cowbells)
+zdrykaç | adj | clumsy, awkward
+zdrypës | adj | descending; falling
+zdrris | other | brawl
+zdukem | other | be invisible
+zebë | other | black-haired goat
+xebë | other | black-haired goat
+zedef | other | mother-of-pearl
+zedeft | adj | of pearl, of shell
+zegal | other | gadfly, horsefly
+zegël | other | gadfly
+zegth | other | gadfly
+zehe | other | mine
+zehëris | other | poison
+zehroj | other | poison
+zejbek | other | interloper (in a wedding game)
+zejshëm | adj | skilful, artistic
+zekë | adj | jet-black; black (of a horse); black sheep
+zekinë | other | sequin
+zelë | other | large cabbage
+zeli | other | jealousy
+zelikade | other | a kind of lily
+zellnen | other | depression, low spirits, apprehension, anxiety
+zellnenë | other | depression
+zelloj | other | enthuse, fire
+zëmbrohem | other | get angry
+zëmbroj | other | anger
