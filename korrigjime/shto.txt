@@ -66553,3 +66553,71 @@ zhagis | other | trail, drag
 zhagmis | other | tear, tousle, tug
 zhagmitem | other | scuffle, fight
 zhagravis | other | carve, incise, impress
+# ── mannshto.tsv ──
+zhajkë | other | hollow walnut; leavings, waste (esp. of silk)
+zhake | other | sack, canvas bag, corn-bag, nosebag
+zhakë | other | bog, fen, marsh; pond, pool; box, case
+zhalagan | other | a bird
+zhall | other | semen, sperm
+zhallë | other | semen
+zhamalle | other | brawl, row
+zhamel | other | boulder
+zhandar | other | district policeman, armed policeman
+zhandarmëri | other | armed police force
+zhangël | other | fried scrap of meat or fat, fried titbit
+zhangër | other | fried scrap of meat
+zhangëllimë | other | jangle, grinding noise, grating, clash, clatter
+zhangëlloj | other | grind, jangle, grate, clatter, clash, jar
+zhangët | adj | firm, solid
+zhapem | other | puff oneself up, swell
+zhapë | other | skin, film, pellicle, epidermis, membrane; bark; rind
+zhapiore | other | batrachians
+zhapkë | other | small frog
+zhapillimë | other | shuffle, tramp (of feet); patter; clatter (of hoofs)
+zhapullimë | other | shuffle, tramp
+zhapilinë | other | shuffle
+zhapilloj | other | shuffle, tramp, plod, patter, clatter
+zhapulloj | other | shuffle, plod
+zhaptirë | other | marsh, fen
+zhaptyrë | other | marsh
+zhar | other | smell of burning; charred matter; heat; ember; lightning
+zharë | other | smell of burning
+zharavel | other | knot, tangle (esp. of wool on a sheep's back); ragamuffin
+zharavis | other | mess up, scribble all over, spoil, make a mess of
+zharravis | other | mess up
+zharavitje | other | mess, scribble
+zhargo | adv | trailing
+zharis | other | burn, catch, singe, scorch, toast
+zharitem | other | be scorched, shrivel up
+zharitës | adj | scorching, burning, hot, ardent
+zhaurrimë | other | rush, roar (of water), splash, babble, din, crash, clatter
+zhaurinë | other | rush, roar
+zhavari | other | rank grass, weed
+zhavarinë | other | rank grass
+zhavaris | other | mess up
+zhavas | other | tear up, destroy
+zhavel | other | tatterdemalion; ragged, tattered; derelict, dilapidated
+zhavis | other | tear up
+zhavor | other | gravel; quagmire
+zhbaj | other | undo
+zhbarroj | other | unburden, lighten
+zhbashkoj | other | disunite, sunder, decompose, disintegrate
+zhbaticë | other | ebb
+zhbërdhitë | adj | active, dapper, lively
+zhbërthej | other | burst
+zhbraz | other | empty
+zhbreh | other | unyoke
+zhburrnim | other | unmanning, emasculation
+zhburrnoj | other | unman, emasculate
+zhburrnohem | other | lose virility, degenerate, go to the bad
+zhdamtim | other | rendering harmless, neutralisation; indemnity, compensation
+zhdamtoj | other | render harmless, neutralise, invalidate; indemnify, compensate
+zhdavaris | other | disperse, dispel, scatter
+zhdërvjelltë | adj | nimble, deft
+zhdërvjeltër | adj | nimble
+zhdërvjelti | other | adroitness, skill, mastery, assurance, ability
+zhdjergem | other | be ruptured
+zhdjerr | other | destroy
+zhdrallur | other | animal, beast, creature
+zhdridhem | other | clear out, quit the place
+zhdrejtazi | adv | indirectly
