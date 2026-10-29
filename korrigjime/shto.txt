@@ -66898,3 +66898,51 @@ crreme | other | baking-pan
 çasht | other | moment
 çdredhis | other | unravel
 çelfitje | other | marking, scarring, scratching, scarifying
+# ── mannshto.tsv ──
+çepelis | other | paddle
+çermenikë | other | harrow
+çfamos | other | defame
+çfarëdokoft | pron | whatever (kind of)
+çfarëshdo | pron | every kind of
+çfarje | other | quality, character
+çfrerim | other | ejaculation
+çfreroj | other | ejaculate
+çfurem | other | get torn
+çiçibune | other | an inferior fodder mixed with oats, carob-bean (prob.)
+çirkull | other | circus
+çirohem | other | quarrel, fight
+çkombtarizim | other | denationalisation
+çkombtarizoj | other | denationalise
+çkreptuar | adj | rocky, craggy
+çkruj | other | scratch
+çmoskushi | pron | anybody
+çobansi | other | sheep-rearing
+çollatë | other | chocolate
+çokis | other | clink (glasses)
+çomeke | adv | with gesticulations (in phrase)
+çpështjell | other | unfurl
+çpojtje | other | stab, thrust
+çprej | prep | from
+çqendërsim | other | decentralisation
+çqendërsoj | other | decentralise
+çrap | other | stocking
+çudueshëm | adj | obstinate
+çullap | other | wild beast
+çurçuron | other | purl, babble
+çushtrim | other | demobilisation
+çushtroj | other | demobilise
+çvaritet | other | clears up (of the weather)
+çvordhis | other | wean
+dafinoj | other | crown with laurels
+dandanec | other | a card game
+darsmoreshë | other | bride's mother, bridesmaid
+dashurthi | adv | willingly
+dejçë | other | plantain
+dejzë | other | vein, seam (mining)
+dëndët | adj | dense
+dërvëloshkë | adj | sunburnt, tanned
+dëshmorkë | other | woman martyr
+dëshyll | other | rout, fall, collapse, debacle (prob.)
+dimoj | other | smoke
+dishfatë | other | defeat
+dishmore | other | accusative (case)

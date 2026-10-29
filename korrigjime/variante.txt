@@ -4227,3 +4227,10 @@ cigarris | tiganis | alternative
 cimentë | çimento | alternative
 crreme | crrem | alternative
 çasht | çast | alternative
+# ── Mann 1948 ──
+çermenikë | lesë | alternative
+çfamos | çfamsoj | alternative
+çkruj | shkruej | alternative
+çrap | çorap | alternative
+çvordhis | zvjerdh | alternative
+dishmore | kallëzore | alternative
