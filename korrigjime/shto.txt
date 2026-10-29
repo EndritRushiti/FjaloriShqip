@@ -66031,3 +66031,45 @@ zbemë | adj | pale; dark
 zbeq | other | beat, thrash
 zbetak | adj | pale, pallid
 zbetë | adj | pale, pallid; pallor
+# ── mannshto.tsv ──
+zbërdhahem | other | turn pale, fade, whiten
+zbërdhamë | adj | pale, whitish
+zbërdhatë | adj | pale
+zbërdhis | other | whiten
+zbërdhulët | adj | pale, pallid, faded, ashen
+zbërdhuqem | other | blanch, turn pale, turn white, bleach
+zbërdhyqur | adj | pale, bleached, faded, colourless
+zbim | other | rout; dismissal, discharge; deportation; expulsion
+sbim | other | rout
+zbiras | other | search out, ferret out, investigate
+zbirim | other | finding, discovering, research, investigation, curiosity
+zbiroj | other | investigate
+zbjerr | other | get lost, perish
+zbjerrë | adj | lost, stray, forlorn
+zbledh | other | unfold, unfurl, unwrap; spread out; develop; reveal, explain
+zblesë | other | disclosure, discovery; apocalypse
+zblim | other | disclosure, revelation, discovery
+zbloj | other | uncover, disclose, reveal
+zbëloj | other | uncover
+zbluet | adj | uncovered
+zbok | other | dandruff
+zboreq | other | sparrow; martin
+zborakës | other | martin
+zbranis | other | drag; dredge, raise
+zbrazsinë | other | void, space, vacuum, emptiness
+zbraztinë | other | void
+zbrej | other | unyoke, unharness
+zbrok | other | scurf, dandruff; mildew; filth from wool
+zbrokth | other | dandruff
+zbruej | other | mash, knead, pound, pulp, soften, mince, render; digest; tan, thrash; tame
+zbruj | other | mash, knead
+zbruhet | other | gets soft, gets pulpy; is digested
+zbrujtur | adj | mashed, kneaded, softened
+zbrutë | adj | soft, pulpy
+zbrydh | other | over-ripen, mellow
+zbrydhet | other | gets overripe, mellows
+zbrydhët | adj | overripe, mellow
+zbrydhur | adj | overripe
+zbuarje | other | dispersal, rout, deportation
+zbulimtar | adj | pioneering, exploratory; pioneer, discoverer
+zbuluet | adj | revealed, bare
