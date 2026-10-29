@@ -65882,3 +65882,39 @@ yshtyra | other | magic, witchcraft
 yshyr | other | harvest, crops
 ytë | other | an aromatic plant
 yve | pron | you
+# ── mannshto.tsv ──
+zaambël | adj | melodious
+zabajon | other | custard, lemon-curd (a sweet egg-paste)
+zabilof | other | flannel, felt (a material)
+zabua | other | linch-pin, cotter-pin
+zabue | other | linch-pin
+zabullishëm | adj | sultry
+zabullon | other | be overcome by the heat
+zabullueshëm | adj | close, muggy, stifling, sultry
+zabzun | other | a variety of anemone
+zadef | other | mother of pearl
+zadrimore | other | a kind of vine (pinot noir)
+zadhanës | adj | announcing; announcer, messenger, herald
+zadhanje | other | notice, announcement, message
+zaferan | other | saffron
+zafir | other | sapphire
+zafiro | other | a bird
+zafora | other | saffron, autumn crocus
+zafort | adj | loud-voiced, vociferous
+zafran | other | saffron
+zagaçkë | other | row, brawl, fight
+zagal | other | horsefly, gadfly
+zagën | other | ridge, furrow; wrinkle
+zagnoj | other | furrow
+zagoren | other | north wind
+zagushis | other | stifle
+zagushitës | adj | stifling
+zagjar | other | hound
+zagjitem | other | faint, swoon; be struck (by misfortune), succumb
+zagjori | other | pack (of wolves), mass, horde
+zaharkë | other | sweet, candy
+zahur | other | sadness
+zahuri | other | sadness
+zahuris | other | sadden
+zakarinë | other | saccharine
+zakob | other | pickling-vat for cheese

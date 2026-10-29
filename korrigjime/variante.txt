@@ -3887,3 +3887,15 @@ ylle | yll | alternative
 ylldije | astronomi | alternative
 ylldijës | astronom | alternative
 yrtytë | luleshtrydhe | alternative
+# ── Mann 1948 ──
+zabue | zabua | alternative
+zadef | sedef | alternative
+zadhanës | zëdhënës | alternative
+zaferan | shafran | alternative
+zafir | safir | alternative
+zafran | shafran | alternative
+zagal | zagall | alternative
+zagjar | zagar | alternative
+zagjori | zagori | alternative
+zahuri | zahur | alternative
+zahuris | trishtoj | alternative
