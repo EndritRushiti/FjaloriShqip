@@ -4311,3 +4311,5 @@ urnek | jurnek | alternative
 gargi | shtizë | alternative
 gatëri | ngatërresë | alternative
 gatëroj | ngatërroj | alternative
+# ── Hahn 1854 ──
+gjemixhi | detar | alternative

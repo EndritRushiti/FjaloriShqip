@@ -67224,3 +67224,5 @@ urnek | noun | example, model
 gargi | noun | lance, spear; bayonet
 gatëri | noun | confusion, muddle
 gatëroj | verb | to confuse, to entangle
+# ── hahnshto.tsv ──
+gjemixhi | noun | seaman, sailor
