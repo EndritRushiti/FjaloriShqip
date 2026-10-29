@@ -66621,3 +66621,62 @@ zhdjerr | other | destroy
 zhdrallur | other | animal, beast, creature
 zhdridhem | other | clear out, quit the place
 zhdrejtazi | adv | indirectly
+# ── mannshto.tsv ──
+zhdrim | other | conversion
+zhdrivilli | other | agility, deftness, briskness
+zhdrivillim | other | evolution, development, manifestation
+zhdrivilloj | other | evolve, unroll, develop, manifest
+zhdrivillueshëm | adj | clever, able
+zhdrukth | other | plane
+zhdryej | other | unlock, unbolt
+zhdukës | adj | destructive; destroyer
+zhek | other | heat of the day
+zheginë | other | collar (of a horse)
+zhegis | other | rest in the afternoon, take a siesta
+zhegitem | other | look sharp, buck up, get busy
+zhegoj | other | fire, anger, rouse, annoy, pique
+zhelan | adj | ragged, tattered; ragamuffin
+zhelatinë | other | gelatine
+zheloj | other | shred, tatter, reduce to rags
+zhelohem | other | get ragged
+zhelugë | other | a farm tool attached to the yoke
+zhemel | other | boulder
+zheshkë | adj | dark, dusky, swarthy, tawny, brown
+zhevol | other | shingle, gravel
+zhezhis | other | cauterise, sear; make grubby
+zhezhitem | other | be cauterised; get grubby
+zhezhitje | other | cauterisation; grubbiness
+zhëgmis | other | tear, tousle
+zhëmbël | other | boulder
+zhëngoj | other | hum, buzz
+zhënicë | other | powder; waste, rubbish
+zhërufkë | other | cabbage which does not form a heart
+zhgabonjë | other | eagle
+zhgabor | adj | aquiline
+zhgallë | other | catch, holder, peg
+zhgandërr | other | daydream, illusion
+zhgarkim | other | discharge, unloading
+zhgarkoj | other | unload
+zhgas | other | abuse, bully, maul
+zhgatërrim | other | destruction
+zhgatërroj | other | destroy
+zhgaurretë | other | gnurled tree
+zhglep | other | glutton
+zhgole | other | snail-shell
+zhgrehem | other | collapse, fall, come apart, decompose, dissolve, melt, flop, wilt, droop
+zhgrehët | adj | weak, limp, lax, soft, crumbly, broken down
+zhgryej | other | soil, dirty, defile; pester, plague
+zhgrryej | other | soil
+zhgryhem | other | defile oneself, wallow, get dirty, grovel; go to the bad
+zhgryem | adj | dirty, filthy, foul
+zhgryet | adj | dirty, filthy
+zhgrytë | adj | dirty
+zhgrrys | other | scratch, claw, scrape, grate; delve into
+zhgul | other | pull up
+zhgunët | adj | of wool felt
+zhguris | other | scratch, claw; rake up, earth up; rummage about
+zhgjandërr | other | daydream, illusion, mirage, chimera
+zhgjani | other | squadron
+zhgjymtim | other | annihilation
+zhgjymtoj | other | wipe out, annihilate
+zhigas | other | annoy, bother, tease, taunt
