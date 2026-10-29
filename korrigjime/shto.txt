@@ -66946,3 +66946,31 @@ dëshyll | other | rout, fall, collapse, debacle (prob.)
 dimoj | other | smoke
 dishfatë | other | defeat
 dishmore | other | accusative (case)
+# ── mannshto.tsv ──
+djathtar | other | cheese-maker
+djersitem | other | sweat
+dlirtsi | other | purity, clarity
+dorajdorshëm | adj | parallel
+doradhansi | other | solidarity
+drangoneshë | other | she-dragon
+dredhueshëm | adj | shifty, equivocating
+drejtimdhënës | adj | directive; director
+dreqzoj | other | train, bring up
+driththëroj | other | tremble
+drojtsi | other | fear, reserve, coyness
+drunabardh | other | a tree growing amid scrub with bright decorative fruit
+drunë | other | wood, timber
+druzhdë | other | shrub
+drynoj | other | stupefy, paralyse
+dubrav | other | desert
+dudmon | other | mulberry
+dujë | other | lower hole of a cask, outlet hole
+durrë | other | a kind of sorghum
+dushnjeza | other | foliage, greenery (prob.)
+dyemër | other | duo, pair
+dyllim | other | waxing, covering with wax
+dylloj | other | wax
+dysojsh | adj | of two kinds, twofold
+ecejake | other | comings and goings
+edhese | conj | though
+endinë | other | tissue
