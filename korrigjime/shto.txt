@@ -66314,3 +66314,32 @@ zgjebëz | other | scabious (a flowering plant)
 zgjebos | other | infect with mange
 zgjebosem | other | get scabby, get mangy
 zgjebuar | adj | scabby, mangy
+# ── mannshto.tsv ──
+zgjedhëm | adj | chosen, elect
+zgjedhëri | other | serfdom, subjugation
+zgjedhëz | other | little yoke; bracket (in music)
+zgjedhsi | other | eligibility
+zgjetullë | other | shuttle-cock; whirligig
+zgjej | other | widen, broaden
+zgjëkund | adv | nowhere
+zgjidhem | other | get free, extricate oneself; be solved, be dissolved, be abolished; get divorced
+zgjimtar | adj | awakening, reviving; revivalist, prophet
+zgjirë | adj | convex
+zgjiroj | other | widen
+zgjis | other | undo, detach
+zgjosur | adj | famished, starving
+zgjonëz | other | clove
+zgjuaj | other | wake
+zgjuet | adj | alert, awake, wide-awake, watchful, vigilant; clever, able
+zgjuetsi | other | alertness, vigilance; sagacity
+zgjumohem | other | wake, wake up
+zgjumoj | other | wake, rouse
+zgjyros | other | tarnish, blemish, mark, fox, mildew, rust; clutter up (the mind), dull
+zgjyrrë | other | slag
+zibelinë | other | sable
+zidar | other | mason
+zidoj | other | wall up
+zierr | other | draw out
+ziesë | other | vegetable
+zijesë | other | vegetable
+zigare | other | scale, balance

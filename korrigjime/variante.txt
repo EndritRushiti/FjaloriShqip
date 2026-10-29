@@ -4039,3 +4039,15 @@ zgjardh | zgjarth | alternative
 zgjebash | zgjebanik | alternative
 zgjebët | zgjebanik | alternative
 zgjebuar | zgjebosur | alternative
+# ── Mann 1948 ──
+zgjetullë | sjetull | alternative
+zgjej | zgjaj | alternative
+zgjiroj | zgjeroj | alternative
+zgjuaj | zgjoj | alternative
+zgjyrrë | zgjyrë | alternative
+zidar | murator | alternative
+zidoj | muroj | alternative
+zierr | nxjerr | alternative
+ziesë | barishte | alternative
+zijesë | barishte | alternative
+zigare | peshore | alternative
