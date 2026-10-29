@@ -67239,3 +67239,5 @@ xhet | noun | lineage, descent
 ikajet | noun | story, tale, legend
 ikram | noun | honourable welcome, reception with honours
 isharet | noun | sign, wink
+# ── hahnshto.tsv ──
+kandilier | noun | candlestick, lamp-holder
