@@ -4234,3 +4234,12 @@ crreme | crrem | alternative
 çrap | çorap | alternative
 çvordhis | zvjerdh | alternative
 dishmore | kallëzore | alternative
+# ── Mann 1948 ──
+fëshnjar | fishnjar | alternative
+fismirë | fisnik | alternative
+fismirsi | fisnikëri | alternative
+flitroj | fluturoj | alternative
+fotografist | fotograf | alternative
+frikanak | frikacak | alternative
+fshikim | fshikullim | alternative
+fshikoj | fshikulloj | alternative

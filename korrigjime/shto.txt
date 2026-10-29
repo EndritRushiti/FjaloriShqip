@@ -66974,3 +66974,51 @@ dysojsh | adj | of two kinds, twofold
 ecejake | other | comings and goings
 edhese | conj | though
 endinë | other | tissue
+# ── mannshto.tsv ──
+ergas | other | tan
+ergatore | other | tannery
+ënbë | prep | at
+ënfond | adv | from the bottom
+fakë | other | mousetrap
+falëment | other | failure
+fallak | other | scourge
+falloj | other | charm
+faqebardhsi | other | success
+faqezaj | adv | openly
+farmëfisëri | other | relatives, kinsmen
+fashue | other | honeycomb
+fatëtor | adj | lucky, happy
+fçimos | other | begrime, blacken with soot
+fekule | other | starch
+ferrushinthë | other | a prickly shrub in evergreen scrub
+fëngjillkë | other | crayon
+fërkëlloj | other | fling
+fërkët | adv | recently
+fërstëk | other | pine-nut
+fëshnjar | other | marten
+fijas | other | flake down (of snow)
+fillerim | other | isolation
+fisilig | adj | base, vile
+fismirë | adj | noble
+fismirsi | other | nobility
+fisni | other | kinship
+fishilor | adj | sibilant
+fizë | other | seedling
+fjuroj | other | flee, fly
+flitroj | other | fly
+flond | other | flong
+floqrënë | adj | bald
+florishtë | other | gold trinket
+flushkët | adj | bladdered, puffed
+flutili | other | moth, butterfly
+fllak | other | triangle of wood on a pig's neck to prevent escape
+fllushkosh | adj | flabby
+fortur | other | steel
+fortet | adj | steel-
+fotografist | other | photographer
+fqinjsisht | adv | neighbourly
+frëngëlloj | other | rush, sweep, tear along
+frikanak | adj | cowardly
+fryshkulloj | other | whistle
+fshikim | other | flogging
+fshikoj | other | flog
