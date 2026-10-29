@@ -67226,3 +67226,5 @@ gatëri | noun | confusion, muddle
 gatëroj | verb | to confuse, to entangle
 # ── hahnshto.tsv ──
 gjemixhi | noun | seaman, sailor
+# ── hahnshto.tsv ──
+gjyç | adv | with difficulty, hard (to do)

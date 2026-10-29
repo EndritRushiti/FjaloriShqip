@@ -4313,3 +4313,5 @@ gatëri | ngatërresë | alternative
 gatëroj | ngatërroj | alternative
 # ── Hahn 1854 ──
 gjemixhi | detar | alternative
+# ── Hahn 1854 ──
+gjyç | vështirë | alternative
