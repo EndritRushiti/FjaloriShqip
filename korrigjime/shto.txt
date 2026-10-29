@@ -66680,3 +66680,87 @@ zhgjani | other | squadron
 zhgjymtim | other | annihilation
 zhgjymtoj | other | wipe out, annihilate
 zhigas | other | annoy, bother, tease, taunt
+# ── mannshto.tsv ──
+zhigëlier | other | suction tube (auto.)
+zhigëlloj | other | spit (as fat in fire), crackle
+zhigoj | other | brand, stigmatise
+zhikël | other | crackling, scrap
+zhingallë | other | cicada
+zhingllim | other | grinding noise, clatter
+zhingullim | other | clatter
+zhinglloj | other | grind, clatter
+zhingulloj | other | clatter
+zhir | other | charred substance, scoriae, slag
+zhirë | other | slag
+zhizme | other | boot
+zhizhbubazi | other | blind-man's-buff (in phrase)
+zhmallim | other | appeasing one's longing
+zhmalloj | other | appease one's longing
+zhngreh | other | take down, dismantle
+zhog | other | bunch up, crumple
+zhol | other | mildew, growth, lichen, moss, slime; lees, sediment, sludge
+zhorbë | other | hollow or bad walnut
+zhoshkë | other | sieve
+zhrrelë | other | precipice
+zhubetë | other | waste land, scrub land
+zhubinë | other | gums (of the teeth)
+zhubravis | other | wrinkle, crumple, rumple, crush, crease, furrow, purse (the lips), pucker
+zhubroj | other | wrinkle, crumple
+zhubravitur | adj | wrinkled, crumpled, rough, careworn, lined, ruffled, haggard
+zhugë | other | reed, rush; scab, itch (esp. in sheep)
+zhugëz | other | scab (in sheep)
+zhugth | other | rush, reed
+zhukth | other | rush, reed
+zhugull | other | heat of the day
+zhugullë | other | heat of the day
+zhulan | adj | grimy, smutty; wretched
+zhulas | other | crush, pound
+zhulatë | other | crushing, pounding; breakdown
+zhulgë | other | ripe pear (in phrase)
+zhullaf | other | rough sewing, basting
+zhumarë | other | juice pressed from olives
+zhumbë | other | lump, swelling
+zhumbicë | other | a fragrant labiate, mint
+zhumbrim | other | rumble
+zhumbroj | other | rumble, resound
+zhumhur | other | rumble, roar, boom, din
+zhumhurë | other | gravel, coarse sand
+zhumhuli | other | populace, slums
+zhumhul | other | populace
+zhung | other | lump, mass, ball; the globe
+zhunget | other | gets ripe, ripens
+zhungë | other | lump, bump, mass; tumour
+zhunglim | other | clatter
+zhunglloj | other | clatter
+zhungur | adj | ripe
+zhunk | other | gorse, furze
+zhunzhule | other | pink, carnation
+zhup | other | bang, beat, wallop, whack
+zhupllimë | other | beating, banging, clatter
+zhuplloj | other | bang, beat, clatter
+zhurinë | other | shingle
+zhurmëroj | other | rush, rumble, bang, thunder, make a noise
+zhurr | other | gravel, grit, coarse sand, shingle
+zhurrak | other | shingle
+zhurrelë | other | waste land, stony land
+zhurrinë | other | gravel-bed, shingle, beach
+zhurrishtë | other | gravel-bed
+zhurris | other | burn, scorch
+zhushka | other | mumps
+zhutërz | other | typhus
+zhuzhgaman | adj | pedantic; pedant
+zhuzhgë | adj | pedantic
+zhuzhgët | adj | pedantic
+zhuzhgi | other | burnt food, charred dish
+zhuzhgitë | other | burnt food
+zhuzhij | other | buzz, hum
+zhuzhingë | other | tiger-beetle; green beetle, rose beetle
+zhuzhis | other | burn, scorch; buzz, hum
+zhuzhitë | other | burnt food
+zhuzhitje | other | buzz, hum
+zhuzhulinë | other | dust, sweepings, rubbish
+zhuzhull | other | beetle (esp. dungbeetle)
+zhuzhullim | other | buzzing, hum
+zhuzhulloj | other | buzz, hum
+zhuzhun | other | weevil, louse (esp. vine-louse)
+zhuzhunë | other | vine-louse
