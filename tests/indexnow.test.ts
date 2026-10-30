@@ -19,6 +19,8 @@ describe("IndexNow", () => {
       "https://example.org/",
       "https://example.org/shkronja/a/2/",
     ]);
+    // after a layout change only the new pages are announced
+    expect(changedPages(log, "https://example.org", true)).toEqual(["https://example.org/shkronja/a/2/"]);
   });
 
   it("has its key file in public/", () => {

@@ -67358,3 +67358,5 @@ shtalbër | noun | silk vine (Periploca)
 # ── mannshto.tsv ──
 gjenaral | noun | general
 përafërt | adj | approximate
+# ── fjalë të zakonshme që burimet mund t'i humbasin / common words the sources may drop ──
+ja | particle | here is, there is (ja ku është: here it is)

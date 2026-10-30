@@ -16,10 +16,11 @@ const SITE = process.env.SITE_URL || "https://fjalorishqip.org";
 const BATCH = 10_000; // IndexNow accepts up to 10,000 URLs per request
 const MAX_CHANGED = 1_000; // more changed pages than this in one deploy = a layout change, not new content
 
-/** Pages (not assets or API files) uploaded by rclone, as site URLs. */
-export function changedPages(rcloneLog: string, site = SITE): string[] {
+/** Pages (not assets or API files) uploaded by rclone, as site URLs; with onlyNew, only pages that did not exist before. */
+export function changedPages(rcloneLog: string, site = SITE, onlyNew = false): string[] {
   const urls = new Set<string>();
-  for (const m of rcloneLog.matchAll(/INFO\s+:\s+(.+?\.html): Copied \((?:new|replaced existing)\)/g)) {
+  const re = onlyNew ? /INFO\s+:\s+(.+?\.html): Copied \(new\)/g : /INFO\s+:\s+(.+?\.html): Copied \((?:new|replaced existing)\)/g;
+  for (const m of rcloneLog.matchAll(re)) {
     const file = m[1].trim();
     if (file === "404.html" || file.startsWith("kerko/")) continue; // not meant for search results
     const dir = file === "index.html" ? "" : file.replace(/index\.html$/, "");
@@ -56,9 +57,15 @@ async function main() {
   const arg = process.argv[2];
   const urls = arg === "--all" ? sitemapPages(path.join(process.cwd(), "dist")) : arg ? changedPages(fs.readFileSync(arg, "utf8")) : [];
   if (!urls.length) return console.log("IndexNow: no changed pages to submit");
-  // A design change rewrites every page (new asset hashes) without new content: re-announcing
-  // all of them only makes crawlers fetch the whole site again. Search engines still find them via the sitemaps.
-  if (arg !== "--all" && urls.length > MAX_CHANGED) return console.log(`IndexNow: ${urls.length} pages changed (layout change) — not submitted, the sitemaps cover them`);
+  // A design change rewrites every page without new content: re-announcing all of them only makes crawlers
+  // fetch the whole site again, so then only the pages that are new (new words) are announced.
+  // Search engines still find the rest via the sitemaps.
+  if (arg !== "--all" && urls.length > MAX_CHANGED) {
+    const added = changedPages(fs.readFileSync(arg, "utf8"), SITE, true);
+    console.log(`IndexNow: ${urls.length} pages changed (layout change) — announcing only the ${added.length} new pages`);
+    if (added.length) await submit(added);
+    return;
+  }
   await submit(urls);
 }
 

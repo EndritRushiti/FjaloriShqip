@@ -19873,3 +19873,10 @@ kurrikulum | kurrikulë
 akcelerator | akselerator
 # ── g12.new.tsv ──
 papillomavirus | papilomavirus
+# ── fjalë të reja nga Wiktionary (2026-10-30) / new Wiktionary words ──
+bjerraditëse | bjerraditës
+caktuese | caktues
+çartabukase | çartabukas
+çartakëndem | çartakënd
+çartallosem | çartallos
+përçartem | përçart
