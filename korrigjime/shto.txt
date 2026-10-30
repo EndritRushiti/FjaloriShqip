@@ -67330,3 +67330,7 @@ shpunj | verb | to show, to lead (the way)
 # ── hahnshto.tsv ──
 tagëm | noun | host, troop (esp. of angels)
 tallër | noun | round vat, narrower at the top
+# ── hahnshto.tsv ──
+taksirat | noun | fate, misfortune
+tahmin | noun | supposition, guess
+tjegullaxhi | noun | tile-maker

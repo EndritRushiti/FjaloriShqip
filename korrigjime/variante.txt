@@ -4417,3 +4417,7 @@ shpunj | tregoj | alternative
 # ── Hahn 1854 ──
 tagëm | ushtri | alternative
 tallër | tallar | alternative
+# ── Hahn 1854 ──
+taksirat | fatkeqësi | alternative
+tahmin | supozim | alternative
+tjegullaxhi | tjegullar | alternative
