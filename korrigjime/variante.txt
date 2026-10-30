@@ -4362,3 +4362,7 @@ mjektar | magjistar | alternative
 # ── Hahn 1854 ──
 mumkin | mundshëm | alternative
 mulaim | hipokrit | alternative
+# ── Hahn 1854 ──
+murvet | qëllim | alternative
+murdaris | ndot | alternative
+murdaroj | ndot | alternative

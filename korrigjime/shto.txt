@@ -67275,3 +67275,7 @@ mjektar | noun | charmer who cures illness with spells
 # ── hahnshto.tsv ──
 mumkin | adj | possible
 mulaim | adj | hypocritical, two-faced
+# ── hahnshto.tsv ──
+murvet | noun | will, intention
+murdaris | verb | to dirty, to soil
+murdaroj | verb | to dirty, to soil
