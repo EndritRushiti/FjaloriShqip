@@ -4406,3 +4406,5 @@ splinë | veshkë | alternative
 # ── Hahn 1854 ──
 surgjun | syrgjyn | alternative
 surgjunis | syrgjynos | alternative
+# ── Hahn 1854 ──
+sheqerli | ëmbël | alternative

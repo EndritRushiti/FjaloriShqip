@@ -67319,3 +67319,5 @@ splinë | noun | kidney
 # ── hahnshto.tsv ──
 surgjun | noun | banishment, exile
 surgjunis | verb | to banish, to exile
+# ── hahnshto.tsv ──
+sheqerli | adj | sugary, sweet
