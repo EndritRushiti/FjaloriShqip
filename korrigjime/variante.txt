@@ -4373,3 +4373,5 @@ naksllëk | zemërim | alternative
 neqes | koprrac | alternative
 nemc | gjerman | alternative
 nishanoj | shënoj | alternative
+# ── Hahn 1854 ──
+njerëzllëk | njerëzi | alternative

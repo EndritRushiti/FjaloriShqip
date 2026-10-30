@@ -67286,3 +67286,5 @@ naksllëk | noun | irascibility, quick temper
 neqes | noun | miser; (adj.) thrifty
 nemc | noun | German; (Gheg) Austrian
 nishanoj | verb | to mark; to take aim
+# ── hahnshto.tsv ──
+njerëzllëk | noun | humanity, humaneness
