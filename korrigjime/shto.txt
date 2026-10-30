@@ -67304,3 +67304,6 @@ plemon | noun | lung
 pokatua | noun | horseshoe
 # ── hahnshto.tsv ──
 poshtazit | adv | from below
+# ── hahnshto.tsv ──
+sakatep | verb | to cripple, to maim
+sarraf | noun | money-changer; miser

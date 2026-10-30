@@ -4391,3 +4391,5 @@ plemon | mushkëri | alternative
 pokatua | potkua | alternative
 # ── Hahn 1854 ──
 poshtazit | poshtazi | alternative
+# ── Hahn 1854 ──
+sakatep | sakatos | alternative
