@@ -67246,3 +67246,5 @@ keramidhçi | noun | tile-maker; brick-maker
 # ── hahnshto.tsv ──
 koburre | noun | pistol
 kollube | noun | beehive; small hut
+# ── hahnshto.tsv ──
+kompshi | noun | neighbour

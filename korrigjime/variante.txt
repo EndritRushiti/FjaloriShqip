@@ -4333,3 +4333,5 @@ keramidhçi | tjegullar | alternative
 # ── Hahn 1854 ──
 koburre | pistoletë | alternative
 kollube | koshere | alternative
+# ── Hahn 1854 ──
+kompshi | komshi | alternative
