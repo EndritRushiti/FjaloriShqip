@@ -67340,3 +67340,5 @@ toskëri | noun | the Tosk lands; the Tosks as a whole
 tozluk | noun | gaiter, legging
 # ── hahnshto.tsv ──
 çalëstis | verb | to strive, to endeavour
+# ── hahnshto.tsv ──
+tyfmet | noun | fine in wine or brandy paid by a member of a guild
