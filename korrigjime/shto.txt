@@ -67288,3 +67288,6 @@ nemc | noun | German; (Gheg) Austrian
 nishanoj | verb | to mark; to take aim
 # ── hahnshto.tsv ──
 njerëzllëk | noun | humanity, humaneness
+# ── hahnshto.tsv ──
+omuth | noun | hope, trust
+omur | noun | power, command

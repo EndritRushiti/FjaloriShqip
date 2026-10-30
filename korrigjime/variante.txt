@@ -4375,3 +4375,6 @@ nemc | gjerman | alternative
 nishanoj | shënoj | alternative
 # ── Hahn 1854 ──
 njerëzllëk | njerëzi | alternative
+# ── Hahn 1854 ──
+omuth | shpresë | alternative
+omur | pushtet | alternative
