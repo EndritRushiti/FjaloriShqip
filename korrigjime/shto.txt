@@ -67256,3 +67256,5 @@ qepengj | noun | trapdoor; shutter
 qoshli | adj | square, four-cornered
 qotillëk | noun | cowardice
 llatin | noun | Catholic
+# ── hahnshto.tsv ──
+lazëm | noun | need, necessity
