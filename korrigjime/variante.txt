@@ -4408,3 +4408,5 @@ surgjun | syrgjyn | alternative
 surgjunis | syrgjynos | alternative
 # ── Hahn 1854 ──
 sheqerli | ëmbël | alternative
+# ── Hahn 1854 ──
+shubehe | dyshim | alternative
