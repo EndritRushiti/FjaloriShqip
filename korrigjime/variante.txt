@@ -4414,3 +4414,6 @@ shubehe | dyshim | alternative
 shumëtoj | shumoj | alternative
 # ── Hahn 1854 ──
 shpunj | tregoj | alternative
+# ── Hahn 1854 ──
+tagëm | ushtri | alternative
+tallër | tallar | alternative

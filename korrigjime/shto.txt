@@ -67327,3 +67327,6 @@ shubehe | noun | suspicion
 shumëtoj | verb | to increase, to add up
 # ── hahnshto.tsv ──
 shpunj | verb | to show, to lead (the way)
+# ── hahnshto.tsv ──
+tagëm | noun | host, troop (esp. of angels)
+tallër | noun | round vat, narrower at the top
