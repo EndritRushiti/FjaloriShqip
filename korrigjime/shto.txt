@@ -67325,3 +67325,5 @@ sheqerli | adj | sugary, sweet
 shubehe | noun | suspicion
 # ── hahnshto.tsv ──
 shumëtoj | verb | to increase, to add up
+# ── hahnshto.tsv ──
+shpunj | verb | to show, to lead (the way)

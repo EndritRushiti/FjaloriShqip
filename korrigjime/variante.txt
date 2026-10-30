@@ -4412,3 +4412,5 @@ sheqerli | ëmbël | alternative
 shubehe | dyshim | alternative
 # ── Hahn 1854 ──
 shumëtoj | shumoj | alternative
+# ── Hahn 1854 ──
+shpunj | tregoj | alternative
