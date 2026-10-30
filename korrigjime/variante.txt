@@ -4443,3 +4443,6 @@ hill | mashtrim | alternative
 # ── Hahn 1854 ──
 hoshnuk | kënaqur | alternative
 hoshnukllëk | kënaqësi | alternative
+# ── Hahn 1854 ──
+haberdar | lajmëtar | alternative
+haberdis | lajmëroj | alternative

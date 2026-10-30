@@ -67359,3 +67359,6 @@ hill | noun | trick, cheating at games
 # ── hahnshto.tsv ──
 hoshnuk | adj | satisfied, content
 hoshnukllëk | noun | contentment, satisfaction
+# ── hahnshto.tsv ──
+haberdar | noun | messenger
+haberdis | verb | to inform, to notify
