@@ -67262,3 +67262,7 @@ lazëm | noun | need, necessity
 maden | noun | mine; metal
 maqedonis | noun | parsley
 mahsul | noun | yield, produce (of land or trees)
+# ── hahnshto.tsv ──
+mallështuar | adj | high-minded, proud, majestic
+marazos | verb | to torment; to waste with illness
+marda | noun | flaw, blemish
