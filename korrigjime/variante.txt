@@ -4395,3 +4395,8 @@ poshtazit | poshtazi | alternative
 sakatep | sakatos | alternative
 # ── Hahn 1854 ──
 sarraf | saraf | alternative
+# ── Hahn 1854 ──
+sefa | qejf | alternative
+sigurep | siguroj | alternative
+siguro | sigurisht | alternative
+sikletis | mërzit | alternative

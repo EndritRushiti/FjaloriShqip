@@ -67308,3 +67308,8 @@ poshtazit | adv | from below
 sakatep | verb | to cripple, to maim
 # ── hahnshto.tsv ──
 sarraf | noun | money-changer; miser
+# ── hahnshto.tsv ──
+sefa | noun | ease, pleasure
+sigurep | verb | to make safe, to secure
+siguro | adv | surely, certainly
+sikletis | verb | to bore, to make uneasy
