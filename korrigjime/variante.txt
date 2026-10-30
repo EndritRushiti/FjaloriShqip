@@ -4345,3 +4345,7 @@ qotillëk | frikë | alternative
 llatin | katolik | alternative
 # ── Hahn 1854 ──
 lazëm | nevojë | alternative
+# ── Hahn 1854 ──
+maden | minierë | alternative
+maqedonis | majdanoz | alternative
+mahsul | prodhim | alternative

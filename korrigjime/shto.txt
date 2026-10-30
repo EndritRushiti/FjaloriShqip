@@ -67258,3 +67258,7 @@ qotillëk | noun | cowardice
 llatin | noun | Catholic
 # ── hahnshto.tsv ──
 lazëm | noun | need, necessity
+# ── hahnshto.tsv ──
+maden | noun | mine; metal
+maqedonis | noun | parsley
+mahsul | noun | yield, produce (of land or trees)
