@@ -67342,3 +67342,6 @@ tozluk | noun | gaiter, legging
 çalëstis | verb | to strive, to endeavour
 # ── hahnshto.tsv ──
 tyfmet | noun | fine in wine or brandy paid by a member of a guild
+# ── hahnshto.tsv ──
+fagushë | noun | cancer (the disease)
+faljexhi | noun | worshipper
