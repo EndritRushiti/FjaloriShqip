@@ -4357,3 +4357,5 @@ marda | cen | alternative
 masllahat | çështje | alternative
 # ── Hahn 1854 ──
 mburrësi | mburrje | alternative
+# ── Hahn 1854 ──
+mjektar | magjistar | alternative

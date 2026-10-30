@@ -67270,3 +67270,5 @@ marda | noun | flaw, blemish
 masllahat | noun | business, affair
 # ── hahnshto.tsv ──
 mburrësi | noun | boasting, pride
+# ── hahnshto.tsv ──
+mjektar | noun | charmer who cures illness with spells
