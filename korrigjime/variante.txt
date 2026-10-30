@@ -4436,3 +4436,5 @@ fjalëtuar | llafazan | alternative
 fortëtë | forcë | alternative
 # ── Hahn 1854 ──
 hadëm | tredhak | alternative
+# ── Hahn 1854 ──
+handshi | hanxhi | alternative

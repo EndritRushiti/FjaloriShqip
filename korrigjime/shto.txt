@@ -67352,3 +67352,5 @@ fjalëtuar | noun | chatterbox
 fortëtë | noun | strength
 # ── hahnshto.tsv ──
 hadëm | noun | eunuch
+# ── hahnshto.tsv ──
+handshi | noun | innkeeper
