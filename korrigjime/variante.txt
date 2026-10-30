@@ -4393,3 +4393,5 @@ pokatua | potkua | alternative
 poshtazit | poshtazi | alternative
 # ── Hahn 1854 ──
 sakatep | sakatos | alternative
+# ── Hahn 1854 ──
+sarraf | saraf | alternative

@@ -67306,3 +67306,5 @@ pokatua | noun | horseshoe
 poshtazit | adv | from below
 # ── hahnshto.tsv ──
 sakatep | verb | to cripple, to maim
+# ── hahnshto.tsv ──
+sarraf | noun | money-changer; miser
