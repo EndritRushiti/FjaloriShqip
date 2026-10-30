@@ -4440,3 +4440,6 @@ hadëm | tredhak | alternative
 handshi | hanxhi | alternative
 # ── Hahn 1854 ──
 hill | mashtrim | alternative
+# ── Hahn 1854 ──
+hoshnuk | kënaqur | alternative
+hoshnukllëk | kënaqësi | alternative
