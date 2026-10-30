@@ -34,7 +34,8 @@ const STATE_FILE = "njoftime/gjendje.json";
 /** Pushes per cron run (the free plan allows 50 outgoing requests per run, R2 calls aside). */
 export const BATCH = 35;
 export const MAX_NEW_PER_DAY = 500;
-export const MAX_OPENS_PER_DAY = 1000;
+/** Per source and day: at most 2 × 200 counter writes a day, about 12,000 of the free 1,000,000 R2 uploads a month. */
+export const MAX_OPENS_PER_DAY = 200;
 /** Sent with the VAPID token: who runs the push sender (a URL, so no email address is published). */
 const CONTACT = "https://fjalorishqip.org/rreth/";
 

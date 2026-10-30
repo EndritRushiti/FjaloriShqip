@@ -942,12 +942,12 @@ function homePage(): string {
  <div data-ui="sq" lang="sq">
   <h2>Fjalor i hapur shqip–anglisht</h2>
   <p>FjaloriShqip është një <b>fjalor shqip</b> falas dhe me kod të hapur, me ${num(stats.words ?? words.length)} fjalë shqip: të gjitha me një përshkrim të shkurtër në shqip dhe ${num(stats.withEnglish)} me kuptimin në anglisht, si edhe format gege e toske, fjalët me të njëjtin kuptim dhe, për ${num(stats.withInflection)} fjalë, zgjedhimin ose lakimin e plotë. Mund të kërkoni shqip ose anglisht (p.sh. “mother” gjen <a href="${wordUrl("nënë")}">nënë</a>), dhe ë e ç nuk janë të detyrueshme.</p>
-  <p>Të gjitha të dhënat vijnë nga burime me licencë të hapur dhe mund të ripërdoren lirisht sipas CC BY-SA 4.0, edhe nëpërmjet një <a href="${url("/api/")}">API-je JSON</a> falas për zhvilluesit. Nuk nevojitet llogari as çelës.</p>
+  <p>Të dhënat vijnë nga burime me licencë të hapur dhe libra në domen publik, me përshkrime të shkruara nga ne, dhe mund të ripërdoren lirisht sipas CC BY-SA 4.0, edhe nëpërmjet një <a href="${url("/api/")}">API-je JSON</a> falas për zhvilluesit. Nuk nevojitet llogari as çelës.</p>
  </div>
  <div data-ui="en" lang="en">
   <h2>Free Albanian–English dictionary</h2>
   <p>FjaloriShqip is a free, open-source <b>Albanian dictionary</b> with ${numEn(stats.words ?? words.length)} Albanian words: ${numEn(words.filter((w) => w.description).length)} with a short description in Albanian and ${numEn(stats.withEnglish)} with their English meaning, plus Gheg and Tosk dialect forms, words with the same meaning and, for ${numEn(stats.withInflection)} words, the full conjugation or declension. You can search in Albanian or in English (for example “mother” finds <a href="${wordUrl("nënë")}">nënë</a>), and typing ë and ç is optional.</p>
-  <p>All data comes from openly licensed sources and is free to reuse under CC BY-SA 4.0, also through a free <a href="${url("/api/")}">JSON API</a> for developers. No account or API key is needed.</p>
+  <p>The data comes from openly licensed sources and public-domain books, with descriptions written by us, and is free to reuse under CC BY-SA 4.0, also through a free <a href="${url("/api/")}">JSON API</a> for developers. No account or API key is needed.</p>
  </div>
 </section>`;
   return layout({
@@ -1007,6 +1007,12 @@ function sourcesPage(): string {
       sq: "Vetëm numërimi i fjalëve, për të ditur sa përdoret secila fjalë. Nuk kopjohet asnjë tekst.", en: "Word counts only, to know how much each word is used. No text is copied." },
     { title: "MaCoCu — korpusi shqip i uebit 1.0", author: "Projekti MaCoCu, depoja CLARIN.SI", link: "http://hdl.handle.net/11356/1804", licence: "CC0 1.0", licenceUrl: CC0,
       sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë përdoret realisht.", en: "Word counts only, to confirm that a word is really in use." },
+    { title: "HPLT v2 — korpusi i pastruar shqip", author: "Projekti High Performance Language Technologies (HPLT)", link: "https://hplt-project.org/datasets/v2.0", licence: "CC0 1.0", licenceUrl: CC0,
+      sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë ose një formë dialektore përdoret; prej këtyre numërimeve vijnë edhe format e rregullta gege (me punue, i lidhun, grue, kâmbë) që lidhim me fjalën standarde. Nuk kopjohet asnjë tekst.", en: "Word counts only, to confirm that a word or a dialect form is in use; these counts also give the regular Gheg forms (me punue, i lidhun, grue, kâmbë) that we link to the standard word. No text is copied." },
+    { title: "EuroVoc — tezauri shumëgjuhësh i BE-së (versioni shqip)", author: "Zyra e Publikimeve e Bashkimit Evropian, © Bashkimi Evropian", link: "https://op.europa.eu/en/web/eu-vocabularies/eurovoc", licence: "Ripërdorim i lirë me përmendjen e burimit (Vendimi 2011/833/BE)", licenceUrl: "https://eur-lex.europa.eu/eli/dec/2011/833/oj",
+      sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
+    { title: "Albanesische Studien, vëll. 3: shtojca e fjalorit shqip-gjermanisht (1853–1854)", author: "Johann Georg von Hahn (1811–1869)", link: "https://archive.org/details/10589474bsb", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Fjalë të vjetra e krahinore gege e toske, të kthyera nga alfabeti i Hahnit në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja, përshkrimet janë tonat.", en: "Old and regional Gheg and Tosk words, converted from Hahn's alphabet to today's spelling; meanings translated from German, the descriptions are our own." },
     { title: "Etymologisches Wörterbuch der albanesischen Sprache (1891)", author: "Gustav Meyer (1850–1900)", link: "https://archive.org/details/etymologischesw00meyegoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Fjalët arbëreshe (Itali) dhe arvanitase (Greqi), të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja.", en: "Arbëresh (Italy) and Arvanitika (Greece) words, converted to today's spelling; meanings translated from German." },
     { title: "Fialuur i voghel scc'ip e ltinisct (1895)", author: "Jak Jungg (1840–1927)", link: "https://archive.org/details/fialuurivoghels00junkgoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -1019,6 +1025,8 @@ function sourcesPage(): string {
       sq: "Fjalë të rralla gege nga Veriu, me vendin ku përdoren; përshkrimet janë tonat.", en: "Rare Gheg words from the North, with where they are used; the descriptions are our own." },
     { title: "Manuel de la langue chkipe ou albanaise (1879)", author: "Auguste Dozon (1822–1890)", link: "https://archive.org/details/manueldelalangue00dozouoft", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma toske nga fjalorthi shqip-frëngjisht, të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga frëngjishtja, përshkrimet janë tonat.", en: "Tosk forms from the Albanian–French vocabulary, converted to today's spelling; meanings translated from French, the descriptions are our own." },
+    { title: "An Historical Albanian-English Dictionary (1948)", author: "Stuart E. Mann (1905–1986); Longmans, Green & Co. për British Council, Londër", link: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf", licence: "Vetëm fjalët dhe të dhënat për to", licenceUrl: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf",
+      sq: "Vetëm fjalët dhe faktet për to: fjalë të vjetra, krahinore e dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen; përshkrimet shqip janë tonat.", en: "Only the words and facts about them: old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The book's definitions, examples and etymologies are not copied; the Albanian descriptions are our own." },
     { title: "Tatoeba", author: "Shoqata Tatoeba dhe kontribuesit e saj (autori i secilës fjali në shembuj/tatoeba.tsv)", link: "https://tatoeba.org/", licence: "CC BY 2.0 FR", licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
       sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një.", en: "Albanian example sentences with their English translation, selected and reviewed one by one." },
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
@@ -1034,7 +1042,7 @@ function sourcesPage(): string {
   const body = `
 ${pageHead(
   t("sources"),
-  bi("Fjalori ndërtohet vetëm nga burime me licencë të hapur. Këtu janë të gjitha, një herë secili.", "The dictionary is built only from openly licensed sources. Here they all are, each one once."),
+  bi("Fjalori ndërtohet nga burime me licencë të hapur dhe nga libra në domen publik; nga një libër i vetëm merren vetëm fjalët dhe faktet për to. Këtu janë të gjitha, një herë secili.", "The dictionary is built from openly licensed sources and public-domain books; from one book only the words and facts about them are taken. Here they all are, each one once."),
   `${icon.shield(16)} ${bi("Burimet dhe licencat", "Sources and licences")}`,
 )}
 <section class="card refs-card">
@@ -1049,8 +1057,8 @@ ${list}
     "The dictionary data is published under CC BY-SA 4.0: you may use it freely, even commercially, crediting FjaloriShqip and the sources above. Words that come only from Luan Kelmendi's list keep the GPL-2.0-or-later licence. The website's code is MIT-licensed.",
   )}</p>
   <p class="muted">${bi(
-    "Nuk përdoren përkufizime ose lista fjalësh nga fjalorë me të drejta autori, si fjalorët e Akademisë së Shkencave. Nëse mendoni se diçka këtu shkel të drejtat tuaja, na shkruani nga faqja «Rreth nesh».",
-    "No definitions or word lists are taken from copyrighted dictionaries, such as those of the Academy of Sciences. If you believe something here infringes your rights, write to us from the About page.",
+    "Nuk kopjohen përkufizime, shembuj apo struktura nga fjalorë me të drejta autori, si fjalorët e Akademisë së Shkencave. Fjalët vetë nuk janë pronë e askujt: çdo përshkrim dhe çdo lidhje ndërmjet fjalëve në këtë fjalor e kemi shkruar ne. Nëse mendoni se diçka këtu shkel të drejtat tuaja, na shkruani nga faqja «Rreth nesh».",
+    "No definitions, examples or structure are copied from copyrighted dictionaries, such as those of the Academy of Sciences. Words themselves belong to no one: every description and every link between words in this dictionary is our own work. If you believe something here infringes your rights, write to us from the About page.",
   )}</p>
 </section>`;
   return layout({ title: "Burimet — FjaloriShqip", description: "Burimet dhe licencat e Fjalorit të hapur të gjuhës shqipe.", body, active: "sources", canonical: "/burimet/" });
@@ -1115,7 +1123,7 @@ ${pageHead(
           {
             "@type": "Dataset",
             name: "FjaloriShqip — open Albanian dictionary data",
-            description: `Open data for ${numEn(stats.words)} Albanian words: Albanian descriptions, English meanings, Gheg and Tosk dialect forms, inflection tables and words with the same meaning. Built only from openly licensed sources (Wiktionary, Wikidata and others).`,
+            description: `Open data for ${numEn(stats.words)} Albanian words: Albanian descriptions, English meanings, Gheg and Tosk dialect forms, inflection tables and words with the same meaning. Built from openly licensed sources (Wiktionary, Wikidata and others) and public-domain books.`,
             url: absolute("/api/"),
             inLanguage: ["sq", "en"],
             keywords: ["Albanian", "Albanian language", "dictionary", "Albanian–English", "Gheg", "Tosk", "lexicon"],
@@ -1145,8 +1153,8 @@ ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Alba
     "FjaloriShqip is created and developed by <b>Endrit Rushiti</b>, as the project's author and developer. The aim is an open, free and easy-to-use dictionary that makes the Albanian language ready for the digital world: with the standard words, Gheg and Tosk forms, Arbëresh and Arvanitika words, and an open API for developers.",
   )}</p>
   <p>${biHtml(
-    "Fjalori ndërtohet vetëm nga burime me licencë të hapur, të cilat i gjeni të gjitha te faqja <a href=\"/burimet/\">Burimet</a>.",
-    "The dictionary is built only from openly licensed sources, all listed on the <a href=\"/burimet/\">Sources</a> page.",
+    "Fjalori ndërtohet nga burime me licencë të hapur dhe libra në domen publik, të cilat i gjeni të gjitha te faqja <a href=\"/burimet/\">Burimet</a>.",
+    "The dictionary is built from openly licensed sources and public-domain books, all listed on the <a href=\"/burimet/\">Sources</a> page.",
   )}</p>
   <p class="notice">${bi(
     "Ky nuk është fjalori zyrtar i Akademisë së Shkencave. Për normën zyrtare, shihni botimet e Akademisë.",
@@ -1243,7 +1251,7 @@ function searchPage(): string {
   const body = `
 <div class="search-page">
   ${searchBox({ size: "big" })}
-  <h1 class="search-title"></h1>
+  <h1 class="search-title">${bi("Kërko në fjalor", "Search the dictionary")}</h1>
   <div class="search-results"></div>
 </div>`;
   return layout({ title: "Kërko — FjaloriShqip", description: "Kërko në fjalorin shqip.", body, headerSearch: false, noindex: true });
@@ -1523,7 +1531,7 @@ function apiWord(w: Word): object {
       [
         "# FjaloriShqip",
         "",
-        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built only from openly licensed sources (Wiktionary, Wikidata and others). All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
+        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built from openly licensed sources (Wiktionary, Wikidata and others) and public-domain books. All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
         "",
         "Good for: Albanian–English and English–Albanian word lookups, the meaning of an Albanian word in Albanian, Gheg and Tosk forms, verb conjugation, and open Albanian language data for software.",
         "",

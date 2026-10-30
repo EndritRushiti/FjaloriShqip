@@ -27,3 +27,4 @@ e shtunë | java;
 
 # kllapa të prishura nga burimi / broken brackets from the source
 shtalbër | Apocynaceae)))
+përafërt | well undefined   # tekst i prishur nga burimi

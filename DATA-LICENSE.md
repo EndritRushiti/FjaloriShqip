@@ -24,9 +24,16 @@ It is built from:
 | Wiktionary in 18 other language editions (French, German, Russian, Polish, Greek, Italian…), via kaikki.org | CC BY-SA 4.0 | Albanian entries and translations into Albanian (`derived/wiktionary-*-sq.json`); English Wiktionary translation tables give the English meaning |
 | Albanet, the Albanian WordNet (Ervin Ruci), via the Open Multilingual Wordnet | CC BY 3.0 | words and same-meaning groups, with English words from Princeton WordNet 3.0 (WordNet licence); **its Albanian definitions are not used** |
 | MaCoCu Albanian web corpus 1.0 (CLARIN.SI 11356/1804) | CC0 1.0 | word counts only (`derived/frekuenca-macocu.json`); no text |
+| Tatoeba | CC BY 2.0 FR | example sentences with their English translation (author of each in `shembuj/tatoeba.tsv`) |
+| HPLT v2 Albanian web corpus | CC0 1.0 | word counts only; no text |
+| EuroVoc, Albanian version (Publications Office of the EU) | reuse with acknowledgement, Decision 2011/833/EU | about 100 single-word terms; not its structure or translations |
+| Hahn 1854, Dozon 1879, Meyer 1891, Rossi 1875, Jungg 1895, Kristoforidhi 1904, Gazulli 1942 (`dialekte/*.tsv`) | public domain | old, regional and dialect words and their meanings, converted to today's spelling |
+| Stuart E. Mann, An Historical Albanian-English Dictionary, 1948 (`dialekte/mann-1948.tsv`) | words and facts only | words, word class, dialect labels and standard word; no definitions, examples or etymologies |
 
 Pages of Wikifjalor that reproduce the layout of the Academy of Sciences' dictionary (FGJSSH) are excluded
 entirely, including their word list, because they appear to be copied from a copyrighted work.
+
+Every Albanian description (`pershkrime/pershkrime.tsv`) is written by the project; no definitions, examples or structure are copied from copyrighted dictionaries.
 
 When you reuse the data, credit **"FjaloriShqip"** and the sources above. Share your work under CC BY-SA 4.0,
 and under GPL-2.0-or-later for any of the unverified Hunspell words you include.

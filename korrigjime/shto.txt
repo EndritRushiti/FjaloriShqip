@@ -67357,3 +67357,4 @@ haberdis | verb | to inform, to notify
 shtalbër | noun | silk vine (Periploca)
 # ── mannshto.tsv ──
 gjenaral | noun | general
+përafërt | adj | approximate

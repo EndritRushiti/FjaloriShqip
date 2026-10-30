@@ -2,7 +2,7 @@
 
 **Fjalori i hapur i gjuhës shqipe — the open dictionary of the Albanian language.**
 
-A free, open-source Albanian dictionary with a free JSON API, built **only from openly licensed sources**.
+A free, open-source Albanian dictionary with a free JSON API, built from **openly licensed sources and public-domain books**, with every description written by the project.
 
 - **Search** in Albanian or English (works without ë/ç, finds inflected forms: *punova → punoj*)
 - **Meanings in English**, examples, pronunciation (IPA), etymology
@@ -26,8 +26,13 @@ Interface: Albanian first, English second (switch in the header).
 | [Wiktionary, 18 other editions](https://kaikki.org/dictionary/rawdata.html) (via kaikki.org) | CC BY-SA 4.0 | more Albanian words; English translation tables give English meanings |
 | [Albanet](https://github.com/omwn/omw-data/tree/main/wns/als) (Albanian WordNet) | CC BY 3.0 | words and same-meaning groups (not its definitions) |
 | [MaCoCu Albanian web corpus](http://hdl.handle.net/11356/1804) | CC0 | word counts only (confirms new words are in use) |
+| [Tatoeba](https://tatoeba.org/) | CC BY 2.0 FR | example sentences with English translation, reviewed one by one (author of each in `shembuj/tatoeba.tsv`) |
+| [HPLT v2](https://hplt-project.org/datasets/v2.0) Albanian web corpus | CC0 | word counts only (confirms words and regular Gheg forms are in use) |
+| [EuroVoc](https://op.europa.eu/en/web/eu-vocabularies/eurovoc) (Albanian) | free reuse with acknowledgement (Decision 2011/833/EU) | about 100 single-word terms, described by us |
+| Public-domain books: Hahn 1854, Dozon 1879, Meyer 1891, Rossi 1875, Jungg 1895, Kristoforidhi 1904, Gazulli 1942 (scans on archive.org) | public domain | old, regional and dialect words, converted to today's spelling; meanings translated, descriptions our own |
+| Stuart E. Mann, *An Historical Albanian-English Dictionary* (1948) | words and facts only | old, regional and dialect words with word class, dialect and standard word; its definitions, examples and etymologies are not copied |
 
-**Never used:** definitions, examples or word lists from copyrighted dictionaries, such as the Academy's *Fjalori i gjuhës shqipe* (FGJSSH), printed dictionaries or other dictionary websites. About 33,000 Wikifjalor pages copy the FGJSSH layout and are excluded completely. See [DATA-LICENSE.md](DATA-LICENSE.md).
+**Never copied:** definitions, examples or structure from copyrighted dictionaries, such as the Academy's *Fjalori i gjuhës shqipe* (FGJSSH). Every Albanian description is written by the project. About 33,000 Wikifjalor pages copy the FGJSSH layout and are excluded completely. See [DATA-LICENSE.md](DATA-LICENSE.md).
 
 - Code: **MIT** ([LICENSE](LICENSE))
 - Data: **CC BY-SA 4.0**; the unverified Hunspell words: **GPL-2.0-or-later**
@@ -86,7 +91,7 @@ npm test
 
 The site is served at **https://fjalorishqip.org** (registered at GoDaddy, DNS on Cloudflare); `www.fjalorishqip.org` redirects there.
 
-**Staying free.** `.github/workflows/usage-guard.yml` checks the month's R2 usage every day: at 80% of a free allowance the run fails (GitHub sends an email), at 95% a small offline Worker is put in front of the site (it reads nothing from R2), and deploys stop until the next month. The Worker itself is on the free plan, which errors instead of billing when its daily request limit is reached.
+**Staying free.** `.github/workflows/usage-guard.yml` checks the month's R2 usage every day: at 80% of a free allowance the run fails (GitHub sends an email); at 95% of the free reads or storage a small offline Worker is put in front of the site (it reads nothing from R2); at 95% of the free uploads (Class A) the site stays online but deploys and the Worker's own writes (reports, notification sign-ups, the app open counter) pause until the next month. Pages link `style.css` and `app.js` without a version in the address, so a change to them uploads two files, not every page. The Worker itself is on the free plan, which errors instead of billing when its daily request limit is reached.
 
 `.github/workflows/ci.yml` type-checks and tests every push.
 
