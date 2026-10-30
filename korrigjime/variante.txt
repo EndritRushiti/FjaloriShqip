@@ -4434,3 +4434,5 @@ farastua | mlatur | alternative
 fjalëtuar | llafazan | alternative
 # ── Hahn 1854 ──
 fortëtë | forcë | alternative
+# ── Hahn 1854 ──
+hadëm | tredhak | alternative

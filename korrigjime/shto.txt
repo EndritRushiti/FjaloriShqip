@@ -67350,3 +67350,5 @@ farastua | noun | wooden stamp for consecrated bread
 fjalëtuar | noun | chatterbox
 # ── hahnshto.tsv ──
 fortëtë | noun | strength
+# ── hahnshto.tsv ──
+hadëm | noun | eunuch
