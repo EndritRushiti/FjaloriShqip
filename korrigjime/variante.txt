@@ -4353,3 +4353,5 @@ mahsul | prodhim | alternative
 mallështuar | madhështor | alternative
 marazos | mundoj | alternative
 marda | cen | alternative
+# ── Hahn 1854 ──
+masllahat | çështje | alternative

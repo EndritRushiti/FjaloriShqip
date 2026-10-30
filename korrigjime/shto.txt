@@ -67266,3 +67266,5 @@ mahsul | noun | yield, produce (of land or trees)
 mallështuar | adj | high-minded, proud, majestic
 marazos | verb | to torment; to waste with illness
 marda | noun | flaw, blemish
+# ── hahnshto.tsv ──
+masllahat | noun | business, affair
