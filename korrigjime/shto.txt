@@ -67345,3 +67345,6 @@ tyfmet | noun | fine in wine or brandy paid by a member of a guild
 # ── hahnshto.tsv ──
 fagushë | noun | cancer (the disease)
 faljexhi | noun | worshipper
+# ── hahnshto.tsv ──
+farastua | noun | wooden stamp for consecrated bread
+fjalëtuar | noun | chatterbox
