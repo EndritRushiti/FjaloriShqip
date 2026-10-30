@@ -67315,6 +67315,4 @@ siguro | adv | surely, certainly
 sikletis | verb | to bore, to make uneasy
 # ── hahnshto.tsv ──
 smundje | noun | indisposition, illness
-surgjun | noun | banishment, exile
-surgjunis | verb | to banish, to exile
 splinë | noun | kidney

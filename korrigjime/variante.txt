@@ -4402,6 +4402,4 @@ siguro | sigurisht | alternative
 sikletis | mërzit | alternative
 # ── Hahn 1854 ──
 smundje | sëmundje | alternative
-surgjun | mërgim | alternative
-surgjunis | internoj | alternative
 splinë | veshkë | alternative
