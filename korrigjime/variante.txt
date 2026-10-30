@@ -4438,3 +4438,5 @@ fortëtë | forcë | alternative
 hadëm | tredhak | alternative
 # ── Hahn 1854 ──
 handshi | hanxhi | alternative
+# ── Hahn 1854 ──
+hill | mashtrim | alternative

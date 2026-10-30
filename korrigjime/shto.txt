@@ -67354,3 +67354,5 @@ fortëtë | noun | strength
 hadëm | noun | eunuch
 # ── hahnshto.tsv ──
 handshi | noun | innkeeper
+# ── hahnshto.tsv ──
+hill | noun | trick, cheating at games
