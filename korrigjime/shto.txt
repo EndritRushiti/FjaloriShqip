@@ -67334,3 +67334,7 @@ tallër | noun | round vat, narrower at the top
 taksirat | noun | fate, misfortune
 tahmin | noun | supposition, guess
 tjegullaxhi | noun | tile-maker
+# ── hahnshto.tsv ──
+tollumbas | noun | small hand drum of the dervishes
+toskëri | noun | the Tosk lands; the Tosks as a whole
+tozluk | noun | gaiter, legging
