@@ -4337,3 +4337,5 @@ kollube | koshere | alternative
 kompshi | komshi | alternative
 # ── Hahn 1854 ──
 kuvetshëm | fuqishëm | alternative
+# ── Hahn 1854 ──
+qepengj | qepenk | alternative

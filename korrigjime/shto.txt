@@ -67250,3 +67250,5 @@ kollube | noun | beehive; small hut
 kompshi | noun | neighbour
 # ── hahnshto.tsv ──
 kuvetshëm | adj | strong, strengthening
+# ── hahnshto.tsv ──
+qepengj | noun | trapdoor; shutter
