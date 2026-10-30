@@ -67243,3 +67243,6 @@ isharet | noun | sign, wink
 kandilier | noun | candlestick, lamp-holder
 # ── hahnshto.tsv ──
 keramidhçi | noun | tile-maker; brick-maker
+# ── hahnshto.tsv ──
+koburre | noun | pistol
+kollube | noun | beehive; small hut

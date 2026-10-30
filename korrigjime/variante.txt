@@ -4330,3 +4330,6 @@ isharet | shenjë | alternative
 kandilier | shandan | alternative
 # ── Hahn 1854 ──
 keramidhçi | tjegullar | alternative
+# ── Hahn 1854 ──
+koburre | pistoletë | alternative
+kollube | koshere | alternative
