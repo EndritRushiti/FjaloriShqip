@@ -4385,3 +4385,7 @@ paqllëk | pastërti | alternative
 # ── Hahn 1854 ──
 përherçëm | shpeshtë | alternative
 peshli | xhaketë | alternative
+# ── Hahn 1854 ──
+piskop | peshkop | alternative
+pishkatur | peshkatar | alternative
+plemon | mushkëri | alternative

@@ -67298,3 +67298,7 @@ paqllëk | noun | cleanliness
 # ── hahnshto.tsv ──
 përherçëm | adj | frequent
 peshli | noun | jacket with sleeves
+# ── hahnshto.tsv ──
+piskop | noun | bishop
+pishkatur | noun | fisherman
+plemon | noun | lung
