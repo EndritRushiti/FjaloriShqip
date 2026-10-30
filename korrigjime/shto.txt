@@ -67268,3 +67268,5 @@ marazos | verb | to torment; to waste with illness
 marda | noun | flaw, blemish
 # ── hahnshto.tsv ──
 masllahat | noun | business, affair
+# ── hahnshto.tsv ──
+mburrësi | noun | boasting, pride

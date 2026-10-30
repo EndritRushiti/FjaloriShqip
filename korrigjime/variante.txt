@@ -4355,3 +4355,5 @@ marazos | mundoj | alternative
 marda | cen | alternative
 # ── Hahn 1854 ──
 masllahat | çështje | alternative
+# ── Hahn 1854 ──
+mburrësi | mburrje | alternative
