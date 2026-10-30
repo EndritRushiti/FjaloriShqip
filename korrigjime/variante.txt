@@ -4403,3 +4403,6 @@ sikletis | mërzit | alternative
 # ── Hahn 1854 ──
 smundje | sëmundje | alternative
 splinë | veshkë | alternative
+# ── Hahn 1854 ──
+surgjun | syrgjyn | alternative
+surgjunis | syrgjynos | alternative

@@ -67316,3 +67316,6 @@ sikletis | verb | to bore, to make uneasy
 # ── hahnshto.tsv ──
 smundje | noun | indisposition, illness
 splinë | noun | kidney
+# ── hahnshto.tsv ──
+surgjun | noun | banishment, exile
+surgjunis | verb | to banish, to exile
