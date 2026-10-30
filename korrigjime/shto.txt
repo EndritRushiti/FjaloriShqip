@@ -67272,3 +67272,6 @@ masllahat | noun | business, affair
 mburrësi | noun | boasting, pride
 # ── hahnshto.tsv ──
 mjektar | noun | charmer who cures illness with spells
+# ── hahnshto.tsv ──
+mumkin | adj | possible
+mulaim | adj | hypocritical, two-faced
