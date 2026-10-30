@@ -67302,3 +67302,5 @@ piskop | noun | bishop
 plemon | noun | lung
 # ── hahnshto.tsv ──
 pokatua | noun | horseshoe
+# ── hahnshto.tsv ──
+poshtazit | adv | from below

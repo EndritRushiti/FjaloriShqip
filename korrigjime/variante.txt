@@ -4389,3 +4389,5 @@ piskop | peshkop | alternative
 plemon | mushkëri | alternative
 # ── Hahn 1854 ──
 pokatua | potkua | alternative
+# ── Hahn 1854 ──
+poshtazit | poshtazi | alternative
