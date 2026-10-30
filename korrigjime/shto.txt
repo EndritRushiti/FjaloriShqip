@@ -67252,3 +67252,7 @@ kompshi | noun | neighbour
 kuvetshëm | adj | strong, strengthening
 # ── hahnshto.tsv ──
 qepengj | noun | trapdoor; shutter
+# ── hahnshto.tsv ──
+qoshli | adj | square, four-cornered
+qotillëk | noun | cowardice
+llatin | noun | Catholic
