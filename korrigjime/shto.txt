@@ -67295,3 +67295,6 @@ omur | noun | power, command
 pabesllëk | noun | unbelief; treachery
 # ── hahnshto.tsv ──
 paqllëk | noun | cleanliness
+# ── hahnshto.tsv ──
+përherçëm | adj | frequent
+peshli | noun | jacket with sleeves
