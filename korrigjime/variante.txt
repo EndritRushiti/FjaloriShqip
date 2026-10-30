@@ -4380,3 +4380,5 @@ omuth | shpresë | alternative
 omur | pushtet | alternative
 # ── Hahn 1854 ──
 pabesllëk | pabesi | alternative
+# ── Hahn 1854 ──
+paqllëk | pastërti | alternative
