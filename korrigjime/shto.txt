@@ -67323,3 +67323,5 @@ surgjunis | verb | to banish, to exile
 sheqerli | adj | sugary, sweet
 # ── hahnshto.tsv ──
 shubehe | noun | suspicion
+# ── hahnshto.tsv ──
+shumëtoj | verb | to increase, to add up

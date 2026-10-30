@@ -4410,3 +4410,5 @@ surgjunis | syrgjynos | alternative
 sheqerli | ëmbël | alternative
 # ── Hahn 1854 ──
 shubehe | dyshim | alternative
+# ── Hahn 1854 ──
+shumëtoj | shumoj | alternative
