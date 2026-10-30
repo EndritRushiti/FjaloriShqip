@@ -4335,3 +4335,5 @@ koburre | pistoletë | alternative
 kollube | koshere | alternative
 # ── Hahn 1854 ──
 kompshi | komshi | alternative
+# ── Hahn 1854 ──
+kuvetshëm | fuqishëm | alternative

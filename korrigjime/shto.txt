@@ -67248,3 +67248,5 @@ koburre | noun | pistol
 kollube | noun | beehive; small hut
 # ── hahnshto.tsv ──
 kompshi | noun | neighbour
+# ── hahnshto.tsv ──
+kuvetshëm | adj | strong, strengthening
