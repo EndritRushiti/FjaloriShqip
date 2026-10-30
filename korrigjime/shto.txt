@@ -67282,3 +67282,7 @@ murdaroj | verb | to dirty, to soil
 # ── hahnshto.tsv ──
 nalet | noun | curse
 naksllëk | noun | irascibility, quick temper
+# ── hahnshto.tsv ──
+neqes | noun | miser; (adj.) thrifty
+nemc | noun | German; (Gheg) Austrian
+nishanoj | verb | to mark; to take aim

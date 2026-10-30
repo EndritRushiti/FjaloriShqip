@@ -4369,3 +4369,7 @@ murdaroj | ndot | alternative
 # ── Hahn 1854 ──
 nalet | mallkim | alternative
 naksllëk | zemërim | alternative
+# ── Hahn 1854 ──
+neqes | koprrac | alternative
+nemc | gjerman | alternative
+nishanoj | shënoj | alternative
