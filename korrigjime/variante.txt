@@ -4378,3 +4378,5 @@ njerëzllëk | njerëzi | alternative
 # ── Hahn 1854 ──
 omuth | shpresë | alternative
 omur | pushtet | alternative
+# ── Hahn 1854 ──
+pabesllëk | pabesi | alternative

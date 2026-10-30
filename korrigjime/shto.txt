@@ -67291,3 +67291,5 @@ njerëzllëk | noun | humanity, humaneness
 # ── hahnshto.tsv ──
 omuth | noun | hope, trust
 omur | noun | power, command
+# ── hahnshto.tsv ──
+pabesllëk | noun | unbelief; treachery
