@@ -297,12 +297,12 @@ mushë | mushmollë | alternative
 mpshehurazi | fshehurazi | alternative
 ndëgjueshëm | dëgjueshëm | alternative
 nejë | nyjë | alternative
-oklaj | oklla | alternative
+oklaj | akllaj | alternative
 ulishtë | ullishtë | alternative
 ungjillzoj | ungjillëzoj | alternative
 ushkjej | ushqej | alternative
 ushkjim | ushqim | alternative
-pagëdhënës | paguës | alternative
+pagëdhënës | pagues | alternative
 pagëdhënie | shpagim | alternative
 pagëzimtar | pagëzues | alternative
 pakujdesëm | pakujdesshëm | alternative
@@ -319,9 +319,9 @@ përdhëlesë | mëshirë | alternative
 përzjej | përziej | alternative
 përmbishkronjë | mbishkrim | alternative
 përshkjoj | shqyrtoj | alternative
-përçapem | përtypem | alternative
+përçapem | përtyp | alternative
 përshfaq | shfaq | alternative
-përhirohem | shenjtërohem | alternative
+përhirohem | shenjtëroj | alternative
 peshkator | peshkatar | alternative
 pianec | pijanec | alternative
 piesëtar | pjesëtar | alternative
@@ -331,9 +331,9 @@ purteshë | përtesë | alternative
 pufkë | fshikë | alternative
 pretkosë | bretkosë | alternative
 psohem | mësohem | alternative
-pshtetem | mbështetem | alternative
+pshtetem | mbështet | alternative
 pshtjellë | shakullinë | alternative
-pshtjellem | mbështillem | alternative
+pshtjellem | mbështjell | alternative
 pshtymë | pështymë | alternative
 pshtym | tymos | alternative
 rame | bakër | alternative
@@ -346,7 +346,7 @@ sitsili | secili | alternative
 skilje | kone | alternative
 skllavos | skllavëroj | alternative
 skllap | skllav | alternative
-skjimë | stoli | alternative
+skjimë | stolisje | alternative
 shijë | shije | alternative
 shigjetonj | shigjetoj | alternative
 shkarkonj | shkarkoj | alternative
@@ -359,7 +359,7 @@ shkjiptar | shqiptar | alternative
 shkjype | shqiponjë | alternative
 shkrumbazoj | shkrumboj | alternative
 shpagesëtar | shpagues | alternative
-shtëmangem | shmangem | alternative
+shtëmangem | shmang | alternative
 shtypëshkronjë | shtypshkronjë | alternative
 shtypëshkronjës | shtypshkronjës | alternative
 talurë | pjatë | alternative
@@ -672,7 +672,7 @@ bredhoj | bredh | alternative
 brekdetas | bregdetas | alternative
 # ── Mann 1948 ──
 breze | bërzollë | alternative
-brezë | brazë | alternative
+brezë | brazdë | alternative
 breznoj | branis | alternative
 brëzollë | bërzollë | alternative
 brim | burim | alternative
@@ -718,7 +718,6 @@ bumbil | bilbil | alternative
 # ── Mann 1948 ──
 burak | byrek | alternative
 burek | byrek | alternative
-burk | burg | alternative
 burjenë | bori | alternative
 busolë | busull | alternative
 bushëm | bâshëm | alternative
@@ -761,12 +760,11 @@ cimër | çimërr | alternative
 cingarimë | cingërim | alternative
 cipres | selvi | alternative
 # ── Mann 1948 ──
-cirrua | cirua | alternative
+cirrua | cironkë | alternative
 cjegullë | tjegull | alternative
 cjetullë | sjetull | alternative
 cokullimë | sokëllimë | alternative
 cokllimë | sokëllimë | alternative
-coptoj | copëtoj | alternative
 copzoj | copëtoj | alternative
 corkllimë | sokëllimë | alternative
 corklloj | sokëllij | alternative
@@ -778,19 +776,16 @@ cragë | carragë | alternative
 cukar | sheqer | alternative
 # ── Mann 1948 ──
 cërlek | curlek | alternative
-cunoj | cus | alternative
 curile | cule | alternative
 curill | curril | alternative
-cyllak | cyllë | alternative
-cyrle | cirle | alternative
+cyllak | tub | alternative
 # ── Mann 1948 ──
 çakiç | çekiç | alternative
-çallëm | çallme | alternative
+çallëm | çallmë | alternative
 çallëndis | çallëstis | alternative
 çamtë | çantë | alternative
 # ── Mann 1948 ──
 çangall | çakall | alternative
-çapëri | çapari | alternative
 çaprashi | ngatërrim | alternative
 çardhak | çardak | alternative
 çardo | çfarëdo | alternative
@@ -891,7 +886,7 @@ deliberoj | bisedoj | alternative
 delicje | gaz | alternative
 # ── Mann 1948 ──
 dellandyshe | dallëndyshe | alternative
-denë | danë | alternative
+denë | darë | alternative
 # ── Mann 1948 ──
 derropull | derkopull | alternative
 desgracie | mjerim | alternative
@@ -967,7 +962,6 @@ dlirë | dëlirë | alternative
 dlirsi | dëlirësi | alternative
 dnaltë | lartë | alternative
 dnes | dënes | alternative
-dnesë | dënesë | alternative
 # ── Mann 1948 ──
 dobsi | dobësi | alternative
 dobsim | dobësim | alternative
@@ -1234,7 +1228,6 @@ foell | fyell | alternative
 # ── Mann 1948 ──
 fiqollë | fqollë | alternative
 fozhnje | foshnjë | alternative
-fqi | fqinj | alternative
 # ── Mann 1948 ──
 françes | francez | alternative
 freshki | freski | alternative
@@ -1352,7 +1345,7 @@ llëmallë | dhëmballë | alternative
 llun | luan | alternative
 llobiç | labiç | alternative
 llockë | loçkë | alternative
-llogam | llagam | alternative
+llogam | llagëm | alternative
 llogori | llogari | alternative
 # ── Mann 1948 ──
 llokobere | llogobere | alternative
@@ -1369,7 +1362,6 @@ madjeza | madje | alternative
 # ── Mann 1948 ──
 magaze | magazinë | alternative
 magazë | magazinë | alternative
-magazi | magazinë | alternative
 magën | makinë | alternative
 magjitar | magjistar | alternative
 mais | mahis | alternative
@@ -1391,7 +1383,6 @@ mallnjim | mallëngjim | alternative
 mândeshë | mëndeshë | alternative
 manej | mbasandaj | alternative
 manerë | mënyrë | alternative
-mangoj | mungoj | alternative
 manumangë | mëngë | alternative
 manurë | mënyrë | alternative
 manxhatur | grazhd | alternative
@@ -1430,7 +1421,7 @@ mavjos | mavijos | alternative
 # ── Mann 1948 ──
 mazja | treg | alternative
 mba | mbaj | alternative
-mbahitem | mahitem | alternative
+mbahitem | mahit | alternative
 mballëfaqe | ballafaqe | alternative
 mballambersë | shuplakë | alternative
 mballoj | mballos | alternative
@@ -1500,7 +1491,7 @@ mbyle | mbole | alternative
 mçef | fsheh | alternative
 mçeh | fsheh | alternative
 mçeftsi | fshehtësi | alternative
-mçel | mbërshel | alternative
+mçel | mbyll | alternative
 mçesë | ndodhje | alternative
 mçoj | ndodh | alternative
 mé | metë | alternative
@@ -1508,7 +1499,7 @@ meckë | maskë | alternative
 medajë | medalje | alternative
 medis | midis | alternative
 medje | madje | alternative
-mehitem | mahitem | alternative
+mehitem | mahit | alternative
 # ── Mann 1948 ──
 mejaf | mjaft | alternative
 mejaft | mjaft | alternative
@@ -1546,7 +1537,6 @@ merimajkë | merimangë | alternative
 meringonë | milingonë | alternative
 # ── Mann 1948 ──
 merqi | mërqi | alternative
-merqinjë | mërqi | alternative
 merqinë | mërqi | alternative
 mershë | mërshë | alternative
 mestë | mesëm | alternative
@@ -1558,7 +1548,6 @@ methudhë | metodë | alternative
 mevetsi | mëvetësi | alternative
 mexi | mezi | alternative
 mezatarisht | mesatarisht | alternative
-mezikë | muzikë | alternative
 meznatë | mesnatë | alternative
 mëditë | mëditje | alternative
 mëgjes | mëngjes | alternative
@@ -1662,7 +1651,6 @@ mirseardhje | mirëseardhje | alternative
 mirsim | përmirësim | alternative
 misnatë | mesnatë | alternative
 misrishte | misërishte | alternative
-mistër | misër | alternative
 mishqerë | mëshqerrë | alternative
 mishtjerrë | mëshqerrë | alternative
 # ── Mann 1948 ──
@@ -1685,7 +1673,7 @@ mjesëm | mesëm | alternative
 mkatnoj | mëkatoj | alternative
 mladë | mblatë | alternative
 mlocë | mbulojcë | alternative
-mlojë | mbulojë | alternative
+mlojë | mbulesë | alternative
 mllenjë | mëllenjë | alternative
 mlli | mëllenjë | alternative
 mnash | mëndafsh | alternative
@@ -1756,7 +1744,6 @@ mulojë | mbulonjë | alternative
 mulshi | mëlçi | alternative
 mullcë | mullëz | alternative
 mullej | mëllenjë | alternative
-mullez | mëllezë | alternative
 mulljë | mëllenjë | alternative
 mullnjë | mëllenjë | alternative
 mumend | minutë | alternative
@@ -1777,7 +1764,6 @@ murrtej | murtej | alternative
 murrtoj | murtoj | alternative
 musendër | musandër | alternative
 musëndër | musandër | alternative
-mustaq | mustak | alternative
 # ── Mann 1948 ──
 mushmulle | mushmollë | alternative
 mushmullë | mushmollë | alternative
@@ -1802,7 +1788,7 @@ ndallon | nallane | alternative
 ndepër | nëpër | alternative
 nderdh | derdh | alternative
 # ── Mann 1948 ──
-ëndigjonj | ndëgjoj | alternative
+ëndigjonj | dëgjoj | alternative
 ndëreq | ndreq | alternative
 # ── Mann 1948 ──
 ndërsoj | ndërsej | alternative
@@ -2008,7 +1994,7 @@ sumpur | squfur | alternative
 sundonjës | sundues | alternative
 supje | sepje | alternative
 surfulloj | squfuroj | alternative
-surrle | surle | alternative
+surrle | zurna | alternative
 surullas | sorollas | alternative
 surrullas | sorollas | alternative
 surllas | sorollas | alternative
@@ -2038,9 +2024,9 @@ svogëloj | zvogëloj | alternative
 # ── Mann 1948 ──
 syej | msyj | alternative
 sygloq | syglebër | alternative
-sykët | sykë | alternative
-sykun | sykë | alternative
-sykur | sykë | alternative
+sykët | syk | alternative
+sykun | syk | alternative
+sykur | syk | alternative
 sylarosh | sylarë | alternative
 sylarush | sylarë | alternative
 sylfatë | kininë | alternative
@@ -2168,7 +2154,6 @@ shëgjetar | shigjetar | alternative
 shëgjetoj | shigjetoj | alternative
 shëkim | shikim | alternative
 shëkonjës | shikues | alternative
-shilar | shëlar | alternative
 shëlarës | shilarës | alternative
 shëloj | shaloj | alternative
 # ── Mann 1948 ──
@@ -2184,7 +2169,6 @@ shëndete | shëndet | alternative
 shëndede | shëndet | alternative
 shnede | shëndet | alternative
 shëndetsi | shëndetësi | alternative
-shëndrij | shndrij | alternative
 shëndrim | shndritje | alternative
 shëndris | shndrit | alternative
 shëndritës | shndritës | alternative
@@ -2368,7 +2352,6 @@ shkrepcë | shkrepëse | alternative
 shkrepkë | shkrepëse | alternative
 shkreptoj | shkrep | alternative
 shkretnim | shkretim | alternative
-shkrinjë | shkrijë | alternative
 shkrimës | shkrimtar | alternative
 shkrisinë | tretësirë | alternative
 shkristar | shkrirës | alternative
@@ -2580,7 +2563,6 @@ shqasje | rrëshqitje | alternative
 shqej | shqyej | alternative
 shqelb | shqelm | alternative
 shqelboj | shqelmoj | alternative
-shqemë | shqeme | alternative
 shqencatar | shkencëtar | alternative
 shqencar | shkencëtar | alternative
 shqencë | shkencë | alternative
@@ -2709,7 +2691,6 @@ shtrembzoj | shtrembëroj | alternative
 shtrëngac | koprrac | alternative
 shtrëngimtar | shtrëngestar | alternative
 shtrëngojë | morsë | alternative
-shtrënguet | shtrënguar | alternative
 shtriganë | shtrigë | alternative
 shtrigni | shtrigëri | alternative
 # ── Mann 1948 ──
@@ -2850,7 +2831,6 @@ tapall | çalë | alternative
 tapaloj | çaloj | alternative
 tapuz | topuz | alternative
 taracë | tarracë | alternative
-taroq | tarak | alternative
 taratyre | tarator | alternative
 tashtinë | tash | alternative
 tashtishëm | tashëm | alternative
@@ -2903,10 +2883,9 @@ terik | terig | alternative
 ternagop | tarnagop | alternative
 tërnagop | tarnagop | alternative
 tërnakop | tarnagop | alternative
-termsinë | terma | alternative
 terzicë | rrobaqepës | alternative
 # ── Mann 1948 ──
-terrina | terri | alternative
+terrina | terr | alternative
 terrsinë | errësirë | alternative
 terrsoj | errësoj | alternative
 teskë | tesk | alternative
@@ -3118,8 +3097,8 @@ trimnoj | trimëroj | alternative
 trimoç | trimosh | alternative
 trimuejshëm | tremujor | alternative
 trinckë | trincë | alternative
-tringulloj | tringëllij | alternative
-tringlloj | tringëllij | alternative
+tringulloj | tringëlloj | alternative
+tringlloj | tringëlloj | alternative
 tringullimë | tingëllim | alternative
 tringullues | tringllimtar | alternative
 tringjyrtë | tringjyrsh | alternative
@@ -3210,7 +3189,7 @@ tuvllë | tullë | alternative
 tuvlar | tullar | alternative
 tuvllar | tullar | alternative
 tybe | tobe | alternative
-tyfeke | tyfek | alternative
+tyfeke | dyfek | alternative
 tymb | tym | alternative
 tymtajë | tymtaje | alternative
 tynjatjeta | tungjatjeta | alternative
@@ -3272,8 +3251,7 @@ thëllanzë | thëllëzë | alternative
 thëngjillos | thëngjilloj | alternative
 thërbël | thërbë | alternative
 thërk | thark | alternative
-thërrmaqe | thërmaqe | alternative
-thërmikë | thërmi | alternative
+thërmikë | thërrime | alternative
 thëthis | thith | alternative
 thëthinjës | thëthitës | alternative
 # ── Mann 1948 ──
@@ -3392,7 +3370,6 @@ ordhnonj | urdhëroj | alternative
 urdhnues | urdhërues | alternative
 uresë | urekth | alternative
 urmë | hurmë | alternative
-urovë | urov | alternative
 urtsi | urtësi | alternative
 urtsisht | urtësisht | alternative
 urtsuar | urtsuem | alternative
@@ -3744,7 +3721,6 @@ vraptoj | vrapoj | alternative
 vrasi | vrasje | alternative
 # ── Mann 1948 ──
 vrastall | vllastar | alternative
-vrratë | vratë | alternative
 vrazhdi | vrazhdësi | alternative
 vrazhdët | vrazhdë | alternative
 vrazhët | vrazhdë | alternative
@@ -3960,7 +3936,6 @@ zbraztinë | zbrazëti | alternative
 zbrokth | zbrok | alternative
 zbruj | zbruej | alternative
 zbrydhur | zbrydhët | alternative
-zbuluet | zbuluar | alternative
 # ── Mann 1948 ──
 cbruj | zbruj | alternative
 zbroj | zbruj | alternative
@@ -4091,7 +4066,6 @@ zuqë | xunkth | alternative
 zurkajë | ujëvarë | alternative
 zurlë | zurna | alternative
 zurrnë | zurna | alternative
-zushkë | zuskë | alternative
 zuzarkë | zuzare | alternative
 zvar | zvarrë | alternative
 zvarë | zvarrë | alternative
@@ -4141,8 +4115,6 @@ zhbërthej | shpërthej | alternative
 zhbraz | zbraz | alternative
 zhdamtim | shdëmtim | alternative
 zhdavaris | davaris | alternative
-zhdërvjelltë | zhdërvjellët | alternative
-zhdërvjeltër | zhdërvjellët | alternative
 zhdërvjelti | zhdërvjelltësi | alternative
 # ── Mann 1948 ──
 zhdrivillim | zhvillim | alternative
@@ -4246,7 +4218,7 @@ fshikoj | fshikulloj | alternative
 # ── Mann 1948 ──
 fshtyrsinë | vështirësi | alternative
 ftoritje | ftorim | alternative
-fundinë | fundi | alternative
+fundinë | fund | alternative
 gacëroj | ngatërroj | alternative
 gërthetër | kthetër | alternative
 gidh | zgjidh | alternative
@@ -4446,3 +4418,5 @@ hoshnukllëk | kënaqësi | alternative
 # ── Hahn 1854 ──
 haberdar | lajmëtar | alternative
 haberdis | lajmëroj | alternative
+# ── Mann 1948 ──
+gjenaral | gjeneral | alternative

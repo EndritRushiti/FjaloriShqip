@@ -1800,7 +1800,7 @@ zëvendësimi | zëvendësim
 strehimi | strehim
 albanologjisë | albanologji
 cara | carë
-vitisë | viti
+vitisë | vit
 nami | nam
 drejtojë | drejtoj
 arbëri | arbër
@@ -1823,7 +1823,6 @@ aristokracia | aristokraci
 importit | import
 destinacioni | destinacion
 natriumi | natrium
-adami | adam
 pizës | pizë
 gjenetika | gjenetikë
 mijëvjeçari | mijëvjeçar
@@ -1879,7 +1878,6 @@ ekosistemi | ekosistem
 geisha | geishë
 kristali | kristal
 begu | beg
-adamit | adam
 silici | silic
 mbarimi | mbarim
 minimumi | minimum
@@ -1895,7 +1893,7 @@ intelektuali | intelektual
 roboti | robot
 pushtojë | pushtoj
 epilepsia | epilepsi
-vitia | viti
+vitia | vit
 meditimi | meditim
 variacionit | variacion
 vendkalimi | vendkalim
@@ -2105,7 +2103,7 @@ acetoni | aceton
 bariumi | barium
 tantali | tantal
 luciferi | lucifer
-vitinë | viti
+vitinë | vit
 protektori | protektor
 harbin | harb
 struci | struc
@@ -2135,7 +2133,6 @@ monsuni | monsun
 gici | gic
 muhabetin | muhabet
 copëtojë | copëtoj
-grani | gran
 bestytnia | bestytni
 skadimi | skadim
 parapsikologjia | parapsikologji
@@ -5959,7 +5956,6 @@ diplomacia | diplomaci
 gjeologjisë | gjeologji
 shtetërorë | shtetëror
 konsumatorit | konsumator
-amin | am
 mbledhë | mbledh
 gramatikës | gramatikë
 dëshmitarë | dëshmitar
@@ -6661,7 +6657,6 @@ abonentë | abonent
 kryepeshkopata | kryepeshkopatë
 maltezë | maltez
 transparenca | transparencë
-velë | vel
 posedimi | posedim
 informimi | informim
 embrionit | embrion
@@ -10371,7 +10366,6 @@ blofin | blof
 kavanozit | kavanoz
 mosinteresimit | mosinteresim
 prolongimin | prolongim
-magjira | magjirë
 xhirollogaria | xhirollogari
 dredhëzës | dredhëzë
 rroja | rrojë
@@ -13354,7 +13348,7 @@ zgjeruar | zgjeroj
 parandaluar | parandaloj
 informuar | informoj
 hartuar | hartoj
-kontribuar | kontriboj
+kontribuar | kontribuoj
 aplikuar | aplikoj
 mundësuar | mundësoj
 vërtetuar | vërtetoj
@@ -14522,7 +14516,6 @@ mongole | mongol
 integrime | integrim
 prokurore | prokuror
 zjarrfikëse | zjarrfikës
-shtypëse | shtypës
 riprodhuese | riprodhues
 korçare | korçar
 kuptimore | kuptimor
@@ -15629,7 +15622,6 @@ botëkuptimore | botëkuptimor
 brendashqiptare | brendashqiptar
 bronke | bronk
 bronze | bronz
-bufe | buf
 bujare | bujar
 bujarie | bujari
 bujtëse | bujtës
@@ -16521,7 +16513,6 @@ pikëllime | pikëllim
 pikësynime | pikësynim
 pikëtakime | pikëtakim
 pilote | pilot
-pine | pin
 pjekurie | pjekuri
 planete | planet
 planifikime | planifikim

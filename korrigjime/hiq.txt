@@ -20,7 +20,6 @@ përpiqej  # përpiqem
 kufij     # kufi (shumës)
 shpij     # shtëpi / shpi
 numë      # numër
-fundmë    # i fundmë → së fundmi
 tjetrën   # tjetër (kallëzore)
 rikthye   # rikthej (pjesore pa -r)
 nxirr     # nxjerr (temë)
@@ -65,7 +64,6 @@ bot   # fjalë e huaj
 zhvill   # pa kuptim të qartë
 spi   # pa kuptim të qartë
 iliro   # pjesë e fjalëve të përbëra
-taulant   # emër vetjak
 politiko   # pjesë e fjalëve të përbëra
 linux   # emër vetjak (sistem operativ)
 # ── n3.tsv ──
@@ -90,7 +88,6 @@ gjermano   # pjesë e fjalëve të përbëra
 oskar   # emër çmimi
 amerikano   # pjesë e fjalëve të përbëra
 flint   # fjalë e huaj
-voz   # fjalë e huaj
 qa   # pa kuptim të qartë
 gro   # pa kuptim të qartë
 bujti   # formë e paqartë
@@ -101,7 +98,6 @@ marcel   # emër vetjak
 # ── n4.tsv ──
 tumë   # pa kuptim të qartë
 infra   # parashtesë
-talk   # fjalë e huaj
 jure   # pjesë e shprehjes latine «de jure»
 historiko   # pjesë e fjalëve të përbëra
 rubë   # pa kuptim të qartë
@@ -118,7 +114,6 @@ makro   # parashtesë
 tekniko   # pjesë e fjalëve të përbëra
 ruk   # pa kuptim të qartë
 truth   # fjalë e huaj
-kade   # pa kuptim të qartë
 koko   # pa kuptim të qartë
 kyl   # pa kuptim të qartë
 mapo   # pa kuptim të qartë
@@ -139,14 +134,12 @@ plaç   # pa kuptim të qartë
 brosh   # pa kuptim të qartë
 kësi   # pa kuptim të qartë
 ushtarako   # pjesë e fjalëve të përbëra
-bregas   # pa kuptim të qartë
 shop   # fjalë e huaj
 cens   # pa kuptim të qartë
 saze   # pa kuptim të qartë
 pet   # pa kuptim të qartë
 rebelua   # formë e paqartë
 administrativo   # pjesë e fjalëve të përbëra
-anasjell   # formë e paqartë
 fiziko   # pjesë e fjalëve të përbëra
 vargas   # emër vetjak
 buq   # pa kuptim të qartë
@@ -159,7 +152,6 @@ ero   # pa kuptim të qartë
 eto   # pa kuptim të qartë
 bono   # fjalë e huaj
 verb   # fjalë e huaj
-kind   # fjalë e huaj
 marmara   # emër vetjak
 sharmë   # pa kuptim të qartë
 bat   # pa kuptim të qartë
@@ -222,7 +214,6 @@ taurus   # fjalë e huaj
 # ── n8.tsv ──
 xhi   # pa kuptim të qartë
 negro   # formë e huaj
-tollovi   # pa kuptim të qartë
 zade   # pa kuptim të qartë
 lid   # pa kuptim të qartë
 aero   # parashtesë
@@ -386,3 +377,8 @@ pergjegjes   # pa ë: përgjegjës
 friken   # pa ë: frikën
 braç   # spell-checker word without a meaning
 hipi
+adami   # emër vetjak (Adami)
+adamit   # emër vetjak
+grani   # pa kuptim të qartë
+magjira   # formë e paqartë
+pine   # fjalë e huaj

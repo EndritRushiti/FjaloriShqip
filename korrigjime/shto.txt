@@ -7973,7 +7973,6 @@ rrezikues | adj | risky
 aradhë | noun | detachment
 rudinë | noun | mountain meadow
 librar | noun | bookseller
-pasdreke | noun | afternoon
 pens | noun | tweezers
 pisllëk | noun | filth
 # ── w7.tsv ──
@@ -7990,7 +7989,6 @@ gojëtar | adj | eloquent
 përtejmë | adj | lying beyond, further
 kanarinë | noun | canary
 mamuth | noun | mammoth
-turkoshak | noun | Turkophile (pejorative)
 vonim | noun | delay
 rrokaqiell | noun | skyscraper
 cirkus | noun | circus
@@ -8056,7 +8054,6 @@ hallvaxhi | noun | halva maker
 karbit | noun | calcium carbide
 pece | noun | cloth, rag
 martinë | noun | single-shot rifle
-dritore | noun | small window
 # ── w9.tsv ──
 tricikël | noun | tricycle
 xhandarmeri | noun | gendarmerie
@@ -31519,14 +31516,12 @@ urbanisht | adv |
 albanologjikisht | adv | 
 alergjikisht | adv | 
 begatisht | adv | 
-begatisht | adv | 
 çerkezisht | adv | in Circassian
 çuditësisht | adv | 
 elastikisht | adv | 
 fatlumisht | adv | 
 hipoalergjikisht | adv | 
 joefektivisht | adv | 
-joetikisht | adv | 
 joetikisht | adv | 
 jokonvencionalisht | adv | 
 kolateralisht | adv | 
@@ -46209,9 +46204,7 @@ gjemizog | noun | a bird
 gjendar | noun | armed policeman, district policeman
 gjendarmëri | noun | armed police, district police
 gjendëni | noun | wickedness
-gjenealllogji | noun | genealogy
 gjener | noun | gender (grammar)
-gjenarall | noun | general
 gjenerikë | noun | small round variety of plum
 gjengjefil | noun | ginger
 gjeniper | noun | juniper
@@ -47052,7 +47045,6 @@ hulmtoj | verb | prowl round, investigate
 hullem | verb | approach
 hullina | noun | convolutions
 hullme | noun | jet, spout
-hullluveqkë | noun | owl
 humas | verb | lose
 humak | noun | bog, soft soil
 humbak | noun | bog, soft soil
@@ -67362,3 +67354,6 @@ hoshnukllëk | noun | contentment, satisfaction
 # ── hahnshto.tsv ──
 haberdar | noun | messenger
 haberdis | verb | to inform, to notify
+shtalbër | noun | silk vine (Periploca)
+# ── mannshto.tsv ──
+gjenaral | noun | general

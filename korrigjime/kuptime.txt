@@ -24,3 +24,6 @@ s'bëhet gjaku ujë | thicker than water
 s'ka pyll pa derra | one cannot expect
 ujku qimen e ndërron por zakonin s'e harron | leopard
 e shtunë | java;
+
+# kllapa të prishura nga burimi / broken brackets from the source
+shtalbër | Apocynaceae)))
