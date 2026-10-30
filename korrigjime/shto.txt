@@ -67300,3 +67300,5 @@ përherçëm | adj | frequent
 # ── hahnshto.tsv ──
 piskop | noun | bishop
 plemon | noun | lung
+# ── hahnshto.tsv ──
+pokatua | noun | horseshoe
