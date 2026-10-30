@@ -67279,3 +67279,6 @@ mulaim | adj | hypocritical, two-faced
 murvet | noun | will, intention
 murdaris | verb | to dirty, to soil
 murdaroj | verb | to dirty, to soil
+# ── hahnshto.tsv ──
+nalet | noun | curse
+naksllëk | noun | irascibility, quick temper

@@ -4366,3 +4366,6 @@ mulaim | hipokrit | alternative
 murvet | qëllim | alternative
 murdaris | ndot | alternative
 murdaroj | ndot | alternative
+# ── Hahn 1854 ──
+nalet | mallkim | alternative
+naksllëk | zemërim | alternative
