@@ -67338,3 +67338,5 @@ tjegullaxhi | noun | tile-maker
 tollumbas | noun | small hand drum of the dervishes
 toskëri | noun | the Tosk lands; the Tosks as a whole
 tozluk | noun | gaiter, legging
+# ── hahnshto.tsv ──
+çalëstis | verb | to strive, to endeavour

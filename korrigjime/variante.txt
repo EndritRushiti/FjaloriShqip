@@ -4424,3 +4424,5 @@ tjegullaxhi | tjegullar | alternative
 # ── Hahn 1854 ──
 tollumbas | daulle | alternative
 tozluk | tirk | alternative
+# ── Hahn 1854 ──
+çalëstis | përpiqem | alternative
