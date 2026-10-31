@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit";
 
 export interface SourceInfo {
   id: SourceId;
@@ -345,6 +345,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen.",
       en: "The definitions, examples and etymologies of the book are not copied.",
+    },
+  },
+  folesit: {
+    id: "folesit",
+    name: "Folësit e dialekteve: fjalë të mbledhura nga folës vendas",
+    publisher: "FjaloriShqip, nga folës vendas, të kontrolluara nga redaktori",
+    url: "https://fjalorishqip.org/burimet/",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë, me vendin ku thuhen (p.sh. Tetovë, Gostivar, Kërçovë) dhe fjalën standarde. Përshkrimet shqip janë tonat.",
+      en: "Words people say at home and in the village but rarely write, with the place where they are said (e.g. Tetovë, Gostivar, Kërçovë) and the standard word. The Albanian descriptions are our own.",
+    },
+    notUsed: {
+      sq: "Emrat e folësve nuk ruhen e nuk botohen.",
+      en: "The speakers' names are not kept or published.",
     },
   },
   "hahn-1854": {

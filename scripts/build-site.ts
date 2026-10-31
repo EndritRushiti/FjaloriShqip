@@ -757,14 +757,15 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
       if (!line || line.startsWith("#")) continue;
       const cols = line.split("\t");
       const region = fixed || cols[7] || "";
-      const place = PLACE[region] ?? (/^[A-ZÇË][a-zçë]+$/.test(region) && region !== "Arbëresh" ? region : "");
+      // speakers' words name their towns as written (Tetovë, Gostivar, Kërçovë)
+      const place = file === "folesit.tsv" ? region : PLACE[region] ?? (/^[A-ZÇË][a-zçë]+$/.test(region) && region !== "Arbëresh" ? region : "");
       if (place && !placeOf.has(cols[0])) placeOf.set(cols[0], place);
     }
   }
@@ -1026,6 +1027,8 @@ function sourcesPage(): string {
       sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë ose një formë dialektore përdoret; prej këtyre numërimeve vijnë edhe format e rregullta gege (me punue, i lidhun, grue, kâmbë) që lidhim me fjalën standarde. Nuk kopjohet asnjë tekst.", en: "Word counts only, to confirm that a word or a dialect form is in use; these counts also give the regular Gheg forms (me punue, i lidhun, grue, kâmbë) that we link to the standard word. No text is copied." },
     { title: "EuroVoc — tezauri shumëgjuhësh i BE-së (versioni shqip)", author: "Zyra e Publikimeve e Bashkimit Evropian, © Bashkimi Evropian", link: "https://op.europa.eu/en/web/eu-vocabularies/eurovoc", licence: "Ripërdorim i lirë me përmendjen e burimit (Vendimi 2011/833/BE)", licenceUrl: "https://eur-lex.europa.eu/eli/dec/2011/833/oj",
       sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
+    { title: "Folësit e dialekteve", author: "Folës vendas; të kontrolluara nga redaktori i FjaloriShqip", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+      sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë (p.sh. çik, cauc, rrabe në Tetovë, Gostivar e Kërçovë), me vendin ku thuhen. Emrat e folësve nuk botohen; përshkrimet janë tonat.", en: "Words people say at home and in the village but rarely write (e.g. çik, cauc, rrabe in Tetovë, Gostivar and Kërçovë), with the place where they are said. The speakers' names are not published; the descriptions are our own." },
     { title: "Albanesische Studien, vëll. 3: shtojca e fjalorit shqip-gjermanisht (1853–1854)", author: "Johann Georg von Hahn (1811–1869)", link: "https://archive.org/details/10589474bsb", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Fjalë të vjetra e krahinore gege e toske, të kthyera nga alfabeti i Hahnit në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja, përshkrimet janë tonat.", en: "Old and regional Gheg and Tosk words, converted from Hahn's alphabet to today's spelling; meanings translated from German, the descriptions are our own." },
     { title: "Etymologisches Wörterbuch der albanesischen Sprache (1891)", author: "Gustav Meyer (1850–1900)", link: "https://archive.org/details/etymologischesw00meyegoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
