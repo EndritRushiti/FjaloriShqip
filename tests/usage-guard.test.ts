@@ -1,5 +1,15 @@
 import { describe, expect, it } from "vitest";
-import { classify, FREE, STOP, WARN, worstShare } from "../scripts/usage-guard.js";
+import { classify, FREE, STOP, UPLOAD_BUDGET, uploadAllowed, WARN, worstShare } from "../scripts/usage-guard.js";
+
+describe("upload budget", () => {
+  it("lets a deploy upload only while the month stays under the budget", () => {
+    const limit = FREE.classA * UPLOAD_BUDGET;
+    expect(uploadAllowed(0, 188_000)).toBe(true); // the first full upload of the site
+    expect(uploadAllowed(limit - 94_000, 94_000)).toBe(true);
+    expect(uploadAllowed(limit - 94_000, 94_001)).toBe(false); // one site-wide change too many
+    expect(uploadAllowed(limit, 0)).toBe(true); // nothing to upload is always fine
+  });
+});
 
 describe("usage guard", () => {
   it("counts uploads as Class A, reads as Class B and deletes as free", () => {

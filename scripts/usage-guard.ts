@@ -2,10 +2,12 @@
  * Checks this month's R2 usage against the free allowance, so the site never runs into paid usage.
  *
  *   npx tsx scripts/usage-guard.ts
+ *   npx tsx scripts/usage-guard.ts --budget 12345   can a deploy upload 12,345 more files this month? (exit 0 or 5)
  *
  * Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN (the token needs "Account Analytics: Read").
  * Exit code: 0 = fine, 1 = warning (≥ WARN of an allowance used), 2 = stop (≥ STOP of reads or storage used),
- * 3 = could not check, 4 = no uploads (≥ STOP of Class A used, reads and storage fine).
+ * 3 = could not check, 4 = no uploads (≥ STOP of Class A used, reads and storage fine),
+ * 5 = with --budget: this deploy's uploads would take Class A over UPLOAD_BUDGET.
  * The workflow .github/workflows/usage-guard.yml takes the site offline on exit code 2 only: visitors only read, so
  * when just the Class A allowance (uploads, writes) is used up, the site stays online while deploys and the Worker's
  * own writes (reports, notification sign-ups, open counter) stop until the next month.
@@ -17,6 +19,16 @@ import { pathToFileURL } from "node:url";
 export const FREE = { classA: 1_000_000, classB: 10_000_000, storageBytes: 10 * 1e9 };
 export const WARN = 0.8;
 export const STOP = 0.95;
+/**
+ * A deploy may only upload while this month's Class A operations, plus its own uploads, stay under this share.
+ * It leaves 20% for the Worker's own writes (counters, sign-ups, reports) and for a fix later in the month.
+ */
+export const UPLOAD_BUDGET = 0.8;
+
+/** Whether `planned` more uploads fit in this month's budget, given `used` Class A operations so far. */
+export function uploadAllowed(used: number, planned: number): boolean {
+  return used + planned <= FREE.classA * UPLOAD_BUDGET;
+}
 
 // R2 pricing: which operations are billed as Class A or Class B (the rest, like deletes, are free)
 const CLASS_A = new Set([
@@ -105,6 +117,17 @@ async function main() {
   const token = process.env.CLOUDFLARE_API_TOKEN;
   if (!account || !token) throw new Error("CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN are needed");
   const u = await fetchUsage(account, token);
+  const i = process.argv.indexOf("--budget");
+  if (i > 0) {
+    const planned = Number(process.argv[i + 1]);
+    if (!Number.isFinite(planned) || planned < 0) throw new Error("--budget needs the number of files to upload");
+    const ok = uploadAllowed(u.classA, planned);
+    const line = `Uploads this month: ${u.classA.toLocaleString("en")} used + ${planned.toLocaleString("en")} for this deploy = ${pct(u.classA + planned, FREE.classA)} of the free ${FREE.classA.toLocaleString("en")} (limit for deploys: ${UPLOAD_BUDGET * 100}%) → ${ok ? "OK" : "TOO MANY, nothing uploaded"}`;
+    console.log(line);
+    if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, line + "\n");
+    process.exitCode = ok ? 0 : 5;
+    return;
+  }
   const status = decide(u);
   const report = [
     `## R2 usage this month: ${status}`,
