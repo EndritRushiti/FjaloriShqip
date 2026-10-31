@@ -248,6 +248,7 @@ ${(opts.structured ?? []).map(jsonLd).join("\n")}
       <ul>
         <li><a href="${url("/burimet/")}">${bi("Burimet dhe licencat", "Sources and licences")}</a></li>
         <li><a href="${url("/rreth/")}">${t("about")}</a></li>
+        <li><a href="${url("/rreth/")}#privatesia">${bi("Privatësia", "Privacy")}</a></li>
       </ul>
     </div>
   </div>
@@ -1190,6 +1191,47 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
     <button type="submit" class="btn btn-primary">${bi("Dërgo mesazhin", "Send message")}</button>
     <p class="contact-status" role="status" aria-live="polite"></p>
   </form>
+</section>
+<section class="card prose privacy-card" id="privatesia">
+  <h2>${icon.shield(20)} ${bi("Privatësia", "Privacy")}</h2>
+  <p>${bi(
+    "FjaloriShqip nuk ka llogari, nuk përdor cookies dhe nuk ju ndjek nga një faqe në tjetrën. Ja çfarë ndodh me të dhënat, një nga një:",
+    "FjaloriShqip has no accounts, uses no cookies and does not follow you from page to page. Here is what happens with data, one by one:",
+  )}</p>
+  <ul>
+    <li>${biHtml(
+      "<b>Numri i vizitave.</b> Përdorim Cloudflare Web Analytics, që numëron vizitat pa cookies dhe pa ju njohur. Fjalori e sheh vetëm si numra të përgjithshëm (sa vizita, nga cili shtet, cilat faqe).",
+      "<b>Visit counts.</b> We use Cloudflare Web Analytics, which counts visits without cookies and without identifying you. The dictionary sees only overall numbers (how many visits, from which country, which pages).",
+    )}</li>
+    <li>${biHtml(
+      "<b>Numri i kërkimeve.</b> Kur shkruani në kutinë e kërkimit, shfletuesi juaj dërgon një sinjal pa asnjë të dhënë, një herë në ditë, që të dimë sa njerëz e përdorin fjalorin. Ajo që kërkoni nuk dërgohet. Për ta numëruar vetëm një herë, shfletuesi mban datën e sotme.",
+      "<b>Search counts.</b> When you type in the search box, your browser sends a signal with no data in it, once a day, so that we know how many people use the dictionary. What you search for is not sent. To count you only once, your browser keeps today's date.",
+    )}</li>
+    <li>${biHtml(
+      "<b>Në shfletuesin tuaj</b> ruhen vetëm zgjedhjet tuaja (gjuha, ngjyrat e faqes) dhe fjalët që keni raportuar, që butoni të mos ju pyesë dy herë. Nuk dërgohen askund dhe mund t'i fshini kur të doni.",
+      "<b>In your browser</b> only your own choices are kept (language, page colours) and the words you have reported, so the button does not ask twice. They are sent nowhere and you can delete them whenever you like.",
+    )}</li>
+    <li>${biHtml(
+      "<b>Raportet dhe sugjerimet</b> për fjalët ruhen pa emër e pa email, i dërgohen autorit çdo të hënë dhe pastaj fshihen.",
+      "<b>Reports and suggestions</b> about words are kept without a name or email, sent to the author every Monday and then deleted.",
+    )}</li>
+    <li>${biHtml(
+      "<b>Formulari i kontaktit</b> ia dërgon mesazhin tuaj autorit me email, që t'ju përgjigjet; fjalori nuk e ruan.",
+      "<b>The contact form</b> sends your message to the author by email, so the author can reply; the dictionary does not keep it.",
+    )}</li>
+    <li>${biHtml(
+      "<b>Njoftimet ditore</b>, nëse i aktivizoni, ruajnë vetëm adresën që shfletuesi juaj krijon për njoftimet. Kur i çaktivizoni, fshihet.",
+      "<b>Daily notifications</b>, if you turn them on, keep only the address your browser creates for notifications. When you turn them off, it is deleted.",
+    )}</li>
+    <li>${biHtml(
+      "<b>PayPal.</b> Butoni i mbështetjes ju çon te faqja e PayPal-it; pagesa dhe të dhënat e saj mbeten te PayPal-i.",
+      "<b>PayPal.</b> The support button takes you to PayPal's site; the payment and its details stay with PayPal.",
+    )}</li>
+  </ul>
+  <p class="muted">${bi(
+    "Faqja shërbehet nga Cloudflare, që për siguri përpunon përkohësisht adresën IP të çdo vizitori, si çdo faqe në internet. Për çdo pyetje, na shkruani nga formulari më sipër.",
+    "The site is served by Cloudflare, which briefly processes every visitor's IP address for security, as for any website. For any question, write to us using the form above.",
+  )}</p>
 </section>`;
   return layout({
     title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
