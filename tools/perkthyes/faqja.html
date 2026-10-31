@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Përkthyesi i dialekteve</title>
+<style>
+:root{--bg:#fbf8f4;--card:#fff;--ink:#1d1b19;--muted:#6b645c;--line:#e8e1d8;--accent:#c8102e;--unk:#b42318;--unkbg:#fdecea;--chg:#1f5fa8;--chgbg:#e8f0fb;--chip:#f2ece4}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171513;--card:#211e1b;--ink:#f1ece6;--muted:#a8a097;--line:#36312c;--accent:#ff5468;--unk:#ff8a80;--unkbg:#3a1c1a;--chg:#8cb8f0;--chgbg:#1b2738;--chip:#2c2824}}
+:root[data-theme="dark"]{--bg:#171513;--card:#211e1b;--ink:#f1ece6;--muted:#a8a097;--line:#36312c;--accent:#ff5468;--unk:#ff8a80;--unkbg:#3a1c1a;--chg:#8cb8f0;--chgbg:#1b2738;--chip:#2c2824}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:860px;margin:0 auto;padding:28px 16px 80px}
+h1{font-size:1.6rem;margin:0 0 4px}
+.lead{color:var(--muted);margin:0 0 20px}
+.badge{display:inline-block;font-size:.75rem;font-weight:600;color:var(--accent);border:1px solid var(--accent);border-radius:999px;padding:1px 9px;margin-left:8px;vertical-align:4px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+label{display:block;font-size:.85rem;font-weight:600;color:var(--muted);margin-bottom:6px}
+textarea{width:100%;min-height:110px;font:inherit;font-size:1.05rem;padding:10px 12px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);resize:vertical}
+.out{font-size:1.15rem;min-height:1.6em;white-space:pre-wrap;word-wrap:break-word}
+.out .c{background:var(--chgbg);color:var(--chg);border-radius:4px;padding:0 2px;cursor:help}
+.out .u{background:var(--unkbg);color:var(--unk);border-radius:4px;padding:0 2px}
+.ex{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.ex button{font:inherit;font-size:.85rem;padding:4px 10px;border-radius:999px;border:1px solid var(--line);background:var(--chip);color:var(--ink);cursor:pointer}
+table{width:100%;border-collapse:collapse;font-size:.92rem}
+td,th{text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600;font-size:.8rem}
+.legend{font-size:.85rem;color:var(--muted);margin-top:8px}
+.legend span{border-radius:4px;padding:0 4px}
+.note{font-size:.85rem;color:var(--muted);margin-top:24px}
+</style>
+</head>
+<body>
+<main>
+<h1>Përkthyesi i dialekteve <span class="badge">PROVË</span></h1>
+<p class="lead">Shkruani një tekst në gegërisht, toskërisht ose në shqipen e vjetër. Makina e kthen fjalë për fjalë në shqipen standarde, me fjalët e fjalorit. Kjo faqe është vetëm për provë dhe nuk është pjesë e faqes publike.</p>
+
+<div class="box">
+  <label for="in">Teksti në dialekt</label>
+  <textarea id="in" spellcheck="false">Ku âsht shpata, atje besa.</textarea>
+  <div class="ex" id="ex"></div>
+</div>
+
+<div class="box">
+  <label>Në standard</label>
+  <div class="out" id="out"></div>
+  <p class="legend"><span class="c" style="background:var(--chgbg);color:var(--chg)">fjalë e ndryshuar</span> · <span style="background:var(--unkbg);color:var(--unk)">fjalë që fjalori s'e njeh ende</span> · kaloni miun mbi një fjalë për të parë nga erdhi</p>
+</div>
+
+<div class="box" id="whybox" hidden>
+  <label>Si u gjet secila fjalë</label>
+  <table><thead><tr><th>Dialekt</th><th>Standard</th><th>Si</th></tr></thead><tbody id="why"></tbody></table>
+</div>
+
+<p class="note">Version prove: ndryshon fjalët, por jo ende rendin e fjalëve në fjali. Fjalët e panjohura janë ato që fjalori duhet t'i shtojë.</p>
+</main>
+<script type="module">
+const DATA = /*DATA*/;
+/*CORE*/
+const map = new Map();
+for (const w of DATA.std) map.set(w, { to: w, how: "standard" });
+for (const [f, to, h] of DATA.links) map.set(f, { to, how: DATA.how[h] });
+const { convert, renderWord } = makeConverter(map, new Set(DATA.heads));
+
+const HOW = {
+  irregular: "trajtë e njohur (e kontrolluar me dorë)", gheg: "fjalë gege në fjalor", tosk: "fjalë toske në fjalor",
+  arvanitika: "fjalë arvanite në fjalor", arbëresh: "fjalë arbëreshe në fjalor", alternative: "shkrim tjetër në fjalor",
+  "dialect form": "trajtë dialektore në fjalor", "dialect stem": "fjalë dialektore me mbaresë", elision: "fjalë e shkurtuar ( ' )",
+  compound: "fjalë e përbërë", name: "emër i përveçëm", "no standard link": "në fjalor, pa lidhje me standardin ende",
+  "standard form": "trajtë standarde", standard: "standard", unknown: "e panjohur",
+};
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const howText = (h) => HOW[h] || "rregull: " + h;
+
+function run() {
+  const res = convert(document.getElementById("in").value);
+  let html = "", rows = "";
+  res.forEach((r, i) => {
+    if (r.how === "space") { html += esc(r.from); return; }
+    const piece = renderWord(res, i, (w) => w);
+    const same = r.to !== null && r.to.toLowerCase() === r.from.toLowerCase().replace(/[.,;:!?]+$/, "");
+    if (r.to === null) html += `<span class="u" title="E panjohur">${esc(piece)}</span>`;
+    else if (same || r.how === "punctuation" || r.how === "standard" || r.how === "standard form") html += esc(piece);
+    else html += `<span class="c" title="${esc(r.from + " → " + r.to + " · " + howText(r.how))}">${esc(piece)}</span>`;
+    if (r.how !== "punctuation" && !(same && (r.how === "standard" || r.how === "standard form")))
+      rows += `<tr><td>${esc(r.from.replace(/[.,;:!?]+$/, ""))}</td><td>${r.to === null ? "—" : esc(r.to)}</td><td>${esc(howText(r.how))}</td></tr>`;
+  });
+  document.getElementById("out").innerHTML = html;
+  document.getElementById("why").innerHTML = rows;
+  document.getElementById("whybox").hidden = !rows;
+}
+const ex = document.getElementById("ex");
+for (const s of DATA.examples) {
+  const b = document.createElement("button");
+  b.textContent = s;
+  b.addEventListener("click", () => { document.getElementById("in").value = s; run(); });
+  ex.appendChild(b);
+}
+document.getElementById("in").addEventListener("input", run);
+run();
+</script>
+</body>
+</html>

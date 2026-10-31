@@ -4,12 +4,14 @@
  *
  *   node tools/perkthyes/perkthyes.mjs "Ku âsht shpata, atje besa."      convert one text
  *   node tools/perkthyes/perkthyes.mjs --test                            measure it on thenie/thenie.tsv
+ *   node tools/perkthyes/perkthyes.mjs --page out.html                   write a private test page (one file, all data inside)
  *
  * Reads data/fjalori.json (npm run data) and korrigjime/forma.txt. Nothing here is published.
  */
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { makeConverter } from "./core.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
 const D = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "fjalori.json"), "utf8"));
@@ -72,124 +74,13 @@ for (const e of D) {
   for (const d of e.dialects || []) put(d.form, e.word, d.dialect);
 }
 
-/** Standard nouns and verbs with an ending the dictionary does not list (pulja, majmuni, digjet): keep as they are. */
-const ENDINGS = [
-  ["ja", ["jë", "ë", "", "e"]], ["ën", ["ë"]], ["ës", ["ë"]], ["a", ["ë", ""]], ["i", [""]], ["u", [""]], ["in", [""]], ["it", [""]],
-  ["në", ["", "ë"]], ["et", ["", "ë"]], ["ët", ["", "ë"]], ["at", ["ë", ""]], ["ve", ["", "ë"]],
-  ["ra", [""]], ["t", [""]], ["n", [""]], ["en", ["", "ë"]], ["in", ["", "ë"]], ["ësh", ["ë"]],
-  ["et", ["", "ë"]], ["en", [""]], ["emi", [""]], ["eni", [""]], ["ni", [""]], ["jnë", [""]], ["in", [""]], ["ohet", ["oj"]],
-  ["on", ["oj"]], ["ojnë", ["oj"]], ["ova", ["oj"]], ["oi", ["oj"]], ["uar", ["oj"]], ["ur", [""]], ["ru", ["", "j"]], ["ju", ["j"]],
-  ["uari", ["oj"]], ["uara", ["oj"]], ["uri", [""]], ["urit", [""]], ["urinë", [""]], ["urë", [""]], ["ura", [""]], ["ësh", ["ë"]],
-  ["et", ["em", "es"]], ["en", ["em"]], ["hen", ["hem"]], ["het", ["hem"]], ["emi", ["em"]], // piqen, digjet → piqem, digjem
-];
-function standardInflection(w) {
-  for (const [end, bases] of ENDINGS) {
-    if (!w.endsWith(end) || w.length - end.length < 2) continue;
-    for (const b of bases) {
-      const e = W.get(w.slice(0, -end.length) + b);
-      if (isStandard(e)) return e.word;
-    }
-  }
-  return null;
-}
 for (const l of fs.readFileSync(path.join(ROOT, "korrigjime", "forma.txt"), "utf8").split(/\r?\n/)) {
   const [f, m] = l.replace(/#.*/, "").split("|").map((x) => x && x.trim());
   if (f && m) put(f, f, "standard form");
 }
 
-/** Regular rules, tried in order when a word is not found as it is. Each returns candidate spellings. */
-const RULES = [
-  ["old -enë/-etë/-ënë", (w) => (/(en|et|ën|ur)ë$/.test(w) ? [w.slice(0, -1)] : [])],
-  ["old -ë ending", (w) => (w.endsWith("ë") ? [w.slice(0, -1)] : [])],                 // lahenë → lahen, delenë → delen
-  ["old -të ending", (w) => (w.endsWith("të") ? [w.slice(0, -2) + "t", w.slice(0, -2)] : [])], // mollëtë → mollët
-  ["Gheg â/ê/î/ô/û", (w) => (/[âêîôû]/.test(w) ? [w.replace(/â/g, "ë").replace(/ê/g, "e").replace(/î/g, "i").replace(/ô/g, "o").replace(/û/g, "u"), w.replace(/â/g, "a").replace(/ê/g, "e")] : [])],
-  ["Gheg -un participle", (w) => (/un$/.test(w) ? [w.replace(/un$/, "ur")] : [])],     // veshun → veshur
-  ["Gheg -ue participle", (w) => (/ue$/.test(w) ? [w.replace(/ue$/, "uar")] : [])],   // punue → punuar
-  ["Gheg -uem", (w) => (/uem$/.test(w) ? [w.replace(/uem$/, "uar")] : [])],
-  ["Gheg ue → ua", (w) => (/ue/.test(w) ? [w.replace(/ue/, "ua")] : [])],             // grue → grua
-  ["Hahn's spelling", (w) => [w.replace(/é/g, "e").replace(/([bcdfgkpstvz])\1/g, "$1").replace(/tsh/g, "ç")].filter((c) => c !== w)], // dhé, shigjetta, vitshi
-  ["old -rë/-lë for -ër/-ël", (w) => (/[bcdfgkpstvz][rl]ë$/.test(w) ? [w.replace(/([rl])ë$/, "ë$1")] : [])],               // dhelprë → dhelpër
-  ["old 1pl -ëmë", (w) => (/ëmë$/.test(w) ? [w.replace(/ëmë$/, "im")] : [])],                                        // shohëmë → shohim
-  ["old subjunctive -një", (w) => (/një$/.test(w) && w.length > 5 ? [w.replace(/një$/, "ë")] : [])],                   // hipnjë → hipë
-  ["old accusative -ënë", (w) => (/[^aeiouëy]ënë$/.test(w) ? [w.replace(/ënë$/, "in"), w.replace(/ënë$/, "un")] : [])], // shkopënë → shkopin
-  ["Gheg -në infinitive/3pl", (w) => (/në$/.test(w) ? [w.replace(/në$/, "jnë"), w.replace(/në$/, "n")] : [])],
-];
-
-const clean = (t) => t.toLowerCase().replace(/^[«"“(]+|[»"”).,;:!?]+$/g, "");
-
-/** Converts one word. Returns { from, to, how } (to = null when unknown). */
-export function convertWord(raw) {
-  const w = clean(raw);
-  if (!w || !/[a-zëçâêîôû]/.test(w)) return { from: raw, to: raw, how: "punctuation" };
-  const tryOne = (x) => MAP.get(x);
-  let hit = tryOne(w);
-  // a regular standard form wins over a dialect reading of the same spelling (brekët, maji are standard)
-  if (hit && !["standard", "standard form", "irregular"].includes(hit.how) && standardInflection(w)) return { from: raw, to: w, how: "standard form" };
-  if (hit) return { from: raw, ...hit };
-  // elided vowel: dit' → dita/ditë, mir' → mirë, t' → të
-  if (w.endsWith("'")) {
-    const base = w.slice(0, -1);
-    if (base === "t") return { from: raw, to: "të", how: "elision" };
-    if (base === "s") return { from: raw, to: "nuk", how: "elision" };
-    if (base === "ç") return { from: raw, to: "çfarë", how: "elision" };
-    for (const v of ["ë", "a", "e", "i"]) { hit = tryOne(base + v); if (hit) return { from: raw, ...hit, how: "elision" }; }
-  }
-  // an apostrophe after a whole word (derën', peshqirin')
-  if (w.endsWith("'") && w.length > 3) {
-    const r = convertWord(raw.replace(/'(?=[.,;:!?]*$)/, ""));
-    if (r.to !== null) return { ...r, from: raw };
-  }
-  if (w.includes("-")) {
-    const parts = w.split("-").map((p) => convertWord(p));
-    if (parts.every((p) => p.to !== null)) return { from: raw, to: parts.map((p) => p.to).join("-"), how: "compound" };
-  }
-  // old Tosk/Gheg -ënë, -etë, -ësë: ditënë → ditën, mbetetë → mbetet, natësë → natës
-  if (/[eë][nts]ë$/.test(w)) {
-    const c = w.slice(0, -1);
-    hit = tryOne(c);
-    if (hit) return { from: raw, to: hit.to, how: "old -ë ending" };
-    if (standardInflection(c)) return { from: raw, to: c, how: "old -ë ending" };
-  }
-  if (standardInflection(w)) return { from: raw, to: w, how: "standard form", lemma: standardInflection(w) };
-  // a dialect word with a case/person ending (shtrofaku, çumertit): give the standard word
-  for (const [end, bases] of ENDINGS) {
-    if (!w.endsWith(end) || w.length - end.length < 3) continue;
-    for (const b of bases) {
-      hit = tryOne(w.slice(0, -end.length) + b);
-      if (hit && hit.how !== "standard" && hit.how !== "standard form") return { from: raw, to: hit.to, how: "dialect stem" };
-    }
-  }
-  for (const [name, rule] of RULES) for (const c of rule(w)) {
-    hit = tryOne(c);
-    if (hit) return { from: raw, to: hit.to, how: name };
-    if (standardInflection(c)) return { from: raw, to: c, how: name };
-  }
-  // a capitalised word the dictionary does not know, not at the start of a sentence, is a name (Vasilit)
-  if (/^[A-ZÇË]/.test(raw) && !convertWord.sentenceStart) return { from: raw, to: raw, how: "name" };
-  return { from: raw, to: null, how: "unknown" };
-}
-
-/** Converts a text: keeps punctuation, marks unknown words with [?]. */
-export function convert(text) {
-  const parts = text.split(/(\s+|(?<=')(?=[a-zëçâêîôû]))/i).filter((p) => p !== undefined && p !== "");
-  let start = true;
-  return parts.map((p) => {
-    if (/^\s+$/.test(p)) return { from: p, to: p, how: "space" };
-    convertWord.sentenceStart = start;
-    start = /[.!?]$/.test(p);
-    return convertWord(p);
-  });
-}
-
-/** Joins the converted words back into text; an elided word (t', s') gets a space when it was written joined. */
-function render(res) {
-  return res.map((r, i) => {
-    if (r.how === "space") return r.from;
-    const word = r.to === null ? `[${r.from}?]` : r.how === "punctuation" ? r.from : r.to + (/[.,;:!?]$/.test(r.from) ? r.from.slice(-1) : "");
-    const joined = /'$/.test(r.from) && res[i + 1] && res[i + 1].how !== "space" && r.to !== null && !/'$/.test(r.to);
-    return joined ? word + " " : word;
-  }).join("");
-}
+const STANDARD = new Set(D.filter(isStandard).map((e) => e.word));
+export const { convert, convertWord, render, clean, RULES } = makeConverter(MAP, STANDARD);
 
 if (process.argv[2] === "--test") {
   const rows = fs.readFileSync(path.join(ROOT, "thenie", "thenie.tsv"), "utf8").split(/\r?\n/).filter((l) => l && !l.startsWith("#")).map((l) => l.split("\t"));
@@ -226,6 +117,25 @@ if (process.argv[2] === "--test") {
   }
   console.log(`\nStandard versions run through it: ${stdWords} words, ${wrong.length} changed by mistake${wrong.length ? ": " + wrong.join("  ") : ""}`);
   if (process.argv[3] === "--show") for (const [id, text, , , standard] of rows) console.log(`\n${id}\n  dialekt:  ${text}\n  makina:   ${render(convert(text))}\n  standard: ${standard}`);
+} else if (process.argv[2] === "--page") {
+  // one self-contained test page: the same core code plus the word links it needs
+  const std = [], links = [], how = [];
+  for (const [form, { to, how: h }] of MAP) {
+    if (to === form && (h === "standard" || h === "standard form")) { std.push(form); continue; }
+    let k = how.indexOf(h);
+    if (k < 0) k = how.push(h) - 1;
+    links.push([form, to, k]);
+  }
+  const examples = fs.readFileSync(path.join(ROOT, "thenie", "thenie.tsv"), "utf8").split(/\r?\n/)
+    .filter((l) => l && !l.startsWith("#")).map((l) => l.split("\t")[1])
+    .filter((t, i) => [0, 8, 14, 23, 36, 120, 140, 160].includes(i));
+  const data = JSON.stringify({ std, links, how, heads: [...STANDARD], examples }).replace(/</g, "\\u003c");
+  const core = fs.readFileSync(path.join(ROOT, "tools", "perkthyes", "core.mjs"), "utf8").replace(/^export /m, "");
+  const html = fs.readFileSync(path.join(ROOT, "tools", "perkthyes", "faqja.html"), "utf8")
+    .replace("/*DATA*/", () => data).replace("/*CORE*/", () => core);
+  const out = process.argv[3] || "perkthyes.html";
+  fs.writeFileSync(out, html);
+  console.log(`${out}: ${(html.length / 1e6).toFixed(1)} MB, ${std.length} standard forms, ${links.length} dialect links`);
 } else if (process.argv[2]) {
   const res = convert(process.argv.slice(2).join(" "));
   console.log(render(res));
