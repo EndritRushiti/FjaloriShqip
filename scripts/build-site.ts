@@ -127,6 +127,11 @@ const DIALECT_INFO: Record<Dialect, { slug: string; sq: string; en: string; wher
 };
 const dialectUrl = (d: Dialect) => url(`/dialekt/${DIALECT_INFO[d].slug}/`);
 const REPO_URL = "https://github.com/EndritRushiti/FjaloriShqip";
+/**
+ * The author's PayPal.me page for the "support" button on /rreth/ (a plain link: no PayPal script on the site,
+ * and no email address is published). Empty: the button is not shown.
+ */
+const SUPPORT_URL = "";
 /** Cut a description to about the length search engines show, at a word boundary. */
 const metaText = (s: string, max = 158) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(" ", max - 1))}…`);
 export const slug = (w: string) => w.replace(/ /g, "_");
@@ -1161,6 +1166,18 @@ ${pageHead(t("about"), bi("Çdo fjalë shqipe, e ruajtur për brezat që vijnë.
     "This is not the official dictionary of the Academy of Sciences. For the official standard, see the Academy's publications.",
   )}</p>
 </section>
+${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
+  <h2>${icon.heart(20)} ${bi("Mbështetni projektin", "Support the project")}</h2>
+  <p>${bi(
+    "FjaloriShqip është falas, pa reklama dhe pa llogari, dhe do të mbetet i tillë. Çdo javë shtohen fjalë të reja nga dialektet dhe nga librat e vjetër, që asnjë fjalë shqipe të mos humbasë. Nëse fjalori ju ndihmon, mund ta mbështesni këtë punë me një dhuratë sa të doni.",
+    "FjaloriShqip is free, without ads and without accounts, and it will stay that way. Every week new words are added from the dialects and from old books, so that no Albanian word is lost. If the dictionary helps you, you can support this work with a gift of any size.",
+  )}</p>
+  <p><a class="btn btn-primary" href="${h(SUPPORT_URL)}" target="_blank" rel="noopener">${icon.heart(18)} ${bi("Mbështetni me PayPal", "Support with PayPal")}</a></p>
+  <p class="muted">${bi(
+    "Pagesa bëhet te faqja e PayPal-it; fjalori nuk sheh as nuk ruan të dhënat tuaja të pagesës.",
+    "The payment happens on PayPal's site; the dictionary neither sees nor keeps your payment details.",
+  )}</p>
+</section>` : ""}
 <section class="card prose contact-card" id="kontakt">
   <h2>${bi("Na kontaktoni", "Contact")}</h2>
   <p class="muted">${bi("Keni një vërejtje, një fjalë që mungon ose një ide? Shkruani këtu dhe mesazhi do t'i dërgohet autorit.", "Have a remark, a missing word or an idea? Write here and the message will be sent to the author.")}</p>

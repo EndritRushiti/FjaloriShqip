@@ -603,7 +603,8 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .contact-status { margin: 0; min-height: 1.4em; font-weight: 600; }
 .contact-status.ok { color: var(--ok, #15803d); }
 .contact-status.err { color: var(--accent); }
-.contact-card { margin-top: 18px; }
+.contact-card, .support-card { margin-top: 18px; }
+.support-card h2 svg { color: var(--accent, #c8102e); vertical-align: -3px; }
 
 /* "Raporto ose sugjero" on word pages (scripts/build-site.ts reportBox, public/app.js) */
 .report { position: relative; display: inline-block; margin: 12px 0 0; }
