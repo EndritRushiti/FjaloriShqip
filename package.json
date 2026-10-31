@@ -2,7 +2,7 @@
   "name": "fjalorishqip",
   "version": "0.1.0",
   "private": true,
-  "description": "FjaloriShqip — an open Albanian dictionary built from openly licensed sources and public-domain books, with a static JSON API.",
+  "description": "FjaloriShqip — an open Albanian dictionary that keeps every Albanian word in every dialect, built from openly licensed sources and public-domain books, with a static JSON API.",
   "license": "MIT",
   "type": "module",
   "scripts": {

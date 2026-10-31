@@ -852,7 +852,7 @@ ${chunk.length ? `<ul class="word-grid">${chunk.map(wordCard).join("")}</ul>` : 
 ${pager}`;
       write(`shkronja/${l}/${p === 1 ? "" : `${p}/`}index.html`, layout({
           title: `${l.toUpperCase()} — fjalët shqipe${pages > 1 ? ` (${p}/${pages})` : ""} | FjaloriShqip`,
-          description: `Fjalët shqipe që fillojnë me ${l.toUpperCase()}${pages > 1 ? `, faqja ${p} nga ${pages}` : ""}: ${num(list.length)} fjalë me kuptimet në shqip dhe anglisht.`,
+          description: `Fjalët shqipe që fillojnë me ${l.toUpperCase()}${pages > 1 ? `, faqja ${p} nga ${pages}` : ""}: ${num(list.length)} fjalë, secila me përshkrimin në shqip.`,
           body,
           active: "browse",
           canonical: `/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`,
@@ -871,11 +871,11 @@ function featureTile(ic: string, title: string, text: string, href: string): str
 function homePage(): string {
   const body = `
 <section class="hero">
-  <p class="kicker">${bi("Falas · I hapur · Pa llogari", "Free · Open · No account needed")}</p>
+  <p class="kicker">${bi("Çdo fjalë · Çdo dialekt · Falas", "Every word · Every dialect · Free")}</p>
   <h1>${bi("Fjalori i hapur i", "The open dictionary of")} <span class="accent">${bi("gjuhës shqipe", "the Albanian language")}</span></h1>
   <p class="lead">${bi(
-    "Kërkoni kuptimin e fjalëve, zgjedhimin e foljeve dhe format gege e toske. Shkruani shqip ose anglisht; ë dhe ç nuk janë të detyrueshme.",
-    "Look up meanings, verb conjugations and Gheg and Tosk forms. Type in Albanian or English; ë and ç are optional.",
+    "Një vend i sigurt ku ruhet çdo fjalë shqipe: e gjuhës standarde, e gegërishtes dhe e toskërishtes, e arbëreshëve të Italisë dhe e arvanitasve të Greqisë, edhe fjalët e vjetra të librave që po harrohen. Secila me përshkrimin e vet në shqip.",
+    "A safe home for every Albanian word: the standard language, Gheg and Tosk, the Arbëresh of Italy and the Arvanitika of Greece, and the old words of books that are being forgotten. Each one with its own description in Albanian.",
   )}</p>
   ${searchBox({ size: "big", chips: true })}
 </section>
@@ -912,9 +912,9 @@ function homePage(): string {
 <section class="section">
   <header class="section-head"><h2>${bi("Çfarë gjeni këtu", "What you will find")}</h2></header>
   <div class="tile-grid">
-    ${featureTile(icon.book(24), bi("Kuptimet", "Meanings"), bi("Kuptimi në anglisht, shembuj dhe shqiptimi i fjalës.", "English meanings, examples and pronunciation."), url("/fjala/zem%C3%ABr/"))}
+    ${featureTile(icon.book(24), bi("Kuptimet", "Meanings"), bi("Përshkrimi i çdo fjale në shqip; edhe kuptimi në anglisht, shembuj dhe shqiptimi.", "A description of every word in Albanian; also the English meaning, examples and pronunciation."), url("/fjala/zem%C3%ABr/"))}
     ${featureTile(icon.layers(24), bi("Zgjedhimi dhe lakimi", "Conjugation and declension"), bi("Të gjitha kohët e foljeve dhe rasat e emrave.", "Every verb tense and every noun case."), url("/fjala/punoj/"))}
-    ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Format gege, toske, arbëreshe dhe arvanitase pranë fjalës standarde.", "Gheg, Tosk, Arbëresh and Arvanitika forms next to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
+    ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Fjalët gege, toske, arbëreshe e arvanitase dhe fjalët e vjetra, të ruajtura e të lidhura me fjalën standarde.", "Gheg, Tosk, Arbëresh and Arvanitika words and old words, kept and linked to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
     ${featureTile(icon.code(24), bi("API falas", "Free API"), bi("JSON statik për aplikacionet tuaja, pa çelës.", "Static JSON for your apps, no key needed."), url("/api/"))}
     ${featureTile(icon.bell(24), bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Instaloni fjalorin në telefon dhe merrni fjalën e ditës çdo mëngjes.", "Install the dictionary on your phone and get the word of the day every morning."), url("/aplikacioni/"))}
   </div>
@@ -940,19 +940,19 @@ function homePage(): string {
 
 <section class="section prose">
  <div data-ui="sq" lang="sq">
-  <h2>Fjalor i hapur shqip–anglisht</h2>
-  <p>FjaloriShqip është një <b>fjalor shqip</b> falas dhe me kod të hapur, me ${num(stats.words ?? words.length)} fjalë shqip: të gjitha me një përshkrim të shkurtër në shqip dhe ${num(stats.withEnglish)} me kuptimin në anglisht, si edhe format gege e toske, fjalët me të njëjtin kuptim dhe, për ${num(stats.withInflection)} fjalë, zgjedhimin ose lakimin e plotë. Mund të kërkoni shqip ose anglisht (p.sh. “mother” gjen <a href="${wordUrl("nënë")}">nënë</a>), dhe ë e ç nuk janë të detyrueshme.</p>
+  <h2>Thesari i fjalëve shqipe</h2>
+  <p>FjaloriShqip është një <b>fjalor shqip</b> falas dhe me kod të hapur, që synon të ruajë çdo fjalë të gjuhës shqipe, në çdo dialekt, që të mos humbasë asnjë. Sot ka ${num(stats.words ?? words.length)} fjalë, të gjitha me një përshkrim në shqip: fjalët e gjuhës standarde, ${num(stats.dialectForms?.gheg ?? 0)} forma gege, ${num(stats.dialectForms?.tosk ?? 0)} toske, ${num(stats.dialectForms?.arberesh ?? 0)} arbëreshe, ${num(stats.dialectForms?.arvanitika ?? 0)} arvanitase dhe fjalë të vjetra nga librat e shkruar ndër shekuj, që nga Buzuku. Ka edhe fjalët me të njëjtin kuptim, zgjedhimin ose lakimin e plotë të ${num(stats.withInflection)} fjalëve dhe, si ndihmë, kuptimin në anglisht të ${num(stats.withEnglish)} fjalëve. Ë dhe ç nuk janë të detyrueshme në kërkim.</p>
   <p>Të dhënat vijnë nga burime me licencë të hapur dhe libra në domen publik, me përshkrime të shkruara nga ne, dhe mund të ripërdoren lirisht sipas CC BY-SA 4.0, edhe nëpërmjet një <a href="${url("/api/")}">API-je JSON</a> falas për zhvilluesit. Nuk nevojitet llogari as çelës.</p>
  </div>
  <div data-ui="en" lang="en">
-  <h2>Free Albanian–English dictionary</h2>
-  <p>FjaloriShqip is a free, open-source <b>Albanian dictionary</b> with ${numEn(stats.words ?? words.length)} Albanian words: ${numEn(words.filter((w) => w.description).length)} with a short description in Albanian and ${numEn(stats.withEnglish)} with their English meaning, plus Gheg and Tosk dialect forms, words with the same meaning and, for ${numEn(stats.withInflection)} words, the full conjugation or declension. You can search in Albanian or in English (for example “mother” finds <a href="${wordUrl("nënë")}">nënë</a>), and typing ë and ç is optional.</p>
+  <h2>A treasury of Albanian words</h2>
+  <p>FjaloriShqip is a free, open-source <b>Albanian dictionary</b> that aims to keep every word of the Albanian language, in every dialect, so that none is lost. Today it has ${numEn(stats.words ?? words.length)} words, all with a description in Albanian: the words of the standard language, ${numEn(stats.dialectForms?.gheg ?? 0)} Gheg, ${numEn(stats.dialectForms?.tosk ?? 0)} Tosk, ${numEn(stats.dialectForms?.arberesh ?? 0)} Arbëresh and ${numEn(stats.dialectForms?.arvanitika ?? 0)} Arvanitika forms, and old words from books written over the centuries, back to Buzuku. It also gives words with the same meaning, the full conjugation or declension of ${numEn(stats.withInflection)} words and, as a help, the English meaning of ${numEn(stats.withEnglish)} words. You can also search in English (for example “mother” finds <a href="${wordUrl("nënë")}">nënë</a>).</p>
   <p>The data comes from openly licensed sources and public-domain books, with descriptions written by us, and is free to reuse under CC BY-SA 4.0, also through a free <a href="${url("/api/")}">JSON API</a> for developers. No account or API key is needed.</p>
  </div>
 </section>`;
   return layout({
-    title: "FjaloriShqip — Fjalori i hapur shqip | Free Albanian–English Dictionary",
-    description: "Fjalor i hapur i gjuhës shqipe: kuptimet në shqip dhe anglisht, format gege e toske, zgjedhimi i foljeve dhe API falas. Free Albanian–English dictionary.",
+    title: "FjaloriShqip — Fjalori i hapur i gjuhës shqipe: çdo fjalë, çdo dialekt",
+    description: "Fjalori i hapur i gjuhës shqipe, që ruan çdo fjalë shqipe në çdo dialekt: gjuha standarde, gegërishtja, toskërishtja, arbërishtja, arvanitishtja dhe fjalët e vjetra, secila me përshkrimin në shqip. The open dictionary of the Albanian language.",
     body,
     active: "home",
     canonical: "/",
@@ -977,7 +977,7 @@ function homePage(): string {
             name: SITE_NAME,
             url: absolute("/"),
             logo: absolute("/icon-512.png"),
-            description: "Free, open-source dictionary of the Albanian language (Albanian–English).",
+            description: "Free, open-source dictionary of the Albanian language that keeps every Albanian word in every dialect (standard, Gheg, Tosk, Arbëresh, Arvanitika and old words), each described in Albanian.",
             sameAs: [REPO_URL],
           },
         ]
@@ -1126,7 +1126,7 @@ ${pageHead(
             description: `Open data for ${numEn(stats.words)} Albanian words: Albanian descriptions, English meanings, Gheg and Tosk dialect forms, inflection tables and words with the same meaning. Built from openly licensed sources (Wiktionary, Wikidata and others) and public-domain books.`,
             url: absolute("/api/"),
             inLanguage: ["sq", "en"],
-            keywords: ["Albanian", "Albanian language", "dictionary", "Albanian–English", "Gheg", "Tosk", "lexicon"],
+            keywords: ["Albanian", "Albanian language", "dictionary", "Albanian dialects", "Gheg", "Tosk", "Arbëresh", "Arvanitika", "lexicon"],
             license: "https://creativecommons.org/licenses/by-sa/4.0/",
             isAccessibleForFree: true,
             creator: { "@type": "Organization", name: SITE_NAME, url: absolute("/") },
@@ -1145,12 +1145,12 @@ const biHtml = (sq: string, en: string) => `<span data-ui="sq">${sq}</span><span
 
 function aboutPage(): string {
   const body = `
-${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Albanian language, ready for the digital world."))}
+${pageHead(t("about"), bi("Çdo fjalë shqipe, e ruajtur për brezat që vijnë.", "Every Albanian word, kept for the generations to come."))}
 <section class="card prose author-card">
   <h2>${bi("Autori", "The author")}</h2>
   <p>${biHtml(
-    "FjaloriShqip është krijuar dhe zhvillohet nga <b>Endrit Rushiti</b>, si autor dhe zhvillues i projektit. Qëllimi është një fjalor i hapur, falas dhe i lehtë për t'u përdorur, që e bën gjuhën shqipe të gatshme për botën digjitale: me fjalët standarde, format gege e toske, fjalët arbëreshe e arvanitase dhe një API të hapur për zhvilluesit.",
-    "FjaloriShqip is created and developed by <b>Endrit Rushiti</b>, as the project's author and developer. The aim is an open, free and easy-to-use dictionary that makes the Albanian language ready for the digital world: with the standard words, Gheg and Tosk forms, Arbëresh and Arvanitika words, and an open API for developers.",
+    "FjaloriShqip është krijuar dhe zhvillohet nga <b>Endrit Rushiti</b>, si autor dhe zhvillues i projektit. Qëllimi është një vend i sigurt, i hapur dhe falas, ku ruhet çdo fjalë e gjuhës shqipe në çdo dialekt: fjalët standarde, ato gege e toske, fjalët e arbëreshëve e të arvanitasve dhe fjalët e vjetra që gjenden vetëm në libra të harruar. Çdo fjalë merr përshkrimin e vet në shqip dhe lidhet me fjalën standarde, që të mos humbasë asnjë. Kuptimi në anglisht dhe API e hapur janë ndihma shtesë për lexuesit e huaj dhe për zhvilluesit.",
+    "FjaloriShqip is created and developed by <b>Endrit Rushiti</b>, as the project's author and developer. The aim is a safe, open and free place that keeps every word of the Albanian language in every dialect: the standard words, Gheg and Tosk words, the words of the Arbëresh and the Arvanitika, and old words found only in forgotten books. Every word gets its own description in Albanian and is linked to the standard word, so that none is lost. The English meanings and the open API are extra help for foreign readers and for developers.",
   )}</p>
   <p>${biHtml(
     "Fjalori ndërtohet nga burime me licencë të hapur dhe libra në domen publik, të cilat i gjeni të gjitha te faqja <a href=\"/burimet/\">Burimet</a>.",
@@ -1176,7 +1176,7 @@ ${pageHead(t("about"), bi("Gjuha shqipe, gati për botën digjitale.", "The Alba
 </section>`;
   return layout({
     title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
-    description: "FjaloriShqip, fjalori i hapur i gjuhës shqipe, krijuar nga Endrit Rushiti. Kontaktoni autorin. The open Albanian dictionary by Endrit Rushiti.",
+    description: "FjaloriShqip, fjalori i hapur që ruan çdo fjalë shqipe në çdo dialekt, krijuar nga Endrit Rushiti. Kontaktoni autorin. The open Albanian dictionary by Endrit Rushiti.",
     body,
     active: "about",
     canonical: "/rreth/",
@@ -1531,9 +1531,9 @@ function apiWord(w: Word): object {
       [
         "# FjaloriShqip",
         "",
-        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a short description in Albanian, ${numEn(stats.withEnglish)} with their English meaning, Gheg and Tosk dialect forms, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built from openly licensed sources (Wiktionary, Wikidata and others) and public-domain books. All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
+        `> FjaloriShqip (${absolute("/")}) is a free, open-source dictionary of the Albanian language (fjalor i hapur i gjuhës shqipe) whose aim is to keep every Albanian word in every dialect: standard Albanian, Gheg, Tosk, Arbëresh (Italy), Arvanitika (Greece) and old words from books written over the centuries, back to Buzuku (1555). It has ${numEn(stats.words)} Albanian words: ${numEn(described)} with a description in Albanian, ${numEn(stats.withEnglish)} also with an English meaning, words with the same meaning, and conjugation or declension tables for ${numEn(stats.withInflection)} words. It is built from openly licensed sources (Wiktionary, Wikidata and others) and public-domain books. All data is CC BY-SA 4.0 and available through a free JSON API without a key.`,
         "",
-        "Good for: Albanian–English and English–Albanian word lookups, the meaning of an Albanian word in Albanian, Gheg and Tosk forms, verb conjugation, and open Albanian language data for software.",
+        "Good for: the meaning of an Albanian word explained in Albanian, dialect and old words (Gheg, Tosk, Arbëresh, Arvanitika) and their standard equivalents, verb conjugation and noun declension, English meanings of Albanian words, and open Albanian language data for software.",
         "",
         "## Pages",
         "",
@@ -1576,7 +1576,7 @@ function apiWord(w: Word): object {
         display: "standalone",
         background_color: "#fbf8f4",
         theme_color: "#c8102e",
-        description: "Fjalori i hapur i gjuhës shqipe: kuptimet, format gege e toske, fjala e ditës.",
+        description: "Fjalori i hapur i gjuhës shqipe: çdo fjalë shqipe në çdo dialekt, me përshkrimin në shqip, dhe fjala e ditës.",
         shortcuts: [
           { name: "Kërko", url: url("/kerko/") },
           { name: "Aplikacioni dhe njoftimet", url: url("/aplikacioni/") },

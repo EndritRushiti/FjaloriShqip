@@ -2,12 +2,12 @@
 
 **Fjalori i hapur i gjuhës shqipe — the open dictionary of the Albanian language.**
 
-A free, open-source Albanian dictionary with a free JSON API, built from **openly licensed sources and public-domain books**, with every description written by the project.
+A free, open-source Albanian dictionary whose aim is to **keep every Albanian word, in every dialect**, so that none is lost: the standard language, Gheg, Tosk, Arbëresh (Italy), Arvanitika (Greece) and old words found only in books written over the centuries, back to Buzuku (1555). Every word has its own **description in Albanian**, written by the project; English meanings are an extra help. Built from **openly licensed sources and public-domain books**, with a free JSON API.
 
-- **Search** in Albanian or English (works without ë/ç, finds inflected forms: *punova → punoj*)
-- **Meanings in English**, examples, pronunciation (IPA), etymology
+- **Every dialect**: Gheg, Tosk, Arbëresh and Arvanitika words and old words, each linked to its standard word
+- **Albanian descriptions** for every word; English meanings, examples, pronunciation (IPA), etymology as a help
+- **Search** in Albanian (works without ë/ç, finds inflected forms: *punova → punoj*) or in English
 - **Full verb conjugations and noun declensions**
-- **Gheg and Tosk forms** where the sources document them
 - **Word of the day** and **word of the hour**
 - **Static JSON API**: no key, no sign-up
 - **References page** (`/burimet/`) listing every source, its licence and retrieval date; every word page links to its sources
