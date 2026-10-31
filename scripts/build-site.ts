@@ -131,7 +131,7 @@ const REPO_URL = "https://github.com/EndritRushiti/FjaloriShqip";
  * The author's PayPal.me page for the "support" button on /rreth/ (a plain link: no PayPal script on the site,
  * and no email address is published). Empty: the button is not shown.
  */
-const SUPPORT_URL = "";
+const SUPPORT_URL = "https://paypal.me/endritrushiti";
 /** Cut a description to about the length search engines show, at a word boundary. */
 const metaText = (s: string, max = 158) => (s.length <= max ? s : `${s.slice(0, s.lastIndexOf(" ", max - 1))}…`);
 export const slug = (w: string) => w.replace(/ /g, "_");
