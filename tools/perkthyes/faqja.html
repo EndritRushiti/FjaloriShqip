@@ -60,7 +60,7 @@ const DATA = /*DATA*/;
 const map = new Map();
 for (const w of DATA.std) map.set(w, { to: w, how: "standard" });
 for (const [f, to, h] of DATA.links) map.set(f, { to, how: DATA.how[h] });
-const { convert, renderWord } = makeConverter(map, new Set(DATA.heads));
+const { convert, renderWord } = makeConverter(map, new Set(DATA.heads), new Map(DATA.forms));
 
 const HOW = {
   irregular: "trajtë e njohur (e kontrolluar me dorë)", gheg: "fjalë gege në fjalor", tosk: "fjalë toske në fjalor",

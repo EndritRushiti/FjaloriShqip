@@ -19,9 +19,15 @@ const W = new Map(D.map((e) => [e.word, e]));
 
 const DIALECT_TAG = /gheg|tosk|arvanitika|arbëresh|arbereshe|cham|dialect|archaic|obsolete/i;
 /** Standard = not a dialect-only word, and either not a variant or with a meaning of its own (mall "longing" is also a Gheg spelling of mal). */
-const isStandard = (e) =>
-  !!e && !e.dialectOnly && (!(e.variantOf && e.variantOf.length) ||
-    (e.entries || []).some((en) => (en.senses || []).some((d) => !/form of|spelling of/i.test(d.gloss || "") && !(d.tags || []).some((t) => DIALECT_TAG.test(t)))));
+const glossWords = (e) => new Set((e?.entries || []).flatMap((en) => (en.senses || []).flatMap((d) => (d.gloss || "").toLowerCase().match(/[a-z]{3,}/g) || [])));
+/** A meaning of the word's own: not marked as dialect, not "form of", and not the same meaning as the word it is a variant of (shpi "house" = shtëpi). */
+const ownMeaning = (e) => {
+  const target = new Set(e.variantOf.flatMap((v) => [...glossWords(W.get(v.word))]));
+  return (e.entries || []).some((en) => (en.senses || []).some((d) =>
+    !/form of|spelling of|abbreviation/i.test(d.gloss || "") && !(d.tags || []).some((t) => DIALECT_TAG.test(t)) &&
+    !((d.gloss || "").toLowerCase().match(/[a-z]{3,}/g) || []).some((x) => target.has(x))));
+};
+const isStandard = (e) => !!e && !e.dialectOnly && (!(e.variantOf && e.variantOf.length) || ownMeaning(e));
 /** Follows variant links to the standard word (at most a few steps). */
 function standardOf(word) {
   let e = W.get(word);
@@ -79,8 +85,18 @@ for (const l of fs.readFileSync(path.join(ROOT, "korrigjime", "forma.txt"), "utf
   if (f && m) put(f, f, "standard form");
 }
 
-const STANDARD = new Set(D.filter(isStandard).map((e) => e.word));
-export const { convert, convertWord, render, clean, RULES } = makeConverter(MAP, STANDARD);
+const isAbbreviation = (e) => (e.entries || []).every((en) => (en.senses || []).every((d) => /abbreviation|initialism|acronym/i.test(d.gloss || "")));
+const STANDARD = new Set(D.filter((e) => isStandard(e) && !isAbbreviation(e)).map((e) => e.word));
+/** Each standard word's own definite forms, so a dialect ending can be carried over (shpija → shtëpia). */
+const FORMS = new Map();
+const CASE_TAGS = { nom: ["definite", "nominative", "singular"], acc: ["accusative", "definite", "singular"], gen: ["definite", "genitive", "singular"], pl: ["definite", "nominative", "plural"] };
+for (const e of D) {
+  if (!STANDARD.has(e.word)) continue;
+  for (const en of e.entries || []) for (const f of en.forms || []) for (const [k, tags] of Object.entries(CASE_TAGS)) {
+    if (f.form && !/\s/.test(f.form) && tags.every((t) => f.tags?.includes(t)) && !FORMS.has(e.word + "|" + k)) FORMS.set(e.word + "|" + k, f.form);
+  }
+}
+export const { convert, convertWord, render, clean, RULES } = makeConverter(MAP, STANDARD, FORMS);
 
 if (process.argv[2] === "--test") {
   const rows = fs.readFileSync(path.join(ROOT, "thenie", "thenie.tsv"), "utf8").split(/\r?\n/).filter((l) => l && !l.startsWith("#")).map((l) => l.split("\t"));
@@ -129,7 +145,9 @@ if (process.argv[2] === "--test") {
   const examples = fs.readFileSync(path.join(ROOT, "thenie", "thenie.tsv"), "utf8").split(/\r?\n/)
     .filter((l) => l && !l.startsWith("#")).map((l) => l.split("\t")[1])
     .filter((t, i) => [0, 8, 14, 23, 36, 120, 140, 160].includes(i));
-  const data = JSON.stringify({ std, links, how, heads: [...STANDARD], examples }).replace(/</g, "\\u003c");
+  const targets = new Set(links.map((l) => l[1]));
+  const forms = [...FORMS].filter(([k]) => targets.has(k.split("|")[0]));
+  const data = JSON.stringify({ std, links, how, heads: [...STANDARD], forms, examples }).replace(/</g, "\\u003c");
   const core = fs.readFileSync(path.join(ROOT, "tools", "perkthyes", "core.mjs"), "utf8").replace(/^export /m, "");
   const html = fs.readFileSync(path.join(ROOT, "tools", "perkthyes", "faqja.html"), "utf8")
     .replace("/*DATA*/", () => data).replace("/*CORE*/", () => core);

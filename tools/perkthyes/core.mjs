@@ -2,11 +2,14 @@
  * The converter itself, with no file access, so the command line (perkthyes.mjs) and the test page run the same code.
  *   map:      surface form → { to, how }   (built by perkthyes.mjs from the dictionary)
  *   standard: Set of standard headwords    (used to recognise standard endings the dictionary does not list)
+ *   forms:    "word|case" → the standard word's own definite form (case: nom, acc, gen, pl)
  */
-export function makeConverter(map, standard) {
+export function makeConverter(map, standard, forms = new Map()) {
+  /** Which definite form a dialect ending asks for (shpija → nom, shpinë → acc, shpisë → gen, shpitë → pl). */
+  const CASE = { ja: "nom", ia: "nom", a: "nom", i: "nom", u: "nom", in: "acc", un: "acc", "në": "acc", n: "acc", it: "gen", "ës": "gen", "së": "gen", s: "gen", "ët": "pl", et: "pl", "të": "pl", t: "pl" };
   /** Standard nouns and verbs with an ending the dictionary does not list (pulja, majmuni, digjet): keep as they are. */
   const ENDINGS = [
-    ["ja", ["jë", "ë", "", "e"]], ["ën", ["ë"]], ["ës", ["ë"]], ["a", ["ë", ""]], ["i", [""]], ["u", [""]], ["in", [""]], ["it", [""]],
+    ["rja", ["re"]], ["ja", ["jë", "ë", ""]], ["ën", ["ë"]], ["ës", ["ë"]], ["a", ["ë", ""]], ["i", [""]], ["u", [""]], ["in", [""]], ["it", [""]],
     ["në", ["", "ë"]], ["et", ["", "ë"]], ["ët", ["", "ë"]], ["at", ["ë", ""]], ["ve", ["", "ë"]],
     ["ra", [""]], ["t", [""]], ["n", [""]], ["en", ["", "ë"]], ["in", ["", "ë"]], ["ësh", ["ë"]],
     ["et", ["", "ë"]], ["en", [""]], ["emi", [""]], ["eni", [""]], ["ni", [""]], ["jnë", [""]], ["in", [""]], ["ohet", ["oj"]],
@@ -52,7 +55,7 @@ export function makeConverter(map, standard) {
     const tryOne = (x) => map.get(x);
     let hit = tryOne(w);
     // a regular standard form wins over a dialect reading of the same spelling (brekët, maji are standard)
-    if (hit && !["standard", "standard form", "irregular"].includes(hit.how) && standardInflection(w)) return { from: raw, to: w, how: "standard form" };
+    if (hit && (hit.how === "dialect form" || hit.how === "alternative") && standardInflection(w)) return { from: raw, to: w, how: "standard form" };
     if (hit) return { from: raw, ...hit };
     // elided vowel: dit' → dita/ditë, mir' → mirë, t' → të
     if (w.endsWith("'")) {
@@ -81,16 +84,30 @@ export function makeConverter(map, standard) {
     if (standardInflection(w)) return { from: raw, to: w, how: "standard form", lemma: standardInflection(w) };
     // a dialect word with a case/person ending (shtrofaku, çumertit): give the standard word
     for (const [end, bases] of ENDINGS) {
-      if (!w.endsWith(end) || w.length - end.length < 3) continue;
+      if (!w.endsWith(end) || w.length - end.length < 2) continue;
       for (const b of bases) {
         hit = tryOne(w.slice(0, -end.length) + b);
-        if (hit && hit.how !== "standard" && hit.how !== "standard form") return { from: raw, to: hit.to, how: "dialect stem" };
+        if (!hit || hit.how === "standard" || hit.how === "standard form") continue;
+        // carry the ending over: shpija → shtëpia (the dictionary's own form), kallxon → kallëzon
+        const own = CASE[end] && forms.get(hit.to + "|" + CASE[end]);
+        if (own) return { from: raw, to: own, how: "dialect stem" };
+        if (b && hit.to.endsWith(b)) {
+          const c = hit.to.slice(0, -b.length) + end;
+          const m = map.get(c);
+          if ((m && (m.how === "standard" || m.how === "standard form")) || standardInflection(c)) return { from: raw, to: c, how: "dialect stem" };
+        }
+        return { from: raw, to: hit.to, how: "dialect stem" };
       }
     }
     for (const [name, rule] of RULES) for (const c of rule(w)) {
       hit = tryOne(c);
       if (hit) return { from: raw, to: hit.to, how: name };
       if (standardInflection(c)) return { from: raw, to: c, how: name };
+    }
+    // të written joined to the verb (tkallxon = t'kallxon)
+    if (/^t[^ëh]/.test(w) && w.length > 4) {
+      const r = convertWord(raw.slice(1));
+      if (r.to !== null && r.how !== "name") return { from: raw, to: "të " + r.to, how: r.how };
     }
     // a capitalised word the dictionary does not know, not at the start of a sentence, is a name (Vasilit)
     if (/^[A-ZÇË]/.test(raw) && !sentenceStart) return { from: raw, to: raw, how: "name" };
