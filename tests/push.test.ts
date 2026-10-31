@@ -102,6 +102,16 @@ describe("push notifications", () => {
     expect(safeTarget("https://evil.com")).toBe("/");
     expect(safeTarget("/\\evil.com")).toBe("/");
   });
+
+  it("counts people who searched from a POST beacon, without a redirect", async () => {
+    const b = memory();
+    const r = await handleOpen(new Request("https://fjalorishqip.org/hap?burim=kerkim", { method: "POST" }), b);
+    expect(r.status).toBe(204);
+    // a plain link to the same address is an app opening, not a search
+    expect((await handleOpen(new Request("https://fjalorishqip.org/hap?burim=kerkim"), b)).status).toBe(302);
+    const counts = JSON.parse([...b.files.entries()].find(([k]) => k.startsWith("hapje/"))![1].value);
+    expect(counts).toEqual({ kerkim: 1, app: 1 });
+  });
 });
 
 describe("daily word and calendar", () => {

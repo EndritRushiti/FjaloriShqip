@@ -226,8 +226,23 @@
     });
   }
 
+  /**
+   * Counts one person who searched today: only after a real keystroke (bots do not type), at most once a day
+   * per browser, and nothing about the person or the search is sent (src/worker/push.ts, /hap?burim=kerkim).
+   */
+  function countSearcher(e) {
+    if (!e.isTrusted || !navigator.sendBeacon) return;
+    var day = new Date().toISOString().slice(0, 10);
+    try {
+      if (localStorage.getItem("kerkoi") === day) return;
+      localStorage.setItem("kerkoi", day);
+    } catch (err) { return; } // no storage: not counted, rather than counted on every keystroke
+    navigator.sendBeacon(BASE + "/hap?burim=kerkim");
+  }
+
   document.querySelectorAll("form.search").forEach(function (form) {
     var input = form.querySelector("input");
+    input.addEventListener("input", function (e) { if (input.value.trim().length >= 2) countSearcher(e); });
     var list = form.querySelector(".suggestions");
     var active = -1;
     var current = [];

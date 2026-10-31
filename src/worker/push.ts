@@ -4,6 +4,8 @@
  *   GET  /njoftime          → {"key": "<VAPID public key>"} for pushManager.subscribe()
  *   POST /njoftime          → {"endpoint": "...", "action": "shto" | "hiq"} subscribes or unsubscribes a browser
  *   GET  /hap?burim=app&te=/fjala/x/  → counts one opening (home-screen icon or notification) and redirects
+ *   POST /hap?burim=kerkim            → counts one person who searched today (sent by public/app.js at most once a
+ *                                       day per browser, after they type in the search box; bots do not type)
  *   cron "* 6 * * *" / "* 17 * * *"   → morning word of the day, evening proverb (sendBatch)
  *
  * The pushes carry no payload, so nothing has to be encrypted: the service worker (public/sw.js) wakes up,
@@ -36,6 +38,8 @@ export const BATCH = 35;
 export const MAX_NEW_PER_DAY = 500;
 /** Per source and day: at most 2 × 200 counter writes a day, about 12,000 of the free 1,000,000 R2 uploads a month. */
 export const MAX_OPENS_PER_DAY = 200;
+/** People who searched, per day: at most 1,000 counter writes a day, about 30,000 of the free uploads a month. */
+export const MAX_SEARCHERS_PER_DAY = 1000;
 /** Sent with the VAPID token: who runs the push sender (a URL, so no email address is published). */
 const CONTACT = "https://fjalorishqip.org/rreth/";
 
@@ -132,16 +136,21 @@ export function safeTarget(te: string | null): string {
 /** GET /hap?burim=app|njoftim&te=/path: counts one opening of the app, then redirects to the page. */
 export async function handleOpen(request: Request, bucket: PushBucket | undefined, now = new Date()): Promise<Response> {
   const url = new URL(request.url);
-  const source = url.searchParams.get("burim") === "njoftim" ? "njoftim" : "app";
+  const burim = url.searchParams.get("burim");
+  // a person who searched: counted from a POST beacon, answered without a redirect
+  const searcher = burim === "kerkim" && request.method === "POST";
+  const source = searcher ? "kerkim" : burim === "njoftim" ? "njoftim" : "app";
   const target = new URL(safeTarget(url.searchParams.get("te")), url.origin);
   // the visitor's page view is still counted by the analytics on the page; the tag tells where it came from
   target.searchParams.set("nga", source);
-  const redirect = new Response(null, { status: 302, headers: { Location: target.toString(), "Cache-Control": "no-store" } });
+  const redirect = searcher
+    ? new Response(null, { status: 204, headers: { "Cache-Control": "no-store" } })
+    : new Response(null, { status: 302, headers: { Location: target.toString(), "Cache-Control": "no-store" } });
   if (!bucket) return redirect;
   try {
     const file = `hapje/${today(now)}.json`;
     const counts = JSON.parse((await (await bucket.get(file))?.text()) ?? "{}") as Record<string, number>;
-    if ((counts[source] ?? 0) < MAX_OPENS_PER_DAY) {
+    if ((counts[source] ?? 0) < (searcher ? MAX_SEARCHERS_PER_DAY : MAX_OPENS_PER_DAY)) {
       counts[source] = (counts[source] ?? 0) + 1;
       await bucket.put(file, JSON.stringify(counts));
     }
@@ -204,13 +213,14 @@ export async function sendBatch(bucket: PushBucket | undefined, now = new Date()
 /** For the Monday email: app openings in the last 7 days and the number of subscribers. */
 export async function weeklyStats(bucket: PushBucket | undefined, now = new Date()): Promise<string> {
   if (!bucket) return "";
-  const opens = { app: 0, njoftim: 0 };
+  const opens = { app: 0, njoftim: 0, kerkim: 0 };
   const files = (await bucket.list({ prefix: "hapje/" })).objects.map((o) => o.key);
   const weekAgo = `hapje/${today(new Date(now.getTime() - 7 * 86400000))}`;
   for (const f of files.filter((f) => f >= weekAgo)) {
     const c = JSON.parse((await (await bucket.get(f))?.text()) ?? "{}") as Record<string, number>;
     opens.app += c.app ?? 0;
     opens.njoftim += c.njoftim ?? 0;
+    opens.kerkim += c.kerkim ?? 0;
   }
   let subscribers = 0;
   let cursor: string | undefined;
@@ -224,5 +234,5 @@ export async function weeklyStats(bucket: PushBucket | undefined, now = new Date
   const old = files.filter((f) => f < `hapje/${today(new Date(now.getTime() - 60 * 86400000))}`);
   const oldNew = (await bucket.list({ prefix: "njoftime/numri/" })).objects.map((o) => o.key).filter((k) => k < `njoftime/numri/${today(now)}`);
   if (old.length || oldNew.length) await bucket.delete([...old, ...oldNew]);
-  return `Aplikacioni këtë javë: ${opens.app} hapje nga ikona, ${opens.njoftim} nga njoftimet; ${subscribers} pajisje të abonuara në njoftimet ditore.`;
+  return `Njerëz që kërkuan një fjalë këtë javë: ${opens.kerkim} (mesatarisht ${Math.round(opens.kerkim / 7)} në ditë; secili numërohet një herë në ditë).\nAplikacioni këtë javë: ${opens.app} hapje nga ikona, ${opens.njoftim} nga njoftimet; ${subscribers} pajisje të abonuara në njoftimet ditore.`;
 }
