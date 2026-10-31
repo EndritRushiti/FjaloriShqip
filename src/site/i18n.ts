@@ -10,7 +10,7 @@ export const UI = {
   api: { sq: "API", en: "API" },
   sources: { sq: "Burimet", en: "Sources" },
   about: { sq: "Rreth nesh", en: "About" },
-  searchPlaceholder: { sq: "Kërko një fjalë shqip ose anglisht…", en: "Search an Albanian or English word…" },
+  searchPlaceholder: { sq: "Kërko një fjalë…", en: "Search a word…" },
   wordOfDay: { sq: "Fjala e ditës", en: "Word of the day" },
   wordOfHour: { sq: "Fjala e orës", en: "Word of the hour" },
   randomWord: { sq: "Fjalë e rastësishme", en: "Random word" },
