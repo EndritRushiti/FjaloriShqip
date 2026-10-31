@@ -51,6 +51,8 @@ const SAME_AS: Record<string, string> = {
 // the same (nënë, mëmë, ëmë: "mother"). A meaning shared by very many words is too general to use.
 const primaryKeys = new Map<string, string[]>();
 const secondaryKeys = new Map<string, string[]>();
+/** Every English meaning of a word, to check that a listed synonym really shares one. */
+const allKeys = new Map<string, Set<string>>();
 const byPrimary = new Map<string, string[]>();
 const bySecondary = new Map<string, string[]>();
 const listedSynonyms = new Map<string, Set<string>>();
@@ -68,6 +70,7 @@ for (const w of words) {
   const other = englishKeys(glosses.slice(1, 3)).filter((k) => !first.includes(k));
   primaryKeys.set(w.word, first);
   secondaryKeys.set(w.word, other);
+  allKeys.set(w.word, new Set(englishKeys(glosses)));
   for (const k of first) push(byPrimary, k, w.word);
   for (const k of other) push(bySecondary, k, w.word);
   for (const e of w.entries) for (const s of e.synonyms ?? []) if (byWord.has(s)) (link2(w.word, s), reverse(s, w.word));
@@ -92,7 +95,13 @@ function sameMeaning(w: Word): SameMeaning[] {
       if (list.length <= limit) [...list].sort(common).slice(0, take).forEach((x) => add(x, how));
     }
   };
-  for (const s of listedSynonyms.get(w.word) ?? []) add(s, "listed");
+  // a listed synonym that shares no English meaning with the word holds for one minor sense only
+  // (yll "star" lists kampion for a star player): shown under its other meanings, never as the same meaning
+  const myKeys = allKeys.get(w.word);
+  for (const s of listedSynonyms.get(w.word) ?? []) {
+    const theirs = allKeys.get(s);
+    add(s, !myKeys?.size || !theirs?.size || [...theirs].some((k) => myKeys.has(k)) ? "listed" : "other");
+  }
   const mine = new Set(primaryKeys.get(w.word) ?? []);
   for (const s of reverseSynonyms.get(w.word) ?? [])
     if ([...(primaryKeys.get(s) ?? []), ...(secondaryKeys.get(s) ?? [])].some((k) => mine.has(k))) add(s, "listed");

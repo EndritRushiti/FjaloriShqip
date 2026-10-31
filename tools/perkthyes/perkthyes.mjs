@@ -80,9 +80,11 @@ for (const e of D) {
   for (const d of e.dialects || []) put(d.form, e.word, d.dialect);
 }
 
+const STRIPPED = new Set([...MAP.keys()].filter((k) => /[ëç]/.test(k)).map((k) => k.replace(/ë/g, "e").replace(/ç/g, "c")));
 for (const l of fs.readFileSync(path.join(ROOT, "korrigjime", "forma.txt"), "utf8").split(/\r?\n/)) {
   const [f, m] = l.replace(/#.*/, "").split("|").map((x) => x && x.trim());
-  if (f && m) put(f, f, "standard form");
+  // spellings without ë/ç (shtepi, eshte) are there only so the site search finds them: not standard words
+  if (f && m && !(!/[ëç]/.test(f) && STRIPPED.has(f))) put(f, f, "standard form");
 }
 
 const isAbbreviation = (e) => (e.entries || []).every((en) => (en.senses || []).every((d) => /abbreviation|initialism|acronym/i.test(d.gloss || "")));

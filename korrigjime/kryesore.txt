@@ -6,3 +6,4 @@
 # Një fjalë për rresht; pas # shkruani arsyen. / One word per line; the reason after #.
 
 shqiponjë   # "eagle"; shqipe përdoret kryesisht për gjuhën
+mbush

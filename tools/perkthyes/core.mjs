@@ -48,6 +48,27 @@ export function makeConverter(map, standard, forms = new Map()) {
 
   const clean = (t) => t.toLowerCase().replace(/^[«"“(]+|[»"”).,;:!?]+$/g, "");
 
+  /** Spellings with ë for e and ç for c, fewest changes first; the first one the dictionary knows. */
+  function withoutDiacritics(w) {
+    const spots = [...w].map((ch, i) => (ch === "e" || ch === "c" ? i : -1)).filter((i) => i >= 0);
+    if (!spots.length || spots.length > 8) return null;
+    const tries = [];
+    for (let mask = 1; mask < 1 << spots.length; mask++) {
+      const chars = [...w];
+      let n = 0;
+      spots.forEach((i, k) => { if (mask & (1 << k)) { chars[i] = chars[i] === "e" ? "ë" : "ç"; n++; } });
+      tries.push([n, chars.join("")]);
+    }
+    tries.sort((a, b) => a[0] - b[0]);
+    let found = null;
+    for (const [, c] of tries) {
+      const m = map.get(c);
+      if (m && (m.how === "standard" || m.how === "standard form" || m.how === "irregular")) return m;
+      if (!m && !found && standardInflection(c)) found = { to: c, how: "standard form" };
+    }
+    return found;
+  }
+
   /** Converts one word. Returns { from, to, how } (to = null when unknown). */
   function convertWord(raw, sentenceStart = false) {
     const w = clean(raw);
@@ -82,6 +103,9 @@ export function makeConverter(map, standard, forms = new Map()) {
       if (standardInflection(c)) return { from: raw, to: c, how: "old -ë ending" };
     }
     if (standardInflection(w)) return { from: raw, to: w, how: "standard form", lemma: standardInflection(w) };
+    // typed without ë or ç (uje = ujë, shtepi = shtëpi, cfare = çfarë): the fewest changes that give a standard word
+    const typed = withoutDiacritics(w);
+    if (typed) return { from: raw, to: typed.to, how: "typed without ë/ç" };
     // a dialect word with a case/person ending (shtrofaku, çumertit): give the standard word
     for (const [end, bases] of ENDINGS) {
       if (!w.endsWith(end) || w.length - end.length < 2) continue;
