@@ -6,8 +6,11 @@ const seenFile = process.argv[1].replace("batch2.cjs", "shown.txt");
 const shown = new Set(fs.existsSync(seenFile) ? fs.readFileSync(seenFile, "utf8").split(/\r?\n/) : []);
 const done = new Set(fs.readFileSync("shtesa/uniparser.tsv", "utf8").split(/\r?\n/).map((l) => l.split("\t")[0]));
 const DICT = new Set(require(process.cwd() + "/data/fjalori.json").map((e) => e.word));
+const fold = (s) => s.replace(/ë/g, "e").replace(/ç/g, "c").replace(/e$/, "");
+const FOLDED = new Set([...DICT].map(fold));
 const rows = fs.readFileSync(file, "utf8").split(/\r?\n/).filter(Boolean).map((l) => l.split("\t")).filter(([w, p, g, en]) => {
   if (!POS[p] || done.has(w) || shown.has(w) || w.length < 5 || w.includes("-")) return false;
+  if (FOLDED.has(fold(w))) return false; // the build folds ë/e and ç/c: pipër would hide piper
   // near-identical spellings make the build hide the existing word (emblem / emblemë, klarinet / klarinetë)
   if ([w + "ë", w + "e", w + "i", w + "je", w.replace(/ë$/, ""), w.replace(/e$/, ""), w.replace(/e$/, "ë"), w.replace(/ë$/, "e"), w.replace(/ë$/, "i")].some((x) => x !== w && DICT.has(x))) return false;
   if (/\(female\)|woman|female|ordinal|hundred|thousand|native of|\bmoney\b|Instagram/i.test(en)) return false;
