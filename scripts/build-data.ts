@@ -474,6 +474,7 @@ const MIN_SHOWN_USE = 5;
 function addLabels(): string {
   // korrigjime/huazime.txt: borrowed words the sources did not mark, "word | language" (empty = international)
   const EDITOR_LOANS = new Map(readWordList("huazime.txt").map((l) => { const [w, from] = l.split("|").map((x) => x.trim()); return [w, from ? from.charAt(0).toUpperCase() + from.slice(1) : ""] as const; }));
+  const REGIONAL = new Set(readWordList("krahinore.txt"));
   let loans = 0;
   let labelled = 0;
   let fixed = 0;
@@ -490,7 +491,8 @@ function addLabels(): string {
       loans++;
     }
     const senses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto");
-    const common = WORD_LEVEL_TAGS.filter((t) => senses.length > 0 && senses.every((s) => s.tags?.includes(t)));
+    const common: string[] = WORD_LEVEL_TAGS.filter((t) => senses.length > 0 && senses.every((s) => s.tags?.includes(t)));
+    if (REGIONAL.has(w.word)) common.push("regional");
     if (common.length) {
       w.labels = [...new Set([...(w.labels ?? []), ...common])];
       labelled++;
