@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835";
 
 export interface SourceInfo {
   id: SourceId;
@@ -53,11 +53,11 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY-SA 4.0",
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     usedFor: {
-      sq: "Vetëm nga faqet e shkruara nga komuniteti (formati ==Shqip== / ===Emër===): fjala, lloji i fjalës dhe gjinia — fakte gjuhësore.",
+      sq: "Vetëm nga faqet e shkruara nga komuniteti (formati ==Shqip== / ===Emër===). Merren vetëm fjala, lloji i fjalës dhe gjinia, që janë fakte gjuhësore.",
       en: "Only from community-written pages (==Shqip== / ===Emër=== layout): the word, part of speech and gender — linguistic facts.",
     },
     notUsed: {
-      sq: "Rreth 33.000 faqe janë në formatin e Fjalorit të Akademisë (FGJSSH: fjala me shkronja të mëdha dhe shkurtimet e tij) dhe duken të kopjuara prej tij. Ato përjashtohen plotësisht, edhe vetë lista e fjalëve, sepse ai fjalor mbrohet nga e drejta e autorit dhe e drejta e bazës së të dhënave. Përkufizimet e faqeve të tjera gjithashtu nuk merren.",
+      sq: "Rreth 33.000 faqe janë në formatin e Fjalorit të Akademisë (FGJSSH, me fjalën me shkronja të mëdha dhe shkurtimet e tij) dhe duken të kopjuara prej tij. Ato përjashtohen plotësisht, edhe vetë lista e fjalëve, sepse ai fjalor mbrohet nga e drejta e autorit dhe e drejta e bazës së të dhënave. Përkufizimet e faqeve të tjera gjithashtu nuk merren.",
       en: "About 33,000 pages follow the layout of the Academy dictionary (FGJSSH: uppercase headword and its abbreviations) and appear to be copied from it. They are excluded entirely, including the word list itself, because that dictionary is protected by copyright and database right. Definitions from the remaining pages are not used either.",
     },
   },
@@ -70,7 +70,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "GPL-2.0-or-later",
     licenceUrl: "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
     usedFor: {
-      sq: "Vetëm lista e fjalëve: fjalë bazë që nuk ishin në burimet e tjera, të gjetura automatikisht ndër format e listës drejtshkrimore, me llojin e fjalës kur mund të përcaktohet nga mbaresa. Këto fjalë nuk kanë ende kuptim dhe shënohen si të paverifikuara. Ato janë me licencën GPL-2.0 ose më të re (jo CC BY-SA) dhe çdo fjalë e tillë e tregon këtë.",
+      sq: "Vetëm lista e fjalëve, fjalë bazë që nuk ishin në burimet e tjera, të gjetura automatikisht ndër format e listës drejtshkrimore, me llojin e fjalës kur mund të përcaktohet nga mbaresa. Këto fjalë nuk kanë ende kuptim dhe shënohen si të paverifikuara. Ato janë me licencën GPL-2.0 ose më të re (jo CC BY-SA) dhe çdo fjalë e tillë e tregon këtë.",
       en: "The word list only: base words that were missing from the other sources, found automatically among the forms of the spell-checking list, with the word class when the ending shows it. These words have no meaning yet and are marked as unverified. They are licensed GPL-2.0-or-later (not CC BY-SA), and every such word says so.",
     },
     notUsed: {
@@ -87,7 +87,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY-SA 4.0",
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     usedFor: {
-      sq: "Vetëm numërimi i fjalëve: sa herë shfaqet çdo fjalë (me format e saj) në artikuj. Përdoret për të renditur fjalët nga më të përdorurat dhe për të konfirmuar se një fjalë e re përdoret realisht. Nuk kopjohet asnjë tekst.",
+      sq: "Vetëm numërimi i fjalëve, sa herë shfaqet çdo fjalë (me format e saj) në artikuj. Përdoret për të renditur fjalët nga më të përdorurat dhe për të konfirmuar se një fjalë e re përdoret realisht. Nuk kopjohet asnjë tekst.",
       en: "Word counts only: how often each word (with its forms) appears in the articles. Used to rank words from most to least used and to confirm that a new word is really in use. No text is copied.",
     },
   },
@@ -99,7 +99,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY-SA 4.0",
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     usedFor: {
-      sq: "Fjalë shqipe që mungonin në burimet e tjera: hyrjet shqipe të këtyre botimeve dhe përkthimet në shqip. Një fjalë shtohet vetëm kur përdoret në Wikipedia ose MaCoCu, ose kur e dëshmojnë të paktën dy botime.",
+      sq: "Fjalë shqipe që mungonin në burimet e tjera, hyrjet shqipe të këtyre botimeve dhe përkthimet në shqip. Një fjalë shtohet vetëm kur përdoret në Wikipedia ose MaCoCu, ose kur e dëshmojnë të paktën dy botime.",
       en: "Albanian words missing from the other sources: the Albanian entries of these editions and their translations into Albanian. A word is added only when it is used in Wikipedia or MaCoCu, or attested by at least two editions.",
     },
     notUsed: {
@@ -131,7 +131,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC0 1.0",
     licenceUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     usedFor: {
-      sq: "Vetëm numërimi i fjalëve në paragrafët me cilësi të mirë: për të konfirmuar se një fjalë e re përdoret dhe për të treguar sa e zakonshme është. Nuk kopjohet asnjë tekst.",
+      sq: "Vetëm numërimi i fjalëve në paragrafët me cilësi të mirë, për të konfirmuar se një fjalë e re përdoret dhe për të treguar sa e zakonshme është. Nuk kopjohet asnjë tekst.",
       en: "Word counts only, from paragraphs marked good quality: to confirm that a new word is in use and to show how common it is. No text is copied.",
     },
   },
@@ -143,7 +143,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY-SA 4.0",
     licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     usedFor: {
-      sq: "Për fjalët pa kuptim: një kuptim i përafërt i nxjerrë nga fjala bazë (rindërtim ← rindërtoj \"to rebuild\"), nga pjesët e fjalës së përbërë (kryeredaktor = krye + redaktor) ose nga fjala ndërkombëtare në anglisht (humanitet → humanity). Shënohet gjithmonë si \"i përafërt\".",
+      sq: "Për fjalët pa kuptim, një kuptim i përafërt i nxjerrë nga fjala bazë (rindërtim ← rindërtoj \"to rebuild\"), nga pjesët e fjalës së përbërë (kryeredaktor = krye + redaktor) ose nga fjala ndërkombëtare në anglisht (humanitet → humanity). Shënohet gjithmonë si \"i përafërt\".",
       en: "For words without a meaning: an approximate meaning worked out from the base word (rindërtim ← rindërtoj \"to rebuild\"), from the parts of a compound (kryeredaktor = krye + redaktor) or from the English international word (humanitet → humanity). Always marked \"approximate\".",
     },
   },
@@ -180,7 +180,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Domain publik / Public domain",
     licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
     usedFor: {
-      sq: "Format arbëreshe (Itali: Kalabri, Siçili, nga Rada, Camarda, Santori, Schirò etj.) dhe arvanitase (Greqi: Hidra, Poros, Salaminë etj., kryesisht nga Reinhold) që Meyer i shënon me burimin e tyre. Fjalët i kthejmë nga shkrimi fonetik i Meyer-it në drejtshkrimin e sotëm (ε → ë, š → sh, l → ll, l' → l…) dhe kuptimet i përkthejmë nga gjermanishtja në anglisht. Faqja e librit për çdo formë ruhet te skedari dialekte/meyer-1891.tsv. Vepra është në domen publik (autori vdiq më 1900).",
+      sq: "Format arbëreshe (në Itali, Kalabri, Siçili, nga Rada, Camarda, Santori, Schirò etj.) dhe arvanitase (në Greqi, Hidra, Poros, Salaminë etj., kryesisht nga Reinhold) që Meyer i shënon me burimin e tyre. Fjalët i kthejmë nga shkrimi fonetik i Meyer-it në drejtshkrimin e sotëm (ε → ë, š → sh, l → ll, l' → l…) dhe kuptimet i përkthejmë nga gjermanishtja në anglisht. Faqja e librit për çdo formë ruhet te skedari dialekte/meyer-1891.tsv. Vepra është në domen publik (autori vdiq më 1900).",
       en: "Arbëresh (Italy: Calabria, Sicily; from Rada, Camarda, Santori, Schirò etc.) and Arvanitika (Greece: Hydra, Poros, Salamis etc., mostly from Reinhold) forms that Meyer marks with their source. We convert the words from Meyer's phonetic spelling into today's spelling (ε → ë, š → sh, l → ll, l' → l…) and translate the meanings from German into English. The page of the book for each form is kept in the file dialekte/meyer-1891.tsv. The work is in the public domain (the author died in 1900).",
     },
     notUsed: {
@@ -298,7 +298,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC0 1.0",
     licenceUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
     usedFor: {
-      sq: "Vetëm numërimi i fjalëve: për të konfirmuar se një fjalë ose një formë dialektore përdoret. Nuk kopjohet asnjë tekst.",
+      sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë ose një formë dialektore përdoret. Nuk kopjohet asnjë tekst.",
       en: "Word counts only: to confirm that a word or a dialect form is in use. No text is copied.",
     },
   },
@@ -361,6 +361,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tabelat e lakimit nuk ribotohen.",
       en: "The inflection tables are not republished.",
+    },
+  },
+  "xylander-1835": {
+    id: "xylander-1835",
+    name: "Josef von Xylander, Die Sprache der Albanesen oder Schkipetaren (Frankfurt 1835)",
+    publisher: "Josef von Xylander (1794–1854), Frankfurt am Main. Skanuar nga Google, në Internet Archive",
+    url: "https://archive.org/details/diesprachederal00xylagoog",
+    downloadUrl: "https://archive.org/details/diesprachederal00xylagoog",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma toske nga fjalorthi shqip-gjermanisht i librit, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkronjat greke të autorit në drejtshkrimin e sotëm.",
+      en: "Tosk forms from the book's Albanian–German vocabulary, each linked to its standard word. We convert the words from the author's Greek letters into today's spelling.",
+    },
+    notUsed: {
+      sq: "Merren vetëm fjalët dhe kuptimi i tyre. Fjalët turke e greke të fjalorthit lihen jashtë.",
+      en: "Only the words and their meaning are taken. The Turkish and Greek loans in the vocabulary are left out.",
     },
   },
   folesit: {

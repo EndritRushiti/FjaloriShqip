@@ -129,7 +129,7 @@ const SITE_NAME = "FjaloriShqip";
 /** Dialects in display order, with their page address and where they are spoken. */
 const DIALECT_ORDER: Dialect[] = DIALECTS;
 const DIALECT_INFO: Record<Dialect, { slug: string; sq: string; en: string; whereSq: string; whereEn: string }> = {
-  gheg: { slug: "gegerisht", sq: "Gegërisht", en: "Gheg", whereSq: "Veriu: Shqipëria e Veriut, Kosova, Maqedonia e Veriut, Mali i Zi", whereEn: "The north: northern Albania, Kosovo, North Macedonia, Montenegro" },
+  gheg: { slug: "gegerisht", sq: "Gegërisht", en: "Gheg", whereSq: "Shqipëria e Veriut, Kosova, Maqedonia e Veriut, Mali i Zi", whereEn: "The north: northern Albania, Kosovo, North Macedonia, Montenegro" },
   tosk: { slug: "toskerisht", sq: "Toskërisht", en: "Tosk", whereSq: "Jugu i Shqipërisë", whereEn: "Southern Albania" },
   arberesh: { slug: "arberisht", sq: "Arbërisht", en: "Arbëresh", whereSq: "Arbëreshët e Italisë", whereEn: "The Arbëresh of Italy" },
   arvanitika: { slug: "arvanitisht", sq: "Arvanitisht", en: "Arvanitika", whereSq: "Arvanitët e Greqisë", whereEn: "The Arvanites of Greece" },
@@ -757,7 +757,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -890,7 +890,7 @@ function homePage(): string {
   <p class="kicker">${bi("Çdo fjalë · Çdo dialekt · Falas", "Every word · Every dialect · Free")}</p>
   <h1>${bi("Fjalori i hapur i", "The open dictionary of")} <span class="accent">${bi("gjuhës shqipe", "the Albanian language")}</span></h1>
   <p class="lead">${biHtml(
-    "<strong>Çdo fjalë e ruajtur është një copë historie e shpëtuar.</strong> Këtu ruhet gjuha shqipe në të gjitha trajtat e saj: standarde, gege, toske, arbëreshe e arvanitase, bashkë me fjalët e vjetra që po harrohen.",
+    "<strong>Çdo fjalë e ruajtur është një copë historie e shpëtuar.</strong> Këtu ruhen fjalët standarde, gege, toske, arbëreshe e arvanitase, bashkë me fjalët e vjetra që po harrohen.",
     "<strong>Every word saved is a piece of history rescued.</strong> Here the Albanian language is kept in all its forms: standard, Gheg, Tosk, Arbëresh and Arvanitika, together with the old words that are being forgotten.",
   )}</p>
   ${searchBox({ size: "big", chips: true })}
@@ -1018,7 +1018,7 @@ function sourcesPage(): string {
     { title: "Albanet — WordNet shqip", author: "Ervin Ruci, Universiteti i Vlorës (Open Multilingual Wordnet)", link: "https://github.com/omwn/omw-data/tree/main/wns/als", licence: "CC BY 3.0", licenceUrl: "https://creativecommons.org/licenses/by/3.0/",
       sq: "Grupe fjalësh me të njëjtin kuptim dhe fjalë të reja.", en: "Groups of words with the same meaning and new words." },
     { title: "Fjalori drejtshkrimor shqip për Hunspell (sq_AL)", author: "Luan Kelmendi", link: "https://github.com/LibreOffice/dictionaries/tree/master/sq_AL", licence: "GPL-2.0 ose më e re", licenceUrl: "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
-      sq: "Lista e fjalëve: fjalë bazë që mungonin në burimet e tjera.", en: "The word list: base words missing from the other sources." },
+      sq: "Lista e fjalëve bazë që mungonin në burimet e tjera.", en: "The word list: base words missing from the other sources." },
     { title: "Wikipedia shqip", author: "Wikimedia Foundation dhe kontribuesit e Wikipedias", link: "https://sq.wikipedia.org/", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
       sq: "Vetëm numërimi i fjalëve, për të ditur sa përdoret secila fjalë. Nuk kopjohet asnjë tekst.", en: "Word counts only, to know how much each word is used. No text is copied." },
     { title: "MaCoCu — korpusi shqip i uebit 1.0", author: "Projekti MaCoCu, depoja CLARIN.SI", link: "http://hdl.handle.net/11356/1804", licence: "CC0 1.0", licenceUrl: CC0,
@@ -1029,6 +1029,8 @@ function sourcesPage(): string {
       sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
     { title: "Uniparser: leksiku i gjuhës shqipe", author: "Maria Morozova, Alexander Rusakov dhe bashkautorë", link: "https://github.com/uniparser", licence: "MIT", licenceUrl: "https://opensource.org/license/mit",
       sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht, përshkrimet shqip janë tonat.", en: "Rare and rich words that were missing, with their word class and English meaning; the Albanian descriptions are our own." },
+    { title: "Xylander, Die Sprache der Albanesen (1835)", author: "Josef von Xylander", link: "https://archive.org/details/diesprachederal00xylagoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Forma toske nga fjalorthi i librit, secila e lidhur me fjalën standarde.", en: "Tosk forms from the book's vocabulary, each linked to its standard word." },
     { title: "Folësit e dialekteve", author: "Folës vendas; të kontrolluara nga redaktori i FjaloriShqip", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
       sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë (p.sh. çik, cauc, rrabe në Tetovë, Gostivar e Kërçovë), me vendin ku thuhen. Emrat e folësve nuk botohen, përshkrimet janë tonat.", en: "Words people say at home and in the village but rarely write (e.g. çik, cauc, rrabe in Tetovë, Gostivar and Kërçovë), with the place where they are said. The speakers' names are not published; the descriptions are our own." },
     { title: "Albanesische Studien, vëll. 3: shtojca e fjalorit shqip-gjermanisht (1853–1854)", author: "Johann Georg von Hahn (1811–1869)", link: "https://archive.org/details/10589474bsb", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -1046,7 +1048,7 @@ function sourcesPage(): string {
     { title: "Manuel de la langue chkipe ou albanaise (1879)", author: "Auguste Dozon (1822–1890)", link: "https://archive.org/details/manueldelalangue00dozouoft", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma toske nga fjalorthi shqip-frëngjisht, të kthyera në drejtshkrimin e sotëm, kuptimet të përkthyera nga frëngjishtja, përshkrimet janë tonat.", en: "Tosk forms from the Albanian–French vocabulary, converted to today's spelling; meanings translated from French, the descriptions are our own." },
     { title: "An Historical Albanian-English Dictionary (1948)", author: "Stuart E. Mann (1905–1986); Longmans, Green & Co. për British Council, Londër", link: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf", licence: "Vetëm fjalët dhe të dhënat për to", licenceUrl: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf",
-      sq: "Vetëm fjalët dhe faktet për to: fjalë të vjetra, krahinore e dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen, përshkrimet shqip janë tonat.", en: "Only the words and facts about them: old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The book's definitions, examples and etymologies are not copied; the Albanian descriptions are our own." },
+      sq: "Vetëm fjalët dhe faktet për to, pra fjalë të vjetra, krahinore e dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen, përshkrimet shqip janë tonat.", en: "Only the words and facts about them: old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The book's definitions, examples and etymologies are not copied; the Albanian descriptions are our own." },
     { title: "Tatoeba", author: "Shoqata Tatoeba dhe kontribuesit e saj (autori i secilës fjali në shembuj/tatoeba.tsv)", link: "https://tatoeba.org/", licence: "CC BY 2.0 FR", licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
       sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një.", en: "Albanian example sentences with their English translation, selected and reviewed one by one." },
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
@@ -1289,7 +1291,7 @@ ${pageHead(bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Fjalori
     <h3>${bi("Kompjuter (Chrome, Edge)", "Computer (Chrome, Edge)")}</h3>
     <p>${bi("Klikoni ikonën e instalimit në fund të shiritit të adresës.", "Click the install icon at the end of the address bar.")}</p>
   </div>
-  <p class="muted small">${bi("Fjalori kërkon internet: faqet merren gjithmonë të freskëta nga rrjeti.", "The dictionary needs the internet: pages always come fresh from the network.")}</p>
+  <p class="muted small">${bi("Fjalori kërkon internet. Faqet merren gjithmonë të freskëta nga rrjeti.", "The dictionary needs the internet: pages always come fresh from the network.")}</p>
 </section>
 
 <section class="card prose app-card" id="njoftimet">
@@ -1297,14 +1299,14 @@ ${pageHead(bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Fjalori
   <p>${bi("Çdo mëngjes rreth orës 8 një fjalë nga gegërishtja, toskërishtja, arbërishtja ose arvanitishtja, e shpjeguar me fjalën standarde. Çdo mbrëmje rreth orës 19 një fjalë e urtë shqipe.", "Every morning around 8 a word from Gheg, Tosk, Arbëresh or Arvanitika, explained with the standard word. Every evening around 7 pm an Albanian proverb.")}</p>
   <p><button type="button" class="btn btn-primary" data-push hidden>${icon.bell(18)} <span data-push-label>${bi("Aktivizo njoftimet", "Turn on notifications")}</span></button></p>
   <p class="contact-status" data-push-status role="status" aria-live="polite"></p>
-  <p class="muted small" data-push-ios hidden>${bi("Në iPhone njoftimet funksionojnë pasi ta keni instaluar aplikacionin në ekranin bazë (iOS 16.4 ose më i ri): hapeni nga ikona dhe aktivizojini këtu.", "On iPhone, notifications work once the app is on your home screen (iOS 16.4 or later): open it from the icon and turn them on here.")}</p>
+  <p class="muted small" data-push-ios hidden>${bi("Në iPhone njoftimet funksionojnë pasi ta keni instaluar aplikacionin në ekranin bazë (iOS 16.4 ose më i ri). Hapeni nga ikona dhe aktivizojini këtu.", "On iPhone, notifications work once the app is on your home screen (iOS 16.4 or later): open it from the icon and turn them on here.")}</p>
   <p class="muted small" data-push-unsupported hidden>${bi("Ky shfletues nuk i mbështet njoftimet. Provoni Chrome, Edge, Firefox ose Safari.", "This browser does not support notifications. Try Chrome, Edge, Firefox or Safari.")}</p>
-  <p class="muted small">${bi("Nuk ruhet asnjë e dhënë personale: vetëm adresa që shfletuesi krijon për njoftimet. Mund t'i çaktivizoni kur të doni, këtu ose në cilësimet e telefonit.", "No personal data is stored: only the address your browser creates for notifications. You can turn them off at any time, here or in your phone's settings.")}</p>
+  <p class="muted small">${bi("Nuk ruhet asnjë e dhënë personale, vetëm adresa që shfletuesi krijon për njoftimet. Mund t'i çaktivizoni kur të doni, këtu ose në cilësimet e telefonit.", "No personal data is stored: only the address your browser creates for notifications. You can turn them off at any time, here or in your phone's settings.")}</p>
 </section>
 
 <section class="card prose app-card" id="kalendari">
   <h2>${icon.calendar(22)} ${bi("Kalendari", "Calendar")}</h2>
-  <p>${bi("Shtoni fjalën e ditës në kalendarin tuaj: çdo ditë shfaqet si ngjarje gjithë-ditore, me fjalën e urtë në përshkrim. Kalendari përditësohet vetë.", "Add the word of the day to your calendar: each day appears as an all-day event, with the proverb in the description. The calendar updates itself.")}</p>
+  <p>${bi("Shtoni fjalën e ditës në kalendarin tuaj. Çdo ditë shfaqet si ngjarje gjithë-ditore, me fjalën e urtë në përshkrim. Kalendari përditësohet vetë.", "Add the word of the day to your calendar: each day appears as an all-day event, with the proverb in the description. The calendar updates itself.")}</p>
   <p class="app-links">
     <a class="btn btn-primary" href="${h(ics)}">${icon.calendar(18)} ${bi("Abonohu në kalendar", "Subscribe to the calendar")}</a>
     <a class="btn btn-ghost" href="https://calendar.google.com/calendar/render?cid=${encodeURIComponent(ics)}" rel="noopener" target="_blank">Google Calendar</a>
@@ -1369,7 +1371,7 @@ function dialectPage(d: Dialect, rows: ReturnType<typeof dialectRows>): string {
 ${pageHead(
   `<span class="dialect-dot ${d}"></span>${t(d)}`,
   bi(
-    `${info.whereSq}. ${num(rows.length)} forma: pranë fjalës standarde, ose fjalë që përdoren vetëm në këtë dialekt.`,
+    `${info.whereSq}. ${num(rows.length)} forma, pranë fjalës standarde, ose fjalë që përdoren vetëm në këtë dialekt.`,
     `${info.whereEn}. ${num(rows.length)} forms: next to the standard word, or words used only in this dialect.`,
   ),
   bi("Fjalët sipas dialektit", "Words by dialect"),
@@ -1388,7 +1390,7 @@ ${items}
 </section>`;
   return layout({
     title: `${info.sq} — fjalët dhe format | FjaloriShqip`,
-    description: `${info.sq} (${info.en}): ${num(rows.length)} forma dialektore pranë fjalës standarde. ${info.whereSq}.`,
+    description: `${info.sq} (${info.en}), ${num(rows.length)} forma dialektore pranë fjalës standarde. ${info.whereSq}.`,
     body,
     canonical: `/dialekt/${info.slug}/`,
   });
