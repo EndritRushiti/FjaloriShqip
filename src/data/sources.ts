@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser";
 
 export interface SourceInfo {
   id: SourceId;
@@ -345,6 +345,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen.",
       en: "The definitions, examples and etymologies of the book are not copied.",
+    },
+  },
+  uniparser: {
+    id: "uniparser",
+    name: "Uniparser: leksiku i gjuhës shqipe",
+    publisher: "Maria Morozova, Alexander Rusakov dhe bashkautorë",
+    url: "https://github.com/uniparser",
+    licence: "MIT",
+    licenceUrl: "https://opensource.org/license/mit",
+    usedFor: {
+      sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Rare and rich words that were missing, with their word class and English meaning. The Albanian descriptions are our own.",
+    },
+    notUsed: {
+      sq: "Tabelat e lakimit nuk ribotohen.",
+      en: "The inflection tables are not republished.",
     },
   },
   folesit: {

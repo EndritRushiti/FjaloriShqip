@@ -561,6 +561,28 @@ function addEditorWords(d: Deduper): number {
   return n;
 }
 
+// ── words from the Uniparser lexicon (shtesa/uniparser.tsv) ──────────────────
+/** Added in batches, each word with its Albanian description in pershkrime/pershkrime.tsv: "word, word class, gender, English meaning". */
+function addUniparserWords(d: Deduper): number {
+  const f = path.join(process.cwd(), "shtesa", "uniparser.tsv");
+  if (!fs.existsSync(f)) return 0;
+  let n = 0;
+  for (const raw of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+    if (!raw.trim() || raw.startsWith("#")) continue;
+    const [word, pos, gender, meaning] = raw.split("\t").map((x) => x.trim());
+    if (!word || !meaning || !VALID_WORD.test(word) || !(pos in POS_EN)) continue;
+    const w = getWord(word);
+    const e = entryFor(w, pos as Pos, "uniparser");
+    if (gender === "m" || gender === "f" || gender === "n") e.gender ??= gender;
+    addSense(e, { gloss: meaning, lang: "en", source: "uniparser" });
+    addSource(w.sources, "uniparser");
+    delete w.unverified;
+    d.add(w.word);
+    n++;
+  }
+  return n;
+}
+
 // ── approximate meanings (scripts/lib/derive-meaning.ts) ─────────────────────
 const RULE_POS: Record<string, Pos> = { act: "noun", agent: "noun", able: "adj", having: "adj", relating: "adj", adverb: "adv" };
 function internationalPos(w: string): Pos {
@@ -959,6 +981,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const dic = fs.existsSync(dicFile) ? readDic(fs.readFileSync(dicFile, "utf8")) : new Set<string>();
   const deduper = new Deduper(words.values(), dic);
   console.log(`editors' additions: ${addEditorWords(deduper)} words (korrigjime/shto.txt)`);
+  console.log(`uniparser: ${addUniparserWords(deduper)} words (shtesa/uniparser.tsv)`);
   const meyer = addMeyerDialects();
   console.log(`dialect books: ${meyer.linked} Arbëresh/Arvanitika forms of standard words, ${meyer.own} dialect words of their own, ${meyer.known} meanings added to known words (dialekte/meyer-1891.tsv)`);
   console.log("reading other Wiktionary editions…");
@@ -1117,6 +1140,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "mann-1948": list.filter((w) => w.sources.includes("mann-1948")).length,
       "hahn-1854": list.filter((w) => w.sources.includes("hahn-1854")).length,
       folesit: list.filter((w) => w.sources.includes("folesit")).length,
+      uniparser: list.filter((w) => w.sources.includes("uniparser")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,
     unverified: list.filter((w) => w.unverified).length,
