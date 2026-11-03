@@ -206,7 +206,7 @@ ${image ? `<meta property="og:image" content="${h(image)}">
 <link rel="icon" href="${url("/favicon.ico")}" sizes="48x48">
 <link rel="icon" href="${url("/icon-512.png")}" type="image/png" sizes="512x512">
 <link rel="icon" href="${asset("favicon.svg")}" type="image/svg+xml">
-<link rel="apple-touch-icon" href="${asset("apple-touch-icon.png")}">
+<link rel="apple-touch-icon" href="${asset("icon-512.png")}">
 <link rel="manifest" href="${url("/site.webmanifest")}">
 <link rel="stylesheet" href="${asset("style.css")}">
 <script>${HEAD_SCRIPT}</script>
