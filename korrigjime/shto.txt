@@ -67363,3 +67363,7 @@ ja | particle | here is, there is (ja ku është: here it is)
 dron | noun | drone (unmanned aircraft)
 taleban | noun | Taliban member
 ndërlidhem | verb | to be interconnected, to be linked with
+auto | noun | car | makinë, veturë
+foto | noun | photo | fotografi
+moto | noun | motorcycle | motoçikletë
+kino | noun | cinema | kinema

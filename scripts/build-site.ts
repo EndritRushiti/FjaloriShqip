@@ -889,9 +889,9 @@ function homePage(): string {
 <section class="hero">
   <p class="kicker">${bi("Çdo fjalë · Çdo dialekt · Falas", "Every word · Every dialect · Free")}</p>
   <h1>${bi("Fjalori i hapur i", "The open dictionary of")} <span class="accent">${bi("gjuhës shqipe", "the Albanian language")}</span></h1>
-  <p class="lead">${bi(
-    "Një vend i sigurt ku ruhet çdo fjalë shqipe: e gjuhës standarde, e gegërishtes dhe e toskërishtes, e arbëreshëve të Italisë dhe e arvanitasve të Greqisë, edhe fjalët e vjetra të librave që po harrohen. Secila me përshkrimin e vet në shqip.",
-    "A safe home for every Albanian word: the standard language, Gheg and Tosk, the Arbëresh of Italy and the Arvanitika of Greece, and the old words of books that are being forgotten. Each one with its own description in Albanian.",
+  <p class="lead">${biHtml(
+    "<strong>Çdo fjalë e ruajtur është një copë historie e shpëtuar.</strong> Këtu ruhet gjuha shqipe në të gjitha trajtat e saj: standarde, gege, toske, arbëreshe e arvanitase, bashkë me fjalët e vjetra që po harrohen.",
+    "<strong>Every word saved is a piece of history rescued.</strong> Here the Albanian language is kept in all its forms: standard, Gheg, Tosk, Arbëresh and Arvanitika, together with the old words that are being forgotten.",
   )}</p>
   ${searchBox({ size: "big", chips: true })}
 </section>
@@ -928,7 +928,7 @@ function homePage(): string {
 <section class="section">
   <header class="section-head"><h2>${bi("Çfarë gjeni këtu", "What you will find")}</h2></header>
   <div class="tile-grid">
-    ${featureTile(icon.book(24), bi("Kuptimet", "Meanings"), bi("Përshkrimi i çdo fjale në shqip; edhe kuptimi në anglisht, shembuj dhe shqiptimi.", "A description of every word in Albanian; also the English meaning, examples and pronunciation."), url("/fjala/zem%C3%ABr/"))}
+    ${featureTile(icon.book(24), bi("Kuptimet", "Meanings"), bi("Përshkrimi i çdo fjale në shqip, edhe kuptimi në anglisht, shembuj dhe shqiptimi.", "A description of every word in Albanian; also the English meaning, examples and pronunciation."), url("/fjala/zem%C3%ABr/"))}
     ${featureTile(icon.layers(24), bi("Zgjedhimi dhe lakimi", "Conjugation and declension"), bi("Të gjitha kohët e foljeve dhe rasat e emrave.", "Every verb tense and every noun case."), url("/fjala/punoj/"))}
     ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Fjalët gege, toske, arbëreshe e arvanitase dhe fjalët e vjetra, të ruajtura e të lidhura me fjalën standarde.", "Gheg, Tosk, Arbëresh and Arvanitika words and old words, kept and linked to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
     ${featureTile(icon.code(24), bi("API falas", "Free API"), bi("JSON statik për aplikacionet tuaja, pa çelës.", "Static JSON for your apps, no key needed."), url("/api/"))}
@@ -1010,7 +1010,7 @@ function sourcesPage(): string {
   const CC0 = "https://creativecommons.org/publicdomain/zero/1.0/";
   const refs: Ref[] = [
     { title: "Wiktionary", author: "Wikimedia Foundation dhe kontribuesit e Wiktionary (përpunuar nga kaikki.org)", link: "https://en.wiktionary.org/wiki/Category:Albanian_language", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
-      sq: "Fjalët, kuptimet në anglisht, format e lakimit e zgjedhimit, shqiptimi, shembujt dhe format dialektore; edhe fjalë nga 18 botime të tjera gjuhësore.", en: "Headwords, English meanings, inflection tables, pronunciation, examples and dialect forms; also words from 18 other language editions." },
+      sq: "Fjalët, kuptimet në anglisht, format e lakimit e zgjedhimit, shqiptimi, shembujt dhe format dialektore, edhe fjalë nga 18 botime të tjera gjuhësore.", en: "Headwords, English meanings, inflection tables, pronunciation, examples and dialect forms; also words from 18 other language editions." },
     { title: "Wikifjalor", author: "Wikimedia Foundation dhe kontribuesit e Wikifjalorit", link: "https://sq.wiktionary.org/", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
       sq: "Fjalë, lloji i fjalës dhe gjinia nga faqet e shkruara nga komuniteti.", en: "Words, word class and gender from community-written pages." },
     { title: "Wikidata", author: "Wikimedia Foundation dhe kontribuesit e Wikidata", link: "https://www.wikidata.org/wiki/Wikidata:Lexicographical_data", licence: "CC0 1.0", licenceUrl: CC0,
@@ -1024,29 +1024,29 @@ function sourcesPage(): string {
     { title: "MaCoCu — korpusi shqip i uebit 1.0", author: "Projekti MaCoCu, depoja CLARIN.SI", link: "http://hdl.handle.net/11356/1804", licence: "CC0 1.0", licenceUrl: CC0,
       sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë përdoret realisht.", en: "Word counts only, to confirm that a word is really in use." },
     { title: "HPLT v2 — korpusi i pastruar shqip", author: "Projekti High Performance Language Technologies (HPLT)", link: "https://hplt-project.org/datasets/v2.0", licence: "CC0 1.0", licenceUrl: CC0,
-      sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë ose një formë dialektore përdoret; prej këtyre numërimeve vijnë edhe format e rregullta gege (me punue, i lidhun, grue, kâmbë) që lidhim me fjalën standarde. Nuk kopjohet asnjë tekst.", en: "Word counts only, to confirm that a word or a dialect form is in use; these counts also give the regular Gheg forms (me punue, i lidhun, grue, kâmbë) that we link to the standard word. No text is copied." },
+      sq: "Vetëm numërimi i fjalëve, për të konfirmuar se një fjalë ose një formë dialektore përdoret, prej këtyre numërimeve vijnë edhe format e rregullta gege (me punue, i lidhun, grue, kâmbë) që lidhim me fjalën standarde. Nuk kopjohet asnjë tekst.", en: "Word counts only, to confirm that a word or a dialect form is in use; these counts also give the regular Gheg forms (me punue, i lidhun, grue, kâmbë) that we link to the standard word. No text is copied." },
     { title: "EuroVoc — tezauri shumëgjuhësh i BE-së (versioni shqip)", author: "Zyra e Publikimeve e Bashkimit Evropian, © Bashkimi Evropian", link: "https://op.europa.eu/en/web/eu-vocabularies/eurovoc", licence: "Ripërdorim i lirë me përmendjen e burimit (Vendimi 2011/833/BE)", licenceUrl: "https://eur-lex.europa.eu/eli/dec/2011/833/oj",
       sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
     { title: "Uniparser: leksiku i gjuhës shqipe", author: "Maria Morozova, Alexander Rusakov dhe bashkautorë", link: "https://github.com/uniparser", licence: "MIT", licenceUrl: "https://opensource.org/license/mit",
-      sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht; përshkrimet shqip janë tonat.", en: "Rare and rich words that were missing, with their word class and English meaning; the Albanian descriptions are our own." },
+      sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht, përshkrimet shqip janë tonat.", en: "Rare and rich words that were missing, with their word class and English meaning; the Albanian descriptions are our own." },
     { title: "Folësit e dialekteve", author: "Folës vendas; të kontrolluara nga redaktori i FjaloriShqip", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
-      sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë (p.sh. çik, cauc, rrabe në Tetovë, Gostivar e Kërçovë), me vendin ku thuhen. Emrat e folësve nuk botohen; përshkrimet janë tonat.", en: "Words people say at home and in the village but rarely write (e.g. çik, cauc, rrabe in Tetovë, Gostivar and Kërçovë), with the place where they are said. The speakers' names are not published; the descriptions are our own." },
+      sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë (p.sh. çik, cauc, rrabe në Tetovë, Gostivar e Kërçovë), me vendin ku thuhen. Emrat e folësve nuk botohen, përshkrimet janë tonat.", en: "Words people say at home and in the village but rarely write (e.g. çik, cauc, rrabe in Tetovë, Gostivar and Kërçovë), with the place where they are said. The speakers' names are not published; the descriptions are our own." },
     { title: "Albanesische Studien, vëll. 3: shtojca e fjalorit shqip-gjermanisht (1853–1854)", author: "Johann Georg von Hahn (1811–1869)", link: "https://archive.org/details/10589474bsb", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Fjalë të vjetra e krahinore gege e toske, të kthyera nga alfabeti i Hahnit në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja, përshkrimet janë tonat.", en: "Old and regional Gheg and Tosk words, converted from Hahn's alphabet to today's spelling; meanings translated from German, the descriptions are our own." },
+      sq: "Fjalë të vjetra e krahinore gege e toske, të kthyera nga alfabeti i Hahnit në drejtshkrimin e sotëm, kuptimet të përkthyera nga gjermanishtja, përshkrimet janë tonat.", en: "Old and regional Gheg and Tosk words, converted from Hahn's alphabet to today's spelling; meanings translated from German, the descriptions are our own." },
     { title: "Etymologisches Wörterbuch der albanesischen Sprache (1891)", author: "Gustav Meyer (1850–1900)", link: "https://archive.org/details/etymologischesw00meyegoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Fjalët arbëreshe (Itali) dhe arvanitase (Greqi), të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga gjermanishtja.", en: "Arbëresh (Italy) and Arvanitika (Greece) words, converted to today's spelling; meanings translated from German." },
+      sq: "Fjalët arbëreshe (Itali) dhe arvanitase (Greqi), të kthyera në drejtshkrimin e sotëm, kuptimet të përkthyera nga gjermanishtja.", en: "Arbëresh (Italy) and Arvanitika (Greece) words, converted to today's spelling; meanings translated from German." },
     { title: "Fialuur i voghel scc'ip e ltinisct (1895)", author: "Jak Jungg (1840–1927)", link: "https://archive.org/details/fialuurivoghels00junkgoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Format gege të Shkodrës, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde; kuptimet të përkthyera nga italishtja.", en: "Gheg forms of Shkodër, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
+      sq: "Format gege të Shkodrës, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde, kuptimet të përkthyera nga italishtja.", en: "Gheg forms of Shkodër, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
     { title: "Vocabolario epirotico-italiano (1875)", author: "Francesco Rossi da Montalto", link: "https://archive.org/details/rossi-vocabolario-italiano-epirotico-epirotico-italiano", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Disa forma gege, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde; kuptimet të përkthyera nga italishtja.", en: "A few Gheg forms, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
+      sq: "Disa forma gege, të kthyera në drejtshkrimin e sotëm dhe të lidhura me fjalën standarde, kuptimet të përkthyera nga italishtja.", en: "A few Gheg forms, converted to today's spelling and linked to the standard word; meanings translated from Italian." },
     { title: "Lexikon tis albanikis glossis (1904)", author: "Konstantin Kristoforidhi (1830–1895); skanimi: Universiteti i Vjenës (PHAIDRA)", link: "https://archive.org/details/Lexicon-tes-albanikes-glosses-PHAIDRA_o_102835", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Fjalë e forma gege e toske, të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga greqishtja.", en: "Gheg and Tosk words and forms, converted to today's spelling; meanings translated from Greek." },
+      sq: "Fjalë e forma gege e toske, të kthyera në drejtshkrimin e sotëm, kuptimet të përkthyera nga greqishtja.", en: "Gheg and Tosk words and forms, converted to today's spelling; meanings translated from Greek." },
     { title: "Fjalorth i ri – Fjalë të rralla të përdoruna në Veri të Shqipnis (1942)", author: "Dom Nikollë Gazulli (1895–1946)", link: "https://archive.org/details/id-9-fjalorth-i-ri-fjale-te-rralla-te-perdoruna-ne-veri-te-shqipnis-visaret-e-kombit", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Fjalë të rralla gege nga Veriu, me vendin ku përdoren; përshkrimet janë tonat.", en: "Rare Gheg words from the North, with where they are used; the descriptions are our own." },
+      sq: "Fjalë të rralla gege nga Veriu, me vendin ku përdoren, përshkrimet janë tonat.", en: "Rare Gheg words from the North, with where they are used; the descriptions are our own." },
     { title: "Manuel de la langue chkipe ou albanaise (1879)", author: "Auguste Dozon (1822–1890)", link: "https://archive.org/details/manueldelalangue00dozouoft", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
-      sq: "Forma toske nga fjalorthi shqip-frëngjisht, të kthyera në drejtshkrimin e sotëm; kuptimet të përkthyera nga frëngjishtja, përshkrimet janë tonat.", en: "Tosk forms from the Albanian–French vocabulary, converted to today's spelling; meanings translated from French, the descriptions are our own." },
+      sq: "Forma toske nga fjalorthi shqip-frëngjisht, të kthyera në drejtshkrimin e sotëm, kuptimet të përkthyera nga frëngjishtja, përshkrimet janë tonat.", en: "Tosk forms from the Albanian–French vocabulary, converted to today's spelling; meanings translated from French, the descriptions are our own." },
     { title: "An Historical Albanian-English Dictionary (1948)", author: "Stuart E. Mann (1905–1986); Longmans, Green & Co. për British Council, Londër", link: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf", licence: "Vetëm fjalët dhe të dhënat për to", licenceUrl: "https://fsi-languages.yojik.eu/languages/DLI/Albanian/Albanian-English%20Dictionary.pdf",
-      sq: "Vetëm fjalët dhe faktet për to: fjalë të vjetra, krahinore e dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen; përshkrimet shqip janë tonat.", en: "Only the words and facts about them: old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The book's definitions, examples and etymologies are not copied; the Albanian descriptions are our own." },
+      sq: "Vetëm fjalët dhe faktet për to: fjalë të vjetra, krahinore e dialektore (gege, toske, arbëreshe, arvanitase), me klasën e fjalës, dialektin dhe fjalën standarde përkatëse. Përkufizimet, shembujt dhe etimologjitë e librit nuk kopjohen, përshkrimet shqip janë tonat.", en: "Only the words and facts about them: old, regional and dialect words (Gheg, Tosk, Arbëresh, Arvanitika), with their word class, dialect and corresponding standard word. The book's definitions, examples and etymologies are not copied; the Albanian descriptions are our own." },
     { title: "Tatoeba", author: "Shoqata Tatoeba dhe kontribuesit e saj (autori i secilës fjali në shembuj/tatoeba.tsv)", link: "https://tatoeba.org/", licence: "CC BY 2.0 FR", licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
       sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një.", en: "Albanian example sentences with their English translation, selected and reviewed one by one." },
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
@@ -1062,7 +1062,7 @@ function sourcesPage(): string {
   const body = `
 ${pageHead(
   t("sources"),
-  bi("Fjalori ndërtohet nga burime me licencë të hapur dhe nga libra në domen publik; nga një libër i vetëm merren vetëm fjalët dhe faktet për to. Këtu janë të gjitha, një herë secili.", "The dictionary is built from openly licensed sources and public-domain books; from one book only the words and facts about them are taken. Here they all are, each one once."),
+  bi("Fjalori ndërtohet nga burime me licencë të hapur dhe nga libra në domen publik, nga një libër i vetëm merren vetëm fjalët dhe faktet për to. Këtu janë të gjitha, një herë secili.", "The dictionary is built from openly licensed sources and public-domain books; from one book only the words and facts about them are taken. Here they all are, each one once."),
   `${icon.shield(16)} ${bi("Burimet dhe licencat", "Sources and licences")}`,
 )}
 <section class="card refs-card">
@@ -1189,7 +1189,7 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
   )}</p>
   <p><a class="btn btn-primary" href="${h(SUPPORT_URL)}" target="_blank" rel="noopener">${icon.heart(18)} ${bi("Mbështetni me PayPal", "Support with PayPal")}</a></p>
   <p class="muted">${bi(
-    "Pagesa bëhet te faqja e PayPal-it; fjalori nuk sheh as nuk ruan të dhënat tuaja të pagesës.",
+    "Pagesa bëhet te faqja e PayPal-it, fjalori nuk sheh as nuk ruan të dhënat tuaja të pagesës.",
     "The payment happens on PayPal's site; the dictionary neither sees nor keeps your payment details.",
   )}</p>
 </section>` : ""}
@@ -1230,7 +1230,7 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
       "<b>Reports and suggestions</b> about words are kept without a name or email, sent to the author every Monday and then deleted.",
     )}</li>
     <li>${biHtml(
-      "<b>Formulari i kontaktit</b> ia dërgon mesazhin tuaj autorit me email, që t'ju përgjigjet; fjalori nuk e ruan.",
+      "<b>Formulari i kontaktit</b> ia dërgon mesazhin tuaj autorit me email, që t'ju përgjigjet, fjalori nuk e ruan.",
       "<b>The contact form</b> sends your message to the author by email, so the author can reply; the dictionary does not keep it.",
     )}</li>
     <li>${biHtml(
@@ -1238,7 +1238,7 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
       "<b>Daily notifications</b>, if you turn them on, keep only the address your browser creates for notifications. When you turn them off, it is deleted.",
     )}</li>
     <li>${biHtml(
-      "<b>PayPal.</b> Butoni i mbështetjes ju çon te faqja e PayPal-it; pagesa dhe të dhënat e saj mbeten te PayPal-i.",
+      "<b>PayPal.</b> Butoni i mbështetjes ju çon te faqja e PayPal-it, pagesa dhe të dhënat e saj mbeten te PayPal-i.",
       "<b>PayPal.</b> The support button takes you to PayPal's site; the payment and its details stay with PayPal.",
     )}</li>
   </ul>

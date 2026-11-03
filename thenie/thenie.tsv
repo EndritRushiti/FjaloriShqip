@@ -6,7 +6,7 @@
 #   <TAB> trajta standarde <TAB> kuptimi <TAB> burimi (id i burimit) <TAB> faqja <TAB> shqyrtuar ("po" = e shqyrtuar nga redaktori; bosh = jo ende)
 #   <TAB> lloji (bosh: fjalë e urtë; "gjëegjëzë": kuptimi mban përgjigjen)
 hahn-151-1	Gjaku ujë s'bëhet.	tosk	Jug	Gjaku nuk bëhet ujë.	Lidhja e gjakut, e farefisit, nuk shuhet kurrë.	hahn-1854-2	151	po
-hahn-151-2	Mishti nga thoi s'ndahet.	tosk	Jug	Mishi nuk ndahet nga thoi.	Të afërmit nuk ndahen nga njëri-tjetri; si mishi me thoin.	hahn-1854-2	151	po
+hahn-151-2	Mishti nga thoi s'ndahet.	tosk	Jug	Mishi nuk ndahet nga thoi.	Të afërmit nuk ndahen nga njëri-tjetri. Si mishi me thoin.	hahn-1854-2	151	po
 hahn-151-3	Kush lyp, gjen tek do.	tosk	Jug	Kush kërkon, gjen kudo.	Kush përpiqet e kërkon, e gjen atë që do, kudo qoftë.	hahn-1854-2	151	po
 hahn-151-4	Gjënë e neqezit e ha qismeti i çumertit.	tosk	Jug	Pasurinë e koprracit e gëzon bujari.	Atë që mbledh dorështrënguari, në fund e gëzon një dorëlëshuar.	hahn-1854-2	151	po
 hahn-151-5	Paraja e bardhë për ditë të zezë.	tosk	Jug	Paraja e bardhë për ditën e zezë.	Kurse kur ke, se do të të duhet kur të vijnë ditë të vështira.	hahn-1854-2	151	po
@@ -26,10 +26,10 @@ hahn-151-19	Ngordhi macja, u ngjall miu.	tosk	Jug	Ngordhi macja, u ngjall miu.	K
 hahn-152-20	Mos ec me vrap, se bie ndë trap.	tosk	Jug	Mos ec me vrap, se bie në gropë.	Nxitimi të çon në gabim e në fatkeqësi.	hahn-1854-2	152	po
 hahn-152-21	Doli trëndafili e la manushaqet.	tosk	Jug	Doli trëndafili e la në hije manushaqet.	Kur shfaqet dikush më i shquar, të tjerët mbeten në hije.	hahn-1854-2	152	po
 hahn-152-22	Kush bën mirë, gjen keq.	tosk	Jug	Kush bën mirë, gjen keq.	E mira shpesh shpërblehet me mosmirënjohje.	hahn-1854-2	152	po
-hahn-152-23	Sa lule ëndenë, gjithë s'piqenë.	tosk	Jug	Sa lule çelin, jo të gjitha bëjnë fryt.	Jo çdo fillim i mirë arrin në fund; jo çdo shpresë bëhet e vërtetë.	hahn-1854-2	152	po
+hahn-152-23	Sa lule ëndenë, gjithë s'piqenë.	tosk	Jug	Sa lule çelin, jo të gjitha bëjnë fryt.	Jo çdo fillim i mirë arrin në fund. Jo çdo shpresë bëhet e vërtetë.	hahn-1854-2	152	po
 hahn-152-24	Tek pështynë shumë, bënetë lumë.	tosk	Jug	Ku pështyjnë shumë, bëhet lumë.	Kur bashkohen shumë njerëz, edhe gjëra të vogla bëhen forcë e madhe.	hahn-1854-2	152	po
 hahn-152-25	I shumi si lumi.	tosk	Jug	Shumica është si lumi.	Shumë njerëz bashkë janë të pandalshëm si lumi.	hahn-1854-2	152	po
-hahn-152-26	I paku si gjaku.	tosk	Jug	I vetmi është si pak gjak: nuk bën dot vërshim.	Një njeri i vetëm nuk mund të bëjë shumë; vetëm s'je asgjë.	hahn-1854-2	152	po
+hahn-152-26	I paku si gjaku.	tosk	Jug	I vetmi është si pak gjak: nuk bën dot vërshim.	Një njeri i vetëm nuk mund të bëjë shumë. Vetëm s'je asgjë.	hahn-1854-2	152	po
 hahn-152-27	Vëllazëria si ortakëria.	tosk	Jug	Vëllazëria është si ortakëria.	Vëllezërit, si ortakët në tregti, në fund ndahen e ndajnë pasurinë.	hahn-1854-2	152	po
 hahn-152-28	Si vendi edhe kuvendi.	tosk	Jug	Si vendi, ashtu edhe fjala.	Fol e sillu sipas vendit e rrethanave ku ndodhesh.	hahn-1854-2	152	po
 hahn-152-30	Dy vetë një hall s'e kanë.	tosk	Jug	Dy vetë nuk kanë të njëjtin hall.	Secili ka brengat e veta, që tjetri nuk i di.	hahn-1854-2	152	po
@@ -40,20 +40,20 @@ hahn-152-35	Dardha nën' e dardhë bie.	tosk	Jug	Dardha bie nën dardhë.	Fëmij
 hahn-152-36	Bën trëndafili ferrënë e ferra trëndafilë.	tosk	Jug	Trëndafili nxjerr ferrë e ferra trëndafil.	Nga prindër të mirë dalin fëmijë të këqij, e nga të këqij të mirë.	hahn-1854-2	152	po
 hahn-152-37	I miri të mirë s'ka.	tosk	Jug	I miri nuk ka të mirë.	Njeriu i mirë rrallë e gjen të mirën në jetë.	hahn-1854-2	152	po
 hahn-152-39	Kush bën varrë t'jatërit, shumë herë ryn vetë.	tosk	Jug	Kush i hap varrin tjetrit, shpesh bie vetë në të.	Kush i kurdis të keqen tjetrit, shpesh e pëson vetë.	hahn-1854-2	152	po
-hahn-152-40	Kush ecën fort, mbetetë ndë udhë.	tosk	Jug	Kush ecën shpejt, mbetet në udhë.	Kush nxiton shumë, nuk arrin; ngadalë e sigurt.	hahn-1854-2	152	po
+hahn-152-40	Kush ecën fort, mbetetë ndë udhë.	tosk	Jug	Kush ecën shpejt, mbetet në udhë.	Kush nxiton shumë, nuk arrin. Ngadalë e sigurt.	hahn-1854-2	152	po
 hahn-153-41	Kush ecën kadalë, sosetë mbë shpejt.	tosk	Jug	Kush ecën ngadalë, arrin më shpejt.	Kush s'nxiton, arrin më mirë e më herët se ai që vrapon.	hahn-1854-2	153	po
 hahn-153-42	Kush përton, mbë tej vete.	tosk	Jug	Kush ecën me ngadalë, shkon më larg.	Durimi të çon më larg se nxitimi.	hahn-1854-2	153	po
 hahn-153-43	Goja behar, zemra hambar.	tosk	Jug	Goja pranverë, barku hambar bosh.	Thuhet për dikë që buzëqesh e flet bukur, ndonëse vuan e s'ka gjë.	hahn-1854-2	153	po
 hahn-153-44	Shumë lahenë, pak hanë.	tosk	Jug	Shumë lahen, pak hanë.	Shumë janë të ftuar, por pak arrijnë t'i gëzojnë të mirat.	hahn-1854-2	153	po
 hahn-153-45	Djali pa lerë, e kësulja blerë.	tosk	Jug	Djali ende pa lindur, e kësula e blerë.	Thuhet për dikë që bën hapin e dytë para të parit.	hahn-1854-2	153	po
 hahn-153-46	Mbar verë, e pi ujë.	tosk	Jug	Mbart verë, por pi ujë.	Thuhet për dikë që punon me të mira të mëdha pa përfituar asgjë vetë.	hahn-1854-2	153	po
-hahn-153-47	Syri plot, barku thatë.	tosk	Jug	Syri i ngopur, barku bosh.	I sheh të mirat, por nuk i shijon dot; kënaqësi që s'të ushqen.	hahn-1854-2	153	po
+hahn-153-47	Syri plot, barku thatë.	tosk	Jug	Syri i ngopur, barku bosh.	I sheh të mirat, por nuk i shijon dot. Kënaqësi që s'të ushqen.	hahn-1854-2	153	po
 hahn-153-49	Të kthjellëtë e natësë si stoli e plakësë.	tosk	Jug	Kthjellimi i natës është si stolia e plakës.	Diçka e bukur, por që nuk zgjat e s'ka vlerë të vërtetë.	hahn-1854-2	153	po
 hahn-153-50	Ditënë e Shë Vasilit kërcen dielli sa dreri nga shtrofaku.	tosk	Jug	Ditën e Shën Vasilit dielli hidhet sa dreri nga strofulla.	Pas Vitit të Ri dita zgjatet dukshëm.	hahn-1854-2	153	po
-hahn-153-51	Barku firë s'kërcen mirë, barku plot s'kërcen dot.	tosk	Jug	Barku bosh nuk kërcen mirë, barku plot nuk kërcen dot.	As uria, as ngopja e tepërt s'të lënë të gëzohesh; masa në çdo gjë.	hahn-1854-2	153	po
-hahn-153-53	Kush ecën përpjetë, vështron tatëpjetë.	tosk	Jug	Kush ngjitet përpjetë, sheh edhe tatëpjetën.	Pas ngritjes vjen edhe rënia; fati është i ndryshueshëm.	hahn-1854-2	153	po
-hahn-153-53b	E përpjeta ka edhe të tatëpjetë.	tosk	Jug	E përpjeta ka edhe tatëpjetën.	Pas ngritjes vjen edhe rënia; fati është i ndryshueshëm.	hahn-1854-2	153	po
-hahn-153-54	Ha drekë e gatuaj për darkë.	tosk	Jug	Ha drekë e gatuaj për darkë.	Mendo që sot për nesër; merr masa në kohë.	hahn-1854-2	153	po
+hahn-153-51	Barku firë s'kërcen mirë, barku plot s'kërcen dot.	tosk	Jug	Barku bosh nuk kërcen mirë, barku plot nuk kërcen dot.	As uria, as ngopja e tepërt s'të lënë të gëzohesh. Masa në çdo gjë.	hahn-1854-2	153	po
+hahn-153-53	Kush ecën përpjetë, vështron tatëpjetë.	tosk	Jug	Kush ngjitet përpjetë, sheh edhe tatëpjetën.	Pas ngritjes vjen edhe rënia. Fati është i ndryshueshëm.	hahn-1854-2	153	po
+hahn-153-53b	E përpjeta ka edhe të tatëpjetë.	tosk	Jug	E përpjeta ka edhe tatëpjetën.	Pas ngritjes vjen edhe rënia. Fati është i ndryshueshëm.	hahn-1854-2	153	po
+hahn-153-54	Ha drekë e gatuaj për darkë.	tosk	Jug	Ha drekë e gatuaj për darkë.	Mendo që sot për nesër. Merr masa në kohë.	hahn-1854-2	153	po
 hahn-153-55	S'kullot ujku kurrë bashkë me delenë.	tosk	Jug	Ujku nuk kullot kurrë bashkë me delen.	Armiqtë e natyrshëm nuk bëhen kurrë shokë.	hahn-1854-2	153	po
 hahn-153-56	Mos u gëzo i gëzuari, mos u helmo i helmuari.	tosk	Jug	Mos u gëzo tepër kur je i gëzuar, mos u pikëllo tepër kur je i pikëlluar.	Fati ndryshon: as gëzimi, as hidhërimi nuk zgjasin përgjithmonë.	hahn-1854-2	153	po
 hahn-153-57	E keqja të shpie ndë derë të hasmit.	tosk	Jug	E keqja të çon te dera e armikut.	Nevoja e madhe të detyron të kërkosh ndihmë edhe te armiku.	hahn-1854-2	153	po
@@ -68,36 +68,36 @@ hahn-154-65	Si eshka me urorë.	tosk	Jug	Si eshka me çakmakun.	Thuhet për dy v
 hahn-154-66	Fis ndë fis, e ujku ndë gomar.	tosk	Jug	Secili sipas fisit të vet, e ujku te gomari.	Natyra e njeriut nuk ndryshon.	hahn-1854-2	154	po
 hahn-154-67	Polli kau, ku vitshi?	tosk	Jug	Polli kau, ku është viçi?	Thuhet për njeriun e trashë, që flet pa menduar.	hahn-1854-2	154	po
 hahn-154-70	Bënë udhë lopëtë, shkon edhe ai atje.	tosk	Jug	Lopët hapën udhë, shkon edhe ai pas tyre.	Thuhet për njeriun pa mend, që shkon pas të tjerëve.	hahn-1854-2	154	po
-hahn-154-73	S'të shkeli kau i zi.	tosk	Jug	Ende s'të ka shkelur kau i zi.	Ende s'e ke provuar hidhërimin e madh; prindërit i ke gjallë.	hahn-1854-2	154	po
+hahn-154-73	S'të shkeli kau i zi.	tosk	Jug	Ende s'të ka shkelur kau i zi.	Ende s'e ke provuar hidhërimin e madh. Prindërit i ke gjallë.	hahn-1854-2	154	po
 hahn-154-74	Shkoi peshku ndë përva.	tosk	Jug	Peshku e kaloi vaun.	Rasti iku, s'ka më ç'bëhet.	hahn-1854-2	154	po
 hahn-154-75	Gjoni di ç'mba trasta.	tosk	Jug	Gjoni e di ç'mban trasta.	Secili e di vetë ku e vret këpuca.	hahn-1854-2	154	po
 hahn-154-76	Për të bardhë të laraskësë.	tosk	Jug	Për të bardhën e laraskës.	Grindje për një gjë pa asnjë vlerë.	hahn-1854-2	154	po
 hahn-154-77	Po çirris gomarë, strëks' a shqelmetë.	tosk	Jug	Po ngacmove gomarin, prit edhe shqelmat.	Kush ngacmon të keqin, e pëson.	hahn-1854-2	154	po
 hahn-154-78	Prit, gomar, të vijë Maji.	tosk	Jug	Prit, gomar, të vijë maji.	Përgjigje e mërzitur ndaj premtimeve që shtyhen pa fund.	hahn-1854-2	154	po
-hahn-155-79	Kur të hipnjë gomari majë arrësë.	tosk	Jug	Kur të hipë gomari në majë të arrës.	Kurrë; diçka që s'do të ndodhë.	hahn-1854-2	155	po
+hahn-155-79	Kur të hipnjë gomari majë arrësë.	tosk	Jug	Kur të hipë gomari në majë të arrës.	Kurrë. Diçka që s'do të ndodhë.	hahn-1854-2	155	po
 hahn-155-80	Më mirë një ve sot, se një pulë mot.	tosk	Jug	Më mirë një vezë sot, se një pulë vitin që vjen.	Më vlen pak e sigurt tani, se shumë e pasigurt më vonë.	hahn-1854-2	155	po
 hahn-155-81	Ku e di derri këmborënë?	tosk	Jug	Ç'e di derri këmborën?	Mos u jep gjëra të vlefshme atyre që s'dinë t'i çmojnë.	hahn-1854-2	155	po
 hahn-155-82	Plëndësi kur lahetë, e hanë zotëritë.	tosk	Jug	Plëndësin, kur lahet, e hanë zotërinjtë.	Punën e rëndë e bëjnë të tjerët, të mirën e gëzojnë zotërinjtë.	hahn-1854-2	155	po
 hahn-155-84	S'trembet i mbyturi nga të lagurit.	tosk	Jug	I mbyturi nuk ka frikë se laget.	Kush ka pësuar të keqen më të madhe, s'trembet më nga të voglat.	hahn-1854-2	155	po
 hahn-155-85	Kush përton, dëshëron.	tosk	Jug	Kush përton, pastaj mbetet me mall.	Kush e humb rastin nga përtacia, pastaj pendohet.	hahn-1854-2	155	po
 hahn-155-87	Puno si rob, e ha si zot.	tosk	Jug	Puno si rob e ha si zot.	Kush punon shumë, ha mirë.	hahn-1854-2	155	po
-hahn-155-88	I fëliqurë shokë do.	tosk	Jug	I zgjebosuri kërkon shokë.	I keqi kërkon të tjerë si vetja; mos dëgjo këshillën e të ligut.	hahn-1854-2	155	po
+hahn-155-88	I fëliqurë shokë do.	tosk	Jug	I zgjebosuri kërkon shokë.	I keqi kërkon të tjerë si vetja. Mos dëgjo këshillën e të ligut.	hahn-1854-2	155	po
 hahn-155-89	As pula kemi, as me dhelprë zihemi.	tosk	Jug	As pula kemi, as me dhelprën grindemi.	S'më përket kjo punë, s'përzihem.	hahn-1854-2	155	po
 hahn-155-90	Kush e mbolli, mos e korrtë.	tosk	Jug	Kush e mbolli, le të mos e korrë.	S'më intereson, s'kam asnjë hise në të.	hahn-1854-2	155	po
 hahn-155-91	Kush ka mjekrënë, ka edhe krehëretë.	tosk	Jug	Kush ka mjekër, ka edhe krehër.	Secili di më mirë si të kujdeset për punët e veta.	hahn-1854-2	155	po
 hahn-155-92	Kush ka mashanë, s'djeg dorënë.	tosk	Jug	Kush ka mashën, nuk e djeg dorën.	Kush ka të tjerë që i shërbejnë, nuk mundohet vetë.	hahn-1854-2	155	po
 hahn-155-93	Gjej lepurinë e zbath i brekëtë.	tosk	Jug	Gjeje lepurin e hiqi brekët.	Mundohesh për një gjë të pamundur.	hahn-1854-2	155	po
 hahn-155-94	I vë fre pleshtit.	tosk	Jug	I vë fre pleshtit.	Thuhet për dikë shumë të zgjuar e të shkathët.	hahn-1854-2	155	po
-hahn-155-95	Turpi për të gjallë.	tosk	Jug	Turpi është për të gjallët.	Të vdekurit nuk kanë më turp; ngushëllim për atë që pret qortime.	hahn-1854-2	155	po
+hahn-155-95	Turpi për të gjallë.	tosk	Jug	Turpi është për të gjallët.	Të vdekurit nuk kanë më turp. Ngushëllim për atë që pret qortime.	hahn-1854-2	155	po
 hahn-155-96	Të pallëtë e gomarit s'vete kurrë ndë qiell.	tosk	Jug	Pëllitja e gomarit nuk arrin kurrë në qiell.	Zëri e mallkimi i të ligut nuk bëjnë dëm.	hahn-1854-2	155	po
-hahn-156-98	Kur të t'apënë ha, kur të rrahënë qaj.	tosk	Jug	Kur të japin, ha; kur të rrahin, qaj.	Thuhet për njeriun e trashë, që s'di të bëjë tjetër veçse të marrë ose të qajë.	hahn-1854-2	156	po
+hahn-156-98	Kur të t'apënë ha, kur të rrahënë qaj.	tosk	Jug	Kur të japin, ha. Kur të rrahin, qaj.	Thuhet për njeriun e trashë, që s'di të bëjë tjetër veçse të marrë ose të qajë.	hahn-1854-2	156	po
 hahn-156-99	E mituara, sy qitura.	tosk	Jug	Ryshfeti të nxjerr sytë.	Ai që merr ryshfet, verbohet e s'sheh më drejtësinë.	hahn-1854-2	156	po
 hahn-156-100	Sa më ka ënda për arë, aq gjeta qe e farë.	tosk	Jug	Sa qejf kam për arën, aq kërkoj qe e farë.	Ironike: s'më intereson fare kjo punë.	hahn-1854-2	156	po
 hahn-156-101	Kur ka trasta fiq, gjithë bota janë miq.	tosk	Jug	Kur ka fiq trasta, gjithë bota janë miq.	I pasuri gjen miq kudo.	hahn-1854-2	156	po
 hahn-156-102	I plasi damari i ballit.	tosk	Jug	I plasi damari i ballit.	E ka humbur çdo turp.	hahn-1854-2	156	po
 hahn-156-103	Si gjellë e pa kripë.	tosk	Jug	Si gjellë pa kripë.	I pakëndshëm, pa shije, që s'të tërheq.	hahn-1854-2	156	po
 hahn-156-104	Tek leh qen, e tek del tym.	tosk	Jug	Ku leh qeni e ku del tym.	Thuhet për dikë që shkon gjithmonë aty ku shtrohet e hahet.	hahn-1854-2	156	po
-hahn-156-105	Gjëri si i përderësi.	tosk	Jug	Pasuria është si lypësi: shkon derë më derë.	Pasuria nuk rri në një vend; sot te njëri, nesër te tjetri.	hahn-1854-2	156	po
+hahn-156-105	Gjëri si i përderësi.	tosk	Jug	Pasuria është si lypësi: shkon derë më derë.	Pasuria nuk rri në një vend. Sot te njëri, nesër te tjetri.	hahn-1854-2	156	po
 hahn-156-106	Kush s'ka njeri, s'ka as Perëndi.	tosk	Jug	Kush nuk ka njeri, nuk ka as Zot.	I vetmuari mbetet i braktisur nga të gjithë.	hahn-1854-2	156	po
 hahn-156-107	I velti s'beson të uriturinë.	tosk	Jug	I ngopuri nuk i beson të uriturit.	Kush s'e ka provuar një hall, nuk e kupton atë që e vuan.	hahn-1854-2	156	po
 hahn-156-108	Ndë bisht kërcet hobeja.	tosk	Jug	Në bisht kërcet hobeja.	Kush qesh i fundit, qesh më mirë.	hahn-1854-2	156	po
@@ -119,15 +119,15 @@ hahn-157-125	Djali pa qarë, mëma s'i ep sisë.	tosk	Jug	Fëmijës që nuk qan,
 hahn-157-127	Rrëketë bënë përrenjtë, e përrenjtë lumenjtë.	tosk	Jug	Rrëketë bëjnë përrenjtë e përrenjtë lumenjtë.	Nga të voglat bëhen të mëdhatë.	hahn-1854-2	157	po
 hahn-157-128	Pa ndyrë këmbëtë, nuk lyhenë dhëmbëtë.	tosk	Jug	Pa i ndotur këmbët, nuk i lyen dhëmbët.	Kush do të hajë mirë, duhet të punojë.	hahn-1854-2	157	po
 hahn-157-129	Kërkon kallës ndër borë.	tosk	Jug	Kërkon kallinj në borë.	Kërkon diçka të pamundur.	hahn-1854-2	157	po
-hahn-157-130	Dit' e re, qismet i ri.	tosk	Jug	Ditë e re, fat i ri.	Mos u brengos për nesër; çdo ditë sjell fatin e vet.	hahn-1854-2	157	po
+hahn-157-130	Dit' e re, qismet i ri.	tosk	Jug	Ditë e re, fat i ri.	Mos u brengos për nesër. Çdo ditë sjell fatin e vet.	hahn-1854-2	157	po
 hahn-157-131	E pasura humbet kokënë.	tosk	Jug	Pasuria të humbet kokën.	Pasuria e madhe ia merr njeriut mendjen.	hahn-1854-2	157	po
 hahn-157-132	S'ka punë, e lun derënë.	tosk	Jug	S'ka punë e luan derën.	Thuhet për dikë që, pa punë, merret me gjëra pa vlerë.	hahn-1854-2	157	po
 hahn-157-134	Dy gjela në një pleh s'rinë kurr.	gheg	Veri	Dy gjela në një pleh nuk rrinë kurrë.	Dy njerëz që duan të sundojnë nuk rrinë dot bashkë.	hahn-1854-2	157	po
-hahn-157-135	Budalla brinë s'ka.	gheg	Veri	Budallai nuk ka brirë.	Budallai nuk njihet nga pamja; duhet ta njohësh nga veprat.	hahn-1854-2	157	po
+hahn-157-135	Budalla brinë s'ka.	gheg	Veri	Budallai nuk ka brirë.	Budallai nuk njihet nga pamja. Duhet ta njohësh nga veprat.	hahn-1854-2	157	po
 hahn-157-136	Bjer i pragut, t'a ngjijë dera.	gheg	Veri	Bjeri pragut, ta dëgjojë dera.	I thua diçka dikujt, por në të vërtetë ia drejton tjetrit.	hahn-1854-2	157	po
 hahn-157-137	Ku âsht shpata, atje besa.	gheg	Veri	Ku është shpata, atje është besa.	Feja e vendit ndjek atë që sundon.	hahn-1854-2	157	po
 hahn-157-138	I riu, si veriu.	gheg	Veri	I riu është si veriu.	I riu është i paqëndrueshëm si era e veriut.	hahn-1854-2	157	po
-hahn-158-15	Kur e heq, mbrazetë; kur e vë, mbushetë.	tosk	Jug	Kur e heq, zbrazet; kur e vë, mbushet.	Kapela.	hahn-1854-2	159	po	gjëegjëzë
+hahn-158-15	Kur e heq, mbrazetë; kur e vë, mbushetë.	tosk	Jug	Kur e heq, zbrazet. Kur e vë, mbushet.	Kapela.	hahn-1854-2	159	po	gjëegjëzë
 hahn-158-16	Një diell ndë det.	tosk	Jug	Një diell në det.	Fitili që digjet në kandil.	hahn-1854-2	159	po	gjëegjëzë
 hahn-158-17	Një klloçkë me zogj ndën dhé.	tosk	Jug	Një klloçkë me zogj nën dhe.	Hudhra.	hahn-1854-2	159	po	gjëegjëzë
 hahn-158-18	I vogël sa një lajthi, mend' atij si kadi.	tosk	Jug	I vogël sa një lajthi, e mendja si e një gjykatësi.	Sahati i xhepit.	hahn-1854-2	159	po	gjëegjëzë
@@ -177,7 +177,7 @@ hahn-162-g55	Mijë mijë nyja, mijë mijë vrima.	gheg	Veri	Mijëra nyje, mijër
 hahn-162-g57	Meli digjet, hambari s'digjetë.	gheg	Veri	Meli digjet, hambari nuk digjet.	Duhani dhe kupa e llullës.	hahn-1854-2	162	po	gjëegjëzë
 hahn-162-g58	Dy vëllazën mbânë zjarrin ndë dorë, e s'digjenë.	gheg	Veri	Dy vëllezër mbajnë zjarrin në dorë e nuk digjen.	Mashat e zjarrit.	hahn-1854-2	162	po	gjëegjëzë
 hahn-162-g59	Katër shishe me grykë teposht.	gheg	Veri	Katër shishe me grykë poshtë.	Sisët e lopës.	hahn-1854-2	162	po	gjëegjëzë
-hahn-162-g60	Ka s'âsht, brinë ka; magjar s'âsht, samar ka; nga do shkon, lëshon sërmë.	gheg	Veri	Ka nuk është, brirë ka; gomar nuk është, samar ka; kudo që shkon, lë argjend.	Kërmilli.	hahn-1854-2	162	po	gjëegjëzë
+hahn-162-g60	Ka s'âsht, brinë ka; magjar s'âsht, samar ka; nga do shkon, lëshon sërmë.	gheg	Veri	Ka nuk është, brirë ka. Gomar nuk është, samar ka. Kudo që shkon, lë argjend.	Kërmilli.	hahn-1854-2	162	po	gjëegjëzë
 hahn-162-g61	Dy shigjetta pendë-zeza, ku të shkojnë, atje venë.	gheg	Veri	Dy shigjeta me pendë të zeza, ku duan të shkojnë, atje vejnë.	Sytë.	hahn-1854-2	162	po	gjëegjëzë
 hahn-162-g63	Mijë mijë lozinë, katër bien tokësë.	gheg	Veri	Mijëra luajnë, katër bien në tokë.	Kali kur vrapon.	hahn-1854-2	162	po	gjëegjëzë
 hahn-162-g64	Një shoshë arra mbi tjegullat.	gheg	Veri	Një shoshë arra mbi tjegulla.	Yjet.	hahn-1854-2	162	po	gjëegjëzë

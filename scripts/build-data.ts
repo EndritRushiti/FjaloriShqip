@@ -472,6 +472,8 @@ const MIN_SHOWN_USE = 5;
  * to the whole word (dialectal, archaic, rare…), and verbs that a source filed as nouns (teproj).
  */
 function addLabels(): string {
+  // korrigjime/huazime.txt: borrowed words the sources did not mark, "word | language" (empty = international)
+  const EDITOR_LOANS = new Map(readWordList("huazime.txt").map((l) => { const [w, from] = l.split("|").map((x) => x.trim()); return [w, from ? from.charAt(0).toUpperCase() + from.slice(1) : ""] as const; }));
   let loans = 0;
   let labelled = 0;
   let fixed = 0;
@@ -480,6 +482,11 @@ function addLabels(): string {
     const international = w.entries.some((e) => e.senses.some((s) => s.source === "auto" && s.gloss.endsWith("(international word)")));
     if (from || international) {
       w.loan = { from: from ?? "international" };
+      loans++;
+    }
+    const editor = EDITOR_LOANS.get(w.word);
+    if (editor !== undefined && !w.loan) {
+      w.loan = { from: editor || "international" };
       loans++;
     }
     const senses = w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto");

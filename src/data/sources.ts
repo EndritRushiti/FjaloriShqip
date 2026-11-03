@@ -103,7 +103,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
       en: "Albanian words missing from the other sources: the Albanian entries of these editions and their translations into Albanian. A word is added only when it is used in Wikipedia or MaCoCu, or attested by at least two editions.",
     },
     notUsed: {
-      sq: "Kuptimet në frëngjisht, gjermanisht etj. nuk shfaqen; fjalët pa kuptim anglisht e tregojnë këtë.",
+      sq: "Kuptimet në frëngjisht, gjermanisht etj. nuk shfaqen, fjalët pa kuptim anglisht e tregojnë këtë.",
       en: "Meanings written in French, German etc. are not shown; words without an English meaning say so.",
     },
   },
@@ -180,7 +180,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Domain publik / Public domain",
     licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
     usedFor: {
-      sq: "Format arbëreshe (Itali: Kalabri, Siçili; nga Rada, Camarda, Santori, Schirò etj.) dhe arvanitase (Greqi: Hidra, Poros, Salaminë etj., kryesisht nga Reinhold) që Meyer i shënon me burimin e tyre. Fjalët i kthejmë nga shkrimi fonetik i Meyer-it në drejtshkrimin e sotëm (ε → ë, š → sh, l → ll, l' → l…) dhe kuptimet i përkthejmë nga gjermanishtja në anglisht. Faqja e librit për çdo formë ruhet te skedari dialekte/meyer-1891.tsv. Vepra është në domen publik (autori vdiq më 1900).",
+      sq: "Format arbëreshe (Itali: Kalabri, Siçili, nga Rada, Camarda, Santori, Schirò etj.) dhe arvanitase (Greqi: Hidra, Poros, Salaminë etj., kryesisht nga Reinhold) që Meyer i shënon me burimin e tyre. Fjalët i kthejmë nga shkrimi fonetik i Meyer-it në drejtshkrimin e sotëm (ε → ë, š → sh, l → ll, l' → l…) dhe kuptimet i përkthejmë nga gjermanishtja në anglisht. Faqja e librit për çdo formë ruhet te skedari dialekte/meyer-1891.tsv. Vepra është në domen publik (autori vdiq më 1900).",
       en: "Arbëresh (Italy: Calabria, Sicily; from Rada, Camarda, Santori, Schirò etc.) and Arvanitika (Greece: Hydra, Poros, Salamis etc., mostly from Reinhold) forms that Meyer marks with their source. We convert the words from Meyer's phonetic spelling into today's spelling (ε → ë, š → sh, l → ll, l' → l…) and translate the meanings from German into English. The page of the book for each form is kept in the file dialekte/meyer-1891.tsv. The work is in the public domain (the author died in 1900).",
     },
     notUsed: {
@@ -197,7 +197,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Domain publik / Public domain",
     licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
     usedFor: {
-      sq: "Disa forma gege që ndryshojnë nga gjuha standarde, secila e lidhur me fjalën standarde përkatëse; fjalët kthehen nga drejtshkrimi i vjetër në atë të sotëm dhe kuptimet përkthehen nga italishtja. Vepra është në domen publik.",
+      sq: "Disa forma gege që ndryshojnë nga gjuha standarde, secila e lidhur me fjalën standarde përkatëse, fjalët kthehen nga drejtshkrimi i vjetër në atë të sotëm dhe kuptimet përkthehen nga italishtja. Vepra është në domen publik.",
       en: "A few Gheg forms that differ from the standard language, each linked to its standard word; the words are converted from the old spelling into today's and the meanings translated from Italian. The work is in the public domain.",
     },
     notUsed: {
@@ -231,7 +231,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "CC BY 2.0 FR",
     licenceUrl: "https://creativecommons.org/licenses/by/2.0/fr/",
     usedFor: {
-      sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një; secila lidhet me faqen e saj në Tatoeba.",
+      sq: "Fjali shembull shqip me përkthimin anglisht, të përzgjedhura e të rishikuara një nga një, secila lidhet me faqen e saj në Tatoeba.",
       en: "Albanian example sentences with their English translation, selected and reviewed one by one; each links to its page on Tatoeba.",
     },
     notUsed: {
@@ -248,11 +248,11 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Domain publik / Public domain",
     licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
     usedFor: {
-      sq: "Fjalë e forma gege e toske, të kthyera nga alfabeti i Kristoforidhit me shkronja greke në drejtshkrimin e sotëm; kuptimet të përkthyera nga greqishtja. Përshkrimet shqip janë tonat. Vepra është në domen publik (autori vdiq më 1895).",
+      sq: "Fjalë e forma gege e toske, të kthyera nga alfabeti i Kristoforidhit me shkronja greke në drejtshkrimin e sotëm, kuptimet të përkthyera nga greqishtja. Përshkrimet shqip janë tonat. Vepra është në domen publik (autori vdiq më 1895).",
       en: "Gheg and Tosk words and forms, converted from Kristoforidhi's Greek-letter alphabet to today's spelling; meanings translated from Greek. The Albanian descriptions are our own. The work is in the public domain (the author died in 1895).",
     },
     notUsed: {
-      sq: "Skanimi dhe teksti grek nuk ribotohen; merren vetëm fjalët dhe kuptimet.",
+      sq: "Skanimi dhe teksti grek nuk ribotohen, merren vetëm fjalët dhe kuptimet.",
       en: "The scan and the Greek text are not republished; only the words and their meanings are taken.",
     },
   },
@@ -269,7 +269,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
       en: "Rare Gheg words from the North, with where they are used and the standard word where there is one. The Albanian descriptions are our own. The work is in the public domain (the author died in 1946).",
     },
     notUsed: {
-      sq: "Përkufizimet e Gazullit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre.",
+      sq: "Përkufizimet e Gazullit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre.",
       en: "Gazulli's definitions are not copied; only the words and their meaning are taken.",
     },
   },  "dozon-1879": {
@@ -285,7 +285,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
       en: "Tosk forms from the book's Albanian–French vocabulary, each linked to its standard word. We convert the words from Dozon's spelling into today's (œ → ë, ç → sh, ou → u, ky → q…) and translate the meanings from French. The Albanian descriptions are our own. The work is in the public domain (the author died in 1890).",
     },
     notUsed: {
-      sq: "Përkufizimet e Dozonit nuk kopjohen; merren vetëm fjalët dhe kuptimi i tyre. Fjalët turke e greke të fjalorthit lihen jashtë.",
+      sq: "Përkufizimet e Dozonit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Fjalët turke e greke të fjalorthit lihen jashtë.",
       en: "Dozon's definitions are not copied; only the words and their meaning are taken. The Turkish and Greek loans in the vocabulary are left out.",
     },
   },
@@ -387,7 +387,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Domen publik / Public domain",
     licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
     usedFor: {
-      sq: "Fjalë të vjetra dhe krahinore (gege e toske) që mungonin, me klasën e fjalës, dialektin dhe kuptimin. Fjalorin e shkroi Hahn me alfabet greko-latin; fjalët i kthejmë në drejtshkrimin e sotëm dhe përshkrimet shqip i shkruajmë vetë.",
+      sq: "Fjalë të vjetra dhe krahinore (gege e toske) që mungonin, me klasën e fjalës, dialektin dhe kuptimin. Fjalorin e shkroi Hahn me alfabet greko-latin, fjalët i kthejmë në drejtshkrimin e sotëm dhe përshkrimet shqip i shkruajmë vetë.",
       en: "Old and regional words (Gheg and Tosk) that were missing, with their word class, dialect and meaning. Hahn wrote Albanian in a Greek-based alphabet; we convert the words to today's spelling and write the Albanian descriptions ourselves.",
     },
     notUsed: {
