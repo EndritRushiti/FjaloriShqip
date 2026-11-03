@@ -1579,7 +1579,9 @@ function apiWord(w: Word): object {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
   }
-  for (const w of words) pages.push(`/fjala/${encodeURIComponent(slug(w.word))}/`);
+  // the most used words first: a young site gets a small crawl, and it should not go to rare words beginning with A
+  const byUse = [...words].sort((a, b) => (b.frequency ?? 0) - (a.frequency ?? 0) || (a.word < b.word ? -1 : 1));
+  for (const w of byUse) pages.push(`/fjala/${encodeURIComponent(slug(w.word))}/`);
   const SITEMAP_SIZE = 10_000; // the limit is 50,000 URLs per file; smaller files are quicker to fetch
   const sitemapCount = Math.ceil(pages.length / SITEMAP_SIZE);
   if (SITE_URL) {
