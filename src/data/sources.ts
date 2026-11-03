@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802";
 
 export interface SourceInfo {
   id: SourceId;
@@ -361,6 +361,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tabelat e lakimit nuk ribotohen.",
       en: "The inflection tables are not republished.",
+    },
+  },
+  "voskopojari-1802": {
+    id: "voskopojari-1802",
+    name: "Dhanil Voskopojari, Eisagogiki didaskalia (1802)",
+    publisher: "Dhanil Voskopojari (rreth 1754–1825). Teksti i kontrolluar në Wikisource",
+    url: "https://wikisource.org/wiki/Index:Eisagogiki-Didaskalia.pdf",
+    downloadUrl: "https://wikisource.org/wiki/Index:Eisagogiki-Didaskalia.pdf",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma toske të Voskopojës nga libri me fraza në katër gjuhë, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkronjat greke në drejtshkrimin e sotëm.",
+      en: "Tosk forms of Voskopojë from the four-language phrase book, each linked to its standard word. We convert the words from Greek letters into today's spelling.",
+    },
+    notUsed: {
+      sq: "Merren vetëm fjalët dhe kuptimi i tyre. Trajtat e pasigurta lihen jashtë.",
+      en: "Only the words and their meaning are taken. Uncertain forms are left out.",
     },
   },
   "xylander-1835": {

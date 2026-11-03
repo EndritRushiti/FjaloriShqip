@@ -757,7 +757,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -1029,6 +1029,8 @@ function sourcesPage(): string {
       sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
     { title: "Uniparser: leksiku i gjuhës shqipe", author: "Maria Morozova, Alexander Rusakov dhe bashkautorë", link: "https://github.com/uniparser", licence: "MIT", licenceUrl: "https://opensource.org/license/mit",
       sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht, përshkrimet shqip janë tonat.", en: "Rare and rich words that were missing, with their word class and English meaning; the Albanian descriptions are our own." },
+    { title: "Dhanil Voskopojari, Eisagogiki didaskalia (1802)", author: "Dhanil Voskopojari", link: "https://wikisource.org/wiki/Index:Eisagogiki-Didaskalia.pdf", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Forma toske të Voskopojës, secila e lidhur me fjalën standarde.", en: "Tosk forms of Voskopojë, each linked to its standard word." },
     { title: "Xylander, Die Sprache der Albanesen (1835)", author: "Josef von Xylander", link: "https://archive.org/details/diesprachederal00xylagoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma toske nga fjalorthi i librit, secila e lidhur me fjalën standarde.", en: "Tosk forms from the book's vocabulary, each linked to its standard word." },
     { title: "Folësit e dialekteve", author: "Folës vendas; të kontrolluara nga redaktori i FjaloriShqip", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
