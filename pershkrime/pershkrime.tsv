@@ -23,7 +23,7 @@ përgjithshëm	Që vlen për të gjithë ose për shumicën, jo vetëm për një
 vogël	Që ka përmasa, sasi ose moshë më pak se zakonisht. Jo i madh.
 komunë	Njësi e qeverisjes vendore, që përfshin një qytet ose disa fshatra me administratën e tyre.
 mars	Muaji i tretë i vitit, ndërmjet shkurtit dhe prillit. Ka 31 ditë.
-popullsi	Të gjithë banorët e një vendi, qyteti ose zone.
+popullsi	Të gjithë banorët e një vendi, qyteti a zone. Numërohet zakonisht me regjistrim.
 qershor	Muaji i gjashtë i vitit, ndërmjet majit dhe korrikut. Ka 30 ditë.
 janar	Muaji i parë i vitit, ndërmjet dhjetorit dhe shkurtit. Ka 31 ditë.
 shtator	Muaji i nëntë i vitit, ndërmjet gushtit dhe tetorit. Ka 30 ditë.
@@ -39,7 +39,7 @@ vjetër	Që ka jetuar ose ka ekzistuar prej shumë kohësh. Që nuk është i ri
 ditë	Koha nga lindja deri në perëndimin e diellit. Edhe një periudhë prej njëzet e katër orësh.
 kryeministër	Kreu i qeverisë në një vend, që drejton punën e ministrave.
 vit	Koha prej dymbëdhjetë muajsh, sa i duhet Tokës për t'u rrotulluar një herë rreth Diellit.
-fillim	Pika ose çasti kur nis diçka. Pjesa e parë e saj.
+fillim	Pika a çasti kur nis diçka. Pjesa e parë e saj, e kundërta e fundit.
 shembull	Diçka që tregohet për të sqaruar ose për të provuar një gjë. Edhe model që duhet ndjekur.
 kryesor	Më i rëndësishmi ndër të tjerët. Ai që qëndron në krye.
 numër	Shenjë ose fjalë që tregon një sasi a një radhë. Edhe shifra që i jepet diçkaje për ta dalluar.
@@ -63,7 +63,7 @@ gjë	Çdo send, objekt ose çështje që nuk e emërtojmë veçmas.
 vërtetë	Që përputhet me atë që është në të vërtetë. I saktë, jo i rremë.
 fëmijë	Njeri në moshë të vogël, që nga lindja deri te rinia. Edhe biri ose bija e dikujt.
 botë	Planeti Tokë me gjithçka që gjendet në të. Edhe njerëzit, shoqëria.
-ndërkombëtar	Që ka të bëjë me disa kombe ose shtete njëherësh.
+ndërkombëtar	Që ka të bëjë me disa kombe a shtete njëherësh. Thuhet për marrëveshje, për gara dhe për organizata.
 vdekje	Fundi i jetës së një krijese. Përdoret edhe për humbjen e madhe a për fundin e diçkaje.
 shqip	Në gjuhën shqipe. Përdoret edhe si emër për vetë gjuhën.
 libër	Tërësi fletësh të shkruara a të shtypura, të lidhura bashkë. Përdoret edhe për një vepër të shkruar.
@@ -72,9 +72,9 @@ vjeç	Që ka aq vjet moshë. Përdoret pas numrit, dhjetë vjeç.
 frëngjisht	Gjuha e popullit francez, që flitet në Francë dhe në vende të tjera.
 shkollë	Institucion ku fëmijët dhe të rinjtë mësojnë. Përdoret edhe për një grup dijetarësh me të njëjtat ide.
 gjermane	Grua ose vajzë nga Gjermania. Edhe që i përket Gjermanisë (gjinia femërore).
-bardhë	Që ka ngjyrën e borës ose të qumështit.
+bardhë	Që ka ngjyrën e borës a të qumështit. Thuhet edhe për njeriun e pastër në vepra.
 mbret	Sundimtari i një mbretërie, që zakonisht e trashëgon fronin. Edhe figurë kryesore e shahut.
-shkurtër	Që ka gjatësi ose kohëzgjatje të vogël.
+shkurtër	Që ka gjatësi a kohëzgjatje të vogël. E kundërta e të gjatit.
 emër	Fjala me të cilën thirret ose quhet dikush ose diçka. Edhe pjesë e ligjëratës që emërton sende e qenie.
 qëllim	Ajo që dëshiron të arrish. Arsyeja përse bën diçka.
 milion	Numri një mijë herë një mijë (1 000 000).
@@ -106,7 +106,7 @@ francez	Banor ose qytetar i Francës. Edhe që i përket Francës.
 drejtë	Që shkon në një vijë pa u lakuar. Edhe i ndershëm, i paanshëm, sipas së vërtetës.
 luftë	Përleshje e armatosur ndërmjet vendeve ose grupeve. Edhe përpjekje e fortë kundër diçkaje.
 unë	Përemër që përdor folësi për veten e tij.
-qartë	Që shihet ose kuptohet lehtë, pa paqartësi.
+qartë	Që shihet a kuptohet lehtë. Thuhet për ujë, për qiell, për zë dhe për mendime.
 profesor	Mësues në shkollë të mesme ose në universitet. Edhe titull shkencor i lartë.
 rrugë	Shteg ose sipërfaqe e shtruar ku ecin njerëz dhe automjete. Edhe mënyra për të arritur diçka.
 ndryshëm	Që nuk është i njëjtë me një tjetër. Që dallon.
@@ -119,13 +119,13 @@ artë	I bërë prej ari. Që ka ngjyrën e arit.
 thellë	Që shkon shumë poshtë nga sipërfaqja. Edhe që ka mendim ose ndjenjë të fortë.
 fuqi	Aftësia për të vepruar, për të ngritur ose për të ndikuar. Forcë.
 huaj	Që është nga një vend ose popull tjetër. Edhe që nuk është i yni.
-finale	Ndeshja ose gara e fundit, që vendos fituesin.
+finale	Ndeshja a gara e fundit, që vendos fituesin. Edhe pjesa e fundit e një vepre muzikore.
 shpejtë	Që lëviz ose bëhet në pak kohë.
-çështje	Problem ose temë që duhet shqyrtuar a zgjidhur.
+çështje	Problem a temë që duhet shqyrtuar a zgjidhur. Në gjykatë, rasti që po gjykohet.
 zyrtar	Që vjen nga shteti ose nga një institucion dhe ka vlerë ligjore. Edhe nëpunës i shtetit.
 krishterë	Që i përket krishterimit ose besimtarëve të Krishtit.
 vështirë	Që kërkon shumë mund ose aftësi për t'u bërë ose kuptuar.
-gjysmë	Secila nga dy pjesët e barabarta të diçkaje.
+gjysmë	Secila nga dy pjesët e barabarta të diçkaje. Përdoret edhe për diçka të papërfunduar.
 lartësi	Largësia nga poshtë lart ose nga niveli i detit.
 fitore	Mundja e kundërshtarit në luftë, në ndeshje ose në garë.
 kulturor	Që ka të bëjë me kulturën, artin ose arsimin.
@@ -136,16 +136,16 @@ shkencor	Që i përket shkencës ose që mbështetet në metodat e saj.
 rrjedh	Lëviz si ujë që shkon (lumi rrjedh). Edhe buron, del nga diçka.
 gati	I përgatitur për të bërë diçka. Edhe pothuajse, afro.
 dorë	Pjesa e trupit nga kyçi te gishtërinjtë. Përdoret edhe për pushtetin ose për ndihmën që i jep dikush.
-shtesë	Diçka që i shtohet asaj që është. Pjesë e shtuar.
+shtesë	Diçka që i shtohet asaj që është. Edhe para të tjera mbi rrogë.
 lind	Vij në jetë. Edhe nëna lind fëmijën. Dielli lind kur del në mëngjes.
-mësues	Personi që u mëson nxënësve në shkollë.
-kuq	Që ka ngjyrën e gjakut.
-mundësi	Rasti ose rrethana që lejon të bëhet diçka.
+mësues	Personi që u mëson nxënësve në shkollë. Dita e mësuesit në Shqipëri kremtohet më 7 mars.
+kuq	Që ka ngjyrën e gjakut. Thuhet edhe për fytyrën nga turpi a nga inati.
+mundësi	Rasti a rrethana që lejon të bëhet diçka. Në shumës, paratë a aftësitë që ka dikush.
 njeri	Qenie e arsyeshme që flet dhe mendon. Edhe një person i çfarëdoshëm, ose i afërmi i dikujt.
 drejtim	Ana nga e cila shkon ose kthehet diçka. Edhe udhëheqja e një pune a institucioni.
 shkrimtar	Personi që shkruan vepra letrare, si romane, tregime ose poezi.
-gjallë	Që ka jetë, që nuk ka vdekur. Edhe plot energji.
-famshëm	Që e njohin shumë njerëz. I njohur gjerësisht.
+gjallë	Që ka jetë, që nuk ka vdekur. Edhe plot energji, ose i ndezur si ngjyrë.
+famshëm	Që e njohin shumë njerëz. Thuhet për artistë, për vende dhe për vepra.
 djathtë	Ana e trupit ku shumica e njerëzve kanë dorën më të zonja. E kundërta e së majtës.
 hap	Bëj që diçka e mbyllur të jetë e hapur (derën, librin). Edhe nis diçka.
 titull	Emri i një libri, filmi, kënge ose vepre. Edhe gradë ose nder që i jepet dikujt.
@@ -161,26 +161,26 @@ marrëveshje	Vendim i përbashkët ose kontratë mes dy ose më shumë palëve.
 majtë	Ana e kundërt me të djathtën. Edhe rryma politike e majtë.
 lindor	Që ndodhet në lindje ose i përket Lindjes.
 anije	Mjet i madh lundrimi që udhëton në det, në lumë ose në liqen.
-shpall	Bëj të ditur publikisht, njoftoj zyrtarisht.
+shpall	Bëj të ditur publikisht, njoftoj zyrtarisht. Thuhet për luftë, për pavarësi dhe për fitues.
 britanik	Që i përket Britanisë së Madhe ose banorëve të saj.
 mbarë	I tërë (mbarë vendi). Edhe siç duhet, me fat (punë e mbarë).
-akoma	Ende, gjer tani. Edhe edhe më shumë.
+akoma	Ende, gjer tani. Përdoret edhe për të theksuar, si te «akoma më mirë».
 armë	Mjet për të sulmuar ose për t'u mbrojtur, si pushka, shpata etj.
-fuqishëm	Që ka shumë fuqi ose forcë.
+fuqishëm	Që ka shumë fuqi a forcë. Thuhet për njerëz, për shtete dhe për ilaçe.
 model	Diçka që shërben si shembull për t'u ndjekur ose kopjuar. Edhe lloj i caktuar i një sendi.
 man	Pemë frutore me gjethe të gjera, me kokrra të vogla të ëmbla (mana). Edhe frutat e saj.
 klub	Shoqatë njerëzish me interesa të përbashkëta, ose skuadër sportive. Edhe vendi ku mblidhen.
 hapësirë	Vend i lirë ose i zbrazët. Edhe kozmosi përtej atmosferës së Tokës.
 marrëdhënie	Lidhja ose mënyra si sillen me njëri-tjetrin njerëzit, grupet ose shtetet.
-bukur	Që të pëlqen kur e sheh ose e dëgjon. I hijshëm.
+bukur	Që të pëlqen kur e sheh a e dëgjon. Si ndajfolje, në mënyrë të këndshme a mjaft.
 javë	Kohë prej shtatë ditësh, nga e hëna deri të dielën.
 ngjyrë	Përshtypja që na jep drita kur bie mbi sende (e kuqe, e kaltër etj.). Edhe bojë.
-aftësi	Zotësia për të bërë diçka mirë.
+aftësi	Zotësia për të bërë diçka mirë. Mund të lindë me njeriun a të fitohet me stërvitje.
 kam	Zotëroj diçka, më përket. Edhe folje ndihmëse për kohët e përbëra (kam punuar).
 fetar	Që lidhet me fenë. Edhe që e ndjek me përkushtim një fe.
 afërt	Që ndodhet afër në vend ose në kohë. Edhe i afërm, farefis.
 japonez	Banor ose qytetar i Japonisë. Edhe që i përket Japonisë.
-ngjashëm	Që i përngjan diçkaje tjetër. Pothuajse i njëjtë.
+ngjashëm	Që i përngjan diçkaje tjetër. Thuhet për njerëz, për gjëra dhe për raste.
 detyrë	Ajo që duhet bërë sipas përgjegjësisë. Edhe punë që u jepet nxënësve.
 bar	Bimë e gjelbër me kërcell të butë që mbulon tokën dhe e hanë kafshët.
 bie	Shkoj nga lart poshtë nga pesha ime (bie shiu, bie përtokë). Edhe godas.
@@ -194,13 +194,13 @@ degë	Pjesë e pemës që del nga trungu. Edhe pjesë e një institucioni ose e 
 televiziv	Që ka të bëjë me televizionin.
 jashtëm	Që ndodhet jashtë. Që vjen nga jashtë ose nga një vend tjetër.
 këmbë	Gjymtyra e trupit me të cilën ecim. Edhe pjesa mbajtëse e një tryeze a e një karrigeje.
-keq	Që nuk është i mirë. Që sjell dëm ose pakënaqësi.
+keq	Që nuk është i mirë, që sjell dëm a pakënaqësi. Si ndajfolje, në mënyrë jo të mirë.
 dukshëm	Që shihet lehtë. Edhe qartazi, në mënyrë të dukshme.
 lojë	Veprimtari për argëtim, me rregulla ose pa to. Edhe lodër.
 jugor	Që ndodhet në jug ose i përket Jugut.
 shpejtësi	Sa shpejt lëviz ose bëhet diçka. Distanca e përshkuar në një njësi kohe.
 letërsi	Tërësia e veprave të shkruara me vlerë artistike, si romanet, tregimet dhe poezitë.
-natyror	Që vjen nga natyra, pa ndërhyrjen e njeriut.
+natyror	Që vjen nga natyra, pa ndërhyrjen e njeriut. Edhe i zakonshëm, i pritshëm.
 studiues	Personi që merret me kërkime shkencore në një fushë.
 # Grupi 2 (2026-10-10): fjalët e faqes kryesore, sipas përdorimit.
 jam	Folja që tregon se dikush ose diçka ekziston, ndodhet diku ose ka një cilësi (jam mirë, jam në shtëpi). Edhe folje ndihmëse.
@@ -211,7 +211,7 @@ marr	Kap diçka me dorë ose e bëj timen. Edhe pranoj atë që më japin.
 lidh	Bashkoj dy gjëra me spango, litar ose në mënyrë tjetër që të mos ndahen. Edhe krijoj lidhje mes gjërash.
 qeveri	Organi që drejton punët e një shteti. Përbëhet nga kryeministri dhe ministrat.
 mbaj	Kam diçka në dorë ose mbi vete pa e lëshuar. Edhe ruaj, kujdesem për diçka.
-filloj	Nis të bëj diçka. Bëj hapin e parë të një pune.
+filloj	Nis të bëj diçka, bëj hapin e parë të një pune. Thuhet edhe për ngjarjet, si te «filloi shiu».
 grua	Njeri i rritur i gjinisë femërore. Edhe bashkëshortja e dikujt.
 studim	Puna për të mësuar ose për të hulumtuar diçka në mënyrë të thelluar. Edhe shkrim shkencor mbi një temë.
 parti	Organizatë politike me njerëz që kanë të njëjtat ide dhe synojnë të marrin pushtetin.
@@ -223,7 +223,7 @@ ndryshim	Kalimi nga një gjendje në një tjetër. Edhe dallimi midis dy gjërav
 serb	Pjesëtar i popullit serb ose banor i Serbisë.
 shoqëri	Tërësia e njerëzve që jetojnë së bashku në një vend. Edhe miqësi, edhe, kompani tregtare.
 kaloj	Shkoj përtej diçkaje ose pranë saj. Edhe e kaloj kohën duke bërë diçka.
-mbrojtje	Ruajtja nga një rrezik, sulm ose dëm.
+mbrojtje	Ruajtja nga një rrezik, sulm a dëm. Në sport, pjesa e skuadrës që pengon kundërshtarin.
 popull	Bashkësi njerëzish me gjuhë, me histori dhe me zakone të përbashkëta. Edhe shumica e banorëve të një vendi.
 arsim	Sistemi i shkollave dhe i mësimdhënies. Edhe dija që merr dikush duke mësuar.
 trup	Tërësia e pjesëve që përbëjnë njeriun ose kafshën. Edhe çdo send që zë vend në hapësirë.
@@ -234,9 +234,9 @@ sjell	Marr diçka dhe e çoj tek dikush ose në një vend. Edhe shkaktoj.
 zgjedhje	Veprimi i të zgjedhurit midis disa mundësive. Edhe votimi për të zgjedhur deputetë a drejtues.
 shkoj	Lëviz nga një vend në një tjetër. Edhe ecën, kalon (koha shkon).
 fitoj	Dal fitues në një lojë ose luftë. Edhe marr para ose dobi nga një punë.
-ndihmë	Përkrahja që i japim dikujt që ka nevojë.
+ndihmë	Përkrahja që i japim dikujt që ka nevojë. Mund të jetë me punë, me para a me fjalë.
 bashkim	Veprimi i të bashkuarit të disa pjesëve ose njerëzve në një të vetme. Edhe aleancë, union.
-shumicë	Pjesa më e madhe e një grupi. Më shumë se gjysma.
+shumicë	Pjesa më e madhe e një grupi, më shumë se gjysma. E kundërta e pakicës.
 djalë	Fëmijë ose i ri i gjinisë mashkullore. Edhe biri i dikujt.
 pushtet	Fuqia për të drejtuar dhe për të marrë vendime, sidomos në shtet.
 ushtri	Forcat e armatosura të një shteti. Përdoret edhe për një numër të madh njerëzish.
@@ -248,7 +248,7 @@ moshë	Sa vjet ka jetuar dikush. Edhe periudhë e jetës (mosha e rinisë).
 energji	Fuqia që nevojitet për të vepruar ose për të vënë diçka në lëvizje. Edhe rryma elektrike, nxehtësia etj.
 vajzë	Fëmijë ose e re e gjinisë femërore. Edhe bija e dikujt.
 rus	Që i përket Rusisë ose rusëve. Edhe banor i Rusisë.
-veprim	Ajo që bën dikush. Një punë ose lëvizje e kryer.
+veprim	Ajo që bën dikush, një punë a lëvizje e kryer. Në matematikë, mbledhja a zbritja.
 sërë	Varg gjërash të njëjta ose të ngjashme që vijnë njëra pas tjetrës.
 funksion	Detyra ose roli që ka diçka ose dikush. Edhe në matematikë, lidhja midis dy madhësive.
 shpreh	Tregoj me fjalë, me shenja ose me vepra atë që mendoj ose ndiej.
@@ -264,8 +264,8 @@ punoj	Bëj një punë. Kryej një veprimtari për të prodhuar diçka ose për t
 përfaqësues	Personi që flet ose vepron në emër të të tjerëve.
 det	Masë e madhe uji të kripur. Përdoret edhe për një sasi shumë të madhe.
 sëmundje	Gjendje e trupit ose e mendjes kur nuk punon si duhet. Mungesë shëndeti.
-shkrim	Veprimi i të shkruarit. Edhe tekst i shkruar.
-nxënës	Fëmijë ose i ri që mëson në shkollë.
+shkrim	Veprimi i të shkruarit. Edhe një tekst i shkruar, ose shkronjat e dikujt.
+nxënës	Fëmijë a i ri që mëson në shkollë. Përdoret edhe për atë që mëson nga një mjeshtër.
 interes	Vëmendja ose kureshtja për diçka. Edhe dobia. Edhe kamata që jep banka.
 besim	Siguria se dikush ose diçka është e vërtetë ose e besueshme. Edhe feja.
 burrë	Mashkull i rritur. Edhe bashkëshorti i një gruaje, ose njeri trim e i ndershëm.
@@ -275,13 +275,13 @@ gjini	Në gramatikë, mashkullore, femërore ose asnjanëse. Edhe farefis, fis.
 jetoj	Jam gjallë dhe e kaloj kohën time. Përdoret edhe për vendin ku banoj.
 verior	Që ndodhet në veri ose i përket veriut.
 qark	Njësi administrative në Shqipëri. Edhe rreth, qarkullim, edhe, qark elektrik.
-sasi	Sa shumë është diçka. Masa, numri.
+sasi	Sa shumë është diçka, masa a numri. E kundërta e cilësisë.
 natë	Koha nga perëndimi deri në lindjen e diellit. Është e kundërta e ditës.
 kujdes	Vëmendja që tregon për të mos bërë gabim ose për të ruajtur dikë a diçka.
 njerëzor	Që i përket njeriut. Edhe i mirë, i dhembshur me të tjerët.
 ushqim	Ajo që hamë dhe pimë për të jetuar e për t'u rritur.
 kusht	Ajo që duhet të plotësohet që të ndodhë diçka tjetër.
-park	Kopsht i madh publik me pemë, lule dhe stola.
+park	Kopsht i madh publik me pemë, lule dhe stola. Edhe tërësia e makinave të një ndërmarrjeje.
 mësim	Ajo që mësohet në shkollë në një orë. Edhe përvojë nga e cila nxjerr një mësim.
 dritë	Ajo që na lejon të shohim, që vjen nga dielli, nga llamba ose nga zjarri.
 kërkesë	Ajo që kërkon dikush me gojë ose me shkrim. Edhe nevojë, domosdoshmëri.
@@ -291,11 +291,11 @@ asgjë	Asnjë gjë, as më e vogla gjë.
 simbol	Shenjë ose figurë që përfaqëson një ide, një vend ose një send.
 komb	Bashkësi njerëzish me gjuhë, histori dhe kulturë të përbashkët.
 sulm	Veprimi i të sulmuarit dikë ose diçka me forcë. Edhe në sport, loja drejt portës kundërshtare.
-betejë	Përleshje e madhe e armatosur në një luftë.
+betejë	Përleshje e madhe e armatosur në një luftë. Përdoret edhe për një përpjekje të vështirë.
 prejardhje	Vendi ose familja nga vjen dikush ose diçka. Origjina.
 shenjë	Diçka që tregon ose paralajmëron diçka tjetër. Edhe vijë, gjurmë ose simbol.
 territor	Sipërfaqe toke që i përket një shteti, një qyteti ose një grupi.
-perandor	Sundimtari i një perandorie.
+perandor	Sundimtari i një perandorie. Titulli më i lartë mbi mbretin.
 rregullt	Që bëhet sipas rregullit. Edhe i pastër dhe i vendosur mirë.
 krahasim	Vënia e dy ose më shumë gjërave pranë njëra-tjetrës për të parë ngjashmëritë dhe ndryshimet.
 gjykatë	Institucioni që gjykon çështjet sipas ligjit dhe jep vendime.
@@ -303,15 +303,15 @@ mbyll	Bëj që diçka e hapur të mos jetë më e hapur (derën, librin). Edhe p
 kafshë	Qenie e gjallë që lëviz dhe ushqehet, ndryshe nga bimët. Zakonisht nuk përfshin njeriun.
 mik	Njeri i afërt me të cilin lidhesh me besim. Edhe mysafiri që vjen në shtëpi.
 mbrojtës	Ai që mbron dikë ose diçka. Edhe lojtar që luan në mbrojtje.
-pyetje	Ajo që pyet dikush kur kërkon të dijë diçka.
+pyetje	Ajo që thuhet kur kërkon të dish diçka. Në shkrim mbaron me pikëpyetje.
 gur	Copë e fortë shkëmbi, e madhe a e vogël. Shërben për ndërtim dhe përdoret figurativisht për gjënë e fortë a pa ndjenja.
 përgjegjës	Personi që ka për detyrë të kujdeset për diçka dhe jep llogari për të. Edhe i ndërgjegjshëm për detyrat e veta.
 kufi	Vija që ndan dy shtete, dy toka ose dy vende. Edhe pika përtej së cilës nuk shkohet.
 lumë	Rrjedhë e madhe uji që shkon drejt detit. Përdoret edhe për një sasi të madhe në lëvizje.
-anglez	Banor i Anglisë. Edhe që i përket Anglisë.
-femër	Qenie e gjinisë që lind fëmijë ose bën vezë.
+anglez	Banor i Anglisë ose pjesëtar i këtij populli. Edhe që i përket Anglisë.
+femër	Qenie e gjinisë që lind fëmijë a bën vezë. Thuhet për njerëz dhe për kafshë, e kundërta e mashkullit.
 dobët	Që nuk ka forcë. Edhe i hollë nga trupi. Që nuk është i mirë (notë e dobët).
-rrezik	Mundësia që të ndodhë diçka e keqe ose e dëmshme.
+rrezik	Mundësia që të ndodhë diçka e keqe a e dëmshme. Edhe njeriu a gjëja që e sjell.
 fitues	Ai që fiton në një garë, lojë, luftë ose zgjedhje.
 dëshmi	Ajo që provon se diçka është e vërtetë. Edhe dokument zyrtar.
 egër	Që jeton i lirë në natyrë, jo i zbutur. Edhe i ashpër, i vrazhdë.
@@ -326,10 +326,10 @@ kërkim	Përpjekja për të gjetur diçka. Edhe studim shkencor.
 përfundim	Fundi i diçkaje. Edhe ajo që nxjerr dikush si rezultat i një arsyetimi.
 zhvendos	Lëviz diçka ose dikë nga një vend në një tjetër.
 njohuri	Ajo që di dikush për një fushë ose për një çështje.
-kampion	Fituesi i një gare ose i një kampionati.
+kampion	Fituesi i një gare a kampionati. Edhe mostër e vogël e një malli.
 duhur	Që përshtatet me rastin. I nevojshëm, siç duhet.
-mendim	Ajo që mendon dikush. Ide, gjykim.
-ishull	Copë toke e rrethuar nga të gjitha anët me ujë.
+mendim	Ajo që mendon dikush, një ide a gjykim. Edhe aftësia e njeriut për të arsyetuar.
+ishull	Copë toke e rrethuar nga të gjitha anët me ujë. Sazani është ishulli më i madh i Shqipërisë.
 ndërtesë	Ndërtim me mure dhe çati, si shtëpi, shkollë ose zyrë.
 lëviz	Ndryshoj vendin ose pozicionin. Edhe vë diçka në lëvizje.
 guvernator	Personi që drejton një krahinë, një shtet të një federate ose bankën qendrore.
@@ -341,15 +341,15 @@ këshill	Grup njerëzish që mblidhen për të shqyrtuar çështje dhe për të 
 këngëtar	Personi që këndon, sidomos si profesion.
 afërsi	Të qenët afër në vend ose në kohë. Edhe lidhje e ngushtë mes njerëzve.
 veçanti	Tipar që e dallon diçka nga të tjerat.
-sjellje	Mënyra si sillet ose vepron dikush.
-mbretëri	Shtet që drejtohet nga një mbret ose mbretëreshë.
+sjellje	Mënyra si sillet a vepron dikush. Në shkollë, nota për qëndrimin e nxënësit.
+mbretëri	Shtet që drejtohet nga një mbret a mbretëreshë. Shqipëria ishte mbretëri nga viti 1928 deri më 1939.
 muzikor	Që ka të bëjë me muzikën.
-cilësi	Tipar që ka diçka. Edhe sa i mirë është diçka.
-vrasje	Marrja e jetës së dikujt.
+cilësi	Tipar që ka diçka. Edhe sa e mirë është, e kundërta e sasisë.
+vrasje	Marrja e jetës së dikujt. Është nga krimet më të rënda.
 plan	Përgatitje paraprake e asaj që do të bëhet dhe si do të bëhet. Edhe vizatim i një ndërtese a vendi.
 ashpër	Që nuk është i lëmuar. Edhe i vrazhdë, i rreptë në sjellje.
 pastër	Që nuk ka papastërti. Edhe i patrazuar, i kulluar.
-krim	Veprim i rëndë që e ndalon ligji dhe dënohet.
+krim	Veprim i rëndë që e ndalon ligji dhe dënohet. Përdoret edhe për diçka shumë të padrejtë.
 vëlla	Djalë a burrë i lindur nga të njëjtët prindër me dikë. Përdoret edhe për shokët e afërt.
 teknologji	Përdorimi i dijes shkencore për të bërë makina, vegla dhe mënyra pune.
 panjohur	Që nuk njihet. Për të cilin nuk dimë.
@@ -368,11 +368,11 @@ njëjtë	Që nuk ndryshon nga një tjetër. Po ai.
 madhësi	Sa i madh është diçka. Përmasa.
 trajner	Personi që përgatit dhe drejton sportistët ose një ekip.
 financiar	Që ka të bëjë me paratë dhe me financat.
-gjak	Lëngu i kuq që qarkullon në trup nëpër damarë.
+gjak	Lëngu i kuq që qarkullon në trup nëpër damarë. Përdoret edhe për farefisin dhe për hakmarrjen në Kanun.
 ndjeshëm	Që ndien ose reagon lehtë. Edhe që prek shumë.
 frikë	Ndjenja që na kap përballë rrezikut ose diçkaje të panjohur.
 izraelit	Që i përket Izraelit ose banorëve të tij.
-fis	Grup familjesh me një paraardhës të përbashkët.
+fis	Grup familjesh me një paraardhës të përbashkët. Në Veri të Shqipërisë kishte rëndësi të madhe në jetën shoqërore.
 dallim	Ajo që e bën diçka të ndryshme nga diçka tjetër.
 butë	Që nuk është i fortë në prekje. Edhe i qetë, i ëmbël në sjellje.
 fushatë	Seri veprimesh të organizuara për një qëllim (fushatë zgjedhore). Edhe veprime luftarake.
@@ -380,17 +380,17 @@ siguri	Gjendja kur nuk ka rrezik. Edhe bindja se diçka është e vërtetë.
 kupë	Enë për të pirë, si filxhan ose gotë me këmbë. Edhe trofe sportiv.
 kopje	Diçka e bërë njëlloj si një tjetër. Edhe njëri nga shumë ekzemplarët e një libri.
 sotëm	Që i përket ditëve tona, i kohës së tanishme.
-vëmendje	Përqendrimi i mendjes te diçka.
+vëmendje	Përqendrimi i mendjes te diçka. Edhe kujdesi që i kushtohet dikujt.
 shtyp	Ushtroj forcë mbi diçka. Edhe botoj në letër. Edhe mbaj nën zgjedhë.
 botim	Nxjerrja e një libri, gazete ose vepre për publikun. Edhe vepra e botuar.
 foto	Fotografi. Pamje e kapur me aparat fotografik.
 linjë	Vijë. Edhe rrugë e rregullt e një mjeti transporti. Edhe lidhje telefonike.
-dyshim	Mungesa e sigurisë për diçka. Mosbesim.
+dyshim	Mungesa e sigurisë për diçka. Edhe mendimi se dikush ka bërë një faj.
 mashkull	Qenie e gjinisë që nuk lind fëmijë. Burrë ose djalë.
 përfundimtar	Që vjen në fund dhe nuk ndryshon më.
 yll	Trup qiellor që shkëlqen natën. Edhe person shumë i njohur.
 analizë	Shqyrtimi i hollësishëm i diçkaje duke e ndarë në pjesë.
-dëshirë	Ajo që dëshiron të kesh ose të bësh.
+dëshirë	Ajo që do të kesh a të bësh. Edhe ndjenja që të shtyn drejt saj.
 pranishëm	Që ndodhet në një vend, që merr pjesë në diçka.
 brez	Rrip që mbështillet rreth mesit. Edhe të gjithë njerëzit e një moshe.
 spital	Institucion ku shërohen të sëmurët nga mjekët dhe infermierët.
@@ -415,11 +415,11 @@ dhunë	Përdorimi i forcës për të dëmtuar ose për të detyruar dikë.
 rregull	Udhëzim që duhet ndjekur. Edhe rendi, sistemimi i gjërave.
 vaj	Lëng i yndyrshëm që nxirret nga ullinjtë, luledielli etj. dhe përdoret në gatim. Edhe naftë.
 malor	Që ka male ose që ndodhet në male.
-mbledhje	Takim i disa njerëzve për të diskutuar diçka.
-pyll	Sipërfaqe e madhe e mbuluar me drurë.
+mbledhje	Takim i disa njerëzve për të diskutuar diçka. Edhe veprimi i grumbullimit të diçkaje.
+pyll	Sipërfaqe e madhe e mbuluar me drurë. Strehë për kafshë të egra.
 zgjedh	Marr atë që më pëlqen ose që e dua midis disa mundësive.
 arkitekturë	Arti dhe shkenca e projektimit të ndërtesave.
-ushtar	Pjesëtar i ushtrisë pa gradë oficeri.
+ushtar	Pjesëtar i ushtrisë pa gradë oficeri. Kryen shërbimin ushtarak.
 han	Godinë e dikurshme buzë rrugës ku bujtnin udhëtarët dhe kafshët e tyre.
 verdhë	Që ka ngjyrën e limonit ose të arit.
 shkëmb	Masë e madhe guri.
@@ -430,14 +430,14 @@ luaj	Bëj një lojë për t'u argëtuar. Edhe interpretoj një rol ose një veg�
 mungesë	Të qenët larg ose të mos qenët i pranishëm. Edhe pamjaftueshmëri.
 flamur	Copë pëlhure me ngjyra e shenja që përfaqëson një shtet a një organizatë.
 erë	Lëvizja e ajrit. Edhe aroma që ndiejmë me hundë.
-tregtar	Personi që blen dhe shet mallra.
-fut	Vë diçka brenda në diçka tjetër.
+tregtar	Personi që blen dhe shet mallra. Thuhet edhe për atë që mendon vetëm për fitim.
+fut	Vë diçka brenda në diçka tjetër. Edhe e pranoj dikë në një vend a grup.
 gjelbër	Që ka ngjyrën e barit ose të gjetheve.
 redaktor	Personi që përgatit dhe korrigjon tekstet para botimit.
 maqedonas	Banor ose qytetar i Maqedonisë. Edhe që i përket Maqedonisë.
 pavarësi	Gjendja e të qenit i lirë nga sundimi ose kontrolli i të tjerëve.
 revistë	Botim periodik me artikuj dhe fotografi, që del çdo javë ose çdo muaj.
-zgjat	Bëj diçka më të gjatë. Edhe vazhdon për një kohë.
+zgjat	Bëj diçka më të gjatë. Edhe vazhdon për një kohë, si te «zgjati dy orë».
 rend	Radhë, sistemim. Edhe gjendja kur çdo gjë është në vendin e vet.
 diell	Ylli rreth të cilit sillet Toka. Na jep dritë dhe nxehtësi.
 kyç	Vend ku lidhen dy kocka (kyçi i dorës). Edhe çelës. Edhe më i rëndësishmi.
@@ -469,7 +469,7 @@ detar	Njeri që punon në anije ose lundron në det. Marinar.
 gjej	Zbuloj ose has diçka që e kërkoja ose që nuk e dija.
 shi	Pika uji që bien nga retë. Përdoret edhe për diçka që bie me shumicë.
 përbërje	Pjesët ose lëndët nga të cilat përbëhet diçka.
-nxjerr	Marr diçka nga brenda dhe e qes jashtë.
+nxjerr	Marr diçka nga brenda dhe e qes jashtë. Thuhet edhe për një vendim, ose për minerale nga toka.
 gabim	Ajo që bëhet në mënyrë të gabuar. Diçka e pasaktë.
 dimër	Stina më e ftohtë e vitit, midis vjeshtës dhe pranverës.
 luftëtar	Njeri që lufton, sidomos në luftë me armë.
@@ -477,7 +477,7 @@ pakicë	Pjesa më e vogël e një grupi. Edhe grup etnik ose fetar më i vogël 
 udhëtim	Rruga që bën dikush kur shkon nga një vend në një tjetër.
 shënim	Diçka e shkruar shkurt për të mbajtur mend. Edhe shenjë.
 rreze	Vijë drite që del nga dielli ose nga një burim tjetër. Edhe në gjeometri, vija nga qendra te rrethi.
-arritje	Mbërritja diku. Edhe sukses, rezultat i arritur.
+arritje	Mbërritja diku. Edhe sukses, rezultat i fituar me mund.
 shesh	Vend i hapur dhe i rrafshët. Edhe hapësirë e madhe në mes të qytetit.
 kosovar	Banor i Kosovës. Edhe që i përket Kosovës.
 pushtim	Marrja me forcë e një vendi nga një ushtri e huaj.
@@ -492,7 +492,7 @@ largët	Që ndodhet larg në vend ose në kohë.
 nevojshëm	Që duhet patjetër. Pa të cilin nuk bëhet.
 gjeografik	Që ka të bëjë me gjeografinë ose me vendndodhjen.
 pjesëmarrës	Personi që merr pjesë në një veprimtari, garë ose mbledhje.
-kalim	Veprimi i të kaluarit. Edhe vendi nga kalohet.
+kalim	Veprimi i të kaluarit. Edhe vendi nga kalohet, si një urë.
 veti	Tipar ose cilësi e diçkaje ose e dikujt.
 pasqyrë	Xham që pasqyron figurën e atij që i qëndron përpara. Edhe përmbledhje, tablo.
 mish	Pjesa e butë e trupit të njeriut dhe të kafshës. Edhe ushqimi që del nga kafshët.
@@ -521,7 +521,7 @@ kompozitor	Personi që krijon vepra muzikore.
 qiell	Hapësira mbi ne ku shohim diellin, hënën dhe yjet.
 dell	Fije e fortë që lidh muskujt me kockat.
 prift	Shërbyes i kishës që kryen ritet fetare.
-lek	Monedha e Shqipërisë, edhe, para.
+lek	Monedha e Shqipërisë. Merr emrin nga Leka, Aleksandri i Madh.
 bind	Bëj dikë të besojë ose të pranojë diçka me arsye.
 jon	Atom ose grup atomesh me ngarkesë elektrike.
 juglindje	Ana midis jugut dhe lindjes.
@@ -549,9 +549,9 @@ lëkurë	Shtresa që mbulon trupin e njeriut e të kafshës. Edhe lëkura e regj
 grafik	Vizatim që tregon me vija ose shtylla si ndryshojnë të dhënat.
 bibliotekë	Vend ku ruhen libra që mund të lexohen ose të merren hua. Edhe raft librash.
 varfër	Që ka pak para ose pasuri.
-shqetësim	Ndjenja e paqetësisë ose e frikës për diçka.
+shqetësim	Ndjenja e paqetësisë a e frikës për diçka. Edhe ajo që e shkakton.
 mendor	Që ka të bëjë me mendjen.
-opozitë	Partitë ose grupet që kundërshtojnë qeverinë.
+opozitë	Partitë a grupet që kundërshtojnë qeverinë. Edhe vetë qëndrimi kundër diçkaje.
 reagim	Mënyra si përgjigjet dikush ose diçka ndaj një veprimi.
 copë	Pjesë e shkëputur nga diçka. Edhe pëlhurë.
 vendlindje	Vendi ku ka lindur dikush.
@@ -575,9 +575,9 @@ luftarak	Që ka të bëjë me luftën. Edhe i gatshëm për t'u përleshur.
 austriak	Banor i Austrisë. Edhe që i përket Austrisë.
 skenar	Teksti i një filmi ose shfaqjeje. Edhe plan i mundshëm i zhvillimit të ngjarjeve.
 komunal	Që i përket komunës. Edhe i përbashkët për banorët.
-nxit	Shtyj dikë të bëjë diçka. Edhe shpejtoj.
+nxit	Shtyj dikë të bëjë diçka. Edhe shpejtoj një proces.
 kompjuterik	Që ka të bëjë me kompjuterin.
-shpresë	Pritja dhe besimi se do të ndodhë diçka e mirë.
+shpresë	Pritja dhe besimi se do të ndodhë diçka e mirë. Dallohet nga siguria, sepse nuk dihet nëse do të ndodhë.
 rob	Njeri i zënë në luftë ose i privuar nga liria. Skllav.
 pranverë	Stina pas dimrit, kur çelin lulet. Përfshin muajt mars, prill dhe maj.
 trashë	Që ka trashësi të madhe. Edhe i shëndoshë.
@@ -587,7 +587,7 @@ thellësi	Largësia nga sipërfaqja deri në fund. Edhe thellësia e mendimit.
 qeveritar	Që i përket qeverisë. Edhe anëtar i qeverisë.
 portë	Derë e madhe e një oborri ose qyteti. Edhe porta në futboll.
 shtetas	Person që ka shtetësinë e një vendi.
-tregti	Blerja dhe shitja e mallrave.
+tregti	Blerja dhe shitja e mallrave. Mund të jetë brenda një vendi a ndërmjet shteteve.
 monografi	Vepër shkencore për një temë të vetme.
 dukuri	Diçka që ndodh dhe vërehet në natyrë ose në shoqëri.
 gëzim	Ndjenja e kënaqësisë dhe e lumturisë.
@@ -601,7 +601,7 @@ filozof	Personi që merret me filozofi.
 përkohshëm	Që zgjat vetëm një kohë, jo përgjithmonë.
 biznes	Veprimtari tregtare për të fituar para. Edhe ndërmarrje.
 lot	Pikë lëngu që del nga sytë kur qajmë.
-mbush	Vë diçka brenda derisa të mos ketë më vend.
+mbush	Vë diçka brenda derisa të mos ketë më vend. Thuhet edhe për moshën, si te «mbush tridhjetë vjet».
 veprimtar	Personi që punon aktivisht për një çështje shoqërore ose politike.
 asht	Gegërisht, kockë.
 ngritje	Veprimi i të ngriturit lart. Edhe rritje.
@@ -619,7 +619,7 @@ ndez	Bëj që të marrë flakë. Edhe vë në punë (dritën, makinën).
 trajnim	Përgatitje me ushtrime për të fituar aftësi.
 asistent	Personi që ndihmon një tjetër në punë. Edhe ndihmës mësimdhënës në universitet.
 kryengritje	Ngritja e armatosur e popullit kundër pushtetit ose pushtuesit.
-udhëheq	Drejtoj, i prij një grupi ose një vendi.
+udhëheq	Drejtoj, i prij një grupi a një vendi. Thuhet për partinë, për ushtrinë dhe për shtetin.
 psikologjik	Që ka të bëjë me psikikën ose me psikologjinë.
 vezë	Trup i rrumbullakët me lëvozhgë që bëjnë shpendët e disa kafshë dhe nga i cili dalin këlyshët.
 zbulim	Gjetja e diçkaje të panjohur më parë.
@@ -630,7 +630,7 @@ ambasador	Përfaqësuesi më i lartë i një shteti në një shtet tjetër.
 marre	Turp, çnderim.
 hije	Vendi ku nuk bie drita e diellit. Edhe figura e errët që hedh një send.
 burgos	Fus dikë në burg.
-ruajtje	Mbajtja e diçkaje që të mos dëmtohet ose humbasë.
+ruajtje	Mbajtja e diçkaje që të mos dëmtohet a humbasë. Thuhet për natyrë, për monumente dhe për ushqime.
 fron	Karrigia e mbretit, edhe, pushteti mbretëror.
 lexues	Personi që lexon.
 dëm	Humbje ose prishje që i shkaktohet dikujt ose diçkaje.
@@ -821,7 +821,7 @@ krizë	Periudhë e vështirë dhe e paqëndrueshme.
 perime	Bimë ose pjesë bimësh që hahen, si domatja, qepa, lakra.
 agjenci	Zyrë që kryen shërbime për të tjerët (agjenci udhëtimi, lajmesh).
 sinonim	Fjalë me kuptim të njëjtë ose shumë të afërt me një fjalë tjetër.
-epokë	Periudhë e gjatë historike me tipare të veçanta.
+epokë	Periudhë e gjatë historike me tipare të veçanta. Si epoka e bronzit a Rilindja.
 frymëzim	Shtysa e brendshme që të nxit të krijosh diçka.
 rrëzë	Pjesa e poshtme e një mali, kodre ose peme.
 pronar	Personi të cilit i përket diçka.
@@ -1341,25 +1341,25 @@ orë	Njësi kohe prej gjashtëdhjetë minutash. Edhe pajisja që tregon kohën.
 vlerë	Rëndësia a çmimi që ka diçka. Përdoret edhe për cilësitë e mira të një njeriu.
 shekull	Periudhë prej njëqind vjetësh. Përdoret edhe për një kohë shumë të gjatë.
 çmim	Sa kushton diçka. Edhe shpërblim që jepet për një arritje.
-nis	Filloj diçka. Edhe dërgoj dikë ose diçka diku.
+nis	Filloj diçka. Edhe dërgoj dikë a diçka diku, si te «nis një letër».
 ndikim	Fuqia për të ndryshuar mendimin, sjelljen ose rrjedhën e diçkaje.
 kuptim	Ajo që do të thotë një fjalë, një shprehje ose një veprim. Edhe të kuptuarit.
-tempull	Ndërtesë e shenjtë ku adhurohet Zoti ose hyjnitë.
-burg	Ndërtesë ku mbyllen njerëzit e dënuar.
+tempull	Ndërtesë e shenjtë ku adhurohet Zoti a hyjnitë. Përdoret edhe për një vend të nderuar.
+burg	Ndërtesë ku mbyllen njerëzit e dënuar. Edhe vetë dënimi me heqje lirie.
 saktë	Që përputhet plotësisht me të vërtetën ose me masën. Pa gabim.
 letrar	Që ka të bëjë me letërsinë.
 fat	Ajo që i ndodh dikujt pa e varur nga vetja. Edhe rasti i mirë.
-kuvend	Mbledhje e madhe, edhe, parlamenti, edhe, bisedë.
+kuvend	Mbledhje e madhe për të vendosur për një çështje. Edhe parlamenti, ose biseda.
 natyrë	Bota rreth nesh me malet, ujërat, bimët dhe kafshët. Edhe karakteri i dikujt.
 shpirt	Pjesa jotrupore e njeriut, ku janë ndjenjat dhe mendimet. Edhe ndjeshmëri, zemër.
 blu	Që ka ngjyrën e qiellit ose të detit.
-kuptoj	Arrij të di se çfarë do të thotë diçka.
+kuptoj	Arrij të di se çfarë do të thotë diçka. Edhe marr vesh arsyen e një veprimi.
 qafë	Pjesa e trupit që lidh kokën me trupin. Edhe kalim i ngushtë midis maleve.
 ajër	Përzierja e gazeve që thithim dhe që rrethon Tokën.
 paqe	Gjendje pa luftë dhe pa grindje. Edhe qetësi shpirtërore.
 kujtim	Ajo që mbajmë mend nga e kaluara. Edhe send që të kujton dikë.
-zyrë	Dhomë ose vend ku kryhen punë administrative.
-lajm	Njoftim për diçka që ka ndodhur.
+zyrë	Dhomë a vend ku kryhen punë administrative. Edhe institucioni që merret me një çështje.
+lajm	Njoftim për diçka që ka ndodhur. Edhe pjesë e një emisioni a gazete.
 mjeshtër	Njeri që e bën shumë mirë punën e vet. Edhe zejtar i aftë.
 vëllim	Sa vend zë diçka në hapësirë. Edhe njëri nga librat e një vepre.
 perëndi	Zoti. Edhe hyjni në fetë e lashta.
@@ -1456,7 +1456,7 @@ po	Pjesëz pohuese (po, e di). Edhe pjesëz e së tashmes (po punoj).
 sipas	Parafjalë, në përputhje me (sipas ligjit).
 pasi	Lidhëz, mbasi, meqë. Edhe pas kohës kur.
 kundër	Parafjalë, në kundërshtim me, përballë.
-dua	Kam dëshirë për diçka. Edhe kam dashuri për dikë.
+dua	Kam dëshirë për diçka. Edhe ndiej dashuri për dikë, si te «të dua».
 pa	Parafjalë që tregon mungesën (pa ty). Edhe pjesëz (pa më thuaj).
 vend	Pjesë e caktuar e hapësirës. Edhe shtet, atdhe, edhe, punë, post.
 shqiptar	Pjesëtar i popullit shqiptar. Edhe që i përket Shqipërisë ose shqiptarëve.
@@ -1516,11 +1516,11 @@ megjithëse	Lidhëz lejore, edhe pse.
 kush	Përemër pyetës për njerëz (kush erdhi?).
 formë	Pamja e jashtme e një sendi. Edhe mënyra si paraqitet diçka, ose kallëpi në të cilin derdhet.
 pastaj	Më pas, pas kësaj.
-familje	Prindërit dhe fëmijët e tyre. Edhe farefisi.
+familje	Prindërit dhe fëmijët e tyre që jetojnë bashkë. Edhe grup kafshësh a bimësh të afërta, sipas shkencës.
 ende	Akoma, deri në këtë çast. Përdoret edhe me mohim, si te «ende s'ka ardhur».
 tillë	I këtij lloji.
 vet	I tij, i saj, i tyre (shtëpia e vet).
-ndeshje	Lojë sportive midis dy skuadrave. Edhe përleshje.
+ndeshje	Lojë sportive midis dy skuadrave a lojtarëve. Edhe përleshje midis dy palëve.
 përpara	Para. Në pjesën e përparme.
 autor	Personi që ka krijuar një vepër. Thuhet për shkrimtarë, për artistë dhe për kryesit e një vepre.
 rast	Ngjarje a rrethanë që ndodh. Edhe mundësia që na jepet për të bërë diçka.
@@ -1551,8 +1551,8 @@ këtu	Në këtë vend.
 gjashtë	Numri që vjen pas pesës dhe para shtatës. Shënohet me shifrën 6.
 mbasi	Trajtë e vjetër a krahinore e fjalës «pasi», pas kohës kur. Meqë.
 afër	Në largësi të vogël.
-informacion	Të dhëna, njoftime.
-ulët	Që nuk është i lartë.
+informacion	Të dhëna a njoftime për diçka. Sot përdoret shumë për atë që ruhet e shpërndahet në kompjuter.
+ulët	Që nuk është i lartë. Thuhet për lartësi, për zë, për çmime dhe për sjellje të këqija.
 atyre	Trajta dhanore e përemrit ata/ato.
 pavarësisht	Pa marrë parasysh.
 përsëri	Edhe një herë.
@@ -1575,7 +1575,7 @@ im	Përemër pronor i vetës së parë njëjës (libri im).
 rol	Pjesa që luan një aktor. Edhe detyra që ka dikush.
 ndonjëherë	Herë pas here, jo gjithmonë.
 historik	Që ka të bëjë me historinë.
-gjerman	Banor i Gjermanisë. Edhe që i përket Gjermanisë.
+gjerman	Banor i Gjermanisë ose pjesëtar i këtij populli. Edhe që i përket Gjermanisë.
 ndoshta	Fjalë që shpreh mundësi, jo siguri. Mbase.
 madje	Bile, edhe.
 prandaj	Për këtë arsye.
@@ -1585,28 +1585,28 @@ shquar	I famshëm, i dalluar.
 jep	Forma e vetës së tretë të foljes jap. Ia kalon diçka dikujt.
 shpejt	Me shpejtësi. Edhe pas pak kohe.
 anglisht	Në gjuhën angleze.
-njoh	Di se kush është dikush ose çfarë është diçka.
+njoh	Di se kush është dikush ose çfarë është diçka. Edhe pranoj zyrtarisht, si te «njoh pavarësinë».
 menjëherë	Pa vonesë.
-italian	Banor i Italisë. Edhe që i përket Italisë.
+italian	Banor i Italisë ose pjesëtar i këtij populli. Edhe që i përket Italisë.
 sidomos	Më shumë se të tjerat. Veçanërisht.
 merrem	Kam një punë a një interes të vazhdueshëm. Edhe më ndodh që të më marrin mendtë.
 ndërmjet	Në mes të dy a më shumë gjërave a vetave. Midis.
 lëvizje	Ndryshimi i vendit ose i pozicionit. Edhe grup njerëzish me një synim.
 grek	Banor i Greqisë. Edhe që i përket Greqisë.
 atje	Në atë vend, larg.
-përdorim	Vënia në punë e diçkaje.
+përdorim	Vënia në punë e diçkaje. Edhe mënyra si përdoret një send a një fjalë.
 kurrë	Në asnjë kohë, asnjëherë.
-islam	Feja myslimane.
+islam	Feja e myslimanëve, e bazuar te Kurani dhe te mësimet e Muhamedit. Është një nga fetë më të përhapura në botë.
 tri	Numri tre për emra femërorë.
 larg	Në largësi të madhe.
 ndërkohë	Në të njëjtën kohë.
 tej	Përtej, larg.
-ngushtë	Që nuk ka gjerësi të madhe.
+ngushtë	Që nuk ka gjerësi të madhe. Përdoret edhe për vështirësi, si te «jam ngushtë».
 sesa	Se (në krahasime).
 tërë	I gjithë.
 zë	Tingulli që del nga goja. Edhe votë.
 çfarë	Përemër pyetës, ç'gjë.
-aktor	Personi që luan role në teatër ose në film.
+aktor	Personi që luan role në teatër a në film. Përdoret edhe për ata që kanë ndikim në një çështje.
 tregoj	Bëj të ditur diçka me fjalë ose rrëfej një ngjarje. Përdoret edhe për atë që vë në pah diçka me gisht a me shenja.
 plotësisht	Tërësisht, pa mbetur asgjë mangut.
 institucion	Organizatë me rëndësi publike, si shkolla, spitali ose ministria.
@@ -1620,13 +1620,13 @@ tetë	Numri që vjen pas shtatës dhe para nëntës. Shënohet me shifrën 8.
 njihem	Takohem me dikë për herë të parë ose jam i njohur për të tjerët. Thuhet edhe për atë që shquhet për diçka.
 euro	Monedha e përbashkët e shumë vendeve të Bashkimit Evropian.
 zyrtarisht	Në mënyrë zyrtare.
-osman	Që i përket Perandorisë Osmane ose turqve osmanë.
+osman	Që i përket Perandorisë Osmane a turqve osmanë. Kjo perandori sundoi në Ballkan për pesë shekuj.
 dhjetë	Numri që vjen pas nëntës dhe para njëmbëdhjetës. Shënohet me shifrën 10.
 video	Regjistrim me pamje lëvizëse.
 kulturë	Tërësia e dijeve, arteve, zakoneve dhe vlerave të një populli. Edhe shkalla e arsimimit të dikujt.
-nivel	Lartësia ose shkalla e diçkaje.
+nivel	Lartësia a shkalla e diçkaje. Thuhet edhe për aftësitë a dijet, si te «nivel i lartë».
 katërt	I katërti në radhë.
-mbështetje	Ndihma ose përkrahja që i jepet dikujt.
+mbështetje	Ndihma a përkrahja që i jepet dikujt. Edhe gjëja ku mbahet një send.
 social	Që ka të bëjë me shoqërinë.
 bej	Titull i fisnikëve në kohën osmane. Zotëri i madh.
 diçka	Një gjë e pacaktuar.
@@ -1635,13 +1635,13 @@ republikë	Shtet ku pushteti i përket popullit dhe kreu zgjidhet për një koh�
 tashti	Tani.
 top	Send i rrumbullakët për lojë. Edhe armë e rëndë artilerie.
 flas	Shpreh mendimet me fjalë. Përdoret edhe për gjuhën që di njeriu, si te «flas shqip».
-internet	Rrjeti botëror që lidh kompjuterët dhe pajisjet.
-humbje	Humbja e diçkaje, edhe, disfata.
+internet	Rrjeti botëror që lidh kompjuterët dhe pajisjet. Përmes tij lexojmë, shkruajmë dhe komunikojmë.
+humbje	Mosgjetja a mosmbajtja e diçkaje që kishim. Edhe disfatë në lojë a në luftë.
 drejtor	Personi që drejton një institucion, shkollë ose ndërmarrje.
 vë	Vendos diçka në një vend. Ka shumë përdorime, si te «vë re», «vë bast» ose «vë mend».
 rris	Kujdesem për fëmijë, kafshë ose bimë që të rriten.
 gjithnjë	Në çdo kohë, gjithmonë.
-xhami	Ndërtesë ku falen myslimanët.
+xhami	Ndërtesë ku falen myslimanët. Ka zakonisht minare dhe drejtohet nga një hoxhë.
 qendror	Që ndodhet në qendër. Kryesor.
 juaj	Përemër pronor i vetës së dytë shumës (shtëpia juaj).
 strukturë	Mënyra si janë lidhur dhe rregulluar pjesët e diçkaje.
@@ -1654,37 +1654,37 @@ kokë	Pjesa e sipërme e trupit ku ndodhen truri, sytë dhe goja. Përdoret edhe
 pi	Fus lëng në gojë dhe e gëlltis.
 letër	Lëndë e hollë e bardhë ku shkruajmë. Edhe shkresë që i dërgojmë dikujt.
 liri	Gjendja e të qenit i lirë, pa shtypje e pa kufizime të padrejta.
-baba	Burri që ka fëmijë, në raport me fëmijët e tij.
+baba	Burri që ka fëmijë, në raport me fëmijët e tij. Përdoret edhe si titull nderimi, si te dervishët.
 përtej	Nga ana tjetër.
 ndodhi	Ngjarje, rast.
 proces	Varg veprimesh ose ndryshimesh që çojnë në një rezultat. Edhe gjyq.
 parasysh	Në vëmendje (marr parasysh).
-aktiv	Që vepron shumë. Edhe trajta veprore e foljes.
-radhë	Varg njerëzish ose gjërash njëra pas tjetrës.
-turk	Banor i Turqisë ose pjesëtar i popullit turk.
+aktiv	Që vepron shumë, që nuk rri kot. Në gramatikë, trajta veprore e foljes.
+radhë	Varg njerëzish a gjërash njëra pas tjetrës. Edhe rend i caktuar, si te «më erdhi radha».
+turk	Banor i Turqisë ose pjesëtar i popullit turk. Edhe që i përket Turqisë.
 moj	Fjalë thirrjeje për një grua (moj motër!).
 përgjithësisht	Në përgjithësi.
-shfaqje	Vepër që shfaqet në skenë. Edhe dukja e diçkaje.
+shfaqje	Vepër që luhet në skenë. Edhe dukja e diçkaje, si e një sëmundjeje.
 qasje	Mënyra e të trajtuarit të një çështjeje. Edhe afrimi.
 pikërisht	Tamam, saktësisht. Edhe thua se (pikërisht atëherë).
 rrjet	Sistem lidhjesh (rrjet rrugor, rrjet kompjuterik).
 fe	Besimi në Zot dhe ritet që lidhen me të.
-shikoj	Kthej sytë nga dikush ose diçka. Edhe vëzhgoj.
-komandant	Ai që komandon një njësi ushtarake.
+shikoj	Kthej sytë nga dikush a diçka. Edhe kujdesem për dikë, si te «shikoj fëmijën».
+komandant	Ai që komandon një njësi ushtarake. Përdoret edhe për trima të njohur.
 ministër	Anëtar i qeverisë që drejton një ministri.
 pjesërisht	Jo plotësisht, vetëm një pjesë.
 zemër	Organi që e shtyn gjakun nëpër trup. Përdoret edhe si vendi i ndjenjave dhe i guximit.
 artistik	Që ka të bëjë me artin.
 aftë	I zoti, që di ta bëjë mirë diçka.
 afërsisht	Përafërsisht, rreth e rrotull.
-treg	Vend ku blihen dhe shiten mallra.
+treg	Vend ku blihen dhe shiten mallra. Edhe tërësia e kërkesës dhe e ofertës në ekonomi.
 humb	Nuk e kam më diçka, ose nuk e gjej. Edhe mundem në një lojë a në një luftë.
 fizik	Që ka të bëjë me trupin ose me fizikën.
-përgjigje	Ajo që thuhet si kthim i një pyetjeje.
+përgjigje	Ajo që thuhet si kthim i një pyetjeje. Edhe zgjidhja e një detyre.
 verë	Stina më e nxehtë e vitit. Edhe pije alkoolike nga rrushi.
 dikush	Një person i pacaktuar.
 arsimor	Që ka të bëjë me arsimin.
-lojtar	Ai që luan në një lojë ose sport.
+lojtar	Ai që luan në një lojë a sport. Përdoret edhe për pjesëmarrësit në një çështje të madhe.
 ha	Fus ushqim në gojë, e përtyp dhe e gëlltis.
 ar	Metal i çmuar me ngjyrë të verdhë, i përdorur për stoli e monedha. Përdoret edhe për diçka shumë të vlefshme.
 veprimtari	Punë ose veprime që kryhen për një qëllim.
@@ -1693,7 +1693,7 @@ kaq	Në këtë masë.
 lart	Në vend të lartë.
 makinë	Automjet. Edhe pajisje mekanike që kryen një punë.
 mysliman	Besimtar i fesë islame.
-artist	Ai që krijon ose interpreton vepra arti.
+artist	Ai që krijon a interpreton vepra arti. Thuhet për piktorë, për këngëtarë dhe për aktorë.
 njëkohësisht	Në të njëjtën kohë.
 gjon	Zog i vogël nate me pupla gri dhe dy xhufka si veshë.
 ftohtë	Që ka temperaturë të ulët.
@@ -1711,23 +1711,23 @@ lokal	Që i përket një vendi. Edhe dyqan ku shërbehen ushqime e pije.
 artikull	Shkrim në gazetë ose revistë. Edhe nen ligji, edhe, mall.
 vesh	Organi i dëgjimit në të dy anët e kokës. Përdoret edhe si folje për rrobat që hedhim në trup.
 herët	Para kohës së zakonshme. Në fillim.
-ulem	Vendosem në karrige ose në tokë.
+ulem	Vendosem në karrige a në tokë. Edhe zbres më poshtë, si çmimet.
 li	Bimë nga fijet e së cilës bëhet pëlhurë.
 moment	Çast, kohë shumë e shkurtër. Edhe rrethanë, pikë e rëndësishme.
-shënoj	Shkruaj ose bëj një shenjë. Edhe shënoj gol.
-gjykatës	Gjyqtar. Anëtar i gjykatës që gjykon çështjet.
+shënoj	Shkruaj a bëj një shenjë që diçka të mbahet mend. Edhe fitoj pikë në lojë, si te «shënoj gol».
+gjykatës	Gjyqtar, anëtar i gjykatës që gjykon çështjet. Duhet të jetë i paanshëm.
 greqisht	Në gjuhën greke.
-farë	Pjesa e bimës nga e cila mbin një bimë e re.
+farë	Pjesa e bimës nga e cila mbin një bimë e re. Edhe lloj a soj, si te «një farë njeriu».
 plot	I mbushur, edhe, shumë.
-problem	Çështje e vështirë që duhet zgjidhur.
+problem	Çështje e vështirë që duhet zgjidhur. Në matematikë, detyrë që kërkon një përgjigje.
 version	Trajtë ose variant i diçkaje.
 ndihmoj	I jap dikujt mbështetje me punë, me para a me fjalë. Thuhet edhe për gjënë që e lehtëson një punë.
 dukje	Pamja e jashtme.
 kurs	Mësim i organizuar për një kohë të caktuar. Edhe kursi i këmbimit të monedhës.
 regjisor	Personi që drejton realizimin e një filmi ose shfaqjeje.
 pestë	I pesti në radhë.
-gazetë	Botim i përditshëm ose periodik me lajme.
-kontratë	Marrëveshje e shkruar me detyrime për palët.
+gazetë	Botim i përditshëm a periodik me lajme. Dikur vetëm në letër, sot edhe në internet.
+kontratë	Marrëveshje e shkruar me detyrime për palët. Thuhet për punë, për qira dhe për shitje.
 kthehem	Vij përsëri në vendin ku isha. Përdoret edhe për atë që rifillon një punë ose ndërron drejtim.
 drejtpërdrejt	Pa ndërmjetës, drejt e.
 diku	Në një vend të pacaktuar.
@@ -1737,23 +1737,23 @@ sheh	Prijës fetar myslimani.
 arë	Copë toke që punohet dhe mbillet. Në të rritet drithë, misër a bimë të tjera.
 zjarr	Flakë dhe nxehtësi që dalin kur digjet diçka. Përdoret edhe për dashurinë a për mërinë e fortë.
 global	Që përfshin gjithë botën.
-metodë	Mënyrë e caktuar për të bërë diçka.
+metodë	Mënyrë e caktuar për të bërë diçka. Thuhet për shkencë, për mësim dhe për punë.
 akademik	Anëtar i akademisë. Edhe që ka të bëjë me shkencën dhe arsimin e lartë.
-pranoj	Marr atë që më jepet. Edhe them po.
+pranoj	Marr atë që më jepet. Edhe them po, ose e njoh të vërtetën e diçkaje.
 zhvilloj	Bëj që diçka të përparojë. Edhe e mbaj një veprimtari, si te «zhvilloj mësimin».
-projekt	Plan i hollësishëm i një pune.
+projekt	Plan i hollësishëm i një pune a ndërtimi. Edhe dokumenti që përshkruan si do të kryhet.
 autoritet	Pushteti për të urdhëruar. Edhe respekti që gëzon dikush.
 sezon	Stinë. Edhe periudhë e caktuar e vitit për një veprimtari.
-majë	Pjesa më e lartë ose më e mprehtë e diçkaje.
+majë	Pjesa më e lartë a më e mprehtë e diçkaje. Thuhet për male, për gjilpëra dhe për gishta.
 sërish	Edhe një herë, përsëri.
 vendore	Rasa vendore në gramatikë.
 tërësisht	Plotësisht.
 etnik	Që ka të bëjë me një popull ose grup etnik.
 gjeneral	Gradë e lartë ushtarake.
-mbahem	Kapem pas diçkaje. Edhe kujdesem për veten.
+mbahem	Kapem pas diçkaje që të mos bie. Edhe kujdesem për veten, ose mburrem, si te «mbahet i fortë».
 meqenëse	Lidhëz shkakore, duke qenë se.
 gjermanisht	Në gjuhën gjermane.
-qëndroj	Rri në një vend. Edhe nuk largohem.
+qëndroj	Rri në një vend pa lëvizur. Edhe nuk largohem, ose duroj një vështirësi.
 qysh	Si. Edhe që nga (qysh atëherë).
 zhvillohem	Rritem dhe përparoj.
 mua	Trajta dhanore e kallëzore e përemrit unë.
@@ -1764,14 +1764,14 @@ planet	Trup qiellor që rrotullohet rreth një ylli.
 sipër	Lart, mbi diçka.
 rritem	Bëhem më i madh në trup a në sasi. Thuhet për fëmijët, për bimët dhe për gjërat që shtohen.
 muze	Institucion ku ruhen dhe ekspozohen vepra arti ose sende historike.
-bashkohem	Bëhem pjesë e një grupi. Edhe lidhem me dikë.
+bashkohem	Bëhem pjesë e një grupi. Edhe lidhem me dikë për një qëllim të përbashkët.
 shah	Lojë me figura mbi një tabelë me kuti bardh e zi.
-ofroj	Jap ose propozoj diçka.
-element	Pjesë përbërëse e diçkaje. Edhe element kimik.
+ofroj	Jap a propozoj diçka që tjetri ta pranojë. Thuhet për punë, për ndihmë dhe për çmime.
+element	Pjesë përbërëse e diçkaje. Në kimi, lëndë që nuk ndahet në lëndë të tjera.
 seksual	Që ka të bëjë me seksin.
 shprehje	Fjalë ose fraza me kuptim të caktuar. Edhe pamja e fytyrës.
-botoj	Nxjerr një libër ose gazetë për publikun.
-garë	Konkurrim për të fituar.
+botoj	Nxjerr një libër a gazetë për publikun. Sot edhe vendos një shkrim në internet.
+garë	Konkurrim për të fituar. Thuhet për sport, për zgjedhje dhe për tregti.
 dakord	Në një mendje, i pajtuar.
 prapa	Në pjesën e pasme.
 arabisht	Në gjuhën arabe.
@@ -1785,10 +1785,10 @@ ndërtoj	Ngre një shtëpi, një rrugë a një vepër tjetër. Përdoret edhe p�
 nganjëherë	Ndonjëherë, herë pas here.
 karakter	Tërësia e tipareve morale dhe shpirtërore të dikujt.
 more	Fjalë thirrjeje për një burrë (more djalë!).
-tekst	Fjalët e shkruara të një vepre ose dokumenti.
+tekst	Fjalët e shkruara të një vepre a dokumenti. Edhe fjalët e një kënge.
 humbas	Nuk e gjej më diçka. Edhe dal i mundur (humbas ndeshjen). Humb.
 askush	Asnjë person.
-shtoj	Bëj diçka më të madhe ose më shumë.
+shtoj	Bëj diçka më të madhe a më të shumtë. Edhe them diçka më tepër pas asaj që u tha.
 goditje	Rënie me forcë mbi dikë ose diçka.
 rekord	Rezultati më i mirë i arritur ndonjëherë.
 teori	Tërësi idesh që shpjegojnë dukuri ose ligje.
@@ -1801,20 +1801,20 @@ lagje	Pjesë e një qyteti a e një fshati. Përdoret edhe për njerëzit që ba
 vras	I marr jetën një njeriu a një kafshe. Përdoret edhe për këpucën që lëndon këmbën ose për mendimin që mundon.
 spanjoll	Banor i Spanjës. Edhe që i përket Spanjës.
 standard	Masë ose model i pranuar si i saktë.
-ekzistoj	Jam, gjendem.
-arrij	Mbërrij diku. Edhe ia dal të bëj diçka.
+ekzistoj	Jam në jetë a gjendem në realitet. Thuhet për njerëz, për gjëra dhe për ide.
+arrij	Mbërrij diku. Edhe ia dal të bëj diçka, si te «arrij qëllimin».
 shërbej	Bëj një punë për dikë. Edhe u jap ushqim mysafirëve.
 historikisht	Nga pikëpamja historike.
 jonë	Përemër pronor i vetës së parë shumës (shtëpia jonë).
 shok	Njeri me të cilin rri, punon a mëson bashkë. Edhe i njëjti nga një palë.
-kursej	Nuk i shpenzoj paratë kot. I ruaj.
+kursej	Nuk i shpenzoj paratë kot, i ruaj për më vonë. Edhe e përdor diçka me masë, si ujin a kohën.
 krejt	Plotësisht, tërësisht (krejt ndryshe).
 ekip	Grup njerëzish që punojnë ose luajnë bashkë.
 europian	Trajtë jo standarde e fjalës «evropian», që i përket Evropës ose banorëve të saj.
 qind	Njëqind (100).
 mundem	Kam fuqi ose mundësi ta bëj diçka. Përdoret edhe për atë që e humb një ndeshje.
 theksoj	Vë në dukje, nënvizoj.
-kandidat	Ai që kërkon të zgjidhet ose të pranohet diku.
+kandidat	Ai që kërkon të zgjidhet a të pranohet diku. Thuhet për zgjedhje, për punë dhe për shkollë.
 titullar	Ai që mban zyrtarisht një detyrë.
 thatë	Pa ujë, pa lagështi.
 quaj	I vë një emër dikujt a diçkaje. Edhe i besoj si diçka, si te «e quaj të mirë».
@@ -1823,15 +1823,15 @@ hotel	Ndërtesë ku udhëtarët flenë me pagesë.
 zero	Numri që tregon asgjë (0).
 qytetare	Grua qytetare.
 urdhër	Udhëzim që duhet zbatuar.
-deklaroj	Shpall, bëj të ditur zyrtarisht.
+deklaroj	Shpall a bëj të ditur zyrtarisht. Edhe i tregoj doganës a shtetit ç'kam.
 kompleks	I përbërë nga shumë pjesë. Edhe grup ndërtesash.
 album	Libër për fotografi, edhe, përmbledhje këngësh.
-drejtoj	Udhëheq. Edhe bëj të drejtë diçka.
+drejtoj	Udhëheq një grup a institucion. Edhe bëj të drejtë diçka, ose e kthej nga një anë.
 ngre	Çoj diçka lart. Edhe ndërtoj një shtëpi a e rrit një çmim.
-mësoj	Fitoj dije. Edhe u jap dije të tjerëve.
+mësoj	Fitoj dije a një aftësi. Edhe u jap dije të tjerëve, si mësuesi.
 zbuloj	Gjej diçka që nuk dihej më parë. Edhe e nxjerr në shesh një gjë të fshehtë ose heq mbulesën.
 njëzet	Numri dy herë dhjetë (20).
-kthej	Rrotulloj. Edhe ia jap prapë dikujt.
+kthej	Rrotulloj diçka në një anë tjetër. Edhe ia jap prapë dikujt, ose përkthej në një gjuhë.
 tradicionalisht	Sipas traditës.
 shprehem	Them mendimin tim.
 kontroll	Shqyrtim për të parë nëse diçka është në rregull.
@@ -1840,31 +1840,31 @@ serbisht	Në gjuhën serbe.
 qetë	Pa zhurmë dhe pa shqetësim.
 çoj	Dërgoj diçka a dikë në një vend. Edhe e zgjoj dikë nga gjumi ose ngre diçka lart.
 meqë	Lidhëz shkakore, duke qenë se.
-minutë	Njësi kohe prej gjashtëdhjetë sekondash.
+minutë	Njësi kohe prej gjashtëdhjetë sekondash. Përdoret edhe për një kohë të shkurtër.
 historian	Studiues i historisë.
 dymbëdhjetë	Numri pas njëmbëdhjetës (12).
 bajram	Festa myslimane pas ramazanit ose festa e kurbanit.
-festival	Ngjarje e madhe me shfaqje muzike, filmi etj.
+festival	Ngjarje e madhe me shfaqje muzike, filmi a arti. Mund të bëhet çdo vit në të njëjtin vend.
 rresht	Radhë, edhe, rresht teksti.
 tutje	Më larg, përtej.
 doktor	Mjek. Edhe titull i lartë shkencor.
 nxehtë	Që ka temperaturë të lartë.
 dërgoj	Bëj që diçka a dikush të shkojë diku. Thuhet për letra, për mallra dhe për njerëz.
-pronë	Ajo që i përket dikujt.
+pronë	Ajo që i përket dikujt. Thuhet sidomos për tokë dhe për shtëpi.
 valë	Dallgë uji. Edhe valë zëri ose drite.
-polici	Institucioni që ruan rendin dhe sigurinë.
-shkaktoj	Bëj që të ndodhë diçka.
-urë	Ndërtim mbi lumë ose rrugë për të kaluar matanë.
+polici	Institucioni që ruan rendin dhe sigurinë e qytetarëve. Edhe punonjësit e tij.
+shkaktoj	Bëj që të ndodhë diçka, zakonisht e keqe. Thuhet për dëme, për sëmundje dhe për probleme.
+urë	Ndërtim mbi lumë a rrugë për të kaluar matanë. Përdoret edhe për atë që lidh dy palë.
 veç	Përveç, veçmas.
 hall	Brengë, vështirësi.
 mbretëror	Që i përket mbretit.
 material	Lënda nga e cila bëhet diçka.
 kategori	Grup gjërash me tipare të përbashkëta.
-mesazh	Njoftim që i dërgohet dikujt.
+mesazh	Njoftim që i dërgohet dikujt. Edhe ideja që do të përcjellë një vepër.
 bashkoj	Vë dy ose më shumë gjëra së bashku që të bëhen një. Përdoret edhe për njerëzit që lidhen në një qëllim.
 platformë	Sipërfaqe e ngritur, edhe, program politik.
 bari	Njeri që ruan bagëtinë.
-organizoj	Përgatit dhe rregulloj një veprimtari.
+organizoj	Përgatit dhe rregulloj një veprimtari. Thuhet për takime, për gara dhe për punë të përbashkëta.
 kafe	Pije e zezë nga kokrrat e bluara të kafesë. Edhe ngjyra kafe.
 pikturë	Vepër e bërë me bojëra. Edhe arti i pikturimit.
 kullë	Ndërtesë e lartë dhe e ngushtë. Edhe shtëpi e fortifikuar guri.
@@ -1872,20 +1872,20 @@ princ	Djali i mbretit ose sundimtar i një principate.
 producent	Ai që financon dhe organizon realizimin e një filmi ose albumi.
 fillestar	Ai që sapo ka filluar të mësojë ose të bëjë diçka.
 heq	Largoj diçka nga vendi i saj. Edhe duroj një vuajtje, si te «heq të zitë».
-përkas	I përkas, jam pjesë e, më takon.
+përkas	I takoj dikujt a jam pjesë e diçkaje. Thuhet për pronën, për grupin dhe për detyrën.
 takoj	Shoh dhe flas me dikë. Përdoret edhe për atë që i përket dikujt, si te «më takon».
-universitet	Institucion i arsimit të lartë.
+universitet	Institucion i arsimit të lartë me disa fakultete. Aty bëhen edhe kërkime shkencore.
 turqisht	Në gjuhën turke.
-temperaturë	Sa i nxehtë ose i ftohtë është diçka. Edhe ethet.
+temperaturë	Sa i nxehtë a i ftohtë është diçka. Edhe ethet e trupit në një sëmundje.
 imam	Prijës fetar që drejton faljen në xhami.
-pasuri	Para dhe gjëra me vlerë që zotëron dikush.
+pasuri	Para dhe gjëra me vlerë që zotëron dikush. Thuhet edhe për vlerat e një vendi a të një gjuhe.
 kontekst	Rrethanat ku ndodh ose thuhet diçka.
 varr	Gropa ku vendoset i vdekuri. Përdoret edhe figurativisht për fundin e diçkaje.
 piano	Vegël muzikore me tastierë.
 sigurisht	Pa dyshim.
 kala	Kështjellë. Ndërtim i fortifikuar me mure.
 dramë	Vepër për skenë. Edhe ngjarje e trishtë.
-krahinë	Pjesë e një vendi me tipare të veçanta.
+krahinë	Pjesë e një vendi me tipare të veçanta. Ka shpesh të folme dhe zakone të veta.
 sulmues	Ai që sulmon. Edhe lojtar në sulm.
 bankë	Institucion që ruan e jep para hua. Edhe bankë shkolle.
 diplomë	Dokument që vërteton përfundimin e studimeve.
@@ -1896,28 +1896,28 @@ personazh	Person në një vepër letrare, film ose shfaqje.
 vihem	Vendosem. Edhe i vihem punës, filloj.
 metal	Lëndë e fortë e shndritshme si hekuri ose bakri.
 negativ	Që mohon ose që është i keq.
-hartë	Paraqitje e një vendi në letër.
+hartë	Paraqitje e një vendi a e botës në letër. Tregon qytete, male, lumenj dhe rrugë.
 kontakt	Lidhje ose takim me dikë.
 trofe	Shpërblim, kupë për fitoren.
-dëshiroj	Kam dëshirë.
+dëshiroj	Kam dëshirë për diçka. Përdoret edhe si fjalë e sjellshme në vend të «dua».
 konflikt	Përplasje mendimesh ose interesash. Edhe luftë.
 mbroj	Ruaj dikë a diçka nga rreziku ose nga një sulm. Përdoret edhe në gjyq, për atë që del në anën e të akuzuarit.
 qëndrim	Mendimi ose sjellja ndaj diçkaje. Edhe qëndrimi diku.
 liqen	Masë e madhe uji e rrethuar me tokë nga të gjitha anët. Në Shqipëri njihen liqenet e Shkodrës, të Ohrit dhe të Prespës.
 mend	Mendje, edhe, mbaj mend.
-caktoj	Vendos, përcaktoj.
+caktoj	Vendos saktë diçka, si një ditë a një vend. Edhe i jap dikujt një detyrë.
 lexoj	Kuptoj atë që është shkruar duke ndjekur shkronjat.
-sfidë	Detyrë e vështirë që kërkon forcë ose aftësi.
-luftoj	Marr pjesë në luftë. Edhe përpiqem fort.
+sfidë	Detyrë e vështirë që kërkon forcë a aftësi. Edhe thirrje për t'u matur me dikë.
+luftoj	Marr pjesë në luftë. Edhe përpiqem fort për diçka a kundër diçkaje.
 leh	Lëshon zërin e vet qeni.
 hënë	Trupi qiellor që sillet rreth Tokës dhe ndriçon natën. Edhe dita e parë e javës.
 falas	Pa pagesë.
 shef	Personi që drejton të tjerët në punë.
 subjekt	Kryefjala e fjalisë. Edhe person ose entitet që vepron.
-vlerësoj	Përcaktoj vlerën, edhe, çmoj.
+vlerësoj	Përcaktoj vlerën e diçkaje. Edhe e çmoj dikë, ose i vë notë.
 mall	Ndjenja e dëshirës për dikë ose diçka që mungon. Edhe mallra për shitje.
 jashtëzakonshëm	Që del nga e zakonshmja. I shkëlqyer.
-pallat	Ndërtesë e madhe banimi. Edhe pallat mbretëror.
+pallat	Ndërtesë e madhe banimi. Edhe banesa e një mbreti a e një presidenti.
 disi	Pak, në njëfarë mënyre.
 lihem	Mbetem, edhe, lejohem.
 tash	Tani, në këtë çast.
@@ -1932,10 +1932,10 @@ kënd	Hapësira midis dy vijave që takohen. Edhe qoshe. Edhe kë (kë pe?).
 efekt	Rezultati ose ndikimi i diçkaje.
 # Grupi 8 (2026-10-10)
 hapje	Veprimi i të hapurit. Edhe vrimë, e çarë.
-formoj	Krijoj, i jap formë diçkaje.
-prodhoj	Bëj ose krijoj mallra ose të mira.
+formoj	Krijoj a i jap trajtë diçkaje. Thuhet edhe për edukimin e njeriut.
+prodhoj	Bëj a krijoj mallra a të mira. Thuhet për fabrika, për toka dhe për kafshë.
 yt	Përemër pronor i vetës së dytë njëjës (libri yt).
-ves	Zakon i keq.
+ves	Zakon i keq që njeriu e ka të vështirë ta lërë. Thuhet për duhanin, për bixhozin dhe për pijen.
 koncept	Ide ose nocion i përgjithshëm.
 distancë	Largësia midis dy pikave.
 kapacitet	Sa mund të nxërë ose të përballojë diçka. Edhe aftësi.
@@ -1947,10 +1947,10 @@ punëtore	Grua që punon, sidomos me krahë. Edhe e zellshme në punë.
 fizikë	Shkenca që studion lëndën, energjinë dhe ligjet e natyrës.
 ndikoj	Kam ndikim mbi dikë ose diçka.
 kompjuter	Pajisje elektronike që përpunon të dhëna sipas programeve.
-veproj	Bëj diçka, marr masa.
+veproj	Bëj diçka, marr masa. Thuhet edhe për ilaçin që ka efekt.
 inxhinier	Specialist që projekton ndërtime, makina ose sisteme teknike.
 spanjisht	Në gjuhën spanjolle.
-njoftoj	Bëj të ditur një lajm.
+njoftoj	Bëj të ditur një lajm. Edhe i them dikujt që të përgatitet për diçka.
 hoxhë	Prijës fetar mysliman.
 stadium	Vend i madh me fushë dhe shkallë për ndeshje sportive.
 april	Trajtë jo standarde e fjalës «prill», muaji i katërt i vitit, ndërmjet marsit dhe majit. Ka 30 ditë.
@@ -1958,15 +1958,15 @@ prag	Pjesa e poshtme e derës. Edhe çasti para se të ndodhë diçka.
 peshkop	Prift i lartë që drejton një dioqezë.
 domethënë	Pra, me fjalë të tjera.
 enë	Send për të mbajtur ushqim ose lëngje.
-protestë	Shprehje publike e kundërshtimit.
+protestë	Shprehje publike e kundërshtimit. Zakonisht bëhet me mbledhje njerëzish në rrugë.
 mike	Shoqe, grua ose vajzë me të cilën ke miqësi.
 shtohem	Bëhem më shumë.
-ndaloj	Nuk lejoj. Edhe qëndroj në vend.
+ndaloj	Nuk lejoj diçka. Edhe qëndroj në vend, ose ia pres dikujt rrugën.
 autore	Grua autore e një vepre.
 motor	Pajisje që prodhon lëvizje. Edhe motoçikletë.
-socialist	Përkrahës i socializmit.
-ngrihem	Çohem në këmbë, edhe, zgjohem.
-përfaqësoj	Veproj në emër të dikujt tjetër.
+socialist	Përkrahës i socializmit. Edhe që i përket kësaj ideje.
+ngrihem	Çohem në këmbë. Edhe zgjohem nga gjumi, ose rritem në pozitë.
+përfaqësoj	Veproj në emër të dikujt tjetër. Thuhet për vende, për klientë dhe për grupe.
 tipik	Karakteristik, i zakonshëm për një lloj.
 përkthyes	Personi që përkthen nga një gjuhë në tjetrën.
 përqind	Pjesë e njëqindtë (%).
@@ -1977,9 +1977,9 @@ përkundrazi	E kundërta.
 përsipër	Sipër. Edhe marr përsipër, marr përgjegjësi.
 zanore	Tingull që shqiptohet me gojë të hapur (a, e, ë, i, o, u, y).
 lëng	Lëndë e rrjedhshme, edhe, lëng frutash.
-përcaktoj	Caktoj saktë, edhe, jap përkufizimin.
+përcaktoj	Caktoj saktë një gjë. Edhe jap kuptimin e një fjale a të një koncepti.
 faktor	Element që ndikon në një rezultat.
-realizoj	Bëj të vërtetë, kryej.
+realizoj	Bëj të vërtetë një plan a një dëshirë. Edhe arrij një rezultat.
 përrua	Rrjedhë e vogël uji.
 rezervë	Diçka e mbajtur mënjanë për nevojë. Edhe lojtar zëvendësues.
 rusisht	Në gjuhën ruse.
@@ -1987,16 +1987,16 @@ tel	Fije metalike.
 gri	Ngjyrë midis të bardhës dhe të zezës.
 mbrëmje	Pjesa e ditës nga perëndimi i diellit deri në natë.
 komunitet	Bashkësi njerëzish me diçka të përbashkët.
-detyroj	Bëj dikë të bëjë diçka pa dëshirën e tij.
+detyroj	E bëj dikë të bëjë diçka pa dëshirën e tij. Mund të jetë me forcë ose me ligj.
 iki	Largohem nga një vend. Edhe vdes, ose më mbaron diçka.
 gojë	Hapësira në fytyrë me të cilën hamë dhe flasim. Përdoret edhe për hapjen e një gjëje.
-partner	Ai që bashkëpunon ose jeton me dikë.
+partner	Ai që bashkëpunon a jeton me dikë. Thuhet për biznes, për sport dhe për dashuri.
 përafërsisht	Afërsisht.
 pije	Lëng që pihet.
-godas	Qëlloj, i bie me forcë.
+godas	Qëlloj a i bie me forcë diçkaje. Përdoret edhe për fatkeqësitë, si te «e goditi halli».
 realitet	E vërteta, ajo që ekziston në të vërtetë.
-themeloj	Krijoj, ngre që në themel.
-kujtoj	Sjell ndër mend. Edhe i kujtoj dikujt diçka.
+themeloj	Krijoj a ngre që në themel. Thuhet për shtete, për shkolla dhe për organizata.
+kujtoj	Sjell ndër mend. Edhe i bëj të ditur dikujt diçka që ka harruar.
 ngurtë	I fortë, jo i lëngshëm.
 individ	Person i veçantë.
 gjethe	Pjesë e gjelbër dhe e sheshtë e bimës.
@@ -2017,11 +2017,11 @@ gji	Kraharori. Edhe gjiri i nënës. Edhe gji deti.
 thaj	Bëj të thatë diçka që është e lagur. Thuhet për rrobat, për barin dhe për frutat.
 emision	Program televiziv ose radiofonik.
 kinema	Sallë ku shfaqen filma.
-pagë	Rroga që merr dikush për punën.
+pagë	Rroga që merr dikush për punën. Zakonisht paguhet çdo muaj.
 mesfushor	Lojtar që luan në mes të fushës.
-mësohem	Bëhem i zakonshëm me diçka.
+mësohem	Bëhem i zakonshëm me diçka. Edhe fitoj një shprehi.
 stacion	Vend ku ndalojnë trenat, autobusët etj.
-miratoj	Jap pëlqimin zyrtar.
+miratoj	Jap pëlqimin zyrtar për diçka. Thuhet për ligje, për plane dhe për kërkesa.
 tridhjetë	Numri tri herë dhjetë (30).
 lëshohem	Lë veten të lirë. Edhe sulem.
 ndërhyrje	Përzierja në punët e të tjerëve. Edhe operacion mjekësor.
@@ -2031,33 +2031,33 @@ bashkëpunëtor	Ai që punon së bashku me dikë.
 kanal	Rrugë e hapur për ujin. Edhe kanal televiziv.
 taksë	Pagesë e detyrueshme për shtetin.
 kushtoj	Ka çmim (kushton shtrenjtë). Edhe ia dedikoj dikujt.
-largoj	Bëj që dikush ose diçka të shkojë larg.
+largoj	Bëj që dikush a diçka të shkojë larg. Edhe heq dikë nga një detyrë.
 braktis	Lë dikë ose diçka pa kujdes, e lë përgjithmonë.
 konferencë	Mbledhje e madhe për një temë.
 natyrisht	Sigurisht, siç pritet.
-paguaj	Jap para për diçka.
+paguaj	Jap para për diçka. Përdoret edhe figurativisht, si te «e pagoi me jetë».
 aleancë	Bashkim midis shteteve ose grupeve.
 qeverisje	Drejtimi i një vendi ose institucioni.
 eci	Lëviz me këmbë nga një vend në tjetrin. Thuhet edhe për punën që shkon mirë.
-mungoj	Nuk jam i pranishëm. Edhe nuk mjafton.
+mungoj	Nuk jam i pranishëm. Edhe nuk mjafton, si te «më mungon koha».
 harroj	Nuk mbaj më mend diçka. Edhe e lë diçka diku pa dashje.
 shumëllojshmëri	Larmi.
 kuti	Enë me kapak për të mbajtur sende.
 aktivist	Ai që merret aktivisht me një çështje.
-lëshoj	Lë të lirë, edhe, nxjerr.
+lëshoj	Lë të lirë diçka. Edhe nxjerr një zë, ose e braktis një vend.
 medie	Mjetet e informimit publik, gazetat, televizioni, radioja, interneti.
 skuadër	Grup lojtarësh ose punonjësish.
 legjendë	Rrëfim popullor për ngjarje të lashta e të mrekullueshme.
-shkel	Vë këmbën mbi diçka. Edhe nuk zbatoj ligjin.
+shkel	Vë këmbën mbi diçka. Edhe nuk zbatoj ligjin a fjalën.
 portugez	Banor i Portugalisë. Edhe që i përket Portugalisë.
 tendencë	Prirje.
 formal	Zyrtar. Edhe vetëm për formë.
 gjeni	Njeri me zgjuarsi të jashtëzakonshme.
 pushkë	Armë zjarri me tytë të gjatë.
-mbuloj	Vë diçka sipër që ta fsheh ose ta mbrojë.
+mbuloj	Vë diçka sipër që ta fsheh a ta mbrojë. Edhe i paguaj shpenzimet e diçkaje.
 shpëtoj	Nxjerr dikë nga rreziku. Edhe çlirohem vetë nga një e keqe.
-depërtoj	Hyj përmes diçkaje.
-ftoj	I them dikujt të vijë.
+depërtoj	Hyj përmes diçkaje. Përdoret edhe për atë që arrin të futet në një mjedis të vështirë.
+ftoj	I them dikujt të vijë. Thuhet për dasma, për takime dhe për vizita.
 zgjuar	I zgjuar, inteligjent. Edhe që nuk fle.
 mësuese	Grua mësuese.
 egjiptian	Banor i Egjiptit. Edhe pjesëtar i komunitetit egjiptian në Ballkan.
@@ -2066,7 +2066,7 @@ koncert	Shfaqje muzikore.
 shquaj	Dalloj, vë re. Shquhem, dallohem nga të tjerët.
 ceremoni	Veprim solemn me rregulla të caktuara.
 pyes	Bëj një pyetje për të mësuar diçka. Edhe tregoj kujdes për dikë, si te «s'pyet për mua».
-mbaroj	I jap fund diçkaje. Përfundoj.
+mbaroj	I jap fund diçkaje, përfundoj. Përdoret edhe për atë që shkatërrohet, si te «mbaroi punë».
 dizajn	Projektimi i pamjes së një sendi.
 hebre	Pjesëtar i popullit hebre.
 statistikë	Mbledhja dhe analiza e të dhënave numerike.
@@ -2076,36 +2076,36 @@ mision	Detyrë e rëndësishme, edhe, përfaqësi diplomatike.
 menaxher	Personi që drejton një biznes ose një projekt.
 familjar	Që i përket familjes.
 elektronik	Që punon me elektronikë.
-vizitoj	Shkoj te dikush ose diku për ta parë.
+vizitoj	Shkoj te dikush a diku për ta parë. Thuhet edhe për mjekun që shikon një të sëmurë.
 dervish	Anëtar i një urdhri fetar mysliman.
 celular	Telefon i lëvizshëm.
-ndihem	Përjetoj një ndjenjë.
+ndihem	Përjetoj një ndjenjë a gjendje, si te «ndihem mirë». Thuhet edhe për atë që dëgjohet, si zëri.
 dobi	Përfitim, vlerë që sjell diçka.
 ani	Mirë, pra.
-trajtoj	Sillem me dikë. Edhe shqyrtoj një çështje.
+trajtoj	Sillem me dikë në një mënyrë. Edhe shqyrtoj një çështje, ose kuroj një të sëmurë.
 zëvendësues	Ai ose ajo që zë vendin e dikujt.
 gjeorgjian	Banor i Gjeorgjisë.
 hip	Ngjitem. Edhe hipi në kalë.
 pe	Fije e hollë për qepje.
-përfundoj	Mbaroj diçka. Edhe arrij në një përfundim.
+përfundoj	Mbaroj diçka. Edhe arrij në një gjykim pas mendimit.
 dinamo	Pajisje që prodhon rrymë elektrike nga lëvizja.
 sultan	Sundimtar në vendet myslimane, si në Perandorinë Osmane.
 dije	Njohuri që fitohet duke mësuar. Dituri.
 prodhues	Ai që prodhon.
 qesh	Shpreh gëzim me zë dhe me buzëqeshje.
-vijoj	Vazhdoj, vij pas.
+vijoj	Vazhdoj, ose vij pas diçkaje. Thuhet për ngjarje dhe për shkrime.
 prirje	Tendencë, anim drejt diçkaje. Edhe talent.
 referencë	Burim ku mund të gjenden të dhëna. Edhe rekomandim.
 njësoj	Në të njëjtën mënyrë.
 çati	Pjesa e sipërme e ndërtesës që e mbulon.
 dialekt	E folme e një krahine.
 ah	Pemë pylli me lëvore gri të lëmuar.
-pushtoj	Zë me forcë.
-nderoj	Tregoj nder e respekt.
-shpjegoj	E bëj të kuptueshme.
+pushtoj	Zë me forcë një vend. Përdoret edhe për ndjenjat, si te «më pushtoi frika».
+nderoj	Tregoj nder e respekt për dikë. Edhe i jap një dekoratë a titull.
+shpjegoj	E bëj diçka të kuptueshme për dikë. Thuhet për mësime, për shkaqe dhe për fjalë.
 mprehtë	Që pret mirë, edhe, i zgjuar.
 institut	Institucion kërkimor ose arsimor.
-dëshmoj	Jap dëshmi.
+dëshmoj	Jap dëshmi në gjyq. Edhe tregoj se diçka është e vërtetë.
 tret	Tres, shkrin, zbërthen.
 australian	Banor i Australisë.
 territorial	Që ka të bëjë me territorin.
@@ -2126,12 +2126,12 @@ motiv	Arsyeja që të shtyn. Edhe motiv muzikor ose zbukurimi.
 pësoj	Më ndodh diçka e keqe.
 organizëm	Qenie e gjallë.
 përparim	Ecje përpara, zhvillim.
-refuzoj	Nuk pranoj.
+refuzoj	Nuk pranoj diçka që më ofrohet. Thuhet për propozime dhe për kërkesa.
 afrikan	Banor i Afrikës.
 trembëdhjetë	Numri pas dymbëdhjetës (13).
 variant	Trajtë tjetër e diçkaje.
 sulmoj	Mësyj, bëj sulm.
-kufizoj	Vë kufij.
+kufizoj	Vë kufij, nuk lejoj të shkojë më tej. Thuhet për liri, për shpenzime dhe për toka.
 debat	Diskutim me mendime të kundërta.
 pjesëmarrje	Marrja pjesë.
 pesëmbëdhjetë	Numri pas katërmbëdhjetës (15).
@@ -2151,7 +2151,7 @@ ur	Copë druri që digjet pa flakë. Prush.
 takohem	Shihem me dikë.
 heshtje	Mungesa e zhurmës, edhe, mosfolja.
 gjegje	Përgjigje, edhe, dëgjueshmëri.
-nënshkruaj	Vë firmën.
+nënshkruaj	Vë firmën në një dokument. Thuhet edhe për marrëveshjet ndërmjet shteteve.
 pohoj	Them se është e vërtetë.
 lende	Fryti i lisit.
 truall	Tokë, edhe, vendlindje.
@@ -2160,7 +2160,7 @@ gjenetik	Që ka të bëjë me gjenet.
 ritual	Varg veprimesh të përsëritura sipas zakonit ose fesë.
 shpallje	Njoftim publik.
 petrit	Zog grabitqar i vogël.
-operacion	Ndërhyrje kirurgjikale, edhe, veprim ushtarak.
+operacion	Ndërhyrje kirurgjikale e mjekut. Edhe veprim ushtarak a policor i planifikuar.
 konkurs	Garë për të zgjedhur më të mirin.
 server	Kompjuter që u shërben kompjuterëve të tjerë në rrjet.
 përfitim	Dobi, fitim.
@@ -2201,7 +2201,7 @@ ligjërisht	Sipas ligjit.
 pjatë	Enë e sheshtë për ushqim.
 front	Vija e luftës.
 ndalim	Mosmiratim, ndalesë.
-parashikoj	Them përpara se çfarë do të ndodhë.
+parashikoj	Them përpara se çfarë do të ndodhë. Thuhet për motin, për ekonomi dhe për ligje.
 mosmarrëveshje	Mungesë marrëveshjeje.
 shpërblim	Ajo që jepet si mirënjohje për një punë.
 provoj	Bëj një provë, edhe, vërtetoj.
@@ -2224,7 +2224,7 @@ emocion	Ndjenjë e fortë.
 pol	Secila nga dy pikat skajore të boshtit të Tokës.
 vetëvendosje	E drejta e një populli për të vendosur vetë për fatin e tij.
 ekspert	Njeri shumë i aftë në një fushë.
-organizim	Përgatitja dhe rregullimi i diçkaje.
+organizim	Përgatitja dhe rregullimi i diçkaje. Edhe mënyra si është ndërtuar një grup.
 hi	Pluhur gri që mbetet nga djegia.
 dekret	Vendim zyrtar i presidentit ose i qeverisë.
 partizan	Luftëtar i lirë kundër pushtuesit.
@@ -2264,7 +2264,7 @@ miell	Pluhur që del nga bluarja e grurit ose e drithërave të tjera, prej të 
 veçmas	Ndaras, më vete.
 gëzuar	Urim gjatë dollisë ose në festë (Gëzuar!).
 amë	Nënë. Edhe shije ose erë e diçkaje.
-arrestoj	Zë dikë dhe e mbaj nën kontroll sipas ligjit.
+arrestoj	Zë dikë dhe e mbaj nën kontroll sipas ligjit. Këtë e bën policia.
 artiste	Grua artiste.
 avion	Mjet që fluturon në ajër me krahë dhe motor.
 maqedonisht	Në gjuhën maqedonase.
@@ -2276,7 +2276,7 @@ vrimë	Hapje e vogël në diçka.
 gjetiu	Në një vend tjetër.
 shaka	Fjalë ose veprim për të qeshur.
 përputh	Bëj që të përshtaten saktë me njëra-tjetrën.
-zbatoj	Vë në jetë një rregull, ligj ose plan.
+zbatoj	Vë në jetë një rregull, ligj a plan. Thuhet për vendime dhe për projekte.
 çaj	Pije e nxehtë nga gjethet e bimës së çajit ose nga bimë të tjera.
 kancer	Sëmundje e rëndë me rritje të pakontrolluar të qelizave.
 patë	Shpend shtëpiak i madh me qafë të gjatë.
@@ -2323,11 +2323,11 @@ premtim	Fjala që jep se do të bësh diçka.
 skulpturë	Vepër arti e gdhendur në gur, dru ose metal.
 shfrytëzoj	Përdor diçka për dobi. Edhe përfitoj padrejtësisht nga dikush.
 kundërshtoj	Nuk jam dakord dhe e them.
-përshkruaj	Tregoj me fjalë si është diçka.
+përshkruaj	Tregoj me fjalë si është diçka. Thuhet për njerëz, për vende dhe për ngjarje.
 venë	Damar që e çon gjakun te zemra. Edhe verë.
-emëroj	Caktoj dikë në një detyrë.
+emëroj	Caktoj dikë në një detyrë. Thuhet për ministra, për drejtorë dhe për gjyqtarë.
 hadith	Fjalë ose vepër e Profetit Muhamed, sipas traditës islame.
-martoj	Bëj që dikush të martohet.
+martoj	Bëj që dikush të martohet. Thuhet zakonisht për prindërit që martojnë fëmijët.
 orkestër	Grup muzikantësh që luajnë së bashku.
 tetëmbëdhjetë	Numri pas shtatëmbëdhjetës (18).
 përherë	Gjithmonë.
@@ -2909,7 +2909,7 @@ bletë	Insekt që bën mjaltë.
 mbeturinë	Mbetje, plehra.
 domosdoshmëri	Nevojë e domosdoshme.
 demografik	Që ka të bëjë me popullsinë.
-dollar	Monedha e SHBA-së.
+dollar	Monedha e SHBA-së. Përdoret edhe në disa vende të tjera.
 duroj	Përballoj pa u ankuar.
 hormon	Lëndë që prodhon trupi për të rregulluar funksionet.
 dëboj	Përzë, nxjerr me forcë nga një vend.
@@ -2993,7 +2993,7 @@ syze	Xhama që vihen para syve për të parë më mirë.
 ballkon	Pjesë e dalë e ndërtesës me parmak.
 mel	Drithë me kokrra të vogla.
 zanafillë	Fillimi, origjina.
-sundim	Pushtet mbi një vend.
+sundim	Pushtet mbi një vend. Thuhet për mbretër dhe për pushtues.
 supozoj	Hamendësoj, mendoj se ka të ngjarë.
 hendek	Kanal i hapur në tokë.
 nënshtroj	Vë nën pushtet.
@@ -4096,7 +4096,7 @@ mikrofon	Pajisje që kap zërin dhe e përforcon ose e regjistron.
 shantazh	Kërcënim për të marrë para ose favore.
 penis	Organi seksual mashkullor.
 inventar	Listë e sendeve që zotëron një vend.
-konsideroj	Mendoj, çmoj diçka si. E marr parasysh.
+konsideroj	Mendoj a çmoj diçka si të tillë. Edhe e marr parasysh para një vendimi.
 anarki	Mungesë pushteti dhe rregulli.
 injorancë	Padije, mungesë dijeje.
 shpërfill	Nuk e marr parasysh, nuk i kushtoj vëmendje.
@@ -4301,7 +4301,7 @@ kopër	Bimë erëmirë që përdoret në gatim.
 kthetër	Thua i mprehtë i kafshës.
 dhënës	Ai që jep.
 fortësi	Të qenët i fortë.
-lejoj	Jap leje.
+lejoj	Jap leje për diçka. Edhe nuk pengoj të ndodhë.
 ironikisht	Me ironi.
 admiroj	Ndiej adhurim për diçka.
 implementim	Zbatim.
@@ -5492,7 +5492,7 @@ reklamim	Reklamë.
 çallmë	Shall që mbështillet në kokë.
 kaktus	Bimë me gjemba e shkretëtirës.
 kundrinor	Gjymtyrë e fjalisë që plotëson foljen.
-përmbaj	Kam brenda.
+përmbaj	Kam brenda. Thuhet edhe për atë që nuk e lë veten të shpërthejë.
 pështirë	I neveritshëm.
 vozit	Ngas varkën me lopata.
 bostan	Shalqi.
@@ -16489,7 +16489,7 @@ dukë	Dukë (titull fisnikërie), pamje, dukje.
 tij	I tij, e tij (përemër pronor).
 ay	Trajtë e vjetër a krahinore e përemrit «ai».
 muj	Mund (formë gege).
-shihem	Dukem.
+shihem	Dukem, jam i dukshëm. Edhe takohem me dikë, si te «shihemi nesër».
 pashë	Forma e kaluar e foljes shoh. Si emër, është titull i vjetër i lartë në Perandorinë Osmane.
 quar	Qilar, bodrum. Vend ku mbahen kafshët.
 praj	Prirem, anoj, ngjis sëmundjen.
@@ -16539,7 +16539,7 @@ caktuar	I vendosur më parë. I përcaktuar qartë.
 mi	Im, mi (kafshë).
 trokë	Tokë, botë.
 folur	E folura, të folurit.
-nato	Ushqim japonez prej soje të fermentuar.
+nato	Ushqim japonez prej soje të fermentuar. Si shkurtim, NATO është aleanca ushtarake e Atlantikut të Veriut.
 shënuar	I shënuar, i dalluar.
 kthyer	I kthyer, i lakuar. I lëruar.
 tregë	Trajtë jo standarde e fjalës «treg», vend ku blihen dhe shiten mallra.
@@ -16557,7 +16557,7 @@ gjer	Deri (gjer në mbrëmje). Edhe gjer, kafshë e vogël pylli.
 ndryshohem	Ndryshoj, jam ndryshe.
 all	I ndritshëm në ngjyrë, i kuq i ndezur.
 rradhë	Trajtë jo standarde e fjalës «radhë», varg njerëzish ose gjërash njëra pas tjetrës.
-kuadër	Fotografi, kuadër.
+kuadër	Pjesa e një filmi që shihet njëherësh. Edhe punonjës i aftë, ose korniza e një pune.
 minuta	Minutat.
 ruoj	Ruaj, kujdesem.
 ujit	Vadit.
@@ -16621,7 +16621,7 @@ kalojë	Kalim, korridor.
 kritik	Ai që vlerëson vepra arti. I rrezikshëm, vendimtar.
 dega	Grindje.
 fati	Ora, qenie mitologjike që përcakton fatin e të porsalindurit.
-prodhim	Prodhimi i diçkaje.
+prodhim	Krijimi i mallrave a i të mirave. Edhe vetë malli i krijuar.
 rrjesht	Trajtë jo standarde e fjalës «rresht», radhë. Edhe rresht teksti.
 besa	Për besë, me të vërtetë.
 vud	Trajtë e vjetër. Bollëk, begati.
@@ -16631,7 +16631,7 @@ mar	Shkurtim i fjalës mars.
 rruge	Rrugë.
 themelues	Ai që themelon diçka.
 ter	Dem, i patredhur.
-student	Ai që studion në universitet.
+student	Ai që studion në universitet. Përfundon me diplomë pas disa vjetësh.
 normal	I zakonshëm, i rregullt.
 sëmundur	I sëmurë.
 përhershëm	I përhershëm, që zgjat gjithmonë.
@@ -20411,12 +20411,12 @@ përmes	Nëpër, tejpërtej, me anë të.
 ndonjë	Një, cilido qoftë (në pyetje a mohim), a ke ndonjë libër?
 paraqit	Tregoj, shfaq para të tjerëve. Dorëzoj një dokument.
 përmend	Zë në gojë, flas shkurt për dikë a diçka.
-hapur	Që nuk është i mbyllur. I sinqertë.
+hapur	Që nuk është i mbyllur. Edhe i sinqertë, ose i çelët, si ngjyrat.
 veçanërisht	Sidomos, më tepër se të tjerat.
 sikur	Si të ishte, në rast se.
 amerikan	Banor i Amerikës, sidomos i Shteteve të Bashkuara. Që lidhet me Amerikën.
-fakt	Diçka që ka ndodhur vërtet a që është e vërtetë.
-grup	Disa njerëz a sende bashkë. Bandë muzikore.
+fakt	Diçka që ka ndodhur vërtet a që është e vërtetë. Provohet me dëshmi dhe dallohet nga mendimi.
+grup	Disa njerëz a sende bashkë. Edhe bandë muzikore, ose deputetët e një partie.
 referoj	Raportoj para një organi. I drejtohem një burimi.
 gol	Pikë që shënohet kur topi hyn në portë.
 rom	Pjesëtar i popullit rom. Pije alkoolike nga kallami i sheqerit.
@@ -20462,7 +20462,7 @@ modern	I kohës së sotme, i ri.
 masiv	I madh e i rëndë. Që përfshin shumë njerëz.
 premier	Kryeministër.
 sikurse	Ashtu si.
-origjinë	Prejardhja, burimi i diçkaje.
+origjinë	Prejardhja, burimi i diçkaje. Thuhet për njerëz, për fjalë dhe për mallra.
 mëtejshëm	Që vjen më pas, i mëtejmë.
 mbas	Trajtë e vjetër a krahinore e fjalës «pas», prapa, më vonë.
 format	Madhësia dhe forma e diçkaje. Mënyra e organizimit.
@@ -20539,7 +20539,7 @@ test	Provë për të kontrolluar njohuritë a gjendjen.
 ndarje	Ndarja e diçkaje në pjesë. Largimi i njerëzve nga njëri-tjetri.
 gradualisht	Shkallë-shkallë, pak nga pak.
 nacional	Kombëtar.
-katolik	Pjesëtar i kishës katolike.
+katolik	Pjesëtar i kishës katolike, që ka në krye Papën. Edhe që i përket kësaj kishe.
 konkretisht	Në mënyrë konkrete.
 suprem	Më i larti.
 humanitar	Që ndihmon njerëzit në nevojë.
