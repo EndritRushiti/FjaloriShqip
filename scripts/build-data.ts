@@ -1170,6 +1170,8 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "molise-arberesh": list.filter((w) => w.sources.includes("molise-arberesh")).length,
       "ndreca-1972": list.filter((w) => w.sources.includes("ndreca-1972")).length,
       dhora: list.filter((w) => w.sources.includes("dhora")).length,
+      "bufli-rocchi-2021": list.filter((w) => w.sources.includes("bufli-rocchi-2021")).length,
+      "morina-juridik": list.filter((w) => w.sources.includes("morina-juridik")).length,
       "revistat-krahinat": list.filter((w) => w.sources.includes("revistat-krahinat")).length,
       uniparser: list.filter((w) => w.sources.includes("uniparser")).length,
     },

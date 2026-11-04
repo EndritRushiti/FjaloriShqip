@@ -75299,3 +75299,457 @@ filloi ta zërë rakia |  |
 sëmundja e zorrës së verbër |  | 
 e ha me të mirë |  | 
 e ha me të keq |  | 
+aftësi juridike |  | 
+aftësi për të vepruar |  | 
+aftësi trashëgimore |  | 
+afat prekluziv |  | 
+barrë sendore |  | 
+bashkësi martesore |  | 
+bashkësi jashtëmartesore |  | 
+deklarim i vullnetit |  | 
+dëgjim i palëve |  | 
+dëm i pariparueshëm |  | 
+dënim kontraktues |  | 
+dizajn industrial |  | 
+dosje e lëndës |  | 
+e drejta absolute |  | 
+e drejta relative |  | 
+e drejta objektive |  | 
+e drejta subjektive |  | 
+e drejta pozitive |  | 
+e drejta civile |  | 
+e drejta romake |  | 
+e drejta private |  | 
+e drejta publike |  | 
+e drejta kanonike |  | 
+e drejta e sheriatit |  | 
+e drejta e autorit |  | 
+e drejta e parablerjes |  | 
+e drejta zakonore |  | 
+e drejta e mbajtjes |  | 
+e drejta kushtetuese |  | 
+e drejta ndërkombëtare |  | 
+e drejta penale |  | 
+e drejta e procedurës penale |  | 
+e drejta natyrore |  | 
+e drejta e vetos |  | 
+e drejta e votës |  | 
+e drejta në jetë |  | 
+e drejta në azil |  | 
+e drejta e grevës |  | 
+e drejta e privatësisë |  | 
+drejtat dhe liritë themelore |  | 
+të drejta politike |  | 
+të drejta kolektive |  | 
+fakte notore |  | 
+filozofi e së drejtës |  | 
+histori e së drejtës |  | 
+sociologji e së drejtës |  | 
+fuqi madhore |  | 
+ftesë për ofertë |  | 
+gjendje faktike |  | 
+gjuhë zyrtare |  | 
+gjuhë e urrejtjes |  | 
+hartë kadastrale |  | 
+parcelë kadastrale |  | 
+heqje dorë nga trashëgimi |  | 
+interes juridik |  | 
+interes publik |  | 
+kapital themeltar |  | 
+keqpërdorim i të drejtave |  | 
+kërkesë kreditore |  | 
+kontratë fiktive |  | 
+kontratë në distancë |  | 
+kupon fiskal |  | 
+letra me vlerë |  | 
+licencë për patentë |  | 
+lidhje e martesës |  | 
+lidhje shkakësore |  | 
+markë tregtare |  | 
+marrëdhënie juridike |  | 
+masë e përkohshme |  | 
+mbrojtje e nevojshme |  | 
+mbrojtje e posedimit |  | 
+mendim i ndarë |  | 
+mendim mospajtues |  | 
+mjete juridike |  | 
+moral publik |  | 
+ndërmarrje individuale |  | 
+ndërmarrje publike |  | 
+ndihmë juridike |  | 
+ndihmë juridike falas |  | 
+ndërprerje e gjykimit |  | 
+ndryshim i padisë |  | 
+organ përmbarues |  | 
+organizatë buxhetore |  | 
+padi mohuese |  | 
+pajtim gjyqësor |  | 
+paraardhës juridik |  | 
+parimet e të drejtës |  | 
+pasuri e përbashkët |  | 
+pasuri e përbashkët e bashkëshortëve |  | 
+pasuri e veçantë |  | 
+pasuri trashëgimore |  | 
+pasuri e paluajtshme |  | 
+pasurim pa bazë |  | 
+pavlefshmëri e kontratës |  | 
+person fizik |  | 
+person juridik |  | 
+person i tretë |  | 
+përgjegjësi solidare |  | 
+përgjegjësi penale |  | 
+përgjigje në padi |  | 
+përjashtim i gjyqtarit |  | 
+përmbarues privat |  | 
+përsëritje e procedurës |  | 
+polisë sigurimi |  | 
+praktikë gjyqësore |  | 
+premtim publik |  | 
+procedurë civile |  | 
+procedurë përmbarimore |  | 
+prokuror publik |  | 
+prokurori e shtetit |  | 
+pronësi intelektuale |  | 
+pronësi e përbashkët |  | 
+pushtet ekzekutiv |  | 
+pushtet gjyqësor |  | 
+pushtet ligjvënës |  | 
+pushim i gjykimit |  | 
+qiradhënie afatgjatë |  | 
+regjistër i gjendjes civile |  | 
+rend juridik |  | 
+rend publik |  | 
+rend kushtetues |  | 
+send i braktisur |  | 
+siguri juridike |  | 
+shpenzime procedurale |  | 
+shpikje e patentueshme |  | 
+shuarje e detyrimeve |  | 
+testament gjyqësor |  | 
+të meta juridike |  | 
+tërheqje e padisë |  | 
+tregues gjeografik |  | 
+trashëgimtar i domosdoshëm |  | 
+ujdi gjyqësore |  | 
+urdhër për përmbarim |  | 
+veprim juridik |  | 
+veprimtari tregtare |  | 
+zotësi juridike |  | 
+akt nënligjor |  | 
+aktivizëm gjyqësor |  | 
+amendament kushtetues |  | 
+ankesë kushtetuese |  | 
+barazi gjinore |  | 
+burim i së drejtës |  | 
+demokraci parlamentare |  | 
+demokraci kushtetuese |  | 
+dispozitë kalimtare |  | 
+hetim parlamentar |  | 
+imunitet diplomatik |  | 
+imunitet parlamentar |  | 
+kolegj elektoral |  | 
+komision parlamentar |  | 
+kompetencë komunale |  | 
+konsultim publik |  | 
+kontroll kushtetues |  | 
+krizë kushtetuese |  | 
+kreu i shtetit |  | 
+leje mjedisore |  | 
+liri e mendimit |  | 
+liri e shprehjes |  | 
+liri e tubimit |  | 
+liri e lëvizjes |  | 
+mandat parlamentar |  | 
+mocion i votëbesimit |  | 
+monarki absolute |  | 
+monarki parlamentare |  | 
+ndarje e pushteteve |  | 
+nëpunës civil |  | 
+nismë legjislative |  | 
+nismë qytetare |  | 
+organizatë ndërkombëtare |  | 
+paprekshmëri e banesës |  | 
+parim i ligjshmërisë |  | 
+parim i proporcionalitetit |  | 
+përfaqësim proporcional |  | 
+pluralizëm politik |  | 
+prag elektoral |  | 
+proces i rregullt gjyqësor |  | 
+proces ligjvënës |  | 
+puna e detyruar |  | 
+pyetje parlamentare |  | 
+seancë plenare |  | 
+sistem juridik |  | 
+sistem shumëpartiak |  | 
+sistem parlamentar |  | 
+sistem presidencial |  | 
+sovranitet parlamentar |  | 
+shkencë politike |  | 
+shpërndarje e parlamentit |  | 
+shtet federal |  | 
+shtet laik |  | 
+shtet unitar |  | 
+shumicë e kualifikuar |  | 
+shumicë e thjeshtë |  | 
+vendim preliminar |  | 
+vetëqeverisje lokale |  | 
+vit fiskal |  | 
+vlerësim i ndikimit në mjedis |  | 
+zonë zgjedhore |  | 
+afat i hetimeve |  | 
+akt akuzë |  | 
+dënim me vdekje |  | 
+dënim me gjobë |  | 
+dënim me kusht |  | 
+dënime alternative |  | 
+elementet e veprës penale |  | 
+grup kriminal i organizuar |  | 
+gjyqtar porotë |  | 
+individualizim i dënimit |  | 
+krimet e urrejtjes |  | 
+krim i organizuar |  | 
+legjislacion penal |  | 
+lirim me kusht |  | 
+marrëveshje për pranimin e fajit |  | 
+matje e dënimit |  | 
+ndihmë në vetëvrasje |  | 
+palët në procedurë |  | 
+prezumim i pafajësisë |  | 
+rehabilitim i të dënuarve |  | 
+sanksione penale |  | 
+sistem i drejtësisë penale |  | 
+shqyrtim gjyqësor |  | 
+trafikim me njerëz |  | 
+trajtim çnjerëzor |  | 
+vepër penale e terrorizmit |  | 
+
+acikmavi | adj
+adilije | noun
+ajllek | noun
+akterma | noun
+allatan | adv
+allaxhak | noun
+allaxhakli | noun
+allçixhi | noun
+alltenbash | noun
+alltillek | noun
+amanetçi | noun
+anagjore | adv
+anallek | noun
+arpaxhik | noun
+arzualxhi | noun
+asilad | noun
+axhaip | adj
+azap | noun
+baftli | adj
+baglladi | noun
+basmaçi | noun
+bazerjan | noun
+begzade | noun
+bejan | noun
+bekaje | noun
+belarbeg | noun
+beregetli | adj
+bigarihakim | adv
+bujumbag | noun
+burixhi | noun
+bylyg | noun
+bytevi | adv
+cehresuz | adj
+cezmeane | noun
+daha | adv
+ders | noun
+dimisqi | noun
+dintar | adj
+dividishe | noun
+dogri | adj
+dogrillek | noun
+domuz | noun
+dondurma | noun
+dumbara | noun
+dygec | noun
+dylger | noun
+dyganxhi | noun
+dyzme | noun
+eglenxhe | noun
+ejam | noun
+ekmexhi | noun
+elçi | noun
+emername | noun
+erbab | adj
+eshtaf | noun
+evrak | noun
+exhel | noun
+exhnebi | noun
+exhzaxhi | noun
+ezgjet | noun
+felaqet | noun
+fesat | noun
+figir | noun
+fitmexhi | noun
+furunxhi | noun
+garip | adj
+gjefshek | adj
+gjemenxhe | noun
+gjongul | noun
+hakikatli | adj
+hamamxhi | noun
+hashari | adj
+havadiz | noun
+haxhet | noun
+hergjelexhi | noun
+hillal | noun
+hukuk | noun
+hyqajet | noun
+hygymet | noun
+hyxhet | noun
+ifade | noun
+ikball | noun
+iktiza | noun
+ilam | noun
+illm | noun
+imtiaz | noun
+imza | noun
+inandi | noun
+inqar | noun
+irshat | noun
+ispat | noun
+istifa | noun
+istintak | noun
+itat | noun
+itibar | noun
+itllak | noun
+ixhar | noun
+ixhat | noun
+jaci | noun
+janikare | noun
+jaramaz | adj
+jasak | noun
+jemek | noun
+kahar | noun
+kahreman | noun
+kaime | noun
+kajkana | noun
+karajel | noun
+kasabali | noun
+kauk | noun
+kavallxhi | noun
+keskanxhi | adj
+kiafet | noun
+kishllah | noun
+kymetli | adj
+latife | noun
+lejlak | noun
+mabeinxhi | noun
+mahalleli | noun
+mahbub | adj
+makas | noun
+maksat | noun
+maksuz | adv
+malldar | adj
+masbata | noun
+masip | adj
+meash | noun
+mejdanllek | noun
+memleget | noun
+meram | noun
+merhamet | noun
+merhametlli | adj
+mesleg | noun
+mexhele | noun
+mexhelis | noun
+milazim | noun
+mirallaj | noun
+muamele | noun
+mudet | noun
+muhasere | noun
+mukavel | noun
+murafa | noun
+mutllak | adv
+myftac | adj
+myhyrdar | noun
+mymqym | adj
+mynasip | adj
+myraj | noun
+myti | adj
+nadan | adj
+nark | noun
+nebetsheger | noun
+neblebi | noun
+nefrek | noun
+neranc | noun
+netixhe | noun
+nezaget | noun
+nobet | noun
+odalleke | noun
+onbash | noun
+pacaqyfte | noun
+pacavre | noun
+parce | noun
+pembe | adj
+peshgir | noun
+pijade | noun
+pishdar | noun
+qefalet | noun
+qemerli | adj
+kimjagjer | noun
+qyrkçi | noun
+rabitah | noun
+radif | noun
+ragbet | noun
+rametli | adj
+ravenceni | noun
+ruhsat | noun
+rybeli | adj
+sadrazem | noun
+sajgi | noun
+sakakush | noun
+sallki | adj
+samtur | noun
+sanije | noun
+sarailet | noun
+sazan | noun
+sersem | adj
+sifat | noun
+sixhil | noun
+suluk | noun
+sytana | noun
+shebeqe | noun
+shekerleme | noun
+shybe | noun
+shybeli | adj
+taraphane | noun
+tarbaxhik | noun
+tars | noun
+teba | noun
+tedaryg | noun
+tekmil | adv
+telbis | adj
+temih | noun
+temis | adj
+terxhyman | noun
+texhall | noun
+texhrube | noun
+toptanxhi | noun
+turfanda | adj
+tyhmet | noun
+tyxharet | noun
+ustabash | noun
+ushak | noun
+varif | noun
+veqaletname | noun
+vilajetli | noun
+vishdan | noun
+vukuf | adj
+vuxhut | noun
+xharize | adj
+xhem | noun
+xhepci | noun
+xhid | noun
+xhymle | adv
+xhyvelek | adj
+ylqe | noun
+ymyt | noun
+yrme | noun
+zefk | noun
+zerzele | noun

@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik";
 
 export interface SourceInfo {
   id: SourceId;
@@ -507,6 +507,38 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Fjalë krahinore nga listat e botuara në këto revista.",
       en: "Regional words from the lists published in these journals.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "bufli-rocchi-2021": {
+    id: "bufli-rocchi-2021",
+    name: "Gjorgji Bufli dhe Luciano Rocchi, A Historical-Etymological Dictionary of Turkisms in Albanian, 1555-1954 (Trieste 2021)",
+    publisher: "Edizioni Università di Trieste",
+    url: "https://archive.org/details/tuchisms",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://archive.org/details/tuchisms",
+    usedFor: {
+      sq: "Fjalë të vjetra me prejardhje turke, të shënuara si huazime.",
+      en: "Old words of Turkish origin, marked as loans.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "morina-juridik": {
+    id: "morina-juridik",
+    name: "Iset Morina (red.), Fjalor juridik, e drejta private, publike dhe penale",
+    publisher: "Iset Morina, Ardrit Gashi, Avni Puka, Nebojša Boričić, Visar Morina",
+    url: "https://archive.org/details/fjalor-juridik-e-drejta-private-e-drejta-publike-e-drejta-penale",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://archive.org/details/fjalor-juridik-e-drejta-private-e-drejta-publike-e-drejta-penale",
+    usedFor: {
+      sq: "Terma juridikë shqip.",
+      en: "Albanian legal terms.",
     },
     notUsed: {
       sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",

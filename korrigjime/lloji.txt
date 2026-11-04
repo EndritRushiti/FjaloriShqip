@@ -7525,3 +7525,226 @@ filloi ta zërë rakia | shprehje
 sëmundja e zorrës së verbër | shprehje
 e ha me të mirë | shprehje
 e ha me të keq | shprehje
+aftësi juridike | shprehje
+aftësi për të vepruar | shprehje
+aftësi trashëgimore | shprehje
+afat prekluziv | shprehje
+barrë sendore | shprehje
+bashkësi martesore | shprehje
+bashkësi jashtëmartesore | shprehje
+deklarim i vullnetit | shprehje
+dëgjim i palëve | shprehje
+dëm i pariparueshëm | shprehje
+dënim kontraktues | shprehje
+dizajn industrial | shprehje
+dosje e lëndës | shprehje
+e drejta absolute | shprehje
+e drejta relative | shprehje
+e drejta objektive | shprehje
+e drejta subjektive | shprehje
+e drejta pozitive | shprehje
+e drejta civile | shprehje
+e drejta romake | shprehje
+e drejta private | shprehje
+e drejta publike | shprehje
+e drejta kanonike | shprehje
+e drejta e sheriatit | shprehje
+e drejta e autorit | shprehje
+e drejta e parablerjes | shprehje
+e drejta zakonore | shprehje
+e drejta e mbajtjes | shprehje
+e drejta kushtetuese | shprehje
+e drejta ndërkombëtare | shprehje
+e drejta penale | shprehje
+e drejta e procedurës penale | shprehje
+e drejta natyrore | shprehje
+e drejta e vetos | shprehje
+e drejta e votës | shprehje
+e drejta në jetë | shprehje
+e drejta në azil | shprehje
+e drejta e grevës | shprehje
+e drejta e privatësisë | shprehje
+drejtat dhe liritë themelore | shprehje
+të drejta politike | shprehje
+të drejta kolektive | shprehje
+fakte notore | shprehje
+filozofi e së drejtës | shprehje
+histori e së drejtës | shprehje
+sociologji e së drejtës | shprehje
+fuqi madhore | shprehje
+ftesë për ofertë | shprehje
+gjendje faktike | shprehje
+gjuhë zyrtare | shprehje
+gjuhë e urrejtjes | shprehje
+hartë kadastrale | shprehje
+parcelë kadastrale | shprehje
+heqje dorë nga trashëgimi | shprehje
+interes juridik | shprehje
+interes publik | shprehje
+kapital themeltar | shprehje
+keqpërdorim i të drejtave | shprehje
+kërkesë kreditore | shprehje
+kontratë fiktive | shprehje
+kontratë në distancë | shprehje
+kupon fiskal | shprehje
+letra me vlerë | shprehje
+licencë për patentë | shprehje
+lidhje e martesës | shprehje
+lidhje shkakësore | shprehje
+markë tregtare | shprehje
+marrëdhënie juridike | shprehje
+masë e përkohshme | shprehje
+mbrojtje e nevojshme | shprehje
+mbrojtje e posedimit | shprehje
+mendim i ndarë | shprehje
+mendim mospajtues | shprehje
+mjete juridike | shprehje
+moral publik | shprehje
+ndërmarrje individuale | shprehje
+ndërmarrje publike | shprehje
+ndihmë juridike | shprehje
+ndihmë juridike falas | shprehje
+ndërprerje e gjykimit | shprehje
+ndryshim i padisë | shprehje
+organ përmbarues | shprehje
+organizatë buxhetore | shprehje
+padi mohuese | shprehje
+pajtim gjyqësor | shprehje
+paraardhës juridik | shprehje
+parimet e të drejtës | shprehje
+pasuri e përbashkët | shprehje
+pasuri e përbashkët e bashkëshortëve | shprehje
+pasuri e veçantë | shprehje
+pasuri trashëgimore | shprehje
+pasuri e paluajtshme | shprehje
+pasurim pa bazë | shprehje
+pavlefshmëri e kontratës | shprehje
+person fizik | shprehje
+person juridik | shprehje
+person i tretë | shprehje
+përgjegjësi solidare | shprehje
+përgjegjësi penale | shprehje
+përgjigje në padi | shprehje
+përjashtim i gjyqtarit | shprehje
+përmbarues privat | shprehje
+përsëritje e procedurës | shprehje
+polisë sigurimi | shprehje
+praktikë gjyqësore | shprehje
+premtim publik | shprehje
+procedurë civile | shprehje
+procedurë përmbarimore | shprehje
+prokuror publik | shprehje
+prokurori e shtetit | shprehje
+pronësi intelektuale | shprehje
+pronësi e përbashkët | shprehje
+pushtet ekzekutiv | shprehje
+pushtet gjyqësor | shprehje
+pushtet ligjvënës | shprehje
+pushim i gjykimit | shprehje
+qiradhënie afatgjatë | shprehje
+regjistër i gjendjes civile | shprehje
+rend juridik | shprehje
+rend publik | shprehje
+rend kushtetues | shprehje
+send i braktisur | shprehje
+siguri juridike | shprehje
+shpenzime procedurale | shprehje
+shpikje e patentueshme | shprehje
+shuarje e detyrimeve | shprehje
+testament gjyqësor | shprehje
+të meta juridike | shprehje
+tërheqje e padisë | shprehje
+tregues gjeografik | shprehje
+trashëgimtar i domosdoshëm | shprehje
+ujdi gjyqësore | shprehje
+urdhër për përmbarim | shprehje
+veprim juridik | shprehje
+veprimtari tregtare | shprehje
+zotësi juridike | shprehje
+akt nënligjor | shprehje
+aktivizëm gjyqësor | shprehje
+amendament kushtetues | shprehje
+ankesë kushtetuese | shprehje
+barazi gjinore | shprehje
+burim i së drejtës | shprehje
+demokraci parlamentare | shprehje
+demokraci kushtetuese | shprehje
+dispozitë kalimtare | shprehje
+hetim parlamentar | shprehje
+imunitet diplomatik | shprehje
+imunitet parlamentar | shprehje
+kolegj elektoral | shprehje
+komision parlamentar | shprehje
+kompetencë komunale | shprehje
+konsultim publik | shprehje
+kontroll kushtetues | shprehje
+krizë kushtetuese | shprehje
+kreu i shtetit | shprehje
+leje mjedisore | shprehje
+liri e mendimit | shprehje
+liri e shprehjes | shprehje
+liri e tubimit | shprehje
+liri e lëvizjes | shprehje
+mandat parlamentar | shprehje
+mocion i votëbesimit | shprehje
+monarki absolute | shprehje
+monarki parlamentare | shprehje
+ndarje e pushteteve | shprehje
+nëpunës civil | shprehje
+nismë legjislative | shprehje
+nismë qytetare | shprehje
+organizatë ndërkombëtare | shprehje
+paprekshmëri e banesës | shprehje
+parim i ligjshmërisë | shprehje
+parim i proporcionalitetit | shprehje
+përfaqësim proporcional | shprehje
+pluralizëm politik | shprehje
+prag elektoral | shprehje
+proces i rregullt gjyqësor | shprehje
+proces ligjvënës | shprehje
+puna e detyruar | shprehje
+pyetje parlamentare | shprehje
+seancë plenare | shprehje
+sistem juridik | shprehje
+sistem shumëpartiak | shprehje
+sistem parlamentar | shprehje
+sistem presidencial | shprehje
+sovranitet parlamentar | shprehje
+shkencë politike | shprehje
+shpërndarje e parlamentit | shprehje
+shtet federal | shprehje
+shtet laik | shprehje
+shtet unitar | shprehje
+shumicë e kualifikuar | shprehje
+shumicë e thjeshtë | shprehje
+vendim preliminar | shprehje
+vetëqeverisje lokale | shprehje
+vit fiskal | shprehje
+vlerësim i ndikimit në mjedis | shprehje
+zonë zgjedhore | shprehje
+afat i hetimeve | shprehje
+akt akuzë | shprehje
+dënim me vdekje | shprehje
+dënim me gjobë | shprehje
+dënim me kusht | shprehje
+dënime alternative | shprehje
+elementet e veprës penale | shprehje
+grup kriminal i organizuar | shprehje
+gjyqtar porotë | shprehje
+individualizim i dënimit | shprehje
+krimet e urrejtjes | shprehje
+krim i organizuar | shprehje
+legjislacion penal | shprehje
+lirim me kusht | shprehje
+marrëveshje për pranimin e fajit | shprehje
+matje e dënimit | shprehje
+ndihmë në vetëvrasje | shprehje
+palët në procedurë | shprehje
+prezumim i pafajësisë | shprehje
+rehabilitim i të dënuarve | shprehje
+sanksione penale | shprehje
+sistem i drejtësisë penale | shprehje
+shqyrtim gjyqësor | shprehje
+trafikim me njerëz | shprehje
+trajtim çnjerëzor | shprehje
+vepër penale e terrorizmit | shprehje
