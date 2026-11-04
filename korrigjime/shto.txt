@@ -74309,3 +74309,201 @@ udhë e hekurt |  |
 me udhë |  | 
 i priste udhën |  | 
 bëj udhë |  | 
+media sociale |  | 
+energji elektrike |  | 
+të drejtat e njeriut |  | 
+shoqëri civile |  | 
+gjykatë kushtetuese |  | 
+armë zjarri |  | 
+shëndet publik |  | 
+shëndet mendor |  | 
+opinion publik |  | 
+administratë publike |  | 
+kujdes shëndetësor |  | 
+zhvillim ekonomik |  | 
+rritje ekonomike |  | 
+krizë ekonomike |  | 
+trashëgimi kulturore |  | 
+monument kulture |  | 
+zgjedhje lokale |  | 
+zgjedhje parlamentare |  | 
+zgjedhje presidenciale |  | 
+zgjedhje të lira |  | 
+pushtet vendor |  | 
+qeverisje vendore |  | 
+krim lufte |  | 
+vepër penale |  | 
+kod penal |  | 
+kod civil |  | 
+kod zgjedhor |  | 
+procedurë penale |  | 
+heqje lirie |  | 
+burgim i përjetshëm |  | 
+arrest shtëpie |  | 
+arrest me burg |  | 
+kallëzim penal |  | 
+trup gjykues |  | 
+grup hetimor |  | 
+konflikt interesi |  | 
+shpërdorim detyre |  | 
+dhunë në familje |  | 
+dhunë seksuale |  | 
+trafik droge |  | 
+lëndë narkotike |  | 
+pastrim parash |  | 
+sundim i ligjit |  | 
+shtet ligjor |  | 
+gjendje civile |  | 
+të dhëna personale |  | 
+gjendje e rëndë |  | 
+sëmundje kronike |  | 
+sëmundje infektive |  | 
+efekt anësor |  | 
+sistem imunitar |  | 
+qarkullim i gjakut |  | 
+sheqer në gjak |  | 
+ndihmë mjekësore |  | 
+mjekësi ligjore |  | 
+pirja e duhanit |  | 
+ndryshime klimatike |  | 
+gaz natyror |  | 
+gaz lotsjellës |  | 
+rreze dielli |  | 
+nivel i detit |  | 
+zonë rurale |  | 
+zonë malore |  | 
+pikë kufitare |  | 
+leje qëndrimi |  | 
+leje ndërtimi |  | 
+vend pune |  | 
+treg pune |  | 
+fuqi punëtore |  | 
+pagë minimale |  | 
+borxh publik |  | 
+buxhet i shtetit |  | 
+llogari bankare |  | 
+bankë qendrore |  | 
+bankë botërore |  | 
+fond monetar ndërkombëtar |  | 
+investime të huaja |  | 
+sektor privat |  | 
+sektor publik |  | 
+prokurim publik |  | 
+fletore zyrtare |  | 
+parti politike |  | 
+forcë politike |  | 
+subjekt politik |  | 
+klasë politike |  | 
+skenë politike |  | 
+koalicion qeverisës |  | 
+grup parlamentar |  | 
+byro politike |  | 
+regjim komunist |  | 
+diktaturë komuniste |  | 
+rilindja kombëtare |  | 
+lufta e ftohtë |  | 
+lufta e parë botërore |  | 
+lufta e dytë botërore |  | 
+lufta nacionalçlirimtare |  | 
+perandoria osmane |  | 
+bashkësia ndërkombëtare |  | 
+komuniteti ndërkombëtar |  | 
+shtet anëtar |  | 
+shtet i pavarur |  | 
+integritet territorial |  | 
+identitet kombëtar |  | 
+çështje kombëtare |  | 
+festat e fundvitit |  | 
+shenjë proteste |  | 
+konferencë për shtyp |  | 
+faqe interneti |  | 
+kohë reale |  | 
+teknologji e informacionit |  | 
+sekretar i përgjithshëm |  | 
+kryetar bashkie |  | 
+avokat i popullit |  | 
+pjesë përbërëse |  | 
+pjesë integrale |  | 
+gamë e gjerë |  | 
+shumicë dërrmuese |  | 
+hapi i parë |  | 
+pikë referimi |  | 
+qendër e vëmendjes |  | 
+rol i rëndësishëm |  | 
+dritë jeshile |  | 
+brez pas brezi |  | 
+tej mase |  | 
+jashtë mase |  | 
+kurrë më parë |  | 
+me sa duket |  | 
+siç duket |  | 
+ashtu siç |  | 
+në radhë të parë |  | 
+në të vërtetë |  | 
+me të vërtetë |  | 
+për më tepër |  | 
+për herë të parë |  | 
+për fat të mirë |  | 
+për fat të keq |  | 
+me pak fjalë |  | 
+në të ardhmen |  | 
+në të kaluarën |  | 
+pa marrë parasysh |  | 
+duke marrë parasysh |  | 
+në hir të së vërtetës |  | 
+me kalimin e kohës |  | 
+me këtë rast |  | 
+në çdo rast |  | 
+në disa raste |  | 
+në këto rrethana |  | 
+në këto kushte |  | 
+si më poshtë |  | 
+e kështu me radhë |  | 
+vite me radhë |  | 
+orë të tëra |  | 
+dita ditës |  | 
+mesa duket |  | 
+në një farë mënyre |  | 
+njëherë e përgjithmonë |  | 
+qindra mijëra |  | 
+dhjetëra mijëra |  | 
+bëj thirrje |  | 
+bie dakord |  | 
+bie ndesh |  | 
+marr masa |  | 
+marr vendim |  | 
+marr në konsideratë |  | 
+i jap fund |  | 
+jap dorëheqjen |  | 
+lë gjurmë |  | 
+lë anash |  | 
+luan rol |  | 
+humb jetën |  | 
+nxjerr në pah |  | 
+tërheq vëmendjen |  | 
+bën përshtypje |  | 
+bën pjesë |  | 
+bëj të ditur |  | 
+ndahem nga jeta |  | 
+jap kontribut |  | 
+kërkoj falje |  | 
+pyes veten |  | 
+vë theks |  | 
+buka e gojës |  | 
+lugë gjelle |  | 
+dhomë gjumi |  | 
+shtëpi botuese |  | 
+festë kombëtare |  | 
+gjuhë amtare |  | 
+gjuhë e huaj |  | 
+shkollë fillore |  | 
+arsim i lartë |  | 
+studime të larta |  | 
+kërkim shkencor |  | 
+lojëra olimpike |  | 
+kampionat botëror |  | 
+ditë e nesërme |  | 
+sezon turistik |  | 
+qytetar nderi |  | 
+dëshmor i kombit |  | 
+monedhë e huaj |  | 

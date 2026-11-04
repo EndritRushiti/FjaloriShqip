@@ -6535,3 +6535,201 @@ udhë e hekurt | shprehje
 me udhë | shprehje
 i priste udhën | shprehje
 bëj udhë | shprehje
+media sociale | shprehje
+energji elektrike | shprehje
+të drejtat e njeriut | shprehje
+shoqëri civile | shprehje
+gjykatë kushtetuese | shprehje
+armë zjarri | shprehje
+shëndet publik | shprehje
+shëndet mendor | shprehje
+opinion publik | shprehje
+administratë publike | shprehje
+kujdes shëndetësor | shprehje
+zhvillim ekonomik | shprehje
+rritje ekonomike | shprehje
+krizë ekonomike | shprehje
+trashëgimi kulturore | shprehje
+monument kulture | shprehje
+zgjedhje lokale | shprehje
+zgjedhje parlamentare | shprehje
+zgjedhje presidenciale | shprehje
+zgjedhje të lira | shprehje
+pushtet vendor | shprehje
+qeverisje vendore | shprehje
+krim lufte | shprehje
+vepër penale | shprehje
+kod penal | shprehje
+kod civil | shprehje
+kod zgjedhor | shprehje
+procedurë penale | shprehje
+heqje lirie | shprehje
+burgim i përjetshëm | shprehje
+arrest shtëpie | shprehje
+arrest me burg | shprehje
+kallëzim penal | shprehje
+trup gjykues | shprehje
+grup hetimor | shprehje
+konflikt interesi | shprehje
+shpërdorim detyre | shprehje
+dhunë në familje | shprehje
+dhunë seksuale | shprehje
+trafik droge | shprehje
+lëndë narkotike | shprehje
+pastrim parash | shprehje
+sundim i ligjit | shprehje
+shtet ligjor | shprehje
+gjendje civile | shprehje
+të dhëna personale | shprehje
+gjendje e rëndë | shprehje
+sëmundje kronike | shprehje
+sëmundje infektive | shprehje
+efekt anësor | shprehje
+sistem imunitar | shprehje
+qarkullim i gjakut | shprehje
+sheqer në gjak | shprehje
+ndihmë mjekësore | shprehje
+mjekësi ligjore | shprehje
+pirja e duhanit | shprehje
+ndryshime klimatike | shprehje
+gaz natyror | shprehje
+gaz lotsjellës | shprehje
+rreze dielli | shprehje
+nivel i detit | shprehje
+zonë rurale | shprehje
+zonë malore | shprehje
+pikë kufitare | shprehje
+leje qëndrimi | shprehje
+leje ndërtimi | shprehje
+vend pune | shprehje
+treg pune | shprehje
+fuqi punëtore | shprehje
+pagë minimale | shprehje
+borxh publik | shprehje
+buxhet i shtetit | shprehje
+llogari bankare | shprehje
+bankë qendrore | shprehje
+bankë botërore | shprehje
+fond monetar ndërkombëtar | shprehje
+investime të huaja | shprehje
+sektor privat | shprehje
+sektor publik | shprehje
+prokurim publik | shprehje
+fletore zyrtare | shprehje
+parti politike | shprehje
+forcë politike | shprehje
+subjekt politik | shprehje
+klasë politike | shprehje
+skenë politike | shprehje
+koalicion qeverisës | shprehje
+grup parlamentar | shprehje
+byro politike | shprehje
+regjim komunist | shprehje
+diktaturë komuniste | shprehje
+rilindja kombëtare | shprehje
+lufta e ftohtë | shprehje
+lufta e parë botërore | shprehje
+lufta e dytë botërore | shprehje
+lufta nacionalçlirimtare | shprehje
+perandoria osmane | shprehje
+bashkësia ndërkombëtare | shprehje
+komuniteti ndërkombëtar | shprehje
+shtet anëtar | shprehje
+shtet i pavarur | shprehje
+integritet territorial | shprehje
+identitet kombëtar | shprehje
+çështje kombëtare | shprehje
+festat e fundvitit | shprehje
+shenjë proteste | shprehje
+konferencë për shtyp | shprehje
+faqe interneti | shprehje
+kohë reale | shprehje
+teknologji e informacionit | shprehje
+sekretar i përgjithshëm | shprehje
+kryetar bashkie | shprehje
+avokat i popullit | shprehje
+pjesë përbërëse | shprehje
+pjesë integrale | shprehje
+gamë e gjerë | shprehje
+shumicë dërrmuese | shprehje
+hapi i parë | shprehje
+pikë referimi | shprehje
+qendër e vëmendjes | shprehje
+rol i rëndësishëm | shprehje
+dritë jeshile | shprehje
+brez pas brezi | shprehje
+tej mase | shprehje
+jashtë mase | shprehje
+kurrë më parë | shprehje
+me sa duket | shprehje
+siç duket | shprehje
+ashtu siç | shprehje
+në radhë të parë | shprehje
+në të vërtetë | shprehje
+me të vërtetë | shprehje
+për më tepër | shprehje
+për herë të parë | shprehje
+për fat të mirë | shprehje
+për fat të keq | shprehje
+me pak fjalë | shprehje
+në të ardhmen | shprehje
+në të kaluarën | shprehje
+pa marrë parasysh | shprehje
+duke marrë parasysh | shprehje
+në hir të së vërtetës | shprehje
+me kalimin e kohës | shprehje
+me këtë rast | shprehje
+në çdo rast | shprehje
+në disa raste | shprehje
+në këto rrethana | shprehje
+në këto kushte | shprehje
+si më poshtë | shprehje
+e kështu me radhë | shprehje
+vite me radhë | shprehje
+orë të tëra | shprehje
+dita ditës | shprehje
+mesa duket | shprehje
+në një farë mënyre | shprehje
+njëherë e përgjithmonë | shprehje
+qindra mijëra | shprehje
+dhjetëra mijëra | shprehje
+bëj thirrje | shprehje
+bie dakord | shprehje
+bie ndesh | shprehje
+marr masa | shprehje
+marr vendim | shprehje
+marr në konsideratë | shprehje
+i jap fund | shprehje
+jap dorëheqjen | shprehje
+lë gjurmë | shprehje
+lë anash | shprehje
+luan rol | shprehje
+humb jetën | shprehje
+nxjerr në pah | shprehje
+tërheq vëmendjen | shprehje
+bën përshtypje | shprehje
+bën pjesë | shprehje
+bëj të ditur | shprehje
+ndahem nga jeta | shprehje
+jap kontribut | shprehje
+kërkoj falje | shprehje
+pyes veten | shprehje
+vë theks | shprehje
+buka e gojës | shprehje
+lugë gjelle | shprehje
+dhomë gjumi | shprehje
+shtëpi botuese | shprehje
+festë kombëtare | shprehje
+gjuhë amtare | shprehje
+gjuhë e huaj | shprehje
+shkollë fillore | shprehje
+arsim i lartë | shprehje
+studime të larta | shprehje
+kërkim shkencor | shprehje
+lojëra olimpike | shprehje
+kampionat botëror | shprehje
+ditë e nesërme | shprehje
+sezon turistik | shprehje
+qytetar nderi | shprehje
+dëshmor i kombit | shprehje
+monedhë e huaj | shprehje
