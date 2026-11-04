@@ -300,7 +300,7 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
 
 /** Standard meanings before dialect, regional and old ones (lang: "hound" before the regional "liquid"); otherwise the order is kept. */
 function standardFirst(): number {
-  const DIALECT_BOOKS = new Set<SourceId>(["meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908"]);
+  const DIALECT_BOOKS = new Set<SourceId>(["meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908", "reinhold-1855"]);
   // Gheg and Tosk tags are left out: Wiktionary also puts them on standard meanings (hënë: moon)
   const MARGINAL = new Set(["Arbëresh", "Arvanitika", "regional", "dialectal", "archaic", "obsolete", "dated", "rare"]);
   const dialectal = (s: Sense) => DIALECT_BOOKS.has(s.source) || !!s.tags?.some((t) => MARGINAL.has(t));
@@ -1152,6 +1152,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "xylander-1835": list.filter((w) => w.sources.includes("xylander-1835")).length,
       "voskopojari-1802": list.filter((w) => w.sources.includes("voskopojari-1802")).length,
       "bashkimi-1908": list.filter((w) => w.sources.includes("bashkimi-1908")).length,
+      "reinhold-1855": list.filter((w) => w.sources.includes("reinhold-1855")).length,
       uniparser: list.filter((w) => w.sources.includes("uniparser")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,

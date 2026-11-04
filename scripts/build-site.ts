@@ -757,7 +757,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -1029,6 +1029,8 @@ function sourcesPage(): string {
       sq: "Vetëm disa fjalë të vetme shqip (rreth 100 terma ekonomikë, shkencorë e teknikë), të kontrolluara në korpuse dhe të përshkruara nga ne.", en: "Only some single Albanian words (about 100 economic, scientific and technical terms), checked in the corpora and described by us." },
     { title: "Uniparser: leksiku i gjuhës shqipe", author: "Maria Morozova, Alexander Rusakov dhe bashkautorë", link: "https://github.com/uniparser", licence: "MIT", licenceUrl: "https://opensource.org/license/mit",
       sq: "Fjalë të rralla e të pasura që mungonin, me klasën e fjalës dhe kuptimin anglisht, përshkrimet shqip janë tonat.", en: "Rare and rich words that were missing, with their word class and English meaning; the Albanian descriptions are our own." },
+    { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (1908)", author: "Shoqnia e Bashkimit", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma gege, secila e lidhur me fjalën standarde.", en: "Gheg forms, each linked to its standard word." },
     { title: "Dhanil Voskopojari, Eisagogiki didaskalia (1802)", author: "Dhanil Voskopojari", link: "https://wikisource.org/wiki/Index:Eisagogiki-Didaskalia.pdf", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",

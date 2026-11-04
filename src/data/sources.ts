@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855";
 
 export interface SourceInfo {
   id: SourceId;
@@ -361,6 +361,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tabelat e lakimit nuk ribotohen.",
       en: "The inflection tables are not republished.",
+    },
+  },
+  "reinhold-1855": {
+    id: "reinhold-1855",
+    name: "Karl Reinhold, Noctes Pelasgicae (Athinë 1855)",
+    publisher: "Karl Reinhold (1810–1880), Athinë. Skanuar nga Bayerische Staatsbibliothek",
+    url: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5",
+    downloadUrl: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma arvanitase nga fjalorthi i librit, të folura në Poros e Hidra, secila e lidhur me fjalën standarde përkatëse.",
+      en: "Arvanitika forms from the book's lexicon, as spoken on Poros and Hydra, each linked to its standard word.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara nga greqishtja lihen jashtë.",
+      en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and Greek loans are left out.",
     },
   },
   "bashkimi-1908": {
