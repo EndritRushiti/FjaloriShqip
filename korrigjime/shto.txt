@@ -72653,3 +72653,198 @@ smajkitet | verb
 spilc | noun
 strapacohem | verb
 shatarr | adj
+hidhërohu me dikë aq sa ka dituri |  | 
+burri lidhet për fjale e jo për kapistre |  | 
+burri lidhet për gjuhe kali për kapistre |  | 
+burri flet përpara syve e jo pas shpine |  | 
+burri një herë ka lerë një herë do të vdesë |  | 
+burri o të fal o të var |  | 
+burri s'matet me pëllëmbë po me zemër |  | 
+burri o të mbyt o të fal i ligu as të mbyt as të fal |  | 
+pyet detin sa lumenj derdhen në të |  | 
+besa është më e fortë se vdekja |  | 
+besa e burrit pesha e gurit |  | 
+burri i mirë flet një herë |  | 
+detit i ka hije vala burrit i ka hije fjala |  | 
+deti njihet në valë burri njihet në fjalë |  | 
+ku është besa aty është dhe shpresa |  | 
+nga del fjala del dhe shpirti |  | 
+vendi ndërrohet atdheu nuk harrohet |  | 
+ardhën galat dhe prishën folenë e bilbilit |  | 
+atdheu e nëna nuk harrohen |  | 
+atdheu mbi të gjitha |  | 
+balta më e ëmbël se mjalta |  | 
+ujit arën tënde para se të ujitësh të tjetrit |  | 
+mendo shumë herë e fol një herë |  | 
+kur je në gropë mos gërmo më shumë |  | 
+më mirë rrallë e për mall se shumë e për lumë |  | 
+kush nuk ka kokë ka këmbë |  | 
+dinaku të shkon ujë nën rrogoz |  | 
+dita e mirë që në mëngjes njihet |  | 
+dy budallenj bëjnë sa një i marrë |  | 
+e treta e vërteta |  | 
+fëmija dhe budallai belbëzojnë të vërtetën |  | 
+gënjeshtra nuk ka as dorë as këmbë as bisht as rrënjë |  | 
+më mirë puno kot sesa rri kot |  | 
+kur s'ka çka t'i bëjë gomarit i bie samarit |  | 
+kot puno kot mos rri |  | 
+mbille sot se e korr nesër |  | 
+mos luaj me zjarr se të bëhet vaj |  | 
+dasma nuk shihet në fillim por në fund |  | 
+ha me masë se ndryshe plas |  | 
+njeriut mos ia shiko hijen por dijen |  | 
+çohet një i marrë e hedh një gur në ujë çohen njëzet të urtë e s'mund ta nxjerrin |  | 
+ari në zjarr provohet miku në rrezik kuptohet |  | 
+armiku më i rrezikshëm është ai që harrohet |  | 
+as buka nuk hahet vetëm |  | 
+atje ku luftojnë dy fiton i treti |  | 
+kur s'do nënën e babanë askush s'ta ka sevdanë |  | 
+duaje vatanin në dashtë me krisë dushmanin |  | 
+ha kur ke uri martohu në të ri |  | 
+kush ka vdekur për atdhe nuk ka vdekur por ka lerë |  | 
+kur të flasësh mendohu mirë kur të hash përtypu mirë |  | 
+në errësirë duhet dritë në fatkeqësi mend |  | 
+më të mira janë goditjet e mikut se puthjet e armikut |  | 
+me durim zbutet edhe princi fjala e urtë thyen edhe gurin |  | 
+njëri i bie gozhdës tjetri patkoit |  | 
+i jep dorën të merr krahun |  | 
+shih me sy e plas me zemër |  | 
+nuk çalon gomari nga veshët |  | 
+kur bën dasmë fukarai i çahet daullja |  | 
+qeni që leh nuk të kafshon |  | 
+gur gur bëhet kalaja |  | 
+kush ia hap gropën shokut bie vetë brenda |  | 
+kërkoj gjilpërën në kashtë |  | 
+s'e ha sapunin për djathë |  | 
+na e bëri gjakun ujë |  | 
+flet si kodra mbas bregut |  | 
+shkel e shko |  | 
+ia bëri tetë me dy |  | 
+e pritën me këmbët e para |  | 
+i futi të dy këmbët në një këpucë |  | 
+e hëngra me sy |  | 
+ika nga sytë këmbët |  | 
+e paç dorën e lehtë |  | 
+ta bëj kurrizin më të butë se barkun |  | 
+m'u bë koka daulle |  | 
+të merr gjak në vetull |  | 
+merre me lëng se mishi u mbarua |  | 
+ma bie gjithnjë në majë të hundës |  | 
+nxjerr dhjamë nga pleshti |  | 
+është që ta pish në kupë |  | 
+ecën si pula pa krye |  | 
+foli si e ëma e zeqos |  | 
+bjeri pragut të dëgjojë dera |  | 
+u bëmë si këmbët e dhisë |  | 
+u zunë për pesë pare spec |  | 
+pemë pa kokrra |  | 
+më bën trupi miza-miza |  | 
+e ndoqi këmbë-këmbës |  | 
+e humbi si xhaferri simiten |  | 
+m'u bë koka tym |  | 
+i bëra sytë katër |  | 
+i hedh gjërat si lopa bajgat |  | 
+në ditë të pikës |  | 
+bar balsami | noun
+bar beronje | noun
+bar bibe | noun
+bar blete | noun
+bar brenge | noun
+bar breshke | noun
+bar buçi | noun
+bar dallëndysheje | noun
+bar delli | noun
+bar derri | noun
+bar djathi | noun
+bar dhëmballe | noun
+bar ethesh | noun
+bar fare | noun
+bar gomari | noun
+bar griskle | noun
+bar gryke | noun
+bar guri | noun
+bar gjaku | noun
+bar gjalpi | noun
+bar gjarpri | noun
+bar helmi | noun
+bar hënëze | noun
+bar hirre | noun
+bar i imët | noun
+bar i keq | noun
+bar i qelbur | noun
+bar krimbi | noun
+bar lebre | noun
+bar lepuri | noun
+bar lunge | noun
+bar me kokë | noun
+bar mëndafshi | noun
+bar miu | noun
+bar mjalti | noun
+bar morri | noun
+bar nepërke | noun
+bar ngjitës | noun
+bar pate | noun
+bar peshku | noun
+bar përdhesi | noun
+bar plakash | noun
+bar plehu | noun
+bar pleshtash | noun
+bar pulash | noun
+bar qeni | noun
+bar qumështi | noun
+bar sahati | noun
+bar squfuri | noun
+bar shëllire | noun
+bar shqiponje | noun
+bar teshi | noun
+bar thëllëze | noun
+bar urithi | noun
+bar veshi | noun
+bar zemre | noun
+bar zogu | noun
+bari i dreqit | noun
+bari i jetës | noun
+bari i syrit | noun
+bari i së paemrës | noun
+bathë e egër | noun
+bisht daci | noun
+bisht gomari | noun
+bri thekre | noun
+bukë derri | noun
+bukë mali | noun
+buzë nuseje | noun
+çuç gomari | noun
+shqiponjë deti | noun
+rrush arushe | noun
+rrush gjarpri | noun
+rrush mali | noun
+rrush qeni | noun
+rrush toke | noun
+rrush thëllëze | noun
+dhi e egër | noun
+gjak qumështi | noun
+gjemb i bardhë | noun
+gjemb lugati | noun
+gjemb ujku | noun
+gjethe delli | noun
+sallatë deti | noun
+kandil deti | noun
+kashta e kumtrit | noun
+këlysh dheu | noun
+lafshë gjeli | noun
+mace deti | noun
+mel i egër | noun
+misër qyqeje | noun
+mollë dheu | noun
+dac deti | noun
+dac i egër | noun
+dallëndyshe deti | noun
+derr deti | noun
+dushk i egër | noun
+fik deti | noun
+fletë misri | noun
+gështenjë deti | noun
+gështenjë e egër | noun
+gështenjë kali | noun
+gojë asllani | noun
+gojë ujku | noun
