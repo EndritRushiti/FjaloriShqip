@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908";
 
 export interface SourceInfo {
   id: SourceId;
@@ -361,6 +361,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tabelat e lakimit nuk ribotohen.",
       en: "The inflection tables are not republished.",
+    },
+  },
+  "bashkimi-1908": {
+    id: "bashkimi-1908",
+    name: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (Shkodër 1908)",
+    publisher: "Shoqnia e Bashkimit të Gjuhës Shqipe, Shkodër. Skanuar nga Bayerische Staatsbibliothek",
+    url: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6",
+    downloadUrl: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma gege nga fjalori i Bashkimit, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkrimi i librit në drejtshkrimin e sotëm dhe kuptimet i përkthejmë nga italishtja.",
+      en: "Gheg forms from the Bashkimi dictionary, each linked to its standard word. We convert the words from the book's spelling into today's and translate the meanings from Italian.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët që libri i shënon si turke lihen jashtë.",
+      en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and words the book marks as Turkish are left out.",
     },
   },
   "voskopojari-1802": {
