@@ -1032,7 +1032,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     const v = w.variantOf?.find((x) => x.kind !== "alternative");
     const std = v && words.get(v.word);
     if (w.description || !v || v.kind === "alternative" || !std?.description) continue;
-    w.description = { text: `Formë ${DIALECT_ADJ[v.kind]} e fjalës «${std.word}»: ${std.description.text}`, source: "ai" };
+    w.description = { text: `Formë ${DIALECT_ADJ[v.kind]} e fjalës «${std.word}». ${std.description.text}`, source: "ai" };
     addSource(w.sources, "ai");
     fromStandard++;
   }
@@ -1043,7 +1043,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
     if (w.description) continue;
     const main = (w.variantOf ?? []).map((x) => words.get(x.word)).find((x) => x?.description && !x.description.text.startsWith("Trajtë tjetër"));
     if (!main?.description) continue;
-    w.description = { text: `Trajtë tjetër e fjalës «${main.word}»: ${main.description.text}`, source: "ai" };
+    w.description = { text: `Trajtë tjetër e fjalës «${main.word}». ${main.description.text}`, source: "ai" };
     addSource(w.sources, "ai");
     fromMain++;
   }
@@ -1081,7 +1081,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       addDialect(std, { form, dialect: dialect as Dialect, source: file as SourceId });
       // the description copy above ran before this link existed
       if (!w.description && std.description) {
-        w.description = { text: `Formë ${DIALECT_ADJ[dialect as Dialect]} e fjalës «${std.word}»: ${std.description.text}`, source: "ai" };
+        w.description = { text: `Formë ${DIALECT_ADJ[dialect as Dialect]} e fjalës «${std.word}». ${std.description.text}`, source: "ai" };
         addSource(w.sources, "ai");
       }
       late++;
@@ -1100,6 +1100,14 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   fs.mkdirSync(OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "ne-pritje.json"), JSON.stringify(pending));
   console.log(`pending review: ${pending.length} rarely used spell-checker words (data/ne-pritje.json)`);
+
+  // Where each editor-added word came from (korrigjime/burime.tsv: word, sources)
+  for (const raw of fs.readFileSync(path.join(process.cwd(), "korrigjime", "burime.tsv"), "utf8").split("\n")) {
+    if (!raw.trim() || raw.startsWith("#")) continue;
+    const [word, ids] = raw.replace(/\r$/, "").split("\t");
+    const w = words.get(word);
+    if (w) for (const id of ids.split(",")) addSource(w.sources, id as SourceId);
+  }
 
   // How common each word is: the word and its forms in Wikipedia and MaCoCu (scaled).
   for (const w of words.values()) {
@@ -1160,6 +1168,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "fiorilli-2002": list.filter((w) => w.sources.includes("fiorilli-2002")).length,
       "gallo-sanmarzano": list.filter((w) => w.sources.includes("gallo-sanmarzano")).length,
       "molise-arberesh": list.filter((w) => w.sources.includes("molise-arberesh")).length,
+      "ndreca-1972": list.filter((w) => w.sources.includes("ndreca-1972")).length,
+      dhora: list.filter((w) => w.sources.includes("dhora")).length,
+      "revistat-krahinat": list.filter((w) => w.sources.includes("revistat-krahinat")).length,
       uniparser: list.filter((w) => w.sources.includes("uniparser")).length,
     },
     approximate: list.filter((w) => w.sources.includes("auto")).length,

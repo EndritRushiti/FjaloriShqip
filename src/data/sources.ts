@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat";
 
 export interface SourceInfo {
   id: SourceId;
@@ -463,6 +463,54 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet dhe shembujt e librit.",
       en: "The book's definitions and examples.",
+    },
+  },
+  "ndreca-1972": {
+    id: "ndreca-1972",
+    name: "Mikel Ndreca, Fjalor shqip-serbokroatisht (Prishtinë 1972)",
+    publisher: "Mikel Ndreca, Prishtinë",
+    url: "https://archive.org/details/fjalor-shqip-serbokroatisht-albansko-srpskohrvatski-recnik-mikel-ndr",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://archive.org/details/fjalor-shqip-serbokroatisht-albansko-srpskohrvatski-recnik-mikel-ndr",
+    usedFor: {
+      sq: "Fjalë që mungonin te ne, me klasën e fjalës.",
+      en: "Words we were missing, with their word class.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "dhora": {
+    id: "dhora",
+    name: "Dhora, Fjalor i emrave të kafshëve në Shqipëri",
+    publisher: "Dhora",
+    url: "https://archive.org/details/FJALORIEmraveTKafshveNShqipri",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://archive.org/details/FJALORIEmraveTKafshveNShqipri",
+    usedFor: {
+      sq: "Emra popullorë të kafshëve dhe të zogjve.",
+      en: "Folk names of animals and birds.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "revistat-krahinat": {
+    id: "revistat-krahinat",
+    name: "Revistat Studime Filologjike, Gjuha Shqipe dhe Gjurmime Albanologjike, listat e fjalëve të krahinave",
+    publisher: "Instituti i Gjuhësisë dhe i Letërsisë, Tiranë, dhe Instituti Albanologjik, Prishtinë",
+    url: "https://albanica.al",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://albanica.al",
+    usedFor: {
+      sq: "Fjalë krahinore nga listat e botuara në këto revista.",
+      en: "Regional words from the lists published in these journals.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
     },
   },
   "meyer-1896": {

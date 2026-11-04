@@ -784,7 +784,7 @@ function sameMeaningCard(w: Word): string {
     if (!word) return "";
     const g = shortGloss(word);
     const en = g && !g.startsWith("→") ? cut(g) : "";
-    const sq = word.description ? cut(word.description.text.replace(/^(Formë \S+|Trajtë [^«]*) e fjalës «[^»]+»: /, "").replace(/\.$/, "")) : "";
+    const sq = word.description ? cut(word.description.text.replace(/^(Formë \S+|Trajtë [^«]*) e fjalës «[^»]+»[.:] /, "").replace(/\.$/, "")) : "";
     if (!sq && !en) return "";
     return `<small>${bi(sq || en, en || sq)}</small>`;
   };
