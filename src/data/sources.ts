@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano";
 
 export interface SourceInfo {
   id: SourceId;
@@ -395,6 +395,57 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara lihen jashtë.",
       en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and loans are left out.",
+    },
+  },
+  "leake-1814": {
+    id: "leake-1814",
+    name: "William Martin Leake, Researches in Greece (Londër 1814)",
+    publisher: "William Martin Leake (1777–1860), Londër",
+    url: "https://archive.org/details/10523524bsb",
+    downloadUrl: "https://archive.org/details/10523524bsb",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma të vjetra toske nga fjalori i librit, secila e lidhur me fjalën standarde përkatëse.",
+      en: "Old Tosk forms from the book's vocabulary, each linked to its standard word.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit.",
+      en: "The book's definitions.",
+    },
+  },
+  "fiorilli-2002": {
+    id: "fiorilli-2002",
+    name: "Giuseppe Fiorilli, Dizionario arbëresh di lemmi, frasi e motti (Ururi 2002)",
+    publisher: "Giuseppe Fiorilli, Ururi",
+    url: "https://www.vatrarberesh.it/biblioteca/ebooks/dizionario.pdf",
+    downloadUrl: "https://www.vatrarberesh.it/biblioteca/ebooks/dizionario.pdf",
+    licence: "Vetëm fjalët / Words only",
+    licenceUrl: "https://fjalorishqip.org/rreth/",
+    usedFor: {
+      sq: "Vetëm format arbëreshe të Ururit, secila e lidhur me fjalën standarde. Përshkrimet janë tonat.",
+      en: "Only the Arbëresh forms of Ururi, each linked to its standard word. The descriptions are our own.",
+    },
+    notUsed: {
+      sq: "Përkufizimet, frazat dhe shembujt e librit.",
+      en: "The book's definitions, phrases and examples.",
+    },
+  },
+  "gallo-sanmarzano": {
+    id: "gallo-sanmarzano",
+    name: "Giuseppe Gallo, L'Arbëresh di S. Marzano",
+    publisher: "Giuseppe Gallo, San Marzano di San Giuseppe",
+    url: "https://comune.sanmarzano.ta.it/amministrazione-trasparente-storico/attachments/article/547/DIZIONARIO.pdf",
+    downloadUrl: "https://comune.sanmarzano.ta.it/amministrazione-trasparente-storico/attachments/article/547/DIZIONARIO.pdf",
+    licence: "Vetëm fjalët / Words only",
+    licenceUrl: "https://fjalorishqip.org/rreth/",
+    usedFor: {
+      sq: "Vetëm format arbëreshe të San Marzanos, secila e lidhur me fjalën standarde. Përshkrimet janë tonat.",
+      en: "Only the Arbëresh forms of San Marzano, each linked to its standard word. The descriptions are our own.",
+    },
+    notUsed: {
+      sq: "Përkufizimet dhe shembujt e librit.",
+      en: "The book's definitions and examples.",
     },
   },
   "meyer-1896": {
