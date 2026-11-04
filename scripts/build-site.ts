@@ -1035,6 +1035,8 @@ function sourcesPage(): string {
       sq: "Forma të lidhura me fjalën standarde.", en: "Forms linked to the standard word." },
     { title: "Gustav Meyer, Albanesische Studien V (1896)", author: "Gustav Meyer", link: "https://www.digitale-sammlungen.de/view/bsb11837072", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
+    { title: "Mikel Ndreca, Fjalor shqip-serbokroatisht (Prishtinë 1972)", author: "Mikel Ndreca", link: "https://archive.org/details/fjalor-shqip-serbokroatisht-albansko-srpskohrvatski-recnik-mikel-ndreca-1972", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
+      sq: "Vetëm fjalët. Përshkrimet janë tonat.", en: "Headwords only. The descriptions are our own." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (1908)", author: "Shoqnia e Bashkimit", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
