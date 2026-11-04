@@ -757,7 +757,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""], ["meyer-1896.tsv", ""], ["leake-1814.tsv", ""], ["fiorilli-2002.tsv", ""], ["gallo-sanmarzano.tsv", ""]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""], ["meyer-1896.tsv", ""], ["leake-1814.tsv", ""], ["fiorilli-2002.tsv", ""], ["gallo-sanmarzano.tsv", ""], ["molise-arberesh.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -1047,6 +1047,8 @@ function sourcesPage(): string {
       sq: "Vetëm format arbëreshe të Ururit. Përshkrimet janë tonat.", en: "Only the Arbëresh forms of Ururi. The descriptions are our own." },
     { title: "Giuseppe Gallo, L'Arbëresh di S. Marzano", author: "Giuseppe Gallo", link: "https://comune.sanmarzano.ta.it/", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
       sq: "Vetëm format arbëreshe të San Marzanos. Përshkrimet janë tonat.", en: "Only the Arbëresh forms of San Marzano. The descriptions are our own." },
+    { title: "Vocabolario polinomico e sociale italiano-arbëresh delle varietà molisane", author: "Mnamon", link: "https://www.mnamon.it/vocabolario-polinomico-e-sociale-italiano-arberesh/", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
+      sq: "Vetëm format arbëreshe të Molizes. Përshkrimet janë tonat.", en: "Only the Arbëresh forms of Molise. The descriptions are our own." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (1908)", author: "Shoqnia e Bashkimit", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
