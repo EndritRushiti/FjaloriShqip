@@ -73782,3 +73782,530 @@ dal mundës |  |
 nuk ia vlen mundimin |  | 
 heq mundime |  | 
 jap munxë |  | 
+m'u bë nakël |  | 
+bëhet rruga naks |  | 
+kaloj natën |  | 
+nata që shkoi |  | 
+më zuri nata |  | 
+natë për natë |  | 
+kartë ndarjeje |  | 
+më bëri një nder |  | 
+i jap nderin në dorë |  | 
+qofsh me nder |  | 
+më ra ndesh |  | 
+i bie ndesh fjalës |  | 
+më ndez gjaku |  | 
+i rrahuri i ndërgjegjes |  | 
+ndjek shkollën |  | 
+kërkoj ndjesë |  | 
+e marr me ndore |  | 
+më vjen ndore |  | 
+ndryshimi i mbjelljes |  | 
+me sot e me nesër |  | 
+e mbaj me sot e me nesër |  | 
+nëna e madhe |  | 
+vë në ngarend |  | 
+ngas rrezikun |  | 
+i ngath trutë |  | 
+më ngel për të bërë |  | 
+ngre krye kundër |  | 
+ngre gjyq kundër |  | 
+ngrys vetullat |  | 
+yjet e ngulët |  | 
+vë ngulm |  | 
+e pa veten ngushtë |  | 
+i ngjesh dorën |  | 
+i ngjis emrin |  | 
+ngjitem punës |  | 
+i vë nofkë |  | 
+nusja e bukës |  | 
+e bukura e malit |  | 
+e bukura e re |  | 
+e bukura e ujërave |  | 
+nxehje gjaku |  | 
+nxjerr dimrin |  | 
+nxjerr dheun |  | 
+nxjerr faqebardhë |  | 
+nxjerr flakë |  | 
+i nxjerr gjuhën me grep |  | 
+nxjerr këngë |  | 
+nxjerr në paksim |  | 
+njëri pas tjetrit |  | 
+rriheshin njëri me tjetrin |  | 
+njerëz me dy faqe |  | 
+pa një pa dy |  | 
+bëj një me një |  | 
+pa bërë as një as dy |  | 
+më njom gojën |  | 
+bie okoll |  | 
+dhjetë orët |  | 
+e prunë orët |  | 
+mbyll oxhakun |  | 
+i oxhakut të parë |  | 
+pa të mirë |  | 
+pa pare |  | 
+pa me sy të tij |  | 
+i mirë paanë |  | 
+doli i pabesë |  | 
+shikoj me pabesim |  | 
+e njoh të pafajshëm |  | 
+dal i pafajshëm |  | 
+pa pagesë |  | 
+lajka e pajka |  | 
+për pak |  | 
+kah pak kah pak |  | 
+të paktën |  | 
+hyj punës në palcë |  | 
+një varg palash |  | 
+të dy palët |  | 
+rri pallë |  | 
+bëj pallë |  | 
+bëj pallë me mend |  | 
+pambajtur mend |  | 
+hedh panik |  | 
+i shtie paqen |  | 
+para dy vjetësh |  | 
+vë para |  | 
+ha dorë |  | 
+lëndë e parë |  | 
+prodhim i parë |  | 
+një herë e më parë |  | 
+më së pari |  | 
+pas dore |  | 
+katër vjet pas dore |  | 
+erdhi nusja në pasi |  | 
+së pastajmi |  | 
+e pastajmja ditë |  | 
+dritë pastë |  | 
+pasuri e tundshme |  | 
+plotë pashin |  | 
+pashë mbi pashë |  | 
+pash i kokës |  | 
+kati i parë |  | 
+pellg për not |  | 
+pendë qe |  | 
+dredh pendën mbi |  | 
+pa perde |  | 
+hedh në peshë |  | 
+sheqer peta |  | 
+petë e hollë |  | 
+marr pezm kundër |  | 
+gjakun e kishte të tërë pezëm |  | 
+plaga e ka marrë pezmin |  | 
+ethe pezmi |  | 
+pëlhura e bardhë |  | 
+pëlhura e merimangës |  | 
+për atë punë |  | 
+për së dyti |  | 
+për orë |  | 
+për kah |  | 
+për sa po |  | 
+për së largu |  | 
+arsim i përbashkët |  | 
+bri përbri |  | 
+mbush përbuzë |  | 
+mizë përdheckë |  | 
+me përdhunë |  | 
+bëj përgim |  | 
+vë veshin në vrimë |  | 
+djali përkëmbet |  | 
+përkul kryet |  | 
+përkund duart |  | 
+laj një detyrë |  | 
+vaj lyerës |  | 
+përmbaj kalin |  | 
+përmbahem nga |  | 
+përmbi këtë |  | 
+nderim i përmortshëm |  | 
+më del përpara |  | 
+ngjitem malit përpjetë |  | 
+më përpjetë e më tatëpjetë |  | 
+përplas gotat |  | 
+përplas duart |  | 
+vij përqark |  | 
+në përqasje me |  | 
+përvesh sytë |  | 
+vit për vit |  | 
+i shtie përzier |  | 
+ujë i pijshëm |  | 
+as pikë |  | 
+pika e frymës |  | 
+në pikë të mesditës |  | 
+në pikë të natës |  | 
+në pikën e hallit |  | 
+në pikë të vapës |  | 
+pikë për pikë |  | 
+pikë pas pike |  | 
+pikë së pari |  | 
+pika të zeza |  | 
+për një pikë |  | 
+pikat rruzullore |  | 
+shenjë pikësimi |  | 
+më pingon veshi |  | 
+kemi pipa bashkë |  | 
+zë të pirë |  | 
+pirje këmbe |  | 
+shoh punën pisk |  | 
+e panë pisk |  | 
+në pisk të diellit |  | 
+pisku i verës |  | 
+pisku i dimrit |  | 
+pjalma-pjalma |  | 
+pjerr nga udha |  | 
+kam pjesë në |  | 
+më ra për pjesë |  | 
+pjesët e ligjëratës |  | 
+një plaf ujë |  | 
+pa plang e strehë |  | 
+bëj plojë |  | 
+grua plot |  | 
+plot e përplot |  | 
+me të plotë |  | 
+me hundë pllake |  | 
+këmbë pllake |  | 
+poli i veriut |  | 
+poli i jugut |  | 
+portë e prapme |  | 
+e marr pranë |  | 
+prapë se prapë |  | 
+prek tokën |  | 
+prek për vdekje |  | 
+me fjalë të prera |  | 
+prehje pune |  | 
+pres para |  | 
+pres rrugën |  | 
+pres gjakun |  | 
+pres monedhë |  | 
+pres mbas vetes |  | 
+i prish qejfin |  | 
+prish qejf me |  | 
+i vë pritë |  | 
+zë pritë |  | 
+bëj pritë |  | 
+i dal në pritë |  | 
+për të pritmen |  | 
+një foshnjë e pritme |  | 
+prralla durrësi |  | 
+prralla e botës |  | 
+psimet na bëhen mësimet |  | 
+me zë të shtirë |  | 
+pulë deti |  | 
+pulë dushku |  | 
+pulë misiri |  | 
+pulpë e gishtit |  | 
+me pulla lie |  | 
+pa shenjë pa pullë |  | 
+pëllumb i bardhë |  | 
+pëllumb postar |  | 
+për këtë punë |  | 
+për punë të |  | 
+heq nga puna |  | 
+sido qoftë puna |  | 
+njerëz pa punë |  | 
+kam punë me |  | 
+shkollë pune |  | 
+ditë pune |  | 
+hedh pendët |  | 
+fije bari |  | 
+jap lajm pushimi |  | 
+vë pushkën në sy |  | 
+larg një shenjë pushke |  | 
+vë në pushkë |  | 
+shtat pyll e mend fyell |  | 
+marr pyllin |  | 
+qafa e këmbës |  | 
+qafa e dorës |  | 
+flori të qafës |  | 
+më ngel në qafë |  | 
+qartë e shkurtër |  | 
+të qe se |  | 
+qepë gjarpri |  | 
+qepës librash |  | 
+thanë qereje |  | 
+rrah qepallat |  | 
+rrudh qepallat |  | 
+qerre e armatosur |  | 
+qes prej goje |  | 
+qes në qesti |  | 
+qes gjë në faqe |  | 
+fikem së qeshuri |  | 
+vera qeth |  | 
+që moti |  | 
+që kur |  | 
+që tani |  | 
+që andej |  | 
+që në kryet e herës |  | 
+që kur lindi |  | 
+as në qiell as në tokë |  | 
+më qëlluan ca para |  | 
+qind për qind |  | 
+një qindshe raki |  | 
+vë qipi |  | 
+për asnjë kafshë |  | 
+për çfarëdo kafshë |  | 
+më ra në mend |  | 
+rënia e territ |  | 
+rënia e shiut |  | 
+të rënit e hënës |  | 
+e rënda e dheut |  | 
+kërthiza e rëndesës |  | 
+rangët e ditës |  | 
+në rast nevoje |  | 
+ligj rasti |  | 
+në rast të kundërt |  | 
+radha e ditës |  | 
+në radhën e ditës |  | 
+këtë radhë |  | 
+ec me rendë |  | 
+atje poshtë |  | 
+plaga rihapet |  | 
+rob i gjallë |  | 
+rosë e egër |  | 
+rrah një çështje |  | 
+e rrah me mend |  | 
+rrah një rrugë |  | 
+rrah tëlyen |  | 
+rrah qumësht |  | 
+rrangje e detyra |  | 
+për rregull |  | 
+më të rremë |  | 
+rreshku i duhanit |  | 
+bëj rrëmujë |  | 
+i bie rrëmujës |  | 
+hiqem rrëshanë |  | 
+ngre rrëshanë |  | 
+bie për rrëshirë |  | 
+i rrëshqas hapat |  | 
+shtie në rrëzë |  | 
+më rri syri |  | 
+rriska-rriska |  | 
+më rrjedhin sytë |  | 
+rrjedhje ajri |  | 
+rrok për dorë |  | 
+rrok për qafe |  | 
+rrokull më rrokull |  | 
+vij rrotull |  | 
+bie rrotull |  | 
+rrudh dorën |  | 
+rrugët ajrore |  | 
+rruga e rrahur |  | 
+lëshoj rrugën |  | 
+rruga kryesore |  | 
+marr rrugën për në |  | 
+mbetem midis katër rrugëve |  | 
+na vijnë rrush |  | 
+rrush i thatë |  | 
+rrush frëngu |  | 
+rruzë mali |  | 
+ngreh sahatin |  | 
+jo sall |  | 
+vë samarin |  | 
+sedër kombëtare |  | 
+sa të rrosh |  | 
+sëmundja e madhe |  | 
+sëmundja e mendjes |  | 
+shkojnë thikë e sëpatë |  | 
+vë në sërë |  | 
+në sërën e tyre |  | 
+si një një |  | 
+sjell vallen |  | 
+sjell në gojë |  | 
+sjell nga jashtë |  | 
+sikur të |  | 
+sikurse me thënë |  | 
+e gjeti në veprim e sipër |  | 
+pesë javë e sipër |  | 
+marr të sipërmen |  | 
+sot e katër vjet |  | 
+sot e kësaj dite |  | 
+sot më sot |  | 
+si sot tetë ditë |  | 
+dal në skenë |  | 
+bie një dhi e shtron një mijë |  | 
+struk punën me përralla |  | 
+vë në sufër |  | 
+kockë e supit |  | 
+gropa e syrit |  | 
+ndër sy |  | 
+i shkel syrin |  | 
+marr parasysh |  | 
+ik prej syve |  | 
+vë në shaka |  | 
+sëmundja e shalës së trashë |  | 
+peshk sharrë |  | 
+i sharroj zemrën |  | 
+ferrë shejtani |  | 
+për ditën e shejtanit |  | 
+shelg i verdhë |  | 
+shelg i varrjes |  | 
+shirit ngjitës |  | 
+bëj sherr |  | 
+shestoj me bërë |  | 
+shesh sportiv |  | 
+qëndroj shesh |  | 
+dal në shesh |  | 
+i shëndoshë si mollë |  | 
+shëndoshë e mirë |  | 
+i shëndoshë si vig |  | 
+shërbesa e mbrëmjes |  | 
+i bëj shiringë |  | 
+shfryrje gëzimi |  | 
+shi në këto ditë |  | 
+vesë shiu |  | 
+erë shiu |  | 
+për shkak të |  | 
+për këtë shkak |  | 
+rrëzoj nga shkalla |  | 
+deri në një shkallë |  | 
+për shkallësh poshtë |  | 
+i shkallës së parë |  | 
+i shkallosur prej brengës |  | 
+shkallimi i mendjes |  | 
+shkamb dëbore |  | 
+vë shkandull kundër |  | 
+pa një shkarth |  | 
+më dha shkas |  | 
+shkel urdhrin |  | 
+shkoj ditën |  | 
+shkoj nëpër duar |  | 
+shkojnë mirë shoq me shoq |  | 
+shkoj jetë të keqe |  | 
+shkoj si qen në rrush |  | 
+shkoj fijen në gjilpërë |  | 
+këshill shkollor |  | 
+djalë shkolle |  | 
+shkollë tregtare |  | 
+gërma të shkrifta |  | 
+shkrif për të |  | 
+gjuha më bëhet shkrumb |  | 
+është mot i shkuar për rrush |  | 
+i shkul një grusht |  | 
+qet shkumë |  | 
+shkumë barku |  | 
+drita shmanget |  | 
+për shok |  | 
+në short me |  | 
+shpërvjel buzët |  | 
+shpie buzën në gaz |  | 
+e shpie në zemër |  | 
+shpif fjalë të këqija |  | 
+rri mbi shpinë të |  | 
+shpina e anijes |  | 
+shpirti i gojës |  | 
+pa mish e pa shpirt |  | 
+njëzet shpirt |  | 
+të zë shpirtin |  | 
+bjerr shpirtin |  | 
+ishte kah jepte shpirt |  | 
+mbaj shpirtin ndër dhëmbë |  | 
+më preku shpirtin |  | 
+shporrem nga vendi |  | 
+bëj shporri me |  | 
+i bie shputë |  | 
+kap në shqelma |  | 
+shqelmi i vdekjes |  | 
+shqerr me ndonjë |  | 
+e mori shqimit |  | 
+shqyej mishin |  | 
+një shtambë e krisur |  | 
+e hidhur posi shtarë |  | 
+më bie për shtat |  | 
+lëshoj shtat |  | 
+shtrihem shtatit |  | 
+të pushoi shtati |  | 
+burrë shteti |  | 
+shtëllungë avulli |  | 
+mëma e shtëpisë |  | 
+në shtëpi |  | 
+zonja e shtëpisë |  | 
+shtëpi qortimi |  | 
+vë një shtëpi peng |  | 
+shtie themelin |  | 
+shtie veshët në lesh |  | 
+shtie kalla për |  | 
+shtie ndër mend |  | 
+shtie në dhe |  | 
+shtie në dorë |  | 
+na shtie në mendje |  | 
+më shtie në mend se |  | 
+shtie dashuri me |  | 
+shtojca e vogël e zorrës së verbër |  | 
+bie shtrëngë |  | 
+shtrëngim i dorës |  | 
+shtrydh zemrën |  | 
+shtrydh tesha |  | 
+mblidhen shtuf |  | 
+shtyllë kurrizore |  | 
+mblidhem shuk |  | 
+në shultinë |  | 
+vend shultinë |  | 
+shumë e për lumë |  | 
+shumë e shumë |  | 
+gjëndrat shytash |  | 
+vinte vetë gishtin në tamtam |  | 
+të tanët |  | 
+për të tëra sendet |  | 
+për tani |  | 
+dru tape |  | 
+vonë për vonë |  | 
+tej kufirit |  | 
+atje tej |  | 
+tek po punonte |  | 
+pas dëshirës e tekës |  | 
+kur të më tekë |  | 
+tel me gjemba |  | 
+shtyllë telegrafi |  | 
+vë tellallin |  | 
+është e tepërme të themi |  | 
+kaq vjet e tëhu |  | 
+tej e tëhu |  | 
+kalë tërheqjeje |  | 
+e jap tërthorazi |  | 
+pa tjetër se |  | 
+me fjalë të tjera |  | 
+në mos tjetër |  | 
+bie për tokë |  | 
+ul gotën në tokë |  | 
+një top gjizë |  | 
+i ra topër |  | 
+i qes topër |  | 
+vij torrë |  | 
+sheqer toz |  | 
+trëndafil deti |  | 
+trangull deti |  | 
+vaj i trashë |  | 
+gjë të trasha |  | 
+ec në trok |  | 
+trung nervash |  | 
+trup mësimor |  | 
+një tufë derrash |  | 
+një tufë çelësash |  | 
+një tufë lulesh |  | 
+trumba-trumba |  | 
+tuli i dhëmbit |  | 
+tund qumështin |  | 
+i ndal turrin sëmundjes |  | 
+u bë tym |  | 
+për tym |  | 
+bukë e thatë |  | 
+male të thata |  | 
+trim i thatë |  | 
+me duar të thata |  | 
+lë në të thatë |  | 
+me sy të thatë |  | 
+e ka kapur thatësira |  | 
+më thek zemrën |  | 
+me zemër të thekur |  | 
+në themel |  | 
+hedh themelin |  | 
+thëngjill i mbuluar |  | 
+derr i egër |  | 
+thikë plori |  | 
+e bënte thumb |  | 
+flisnin njëri thumbit tjetri patkoit |  | 
+thur lavdi për |  | 
+i pa udhë |  | 
+udhë e hekurt |  | 
+me udhë |  | 
+i priste udhën |  | 
+bëj udhë |  | 
