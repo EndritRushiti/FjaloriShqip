@@ -72595,3 +72595,61 @@ zjarrit po nuk i fryve nuk ndizet |  |
 amanetin e mban toka |  | 
 mos ki frikë nga hasmi po nga miku i rremë |  | 
 po nuk e pate të ligun brenda nuk të vjen nga jashtë |  | 
+bojë arre |  | 
+bojë dredhëze |  | 
+bojë bari |  | 
+bojë biluri |  | 
+bojë bumballe |  | 
+bojë deti |  | 
+bojë dielli |  | 
+bojë dukati |  | 
+bojë dylli |  | 
+bojë florini |  | 
+bojë ftoi |  | 
+bojë kashte |  | 
+bojë lule kungulli |  | 
+bojë eshke |  | 
+bojë fildishi |  | 
+bojë kane |  | 
+bojë lakre |  | 
+bojë lini |  | 
+bojë merxhani |  | 
+bojë mishi |  | 
+bojë mjegulle |  | 
+bojë mjedre |  | 
+bojë mugulli |  | 
+bojë myshku |  | 
+bojë prushi |  | 
+bojë qime mushke |  | 
+bojë shqarthi |  | 
+bojë tambli |  | 
+bojë tulle |  | 
+bojë teli |  | 
+bojë veje |  | 
+lule kungulli |  | 
+pllat vdore |  | 
+hiqu mare rranimes |  | 
+flet me spilca |  | 
+bardhish | adj
+bojan | noun
+gojëzi | adj
+hajezi | adj
+harxhe | noun
+qimemullëmagjar | adj
+sykëllirë | adj
+zverdhsh | adj
+pikquk | adv
+plëpce | noun
+pupurr | noun
+qafëtë | noun
+rrasaxham | noun
+rranime | noun
+rrakapuj | adv
+rrencë | noun
+rroçe | noun
+rrucem | verb
+skuluficë | noun
+smajkitet | verb
+spilc | noun
+strapacohem | verb
+shatarr | adj

@@ -19,7 +19,7 @@ const checks: [string, (w: Word) => boolean][] = [
   ["no Albanian description (English only)", (w) => !w.description && glosses(w).length > 0 && !glosses(w).every((s) => s.source === "auto")],
   ["only a machine-guessed English meaning", (w) => !w.description && glosses(w).length > 0 && glosses(w).every((s) => s.source === "auto")],
   ["description only repeats the word", (w) => !!w.description && norm(w.description.text) === norm(w.word)],
-  ["description has a colon or semicolon inside a sentence", (w) => !!w.description && /[;:](s|$)/.test(w.description.text)],
+  ["description has a colon or semicolon inside a sentence", (w) => !!w.description && /[;:](\s|$)/.test(w.description.text)],
   // "luftim: Luftimi", "fisnikëri: Fisnikëria": the word itself with the definite article
   ["description is only the definite form of the word", (w) => !!w.description && /^\S+$/.test(norm(w.description.text)) && [w.word + "i", w.word + "a", w.word + "ja", w.word + "u", w.word.replace(/ë$/, "") + "a", w.word.replace(/e$/, "") + "a"].includes(norm(w.description.text))],
   ["headword is a misspelling", (w) => glosses(w).some((s) => /misspelling of|nonstandard spelling/i.test(s.gloss))],
