@@ -757,7 +757,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""], ["meyer-1896.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -1033,6 +1033,8 @@ function sourcesPage(): string {
       sq: "Forma gege, secila e lidhur me fjalën standarde.", en: "Gheg forms, each linked to its standard word." },
     { title: "Gustav Weigand, Albanesisch-deutsches Wörterbuch (1914)", author: "Gustav Weigand", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00118331-1", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma të lidhura me fjalën standarde.", en: "Forms linked to the standard word." },
+    { title: "Gustav Meyer, Albanesische Studien V (1896)", author: "Gustav Meyer", link: "https://www.digitale-sammlungen.de/view/bsb11837072", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (1908)", author: "Shoqnia e Bashkimit", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",

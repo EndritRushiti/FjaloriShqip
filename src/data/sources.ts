@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896";
 
 export interface SourceInfo {
   id: SourceId;
@@ -391,6 +391,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     usedFor: {
       sq: "Forma nga fjalori shqip-gjermanisht, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkrimi i autorit në drejtshkrimin e sotëm.",
       en: "Forms from the Albanian-German dictionary, each linked to its standard word. We convert the words from the author's spelling into today's.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara lihen jashtë.",
+      en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and loans are left out.",
+    },
+  },
+  "meyer-1896": {
+    id: "meyer-1896",
+    name: "Gustav Meyer, Albanesische Studien V (Vjenë 1896)",
+    publisher: "Gustav Meyer (1850–1900), Vjenë. Skanuar nga Bayerische Staatsbibliothek",
+    url: "https://www.digitale-sammlungen.de/view/bsb11837072",
+    downloadUrl: "https://www.digitale-sammlungen.de/view/bsb11837072",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma arvanitase nga fjalorthi i librit për dialektet shqipe të Greqisë, secila e lidhur me fjalën standarde përkatëse.",
+      en: "Arvanitika forms from the book's glossary of the Albanian dialects of Greece, each linked to its standard word.",
     },
     notUsed: {
       sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara lihen jashtë.",
