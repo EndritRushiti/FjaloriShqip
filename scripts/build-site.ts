@@ -1039,7 +1039,7 @@ function sourcesPage(): string {
       sq: "Vetëm fjalët. Përshkrimet janë tonat.", en: "Headwords only. The descriptions are our own." },
     { title: "Dhora, Fjalor i emrave të kafshëve në Shqipëri", author: "Dhora", link: "https://archive.org/details/FJALORIEmraveTKafshveNShqipri", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
       sq: "Vetëm emrat popullorë të kafshëve. Përshkrimet janë tonat.", en: "Folk animal names only. The descriptions are our own." },
-    { title: "Revistat Gjuha Shqipe dhe Gjurmime Albanologjike, listat e fjalëve të krahinave", author: "Instituti Albanologjik i Prishtinës", link: "https://albanica.al/", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
+    { title: "Revistat Studime Filologjike, Gjuha Shqipe dhe Gjurmime Albanologjike, listat e fjalëve të krahinave", author: "Instituti i Gjuhësisë dhe i Letërsisë, Tiranë, dhe Instituti Albanologjik, Prishtinë", link: "https://albanica.al/", licence: "Vetëm fjalët", licenceUrl: "https://fjalorishqip.org/rreth/",
       sq: "Vetëm fjalët e mbledhura nga krahinat. Përshkrimet janë tonat.", en: "Only the words collected in the regions. The descriptions are our own." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
