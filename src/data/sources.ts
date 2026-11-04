@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914";
 
 export interface SourceInfo {
   id: SourceId;
@@ -361,6 +361,40 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tabelat e lakimit nuk ribotohen.",
       en: "The inflection tables are not republished.",
+    },
+  },
+  "busetti-1911": {
+    id: "busetti-1911",
+    name: "Antonio Busetti, Vocabolario italiano-albanese (Shkodër 1911)",
+    publisher: "Antonio Busetti, Shkodër. Skanuar nga Bayerische Staatsbibliothek",
+    url: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133737-8",
+    downloadUrl: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133737-8",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma gege nga fjalori italisht-shqip, secila e lidhur me fjalën standarde përkatëse.",
+      en: "Gheg forms from the Italian-Albanian vocabulary, each linked to its standard word.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara lihen jashtë.",
+      en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and loans are left out.",
+    },
+  },
+  "weigand-1914": {
+    id: "weigand-1914",
+    name: "Gustav Weigand, Albanesisch-deutsches Wörterbuch (Leipzig 1914)",
+    publisher: "Gustav Weigand (1860–1930), Leipzig. Skanuar nga Bayerische Staatsbibliothek",
+    url: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00118331-1",
+    downloadUrl: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00118331-1",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma nga fjalori shqip-gjermanisht, secila e lidhur me fjalën standarde përkatëse. Fjalët i kthejmë nga shkrimi i autorit në drejtshkrimin e sotëm.",
+      en: "Forms from the Albanian-German dictionary, each linked to its standard word. We convert the words from the author's spelling into today's.",
+    },
+    notUsed: {
+      sq: "Përkufizimet e librit nuk kopjohen, merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen dhe fjalët e huazuara lihen jashtë.",
+      en: "The book's definitions are not copied; only the words and their meaning are taken. The scans are not republished and loans are left out.",
     },
   },
   "reinhold-1855": {
