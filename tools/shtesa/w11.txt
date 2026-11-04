@@ -1,0 +1,132 @@
+nërkryzë|noun|Leckë që i vihet thesit sipër.|k
+xërxallë|noun|Gjinkallë.|k
+xhizllore|noun|Gjinkallë.|k
+xhixhllimë|noun|Xixëllonjë.|k
+krymyll|noun|Kërmill.|k
+krymell|noun|Kërmill.|k
+purrenik|noun|Pite me presh.|k
+ulzajë|noun|Mal me drurë ulëze.|k
+zgur|noun|Zgavër e madhe në trungun e drurit.|k
+zgor|noun|Zgavër në dru.|k
+pizhimush|noun|Kërmill.|k
+gabelisht|adv|Keq, si flasin gabelët.|k
+leçitje|noun|Veçimi i dikujt nga rrethi shoqëror.|k
+fryfç|noun|Njeri që fryhet e lavdërohet.|k
+shterran|noun|Njeri me zë të ngjirur.|k
+teshmëz|noun|Grip.|k
+qajzë|noun|Qafore e kalit.|k
+zemërzë|noun|Thupërza e sovajkës së vekut.|k
+vithenik|noun|Rrip që mban samarin a shalën e kalit.|k
+bretkoskë|noun|Bretkosë.|k
+fraskë|noun|Gozhdë e kthyer.|k
+guranana|noun|Lojë fëmijësh.|k
+grumllaç|noun|Njeri me gungë në shpinë.|k
+mazllimë|noun|Xixëllonjë.|k
+mris|noun|Copë litari, lak.|k
+nerpet|noun|Pite në shtresa petësh.|k
+papertok|noun|Njeri shumë i shkurtër.|k
+perhundsh|noun|Qurrash.|k
+pikerdhijas|noun|Lojë barinjsh me shkopa.|k
+pitekulare|noun|Pite me rrathë.|k
+pliat|noun|Shtresë e madhe bore.|k
+rrallosh|noun|Plak i lënë mendsh.|k
+rrofajë|noun|Gërdhaja e specit me farat.|k
+sohë|noun|Dru që mban barrën e drunjve.|k
+shperdhitët|adj|I shkathët.|k
+shfloll|noun|Arnë lëkure për opingën.|k
+shumtaç|noun|Njeri i shëmtuar.|k
+thic|noun|Dhëmbëza që dalin në gojën e lopëve.|k
+vizllake|noun|Opinga të ndritshme.|k
+vorbas|noun|Lojë fëmijësh në rresht.|k
+edhëz|noun|Edh prej gjashtë muajsh deri një vjeç.|k
+bardhishkë|noun|Dhi krejt e bardhë.|k
+bode|noun|Dhi me vesh të lëshuar.|k
+brinrrumllak|noun|Cjap me brirë të rrumbullakët.|k
+brinkaçerr|noun|Cjap me brirë të kthyer.|k
+cicvogel|noun|Dhi me cica të vogla.|k
+kasheder|noun|Dhi me brirë të vegjël.|k
+kerbesh|noun|Cjap i zi.|k
+larc|noun|Cjap laraman.|k
+thiniosh|noun|Cjap me qime të thinjura.|k
+vargjosh|noun|Cjap me vargje në qime.|k
+bazhurr|noun|Lopë shumë e kuqe.|k
+besleg|noun|Ka i kuqërremtë që prin.|k
+hikërri|noun|Sëmundje e deleve që i bën të shkepojnë.|k
+rapunga|noun|Bimë me gjethe të mëdha sa shuplaka.|k
+therrmagari|noun|Lloj gjembi.|k
+rrodhza|noun|Bimë që rritet rreth arave e ngjitet.|k
+dashza|noun|Bimë buzë arave që e hanë kafshët.|k
+shaklla|noun|Gjemb që rritet në plehnishta.|k
+bishtmithi|noun|Bimë e vendeve shkëmbore.|k
+hikrri|noun|Bimë e viseve të larta.|k
+barthek|noun|Bar livadhesh me gjethe si të grurit.|k
+ngjitsi|noun|Bar i hollë që i ngjitet misrit.|k
+shterbol|noun|Bar shërues për sëmundjet e dhive.|k
+unishë|noun|Dallëndyshe.|k
+bomar|noun|Mashkulli i bletës.|k
+borozak|noun|Vegël fryme.|k
+bazdung|noun|Misri bashkë me boçën.|k
+klysht|noun|Bajame.|k
+lishezë|noun|Lishat që u dalin bagëtive.|k
+mneksh|noun|Mashkulli i vogël i buallicës.|k
+nelxhin|noun|Vendi i zbrazët në samar mes dy barrëve.|k
+perqyrrç|noun|Qurrash.|k
+perjergç|adj|Që i shkojnë jargët.|k
+rrshitzë|noun|Vendi ku rrëshqasin fëmijët në dëborë.|k
+spilk|noun|Dru që vihet në kulm.|k
+shterngojs|noun|Kular druri për shtrëngim.|k
+trupc|noun|Trup druri rreth vatrës.|k
+tlet|noun|Të fikët.|k
+bardhishk|noun|Dash i bardhë.|k
+bishtanik|noun|Argati i fundit në arë.|k
+bjuzë|noun|Lodër fëmijësh që lëshon zë.|k
+blizë|noun|Hobe me dy degë.|k
+bojanik|noun|Moshatar.|k
+bujas|noun|Lojë barinjsh me shkopinj.|k
+çaprrap|adv|Shpejt e shpejt.|k
+çullamak|noun|Përzierje gjellësh.|k
+domosdojkas|noun|Lojë barinjsh me trembëdhjetë lojtarë.|k
+dydegsh|noun|Dru me dy degë.|k
+fundiksh|noun|Njeri që bërtet.|k
+gathç|adj|I ngathët.|k
+gabrraç|noun|Plak i dobët.|k
+gdhen|noun|Lloj pishe.|k
+gugsh|noun|Arrë që thyhet me zor.|k
+kamkerlikt|adv|Me ecje të panatyrshme.|k
+kallamushti|noun|Dredha e frymës.|k
+katerlamsh|noun|Rrotullim fëmijësh.|k
+kerrbicë|noun|Enë druri për tamël.|k
+kertinë|noun|Arë me ujë.|k
+koklizë|noun|Misër për kokoroshka.|k
+korrontm|noun|Sëmundje me puçrra.|k
+krehosh|noun|Cjap me lara në krahë.|k
+laroshk|noun|Rrush jo i zi.|k
+llapangus|noun|Grykës.|k
+llopovic|noun|Borë e shkrirë me ujë.|k
+mertiksh|noun|Ai që ha shumë.|k
+metilsh|noun|Fëmijë i dobët.|k
+mshels|noun|Shul dere.|k
+nerbarkzë|noun|Rrip nën barkun e kalit.|k
+ngatrricë|noun|Shtazë e egër sa macja me bisht të gjatë.|k
+patuc|noun|Njeri me hundë të shtypur.|k
+pergi|noun|Ceremonitë e kërkimit të vajzës.|k
+pleçnitar|noun|Ai që di të ndajë pleqni.|k
+pleqnitar|noun|Ai që di të ndajë pleqni.|k
+poperdhak|noun|Gur mesatar.|k
+puladushkë|noun|Zog i zi mali, më i vogël se sorra.|k
+renanik|noun|Prijësi i argatëve në arë.|k
+silnar|noun|Dru në skajet e pullazit.|k
+skepthat|noun|Qukapik.|k
+spaicë|noun|Qërojsë misri.|k
+spicaz|noun|Lojë barinjsh me kërcim me tri hapa.|k
+spilikaz|noun|Lojë barinjsh me spilika.|k
+shitzë|noun|Vendi ku rrëshqasin fëmijët.|k
+shkatrraç|noun|Njeri i dobët nga shëndeti.|k
+shnjegëll|noun|Litar leshi për të bartur barrë.|k
+trakamsë|noun|Grepi i dritares.|k
+thelbinas|noun|Lojë barinjsh me shkop.|k
+verxhe|adv|Me vargje, thuhet për qethjen.|k
+zdrevllinë|noun|Dredhë lëkure që lidh opingën.|k
+zgojz|noun|Sëmundje thonjsh nga mospastërtia.|k
+lulëmengez|noun|Lule me gjethe të gjera.|k
+kaparan|noun|Mantel leshi i malësorëve.|k
