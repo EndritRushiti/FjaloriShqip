@@ -1,0 +1,35 @@
+# Every Sunday: the forms visitors gave through "Si e thua ti?" that reached the threshold are checked and saved
+# to the repository (scripts/si-e-thua.ts). Nothing is uploaded here: Monday's deploy publishes them with its
+# refresh, so only the changed pages are written to R2.
+name: Si e thua ti
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 20 * * 0"
+permissions:
+  contents: write
+concurrency:
+  group: cloudflare-deploy
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          check-latest: true
+          cache: npm
+      - run: npm ci
+      - run: npm run sources
+      - run: npm run data
+      - run: npx tsx scripts/si-e-thua.ts
+      - name: Save what was accepted or refused
+        run: |
+          git add dialekte/si-e-thua.tsv korrigjime/si-e-thua-refuzuar.tsv
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Si e thua ti: new forms from speakers"
+          git push

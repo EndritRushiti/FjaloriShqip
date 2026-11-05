@@ -608,9 +608,10 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
 function reportBox(w: Word): string {
   const option = (kind: string, sq: string, en: string) => `<button type="button" class="report-opt" data-kind="${kind}">${bi(sq, en)}</button>`;
   return `<div class="report" data-word="${h(w.word)}">
-  <button type="button" class="report-btn" aria-expanded="false">${icon.flag(16)} <span class="report-label">${bi("Raporto ose sugjero", "Report or suggest")}</span></button>
+  <button type="button" class="report-btn" aria-expanded="false">${icon.flag(16)} <span class="report-label">${bi("Si e thua ti?", "How do you say it?")}</span></button>
   <div class="report-pop" hidden>
-    <p class="report-q">${bi("Çfarë nuk shkon me këtë fjalë?", "What is wrong with this word?")}</p>
+    <div class="sithua"></div>
+    <details class="report-more"><summary>${bi("Ka një gabim në këtë fjalë?", "Is there a mistake in this word?")}</summary>
     <div class="report-opts">
       ${option("kuptimi", "Kuptimi anglisht është i gabuar", "The English meaning is wrong")}
       ${option("pershkrimi", "Përshkrimi shqip është i gabuar", "The Albanian description is wrong")}
@@ -620,7 +621,8 @@ function reportBox(w: Word): string {
     <label class="report-suggest">${bi("Ose sugjeroni një përshkrim a kuptim më të mirë:", "Or suggest a better description or meaning:")}
       <textarea rows="2" maxlength="1000"></textarea></label>
     <button type="button" class="btn btn-primary btn-sm report-opt" data-kind="sugjerim">${bi("Dërgo sugjerimin", "Send suggestion")}</button>
-    <p class="report-note muted small">${bi("Pa llogari e pa email. Raportet i lexon autori çdo javë.", "No account, no email. The author reads the reports every week.")}</p>
+    </details>
+    <p class="report-note muted small">${bi("Pa llogari e pa email. Kur tre njerëz japin të njëjtën fjalë, ajo hyn në fjalor.", "No account, no email. When three people give the same word, it enters the dictionary.")}</p>
   </div>
 </div>`;
 }
@@ -757,7 +759,7 @@ const placeOf = new Map<string, string>();
 {
   const PLACE: Record<string, string> = { Σ: "Shkodër", bogdan: "Bogdani", Budi: "Budi", Jakovë: "Gjakovë", Jakova: "Gjakovë" };
   const dir = path.join(process.cwd(), "dialekte");
-  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""], ["meyer-1896.tsv", ""], ["leake-1814.tsv", ""], ["fiorilli-2002.tsv", ""], ["gallo-sanmarzano.tsv", ""], ["molise-arberesh.tsv", ""]] as const) {
+  for (const [file, fixed] of [["kristoforidhi-1904.tsv", ""], ["gazulli-1942.tsv", ""], ["dozon-1879.tsv", ""], ["jungg-1895.tsv", "Shkodër"], ["folesit.tsv", ""], ["si-e-thua.tsv", ""], ["xylander-1835.tsv", ""], ["voskopojari-1802.tsv", ""], ["bashkimi-1908.tsv", "Shkodër"], ["reinhold-1855.tsv", ""], ["busetti-1911.tsv", "Shkodër"], ["weigand-1914.tsv", ""], ["meyer-1896.tsv", ""], ["leake-1814.tsv", ""], ["fiorilli-2002.tsv", ""], ["gallo-sanmarzano.tsv", ""], ["molise-arberesh.tsv", ""]] as const) {
     const f = path.join(dir, file);
     if (!fs.existsSync(f)) continue;
     for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
@@ -765,7 +767,7 @@ const placeOf = new Map<string, string>();
       const cols = line.split("\t");
       const region = fixed || cols[7] || "";
       // speakers' words name their towns as written (Tetovë, Gostivar, Kërçovë)
-      const place = file === "folesit.tsv" ? region : PLACE[region] ?? (/^[A-ZÇË][a-zçë]+$/.test(region) && region !== "Arbëresh" ? region : "");
+      const place = file === "folesit.tsv" || file === "si-e-thua.tsv" ? region : PLACE[region] ?? (/^[A-ZÇË][a-zçë]+$/.test(region) && region !== "Arbëresh" ? region : "");
       if (place && !placeOf.has(cols[0])) placeOf.set(cols[0], place);
     }
   }
@@ -1059,6 +1061,7 @@ function sourcesPage(): string {
       sq: "Forma toske të Voskopojës, secila e lidhur me fjalën standarde.", en: "Tosk forms of Voskopojë, each linked to its standard word." },
     { title: "Xylander, Die Sprache der Albanesen (1835)", author: "Josef von Xylander", link: "https://archive.org/details/diesprachederal00xylagoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma toske nga fjalorthi i librit, secila e lidhur me fjalën standarde.", en: "Tosk forms from the book's vocabulary, each linked to its standard word." },
+    { title: "Si e thua ti? Folësit e shqipes", author: "Vizitorët e faqes, tre njerëz të ndryshëm për çdo formë", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/", sq: "Forma dialektore të dhëna nga folësit, të kontrolluara automatikisht.", en: "Dialect forms given by speakers, checked automatically." },
     { title: "Folësit e dialekteve", author: "Folës vendas; të kontrolluara nga redaktori i FjaloriShqip", link: "https://fjalorishqip.org/rreth/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
       sq: "Fjalë që njerëzit i thonë në shtëpi e në fshat dhe rrallë i shkruajnë (p.sh. çik, cauc, rrabe në Tetovë, Gostivar e Kërçovë), me vendin ku thuhen. Emrat e folësve nuk botohen, përshkrimet janë tonat.", en: "Words people say at home and in the village but rarely write (e.g. çik, cauc, rrabe in Tetovë, Gostivar and Kërçovë), with the place where they are said. The speakers' names are not published; the descriptions are our own." },
     { title: "Albanesische Studien, vëll. 3: shtojca e fjalorit shqip-gjermanisht (1853–1854)", author: "Johann Georg von Hahn (1811–1869)", link: "https://archive.org/details/10589474bsb", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",

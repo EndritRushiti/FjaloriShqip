@@ -210,7 +210,22 @@
     return rows;
   }
 
-  function lookup(q, limit) {
+  /** The word a dialect form belongs to: "Formë gege e fjalës «ujë»" → ujë. */
+  function mainOf(row) {
+    var m = /fjal[ëe]s\s+«([^»]+)»/.exec(String(row[8] || "")) || /^(?:Gheg|Tosk|Arb[ëe]resh|Arvanitika|old|alternative)\s+(?:form|spelling) of\s+([^\s(,;]+)/i.exec(String(row[3] || ""));
+    return m ? m[1] : "";
+  }
+  /** A word of the same family: its meaning names the base word, in any ordinary form (ujor: "me ujin"). */
+  function relatedTo(row, base) {
+    var plain = function (s) { return String(s).toLowerCase().replace(/ë/g, "e").replace(/ç/g, "c"); };
+    var stem = plain(base).replace(/e$/, "");
+    if (stem.length < 2) return false;
+    var re = new RegExp("(^|[^a-z])" + stem + "(e|i|in|it|a|u|n|et|t|ra|rat|rave|ve|ne|s|se|ut|un)?([^a-z]|$)");
+    return re.test(plain((row[8] || "") + " " + (row[3] || "")));
+  }
+
+  /** strict (the list under the search box): when the text is a real word, only that word and its family. */
+  function lookup(q, limit, strict) {
     return Promise.all([loadIndex(), formMatches(q)]).then(function (r) {
       var index = r[0], forms = r[1], seen = {}, out = [];
       var k = fold(q);
@@ -219,9 +234,17 @@
       found.forEach(function (x) { if (x.row[1] === k) add(x.row, false, x.direct); });
       var byWord = null;
       if (forms.length) { byWord = {}; for (var i = 0; i < index.length; i++) byWord[index[i][0]] = index[i]; }
-      forms.forEach(function (w) { add(byWord[w], true, false); });
+      var exact = out.length ? out[0].row : null;
+      var main = exact && strict ? mainOf(exact) : "";
+      // uj is a form of ujë: the rare other word with the same spelling (yll, Eastern Gheg) waits on the full results page
+      forms.forEach(function (w) { if (!main || w === main) add(byWord[w], true, false); });
       if (!out.length) guessBase(index, k).forEach(function (row) { add(row, true, false); });
-      found.forEach(function (x) { if (out.length < limit) add(x.row, false, x.direct); });
+      var base = main || (exact ? exact[0] : "");
+      found.forEach(function (x) {
+        if (out.length >= limit) return;
+        if (strict && exact && !x.direct && !relatedTo(x.row, base)) return; // ujk starts with the same letters, nothing more
+        add(x.row, false, x.direct);
+      });
       return out.slice(0, limit);
     });
   }
@@ -250,7 +273,7 @@
     function update() {
       var q = input.value;
       if (q.trim().length < 1) { close(); return; }
-      lookup(q, 8).then(function (rows) {
+      lookup(q, 8, true).then(function (rows) {
         if (input.value !== q) return;
         current = rows;
         active = -1;
@@ -452,6 +475,53 @@
   });
 
   // ── word pages: "Raporto ose sugjero" popup ──
+  // "Si e thua ti?": the visitor's own form of the word, with dialect and region (POST /si-e-thua)
+  var SI_E_THUA = {
+    gheg: { sq: "Gegërisht", en: "Gheg", places: ["Malësi e Madhe", "Shkodër", "Lezhë", "Mirditë", "Pukë", "Has", "Tropojë", "Kukës", "Dibër", "Mat", "Krujë", "Tiranë", "Durrës", "Elbasan", "Prishtinë", "Drenicë", "Dukagjin", "Anamoravë", "Mitrovicë", "Preshevë", "Shkup", "Tetovë", "Gostivar", "Kërçovë", "Strugë", "Ulqin", "Tuz", "Plavë e Guci"] },
+    tosk: { sq: "Toskërisht", en: "Tosk", places: ["Korçë", "Devoll", "Pogradec", "Kolonjë", "Përmet", "Skrapar", "Berat", "Myzeqe", "Fier", "Vlorë", "Labëri", "Gjirokastër", "Sarandë", "Çamëri", "Ohër e Prespë"] },
+    arberesh: { sq: "Arbërisht", en: "Arbëresh", places: ["Kalabri", "Sicili", "Molise", "Pulia", "Basilicata", "Campania", "Abruzzo"] },
+    arvanitika: { sq: "Arvanitisht", en: "Arvanitika", places: ["Atikë", "Beoti", "Peloponez", "Evia", "Andros", "Trakë"] }
+  };
+  function siThuaForm(box, word, onDone) {
+    var holder = box.querySelector(".sithua");
+    if (!holder) return;
+    var key = "si-e-thua:" + word;
+    var sent = false;
+    try { sent = localStorage.getItem(key) === "1"; } catch (e) {}
+    if (sent) { holder.innerHTML = '<p class="report-q">' + bi("Faleminderit, e dhatë përgjigjen për këtë fjalë.", "Thank you, you answered for this word.") + "</p>"; return; }
+    var dialects = Object.keys(SI_E_THUA).map(function (d) { return '<option value="' + d + '">' + esc(SI_E_THUA[d].sq + " / " + SI_E_THUA[d].en) + "</option>"; }).join("");
+    holder.innerHTML = '<p class="report-q">' + bi("Si e thua ti këtë fjalë në vendin tënd?", "How do you say this word where you are from?") + "</p>" +
+      '<input class="sithua-form" type="text" maxlength="40" autocomplete="off" lang="sq" aria-label="Si e thua ti?">' +
+      '<select class="sithua-dialect" aria-label="Dialekti"><option value="">Zgjidh dialektin / Choose the dialect</option>' + dialects + "</select>" +
+      '<select class="sithua-region" aria-label="Vendi" hidden></select>' +
+      '<button type="button" class="btn btn-primary btn-sm sithua-send">' + bi("Dërgo", "Send") + "</button>";
+    var input = holder.querySelector(".sithua-form"), dialect = holder.querySelector(".sithua-dialect"), region = holder.querySelector(".sithua-region"), send = holder.querySelector(".sithua-send");
+    dialect.addEventListener("change", function () {
+      var d = SI_E_THUA[dialect.value];
+      region.hidden = !d;
+      if (d) region.innerHTML = '<option value="">Vendi (nuk është i detyrueshëm) / Place (optional)</option>' + d.places.map(function (p) { return "<option>" + esc(p) + "</option>"; }).join("");
+    });
+    send.addEventListener("click", function () {
+      if (input.value.trim().length < 2) { input.focus(); return; }
+      if (!dialect.value) { dialect.focus(); return; }
+      send.disabled = true;
+      var body = new FormData();
+      body.set("word", word); body.set("form", input.value); body.set("dialect", dialect.value); body.set("region", region.value);
+      body.set("t", String(openedAt)); body.set("website", "");
+      var wait = Math.max(0, openedAt + 2100 - Date.now());
+      new Promise(function (r) { setTimeout(r, wait); })
+        .then(function () { return fetch(BASE + "/si-e-thua", { method: "POST", body: body, headers: { Accept: "application/json" } }); })
+        .then(function (r) { return r.json(); })
+        .then(function (r) {
+          if (!r.ok) { send.disabled = false; return; }
+          try { localStorage.setItem(key, "1"); } catch (e) {}
+          holder.innerHTML = '<p class="report-q">' + bi("Faleminderit! Kur edhe dy të tjerë japin të njëjtën fjalë, ajo hyn në fjalor.", "Thank you! When two others give the same word, it enters the dictionary.") + "</p>";
+          onDone();
+        })
+        .catch(function () { send.disabled = false; });
+    });
+  }
+
   document.querySelectorAll(".report").forEach(function (box) {
     var word = box.getAttribute("data-word");
     var toggle = box.querySelector(".report-btn");
@@ -466,8 +536,9 @@
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
     function done() {
       toggle.classList.add("sent");
-      toggle.querySelector(".report-label").innerHTML = bi("U raportua, faleminderit", "Reported, thank you");
+      toggle.querySelector(".report-label").innerHTML = bi("Faleminderit", "Thank you");
     }
+    siThuaForm(box, word, done);
     box.querySelectorAll(".report-opt").forEach(function (b) {
       var kind = b.getAttribute("data-kind");
       if (reported(word, kind)) { markSent(b, null); done(); }

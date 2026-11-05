@@ -13,6 +13,8 @@ routes = [
   { pattern = "fjalorishqip.org/kontakt", zone_name = "fjalorishqip.org" },
   # reports and suggestions from the word pages (src/worker/report.ts)
   { pattern = "fjalorishqip.org/raporto", zone_name = "fjalorishqip.org" },
+  # "Si e thua ti?" on the word pages (src/worker/si-e-thua.ts)
+  { pattern = "fjalorishqip.org/si-e-thua", zone_name = "fjalorishqip.org" },
   # daily notifications: subscribe / unsubscribe, and the app open counter (src/worker/push.ts);
   # "*" so the address still matches with a query string (/hap?burim=app)
   { pattern = "fjalorishqip.org/njoftime*", zone_name = "fjalorishqip.org" },

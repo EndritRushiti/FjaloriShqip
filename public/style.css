@@ -637,3 +637,11 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .app-today-item { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; color: var(--text); }
 .app-today-item:hover { border-color: var(--accent); }
 .app-today-item b { font-size: 1.25rem; color: var(--accent); }
+
+/* "Si e thua ti?" inside the same popup */
+.sithua { display: grid; gap: 8px; }
+.sithua input, .sithua select { width: 100%; box-sizing: border-box; padding: 8px; border-radius: 10px; border: 1px solid var(--border, #ccc); background: var(--bg, #fff); color: inherit; font: inherit; }
+.sithua select[hidden] { display: none; }
+.report-more { font-size: 0.9rem; }
+.report-more summary { cursor: pointer; color: var(--muted, inherit); margin-bottom: 6px; }
+.report-more[open] { display: grid; gap: 8px; }

@@ -12,6 +12,7 @@ import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js
 import { type EmailSender, handleContact } from "./contact.js";
 import { handleOpen, handleSubscribe, type PushBucket, sendBatch, weeklyStats } from "./push.js";
 import { handleReport, type ReportBucket, sendWeekly } from "./report.js";
+import { handleSiThua } from "./si-e-thua.js";
 
 /** The parts of the Workers R2 API this Worker uses (kept local so the repo needs no Workers type package). */
 export interface R2ObjectBody {
@@ -129,6 +130,7 @@ export default {
     // without the bucket the handlers answer "unavailable" (or, for /hap, just redirect) and write nothing
     const writable = env.R2_WRITES === "off" ? undefined : env.REPORTS;
     if (new URL(request.url).pathname === "/raporto") return handleReport(request, writable);
+    if (new URL(request.url).pathname === "/si-e-thua") return handleSiThua(request, writable);
     // daily notifications and the app open counter (src/worker/push.ts)
     if (new URL(request.url).pathname === "/njoftime") return handleSubscribe(request, writable);
     if (new URL(request.url).pathname === "/hap") return handleOpen(request, writable);

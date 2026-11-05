@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua";
 
 export interface SourceInfo {
   id: SourceId;
@@ -543,6 +543,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
       en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "si-e-thua": {
+    id: "si-e-thua",
+    name: "Si e thua ti? Folësit e shqipes në FjaloriShqip",
+    publisher: "Vizitorët e faqes",
+    url: "https://fjalorishqip.org/rreth/",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Forma dialektore të dhëna nga folësit. Një formë hyn vetëm kur e japin të paktën tre njerëz të ndryshëm për të njëjtin dialekt.",
+      en: "Dialect forms given by speakers. A form enters only when at least three different people give it for the same dialect.",
+    },
+    notUsed: {
+      sq: "Emrat dhe adresat e njerëzve nuk ruhen.",
+      en: "People's names and addresses are not kept.",
     },
   },
   "meyer-1896": {

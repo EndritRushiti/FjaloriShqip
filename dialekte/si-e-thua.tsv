@@ -1,0 +1,3 @@
+# Words given by visitors through "Si e thua ti?" on the word pages. A form enters only after 3 different people give it for the same dialect and it passes scripts/lib/si-e-thua-rules.ts.
+# Added automatically every Sunday by scripts/si-e-thua.ts. Names are never kept.
+# Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>(empty)<TAB>where it is said
