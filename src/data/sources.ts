@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878";
 
 export interface SourceInfo {
   id: SourceId;
@@ -575,6 +575,38 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Përkufizimet dhe shembujt nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
       en: "Definitions and examples are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "letersia-gege": {
+    id: "letersia-gege",
+    name: "Letërsia gege: Fishta, Gjeçovi, Bogdani",
+    publisher: "Fishta, Gjeçovi, Bogdani",
+    url: "https://archive.org/details/lahuta-e-malcis-gjergj-fishta-1937",
+    licence: "Vetëm fjalët dhe të dhënat për to / Words and facts about them only",
+    licenceUrl: "https://archive.org/details/lahuta-e-malcis-gjergj-fishta-1937",
+    usedFor: {
+      sq: "Forma gege të gjetura në veprat e vjetra të letërsisë.",
+      en: "Gheg forms found in older works of literature.",
+    },
+    notUsed: {
+      sq: "Tekstet nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "The texts are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "mitko-1878": {
+    id: "mitko-1878",
+    name: "Thimi Mitko, Bleta shqypëtare (1878)",
+    publisher: "Thimi Mitko",
+    url: "https://www.digitale-sammlungen.de/en/view/bsb00133799",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma toske të gjetura në këngët dhe përrallat e librit.",
+      en: "Tosk forms found in the songs and tales of the book.",
+    },
+    notUsed: {
+      sq: "Tekstet nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
+      en: "The texts are not copied. The Albanian descriptions are our own.",
     },
   },
   "meyer-1896": {
