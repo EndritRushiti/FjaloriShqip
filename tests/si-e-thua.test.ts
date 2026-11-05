@@ -1,3 +1,4 @@
+import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import { check, type Knowledge, looksAlike, wellFormed } from "../scripts/lib/si-e-thua-rules.js";
 import type { ReportBucket } from "../src/worker/report.js";
@@ -99,5 +100,14 @@ describe("the checks", () => {
     expect(check("mushkonjë", "metshkë", 3, k)).toEqual({ ok: false, reason: "pak" });
     expect(check("mushkonjë", "metshkë", 5, k)).toEqual({ ok: true });
     expect(looksAlike("nënë", "nanë")).toBe(true);
+  });
+});
+
+describe("the Worker's addresses", () => {
+  it("every route in wrangler.toml is left alone by the page rewrite in cloudflare-setup.ts", () => {
+    const routes = [...readFileSync("wrangler.toml", "utf8").matchAll(/pattern = "fjalorishqip\.org(\/[a-z-]+)\*?"/g)].map((m) => m[1]);
+    const rule = readFileSync("scripts/cloudflare-setup.ts", "utf8");
+    expect(routes).toContain("/si-e-thua");
+    for (const r of routes) expect(rule).toContain(`"${r}"`);
   });
 });

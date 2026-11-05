@@ -1629,7 +1629,7 @@ function apiWord(w: Word): object {
     write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${files.join("\n")}\n</sitemapindex>\n`);
   }
   // /hap and /njoftime are the app's counter and subscription addresses (src/worker/push.ts), not pages
-  write("robots.txt", ["User-agent: *", "Allow: /", "Disallow: /hap", "Disallow: /njoftime", "Disallow: /api/v1/", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
+  write("robots.txt", ["User-agent: *", "Allow: /", "Disallow: /hap", "Disallow: /njoftime", "Disallow: /si-e-thua", "Disallow: /api/v1/", ...(SITE_URL ? ["", `Sitemap: ${absolute("/sitemap.xml")}`] : []), ""].join("\n"));
 
   // llms.txt (https://llmstxt.org): a short guide for AI assistants and tools on what the site is and how to use it
   if (SITE_URL) {
