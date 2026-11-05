@@ -76258,3 +76258,10 @@ krejt në fund |  |
 asnjë dallim |  | 
 acid folik |  | 
 arrestim në flagrancë |  | 
+i | other
+ma | other
+ia | other
+ua | other
+iu | other
+këta | pron
+këto | pron
