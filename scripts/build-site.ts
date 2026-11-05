@@ -1059,6 +1059,8 @@ function sourcesPage(): string {
       sq: "Forma gege të gjetura në letërsi, secila e lidhur me fjalën standarde.", en: "Gheg forms found in literature, each linked to its standard word." },
     { title: "Thimi Mitko, Bleta shqypëtare (1878)", author: "Thimi Mitko", link: "https://www.digitale-sammlungen.de/en/view/bsb00133799", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma toske nga këngët dhe përrallat, secila e lidhur me fjalën standarde.", en: "Tosk forms from the songs and tales, each linked to its standard word." },
+    { title: "Forma të rregullta gege", author: "FjaloriShqip", link: "https://fjalorishqip.org/burimet/", licence: "CC BY-SA 4.0", licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+      sq: "Forma gege në -ue të ndërtuara me rregull nga foljet në -oj, jo të marra nga një libër. Secila e thotë këtë në faqen e vet.", en: "Gheg forms in -ue built by rule from verbs in -oj, not taken from a book. Each says so on its own page." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma arvanitase, secila e lidhur me fjalën standarde.", en: "Arvanitika forms, each linked to its standard word." },
     { title: "Shoqnia e Bashkimit, Fialuer i Rii i Shcypés (1908)", author: "Shoqnia e Bashkimit", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00133812-6", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",

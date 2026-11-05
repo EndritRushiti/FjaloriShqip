@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege";
 
 export interface SourceInfo {
   id: SourceId;
@@ -607,6 +607,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Tekstet nuk kopjohen. Përshkrimet shqip i shkruajmë vetë.",
       en: "The texts are not copied. The Albanian descriptions are our own.",
+    },
+  },
+  "rregull-gege": {
+    id: "rregull-gege",
+    name: "Forma të rregullta gege",
+    publisher: "FjaloriShqip",
+    url: "https://fjalorishqip.org/burimet/",
+    licence: "CC BY-SA 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
+    usedFor: {
+      sq: "Forma gege të ndërtuara me rregull nga foljet standarde në -oj.",
+      en: "Gheg forms built by rule from standard verbs in -oj.",
+    },
+    notUsed: {
+      sq: "Këto forma nuk janë marrë nga një libër dhe kjo shkruhet në faqen e secilës.",
+      en: "These forms are not taken from a book, and each page says so.",
     },
   },
   "meyer-1896": {
