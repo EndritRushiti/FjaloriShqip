@@ -8,7 +8,6 @@
  *   anything missing    → 404.html with status 404
  */
 
-import { foldKey } from "../data/model.js";
 import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../site/security.js";
 import { type EmailSender, handleContact } from "./contact.js";
 import { handleOpen, handleSubscribe, type PushBucket, sendBatch, weeklyStats } from "./push.js";
@@ -120,33 +119,6 @@ async function headers(key: string, env: Env, opts: { etag?: string; versioned?:
   return h;
 }
 
-/**
- * A word address with no page of its own: an inflected or dialect form, a word merged into another, or the
- * wrong case. Answers with the address it belongs to, or null when the word is simply not in the dictionary.
- * One headword → that word's page; several → the search page, which lists them all.
- */
-export async function wordTarget(key: string, env: Env): Promise<string | null> {
-  const m = /^fjala\/([^/]+?)(?:\/index\.html)?$/.exec(key);
-  if (!m) return null;
-  const word = m[1];
-  const lower = word.toLocaleLowerCase("sq");
-  if (lower !== word && (await env.SITE.head(`fjala/${lower}/index.html`))) return `/fjala/${encodeURIComponent(lower)}/`;
-  const k = foldKey(word.replace(/_/g, " "));
-  if (!k) return null;
-  const shard = await env.SITE.get(`api/v1/format/${k[0]}.json`);
-  if (!shard) return null;
-  let forms: Record<string, string[]>;
-  try {
-    forms = (await new Response(shard.body).json()) as Record<string, string[]>;
-  } catch {
-    return null;
-  }
-  const list = Object.prototype.hasOwnProperty.call(forms, k) ? forms[k] : undefined;
-  if (!list?.length) return null;
-  if (list.length === 1) return `/fjala/${encodeURIComponent(list[0].replace(/ /g, "_"))}/`;
-  return `/kerko/?q=${encodeURIComponent(word)}`;
-}
-
 async function notFound(env: Env, head: boolean): Promise<Response> {
   const page = await env.SITE.get("404.html");
   return new Response(head || !page ? null : page.body, { status: 404, headers: await headers("404.html", env) });
@@ -202,9 +174,6 @@ export default {
       url.pathname = `${url.pathname}/`;
       return Response.redirect(url.toString(), 301);
     }
-    // a form or an old address of a word: send it to the page it belongs to
-    const target = await wordTarget(key, env);
-    if (target) return Response.redirect(new URL(target, url).toString(), target.startsWith("/kerko/") ? 302 : 301);
     return notFound(env, head);
   },
 

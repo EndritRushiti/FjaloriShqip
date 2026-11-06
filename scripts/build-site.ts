@@ -1454,7 +1454,8 @@ function notFoundPage(): string {
   <h1>${t("notFound")}</h1>
   <p class="lead">${bi("Kjo faqe nuk ekziston. Provoni kërkimin:", "This page does not exist. Try searching:")}</p>
   ${searchBox({ size: "big", chips: true })}
-</div>`;
+</div>
+<script src="/gabim.js" defer></script>`;
   return layout({ title: "404 — FjaloriShqip", description: "Faqja nuk u gjet.", body, headerSearch: false, noindex: true });
 }
 
