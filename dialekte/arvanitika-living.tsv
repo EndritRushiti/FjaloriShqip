@@ -1,0 +1,59 @@
+# Native Arvanitika words from the Arvanitika Living Dictionary (livingdictionaries.app/arvanitika), stress marks removed.
+# Only the words are taken. Greek and Turkish loans are in huazime/arvanitika-living.tsv. Descriptions are our own.
+# Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region
+malj	arvanitika	noun		mal	mount		
+ljis	arvanitika	noun		lis	oak (Quercus, specifically Quercus robur)		
+ljemsh	arvanitika	noun		lëmsh	ball (of wood, thread)		
+mbrrul	arvanitika	noun		bërryl	elbow		
+giashtë	arvanitika	num		gjashtë	six		
+gjashtëmbet	arvanitika	num		gjashtëmbëdhjetë	sixteen		
+trembet	arvanitika	num		trembëdhjetë	thirteen		
+dimbet	arvanitika	num		dymbëdhjetë	twelve		
+dimbëtë	arvanitika	num		dymbëdhjetë	twelve		
+dimbedhjetë	arvanitika	num		dymbëdhjetë	twelve		
+dimëdhjetë	arvanitika	num		dymbëdhjetë	twelve		
+tetëmbet	arvanitika	num		tetëmbëdhjetë	eighteen		
+shtatëmbet	arvanitika	num		shtatëmbëdhjetë	seventeen		
+katrëmbet	arvanitika	num		katërmbëdhjetë	fourteen		
+pesëmbet	arvanitika	num		pesëmbëdhjetë	fifteen		
+niembëtë	arvanitika	num		njëmbëdhjetë	eleven		
+niezet	arvanitika	num		njëzet	twenty		
+nie	arvanitika	num		një	one		
+nendë	arvanitika	num		nëntë	nine		
+qiorr	arvanitika	noun		qorr	blind person		
+qielq	arvanitika	noun		qelq	glass		
+match	arvanitika	noun		mace	cat		
+gliemb	arvanitika	noun		gjemb	thorn, barb, sharp spine, prickle		
+kshiu	arvanitika	noun		fjalë	word		
+arëzë	arvanitika	noun		grerëz	wasp		
+krëmbil	arvanitika	noun		kërmill	snail, slug		
+mel	arvanitika	noun		mel	common millet		
+kemishë	arvanitika	noun		këmishë	shirt		
+vitsh	arvanitika	noun		viç	calf; cattle (offspring of a cow); (up to one year old)		
+mustakj	arvanitika	noun		mustaqe	moustache (hair on upper lip)		
+medhulj	arvanitika	noun		palcë	bone marrow, inner part of tree		
+shkeljb	arvanitika	noun		shqelm	kick		
+furtulakëze	arvanitika	adj		flutur	fast and agile		
+afrë	arvanitika	prep		afër	at, beside, by, near, nearby, near to, next to		
+berda	arvanitika	prep		brenda	inside, in		
+io	arvanitika	det		jo	negates non-verbal phrases: no, not		
+aio	arvanitika	pron		ajo	she		
+chë	arvanitika	conj		që	that, which		
+diepër	arvanitika	noun		djep	cradle		
+kshulie	arvanitika	noun		kësulë	brimless cap, skullcap		
+mbinjar	arvanitika	noun		binjak	twin (either of two people who shared the same uterus, or of two similar or clos		
+biniar	arvanitika	noun		binjak	twin (either of two people who shared the same uterus, or of two similar or clos		
+bishtarredh	arvanitika	noun		akrep	scorpion		
+mular	arvanitika	noun		mushkë	mule		
+chergë	arvanitika	noun		çergë	tent; spread, feast		
+shklirishte	arvanitika	adv		greqisht	in Greek		
+skleristë	arvanitika	adv		greqisht	in Greek		
+skleristete	arvanitika	adv		greqisht	in Greek		
+arberishte	arvanitika	adj		arbërisht	Arbërisht (language)		
+arbërishtë	arvanitika	adj		arbërisht	Arbërisht (language)		
+barkaniar	arvanitika	adj		barkmadh	pot-bellied		
+shith	arvanitika	noun		shi	rain		
+ruthun	arvanitika	noun		flegër	wing (of the nose), wooden plate		
+kjush	arvanitika	noun		murator	mason (one who builds with stone or brick)		
+ngortsije	arvanitika	noun		gorricë	wild pear		
+afent	arvanitika	noun		zot	lord, master; God (Zot)		

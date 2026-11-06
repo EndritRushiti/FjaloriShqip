@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter" | "korpus-i-folur";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter" | "korpus-i-folur" | "arvanitika-living";
 
 export interface SourceInfo {
   id: SourceId;
@@ -703,6 +703,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Nuk ruhet asnjë tekst nga korpusi, vetëm fjalë të veçuara.",
       en: "No text from the corpus is kept, only single words.",
+    },
+  },
+  "arvanitika-living": {
+    id: "arvanitika-living",
+    name: "Arvanitika Living Dictionary",
+    publisher: "Living Dictionaries",
+    url: "https://livingdictionaries.app/arvanitika",
+    licence: "Vetëm fjalët, shkrimet janë tonat",
+    licenceUrl: "https://fjalorishqip.org/burimet/",
+    usedFor: {
+      sq: "Fjalë arvanitase vendëse me kuptimin e tyre.",
+      en: "Native Arvanitika words with their meaning.",
+    },
+    notUsed: {
+      sq: "Nuk janë marrë përkufizimet dhe janë lënë jashtë huazimet nga greqishtja dhe turqishtja.",
+      en: "Definitions are not used, and loans from Greek and Turkish are left out.",
     },
   },
   "meyer-1896": {
