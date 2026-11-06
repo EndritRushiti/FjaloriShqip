@@ -19,6 +19,7 @@
  * for the zone: Zone Read, DNS Edit, Transform Rules Edit, Cache Rules Edit,
  * Cache Purge, Workers Routes Edit; and for the account: Workers R2 Storage Edit.
  */
+import { existsSync, readFileSync } from "node:fs";
 import { pathToFileURL } from "node:url";
 import { contentSecurityPolicy, cspHash, HEAD_SCRIPT } from "../src/site/security.js";
 
@@ -42,6 +43,20 @@ export interface Rule {
   expression: string;
   action: string;
   action_parameters: Record<string, unknown>;
+}
+
+/**
+ * The bucket answers a missing page with Cloudflare's own English "Not Found" page, so this rule serves our 404.html
+ * instead (search box, and public/gabim.js sends forms to the page of their word). Cloudflare allows 10 KB of content.
+ */
+export function notFoundRule(html: string): Rule {
+  if (html.length > 10_000) throw new Error(`404.html is ${html.length} bytes, Cloudflare allows 10 KB`);
+  return {
+    description: "FjaloriShqip: our own 404 page",
+    expression: `(${onHost} and http.response.code eq 404)`,
+    action: "serve_error",
+    action_parameters: { content: html, content_type: "text/html", status_code: 404 },
+  };
 }
 
 /** The rules of each ruleset phase. A phase's entry point is replaced as a whole, so re-running is safe. */
@@ -179,6 +194,17 @@ async function main() {
   for (const [phase, list] of Object.entries(await rules())) {
     await api("PUT", `/zones/${zone.id}/rulesets/phases/${phase}/entrypoint`, { rules: list });
     console.log(`rules: ${phase} (${list.length})`);
+  }
+
+  // our own 404 page; a token without the Custom Errors permission must not stop the deploy
+  if (existsSync("dist/404.html")) {
+    try {
+      const rule = notFoundRule(readFileSync("dist/404.html", "utf8"));
+      await api("PUT", `/zones/${zone.id}/rulesets/phases/http_custom_errors/entrypoint`, { rules: [rule] });
+      console.log("rules: http_custom_errors (1)");
+    } catch (e) {
+      console.log(`::warning::404 page rule not set: ${e instanceof Error ? e.message : e}`);
+    }
   }
 
   // --rules-only: while the month's free R2 uploads are used up, only the rules change (no bucket call, no cache purge,
