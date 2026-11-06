@@ -22,6 +22,8 @@ const env: Env = {
     "fjala/nënë/index.html": "<h1>nënë</h1>",
     "api/v1/fjala/nënë.json": '{"word":"nënë"}',
     "style.css": "body{}",
+    "fjala/punoj/index.html": "<h1>punoj</h1>",
+    "api/v1/format/p.json": '{"punova":["punoj"],"pune":["punë","punoj"]}',
   }),
   NOINDEX: "1",
 };
@@ -35,6 +37,21 @@ describe("worker", () => {
     expect(keyFor("/style.css")).toBe("style.css");
     expect(keyFor("/a/../secret")).toBeNull();
     expect(keyFor("/%E0%A4%A")).toBeNull();
+  });
+
+  it("sends forms and old word addresses to the page they belong to", async () => {
+    const form = await get("/fjala/punova/");
+    expect(form.status).toBe(301);
+    expect(form.headers.get("Location")).toBe("https://example.org/fjala/punoj/");
+    expect((await get("/fjala/punova")).status).toBe(301);
+    const upper = await get("/fjala/Punoj/");
+    expect(upper.status).toBe(301);
+    expect(upper.headers.get("Location")).toBe("https://example.org/fjala/punoj/");
+    const both = await get("/fjala/pun%C3%AB/");
+    expect(both.status).toBe(302);
+    expect(both.headers.get("Location")).toBe("https://example.org/kerko/?q=pun%C3%AB");
+    expect((await get("/fjala/xyzxyz/")).status).toBe(404);
+    expect((await get("/fjala/constructor/")).status).toBe(404);
   });
 
   it("serves the home page and word pages", async () => {
