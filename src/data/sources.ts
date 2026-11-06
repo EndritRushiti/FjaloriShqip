@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter" | "korpus-i-folur" | "arvanitika-living";
+export type SourceId = "bardhi-1635" | "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter" | "korpus-i-folur" | "arvanitika-living";
 
 export interface SourceInfo {
   id: SourceId;
@@ -719,6 +719,23 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Nuk janë marrë përkufizimet dhe janë lënë jashtë huazimet nga greqishtja dhe turqishtja.",
       en: "Definitions are not used, and loans from Greek and Turkish are left out.",
+    },
+  },
+  "bardhi-1635": {
+    id: "bardhi-1635",
+    name: "Frang Bardhi, Dictionarium latino-epiroticum (Romë 1635)",
+    publisher: "Frang Bardhi (1606–1643), Romë. Skanuar nga Bayerische Staatsbibliothek",
+    url: "https://www.digitale-sammlungen.de/view/bsb10589074",
+    downloadUrl: "https://www.digitale-sammlungen.de/view/bsb10589074",
+    licence: "Domain publik / Public domain",
+    licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+    usedFor: {
+      sq: "Forma të vjetra gege nga fjalori latinisht-shqip, të shkruara me drejtshkrimin e sotëm dhe të lidhura me fjalën standarde.",
+      en: "Old Gheg forms from the Latin-Albanian dictionary, written in today's spelling and linked to the standard word.",
+    },
+    notUsed: {
+      sq: "Merren vetëm fjalët dhe kuptimi i tyre. Skanimet nuk ribotohen.",
+      en: "Only the words and their meaning are taken. The scans are not republished.",
     },
   },
   "meyer-1896": {
