@@ -300,7 +300,7 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
 
 /** Standard meanings before dialect, regional and old ones (lang: "hound" before the regional "liquid"); otherwise the order is kept. */
 function standardFirst(): number {
-  const DIALECT_BOOKS = new Set<SourceId>(["si-e-thua", "rregull-gege", "mitko-1878", "letersia-gege", "studime-arberesh", "meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908", "reinhold-1855", "busetti-1911", "weigand-1914", "meyer-1896", "leake-1814", "fiorilli-2002", "gallo-sanmarzano", "molise-arberesh"]);
+  const DIALECT_BOOKS = new Set<SourceId>(["si-e-thua", "studime-dialektore", "rregull-gege", "mitko-1878", "letersia-gege", "studime-arberesh", "meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908", "reinhold-1855", "busetti-1911", "weigand-1914", "meyer-1896", "leake-1814", "fiorilli-2002", "gallo-sanmarzano", "molise-arberesh"]);
   // Gheg and Tosk tags are left out: Wiktionary also puts them on standard meanings (hënë: moon)
   const MARGINAL = new Set(["Arbëresh", "Arvanitika", "regional", "dialectal", "archaic", "obsolete", "dated", "rare"]);
   const dialectal = (s: Sense) => DIALECT_BOOKS.has(s.source) || !!s.tags?.some((t) => MARGINAL.has(t));
@@ -1173,6 +1173,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "letersia-gege": list.filter((w) => w.sources.includes("letersia-gege")).length,
       "mitko-1878": list.filter((w) => w.sources.includes("mitko-1878")).length,
       "rregull-gege": list.filter((w) => w.sources.includes("rregull-gege")).length,
+      "studime-dialektore": list.filter((w) => w.sources.includes("studime-dialektore")).length,
       dhora: list.filter((w) => w.sources.includes("dhora")).length,
       "si-e-thua": list.filter((w) => w.sources.includes("si-e-thua")).length,
       "bufli-rocchi-2021": list.filter((w) => w.sources.includes("bufli-rocchi-2021")).length,
