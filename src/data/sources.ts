@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh";
 
 export interface SourceInfo {
   id: SourceId;
@@ -655,6 +655,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Nuk ruhet asnjë tekst nga korpusi, vetëm fjalë të veçuara.",
       en: "No text from the corpus is kept, only single words.",
+    },
+  },
+  "fjalor-arberesh": {
+    id: "fjalor-arberesh",
+    name: "Dizionario Arbëreshë-Italiano",
+    publisher: "Roberto Basile",
+    url: "https://github.com/robertobasile1980-byte/dizionario-arbereshe-italiano",
+    licence: "Vetëm fjalët, shkrimet janë tonat",
+    licenceUrl: "https://fjalorishqip.org/burimet/",
+    usedFor: {
+      sq: "Fjalë arbëreshe nga Hora e Arbëreshëvet dhe Ururi.",
+      en: "Arbëresh words from Piana degli Albanesi and Ururi.",
+    },
+    notUsed: {
+      sq: "Nuk janë marrë shpjegimet italisht dhe janë lënë jashtë huazimet.",
+      en: "The Italian explanations are not used and loans are left out.",
     },
   },
   "meyer-1896": {
