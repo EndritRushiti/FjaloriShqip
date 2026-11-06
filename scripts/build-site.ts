@@ -1447,6 +1447,26 @@ ${items}
   });
 }
 
+/**
+ * Forms that had a page before they were folded into their word (korrigjime/forma.txt). Old links and search
+ * engines still ask for them, and a missing page on the main domain is Cloudflare's plain "Not Found" (its custom
+ * error pages are paid only). Each gets a tiny page that sends the visitor on. Not in the sitemaps.
+ */
+function movedPages(): void {
+  let n = 0;
+  for (const line of fs.readFileSync(path.join(ROOT, "korrigjime", "forma.txt"), "utf8").split(/\r?\n/)) {
+    const [form, main] = line.split("#")[0].split("|").map((x) => x?.trim());
+    if (!form || !main || form === main || byWord.has(form) || !byWord.has(main) || /[/\\:*?"<>|]/.test(form)) continue;
+    const target = wordUrl(main);
+    write(
+      `fjala/${slug(form)}/index.html`,
+      `<!doctype html><html lang="sq"><head><meta charset="utf-8"><title>${h(form)}: ${h(main)}</title><link rel="canonical" href="${SITE_URL}${target}"><meta http-equiv="refresh" content="0;url=${target}"></head><body><p><a href="${target}">${h(main)}</a></p></body></html>`,
+    );
+    n++;
+  }
+  console.log(`moved pages: ${n}`);
+}
+
 function notFoundPage(): string {
   const body = `
 <div class="not-found">
@@ -1454,8 +1474,7 @@ function notFoundPage(): string {
   <h1>${t("notFound")}</h1>
   <p class="lead">${bi("Kjo faqe nuk ekziston. Provoni kërkimin:", "This page does not exist. Try searching:")}</p>
   ${searchBox({ size: "big", chips: true })}
-</div>
-<script src="/gabim.js" defer></script>`;
+</div>`;
   return layout({ title: "404 — FjaloriShqip", description: "Faqja nuk u gjet.", body, headerSearch: false, noindex: true });
 }
 
@@ -1511,6 +1530,7 @@ function apiWord(w: Word): object {
   write("aplikacioni/index.html", appPage());
   write("kerko/index.html", searchPage());
   write("404.html", notFoundPage());
+  movedPages();
   // one page per dialect (forms next to the standard word), and the same data for the API
   const dialectData: Record<string, { form: string; standard: string[]; own: boolean }[]> = {};
   for (const d of DIALECT_ORDER) {

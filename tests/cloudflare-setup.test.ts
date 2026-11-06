@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { notFoundRule, rules } from "../scripts/cloudflare-setup.js";
+import { rules } from "../scripts/cloudflare-setup.js";
 
 describe("cloudflare setup rules", () => {
   it("covers every phase the Worker used to handle, within the free plan's 10 rules per phase", async () => {
@@ -10,15 +10,6 @@ describe("cloudflare setup rules", () => {
       "http_response_headers_transform",
     ]);
     for (const list of Object.values(r)) expect(list.length).toBeLessThanOrEqual(10);
-  });
-
-  it("serves our own 404 page on the main domain, within Cloudflare's 10 KB", () => {
-    const rule = notFoundRule("<h1>404</h1>");
-    expect(rule.action).toBe("serve_error");
-    expect(rule.expression).toContain("fjalorishqip.org");
-    expect(rule.expression).toContain("http.response.code eq 404");
-    expect(rule.action_parameters).toMatchObject({ status_code: 404, content_type: "text/html" });
-    expect(() => notFoundRule("x".repeat(10_001))).toThrow();
   });
 
   it("only touches the main domain", async () => {
