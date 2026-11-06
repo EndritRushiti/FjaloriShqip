@@ -1,0 +1,2367 @@
+# Gheg and old Tosk forms counted in the HPLT v2 cleaned Albanian web corpus (CC0), with endings that standard Albanian does not have.
+# Only single words are taken, each found at least three times. No text from the corpus is kept.
+# Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region
+shënueme	gheg	verb		shënoj	to sign		
+dyshuemit	gheg	verb		dyshoj	to doubt, suspect		
+dyshuemi	gheg	verb		dyshoj	to doubt, suspect		
+dyshueme	gheg	verb		dyshoj	to doubt, suspect		
+avancueme	gheg	verb		avancoj	to advance (to move forwards, to approach)		
+uzurpueme	gheg	verb		uzurpoj	to usurp		
+balancueme	gheg	verb		balancoj	to balance		
+preferuen	gheg	verb		preferoj	to prefer		
+definueme	gheg	verb		definoj	to define		
+identifikuen	gheg	verb		identifikoj	to identify		
+analizuen	gheg	verb		analizoj	to analyse		
+intensifikuen	gheg	verb		intensifikoj	to intensify		
+klasifikueme	gheg	verb		klasifikoj	to classify		
+dyshuemin	gheg	verb		dyshoj	to doubt, suspect		
+instalueme	gheg	verb		instaloj	to install		
+lakmojsha	gheg	verb		lakmoj	to covet		
+nderojsh	gheg	verb		nderoj	to honour		
+bekuen	gheg	verb		bekoj	to bless		
+parakaluen	gheg	verb		parakaloj	to parade, pass by		
+paramendojsha	gheg	verb		paramendoj	to premeditate, to plan in advance		
+provojsha	gheg	verb		provoj	to try; to try out; to try on		
+shtojsh	gheg	verb		shtoj	to add		
+vizatojshin	gheg	verb		vizatoj	to draw		
+dedikueme	gheg	verb		dedikoj	to dedicate		
+dekretueme	gheg	verb		dekretoj	to decree		
+flirtojsha	gheg	verb		flirtoj	to flirt		
+ndalojsha	gheg	verb		ndaloj	to forbid, to ban, to stop		
+vëzhguen	gheg	verb		vëzhgoj	to monitor, observe, survey		
+harkueme	gheg	verb		harkoj	to arch		
+largojna	gheg	verb		largoj	to leave		
+fokusueme	gheg	verb		fokusoj	to focus		
+ndërmjetësueme	gheg	verb		ndërmjetësoj	to mediate		
+popullarizueme	gheg	verb		popullarizoj	to popularize		
+rrezikojshin	gheg	verb		rrezikoj	to risk, to jeopardize, to endanger, to imperil		
+sanksionueme	gheg	verb		sanksionoj	to sanction		
+shtojna	gheg	verb		shtoj	to add		
+votuemit	gheg	verb		votoj	to vote		
+disponojna	gheg	verb		disponoj	to have available		
+fluturojna	gheg	verb		fluturoj	to fly		
+kërkuet	gheg	verb		kërkoj	to look for, to seek, to search for		
+kundrojsha	gheg	verb		kundroj	to contemplate		
+përgjueme	gheg	verb		përgjoj	to eavesdrop		
+transmetueme	gheg	verb		transmetoj	to broadcast		
+trishtuen	gheg	verb		trishtoj	to make sad		
+votueme	gheg	verb		votoj	to vote		
+zotuen	gheg	verb		zotoj	to pledge		
+datueme	gheg	verb		datoj	to date		
+faktueme	gheg	verb		faktoj	to prove		
+jehojshe	gheg	verb		jehoj	to echo		
+kumbuene	gheg	verb		kumboj	to resound		
+ngurtësueme	gheg	verb		ngurtësoj	solidify (intransitive: to become solid; to freeze)		
+zgurdulluen	gheg	verb		zgurdulloj	to open wide (of eyes)		
+faruen	gheg	verb		faroj	to exterminate		
+fotografuen	gheg	verb		fotografoj	to photograph		
+harmonizueme	gheg	verb		harmonizoj	to harmonize		
+integrueme	gheg	verb		integroj	to integrate		
+interpretuen	gheg	verb		interpretoj	to interpret		
+karakterizojshin	gheg	verb		karakterizoj	qualify, characterize, characterise		
+konsumuen	gheg	verb		konsumoj	to consume		
+korruptuemin	gheg	verb		korruptoj	bribe, corrupt, buy		
+mbulojshe	gheg	verb		mbuloj	to cover		
+njoftueme	gheg	verb		njoftoj	to announce, to inform, to notify		
+parkueme	gheg	verb		parkoj	to park		
+pohuen	gheg	verb		pohoj	to admit		
+pushojsha	gheg	verb		pushoj	to rest, relax		
+sugjeruen	gheg	verb		sugjeroj	to suggest		
+shtrojshin	gheg	verb		shtroj	to spread, scatter, lay down		
+zbulojshe	gheg	verb		zbuloj	to discover		
+barazuen	gheg	verb		barazoj	to equalize		
+bekuemit	gheg	verb		bekoj	to bless		
+informuen	gheg	verb		informoj	inform		
+larguemit	gheg	verb		largoj	to leave		
+pastrojna	gheg	verb		pastroj	to clean		
+pruene	gheg	verb		proj	to guard, defend		
+pushuemit	gheg	verb		pushoj	to rest, relax		
+rrotullojna	gheg	verb		rrotulloj	to rotate		
+shtojshe	gheg	verb		shtoj	to add		
+urojsha	gheg	verb		uroj	to congratulate		
+zaptuemit	gheg	verb		zaptoj	invade (to enter by force in order to conquer)		
+argëtojsh	gheg	verb		argëtoj	to entertain, amuse		
+caktuemit	gheg	verb		caktoj	to set		
+filmueme	gheg	verb		filmoj	film, shoot, take		
+karakterizueme	gheg	verb		karakterizoj	qualify, characterize, characterise		
+kumbojshin	gheg	verb		kumboj	to resound		
+privatizueme	gheg	verb		privatizoj	to privatize		
+raportueme	gheg	verb		raportoj	report, describe, account		
+rregullojshin	gheg	verb		rregulloj	to put into working order		
+shurdhuen	gheg	verb		shurdhoj	to deafen		
+testuen	gheg	verb		testoj	to test		
+tradhtojsha	gheg	verb		tradhtoj	to betray		
+transformuen	gheg	verb		transformoj	to transform		
+akumulueme	gheg	verb		akumuloj	accumulate, cumulate, conglomerate		
+banojsh	gheg	verb		banoj	to live, inhabit, dwell, reside		
+demoralizueme	gheg	verb		demoralizoj	to demoralize		
+kontrabandueme	gheg	verb		kontrabandoj	to smuggle		
+mjeruen	gheg	verb		mjeroj	to make miserable		
+pagëzueme	gheg	verb		pagëzoj	to baptize		
+përkujtuen	gheg	verb		përkujtoj	to commemorate		
+preferuemit	gheg	verb		preferoj	to prefer		
+pretendojna	gheg	verb		pretendoj	to claim; to pretend		
+pushtuet	gheg	verb		pushtoj	to conquer		
+rrotullojshin	gheg	verb		rrotulloj	to rotate		
+sëmbueme	gheg	verb		sëmboj	to ache, to be painful (Tosk)		
+sqaruen	gheg	verb		sqaroj	to explain; to clarify		
+shtjelluen	gheg	verb		shtjelloj	explain, explicate		
+urojna	gheg	verb		uroj	to congratulate		
+zbukurojshin	gheg	verb		zbukuroj	to adorn		
+adresueme	gheg	verb		adresoj	to address		
+asistuen	gheg	verb		asistoj	to assist		
+asistueme	gheg	verb		asistoj	to assist		
+dallojshe	gheg	verb		dalloj	to discern, recognize		
+degradueme	gheg	verb		degradoj	to degrade		
+dhuruene	gheg	verb		dhuroj	to bestow, grant, donate		
+falënderuen	gheg	verb		falënderoj	thank		
+fejuemin	gheg	verb		fejoj	to betroth		
+fitojsha	gheg	verb		fitoj	to profit, earn		
+interpretojshin	gheg	verb		interpretoj	to interpret		
+kafshojshin	gheg	verb		kafshoj	to bite		
+kualifikuen	gheg	verb		kualifikoj	to qualify		
+kufizojshin	gheg	verb		kufizoj	to form a border, delimit (geographically)		
+martojsha	gheg	verb		martoj	to marry off, cause to get married, marry		
+mjerojsh	gheg	verb		mjeroj	to make miserable		
+ngacmojshin	gheg	verb		ngacmoj	to poke, bother, harass, provoke		
+pajtojshin	gheg	verb		pajtoj	to re-establish, agree		
+pezmatojshin	gheg	verb		pezmatoj	to irritate		
+përcëllueme	gheg	verb		përcëlloj	to roast		
+pikëlluen	gheg	verb		pikëlloj	to grieve, to sadden deeply		
+pohuet	gheg	verb		pohoj	to admit		
+praruen	gheg	verb		praroj	to gild		
+provokojna	gheg	verb		provokoj	to provoke		
+refuzojna	gheg	verb		refuzoj	to refuse		
+rrojsha	gheg	verb		rroj	to stay alive, survive		
+sakrifikojna	gheg	verb		sakrifikoj	to sacrifice		
+sistemojshin	gheg	verb		sistemoj	tidy, tidy up, clean up		
+shfletojshe	gheg	verb		shfletoj	to browse		
+verifikueme	gheg	verb		verifikoj	to verify, to check		
+vërshueme	gheg	verb		vërshoj	to gush		
+abstenuen	gheg	verb		abstenoj	to abstain		
+adhuruemi	gheg	verb		adhuroj	to adore		
+çmojsha	gheg	verb		çmoj	to appreciate, esteem, value		
+dërguemin	gheg	verb		dërgoj	to send, dispatch		
+diskutojna	gheg	verb		diskutoj	debate (participate in a debate)		
+disponojshin	gheg	verb		disponoj	to have available		
+ekspozuen	gheg	verb		ekspozoj	expose, exhibit, display		
+favorizueme	gheg	verb		favorizoj	to favour		
+frekuentueme	gheg	verb		frekuentoj	to frequent		
+gabuet	gheg	verb		gaboj	to err, to make a mistake		
+gazueme	gheg	verb		gazoj	to carbonate		
+guxojshe	gheg	verb		guxoj	to dare		
+hutuemit	gheg	verb		hutoj	to daze, astonish		
+influencuen	gheg	verb		influencoj	to influence		
+iniciueme	gheg	verb		inicioj	to initiate		
+kaluet	gheg	verb		kaloj	to pass, walk by		
+komentojsh	gheg	verb		komentoj	to comment		
+mbijetojna	gheg	verb		mbijetoj	to survive		
+mobilizojshin	gheg	verb		mobilizoj	to mobilize		
+mohuemit	gheg	verb		mohoj	to deny		
+ndërmjetësuen	gheg	verb		ndërmjetësoj	to mediate		
+obligueme	gheg	verb		obligoj	to oblige		
+organizojshim	gheg	verb		organizoj	to organise		
+përparuemi	gheg	verb		përparoj	to advance		
+përtojsha	gheg	verb		përtoj	to be too lazy to do something, go to work, etc.		
+profilizueme	gheg	verb		profilizoj	to profile		
+protestojsha	gheg	verb		protestoj	to protest		
+reflektueme	gheg	verb		reflektoj	to reflect		
+sfiduemit	gheg	verb		sfidoj	to challenge		
+shënuemit	gheg	verb		shënoj	to sign		
+shituen	gheg	verb		shitoj	a fate (zanë or orë punishes, petrifies or paralyzes a person when they cause th		
+shoqërueme	gheg	verb		shoqëroj	to accompany		
+shpjegueme	gheg	verb		shpjegoj	to explain		
+teprojna	gheg	verb		teproj	to exaggerate		
+trasueme	gheg	verb		trasoj	to trace		
+trumbetueme	gheg	verb		trumbetoj	to trumpet		
+themelojshin	gheg	verb		themeloj	to found, to establish		
+vargojsh	gheg	verb		vargoj	to string together		
+xixëllojshin	gheg	verb		xixëlloj	Gheg form of xixëlloj		
+zgurdullojsha	gheg	verb		zgurdulloj	to open wide (of eyes)		
+akreditueme	gheg	verb		akreditoj	to accredit		
+ankorueme	gheg	verb		ankoroj	to anchor		
+argëtojshin	gheg	verb		argëtoj	to entertain, amuse		
+dëgjojshim	gheg	verb		dëgjoj	to hear		
+diskutojsh	gheg	verb		diskutoj	debate (participate in a debate)		
+dominojna	gheg	verb		dominoj	to dominate		
+drangojsh	gheg	verb		drangoj	to bar		
+dhurojna	gheg	verb		dhuroj	to bestow, grant, donate		
+ekzagjerueme	gheg	verb		ekzagjeroj	to exaggerate		
+evakuuen	gheg	verb		evakuoj	evacuate (to move out of an unsafe location into safety)		
+evidentueme	gheg	verb		evidentoj	evidentiate, to provide evidence		
+farkëtojshe	gheg	verb		farkëtoj	forge, hammer		
+huazuen	gheg	verb		huazoj	to borrow		
+insistojshin	gheg	verb		insistoj	persevere, persist, hang in		
+internojshin	gheg	verb		internoj	to intern		
+konsultueme	gheg	verb		konsultoj	consult, confer with		
+kualifikuet	gheg	verb		kualifikoj	to qualify		
+lënduen	gheg	verb		lëndoj	to hurt, touch		
+martojshin	gheg	verb		martoj	to marry off, cause to get married, marry		
+materializueme	gheg	verb		materializoj	to materialize, to realize		
+munduet	gheg	verb		mundoj	to torture		
+ofendojsha	gheg	verb		ofendoj	to insult, to offend		
+pajtuemit	gheg	verb		pajtoj	to re-establish, agree		
+penduen	gheg	verb		pendoj	to regret		
+përforcojshin	gheg	verb		përforcoj	to reinforce, to strengthen		
+përparuen	gheg	verb		përparoj	to advance		
+përvetsojsha	gheg	verb		përvetsoj	appropriate; assimilate; acquire		
+popullarizuemi	gheg	verb		popullarizoj	to popularize		
+praktikojsh	gheg	verb		praktikoj	rehearse, practise, practice		
+privatizuen	gheg	verb		privatizoj	to privatize		
+privilegjuemi	gheg	verb		privilegjoj	to privilege		
+propagandueme	gheg	verb		propagandoj	to propagandize		
+provuet	gheg	verb		provoj	to try; to try out; to try on		
+punësuemit	gheg	verb		punësoj	to employ		
+qortueme	gheg	verb		qortoj	to admonish, to castigate		
+sulmojshim	gheg	verb		sulmoj	to attack		
+suprimuen	gheg	verb		suprimoj	to abolish		
+shpërfytyrueme	gheg	verb		shpërfytyroj	to disfigure		
+shurdhueme	gheg	verb		shurdhoj	to deafen		
+tentojsha	gheg	verb		tentoj	to try, attempt		
+teprojsh	gheg	verb		teproj	to exaggerate		
+trazojshim	gheg	verb		trazoj	to mix		
+thartueme	gheg	verb		thartoj	sour, turn, ferment		
+vajtojsha	gheg	verb		vajtoj	wail, whimper, mewl		
+vepruet	gheg	verb		veproj	to do something		
+vizitueme	gheg	verb		vizitoj	to visit		
+zbatuemit	gheg	verb		zbatoj	to carry out (orders, plans, etc.)		
+akuzuemin	gheg	verb		akuzoj	to accuse		
+aplikuen	gheg	verb		aplikoj	to apply		
+arkivueme	gheg	verb		arkivoj	to archive		
+bombardojshin	gheg	verb		bombardoj	bomb (attack with bombs)		
+botojshe	gheg	verb		botoj	to publish, issue, release		
+botuemi	gheg	verb		botoj	to publish, issue, release		
+caktojshim	gheg	verb		caktoj	to set		
+dëshpëruen	gheg	verb		dëshpëroj	to dishearten		
+dislokueme	gheg	verb		dislokoj	to deploy		
+dominuen	gheg	verb		dominoj	to dominate		
+familjarizuem	gheg	verb		familjarizoj	Gheg participle of familjarizoj		
+fërkojshim	gheg	verb		fërkoj	to rub		
+fotokopjueme	gheg	verb		fotokopjoj	to photocopy		
+gjykojshin	gheg	verb		gjykoj	to judge		
+harmonizuem	gheg	verb		harmonizoj	Gheg participle of harmonizoj		
+hyjnizuem	gheg	verb		hyjnizoj	Gheg participle of hyjnizoj		
+kontraktueme	gheg	verb		kontraktoj	to contract (an agreement)		
+kumtuen	gheg	verb		kumtoj	to announce		
+lazdrojshe	gheg	verb		lazdroj	to spoil		
+lexuet	gheg	verb		lexoj	to read		
+liberalizuen	gheg	verb		liberalizoj	to liberalize		
+likuiduen	gheg	verb		likuidoj	to liquidate		
+lotojshe	gheg	verb		lotoj	cry, weep		
+margjinalizueme	gheg	verb		margjinalizoj	to marginalize		
+marshojshin	gheg	verb		marshoj	to march		
+martuemit	gheg	verb		martoj	to marry off, cause to get married, marry		
+mashtrojshe	gheg	verb		mashtroj	to deceive, cheat, dupe		
+mashtrojshin	gheg	verb		mashtroj	to deceive, cheat, dupe		
+menaxhojsh	gheg	verb		menaxhoj	to manage		
+modernizueme	gheg	verb		modernizoj	modernize (bring something up to date)		
+munduemi	gheg	verb		mundoj	to torture		
+ndihmuet	gheg	verb		ndihmoj	to help		
+pakësuen	gheg	verb		pakësoj	abate, let up, slack off		
+parashikuen	gheg	verb		parashikoj	to predict		
+parashtrojshe	gheg	verb		parashtroj	to submit, to put forward		
+pendojshin	gheg	verb		pendoj	to regret		
+pikuen	gheg	verb		pikoj	to drip, to tickle, to leak		
+pluskojshin	gheg	verb		pluskoj	to float		
+praktikojshin	gheg	verb		praktikoj	rehearse, practise, practice		
+praruet	gheg	verb		praroj	to gild		
+preferuemi	gheg	verb		preferoj	to prefer		
+prodhojshin	gheg	verb		prodhoj	to produce; to manufacture		
+projna	gheg	verb		proj	to guard, defend		
+pruet	gheg	verb		proj	to guard, defend		
+recitojshin	gheg	verb		recitoj	recite		
+referueme	gheg	verb		referoj	to report, to refer		
+ripushtuene	gheg	verb		ripushtoj	to reconquer		
+simpatizojsh	gheg	verb		simpatizoj	to sympathize		
+spastrueme	gheg	verb		spastroj	to purge		
+studiuen	gheg	verb		studioj	study (to acquire knowledge)		
+shalojna	gheg	verb		shaloj	to saddle up		
+shituemi	gheg	verb		shitoj	a fate (zanë or orë punishes, petrifies or paralyzes a person when they cause th		
+shituemja	gheg	verb		shitoj	a fate (zanë or orë punishes, petrifies or paralyzes a person when they cause th		
+shpojna	gheg	verb		shpoj	to pierce, prick		
+tolerojshin	gheg	verb		toleroj	to tolerate		
+tradhtueme	gheg	verb		tradhtoj	to betray		
+trenuemin	gheg	verb		trenoj	to become mad, stupid		
+udhëtojsha	gheg	verb		udhëtoj	to travel		
+votojna	gheg	verb		votoj	to vote		
+xixëlluen	gheg	verb		xixëlloj	Gheg form of xixëlloj		
+xhirueme	gheg	verb		xhiroj	to film		
+zgjerueme	gheg	verb		zgjeroj	to widen, to expand, to enlarge		
+adhurojsh	gheg	verb		adhuroj	to adore		
+analizueme	gheg	verb		analizoj	to analyse		
+anatemueme	gheg	verb		anatemoj	to anathematize		
+anuluen	gheg	verb		anuloj	to annul, to cancel		
+aplikojsh	gheg	verb		aplikoj	to apply		
+arsyetuen	gheg	verb		arsyetoj	to reason		
+ashpërsueme	gheg	verb		ashpërsoj	to harden		
+autorizuen	gheg	verb		autorizoj	authorize (to grant power or permission)		
+betojsha	gheg	verb		betoj	to put/involve (someone) in an oath; to pledge		
+bisedueme	gheg	verb		bisedoj	to talk, to converse		
+biseduemit	gheg	verb		bisedoj	to talk, to converse		
+decentralizuem	gheg	verb		decentralizoj	Gheg participle of decentralizoj		
+dedikuen	gheg	verb		dedikoj	to dedicate		
+deklaruemit	gheg	verb		deklaroj	to declare		
+deklasuemit	gheg	verb		deklasoj	to declassify		
+dekurajuen	gheg	verb		dekurajoj	to discourage		
+diskreditueme	gheg	verb		diskreditoj	to discredit		
+distancuen	gheg	verb		distancoj	to distance		
+dizajnueme	gheg	verb		dizajnoj	to design		
+drejtojna	gheg	verb		drejtoj	to direct, to lead, to manage		
+eliminojna	gheg	verb		eliminoj	eliminate (completely destroy)		
+graduen	gheg	verb		gradoj	raise, lift, elevate		
+guxuet	gheg	verb		guxoj	to dare		
+harxhueme	gheg	verb		harxhoj	to spend, to expend		
+identifikojshin	gheg	verb		identifikoj	to identify		
+imitojsha	gheg	verb		imitoj	to imitate		
+indinjueme	gheg	verb		indinjoj	to outrage		
+induktueme	gheg	verb		induktoj	to induce		
+infektuen	gheg	verb		infektoj	to infect		
+insistojsha	gheg	verb		insistoj	persevere, persist, hang in		
+interpretueme	gheg	verb		interpretoj	to interpret		
+investueme	gheg	verb		investoj	invest, put, commit		
+kafshuen	gheg	verb		kafshoj	to bite		
+kaluemit	gheg	verb		kaloj	to pass, walk by		
+klasifikuen	gheg	verb		klasifikoj	to classify		
+klikueme	gheg	verb		klikoj	to click		
+konkurrojshin	gheg	verb		konkurroj	to take part in a contest, compete		
+kontaktueme	gheg	verb		kontaktoj	to contact		
+kontaminueme	gheg	verb		kontaminoj	to contaminate		
+kryesojna	gheg	verb		kryesoj	to chair, to lead		
+kryqëzuemit	gheg	verb		kryqëzoj	to cross, lay across		
+kulmuen	gheg	verb		kulmoj	to culminate		
+kumbuen	gheg	verb		kumboj	to resound		
+lakmuen	gheg	verb		lakmoj	to covet		
+larguene	gheg	verb		largoj	to leave		
+lënduemit	gheg	verb		lëndoj	to hurt, touch		
+ligjëruen	gheg	verb		ligjëroj	to legalize		
+liruet	gheg	verb		liroj	free (to make free, set at liberty)		
+lokalizueme	gheg	verb		lokalizoj	to localize, to locate		
+mrekulluemit	gheg	verb		mrekulloj	to amaze		
+mungojsha	gheg	verb		mungoj	to be absent, to be missed		
+nervozueme	gheg	verb		nervozoj	to make nervous, to irritate		
+ngacmueme	gheg	verb		ngacmoj	to poke, bother, harass, provoke		
+normalizueme	gheg	verb		normalizoj	to normalize		
+ofendojshin	gheg	verb		ofendoj	to insult, to offend		
+ofrojshe	gheg	verb		ofroj	to offer		
+përfitueme	gheg	verb		përfitoj	to gain, benefit, profit		
+përmirësuen	gheg	verb		përmirësoj	to improve		
+përmirësuemit	gheg	verb		përmirësoj	to improve		
+përshpejtueme	gheg	verb		përshpejtoj	to be hasty		
+përvetësojsh	gheg	verb		përvetësoj	to master		
+postuen	gheg	verb		postoj	to post		
+premtojshe	gheg	verb		premtoj	to promise		
+punësueme	gheg	verb		punësoj	to employ		
+punuemja	gheg	verb		punoj	to work		
+pushojshe	gheg	verb		pushoj	to rest, relax		
+qarkullojna	gheg	verb		qarkulloj	to circulate		
+qërojsh	gheg	verb		qëroj	clean		
+raportojshe	gheg	verb		raportoj	report, describe, account		
+reagojna	gheg	verb		reagoj	to react		
+respektojsha	gheg	verb		respektoj	respect (to have respect for)		
+restaurueme	gheg	verb		restauroj	repair, mend, fix		
+stresueme	gheg	verb		stresoj	to stress		
+sundojna	gheg	verb		sundoj	to reign		
+synuene	gheg	verb		synoj	to aim		
+sharruet	gheg	verb		sharroj	to saw		
+shqipojna	gheg	verb		shqipoj	to say clearly		
+shtuet	gheg	verb		shtoj	to add		
+shumojshin	gheg	verb		shumoj	to multiply		
+telekomandueme	gheg	verb		telekomandoj	to operate by remote control		
+teprojshin	gheg	verb		teproj	to exaggerate		
+transmetojsh	gheg	verb		transmetoj	to broadcast		
+tregtojna	gheg	verb		tregtoj	to trade, sale, do business with		
+ushtruemit	gheg	verb		ushtroj	to exercise (use, call upon)		
+vajtojsh	gheg	verb		vajtoj	wail, whimper, mewl		
+vizatojshe	gheg	verb		vizatoj	to draw		
+votojshin	gheg	verb		votoj	to vote		
+votojsh	gheg	verb		votoj	to vote		
+votuemi	gheg	verb		votoj	to vote		
+zaptuene	gheg	verb		zaptoj	invade (to enter by force in order to conquer)		
+zotnojshim	gheg	verb		zotnoj	to own		
+abuzuen	gheg	verb		abuzoj	to abuse		
+analizojshin	gheg	verb		analizoj	to analyse		
+anketueme	gheg	verb		anketoj	to survey, to poll		
+argumentuen	gheg	verb		argumentoj	to argue		
+banuene	gheg	verb		banoj	to live, inhabit, dwell, reside		
+bastardueme	gheg	verb		bastardoj	to bastardize		
+bashkojshim	gheg	verb		bashkoj	to unite, merge, weld		
+bojkotuen	gheg	verb		bojkotoj	to boycott		
+caktuene	gheg	verb		caktoj	to set		
+çimentuen	gheg	verb		çimentoj	to cement		
+debatueme	gheg	verb		debatoj	debate (participate in a debate)		
+definojsh	gheg	verb		definoj	to define		
+demostrojshin	gheg	verb		demostroj	demonstrate		
+dendësueme	gheg	verb		dendësoj	to thicken		
+denigruen	gheg	verb		denigroj	to denigrate		
+dëmtueme	gheg	verb		dëmtoj	to damage		
+dramatizueme	gheg	verb		dramatizoj	to dramatize		
+drejtuet	gheg	verb		drejtoj	to direct, to lead, to manage		
+durojshe	gheg	verb		duroj	to bear		
+durojshim	gheg	verb		duroj	to bear		
+dyfishojshin	gheg	verb		dyfishoj	to double		
+dyfishuen	gheg	verb		dyfishoj	to double		
+dyshuen	gheg	verb		dyshoj	to doubt, suspect		
+egërsuen	gheg	verb		egërsoj	to make wild		
+ekzekutueme	gheg	verb		ekzekutoj	execute (to kill as punishment)		
+evidentuen	gheg	verb		evidentoj	evidentiate, to provide evidence		
+ëndërrojna	gheg	verb		ëndërroj	to dream		
+festojshe	gheg	verb		festoj	to celebrate		
+flijojshin	gheg	verb		flijoj	to sacrifice, immolate, make offering (someone or something)		
+frenueme	gheg	verb		frenoj	to brake		
+ftojna	gheg	verb		ftoj	to invite		
+funksionuemi	gheg	verb		funksionoj	to function		
+gëzuemit	gheg	verb		gëzoj	to feel joy		
+harruemja	gheg	verb		harroj	to forget		
+helmojna	gheg	verb		helmoj	to poison, to intoxicate, to envenom		
+hezituen	gheg	verb		hezitoj	to hesitate		
+hutuen	gheg	verb		hutoj	to daze, astonish		
+industrializueme	gheg	verb		industrializoj	to industrialize		
+insistuen	gheg	verb		insistoj	persevere, persist, hang in		
+jehojshin	gheg	verb		jehoj	to echo		
+kafshojshe	gheg	verb		kafshoj	to bite		
+kolonizojshin	gheg	verb		kolonizoj	colonize (intransitive: to begin a colony)		
+komentojshin	gheg	verb		komentoj	to comment		
+komunikojshin	gheg	verb		komunikoj	to communicate		
+konsiderojsh	gheg	verb		konsideroj	think, believe, consider		
+konvertuemit	gheg	verb		konvertoj	change, exchange, commute		
+kopjuen	gheg	verb		kopjoj	to copy		
+korrespondojshin	gheg	verb		korrespondoj	to correspond		
+krijojshe	gheg	verb		krijoj	to come up with, to conceive, to devise		
+kritikojna	gheg	verb		kritikoj	to criticize		
+kritikojshin	gheg	verb		kritikoj	to criticize		
+kujtueme	gheg	verb		kujtoj	to recall, remember		
+kuptuemi	gheg	verb		kuptoj	to understand		
+kushtojsha	gheg	verb		kushtoj	to cost		
+lakuen	gheg	verb		lakoj	to bend		
+lexuene	gheg	verb		lexoj	to read		
+limueme	gheg	verb		limoj	file		
+lirojsh	gheg	verb		liroj	free (to make free, set at liberty)		
+lumturuemi	gheg	verb		lumturoj	to make happy		
+mblojshin	gheg	verb		mbloj	to fill		
+mirëkuptuen	gheg	verb		mirëkuptoj	to understand, to sympathize with		
+mjaftuene	gheg	verb		mjaftoj	to be enough		
+mjerojshin	gheg	verb		mjeroj	to make miserable		
+mungojna	gheg	verb		mungoj	to be absent, to be missed		
+nderuet	gheg	verb		nderoj	to honour		
+numëruet	gheg	verb		numëroj	to count		
+njoftojsh	gheg	verb		njoftoj	to announce, to inform, to notify		
+pajtojshe	gheg	verb		pajtoj	to re-establish, agree		
+parashtruen	gheg	verb		parashtroj	to submit, to put forward		
+perënduemit	gheg	verb		perëndoj	to fall (from/per/off)		
+përfytyrojshin	gheg	verb		përfytyroj	to imagine, picture		
+përkeqësuen	gheg	verb		përkeqësoj	to make worse		
+përkufizojsha	gheg	verb		përkufizoj	to define		
+përshkojshim	gheg	verb		përshkoj	to cross, go through, pass through		
+pohojshin	gheg	verb		pohoj	to admit		
+polarizuem	gheg	verb		polarizoj	Gheg participle of polarizoj		
+preferuemin	gheg	verb		preferoj	to prefer		
+premtojsha	gheg	verb		premtoj	to promise		
+preokupuen	gheg	verb		preokupoj	to preoccupy		
+preokupueme	gheg	verb		preokupoj	to preoccupy		
+prezantojna	gheg	verb		prezantoj	present, represent, lay out		
+printueme	gheg	verb		printoj	to print		
+pushojshim	gheg	verb		pushoj	to rest, relax		
+qetësojsh	gheg	verb		qetësoj	to calm, to quiet, to soothe		
+racionueme	gheg	verb		racionoj	to ration		
+ratifikueme	gheg	verb		ratifikoj	to ratify		
+realizojshin	gheg	verb		realizoj	to achieve, fulfill		
+rebelueme	gheg	verb		rebeloj	to stir to revolt; (refl.) to rebel		
+rezistojsha	gheg	verb		rezistoj	to resist		
+rëndojsha	gheg	verb		rëndoj	to burden, to worsen		
+rregullojna	gheg	verb		rregulloj	to put into working order		
+rregulluene	gheg	verb		rregulloj	to put into working order		
+sfiduen	gheg	verb		sfidoj	to challenge		
+sigurojna	gheg	verb		siguroj	to secure		
+simpatizojshin	gheg	verb		simpatizoj	to sympathize		
+sponsorizuen	gheg	verb		sponsorizoj	to sponsor		
+stacionueme	gheg	verb		stacionoj	to station		
+stilizueme	gheg	verb		stilizoj	to stylize		
+studiojshe	gheg	verb		studioj	study (to acquire knowledge)		
+studiojshin	gheg	verb		studioj	study (to acquire knowledge)		
+synuen	gheg	verb		synoj	to aim		
+shijojsha	gheg	verb		shijoj	to taste, enjoy, savor		
+shijuen	gheg	verb		shijoj	to taste, enjoy, savor		
+shkaktojna	gheg	verb		shkaktoj	to cause		
+shkarkueme	gheg	verb		shkarkoj	to discharge, emit, fire		
+shpartallojshin	gheg	verb		shpartalloj	to rout		
+shpejtojshin	gheg	verb		shpejtoj	to speed up, to hurry		
+shpeshtueme	gheg	verb		shpeshtoj	to make more frequent		
+shtrojsha	gheg	verb		shtroj	to spread, scatter, lay down		
+shungulluen	gheg	verb		shungulloj	to shake		
+torturuemi	gheg	verb		torturoj	torment, torture, excruciate		
+transportojshin	gheg	verb		transportoj	to transport		
+trumbetuet	gheg	verb		trumbetoj	to trumpet		
+thjeshtojna	gheg	verb		thjeshtoj	to simplify		
+ushtojsh	gheg	verb		ushtoj	to harden pottery by coating with grease and heating in an oven		
+valojshin	gheg	verb		valoj	to boil		
+vallëzuen	gheg	verb		vallëzoj	to dance, especially in ballroom style		
+zbulojna	gheg	verb		zbuloj	to discover		
+zyrtarizuen	gheg	verb		zyrtarizoj	to formalize		
+admirojsha	gheg	verb		admiroj	to admire		
+aktivizueme	gheg	verb		aktivizoj	activate (to put into operation)		
+ambientueme	gheg	verb		ambientoj	to acclimatize		
+analizojna	gheg	verb		analizoj	to analyse		
+asgjësuen	gheg	verb		asgjësoj	to annihilate		
+avancuemi	gheg	verb		avancoj	to advance (to move forwards, to approach)		
+bashkërendueme	gheg	verb		bashkërendoj	to coordinate		
+besuemi	gheg	verb		besoj	to believe		
+birueme	gheg	verb		biroj	pierce (to puncture — see also puncture, perforate)		
+botojsha	gheg	verb		botoj	to publish, issue, release		
+celebrojshin	gheg	verb		celebroj	to celebrate		
+citojshe	gheg	verb		citoj	to quote		
+dallojshim	gheg	verb		dalloj	to discern, recognize		
+definojna	gheg	verb		definoj	to define		
+dekonspirojsh	gheg	verb		dekonspiroj	to expose		
+deleguen	gheg	verb		delegoj	to delegate		
+deleguemit	gheg	verb		delegoj	to delegate		
+demantojsh	gheg	verb		demantoj	to deny		
+depersonalizuem	gheg	verb		depersonalizoj	Gheg participle of depersonalizoj		
+depërtojshin	gheg	verb		depërtoj	to penetrate, permeate		
+dezertojshin	gheg	verb		dezertoj	to desert		
+dëftojsh	gheg	verb		dëftoj	to show		
+diferencueme	gheg	verb		diferencoj	to differentiate		
+diskriminueme	gheg	verb		diskriminoj	to discriminate		
+drejtojsha	gheg	verb		drejtoj	to direct, to lead, to manage		
+dyshuemja	gheg	verb		dyshoj	to doubt, suspect		
+dhunuemen	gheg	verb		dhunoj	to treat with violence		
+eksplodojna	gheg	verb		eksplodoj	to explode		
+ekzekutuemit	gheg	verb		ekzekutoj	execute (to kill as punishment)		
+fajkojsh	gheg	verb		fajkoj	to blame		
+farkëtueme	gheg	verb		farkëtoj	forge, hammer		
+fituet	gheg	verb		fitoj	to profit, earn		
+fluturojshe	gheg	verb		fluturoj	to fly		
+forcojshim	gheg	verb		forcoj	strengthen (to make strong or stronger)		
+formulojsh	gheg	verb		formuloj	to formulate		
+fotografojshin	gheg	verb		fotografoj	to photograph		
+freskuen	gheg	verb		freskoj	to refresh		
+frymëzuene	gheg	verb		frymëzoj	to inspire		
+garuen	gheg	verb		garoj	to compete		
+gufuen	gheg	verb		gufoj	to spurt, swell, erupt; water or liquid that comes out with momentum		
+gjalluen	gheg	verb		gjalloj	to live		
+gjëmuen	gheg	verb		gjëmoj	to rumble		
+hartojshin	gheg	verb		hartoj	to draft, to compile, to write up		
+helmuemi	gheg	verb		helmoj	to poison, to intoxicate, to envenom		
+hidratueme	gheg	verb		hidratoj	to hydrate		
+hijeshojsh	gheg	verb		hijeshoj	to beautify, decorate, prettify, garnish		
+hipnotizuem	gheg	verb		hipnotizoj	Gheg participle of hipnotizoj		
+holluen	gheg	verb		holloj	to thin (down), rarefy, wallow out (dough)		
+idealizueme	gheg	verb		idealizoj	to idealize		
+individualizueme	gheg	verb		individualizoj	to individualize		
+intervistuemit	gheg	verb		intervistoj	to interview		
+injorueme	gheg	verb		injoroj	to ignore		
+kafshojsha	gheg	verb		kafshoj	to bite		
+kalkulueme	gheg	verb		kalkuloj	to calculate		
+kënduemja	gheg	verb		këndoj	to sing		
+komentuen	gheg	verb		komentoj	to comment		
+komprometuen	gheg	verb		komprometoj	to compromise		
+komunikojshim	gheg	verb		komunikoj	to communicate		
+konceptojna	gheg	verb		konceptoj	think, believe, consider		
+konstruktueme	gheg	verb		konstruktoj	to construct		
+kopjojna	gheg	verb		kopjoj	to copy		
+korruptuemi	gheg	verb		korruptoj	bribe, corrupt, buy		
+krijuet	gheg	verb		krijoj	to come up with, to conceive, to devise		
+kundrojshin	gheg	verb		kundroj	to contemplate		
+kundrueme	gheg	verb		kundroj	to contemplate		
+kushtojshe	gheg	verb		kushtoj	to cost		
+luftuemit	gheg	verb		luftoj	to fight		
+lulëzojsh	gheg	verb		lulëzoj	to bloom, blossom		
+masakruemit	gheg	verb		masakroj	massacre, slaughter, mow down		
+mbingarkueme	gheg	verb		mbingarkoj	to overload		
+mbrojshim	gheg	verb		mbroj	to protect; to defend		
+menaxhueme	gheg	verb		menaxhoj	to manage		
+meritojshim	gheg	verb		meritoj	to be worthy (of), to deserve		
+ndërtojshim	gheg	verb		ndërtoj	to build		
+ndikojna	gheg	verb		ndikoj	to influence		
+nënkuptojshin	gheg	verb		nënkuptoj	to imply		
+ngarkojshim	gheg	verb		ngarkoj	to load		
+ngujuemit	gheg	verb		ngujoj	to confine		
+ngushëlluen	gheg	verb		ngushëlloj	to comfort, console		
+nxitueme	gheg	verb		nxitoj	to hurry		
+ofendueme	gheg	verb		ofendoj	to insult, to offend		
+paracaktuemit	gheg	verb		paracaktoj	wish		
+penduemit	gheg	verb		pendoj	to regret		
+perceptueme	gheg	verb		perceptoj	to perceive		
+përbashkueme	gheg	verb		përbashkoj	Gheg form of përbashkoj		
+përfunduene	gheg	verb		përfundoj	to finish, conclude, end		
+përgjithësueme	gheg	verb		përgjithësoj	to generalize		
+përjetësuen	gheg	verb		përjetësoj	to eternalize		
+përjetojsha	gheg	verb		përjetoj	to experience		
+përvëluen	gheg	verb		përvëloj	to scorch		
+pësojshe	gheg	verb		pësoj	to suffer		
+piketuen	gheg	verb		piketoj	stake out		
+plaguemit	gheg	verb		plagoj	to hurt; to injure		
+plotësojshim	gheg	verb		plotësoj	to complete		
+precipituen	gheg	verb		precipitoj	to precipitate		
+predispozueme	gheg	verb		predispozoj	to predispose		
+preferuemja	gheg	verb		preferoj	to prefer		
+presueme	gheg	verb		presoj	to press		
+propozuemit	gheg	verb		propozoj	to propose, to suggest		
+provojshe	gheg	verb		provoj	to try; to try out; to try on		
+pushkatuet	gheg	verb		pushkatoj	to execute by shooting		
+qortuen	gheg	verb		qortoj	to admonish, to castigate		
+qorrojshim	gheg	verb		qorroj	to blind		
+qorrueme	gheg	verb		qorroj	to blind		
+reagojshin	gheg	verb		reagoj	to react		
+recitojshe	gheg	verb		recitoj	recite		
+referojshin	gheg	verb		referoj	to report, to refer		
+reklamueme	gheg	verb		reklamoj	advertise, publicize, advertize		
+revoltuen	gheg	verb		revoltoj	to revolt		
+rrallojshin	gheg	verb		rralloj	to thin		
+rrotullojsh	gheg	verb		rrotulloj	to rotate		
+rrotullueme	gheg	verb		rrotulloj	to rotate		
+sigurojsh	gheg	verb		siguroj	to secure		
+sinkronizueme	gheg	verb		sinkronizoj	to synchronize		
+skanueme	gheg	verb		skanoj	to scan		
+specifikueme	gheg	verb		specifikoj	intend, destine, designate		
+spiunuen	gheg	verb		spiunoj	to spy		
+subvencionueme	gheg	verb		subvencionoj	to subsidize		
+suprimueme	gheg	verb		suprimoj	to abolish		
+synojna	gheg	verb		synoj	to aim		
+shijuet	gheg	verb		shijoj	to taste, enjoy, savor		
+shkaktojshim	gheg	verb		shkaktoj	to cause		
+shpalueme	gheg	verb		shpaloj	to unfold		
+shpëtojsha	gheg	verb		shpëtoj	to save, rescue		
+shpjegojshin	gheg	verb		shpjegoj	to explain		
+shqiptojsh	gheg	verb		shqiptoj	to pronounce		
+shtuemit	gheg	verb		shtoj	to add		
+shurdhojshe	gheg	verb		shurdhoj	to deafen		
+tejkalojshin	gheg	verb		tejkaloj	to surpass, exceed		
+tradhtojshin	gheg	verb		tradhtoj	to betray		
+trajnueme	gheg	verb		trajnoj	coach, train		
+transmetuen	gheg	verb		transmetoj	to broadcast		
+trashëgojsh	gheg	verb		trashëgoj	to inherit (property or something else by will)		
+tubueme	gheg	verb		tuboj	to gather		
+tubuemit	gheg	verb		tuboj	to gather		
+udhëtojshim	gheg	verb		udhëtoj	to travel		
+uruene	gheg	verb		uroj	to congratulate		
+valëzueme	gheg	verb		valëzoj	to wave, to ripple		
+vallëzuemi	gheg	verb		vallëzoj	to dance, especially in ballroom style		
+vazhduet	gheg	verb		vazhdoj	to continue		
+vijuemit	gheg	verb		vijoj	to continue		
+vizatojsha	gheg	verb		vizatoj	to draw		
+votuemja	gheg	verb		votoj	to vote		
+xhirojshin	gheg	verb		xhiroj	to film		
+adaptuemit	gheg	verb		adaptoj	to accommodate, adapt, adjust, attune, fix, fit, mount, place, tune		
+aderuen	gheg	verb		aderoj	to associate, come together, join		
+adresuen	gheg	verb		adresoj	to address		
+akordojna	gheg	verb		akordoj	to tune (an instrument); to grant		
+aktrojsh	gheg	verb		aktroj	to act		
+aktualizueme	gheg	verb		aktualizoj	to update, to bring up to date		
+amortizueme	gheg	verb		amortizoj	amortize, amortise		
+aneksuen	gheg	verb		aneksoj	to annex		
+anojshim	gheg	verb		anoj	to lean		
+anulueme	gheg	verb		anuloj	to annul, to cancel		
+apeluen	gheg	verb		apeloj	to appeal		
+arsyetuemit	gheg	verb		arsyetoj	to reason		
+avancuen	gheg	verb		avancoj	to advance (to move forwards, to approach)		
+baraspeshueme	gheg	verb		baraspeshoj	balance, equilibrate, equilibrize		
+bastarduen	gheg	verb		bastardoj	to bastardize		
+bazuen	gheg	verb		bazoj	to base		
+bekuemin	gheg	verb		bekoj	to bless		
+besuemin	gheg	verb		besoj	to believe		
+biseduene	gheg	verb		bisedoj	to talk, to converse		
+blerojshin	gheg	verb		bleroj	to turn green		
+botojshim	gheg	verb		botoj	to publish, issue, release		
+burojshin	gheg	verb		buroj	to spring, to originate		
+certifikueme	gheg	verb		certifikoj	to certify		
+çmojshim	gheg	verb		çmoj	to appreciate, esteem, value		
+çmuene	gheg	verb		çmoj	to appreciate, esteem, value		
+dashurojshe	gheg	verb		dashuroj	to love		
+deformojna	gheg	verb		deformoj	to deform		
+deklarojsh	gheg	verb		deklaroj	to declare		
+deponueme	gheg	verb		deponoj	to deposit		
+destabilizojshin	gheg	verb		destabilizoj	to destabilize		
+determinueme	gheg	verb		determinoj	to determine		
+devijueme	gheg	verb		devijoj	to deviate		
+dezertuemit	gheg	verb		dezertoj	to desert		
+dëgjuet	gheg	verb		dëgjoj	to hear		
+dëmtojshin	gheg	verb		dëmtoj	to damage		
+dështuet	gheg	verb		dështoj	to have a miscarriage		
+diagnostikueme	gheg	verb		diagnostikoj	to diagnose		
+diskredituen	gheg	verb		diskreditoj	to discredit		
+disponojshim	gheg	verb		disponoj	to have available		
+disponueme	gheg	verb		disponoj	to have available		
+durueme	gheg	verb		duroj	to bear		
+dhunojna	gheg	verb		dhunoj	to treat with violence		
+eksitueme	gheg	verb		eksitoj	to excite		
+eksponueme	gheg	verb		eksponoj	to expose, to exhibit		
+ekzistojna	gheg	verb		ekzistoj	to exist		
+ekzistojshim	gheg	verb		ekzistoj	to exist		
+ekzistuen	gheg	verb		ekzistoj	to exist		
+emigrojsh	gheg	verb		emigroj	to emigrate		
+entuziazmuen	gheg	verb		entuziazmoj	to enthuse		
+favorizojna	gheg	verb		favorizoj	to favour		
+favorizojshin	gheg	verb		favorizoj	to favour		
+fermentueme	gheg	verb		fermentoj	sour, turn, ferment		
+festojshim	gheg	verb		festoj	to celebrate		
+festojsh	gheg	verb		festoj	to celebrate		
+financojna	gheg	verb		financoj	to finance		
+fituene	gheg	verb		fitoj	to profit, earn		
+fokusojsha	gheg	verb		fokusoj	to focus		
+formuemit	gheg	verb		formoj	to shape, form.		
+formuluene	gheg	verb		formuloj	to formulate		
+fragmentueme	gheg	verb		fragmentoj	to fragment		
+frikësojshim	gheg	verb		frikësoj	frighten, fright, scare		
+frustrueme	gheg	verb		frustroj	to frustrate		
+ftojsha	gheg	verb		ftoj	to invite		
+garantuen	gheg	verb		garantoj	to guarantee		
+gëzojshe	gheg	verb		gëzoj	to feel joy		
+globalizueme	gheg	verb		globalizoj	to globalize		
+gufueme	gheg	verb		gufoj	to spurt, swell, erupt; water or liquid that comes out with momentum		
+guxojsh	gheg	verb		guxoj	to dare		
+guxuene	gheg	verb		guxoj	to dare		
+hartuene	gheg	verb		hartoj	to draft, to compile, to write up		
+harxhojshe	gheg	verb		harxhoj	to spend, to expend		
+hetojshin	gheg	verb		hetoj	to investigate, inquire, observe		
+hetojshim	gheg	verb		hetoj	to investigate, inquire, observe		
+hetueme	gheg	verb		hetoj	to investigate, inquire, observe		
+idealizuem	gheg	verb		idealizoj	Gheg participle of idealizoj		
+imagjinojsha	gheg	verb		imagjinoj	to imagine		
+internuemi	gheg	verb		internoj	to intern		
+jetuemin	gheg	verb		jetoj	to live (to be alive)		
+justifikojshin	gheg	verb		justifikoj	to justify		
+keqkuptueme	gheg	verb		keqkuptoj	to misunderstand		
+komandojshin	gheg	verb		komandoj	to command		
+komentojna	gheg	verb		komentoj	to comment		
+konkluduen	gheg	verb		konkludoj	to conclude		
+konkretizueme	gheg	verb		konkretizoj	to make concrete, to put into practice		
+konservueme	gheg	verb		konservoj	preserve, keep		
+konservuemit	gheg	verb		konservoj	preserve, keep		
+konsiderojna	gheg	verb		konsideroj	think, believe, consider		
+konsumojna	gheg	verb		konsumoj	to consume		
+kontrollojshim	gheg	verb		kontrolloj	to check, to control		
+koordinojshin	gheg	verb		koordinoj	to coordinate		
+korrigjueme	gheg	verb		korrigjoj	correct, rectify, right		
+krahasojshin	gheg	verb		krahasoj	to compare (to)		
+kthjellojsh	gheg	verb		kthjelloj	to clarify, explain		
+kultivojshin	gheg	verb		kultivoj	grow		
+kullojsh	gheg	verb		kulloj	to drain		
+kulluene	gheg	verb		kulloj	to drain		
+kumtueme	gheg	verb		kumtoj	to announce		
+kundrojshe	gheg	verb		kundroj	to contemplate		
+kunguemi	gheg	verb		kungoj	to give Holy Communion		
+largojshim	gheg	verb		largoj	to leave		
+larguet	gheg	verb		largoj	to leave		
+ledhatojshe	gheg	verb		ledhatoj	to caress, to fondle		
+ledhatojshin	gheg	verb		ledhatoj	to caress, to fondle		
+legalizueme	gheg	verb		legalizoj	to legalize		
+lëngueme	gheg	verb		lëngoj	to ail		
+lëshuemit	gheg	verb		lëshoj	to let, let go, release		
+licencueme	gheg	verb		licencoj	to license		
+lotojsha	gheg	verb		lotoj	cry, weep		
+lulëzojshin	gheg	verb		lulëzoj	to bloom, blossom		
+lulueme	gheg	verb		luloj	to bloom, blossom out, flourish		
+manipulojna	gheg	verb		manipuloj	manipulate		
+martojsh	gheg	verb		martoj	to marry off, cause to get married, marry		
+martuemja	gheg	verb		martoj	to marry off, cause to get married, marry		
+mbarështueme	gheg	verb		mbarështoj	to breed, to raise (livestock)		
+mjeruemin	gheg	verb		mjeroj	to make miserable		
+mobilizuet	gheg	verb		mobilizoj	to mobilize		
+mohojshe	gheg	verb		mohoj	to deny		
+monitoruen	gheg	verb		monitoroj	to monitor		
+monitorueme	gheg	verb		monitoroj	to monitor		
+mrekullojshe	gheg	verb		mrekulloj	to amaze		
+mundojsh	gheg	verb		mundoj	to torture		
+mungojshim	gheg	verb		mungoj	to be absent, to be missed		
+ndalojsh	gheg	verb		ndaloj	to forbid, to ban, to stop		
+ndërmjetësojshin	gheg	verb		ndërmjetësoj	to mediate		
+ndërtuemi	gheg	verb		ndërtoj	to build		
+ndërruene	gheg	verb		ndërroj	to change, substitute, alter		
+ndëshkuemi	gheg	verb		ndëshkoj	to punish		
+ndikojshin	gheg	verb		ndikoj	to influence		
+ndryshojna	gheg	verb		ndryshoj	to change, to alter, to modify		
+ndryshojsha	gheg	verb		ndryshoj	to change, to alter, to modify		
+nervozojsha	gheg	verb		nervozoj	to make nervous, to irritate		
+nënshtrojshe	gheg	verb		nënshtroj	to submit		
+ngacmuen	gheg	verb		ngacmoj	to poke, bother, harass, provoke		
+ngatërruen	gheg	verb		ngatërroj	to tangle, entangle		
+notueme	gheg	verb		notoj	to swim		
+njoftuemin	gheg	verb		njoftoj	to announce, to inform, to notify		
+ofrojsha	gheg	verb		ofroj	to offer		
+okupojshin	gheg	verb		okupoj	to occupy		
+operuen	gheg	verb		operoj	operate on, operate		
+pajtojsha	gheg	verb		pajtoj	to re-establish, agree		
+parakalojshin	gheg	verb		parakaloj	to parade, pass by		
+parakalojshim	gheg	verb		parakaloj	to parade, pass by		
+pengojna	gheg	verb		pengoj	to hinder, to impede		
+përçueme	gheg	verb		përçoj	carry, convey, express		
+përfaqësojsh	gheg	verb		përfaqësoj	to represent		
+përjetojshim	gheg	verb		përjetoj	to experience		
+përkeqësueme	gheg	verb		përkeqësoj	to make worse		
+përmalluen	gheg	verb		përmalloj	to miss		
+përurueme	gheg	verb		përuroj	to inaugurate		
+pësojna	gheg	verb		pësoj	to suffer		
+pickojshin	gheg	verb		pickoj	sting (to hurt)		
+pikturuen	gheg	verb		pikturoj	to paint, make a painting		
+plaguen	gheg	verb		plagoj	to hurt; to injure		
+planifikojna	gheg	verb		planifikoj	plan		
+plotësojsh	gheg	verb		plotësoj	to complete		
+politizuen	gheg	verb		politizoj	to politicize		
+populluemja	gheg	verb		populloj	populate, dwell, live		
+praktikuen	gheg	verb		praktikoj	rehearse, practise, practice		
+praktikueme	gheg	verb		praktikoj	rehearse, practise, practice		
+presojna	gheg	verb		presoj	to press		
+prezantojsh	gheg	verb		prezantoj	present, represent, lay out		
+privueme	gheg	verb		privoj	to deprive		
+proklamuen	gheg	verb		proklamoj	to proclaim		
+proklamueme	gheg	verb		proklamoj	to proclaim		
+propagandojshin	gheg	verb		propagandoj	to propagandize		
+propozuemi	gheg	verb		propozoj	to propose, to suggest		
+provojshim	gheg	verb		provoj	to try; to try out; to try on		
+punësojshin	gheg	verb		punësoj	to employ		
+pushuene	gheg	verb		pushoj	to rest, relax		
+pushtuemit	gheg	verb		pushtoj	to conquer		
+pyllëzueme	gheg	verb		pyllëzoj	to afforest		
+qarkueme	gheg	verb		qarkoj	to circle		
+rafinuemja	gheg	verb		rafinoj	polish, round, round off		
+realizojna	gheg	verb		realizoj	to achieve, fulfill		
+recitojshim	gheg	verb		recitoj	recite		
+recituen	gheg	verb		recitoj	recite		
+recitueme	gheg	verb		recitoj	recite		
+redaktojsha	gheg	verb		redaktoj	to edit		
+reflektojsha	gheg	verb		reflektoj	to reflect		
+reflektuen	gheg	verb		reflektoj	to reflect		
+relaksueme	gheg	verb		relaksoj	to relax		
+renduen	gheg	verb		rendoj	to organise		
+restauruen	gheg	verb		restauroj	repair, mend, fix		
+rënkuen	gheg	verb		rënkoj	to moan		
+ribotuen	gheg	verb		ribotoj	to republish, to reprint		
+rifillojshe	gheg	verb		rifilloj	to restart, to resume		
+rinovueme	gheg	verb		rinovoj	to renovate		
+riorganizueme	gheg	verb		riorganizoj	to reorganize		
+riprodhuen	gheg	verb		riprodhoj	to reproduce		
+rrëzuemin	gheg	verb		rrëzoj	to cause something to fall		
+saktësueme	gheg	verb		saktësoj	to specify		
+saldueme	gheg	verb		saldoj	to weld		
+sendërtuen	gheg	verb		sendërtoj	to realize		
+sfidueme	gheg	verb		sfidoj	to challenge		
+siguruet	gheg	verb		siguroj	to secure		
+simulueme	gheg	verb		simuloj	to simulate		
+sintetizueme	gheg	verb		sintetizoj	to synthesize		
+sponsorizueme	gheg	verb		sponsorizoj	to sponsor		
+sqarojna	gheg	verb		sqaroj	to explain; to clarify		
+startojna	gheg	verb		startoj	to start		
+stresojsha	gheg	verb		stresoj	to stress		
+sunduet	gheg	verb		sundoj	to reign		
+suspenduen	gheg	verb		suspendoj	to suspend		
+shfuqizueme	gheg	verb		shfuqizoj	to annul, to nullify		
+shkatërruemit	gheg	verb		shkatërroj	to destruct, to destroy, to devastate		
+shkrumbueme	gheg	verb		shkrumboj	burn, incinerate		
+shpenzojshim	gheg	verb		shpenzoj	consume, squander, waste		
+shpojshin	gheg	verb		shpoj	to pierce, prick		
+shpojsh	gheg	verb		shpoj	to pierce, prick		
+shtegtojshin	gheg	verb		shtegtoj	to travel; to travel abroad		
+shtojsha	gheg	verb		shtoj	to add		
+shtrenjtueme	gheg	verb		shtrenjtoj	to make more expensive		
+tejkalojsha	gheg	verb		tejkaloj	to surpass, exceed		
+tentojna	gheg	verb		tentoj	to try, attempt		
+tingëlluen	gheg	verb		tingëlloj	to sound		
+tradhtojna	gheg	verb		tradhtoj	to betray		
+transportueme	gheg	verb		transportoj	to transport		
+trazojshin	gheg	verb		trazoj	to mix		
+treguemi	gheg	verb		tregoj	to show, indicate, point at (originally a commercial term)		
+triumfojna	gheg	verb		triumfoj	to triumph		
+tubojshin	gheg	verb		tuboj	to gather		
+tundueme	gheg	verb		tundoj	tempt (to provoke someone to do wrong)		
+thjeshtueme	gheg	verb		thjeshtoj	to simplify		
+ushtrojsh	gheg	verb		ushtroj	to exercise (use, call upon)		
+vajtojshim	gheg	verb		vajtoj	wail, whimper, mewl		
+valojna	gheg	verb		valoj	to boil		
+veçuen	gheg	verb		veçoj	to isolate		
+verbuen	gheg	verb		verboj	to blind		
+vijojshim	gheg	verb		vijoj	to continue		
+vijuene	gheg	verb		vijoj	to continue		
+vizitojsha	gheg	verb		vizitoj	to visit		
+vizitojshe	gheg	verb		vizitoj	to visit		
+vjetruen	gheg	verb		vjetroj	to make old, to wear out		
+vlojsha	gheg	verb		vloj	to boil		
+vonojsha	gheg	verb		vonoj	to delay (cause someone to be late)		
+vonojshin	gheg	verb		vonoj	to delay (cause someone to be late)		
+vrojtuen	gheg	verb		vrojtoj	to observe, watch, or look at someone or something attentively; to notice		
+xhirojsha	gheg	verb		xhiroj	to film		
+xhiruen	gheg	verb		xhiroj	to film		
+zbarkojshin	gheg	verb		zbarkoj	to land		
+zbatojna	gheg	verb		zbatoj	to carry out (orders, plans, etc.)		
+zbuen	gheg	verb		zboj	to drive away		
+zbulojshin	gheg	verb		zbuloj	to discover		
+zëvendësueme	gheg	verb		zëvendësoj	to replace		
+zvogëluen	gheg	verb		zvogëloj	to decrease		
+zhbirueme	gheg	verb		zhbiroj	pierce (to puncture — see also puncture, perforate)		
+absolutizueme	gheg	verb		absolutizoj	to absolutize		
+aktivizojshe	gheg	verb		aktivizoj	activate (to put into operation)		
+aludojshe	gheg	verb		aludoj	to allude		
+analizojsh	gheg	verb		analizoj	to analyse		
+angazhuet	gheg	verb		angazhoj	engage, mesh, lock		
+anketuemit	gheg	verb		anketoj	to survey, to poll		
+anuen	gheg	verb		anoj	to lean		
+aplikojshin	gheg	verb		aplikoj	to apply		
+argumentojsh	gheg	verb		argumentoj	to argue		
+argumentuet	gheg	verb		argumentoj	to argue		
+arkivuen	gheg	verb		arkivoj	to archive		
+arsimuemi	gheg	verb		arsimoj	to educate		
+automatizueme	gheg	verb		automatizoj	to automate		
+banojna	gheg	verb		banoj	to live, inhabit, dwell, reside		
+befasojshin	gheg	verb		befasoj	to surprise		
+bekuemen	gheg	verb		bekoj	to bless		
+bekuet	gheg	verb		bekoj	to bless		
+betojshe	gheg	verb		betoj	to put/involve (someone) in an oath; to pledge		
+betojshim	gheg	verb		betoj	to put/involve (someone) in an oath; to pledge		
+botojsh	gheg	verb		botoj	to publish, issue, release		
+certifikuem	gheg	verb		certifikoj	Gheg participle of certifikoj		
+çmontuen	gheg	verb		çmontoj	to dismantle		
+dallgëzueme	gheg	verb		dallgëzoj	to ripple, to undulate		
+darkuen	gheg	verb		darkoj	to dine		
+debatojshe	gheg	verb		debatoj	debate (participate in a debate)		
+deklamueme	gheg	verb		deklamoj	to declaim		
+deklamuene	gheg	verb		deklamoj	to declaim		
+deklarojsha	gheg	verb		deklaroj	to declare		
+deklasueme	gheg	verb		deklasoj	to declassify		
+deleguemja	gheg	verb		delegoj	to delegate		
+demokratizuen	gheg	verb		demokratizoj	democratize (to make democratic)		
+demonstrojshin	gheg	verb		demonstroj	to demonstrate		
+deshifrojshe	gheg	verb		deshifroj	to decipher		
+detyrojshim	gheg	verb		detyroj	to compel, to force, constrain		
+dëftojshin	gheg	verb		dëftoj	to show		
+dëftuene	gheg	verb		dëftoj	to show		
+dërguemja	gheg	verb		dërgoj	to send, dispatch		
+dëshmojsh	gheg	verb		dëshmoj	to testify		
+dorëzuemit	gheg	verb		dorëzoj	to hand in		
+drejtojsh	gheg	verb		drejtoj	to direct, to lead, to manage		
+drejtuemit	gheg	verb		drejtoj	to direct, to lead, to manage		
+durojsh	gheg	verb		duroj	to bear		
+dyluftuen	gheg	verb		dyluftoj	to duel		
+dhurojshin	gheg	verb		dhuroj	to bestow, grant, donate		
+dhuruet	gheg	verb		dhuroj	to bestow, grant, donate		
+eksitojna	gheg	verb		eksitoj	to excite		
+eksponojshin	gheg	verb		eksponoj	to expose, to exhibit		
+ekzaltuemit	gheg	verb		ekzaltoj	to exalt		
+emërtojshin	gheg	verb		emërtoj	to name		
+emigrojshin	gheg	verb		emigroj	to emigrate		
+emocionuet	gheg	verb		emocionoj	to move		
+falimentueme	gheg	verb		falimentoj	to go bankrupt		
+familjarizojshin	gheg	verb		familjarizoj	to familiarize		
+farkueme	gheg	verb		farkoj	to forge		
+fiksojshin	gheg	verb		fiksoj	to fix		
+fiksuen	gheg	verb		fiksoj	to fix		
+finalizueme	gheg	verb		finalizoj	to finalize		
+firuen	gheg	verb		firoj	to dwindle		
+fituemi	gheg	verb		fitoj	to profit, earn		
+fituemit	gheg	verb		fitoj	to profit, earn		
+flijueme	gheg	verb		flijoj	to sacrifice, immolate, make offering (someone or something)		
+flijuemit	gheg	verb		flijoj	to sacrifice, immolate, make offering (someone or something)		
+fokusuen	gheg	verb		fokusoj	to focus		
+forcuet	gheg	verb		forcoj	strengthen (to make strong or stronger)		
+formuluen	gheg	verb		formuloj	to formulate		
+frekuentojsha	gheg	verb		frekuentoj	to frequent		
+freskojshin	gheg	verb		freskoj	to refresh		
+ftilluet	gheg	verb		ftilloj	to explain		
+ftuemja	gheg	verb		ftoj	to invite		
+funksionojshin	gheg	verb		funksionoj	to function		
+funksionuen	gheg	verb		funksionoj	to function		
+gatuet	gheg	verb		gatoj	to cook, prepare, make ready		
+gërshetojshin	gheg	verb		gërshetoj	to interweave		
+gërshetuen	gheg	verb		gërshetoj	to interweave		
+grumbullojshin	gheg	verb		grumbulloj	to pile up, to gather up, to amass		
+gjallojshin	gheg	verb		gjalloj	to live		
+gjykuet	gheg	verb		gjykoj	to judge		
+gjymtuemit	gheg	verb		gjymtoj	to amputate		
+harxhojsh	gheg	verb		harxhoj	to spend, to expend		
+hetuemit	gheg	verb		hetoj	to investigate, inquire, observe		
+hijeshueme	gheg	verb		hijeshoj	to beautify, decorate, prettify, garnish		
+hipnotizueme	gheg	verb		hipnotizoj	to hypnotize		
+imitueme	gheg	verb		imitoj	to imitate		
+imponojsh	gheg	verb		imponoj	to impose		
+importojshin	gheg	verb		importoj	to import		
+infiltrueme	gheg	verb		infiltroj	to infiltrate		
+informojshin	gheg	verb		informoj	inform		
+inkorporueme	gheg	verb		inkorporoj	to incorporate		
+inkuadruemi	gheg	verb		inkuadroj	to frame		
+inskenuen	gheg	verb		inskenoj	to stage		
+intensifikuem	gheg	verb		intensifikoj	Gheg participle of intensifikoj		
+intensifikueme	gheg	verb		intensifikoj	to intensify		
+intervistuen	gheg	verb		intervistoj	to interview		
+injorojsh	gheg	verb		injoroj	to ignore		
+jetuemi	gheg	verb		jetoj	to live (to be alive)		
+kaplueme	gheg	verb		kaploj	to seize and protect (with hands)		
+keqkuptojna	gheg	verb		keqkuptoj	to misunderstand		
+kënduet	gheg	verb		këndoj	to sing		
+klonueme	gheg	verb		klonoj	to clone		
+kolonizueme	gheg	verb		kolonizoj	colonize (intransitive: to begin a colony)		
+komentojshe	gheg	verb		komentoj	to comment		
+kompozuen	gheg	verb		kompozoj	to compose		
+konceptuen	gheg	verb		konceptoj	think, believe, consider		
+konkludojsh	gheg	verb		konkludoj	to conclude		
+konkurruen	gheg	verb		konkurroj	to take part in a contest, compete		
+konstatueme	gheg	verb		konstatoj	to note		
+konsultuen	gheg	verb		konsultoj	consult, confer with		
+kontribuojshin	gheg	verb		kontribuoj	to contribute		
+kontrollojsha	gheg	verb		kontrolloj	to check, to control		
+kopjojsha	gheg	verb		kopjoj	to copy		
+krahasuen	gheg	verb		krahasoj	to compare (to)		
+kremtojshin	gheg	verb		kremtoj	to celebrate		
+kremtueme	gheg	verb		kremtoj	to celebrate		
+kremtuene	gheg	verb		kremtoj	to celebrate		
+kritikojsha	gheg	verb		kritikoj	to criticize		
+kualifikojshin	gheg	verb		kualifikoj	to qualify		
+kulluen	gheg	verb		kulloj	to drain		
+kundërshtojshe	gheg	verb		kundërshtoj	to oppose, to contest		
+kundrojshim	gheg	verb		kundroj	to contemplate		
+kurueme	gheg	verb		kuroj	cure (to restore to health)		
+kushtojsh	gheg	verb		kushtoj	to cost		
+kushtuemit	gheg	verb		kushtoj	to cost		
+kushtuene	gheg	verb		kushtoj	to cost		
+labërgueme	gheg	verb		labërgoj	to undo, untie		
+lazdrueme	gheg	verb		lazdroj	to spoil		
+ledhatojsha	gheg	verb		ledhatoj	to caress, to fondle		
+legjitimuen	gheg	verb		legjitimoj	to legitimize		
+lehtësojshe	gheg	verb		lehtësoj	to reduce weight		
+lëngojshin	gheg	verb		lëngoj	to ail		
+lëngojshim	gheg	verb		lëngoj	to ail		
+lëshuemi	gheg	verb		lëshoj	to let, let go, release		
+lëshuemen	gheg	verb		lëshoj	to let, let go, release		
+lodrojshin	gheg	verb		lodroj	to frolic		
+luftueme	gheg	verb		luftoj	to fight		
+lugueme	gheg	verb		lugoj	to hollow		
+mallkuemin	gheg	verb		mallkoj	to curse, damn		
+markuet	gheg	verb		markoj	to mark		
+martirizuemit	gheg	verb		martirizoj	to martyr		
+martuemi	gheg	verb		martoj	to marry off, cause to get married, marry		
+martuemen	gheg	verb		martoj	to marry off, cause to get married, marry		
+mashtruet	gheg	verb		mashtroj	to deceive, cheat, dupe		
+materializuen	gheg	verb		materializoj	to materialize, to realize		
+mbarojshe	gheg	verb		mbaroj	to complete, to finish		
+mbijetojshin	gheg	verb		mbijetoj	to survive		
+mbijetuemja	gheg	verb		mbijetoj	to survive		
+mbisundojna	gheg	verb		mbisundoj	to dominate		
+mbruen	gheg	verb		mbroj	to protect; to defend		
+mbuluene	gheg	verb		mbuloj	to cover		
+meritojsh	gheg	verb		meritoj	to be worthy (of), to deserve		
+merituemi	gheg	verb		meritoj	to be worthy (of), to deserve		
+merituemja	gheg	verb		meritoj	to be worthy (of), to deserve		
+migrojna	gheg	verb		migroj	to migrate		
+migruen	gheg	verb		migroj	to migrate		
+miqësuen	gheg	verb		miqësoj	to befriend		
+mjegulluen	gheg	verb		mjegulloj	to blur		
+mjekuen	gheg	verb		mjekoj	to treat		
+moderuemit	gheg	verb		moderoj	to moderate		
+monopolizuem	gheg	verb		monopolizoj	Gheg participle of monopolizoj		
+mrekulluen	gheg	verb		mrekulloj	to amaze		
+mundësojshin	gheg	verb		mundësoj	to enable		
+mundësuet	gheg	verb		mundësoj	to enable		
+munduemit	gheg	verb		mundoj	to torture		
+ndaluemi	gheg	verb		ndaloj	to forbid, to ban, to stop		
+ndaluet	gheg	verb		ndaloj	to forbid, to ban, to stop		
+ndërrojsha	gheg	verb		ndërroj	to change, substitute, alter		
+ndryshuene	gheg	verb		ndryshoj	to change, to alter, to modify		
+ngarkuene	gheg	verb		ngarkoj	to load		
+ngurojshin	gheg	verb		nguroj	to harden, become stone		
+nguruen	gheg	verb		nguroj	to harden, become stone		
+ngurrojshin	gheg	verb		ngurroj	to hesitate, falter, stop		
+ngurrueme	gheg	verb		ngurroj	to hesitate, falter, stop		
+ngushtuet	gheg	verb		ngushtoj	to narrow		
+ngjyrojshe	gheg	verb		ngjyroj	to colour		
+numërojshin	gheg	verb		numëroj	to count		
+ofenduemi	gheg	verb		ofendoj	to insult, to offend		
+ofrojna	gheg	verb		ofroj	to offer		
+ofrojsh	gheg	verb		ofroj	to offer		
+operojsh	gheg	verb		operoj	operate on, operate		
+organizojsh	gheg	verb		organizoj	to organise		
+parafytyrojshin	gheg	verb		parafytyroj	to imagine		
+parandalojshin	gheg	verb		parandaloj	to prevent		
+parashikojsha	gheg	verb		parashikoj	to predict		
+pasojshin	gheg	verb		pasoj	to follow, to come after		
+penguemi	gheg	verb		pengoj	to hinder, to impede		
+perëndojshin	gheg	verb		perëndoj	to fall (from/per/off)		
+perfeksionueme	gheg	verb		perfeksionoj	perfect, hone		
+personifikuem	gheg	verb		personifikoj	Gheg participle of personifikoj		
+përfaqësojsha	gheg	verb		përfaqësoj	to represent		
+përjashtuemi	gheg	verb		përjashtoj	to exclude		
+përjetësueme	gheg	verb		përjetësoj	to eternalize		
+përmalluemit	gheg	verb		përmalloj	to miss		
+përparojshin	gheg	verb		përparoj	to advance		
+përshkuene	gheg	verb		përshkoj	to cross, go through, pass through		
+përshpejtuen	gheg	verb		përshpejtoj	to be hasty		
+përvetësueme	gheg	verb		përvetësoj	to master		
+pikëzueme	gheg	verb		pikëzoj	to dot (mark with many consecutive dots)		
+pikueme	gheg	verb		pikoj	to drip, to tickle, to leak		
+pikturojsha	gheg	verb		pikturoj	to paint, make a painting		
+planifikojshin	gheg	verb		planifikoj	plan		
+plotësuemi	gheg	verb		plotësoj	to complete		
+pohojsha	gheg	verb		pohoj	to admit		
+posedojshim	gheg	verb		posedoj	to possess, to own		
+postojsha	gheg	verb		postoj	to post		
+predikojshin	gheg	verb		predikoj	to preach		
+predikueme	gheg	verb		predikoj	to preach		
+preferojsha	gheg	verb		preferoj	to prefer		
+preokupojshin	gheg	verb		preokupoj	to preoccupy		
+pretendojsha	gheg	verb		pretendoj	to claim; to pretend		
+prezantojsha	gheg	verb		prezantoj	present, represent, lay out		
+prezantojshin	gheg	verb		prezantoj	present, represent, lay out		
+privilegjuen	gheg	verb		privilegjoj	to privilege		
+profetizueme	gheg	verb		profetizoj	to prophesy		
+programuen	gheg	verb		programoj	to program		
+pushkatuemin	gheg	verb		pushkatoj	to execute by shooting		
+pushtojna	gheg	verb		pushtoj	to conquer		
+pushtuene	gheg	verb		pushtoj	to conquer		
+qarkuen	gheg	verb		qarkoj	to circle		
+qartësueme	gheg	verb		qartësoj	to clarify		
+qetësueme	gheg	verb		qetësoj	to calm, to quiet, to soothe		
+qetësuemit	gheg	verb		qetësoj	to calm, to quiet, to soothe		
+raportojna	gheg	verb		raportoj	report, describe, account		
+referuen	gheg	verb		referoj	to report, to refer		
+rekomanduen	gheg	verb		rekomandoj	to recommend		
+respektojshe	gheg	verb		respektoj	respect (to have respect for)		
+revokuen	gheg	verb		revokoj	to revoke		
+rezervuen	gheg	verb		rezervoj	to reserve, save for later		
+rezistojshin	gheg	verb		rezistoj	to resist		
+rezultojsh	gheg	verb		rezultoj	to result, to turn out		
+ribashkuen	gheg	verb		ribashkoj	to reunite		
+rikujtojsh	gheg	verb		rikujtoj	to recall, to remind		
+rindërtuen	gheg	verb		rindërtoj	restore, reconstruct		
+riparojshin	gheg	verb		riparoj	to repair		
+rishqyrtojsh	gheg	verb		rishqyrtoj	to review, to reconsider		
+rrallueme	gheg	verb		rralloj	to thin		
+rregullojsha	gheg	verb		rregulloj	to put into working order		
+rregullojshim	gheg	verb		rregulloj	to put into working order		
+rregullojsh	gheg	verb		rregulloj	to put into working order		
+rrethojna	gheg	verb		rrethoj	besiege, beleaguer, surround		
+rrethuemi	gheg	verb		rrethoj	besiege, beleaguer, surround		
+rrezikojshe	gheg	verb		rrezikoj	to risk, to jeopardize, to endanger, to imperil		
+rrezikuemja	gheg	verb		rrezikoj	to risk, to jeopardize, to endanger, to imperil		
+rrëzuet	gheg	verb		rrëzoj	to cause something to fall		
+rruet	gheg	verb		rroj	to stay alive, survive		
+rrotulluemit	gheg	verb		rrotulloj	to rotate		
+sajuet	gheg	verb		sajoj	to devise, come up with		
+sakatojna	gheg	verb		sakatoj	to mutilate, cripple, maim		
+sakatuemin	gheg	verb		sakatoj	to mutilate, cripple, maim		
+seleksionuen	gheg	verb		seleksionoj	to select		
+simpatizuen	gheg	verb		simpatizoj	to sympathize		
+sinkronizuem	gheg	verb		sinkronizoj	Gheg participle of sinkronizoj		
+sinjalizuem	gheg	verb		sinjalizoj	Gheg participle of sinjalizoj		
+sistemojshe	gheg	verb		sistemoj	tidy, tidy up, clean up		
+spastruen	gheg	verb		spastroj	to purge		
+sprovuen	gheg	verb		sprovoj	to test		
+sqarojshe	gheg	verb		sqaroj	to explain; to clarify		
+startuet	gheg	verb		startoj	to start		
+sundojsh	gheg	verb		sundoj	to reign		
+shestuen	gheg	verb		shestoj	to plan, to devise		
+shëmtuemin	gheg	verb		shëmtoj	to make ugly, distort		
+shfrytëzojsha	gheg	verb		shfrytëzoj	to exploit, harness, make use of		
+shfrytëzojshim	gheg	verb		shfrytëzoj	to exploit, harness, make use of		
+shfytyruen	gheg	verb		shfytyroj	Gheg form of shfytyroj		
+shfytyrueme	gheg	verb		shfytyroj	Gheg form of shfytyroj		
+shifrueme	gheg	verb		shifroj	calculate, cipher, cypher		
+shijojshin	gheg	verb		shijoj	to taste, enjoy, savor		
+shikuemi	gheg	verb		shikoj	to look at, gaze at		
+shkretuene	gheg	verb		shkretoj	to destroy, to devastate		
+shkurtuen	gheg	verb		shkurtoj	to cut; to make shorter		
+shoqëruen	gheg	verb		shoqëroj	to accompany		
+shpengueme	gheg	verb		shpengoj	to redeem		
+shpëtuemja	gheg	verb		shpëtoj	to save, rescue		
+shpresojshe	gheg	verb		shpresoj	to hope		
+shpresojshim	gheg	verb		shpresoj	to hope		
+shpyllëzueme	gheg	verb		shpyllëzoj	deforest		
+shqelmojsh	gheg	verb		shqelmoj	to kick		
+shqetësojshin	gheg	verb		shqetësoj	to annoy, bother		
+shqiptuemit	gheg	verb		shqiptoj	to pronounce		
+shtetëzueme	gheg	verb		shtetëzoj	to nationalize		
+shtrojshe	gheg	verb		shtroj	to spread, scatter, lay down		
+shtrojsh	gheg	verb		shtroj	to spread, scatter, lay down		
+shumëfishueme	gheg	verb		shumëfishoj	reproduce, procreate, multiply		
+shumueme	gheg	verb		shumoj	to multiply		
+telefonuen	gheg	verb		telefonoj	to telephone		
+tentojshim	gheg	verb		tentoj	to try, attempt		
+tepruet	gheg	verb		teproj	to exaggerate		
+tmerrojshin	gheg	verb		tmerroj	to terrify		
+tmerruet	gheg	verb		tmerroj	to terrify		
+trajtojsh	gheg	verb		trajtoj	to treat		
+transferojshin	gheg	verb		transferoj	to transfer		
+transformojna	gheg	verb		transformoj	to transform		
+transmetuemit	gheg	verb		transmetoj	to broadcast		
+treguemit	gheg	verb		tregoj	to show, indicate, point at (originally a commercial term)		
+tregtojshin	gheg	verb		tregtoj	to trade, sale, do business with		
+trillojshin	gheg	verb		trilloj	to invent		
+trumbetuen	gheg	verb		trumbetoj	to trumpet		
+trupëzueme	gheg	verb		trupëzoj	to embody		
+theksuemi	gheg	verb		theksoj	to emphasize, to accentuate		
+urdhërueme	gheg	verb		urdhëroj	to order to		
+urinojsha	gheg	verb		urinoj	to urinate		
+ushtrojshim	gheg	verb		ushtroj	to exercise (use, call upon)		
+vajtuemi	gheg	verb		vajtoj	wail, whimper, mewl		
+vajtuemit	gheg	verb		vajtoj	wail, whimper, mewl		
+vallëzojshin	gheg	verb		vallëzoj	to dance, especially in ballroom style		
+vepruemit	gheg	verb		veproj	to do something		
+verbojshim	gheg	verb		verboj	to blind		
+verbuemit	gheg	verb		verboj	to blind		
+verifikuem	gheg	verb		verifikoj	Gheg participle of verifikoj		
+vështrojsh	gheg	verb		vështroj	to observe, watch, analyze		
+vështrueme	gheg	verb		vështroj	to observe, watch, analyze		
+vëzhgojshin	gheg	verb		vëzhgoj	to monitor, observe, survey		
+vlerësojshin	gheg	verb		vlerësoj	to value		
+vonuemit	gheg	verb		vonoj	to delay (cause someone to be late)		
+zaptojshin	gheg	verb		zaptoj	invade (to enter by force in order to conquer)		
+zbojna	gheg	verb		zboj	to drive away		
+zbukurojsh	gheg	verb		zbukuroj	to adorn		
+zgjeruen	gheg	verb		zgjeroj	to widen, to expand, to enlarge		
+zgjojsha	gheg	verb		zgjoj	to wake up, rouse		
+zgjojsh	gheg	verb		zgjoj	to wake up, rouse		
+zvogëlueme	gheg	verb		zvogëloj	to decrease		
+zhvillojsha	gheg	verb		zhvilloj	to develop		
+gjejshe	gheg	verb		gjej	to find		
+gjejshim	gheg	verb		gjej	to find		
+ndjejshe	gheg	verb		ndjej	to forgive compassionately		
+kthejshim	gheg	verb		kthej	to turn, turn over, flip		
+kthejshe	gheg	verb		kthej	to turn, turn over, flip		
+rrejshe	gheg	verb		rrej	to lie, deceive		
+vlejna	gheg	verb		vlej	to be worth		
+gënjejshe	gheg	verb		gënjej	to lie		
+urrejshe	gheg	verb		urrej	to hate		
+blejshe	gheg	verb		blej	to purchase; to cheat; to barter		
+blejshim	gheg	verb		blej	to purchase; to cheat; to barter		
+ndejshin	gheg	verb		ndej	to stretch (out)		
+shfrejshin	gheg	verb		shfrej	to vent		
+kryejsha	gheg	verb		kryej	to finish, carry out, do		
+mbërthejshin	gheg	verb		mbërthej	to clasp, enchain, hook, clench, brace		
+ndejsha	gheg	verb		ndej	to stretch (out)		
+thyejshin	gheg	verb		thyej	to break		
+brejshin	gheg	verb		brej	to gnaw, nibble		
+kapërcejshin	gheg	verb		kapërcej	to cross, jump over, leap over		
+kapërcejshim	gheg	verb		kapërcej	to cross, jump over, leap over		
+ndejna	gheg	verb		ndej	to stretch (out)		
+pëlqejsha	gheg	verb		pëlqej	to like		
+përkthejshim	gheg	verb		përkthej	to translate		
+fyejsha	gheg	verb		fyej	to offend, to insult		
+kapërcejsha	gheg	verb		kapërcej	to cross, jump over, leap over		
+kursejshin	gheg	verb		kursej	to save, save up, spare, put aside		
+ndiejshe	gheg	verb		ndiej	to feel		
+lyejsha	gheg	verb		lyej	to paint		
+vërejshim	gheg	verb		vërej	to look, observe, pay attention		
+ziejsha	gheg	verb		ziej	to boil, cook		
+ndiejshim	gheg	verb		ndiej	to feel		
+ndjejshim	gheg	verb		ndjej	to forgive compassionately		
+përkthejsha	gheg	verb		përkthej	to translate		
+kryejshe	gheg	verb		kryej	to finish, carry out, do		
+rikthejna	gheg	verb		rikthej	to bring back		
+rrejshim	gheg	verb		rrej	to lie, deceive		
+ushqejshim	gheg	verb		ushqej	to feed		
+vlejsha	gheg	verb		vlej	to be worth		
+mbajshim	gheg	verb		mbaj	to hold		
+shajshim	gheg	verb		shaj	to insult, revile, slander		
+ndajshim	gheg	prep		ndaj	towards, against; therefore		
+ndajsha	gheg	prep		ndaj	towards, against; therefore		
+ngajshim	gheg	verb		ngaj	to run, hasten, go quickly		
+shajsha	gheg	verb		shaj	to insult, revile, slander		
+ngajsha	gheg	verb		ngaj	to run, hasten, go quickly		
+përmbajna	gheg	verb		përmbaj	to contain		
+fshajshin	gheg	verb		fshaj	to sigh		
+rrajshin	gheg	verb		rraj	to flow, stream		
+blueme	gheg	verb		bluaj	to grind		
+kruejn	gheg	verb		kruaj	to rub, to scratch (an itch) (bodyparts in general)		
+parapaguem	gheg	verb		parapaguaj	Gheg participle of parapaguaj		
+shpaguen	gheg	verb		shpaguaj	to repay		
+rishkruen	gheg	verb		rishkruaj	to rewrite		
+rishkrueme	gheg	verb		rishkruaj	to rewrite		
+ndrituna	gheg	verb		ndriçoj	to enlighten		
+arrituna	gheg	verb		arrij	to arrive		
+dashuna	gheg	verb		dua	to want		
+mbajtuna	gheg	verb		mbahem	to be held		
+ngrituna	gheg	verb		ngre	to raise, to elevate, to lift		
+vdekuna	gheg	verb		vdes	to die (used only for humans and bees)		
+gjetuna	gheg	verb		gjej	to find		
+arritunat	gheg	verb		arrij	to arrive		
+fjetuna	gheg	verb		fle	to sleep		
+përsërituna	gheg	verb		përsëris	to repeat		
+gjetunat	gheg	verb		gjej	to find		
+mbrojtuna	gheg	verb		mbroj	to protect; to defend		
+shituna	gheg	verb		shes	to sell, estimate		
+rrituna	gheg	verb		rris	to rear, bring up (children)		
+godituna	gheg	verb		godas	to hit		
+quajtuna	gheg	verb		quaj	to call, name		
+topituna	gheg	verb		topit	to make blunt, wear out, hold back		
+munduna	gheg	verb		mund	can, to be able to; to have the opportunity, power or ability		
+paditunit	gheg	verb		padit	to sue, file a lawsuit		
+ruajtuna	gheg	verb		ruaj	to watch over, to observe, to guard		
+zbardhuna	gheg	verb		zbardh	to whiten; to dawn		
+hallakatuna	gheg	verb		hallakat	I scatter, disperse		
+plakuna	gheg	noun		plak	old man, elder		
+bartuna	gheg	verb		bart	carry, convey, express		
+djegunit	gheg	verb		djeg	to burn		
+mbytunit	gheg	verb		mbyt	to strangle, suffocate, choke to death		
+prituna	gheg	verb		pres	to cut, carve, slice, hew		
+dalldisuna	gheg	verb		dalldis	to drive into a frenzy		
+koklavituna	gheg	verb		koklavit	to tangle		
+molisuna	gheg	verb		molis	to make weak, enfeeble, debilitate		
+mbarsuna	gheg	verb		mbars	to impregnate, inseminate		
+ndotuna	gheg	verb		ndot	to defile		
+venituna	gheg	verb		venit	to wither		
+burgosuna	gheg	verb		burgos	to imprison		
+dredhuna	gheg	verb		dredh	to revolve, turn		
+kalamenduna	gheg	verb		kalamend	to confuse		
+mardhuna	gheg	verb		mardh	to freeze		
+mbetunave	gheg	verb		mbes	to remain, stay, rest		
+mbrujtuna	gheg	verb		mbruhem	to be educated (in a certain way, with certain ideas etc.)		
+qeverisuna	gheg	verb		qeveris	to govern, rule		
+rrjedhuna	gheg	verb		rrjedh	to flow, stream		
+përgjumuna	gheg	verb		përgjum	to make sleepy		
+thekuna	gheg	verb		thek	to toast, brown, warm one's feet		
+therunit	gheg	verb		ther	to cut, gut, prick, pierce, slaughter		
+dridhunit	gheg	verb		dridh	to tremble, quake, rock		
+lidhunave	gheg	verb		lidh	to bind, connect, tie, fasten		
+shpallunit	gheg	verb		shpall	to announce, to declare		
+dihatunin	gheg	verb		dihat	to pant		
+dashunat	gheg	verb		dua	to want		
+ngulituna	gheg	verb		ngulit	to fix firmly, to imprint		
+njohunve	gheg	verb		njihem	to meet, to become acquainted		
+përzgjedhunit	gheg	verb		përzgjedh	to select		
+habituna	gheg	verb		habit	to surprise		
+kalamendunit	gheg	verb		kalamend	to confuse		
+mbajtunit	gheg	verb		mbahem	to be held		
+palosuna	gheg	verb		palos	to fold		
+shembuna	gheg	verb		shemb	to demolish, abate, collapse		
+arratisuna	gheg	verb		arratis	to cast out		
+gjegjunit	gheg	verb		gjegj	to answer		
+ndeshunat	gheg	verb		ndesh	to meet, run into		
+ngritunit	gheg	verb		ngre	to raise, to elevate, to lift		
+ngrysuna	gheg	verb		ngrys	to darken		
+ngjalluna	gheg	verb		ngjall	to heal, revive		
+zgjedhunve	gheg	verb		zgjedh	to choose		
+zhvendosunve	gheg	verb		zhvendos	to move, relocate, displace		
+dhezuna	gheg	verb		dhez	to light, kindle		
+korruna	gheg	verb		korr	to harvest, reap		
+lidhunat	gheg	verb		lidh	to bind, connect, tie, fasten		
+lindunit	gheg	verb		lind	to be born		
+lodhunit	gheg	verb		lodh	to tire (someone)		
+ndritunit	gheg	verb		ndriçoj	to enlighten		
+paditunve	gheg	verb		padit	to sue, file a lawsuit		
+përshtatunit	gheg	verb		përshtat	adapt, accommodate		
+porositunit	gheg	verb		porosit	to request something to be done, bought, or sent		
+prishunit	gheg	verb		prish	to destroy		
+qeverisunit	gheg	verb		qeveris	to govern, rule		
+quajtunin	gheg	verb		quaj	to call, name		
+radhitunit	gheg	verb		radhis	to arrange		
+ndenjunit	gheg	verb		rri	to stay		
+rrjedhunit	gheg	verb		rrjedh	to flow, stream		
+shkrepunit	gheg	verb		shkrep	to flash, tone, to strike (till sparks fly off), an idea comes to one’s mind		
+shpifunin	gheg	verb		shpif	to slander, defame		
+zbutunit	gheg	verb		zbus	to soften		
+damkosuna	gheg	verb		damkos	to brand		
+firmosuna	gheg	verb		firmos	to sign		
+goditunat	gheg	verb		godas	to hit		
+ngopuna	gheg	verb		ngop	to sate		
+quajtunve	gheg	verb		quaj	to call, name		
+regjuna	gheg	noun		regj	king		
+regjunit	gheg	noun		regj	king		
+reshunat	gheg	verb		resh	to precipitate, fall (rain, snow, etc.)		
+spërkatuna	gheg	verb		spërkat	to sprinkle, to spray		
+shpërnguluna	gheg	verb		shpërngul	to displace, to deport		
+shpërngulunit	gheg	verb		shpërngul	to displace, to deport		
+armatosunit	gheg	verb		armatos	to arm (supply with weapons)		
+arritunave	gheg	verb		arrij	to arrive		
+drobituna	gheg	verb		drobit	to tire out		
+fjetunit	gheg	verb		fle	to sleep		
+fshehunit	gheg	verb		fsheh	to hide		
+gjetunave	gheg	verb		gjej	to find		
+heshtunit	gheg	verb		hesht	to hush		
+kalluna	gheg	verb		kall	to stick (on, into), put (up), thrust, instigate		
+krisunit	gheg	verb		kris	to crack; to go off (a gun)		
+llogarituna	gheg	verb		llogaris	to count, numerate		
+mbërrituna	gheg	verb		mbërrij	to arrive		
+mbushunit	gheg	verb		mbush	to fill (up), stuff		
+ndërthuruna	gheg	verb		ndërthur	knit (to join closely together)		
+ndjekunit	gheg	verb		ndjek	to follow; to pursue		
+ngjitunit	gheg	verb		ngjit	to stick, glue, adhere		
+njohunin	gheg	verb		njihem	to meet, to become acquainted		
+paraqitunit	gheg	verb		paraqit	to present, to show		
+përgjigjunit	gheg	verb		përgjigjem	to respond, to reply, to answer		
+përpjekunat	gheg	verb		përpiqem	to try		
+përuluna	gheg	verb		përul	to humiliate, demean		
+rrudhosuna	gheg	verb		rrudhos	to wrinkle, shrink, withdraw (also troops), become smaller (also territories)		
+shtrydhuna	gheg	verb		shtrydh	to squeeze, squash, press		
+tronditunit	gheg	verb		trondit	to shake vigorously		
+vuajtuna	gheg	verb		vuaj	to suffer, to feel pain		
+zbathunit	gheg	verb		zbath	to take off, remove (footwear)		
+braktisunve	gheg	verb		braktis	to abandon, leave		
+brumosuna	gheg	verb		brumos	to knead		
+cartuna	gheg	verb		cart	to kill, to ruin		
+fëlliquna	gheg	verb		fëlliq	to make dirty, sully		
+grishuna	gheg	verb		grish	to invite, call, welcome		
+groposuna	gheg	verb		gropos	to bury (in a pit)		
+kallunit	gheg	verb		kall	to stick (on, into), put (up), thrust, instigate		
+krisunve	gheg	verb		kris	to crack; to go off (a gun)		
+mbathunat	gheg	verb		mbath	to wear, put on (footwear)		
+mbytunve	gheg	verb		mbyt	to strangle, suffocate, choke to death		
+ndrequnit	gheg	verb		ndreq	to repair, fix, arrange		
+pallunin	gheg	verb		pall	to cry, hee-haw		
+paraburgosunve	gheg	verb		paraburgos	to hold in custody		
+parapërgatituna	gheg	verb		parapërgatit	to prepare in advance		
+përhapunat	gheg	verb		përhap	to spread, distribute		
+përhumbuna	gheg	verb		përhumb	to lose oneself		
+prishunave	gheg	verb		prish	to destroy		
+pyetunit	gheg	verb		pyes	to ask, make a question		
+qeshunave	gheg	verb		qesh	to laugh		
+shkrepuna	gheg	verb		shkrep	to flash, tone, to strike (till sparks fly off), an idea comes to one’s mind		
+shpërngulunve	gheg	verb		shpërngul	to displace, to deport		
+shprehunin	gheg	verb		shpreh	to express, show, manifest		
+tredhuna	gheg	verb		tredh	to castrate		
+trondituna	gheg	verb		trondit	to shake vigorously		
+zbrituna	gheg	verb		zbres	to descend, get off, climb down		
+bashkëlidhuna	gheg	verb		bashkëlidh	to attach, to enclose		
+buzëqeshuna	gheg	verb		buzëqesh	to smile		
+çarmatosunit	gheg	verb		çarmatos	to disarm		
+çmendunin	gheg	verb		çmend	to drive someone crazy		
+gërvishtuna	gheg	verb		gërvisht	to scratch, scrape with the nails		
+humbunve	gheg	verb		humb	to lose, misplace		
+mbledhunat	gheg	verb		mbledh	to gather, gather in or up		
+mbrojtunin	gheg	verb		mbroj	to protect; to defend		
+murosuna	gheg	verb		muros	to wall up		
+neverituna	gheg	verb		neverit	to nauseate		
+ngjallunit	gheg	verb		ngjall	to heal, revive		
+njehuna	gheg	verb		njeh	knows (form of njoh)		
+përbaltuna	gheg	verb		përbalt	to smear		
+përzhituna	gheg	verb		përzhit	to scorch, char, singe, sear		
+plagosunin	gheg	verb		plagos	to wound		
+rrumbullakosuna	gheg	verb		rrumbullakos	to round off		
+stërvitunit	gheg	verb		stërvis	to train, practice		
+stisuna	gheg	verb		stis	Gheg form of stis		
+shitunin	gheg	verb		shes	to sell, estimate		
+shitunve	gheg	verb		shes	to sell, estimate		
+shkelunat	gheg	verb		shkel	to tread upon		
+shkepuna	gheg	verb		shkep	to hew, chisel, sew, stich		
+shkoquna	gheg	verb		shkoq	to husk, hull		
+shkoqituna	gheg	verb		shkoqit	to explain; clarify		
+shpihunave	gheg	verb		shpih	to slander, calumniate		
+varrosunit	gheg	verb		varros	to bury		
+varrosunin	gheg	verb		varros	to bury		
+zbathunin	gheg	verb		zbath	to take off, remove (footwear)		
+arbëruer	gheg	adj		arbëror	Arbër		
+shërbëtuer	gheg	noun		shërbëtor	servant		
+hunduer	gheg	adj		hundor	nasal (having a quality imparted by means of the nose)		
+ndëshkimuer	gheg	adj		ndëshkimor	punitive		
+shqisuer	gheg	adj		shqisor	sensory		
+bashkëpunëtuer	gheg	noun		bashkëpunëtor	co-worker, colleague		
+dashuruer	gheg	adj		dashuror	love (adj.), amorous		
+rrënjësuer	gheg	adj		rrënjësor	radical		
+rrëshqanuer	gheg	noun		rrëshqanor	reptile		
+zadrimuer	gheg	noun		zadrimor	inhabitant of Zadrima		
+antinjerëzuer	gheg	adj		antinjerëzor	inhumane		
+bashkëkohuer	gheg	adj		bashkëkohor	present-day, contemporary		
+emëruer	gheg	adj		emëror	nominal		
+farefisnuer	gheg	adj		farefisnor	kinship (adj.), family (adj.)		
+paqësuer	gheg	adj		paqësor	peaceful		
+reformatuer	gheg	noun		reformator	reformer		
+renduer	gheg	noun		rendor	ordinal		
+shoqëruer	gheg	adj		shoqëror	social		
+njsia	gheg	noun		njësi	unit		
+trashsia	gheg	noun		trashësi	thickness		
+nxehtsia	gheg	noun		nxehtësi	heat, hotness		
+gjuhsia	gheg	noun		gjuhësi	linguistics		
+zotsia	gheg	noun		zotësi	ability, capacity		
+fshehtsia	gheg	noun		fshehtësi	secrecy		
+përfaqsija	gheg	noun		përfaqësi	representation		
+plotsia	gheg	noun		plotësi	completeness, fullness		
+saktsia	gheg	noun		saktësi	accuracy		
+kënaqsija	gheg	noun		kënaqësi	pleasure, gratification, satisfaction		
+largpamsia	gheg	noun		largpamësi	foresight		
+telemjeksia	gheg	noun		telemjekësi	telemedicine		
+korrektsia	gheg	noun		korrektësi	correctness		
+pafytyrsia	gheg	noun		pafytyrësi	impudence		
+brishtsia	gheg	noun		brishtësi	fragility		
+vobeksia	gheg	noun		vobekësi	poverty		
+fqinjsia	gheg	noun		fqinjësi	vicinity, locality, neighborhood		
+gjersija	gheg	noun		gjerësi	width		
+trashsija	gheg	noun		trashësi	thickness		
+fatbardhsia	gheg	noun		fatbardhësi	good fortune		
+dashakeqsia	gheg	noun		dashakeqësi	malevolence		
+gjuhsija	gheg	noun		gjuhësi	linguistics		
+lehtsia	gheg	noun		lehtësi	ease		
+shpejtsija	gheg	noun		shpejtësi	speed		
+mprehtsia	gheg	noun		mprehtësi	sharpness, acuity		
+qartsia	gheg	noun		qartësi	clarity		
+shpeshtsia	gheg	noun		shpeshtësi	frequency		
+shtirsia	gheg	noun		shtirësi	hypocrisy		
+atsia	gheg	noun		atësi	fatherhood		
+bujqsija	gheg	noun		bujqësi	agriculture		
+fortsia	gheg	noun		fortësi	strength		
+mangsia	gheg	noun		mangësi	shortcoming		
+amsia	gheg	noun		amësi	motherhood		
+kokëfortsia	gheg	noun		kokëfortësi	hardheadedness, obstinacy		
+padrejtsija	gheg	noun		padrejtësi	injustice		
+shumsia	gheg	noun		shumësi	plurality		
+vaksia	gheg	noun		vakësi	lukewarmness		
+bimsia	gheg	noun		bimësi	vegetation		
+mendjemadhsija	gheg	noun		mendjemadhësi	arrogance, haughtiness		
+rreptsija	gheg	noun		rreptësi	severity		
+shqiptarsia	gheg	noun		shqiptarësi	Albanianness		
+shtatzënsia	gheg	noun		shtatzënësi	pregnancy		
+aftsija	gheg	noun		aftësi	skill, ability, proficiency		
+fatmirsia	gheg	noun		fatmirësi	luck, fortune		
+ligsija	gheg	noun		ligësi	wickedness		
+ngadalsia	gheg	noun		ngadalësi	slowness, sluggishness		
+njomsija	gheg	noun		njomësi	tenderness, freshness		
+pamundsija	gheg	noun		pamundësi	impossibility, inability		
+pavdeksija	gheg	noun		pavdekësi	immortality		
+armiqsija	gheg	noun		armiqësi	enmity (hostile or unfriendly disposition)		
+autorsija	gheg	noun		autorësi	authorship (quality or state of being an author)		
+ftohtsia	gheg	noun		ftohtësi	coldness		
+kryelartsia	gheg	noun		kryelartësi	hubris (excessive arrogance, presumption, or pride)		
+kryeneçsija	gheg	noun		kryeneçësi	hardheadedness, obstinacy		
+paqartsia	gheg	noun		paqartësi	lack of clarity, ambiguity		
+parimsia	gheg	noun		parimësi	adherence to principle		
+qensia	gheg	noun		qenësi	essence		
+shkathtsia	gheg	noun		shkathtësi	skill, agility		
+shpirtmirsia	gheg	noun		shpirtmirësi	kindness of heart		
+vobeksija	gheg	noun		vobekësi	poverty		
+bashkautorsia	gheg	noun		bashkautorësi	co-authorship		
+bashkëfajsija	gheg	noun		bashkëfajësi	complicity (the state of being complicit)		
+dykuptimsia	gheg	noun		dykuptimësi	ambiguity		
+fajsija	gheg	noun		fajësi	guilt (the state of being guilty)		
+fatbardhsija	gheg	noun		fatbardhësi	good fortune		
+kryeneçsia	gheg	noun		kryeneçësi	hardheadedness, obstinacy		
+kthjelltsia	gheg	noun		kthjelltësi	clarity		
+kuptimsia	gheg	noun		kuptimësi	meaningfulness		
+mendsija	gheg	noun		mendësi	mentality (mindset — see also mindset)		
+solidarsija	gheg	noun		solidarësi	solidarity		
+shkurtsia	gheg	noun		shkurtësi	Gheg form of shkurtësi		
+shterpsia	gheg	noun		shterpësi	sterility, barrenness		
+heqsia	gheg	noun		heqësi	hardship		
+hirsija	gheg	noun		hirësi	grace (title)		
+ligjsia	gheg	noun		ligjësi	regularity		
+ndyrsia	gheg	noun		ndyrësi	filth; vileness		
+njomsia	gheg	noun		njomësi	tenderness, freshness		
+paansia	gheg	noun		paanësi	impartiality		
+pakënaqsija	gheg	noun		pakënaqësi	dissatisfaction, discontent		
+pazotsia	gheg	noun		pazotësi	incompetence		
+përgjumsia	gheg	noun		përgjumësi	drowsiness		
+prapsija	gheg	noun		prapësi	bad luck (misfortune)		
+shkaksia	gheg	noun		shkakësi	causality		
+varsija	gheg	noun		varësi	dependence, addiction		
+vransia	gheg	noun		vranësi	bad weather		
+vrazhdsia	gheg	noun		vrazhdësi	rudeness, roughness		
+paaftësija	gheg	noun		paaftësi	incapacity, incompetence		
+shpejtësija	gheg	noun		shpejtësi	speed		
+breznija	gheg	noun		brezni	generation		
+shkathtësija	gheg	noun		shkathtësi	skill, agility		
+pakujdesija	gheg	noun		pakujdesi	carelessness		
+hollësija	gheg	noun		hollësi	detail		
+shkëlqesija	gheg	noun		shkëlqesi	Excellency		
+thjeshtësija	gheg	noun		thjeshtësi	simplicity		
+fatbardhësija	gheg	noun		fatbardhësi	good fortune		
+vjetërsija	gheg	noun		vjetërsi	seniority		
+agonija	gheg	noun		agoni	agony		
+egërsija	gheg	noun		egërsi	wildness		
+monotonija	gheg	noun		monotoni	monotony		
+taksija	gheg	noun		taksi	taxi		
+autoktonija	gheg	noun		autoktoni	autochthony		
+cubnija	gheg	noun		cubni	robbery, theft		
+lukunija	gheg	noun		lukuni	pack		
+mjekësija	gheg	noun		mjekësi	medicine		
+tërësija	gheg	noun		tërësi	entirety		
+ndasija	gheg	noun		ndasi	division		
+ngrohtësija	gheg	noun		ngrohtësi	affection, affectionateness, fondness		
+vështirësija	gheg	noun		vështirësi	difficulty		
+jahnija	gheg	noun		jahni	yakhni, a broth with pieces of stewed meat and onions		
+mendësija	gheg	noun		mendësi	mentality (mindset — see also mindset)		
+mprehtësija	gheg	noun		mprehtësi	sharpness, acuity		
+privatësija	gheg	noun		privatësi	privacy		
+epilepsija	gheg	noun		epilepsi	epilepsy (medical condition)		
+armiqësija	gheg	noun		armiqësi	enmity (hostile or unfriendly disposition)		
+brendësija	gheg	noun		brendësi	interior		
+pneumonija	gheg	noun		pneumoni	pneumonia (inflammation of the lungs)		
+autopsija	gheg	noun		autopsi	autopsy (a dissection performed on a cadaver)		
+gjerësija	gheg	noun		gjerësi	width		
+ortodoksija	gheg	noun		ortodoksi	orthodoxy		
+përfaqësija	gheg	noun		përfaqësi	representation		
+përparësija	gheg	noun		përparësi	priority, advantage		
+poshtërsija	gheg	noun		poshtërsi	baseness		
+vërtetësija	gheg	noun		vërtetësi	truthfulness, veracity		
+nusnis	gheg	noun		nusëri	bridehood		
+mushknin	gheg	noun		mushkëri	lung		
+përvujtnija	gheg	noun		përvujtëri	humility		
+skllavni	gheg	noun		skllavëri	slavery		
+priftnija	gheg	noun		priftëri	priesthood		
+verbnis	gheg	noun		verbëri	blindness		
+rrjedhshmnin	gheg	noun		rrjedhshmëri	fluency		
+amvisnis	gheg	noun		amvisëri	home management, home economics, homemaking, housekeeping		
+ardhmnin	gheg	noun		ardhmëri	future		
+përvujtnis	gheg	noun		përvujtëri	humility		
+shenjtnin	gheg	noun		shenjtëri	holiness		
+tosknija	gheg	noun		toskëri	the Tosk lands; the Tosks as a whole		
+ndonjni	gheg	pron		ndonjëri	someone, any (of them)		
+vajznia	gheg	noun		vajzëri	girlhood; the young girls		
+njni	gheg	pron		njëri	one (of them)		
+thnija	gheg	noun		thëri	nit		
+thnin	gheg	noun		thëri	nit		
+kushni	gheg	noun		kushëri	cousin, first cousin		
+shenjtnis	gheg	noun		shenjtëri	holiness		
+shtrignia	gheg	other		shtrigëri	witchcraft, sorcery		
+tosknin	gheg	noun		toskëri	the Tosk lands; the Tosks as a whole		
+amvisnin	gheg	noun		amvisëri	home management, home economics, homemaking, housekeeping		
+besniknia	gheg	noun		besnikëri	devotion		
+besniknin	gheg	noun		besnikëri	devotion		
+dhelpnin	gheg	noun		dhelpëri	an act/action performed with wiliness, cunning, slyness, craftiness		
+gegnin	gheg	noun		gegëri	the Gheg lands		
+nusnia	gheg	noun		nusëri	bridehood		
+njnin	gheg	pron		njëri	one (of them)		
+fisniknija	gheg	noun		fisnikëri	nobility		
+mushknija	gheg	noun		mushkëri	lung		
+skllavnija	gheg	noun		skllavëri	slavery		
+vajznis	gheg	noun		vajzëri	girlhood; the young girls		
+fisniknin	gheg	noun		fisnikëri	nobility		
+mushknis	gheg	noun		mushkëri	lung		
+nusnin	gheg	noun		nusëri	bridehood		
+ardhmni	gheg	noun		ardhmëri	future		
+asnjni	gheg	pron		asnjëri	neither, none (of them)		
+djalnia	gheg	noun		djalëri	boyhood		
+lartmadhnis	gheg	noun		lartmadhëri	majesty		
+ndjeshmnin	gheg	noun		ndjeshmëri	sensing, perception		
+nusnija	gheg	noun		nusëri	bridehood		
+pavdekshmnin	gheg	noun		pavdekshmëri	immortality		
+përsosmnija	gheg	noun		përsosmëri	perfection		
+skllavnin	gheg	noun		skllavëri	slavery		
+shenjtnija	gheg	noun		shenjtëri	holiness		
+verbnia	gheg	noun		verbëri	blindness		
+vëllaznis	gheg	noun		vëllazëri	brotherhood; fraternity		
+kënduarë	tosk	verb		këndoj	to sing		
+mendonjë	tosk	verb		mendoj	to think		
+filluarë	tosk	verb		filloj	to start, to begin		
+harruarë	tosk	verb		harroj	to forget		
+ngarkuarë	tosk	verb		ngarkoj	to load		
+punonjnë	tosk	verb		punoj	to work		
+ndihmonjë	tosk	verb		ndihmoj	to help		
+jetonjë	tosk	verb		jetoj	to live (to be alive)		
+botuarë	tosk	verb		botoj	to publish, issue, release		
+shenjtëruarë	tosk	verb		shenjtëroj	to sanctify		
+vazhdonjë	tosk	verb		vazhdoj	to continue		
+krijuarë	tosk	verb		krijoj	to come up with, to conceive, to devise		
+vërtetuarë	tosk	verb		vërtetoj	to prove		
+kuptuarë	tosk	verb		kuptoj	to understand		
+pranonjë	tosk	verb		pranoj	to accept		
+ftonjë	tosk	verb		ftoj	to invite		
+pranuarë	tosk	verb		pranoj	to accept		
+interesuarë	tosk	verb		interesoj	to interest		
+detyruarë	tosk	verb		detyroj	to compel, to force, constrain		
+lejuarë	tosk	verb		lejoj	allow (to let one have)		
+gabuarë	tosk	verb		gaboj	to err, to make a mistake		
+mendonjnë	tosk	verb		mendoj	to think		
+ndryshonjë	tosk	verb		ndryshoj	to change, to alter, to modify		
+vargonjë	tosk	verb		vargoj	to string together		
+çmuarë	tosk	verb		çmoj	to appreciate, esteem, value		
+jetuarë	tosk	verb		jetoj	to live (to be alive)		
+mallkuarë	tosk	verb		mallkoj	to curse, damn		
+themeluarë	tosk	verb		themeloj	to found, to establish		
+ndihmonjnë	tosk	verb		ndihmoj	to help		
+organizuarë	tosk	verb		organizoj	to organise		
+pësonjënë	tosk	verb		pësoj	to suffer		
+premtuarë	tosk	verb		premtoj	to promise		
+qëronjë	tosk	verb		qëroj	clean		
+tregonjnë	tosk	verb		tregoj	to show, indicate, point at (originally a commercial term)		
+zgjuarë	tosk	verb		zgjoj	to wake up, rouse		
+drejtuarë	tosk	verb		drejtoj	to direct, to lead, to manage		
+realizuarë	tosk	verb		realizoj	to achieve, fulfill		
+afronjë	tosk	verb		afroj	to bring closer, near		
+kalonjë	tosk	verb		kaloj	to pass, walk by		
+lexuarë	tosk	verb		lexoj	to read		
+ndërruarë	tosk	verb		ndërroj	to change, substitute, alter		
+zotëronjë	tosk	verb		zotëroj	to own		
+zhvilluarë	tosk	verb		zhvilloj	to develop		
+pushuarë	tosk	verb		pushoj	to rest, relax		
+infektuarë	tosk	verb		infektoj	to infect		
+injoronjë	tosk	verb		injoroj	to ignore		
+ndihmuarë	tosk	verb		ndihmoj	to help		
+përparuarë	tosk	verb		përparoj	to advance		
+prezantuarë	tosk	verb		prezantoj	present, represent, lay out		
+synonjnë	tosk	verb		synoj	to aim		
+vazhduarë	tosk	verb		vazhdoj	to continue		
+vepronjnë	tosk	verb		veproj	to do something		
+kufizuarë	tosk	verb		kufizoj	to form a border, delimit (geographically)		
+ofronjnë	tosk	verb		ofroj	to offer		
+respektuarë	tosk	verb		respektoj	respect (to have respect for)		
+deklaruarë	tosk	verb		deklaroj	to declare		
+dhunuarë	tosk	verb		dhunoj	to treat with violence		
+forcuarë	tosk	verb		forcoj	strengthen (to make strong or stronger)		
+imponuarë	tosk	verb		imponoj	to impose		
+korruptuarë	tosk	verb		korruptoj	bribe, corrupt, buy		
+mërguarë	tosk	verb		mërgoj	to emigrate, move away		
+njoftuarë	tosk	verb		njoftoj	to announce, to inform, to notify		
+penguarë	tosk	verb		pengoj	to hinder, to impede		
+pësuarë	tosk	verb		pësoj	to suffer		
+posedonjë	tosk	verb		posedoj	to possess, to own		
+trajtuarë	tosk	verb		trajtoj	to treat		
+trazuarë	tosk	verb		trazoj	to mix		
+arrestuarë	tosk	verb		arrestoj	to arrest		
+frikësuarë	tosk	verb		frikësoj	frighten, fright, scare		
+mbijetuarë	tosk	verb		mbijetoj	to survive		
+mungonjë	tosk	verb		mungoj	to be absent, to be missed		
+përfunduarë	tosk	verb		përfundoj	to finish, conclude, end		
+pranonjnë	tosk	verb		pranoj	to accept		
+shkonjnë	tosk	verb		shkoj	to go, pass		
+shqiponjnë	tosk	verb		shqipoj	to say clearly		
+theksuarë	tosk	verb		theksoj	to emphasize, to accentuate		
+zbuluarë	tosk	verb		zbuloj	to discover		
+zemëruarë	tosk	verb		zemëroj	to anger		
+zotuarë	tosk	verb		zotoj	to pledge		
+dëshmonjë	tosk	verb		dëshmoj	to testify		
+duronjë	tosk	verb		duroj	to bear		
+numëruarë	tosk	verb		numëroj	to count		
+përfaqësonjë	tosk	verb		përfaqësoj	to represent		
+dalluarë	tosk	verb		dalloj	to discern, recognize		
+fejuarë	tosk	verb		fejoj	to betroth		
+fluturonjë	tosk	verb		fluturoj	to fly		
+kuptonjë	tosk	verb		kuptoj	to understand		
+lejonjë	tosk	verb		lejoj	allow (to let one have)		
+pasqyruarë	tosk	verb		pasqyroj	to reflect		
+takuarë	tosk	verb		takoj	to meet; to encounter		
+tmerruarë	tosk	verb		tmerroj	to terrify		
+turpëruarë	tosk	verb		turpëroj	to humiliate, embarrass		
+verbuarë	tosk	verb		verboj	to blind		
+vizituarë	tosk	verb		vizitoj	to visit		
+bashkonjë	tosk	verb		bashkoj	to unite, merge, weld		
+copëtuarë	tosk	verb		copëtoj	to shatter, shred		
+dorëzuarë	tosk	verb		dorëzoj	to hand in		
+imagjinonjnë	tosk	verb		imagjinoj	to imagine		
+kërkonjnë	tosk	verb		kërkoj	to look for, to seek, to search for		
+mungonjnë	tosk	verb		mungoj	to be absent, to be missed		
+penduarë	tosk	verb		pendoj	to regret		
+proceduarë	tosk	verb		procedoj	to proceed		
+publikuarë	tosk	verb		publikoj	advertise, publicize, advertize		
+punësuarë	tosk	verb		punësoj	to employ		
+tërbuarë	tosk	verb		tërboj	to have a dry mouth		
+trashëguarë	tosk	verb		trashëgoj	to inherit (property or something else by will)		
+afruarë	tosk	verb		afroj	to bring closer, near		
+avancuarë	tosk	verb		avancoj	to advance (to move forwards, to approach)		
+deleguarë	tosk	verb		delegoj	to delegate		
+diplomuarë	tosk	verb		diplomoj	to graduate		
+fillonjë	tosk	verb		filloj	to start, to begin		
+gëlonjnë	tosk	verb		gëloj	to burst out		
+kalonjnë	tosk	verb		kaloj	to pass, walk by		
+krijonjnë	tosk	verb		krijoj	to come up with, to conceive, to devise		
+moderuarë	tosk	verb		moderoj	to moderate		
+pagëzonjë	tosk	verb		pagëzoj	to baptize		
+peshonjë	tosk	verb		peshoj	to weigh		
+provonjë	tosk	verb		provoj	to try; to try out; to try on		
+vlersuarë	tosk	verb		vlersoj	prize (1. to consider something highly valuable)		
+anashkaluarë	tosk	verb		anashkaloj	to bypass		
+bisedonjë	tosk	verb		bisedoj	to talk, to converse		
+dëshmonjnë	tosk	verb		dëshmoj	to testify		
+dhuruarë	tosk	verb		dhuroj	to bestow, grant, donate		
+formonjë	tosk	verb		formoj	to shape, form.		
+funksiononjë	tosk	verb		funksionoj	to function		
+izoluarë	tosk	verb		izoloj	to isolate		
+kushtuarë	tosk	verb		kushtoj	to cost		
+mbretëruarë	tosk	verb		mbretëroj	to reign		
+ndalonjë	tosk	verb		ndaloj	to forbid, to ban, to stop		
+ndryshuarë	tosk	verb		ndryshoj	to change, to alter, to modify		
+ngatërruarë	tosk	verb		ngatërroj	to tangle, entangle		
+obliguarë	tosk	verb		obligoj	to oblige		
+përballuarë	tosk	verb		përballoj	confront (to engage in confrontation)		
+përkushtuarë	tosk	verb		përkushtoj	to dedicate		
+trajtonjë	tosk	verb		trajtoj	to treat		
+turpëronjë	tosk	verb		turpëroj	to humiliate, embarrass		
+vrapuarë	tosk	verb		vrapoj	to run		
+akuzuarë	tosk	verb		akuzoj	to accuse		
+dëmtonjë	tosk	verb		dëmtoj	to damage		
+dëshiruarë	tosk	verb		dëshiroj	to desire		
+fluturonjënë	tosk	verb		fluturoj	to fly		
+gjurmonjnë	tosk	verb		gjurmoj	to track, to pursue		
+identifikuarë	tosk	verb		identifikoj	to identify		
+konvertuarë	tosk	verb		konvertoj	change, exchange, commute		
+kryqëzuarë	tosk	verb		kryqëzoj	to cross, lay across		
+kujtuarë	tosk	verb		kujtoj	to recall, remember		
+lulëzuarë	tosk	verb		lulëzoj	to bloom, blossom		
+manifestonjnë	tosk	verb		manifestoj	to manifest		
+mbronjnë	tosk	verb		mbroj	to protect; to defend		
+mohonjënë	tosk	verb		mohoj	to deny		
+ngjëronjënë	tosk	verb		ngjëroj	to try, sample, taste		
+përtuarë	tosk	verb		përtoj	to be too lazy to do something, go to work, etc.		
+përvëluarë	tosk	verb		përvëloj	to scorch		
+rregulluarë	tosk	verb		rregulloj	to put into working order		
+shoqëruarë	tosk	verb		shoqëroj	to accompany		
+ushtronjë	tosk	verb		ushtroj	to exercise (use, call upon)		
+vizatuarë	tosk	verb		vizatoj	to draw		
+zbatuarë	tosk	verb		zbatoj	to carry out (orders, plans, etc.)		
+adhuronjënë	tosk	verb		adhuroj	to adore		
+dërmonjë	tosk	verb		dërmoj	to demolish		
+dëshmuarë	tosk	verb		dëshmoj	to testify		
+instaluarë	tosk	verb		instaloj	to install		
+këshilluarë	tosk	verb		këshilloj	to advise		
+krenuarë	tosk	verb		krenoj	to make proud		
+kryqëzonjënë	tosk	verb		kryqëzoj	to cross, lay across		
+kushtonjnë	tosk	verb		kushtoj	to cost		
+luftonjënë	tosk	verb		luftoj	to fight		
+ofronjë	tosk	verb		ofroj	to offer		
+okupuarë	tosk	verb		okupoj	to occupy		
+pajtonjë	tosk	verb		pajtoj	to re-establish, agree		
+përvetësuarë	tosk	verb		përvetësoj	to master		
+pushtonjë	tosk	verb		pushtoj	to conquer		
+siguronjnë	tosk	verb		siguroj	to secure		
+shkaktonjë	tosk	verb		shkaktoj	to cause		
+shkatërruarë	tosk	verb		shkatërroj	to destruct, to destroy, to devastate		
+tejkaluarë	tosk	verb		tejkaloj	to surpass, exceed		
+tëholluarë	tosk	verb		tëholloj	to thin down; wallow out (dough, layers)		
+valonjë	tosk	verb		valoj	to boil		
+votuarë	tosk	verb		votoj	to vote		
+zbukuronjë	tosk	verb		zbukuroj	to adorn		
+agjëronjë	tosk	verb		agjëroj	to fast		
+analizuarë	tosk	verb		analizoj	to analyse		
+ankuarë	tosk	verb		ankoj	to complain, to lament, to be in pain		
+anuarë	tosk	verb		anoj	to lean		
+arsimuarë	tosk	verb		arsimoj	to educate		
+bazuarë	tosk	verb		bazoj	to base		
+besonjnë	tosk	verb		besoj	to believe		
+betuarë	tosk	verb		betoj	to put/involve (someone) in an oath; to pledge		
+bllokuarë	tosk	verb		bllokoj	to block		
+drejtonjë	tosk	verb		drejtoj	to direct, to lead, to manage		
+grumbulluarë	tosk	verb		grumbulloj	to pile up, to gather up, to amass		
+holluarë	tosk	verb		holloj	to thin (down), rarefy, wallow out (dough)		
+latuarë	tosk	verb		latoj	to carve, whittle, grave (on wood)		
+lëvduarë	tosk	verb		lëvdoj	to praise, laud, commend		
+ndalonjënë	tosk	verb		ndaloj	to forbid, to ban, to stop		
+nderonjënë	tosk	verb		nderoj	to honour		
+ndikonjnë	tosk	verb		ndikoj	to influence		
+ngushtuarë	tosk	verb		ngushtoj	to narrow		
+numëronjë	tosk	verb		numëroj	to count		
+nxituarë	tosk	verb		nxitoj	to hurry		
+ofruarë	tosk	verb		ofroj	to offer		
+përfaqësonjnë	tosk	verb		përfaqësoj	to represent		
+përqafuarë	tosk	verb		përqafoj	to embrace, to hug		
+pikëllonjë	tosk	verb		pikëlloj	to grieve, to sadden deeply		
+pikëlluarë	tosk	verb		pikëlloj	to grieve, to sadden deeply		
+preferuarë	tosk	verb		preferoj	to prefer		
+pretendonjë	tosk	verb		pretendoj	to claim; to pretend		
+rikuperonjnë	tosk	verb		rikuperoj	to recover		
+synonjë	tosk	verb		synoj	to aim		
+shfrytëzuarë	tosk	verb		shfrytëzoj	to exploit, harness, make use of		
+trilluarë	tosk	verb		trilloj	to invent		
+vlerësuarë	tosk	verb		vlerësoj	to value		
+zbukuruarë	tosk	verb		zbukuroj	to adorn		
+çlironjë	tosk	verb		çliroj	to free, to liberate		
+çliruarë	tosk	verb		çliroj	to free, to liberate		
+dallonjë	tosk	verb		dalloj	to discern, recognize		
+dekoronjë	tosk	verb		dekoroj	to decorate		
+depozituarë	tosk	verb		depozitoj	to deposit		
+dëmtuarë	tosk	verb		dëmtoj	to damage		
+ekzistonjë	tosk	verb		ekzistoj	to exist		
+jetonjnë	tosk	verb		jetoj	to live (to be alive)		
+kamufluarë	tosk	verb		kamufloj	to camouflage		
+krijonjë	tosk	verb		krijoj	to come up with, to conceive, to devise		
+lëruarë	tosk	verb		lëroj	to plough		
+luftonjnë	tosk	verb		luftoj	to fight		
+lundruarë	tosk	verb		lundroj	to sail, navigate		
+materializonjë	tosk	verb		materializoj	to materialize, to realize		
+mbijetonjë	tosk	verb		mbijetoj	to survive		
+mbretëronjënë	tosk	verb		mbretëroj	to reign		
+ndikonjë	tosk	verb		ndikoj	to influence		
+ndriçonjë	tosk	verb		ndriçoj	to enlighten		
+parashikuarë	tosk	verb		parashikoj	to predict		
+pasuruarë	tosk	verb		pasuroj	to enrich, make rich		
+redaktonjnë	tosk	verb		redaktoj	to edit		
+refuzuarë	tosk	verb		refuzoj	to refuse		
+rëmuarë	tosk	verb		rëmoj	to dig		
+rrezikuarë	tosk	verb		rrezikoj	to risk, to jeopardize, to endanger, to imperil		
+specializuarë	tosk	verb		specializoj	to specialize, to train in a field		
+shënonjë	tosk	verb		shënoj	to sign		
+shpuarë	tosk	verb		shpoj	to pierce, prick		
+shumuarë	tosk	verb		shumoj	to multiply		
+valuarë	tosk	verb		valoj	to boil		
+vepronjë	tosk	verb		veproj	to do something		
+zbardhëlluarë	tosk	verb		zbardhëlloj	Tosk form of zbardhëlloj		
+agjëruarë	tosk	verb		agjëroj	to fast		
+begatuarë	tosk	verb		begatoj	to enrich		
+copëtonjë	tosk	verb		copëtoj	to shatter, shred		
+degraduarë	tosk	verb		degradoj	to degrade		
+dërrmonjë	tosk	verb		dërrmoj	to crush		
+duronjënë	tosk	verb		duroj	to bear		
+dyshuarë	tosk	verb		dyshoj	to doubt, suspect		
+eliminonjnë	tosk	verb		eliminoj	eliminate (completely destroy)		
+ëndërruarë	tosk	verb		ëndërroj	to dream		
+favorizuarë	tosk	verb		favorizoj	to favour		
+firuarë	tosk	verb		firoj	to dwindle		
+flijuarë	tosk	verb		flijoj	to sacrifice, immolate, make offering (someone or something)		
+frekuentonjë	tosk	verb		frekuentoj	to frequent		
+frymëzuarë	tosk	verb		frymëzoj	to inspire		
+garantonjë	tosk	verb		garantoj	to guarantee		
+garantuarë	tosk	verb		garantoj	to guarantee		
+gatuarë	tosk	verb		gatoj	to cook, prepare, make ready		
+hutuarë	tosk	verb		hutoj	to daze, astonish		
+kapluarë	tosk	verb		kaploj	to seize and protect (with hands)		
+komunikuarë	tosk	verb		komunikoj	to communicate		
+konfirmuarë	tosk	verb		konfirmoj	affirm, verify, assert		
+kontrolluarë	tosk	verb		kontrolloj	to check, to control		
+largonjë	tosk	verb		largoj	to leave		
+lartësonjë	tosk	verb		lartësoj	to raise, lift up		
+lavdëruarë	tosk	verb		lavdëroj	to laud, praise, commend		
+lironjë	tosk	verb		liroj	free (to make free, set at liberty)		
+lustruarë	tosk	verb		lustroj	to polish		
+mëshironjë	tosk	verb		mëshiroj	to sympathize		
+miqësuarë	tosk	verb		miqësoj	to befriend		
+mobilizonjë	tosk	verb		mobilizoj	to mobilize		
+montuarë	tosk	verb		montoj	to assemble		
+ndalonjnë	tosk	verb		ndaloj	to forbid, to ban, to stop		
+ndërronjë	tosk	verb		ndërroj	to change, substitute, alter		
+perënduarë	tosk	verb		perëndoj	to fall (from/per/off)		
+përcaktuarë	tosk	verb		përcaktoj	to determine		
+pikëzuarë	tosk	verb		pikëzoj	to dot (mark with many consecutive dots)		
+preferonjnë	tosk	verb		preferoj	to prefer		
+prodhuarë	tosk	verb		prodhoj	to produce; to manufacture		
+pruarë	tosk	verb		proj	to guard, defend		
+qëndronjnë	tosk	verb		qëndroj	to stay, to linger		
+reaguarë	tosk	verb		reagoj	to react		
+rrafshuarë	tosk	verb		rrafshoj	to make even, flat, level to the ground		
+rrotullonjë	tosk	verb		rrotulloj	to rotate		
+sensibilizuarë	tosk	verb		sensibilizoj	to raise awareness, to sensitize		
+stimuluarë	tosk	verb		stimuloj	to stimulate; to arouse		
+studionjë	tosk	verb		studioj	study (to acquire knowledge)		
+shëronjënë	tosk	verb		shëroj	to cure, heal, remedy		
+shkurtuarë	tosk	verb		shkurtoj	to cut; to make shorter		
+shpejtonjë	tosk	verb		shpejtoj	to speed up, to hurry		
+shqelmuarë	tosk	verb		shqelmoj	to kick		
+shtonjnë	tosk	verb		shtoj	to add		
+trajnuarë	tosk	verb		trajnoj	coach, train		
+trajtonjnë	tosk	verb		trajtoj	to treat		
+trishtuarë	tosk	verb		trishtoj	to make sad		
+ungjillëzuarë	tosk	verb		ungjillëzoj	evangelize (tell people about Christianity)		
+vajtuarë	tosk	verb		vajtoj	wail, whimper, mewl		
+varguarë	tosk	verb		vargoj	to string together		
+vazhdonjnë	tosk	verb		vazhdoj	to continue		
+verifikuarë	tosk	verb		verifikoj	to verify, to check		
+vëzhguarë	tosk	verb		vëzhgoj	to monitor, observe, survey		
+vijëzuarë	tosk	verb		vijëzoj	to draw a line		
+zgjeruarë	tosk	verb		zgjeroj	to widen, to expand, to enlarge		
+afishuarë	tosk	verb		afishoj	to placard, post, post up		
+aplikuarë	tosk	verb		aplikoj	to apply		
+banuarë	tosk	verb		banoj	to live, inhabit, dwell, reside		
+bashkëpunonjë	tosk	verb		bashkëpunoj	to cooperate		
+biseduarë	tosk	verb		bisedoj	to talk, to converse		
+denoncuarë	tosk	verb		denoncoj	to denounce		
+doktoruarë	tosk	verb		doktoroj	to get a doctorate		
+dhuronjë	tosk	verb		dhuroj	to bestow, grant, donate		
+egërsuarë	tosk	verb		egërsoj	to make wild		
+ekspozonjë	tosk	verb		ekspozoj	expose, exhibit, display		
+ekzistonjnë	tosk	verb		ekzistoj	to exist		
+emocionuarë	tosk	verb		emocionoj	to move		
+errësuarë	tosk	verb		errësoj	to darken, dim, obscure		
+etiketuarë	tosk	verb		etiketoj	to label		
+fiksuarë	tosk	verb		fiksoj	to fix		
+financuarë	tosk	verb		financoj	to finance		
+hidhëruarë	tosk	verb		hidhëroj	to grieve		
+informuarë	tosk	verb		informoj	inform		
+këshillonjënë	tosk	verb		këshilloj	to advise		
+komplikuarë	tosk	verb		komplikoj	to complicate		
+konfiskuarë	tosk	verb		konfiskoj	to confiscate, seize		
+konsumuarë	tosk	verb		konsumoj	to consume		
+kontaktonjnë	tosk	verb		kontaktoj	to contact		
+korrespondonjë	tosk	verb		korrespondoj	to correspond		
+kritikonjë	tosk	verb		kritikoj	to criticize		
+kundërshtonjë	tosk	verb		kundërshtoj	to oppose, to contest		
+lexonjë	tosk	verb		lexoj	to read		
+lulëzonjënë	tosk	verb		lulëzoj	to bloom, blossom		
+lumturuarë	tosk	verb		lumturoj	to make happy		
+minuarë	tosk	verb		minoj	to mine		
+modernizuarë	tosk	verb		modernizoj	modernize (bring something up to date)		
+mundësonjë	tosk	verb		mundësoj	to enable		
+mundonjë	tosk	verb		mundoj	to torture		
+murmuruarë	tosk	verb		murmuroj	to murmur		
+numëronjënë	tosk	verb		numëroj	to count		
+organizonjnë	tosk	verb		organizoj	to organise		
+pallonjë	tosk	verb		palloj	to beat		
+parashtruarë	tosk	verb		parashtroj	to submit, to put forward		
+pastruarë	tosk	verb		pastroj	to clean		
+persekutuarë	tosk	verb		persekutoj	to persecute		
+përfituarë	tosk	verb		përfitoj	to gain, benefit, profit		
+përfundonjë	tosk	verb		përfundoj	to finish, conclude, end		
+pikonjë	tosk	verb		pikoj	to drip, to tickle, to leak		
+plotësonjë	tosk	verb		plotësoj	to complete		
+protestonjë	tosk	verb		protestoj	to protest		
+riparuarë	tosk	verb		riparoj	to repair		
+shijonjë	tosk	verb		shijoj	to taste, enjoy, savor		
+shikonjnë	tosk	verb		shikoj	to look at, gaze at		
+shpejtonjënë	tosk	verb		shpejtoj	to speed up, to hurry		
+shpenzonjë	tosk	verb		shpenzoj	consume, squander, waste		
+shpjeguarë	tosk	verb		shpjegoj	to explain		
+shteruarë	tosk	verb		shteroj	to dry up, run dry		
+tentonjnë	tosk	verb		tentoj	to try, attempt		
+thelluarë	tosk	verb		thelloj	to deepen		
+udhëtonjnë	tosk	verb		udhëtoj	to travel		
+unifikuarë	tosk	verb		unifikoj	to unify, to standardize		
+administronjë	tosk	verb		administroj	to administer		
+aplikonjë	tosk	verb		aplikoj	to apply		
+aprovuarë	tosk	verb		aprovoj	to approve, to consent, to endorse		
+argumentuarë	tosk	verb		argumentoj	to argue		
+ashpëruarë	tosk	verb		ashpëroj	to roughen, to harden		
+demokratizuarë	tosk	verb		demokratizoj	democratize (to make democratic)		
+depërtuarë	tosk	verb		depërtoj	to penetrate, permeate		
+dezertonjë	tosk	verb		dezertoj	to desert		
+dëgjonjnë	tosk	verb		dëgjoj	to hear		
+dështuarë	tosk	verb		dështoj	to have a miscarriage		
+dimëruarë	tosk	verb		dimëroj	to winter		
+dyfishuarë	tosk	verb		dyfishoj	to double		
+emigronjë	tosk	verb		emigroj	to emigrate		
+emigronjnë	tosk	verb		emigroj	to emigrate		
+fërkuarë	tosk	verb		fërkoj	to rub		
+fluturonjnë	tosk	verb		fluturoj	to fly		
+formonjnë	tosk	verb		formoj	to shape, form.		
+importuarë	tosk	verb		importoj	to import		
+incizonjnë	tosk	verb		incizoj	to record on a tape or disk		
+inspiruarë	tosk	verb		inspiroj	to inspire		
+justifikuarë	tosk	verb		justifikoj	to justify		
+kafshuarë	tosk	verb		kafshoj	to bite		
+kaplonjë	tosk	verb		kaploj	to seize and protect (with hands)		
+kërcënonjnë	tosk	verb		kërcënoj	to threaten		
+këshillonjë	tosk	verb		këshilloj	to advise		
+konsideruarë	tosk	verb		konsideroj	think, believe, consider		
+kryesonjë	tosk	verb		kryesoj	to chair, to lead		
+kujtonjënë	tosk	verb		kujtoj	to recall, remember		
+kultivuarë	tosk	verb		kultivoj	grow		
+kurorëzuarë	tosk	verb		kurorëzoj	to crown		
+lejonjnë	tosk	verb		lejoj	allow (to let one have)		
+lëndonjë	tosk	verb		lëndoj	to hurt, touch		
+lënduarë	tosk	verb		lëndoj	to hurt, touch		
+ligjëronjë	tosk	verb		ligjëroj	to legalize		
+lundronjë	tosk	verb		lundroj	to sail, navigate		
+madhëruarë	tosk	verb		madhëroj	to glorify		
+masakruarë	tosk	verb		masakroj	massacre, slaughter, mow down		
+mbingarkuarë	tosk	verb		mbingarkoj	to overload		
+mbronjë	tosk	verb		mbroj	to protect; to defend		
+mjaftonjë	tosk	verb		mjaftoj	to be enough		
+ngjëronjë	tosk	verb		ngjëroj	to try, sample, taste		
+parashtronjë	tosk	verb		parashtroj	to submit, to put forward		
+parkuarë	tosk	verb		parkoj	to park		
+përmirësonjë	tosk	verb		përmirësoj	to improve		
+përparonjë	tosk	verb		përparoj	to advance		
+planifikuarë	tosk	verb		planifikoj	plan		
+plotësuarë	tosk	verb		plotësoj	to complete		
+postonjë	tosk	verb		postoj	to post		
+praruarë	tosk	verb		praroj	to gild		
+preferonjë	tosk	verb		preferoj	to prefer		
+qarkuarë	tosk	verb		qarkoj	to circle		
+qetësuarë	tosk	verb		qetësoj	to calm, to quiet, to soothe		
+revoltuarë	tosk	verb		revoltoj	to revolt		
+sinjalizonjë	tosk	verb		sinjalizoj	to signal		
+studiuarë	tosk	verb		studioj	study (to acquire knowledge)		
+shkolluarë	tosk	verb		shkolloj	to educate		
+shkretonjë	tosk	verb		shkretoj	to destroy, to devastate		
+shoqëronjë	tosk	verb		shoqëroj	to accompany		
+shponjë	tosk	verb		shpoj	to pierce, prick		
+shqetësuarë	tosk	verb		shqetësoj	to annoy, bother		
+tradhtuarë	tosk	verb		tradhtoj	to betray		
+urdhëronjënë	tosk	verb		urdhëroj	to order to		
+ushtruarë	tosk	verb		ushtroj	to exercise (use, call upon)		
+veçonjënë	tosk	verb		veçoj	to isolate		
+vërtetonjë	tosk	verb		vërtetoj	to prove		
+vijonjnë	tosk	verb		vijoj	to continue		
+vizitonjë	tosk	verb		vizitoj	to visit		
+vonuarë	tosk	verb		vonoj	to delay (cause someone to be late)		
+zbulonjë	tosk	verb		zbuloj	to discover		
+zëvendësonjë	tosk	verb		zëvendësoj	to replace		
+adhuruarë	tosk	verb		adhuroj	to adore		
+akredituarë	tosk	verb		akreditoj	to accredit		
+angazhuarë	tosk	verb		angazhoj	engage, mesh, lock		
+ankoruarë	tosk	verb		ankoroj	to anchor		
+arsyetuarë	tosk	verb		arsyetoj	to reason		
+artikuluarë	tosk	verb		artikuloj	pronounce, articulate, enounce		
+balancuarë	tosk	verb		balancoj	to balance		
+banonjë	tosk	verb		banoj	to live, inhabit, dwell, reside		
+botonjë	tosk	verb		botoj	to publish, issue, release		
+caktonjë	tosk	verb		caktoj	to set		
+çnderuarë	tosk	verb		çnderoj	to dishonour		
+deklaronjë	tosk	verb		deklaroj	to declare		
+depërtonjnë	tosk	verb		depërtoj	to penetrate, permeate		
+devijuarë	tosk	verb		devijoj	to deviate		
+dëshpëruarë	tosk	verb		dëshpëroj	to dishearten		
+dobësuarë	tosk	verb		dobësoj	to weaken		
+ekspozuarë	tosk	verb		ekspozoj	expose, exhibit, display		
+ekzekutuarë	tosk	verb		ekzekutoj	execute (to kill as punishment)		
+emëruarë	tosk	verb		emëroj	to appoint, to name		
+figuronjnë	tosk	verb		figuroj	to appear		
+fluturuarë	tosk	verb		fluturoj	to fly		
+frymëzonjë	tosk	verb		frymëzoj	to inspire		
+guxonjë	tosk	verb		guxoj	to dare		
+gjunjëzonjë	tosk	verb		gjunjëzoj	to make kneel; to bring to one's knees		
+hidhëronjë	tosk	verb		hidhëroj	to grieve		
+inkriminuarë	tosk	verb		inkriminoj	to incriminate		
+inkurajuarë	tosk	verb		inkurajoj	to encourage		
+integronjë	tosk	verb		integroj	to integrate		
+integruarë	tosk	verb		integroj	to integrate		
+interesonjë	tosk	verb		interesoj	to interest		
+interesonjnë	tosk	verb		interesoj	to interest		
+jonizonjnë	tosk	verb		jonizoj	to ionize		
+katapultuarë	tosk	verb		katapultoj	to catapult		
+klasifikuarë	tosk	verb		klasifikoj	to classify		
+komentuarë	tosk	verb		komentoj	to comment		
+konsideronjë	tosk	verb		konsideroj	think, believe, consider		
+konsumonjë	tosk	verb		konsumoj	to consume		
+konsumonjnë	tosk	verb		konsumoj	to consume		
+kundërshtonjnë	tosk	verb		kundërshtoj	to oppose, to contest		
+lehtësonjë	tosk	verb		lehtësoj	to reduce weight		
+lexonjnë	tosk	verb		lexoj	to read		
+lundronjënë	tosk	verb		lundroj	to sail, navigate		
+margjinalizuarë	tosk	verb		margjinalizoj	to marginalize		
+martonjënë	tosk	verb		martoj	to marry off, cause to get married, marry		
+minonjë	tosk	verb		minoj	to mine		
+mjaftonjnë	tosk	verb		mjaftoj	to be enough		
+mobiluarë	tosk	verb		mobiloj	to furnish		
+ndërlikuarë	tosk	verb		ndërlikoj	to mix up, muddle, complicate		
+ndikuarë	tosk	verb		ndikoj	to influence		
+nënshtruarë	tosk	verb		nënshtroj	to submit		
+ngarkonjnë	tosk	verb		ngarkoj	to load		
+ngulmonjnë	tosk	verb		ngulmoj	to insist		
+ngurronjë	tosk	verb		ngurroj	to hesitate, falter, stop		
+ngjëruarë	tosk	verb		ngjëroj	to try, sample, taste		
+njoftonjë	tosk	verb		njoftoj	to announce, to inform, to notify		
+orkestruarë	tosk	verb		orkestroj	to orchestrate		
+paramenduarë	tosk	verb		paramendoj	to premeditate, to plan in advance		
+parandaluarë	tosk	verb		parandaloj	to prevent		
+pastronjë	tosk	verb		pastroj	to clean		
+pengonjnë	tosk	verb		pengoj	to hinder, to impede		
+përçmuarë	tosk	verb		përçmoj	to despise		
+përfundonjnë	tosk	verb		përfundoj	to finish, conclude, end		
+përgjuarë	tosk	verb		përgjoj	to eavesdrop		
+përjetonjë	tosk	verb		përjetoj	to experience		
+përmalluarë	tosk	verb		përmalloj	to miss		
+përtonjë	tosk	verb		përtoj	to be too lazy to do something, go to work, etc.		
+pretenduarë	tosk	verb		pretendoj	to claim; to pretend		
+prezantonjë	tosk	verb		prezantoj	present, represent, lay out		
+pulsonjë	tosk	verb		pulsoj	to pulse		
+qëllonjë	tosk	verb		qëlloj	to hit		
+qëlluarë	tosk	verb		qëlloj	to hit		
+raportonjnë	tosk	verb		raportoj	report, describe, account		
+raportuarë	tosk	verb		raportoj	report, describe, account		
+realizonjë	tosk	verb		realizoj	to achieve, fulfill		
+rekomanduarë	tosk	verb		rekomandoj	to recommend		
+respektonjë	tosk	verb		respektoj	respect (to have respect for)		
+rezervonjnë	tosk	verb		rezervoj	to reserve, save for later		
+rezultuarë	tosk	verb		rezultoj	to result, to turn out		
+rëndonjë	tosk	verb		rëndoj	to burden, to worsen		
+robëruarë	tosk	verb		robëroj	to enslave		
+rregullonjë	tosk	verb		rregulloj	to put into working order		
+rrëmuarë	tosk	verb		rrëmoj	to dig up		
+rrënuarë	tosk	verb		rrënoj	to raze to the ground, destroy		
+rrëzonjnë	tosk	verb		rrëzoj	to cause something to fall		
+stampuarë	tosk	verb		stampoj	to stamp		
+sulmuarë	tosk	verb		sulmoj	to attack		
+sheshuarë	tosk	verb		sheshoj	flatten		
+shkaktuarë	tosk	verb		shkaktoj	to cause		
+shoqëronjënë	tosk	verb		shoqëroj	to accompany		
+shpejtonjnë	tosk	verb		shpejtoj	to speed up, to hurry		
+shpjegonjë	tosk	verb		shpjegoj	to explain		
+tepruarë	tosk	verb		teproj	to exaggerate		
+torturuarë	tosk	verb		torturoj	torment, torture, excruciate		
+transformonjnë	tosk	verb		transformoj	to transform		
+transmetonjnë	tosk	verb		transmetoj	to broadcast		
+tregonjënë	tosk	verb		tregoj	to show, indicate, point at (originally a commercial term)		
+thjeshtonjnë	tosk	verb		thjeshtoj	to simplify		
+udhëzuarë	tosk	verb		udhëzoj	to instruct		
+ungjillëzonjë	tosk	verb		ungjillëzoj	evangelize (tell people about Christianity)		
+vepruarë	tosk	verb		veproj	to do something		
+vërtetonjënë	tosk	verb		vërtetoj	to prove		
+vlerësonjë	tosk	verb		vlerësoj	to value		
+zhvillonjë	tosk	verb		zhvilloj	to develop		
+zhvillonjnë	tosk	verb		zhvilloj	to develop		
+pëlqenjë	tosk	verb		pëlqej	to like		
+ushqenjë	tosk	verb		ushqej	to feed		
+rrëmbenj	tosk	verb		rrëmbej	to rob		
+shkëmbenjë	tosk	verb		shkëmbej	to exchange, interchange, swap		
+blenjë	tosk	verb		blej	to purchase; to cheat; to barter		
+vlenjë	tosk	verb		vlej	to be worth		
+kapërcenj	tosk	verb		kapërcej	to cross, jump over, leap over		
+kapërcenjë	tosk	verb		kapërcej	to cross, jump over, leap over		
+kursenjë	tosk	verb		kursej	to save, save up, spare, put aside		
+përdëllenjë	tosk	verb		përdëllej	to pity		
+vlenj	tosk	verb		vlej	to be worth		
+ngrenjë	tosk	verb		ngrej	to raise, to lift		
+shpërblenjë	tosk	verb		shpërblej	to requite, reward		
+zbërthenj	tosk	verb		zbërthej	to pull apart, disintegrate, break down, decompose		
+krenj	tosk	verb		krej	to pull out		
+kryenjë	tosk	verb		kryej	to finish, carry out, do		
+kursenj	tosk	verb		kursej	to save, save up, spare, put aside		
+shkëlqenjë	tosk	verb		shkëlqej	to excel		
+lyenjë	tosk	verb		lyej	to paint		
+lyenj	tosk	verb		lyej	to paint		
+përkthenjë	tosk	verb		përkthej	to translate		
+shqyenjë	tosk	verb		shqyej	to tear up, rip off		
+dashurë	tosk	verb		don	you want, need		
+ardhurë	tosk	verb		vij	to arrive		
+vdekurë	tosk	verb		vdes	to die (used only for humans and bees)		
+ngriturë	tosk	verb		ngre	to raise, to elevate, to lift		
+mbajturë	tosk	verb		mbahem	to be held		
+arriturë	tosk	verb		arrij	to arrive		
+gjeturë	tosk	verb		gjej	to find		
+priturë	tosk	verb		pres	to cut, carve, slice, hew		
+ruajturë	tosk	verb		ruaj	to watch over, to observe, to guard		
+përdorurë	tosk	verb		përdor	to use; to utilize		
+burgosurë	tosk	verb		burgos	to imprison		
+paditurë	tosk	verb		padit	to sue, file a lawsuit		
+quajturë	tosk	verb		quaj	to call, name		
+vajturë	tosk	verb		vete	to go		
+ndodhurë	tosk	verb		ndodh	to happen, occur		
+rriturë	tosk	verb		rris	to rear, bring up (children)		
+përpjekurë	tosk	verb		përpiqem	to try		
+vendosurë	tosk	verb		vendos	to decide		
+zgjedhurë	tosk	verb		zgjedh	to choose		
+kërrusurë	tosk	verb		kërrus	to bend (one's back), bend over, bend down, hunch over, stoop		
+plagosurë	tosk	verb		plagos	to wound		
+ndenjurë	tosk	verb		rri	to stay		
+lodhurë	tosk	verb		lodh	to tire (someone)		
+ndriturë	tosk	verb		ndriçoj	to enlighten		
+fëlliqurë	tosk	verb		fëlliq	to make dirty, sully		
+lëçiturë	tosk	verb		lëçit	to read		
+shprehurë	tosk	verb		shpreh	to express, show, manifest		
+ndrequrë	tosk	verb		ndreq	to repair, fix, arrange		
+pyeturë	tosk	verb		pyes	to ask, make a question		
+mbështeturë	tosk	verb		mbështet	to stand, to prop		
+therurë	tosk	verb		ther	to cut, gut, prick, pierce, slaughter		
+thërriturë	tosk	verb		thërras	to call, name		
+tundurë	tosk	verb		tund	to shake, jerk		
+kallurë	tosk	verb		kall	to stick (on, into), put (up), thrust, instigate		
+ndihurë	tosk	verb		ndih	to help		
+mbrojturë	tosk	verb		mbroj	to protect; to defend		
+qelburë	tosk	noun		qelb	pus		
+goditurë	tosk	verb		godas	to hit		
+ndjekurë	tosk	verb		ndjek	to follow; to pursue		
+çmendurë	tosk	verb		çmend	to drive someone crazy		
+stërviturë	tosk	verb		stërvis	to train, practice		
+zbriturë	tosk	verb		zbres	to descend, get off, climb down		
+kujdesurë	tosk	verb		kujdesem	to take care of		
+veniturë	tosk	verb		venit	to wither		
+vuajturë	tosk	verb		vuaj	to suffer, to feel pain		
+zgjaturë	tosk	verb		zgjat	to tend, stretch out, lengthen		
+fjeturë	tosk	verb		fle	to sleep		
+mbrujturë	tosk	verb		mbruhem	to be educated (in a certain way, with certain ideas etc.)		
+ngrysurë	tosk	verb		ngrys	to darken		
+shiturë	tosk	verb		shes	to sell, estimate		
+dergjurë	tosk	verb		dergj	to be bedridden, (be lying) ill, pine (away)		
+heshturë	tosk	verb		hesht	to hush		
+kaliturë	tosk	verb		kalit	to temper, to harden		
+mbathurë	tosk	verb		mbath	to wear, put on (footwear)		
+mburrurë	tosk	verb		mburr	praise (to give praise to)		
+përqeshurë	tosk	verb		përqesh	to deride, make fun of		
+përtëriturë	tosk	verb		përtëritem	to rejuvenate		
+koriturë	tosk	verb		korit	to shame, put to shame		
+mardhurë	tosk	verb		mardh	to freeze		
+shtallurë	tosk	verb		shtall	to wind up, to coil, to clew up		
+zbuturë	tosk	verb		zbus	to soften		
+grabiturë	tosk	verb		grabit	to seize, rob, steal		
+luajturë	tosk	verb		luaj	to play, perform		
+përmbledhurë	tosk	verb		përmbledh	to summarize		
+reshturë	tosk	verb		resht	to keep away, give a direction		
+treturë	tosk	verb		tres	to dissolve, digest, melt down, lose weight		
+paraqiturë	tosk	verb		paraqit	to present, to show		
+rrojturë	tosk	verb		rroj	to stay alive, survive		
+vulosurë	tosk	verb		vulos	to seal		
+druajturë	tosk	verb		druaj	to be afraid, to fear		
+lëvizurë	tosk	verb		lëviz	to move, set in motion, transfer		
+ndalurë	tosk	verb		ndal	to stop, hold up		
+përkrahurë	tosk	verb		përkrah	to support		
+përzgjedhurë	tosk	verb		përzgjedh	to select		
+shfaqurë	tosk	verb		shfaq	to show		
+ujiturë	tosk	verb		ujit	to irrigate		
+xhindosurë	tosk	verb		xhindos	infuriate, exasperate, incense		
+zhyturë	tosk	verb		zhyt	to immerse, dunk, sink, to dip		
+brengosurë	tosk	verb		brengos	to afflict, vex, grieve, worry		
+dhezurë	tosk	verb		dhez	to light, kindle		
+gdhendurë	tosk	verb		gdhend	to trim, smooth out, plane (wood)		
+gërbulurë	tosk	verb		gërbul	to infect with leprosy		
+klithurë	tosk	verb		klith	to shout, scream, yell		
+kumbisurë	tosk	verb		kumbis	to lean against		
+përgatiturë	tosk	verb		përgatis	to prepare, make ready		
+qethurë	tosk	verb		qeth	to cut (hair, wool, etc.)		
+qeverisurë	tosk	verb		qeveris	to govern, rule		
+regjurë	tosk	noun		regj	king		
+skuqurë	tosk	verb		skuq	to redden, to become red		
+spërkaturë	tosk	verb		spërkat	to sprinkle, to spray		
+shkulurë	tosk	verb		shkul	to pull out, tear off, uproot		
+zbathurë	tosk	verb		zbath	to take off, remove (footwear)		
+ftohurë	tosk	verb		ftoh	to cool		
+gudulisurë	tosk	verb		gudulis	to tickle		
+gjegjurë	tosk	verb		gjegj	to answer		
+koklaviturë	tosk	verb		koklavit	to tangle		
+krisurë	tosk	verb		kris	to crack; to go off (a gun)		
+lëkundurë	tosk	verb		lëkund	to rock, swing, sway, shake		
+ndeshurë	tosk	verb		ndesh	to meet, run into		
+ngopurë	tosk	verb		ngop	to sate		
+nguturë	tosk	verb		ngut	to urge, force, hurry up		
+ngjyrosurë	tosk	verb		ngjyros	to color		
+përulurë	tosk	verb		përul	to humiliate, demean		
+plaçkiturë	tosk	verb		plaçkit	to plunder, pillage, raid, loot; to steal		
+rrokurë	tosk	verb		rrok	to seize, snatch, touch		
+sëmururë	tosk	verb		sëmur	to make someone sick		
+spikaturë	tosk	verb		spikat	to stand out, be distinguished		
+shkrehurë	tosk	verb		shkreh	to cancel, discharge, fire (a gun)		
+shprishurë	tosk	verb		shprish	to tousle, to undo		
+udhëhequrë	tosk	verb		udhëheq	to lead, to guide		
+varrosurë	tosk	verb		varros	to bury		
+vërejturë	tosk	verb		vërej	to look, observe, pay attention		
+zhdukurë	tosk	verb		zhduk	to disappear, to hide		
+drejtonj	tosk	verb		drejtoj	to direct, to lead, to manage		
+fillonj	tosk	verb		filloj	to start, to begin		
+krijonj	tosk	verb		krijoj	to come up with, to conceive, to devise		
+ndërtonj	tosk	verb		ndërtoj	to build		
+akuzonj	tosk	verb		akuzoj	to accuse		
+lexonj	tosk	verb		lexoj	to read		
+pasonj	tosk	verb		pasoj	to follow, to come after		
+dashuronj	tosk	verb		dashuroj	to love		
+studionj	tosk	verb		studioj	study (to acquire knowledge)		
+konkludonj	tosk	verb		konkludoj	to conclude		
+sundonj	tosk	verb		sundoj	to reign		
+ndryshonj	tosk	verb		ndryshoj	to change, to alter, to modify		
+ngarkonj	tosk	verb		ngarkoj	to load		
+themelonj	tosk	verb		themeloj	to found, to establish		
+predikonj	tosk	verb		predikoj	to preach		
+shënonj	tosk	verb		shënoj	to sign		
+vizitonj	tosk	verb		vizitoj	to visit		
+emëronj	tosk	verb		emëroj	to appoint, to name		
+kryesonj	tosk	verb		kryesoj	to chair, to lead		
+trajtonj	tosk	verb		trajtoj	to treat		
+vepronj	tosk	verb		veproj	to do something		
+xixëllonj	tosk	verb		xixëlloj	Tosk form of xixëlloj		
+zaptonj	tosk	verb		zaptoj	invade (to enter by force in order to conquer)		
+zbulonj	tosk	verb		zbuloj	to discover		
+bleronj	tosk	verb		bleroj	to turn green		
+detyronj	tosk	verb		detyroj	to compel, to force, constrain		
+kalonj	tosk	verb		kaloj	to pass, walk by		
+qortonj	tosk	verb		qortoj	to admonish, to castigate		
+sulmonj	tosk	verb		sulmoj	to attack		
+tmerronj	tosk	verb		tmerroj	to terrify		
+tundonj	tosk	verb		tundoj	tempt (to provoke someone to do wrong)		
+caponj	tosk	verb		capoj	to hoe		
+hartonj	tosk	verb		hartoj	to draft, to compile, to write up		
+hulumtonj	tosk	verb		hulumtoj	to observe, research, scrutinise		
+jetonj	tosk	verb		jetoj	to live (to be alive)		
+lavdëronj	tosk	verb		lavdëroj	to laud, praise, commend		
+sqaronj	tosk	verb		sqaroj	to explain; to clarify		
+shtrëngonj	tosk	verb		shtrëngoj	to squeeze, clench, grip		
+shuguronj	tosk	verb		shuguroj	to ordain		
+ungjillëzonj	tosk	verb		ungjillëzoj	evangelize (tell people about Christianity)		
+vezullonj	tosk	verb		vezulloj	to glitter		
+ledhatonj	tosk	verb		ledhatoj	to caress, to fondle		
+lëndonj	tosk	verb		lëndoj	to hurt, touch		
+mbisundonj	tosk	verb		mbisundoj	to dominate		
+mëkatonj	tosk	verb		mëkatoj	to sin		
+mjaftonj	tosk	verb		mjaftoj	to be enough		
+organizonj	tosk	verb		organizoj	to organise		
+parashikonj	tosk	verb		parashikoj	to predict		
+pohonj	tosk	verb		pohoj	to admit		
+redaktonj	tosk	verb		redaktoj	to edit		
+rëmonj	tosk	verb		rëmoj	to dig		
+uzurponj	tosk	verb		uzurpoj	to usurp		
+zbardhëllonj	tosk	verb		zbardhëlloj	Tosk form of zbardhëlloj		
+dënonj	tosk	verb		dënoj	to sentence		
+grumbullonj	tosk	verb		grumbulloj	to pile up, to gather up, to amass		
+hutonj	tosk	verb		hutoj	to daze, astonish		
+komandonj	tosk	verb		komandoj	to command		
+korrektonj	tosk	verb		korrektoj	to correct		
+lëronj	tosk	verb		lëroj	to plough		
+ndriçonj	tosk	verb		ndriçoj	to enlighten		
+ofendonj	tosk	verb		ofendoj	to insult, to offend		
+përtonj	tosk	verb		përtoj	to be too lazy to do something, go to work, etc.		
+premtonj	tosk	verb		premtoj	to promise		
+pretendonj	tosk	verb		pretendoj	to claim; to pretend		
+prodhonj	tosk	verb		prodhoj	to produce; to manufacture		
+proklamonj	tosk	verb		proklamoj	to proclaim		
+rëndonj	tosk	verb		rëndoj	to burden, to worsen		
+rënkonj	tosk	verb		rënkoj	to moan		
+torturonj	tosk	verb		torturoj	torment, torture, excruciate		
+ushtronj	tosk	verb		ushtroj	to exercise (use, call upon)		
+vazhdonj	tosk	verb		vazhdoj	to continue		
+vegjetonj	tosk	verb		vegjetoj	to vegetate		
+zbatonj	tosk	verb		zbatoj	to carry out (orders, plans, etc.)		
