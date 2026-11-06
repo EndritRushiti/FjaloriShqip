@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor" | "fjalor-arberesh" | "libra-te-vjeter" | "korpus-i-folur";
 
 export interface SourceInfo {
   id: SourceId;
@@ -687,6 +687,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Merren vetëm fjalët, jo tekstet e librave.",
       en: "Only the words are taken, not the texts of the books.",
+    },
+  },
+  "korpus-i-folur": {
+    id: "korpus-i-folur",
+    name: "Albanian Spoken Corpus in Kosovo 1.0",
+    publisher: "CLARIN.SI",
+    url: "http://hdl.handle.net/11356/1955",
+    licence: "CC BY 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by/4.0/",
+    usedFor: {
+      sq: "Forma gege të folura në Kosovë, të shënuara nga fjalimi i 212 folësve.",
+      en: "Gheg forms spoken in Kosovo, written down from the speech of 212 speakers.",
+    },
+    notUsed: {
+      sq: "Nuk ruhet asnjë tekst nga korpusi, vetëm fjalë të veçuara.",
+      en: "No text from the corpus is kept, only single words.",
     },
   },
   "meyer-1896": {

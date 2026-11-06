@@ -300,7 +300,7 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
 
 /** Standard meanings before dialect, regional and old ones (lang: "hound" before the regional "liquid"); otherwise the order is kept. */
 function standardFirst(): number {
-  const DIALECT_BOOKS = new Set<SourceId>(["si-e-thua", "ndreca-1972", "libra-te-vjeter", "fjalor-arberesh", "korpus-dialektor", "studime-dialektore", "rregull-gege", "mitko-1878", "letersia-gege", "studime-arberesh", "meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908", "reinhold-1855", "busetti-1911", "weigand-1914", "meyer-1896", "leake-1814", "fiorilli-2002", "gallo-sanmarzano", "molise-arberesh"]);
+  const DIALECT_BOOKS = new Set<SourceId>(["si-e-thua", "korpus-i-folur", "ndreca-1972", "libra-te-vjeter", "fjalor-arberesh", "korpus-dialektor", "studime-dialektore", "rregull-gege", "mitko-1878", "letersia-gege", "studime-arberesh", "meyer-1891", "jungg-1895", "rossi-1875", "kristoforidhi-1904", "gazulli-1942", "dozon-1879", "korpus-gege", "mann-1948", "hahn-1854", "folesit", "xylander-1835", "voskopojari-1802", "bashkimi-1908", "reinhold-1855", "busetti-1911", "weigand-1914", "meyer-1896", "leake-1814", "fiorilli-2002", "gallo-sanmarzano", "molise-arberesh"]);
   // Gheg and Tosk tags are left out: Wiktionary also puts them on standard meanings (hënë: moon)
   const MARGINAL = new Set(["Arbëresh", "Arvanitika", "regional", "dialectal", "archaic", "obsolete", "dated", "rare"]);
   const dialectal = (s: Sense) => DIALECT_BOOKS.has(s.source) || !!s.tags?.some((t) => MARGINAL.has(t));
@@ -1177,6 +1177,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       "korpus-dialektor": list.filter((w) => w.sources.includes("korpus-dialektor")).length,
       "fjalor-arberesh": list.filter((w) => w.sources.includes("fjalor-arberesh")).length,
       "libra-te-vjeter": list.filter((w) => w.sources.includes("libra-te-vjeter")).length,
+      "korpus-i-folur": list.filter((w) => w.sources.includes("korpus-i-folur")).length,
       dhora: list.filter((w) => w.sources.includes("dhora")).length,
       "si-e-thua": list.filter((w) => w.sources.includes("si-e-thua")).length,
       "bufli-rocchi-2021": list.filter((w) => w.sources.includes("bufli-rocchi-2021")).length,
