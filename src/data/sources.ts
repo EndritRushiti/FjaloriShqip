@@ -3,7 +3,7 @@
  * The References page ("Burimet") and the attribution in the API/downloads
  * are generated from this list — nothing enters the dictionary without an entry here.
  */
-export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore";
+export type SourceId = "en-wiktionary" | "wikidata" | "sq-wiktionary" | "hunspell-sq" | "wikipedia-sq" | "wiktionary-other" | "albanet" | "macocu" | "auto" | "editor" | "ai" | "meyer-1891" | "jungg-1895" | "rossi-1875" | "tatoeba" | "kristoforidhi-1904" | "gazulli-1942" | "dozon-1879" | "hplt" | "korpus-gege" | "eurovoc" | "mann-1948" | "hahn-1854" | "folesit" | "uniparser" | "xylander-1835" | "voskopojari-1802" | "bashkimi-1908" | "reinhold-1855" | "busetti-1911" | "weigand-1914" | "meyer-1896" | "leake-1814" | "fiorilli-2002" | "gallo-sanmarzano" | "molise-arberesh" | "ndreca-1972" | "dhora" | "revistat-krahinat" | "bufli-rocchi-2021" | "morina-juridik" | "si-e-thua" | "studime-arberesh" | "letersia-gege" | "mitko-1878" | "rregull-gege" | "studime-dialektore" | "korpus-dialektor";
 
 export interface SourceInfo {
   id: SourceId;
@@ -639,6 +639,22 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     notUsed: {
       sq: "Nuk janë marrë shpjegimet dhe tekstet e studimeve.",
       en: "The explanations and texts of the studies are not used.",
+    },
+  },
+  "korpus-dialektor": {
+    id: "korpus-dialektor",
+    name: "The Albanian Dialect Corpus",
+    publisher: "Rexhep Shijaku, Ercan Canhasi",
+    url: "https://zenodo.org/records/8349099",
+    licence: "CC BY 4.0",
+    licenceUrl: "https://creativecommons.org/licenses/by/4.0/",
+    usedFor: {
+      sq: "Forma gege siç shkruhen sot në Kosovë dhe në Maqedoninë e Veriut, secila e përdorur nga disa njerëz.",
+      en: "Gheg forms as written today in Kosovo and North Macedonia, each used by several people.",
+    },
+    notUsed: {
+      sq: "Nuk ruhet asnjë tekst nga korpusi, vetëm fjalë të veçuara.",
+      en: "No text from the corpus is kept, only single words.",
     },
   },
   "meyer-1896": {
