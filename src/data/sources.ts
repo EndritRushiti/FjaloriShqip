@@ -675,7 +675,7 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
   },
   "libra-te-vjeter": {
     id: "libra-te-vjeter",
-    name: "Libra të vjetër shqip (1860–1935)",
+    name: "Libra të vjetër shqip (1860–1960)",
     publisher: "Internet Archive",
     url: "https://archive.org/details/bageti-dhe-bujqesia-herds-and-agriculture-naim-frasheri-classic-albanian-epic-po",
     licence: "Domain publik",
