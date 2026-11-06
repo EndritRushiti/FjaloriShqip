@@ -633,8 +633,8 @@ export const SOURCES: Record<SourceId, SourceInfo> = {
     licence: "Vetëm fjalët, shkrimet janë tonat",
     licenceUrl: "https://fjalorishqip.org/burimet/",
     usedFor: {
-      sq: "Fjalë dhe forma krahinore nga Martaneshi, Karadaku i Shkupit dhe Çamëria.",
-      en: "Regional words and forms from Martanesh, the Karadak of Skopje and Chameria.",
+      sq: "Fjalë dhe forma krahinore nga Martaneshi, Karadaku i Shkupit, Çamëria dhe Zara.",
+      en: "Regional words and forms from Martanesh, the Karadak of Skopje, Chameria and Zadar.",
     },
     notUsed: {
       sq: "Nuk janë marrë shpjegimet dhe tekstet e studimeve.",
