@@ -1,4 +1,5 @@
 # Gheg forms as people write them today in Kosovo and North Macedonia, from The Albanian Dialect Corpus (R. Shijaku, E. Canhasi, 2023, CC BY 4.0).
+# Some forms come from the SHAJ corpus (Nurce, Keci, Derczynski, CC BY 4.0).
 # Only single words are taken, each used by several different people. No tweet text is kept.
 # Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region
 veq	gheg	adv		veç	except, apart from; only		Kosovë
@@ -702,3 +703,131 @@ dashte	gheg	adj		dashur	dear, beloved		Kosovë
 desht	gheg	verb		dua	to want		Maqedoni e Veriut
 maru	gheg	verb		mbaroj	to complete, to finish		Kosovë
 idhnu	gheg	verb		zemëroj	to anger		Maqedoni e Veriut
+mram	gheg	noun		mbrëmë	evening		Kosovë
+thojm	gheg	verb		them	to say		Kosovë
+vijna	gheg	verb		vij	to arrive		Kosovë
+vijm	gheg	verb		vij	to arrive		Kosovë
+vim	gheg	verb		vij	to arrive		Kosovë
+flejte	gheg	verb		fle	to sleep		Kosovë
+flejm	gheg	verb		fle	to sleep		Kosovë
+katunare	gheg	noun		fshatar	peasant		Kosovë
+ejten	gheg	noun		enjte	Thursday		Kosovë
+ajroplan	gheg	noun		aeroplan	aeroplane, airplane		Kosovë
+emni	gheg	noun		emër	name		Kosovë
+nihesh	gheg	verb		dëgjoj	to hear		Kosovë
+niva	gheg	verb		dëgjoj	to hear		Kosovë
+rrnon	gheg	verb		jetoj	to live (to be alive)		Kosovë
+rrnoft	gheg	interj		rroftë	long live		Kosovë
+njana	gheg	num		një	one		Kosovë
+asnjani	gheg	det		asnjë	neither, none		Kosovë
+asnjana	gheg	det		asnjë	neither, none		Kosovë
+gjallnu	gheg	verb		gjallëroj	inspire, animate, invigorate		Kosovë
+shprazt	gheg	adj		shprazët	empty		Kosovë
+nreq	gheg	verb		ndreq	to repair, fix, arrange		Kosovë
+njeke	gheg	verb		ndjek	to follow; to pursue		Kosovë
+menemadh	gheg	adj		mendjemadh	arrogant, haughty, big-headed		Kosovë
+menemadhe	gheg	adj		mendjemadh	arrogant, haughty, big-headed		Kosovë
+shofim	gheg	verb		shoh	to see		Kosovë
+ner	gheg	noun		nder	honour		Kosovë
+msusi	gheg	noun		mësues	teacher, instructor		Kosovë
+kallxojke	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+shnetin	gheg	noun		shëndet	health		Kosovë
+dillën	gheg	noun		diell	sun		Kosovë
+knusi	gheg	noun		këndes	rooster		Kosovë
+vene	gheg	noun		vend	place		Kosovë
+mirret	gheg	verb		marr	to take, grab (someone/something by hand)		Kosovë
+pshty	gheg	verb		pështyj	to spit out, smoke out, give off		Kosovë
+myta	gheg	verb		mbyt	to strangle, suffocate, choke to death		Kosovë
+myte	gheg	verb		mbyt	to strangle, suffocate, choke to death		Kosovë
+myt	gheg	verb		mbyt	to strangle, suffocate, choke to death		Kosovë
+thrrasin	gheg	verb		thërras	to call, name		Kosovë
+dum	gheg	verb		dua	to want		Kosovë
+ftofta	gheg	adj		ftohtë	cold		Kosovë
+flutra	gheg	adj		flutur	fast and agile		Kosovë
+flutrat	gheg	adj		flutur	fast and agile		Kosovë
+eshtnat	gheg	noun		eshtër	bone		Kosovë
+dopsi	gheg	noun		dobësi	weakness		Kosovë
+kjart	gheg	adj		qartë	clear		Kosovë
+hin	gheg	verb		hyj	to enter, to go in, to get in		Kosovë
+fshtir	gheg	adj		vështirë	difficult		Kosovë
+kallxomni	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+kallxojsh	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+kallxona	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+kallxojn	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+kallxoma	gheg	verb		kallëzoj	to show, indicate, suggest, reveal, point at/out		Kosovë
+fmis	gheg	noun		fëmijë	child, offspring, toddler		Kosovë
+gjejn	gheg	verb		gjej	to find		Kosovë
+gjejm	gheg	verb		gjej	to find		Kosovë
+lujsha	gheg	verb		luaj	to play, perform		Kosovë
+lujke	gheg	verb		luaj	to play, perform		Kosovë
+knojn	gheg	verb		këndoj	to sing		Kosovë
+flokve	gheg	noun		flok	hair (on head)		Kosovë
+puntort	gheg	noun		punëtor	worker; laborer		Kosovë
+besojm	gheg	verb		besoj	to believe		Kosovë
+kuptojm	gheg	verb		kuptoj	to understand		Kosovë
+blejm	gheg	verb		blej	to purchase; to cheat; to barter		Kosovë
+blejn	gheg	verb		blej	to purchase; to cheat; to barter		Kosovë
+blejta	gheg	verb		blej	to purchase; to cheat; to barter		Kosovë
+rrijn	gheg	verb		rri	to stay		Kosovë
+gruen	gheg	noun		grua	woman (mature female human)		Kosovë
+vllavit	gheg	noun		vëlla	brother		Kosovë
+vllavin	gheg	noun		vëlla	brother		Kosovë
+mejher	gheg	adv		menjëherë	immediately		Kosovë
+menqem	gheg	adj		mençur	wise		Kosovë
+menimi	gheg	noun		mendim	thought		Kosovë
+menimet	gheg	noun		mendim	thought		Kosovë
+menimin	gheg	noun		mendim	thought		Kosovë
+dhimta	gheg	noun		dhimbje	pain		Kosovë
+mujsha	gheg	verb		mund	can, to be able to; to have the opportunity, power or ability		Kosovë
+mujshe	gheg	verb		mund	can, to be able to; to have the opportunity, power or ability		Kosovë
+mujit	gheg	verb		mund	can, to be able to; to have the opportunity, power or ability		Kosovë
+mujta	gheg	verb		mund	can, to be able to; to have the opportunity, power or ability		Kosovë
+prindve	gheg	noun		prind	parent		Kosovë
+nalen	gheg	verb		ndal	to stop, hold up		Kosovë
+nala	gheg	verb		ndal	to stop, hold up		Kosovë
+pagujn	gheg	verb		paguaj	to pay		Kosovë
+pagujt	gheg	verb		paguaj	to pay		Kosovë
+vjeti	gheg	noun		vit	year		Kosovë
+qojke	gheg	verb		çoj	to awaken, send, carry on, dispatch, stir up		Kosovë
+folum	gheg	verb		flas	to speak		Kosovë
+folem	gheg	verb		flas	to speak		Kosovë
+kuptum	gheg	verb		kuptoj	to understand		Kosovë
+marova	gheg	verb		mbaroj	to complete, to finish		Kosovë
+gabum	gheg	verb		gaboj	to err, to make a mistake		Kosovë
+gabume	gheg	verb		gaboj	to err, to make a mistake		Kosovë
+qmimet	gheg	noun		çmim	price		Kosovë
+qmimin	gheg	noun		çmim	price		Kosovë
+dorzo	gheg	verb		dorëzoj	to hand in		Kosovë
+rrug	gheg	noun		rrugë	road, street		Kosovë
+mij	gheg	num		mijë	thousand		Kosovë
+fest	gheg	noun		festë	celebration, party		Kosovë
+fush	gheg	noun		fushë	field		Kosovë
+kultur	gheg	noun		kulturë	culture		Kosovë
+pem	gheg	noun		pemë	fruit tree		Kosovë
+pavarsisht	gheg	adv		pavarësisht	independently		Kosovë
+lamtumir	gheg	noun		lamtumirë	goodbye, farewell, leave-taking, parting		Kosovë
+gjob	gheg	noun		gjobë	fine (penalty)		Kosovë
+vizit	gheg	noun		vizitë	visit		Kosovë
+vrim	gheg	noun		vrimë	hole		Kosovë
+unaz	gheg	noun		unazë	ring		Kosovë
+fshes	gheg	noun		fshesë	broom		Kosovë
+tabel	gheg	noun		tabelë	table (grid of data in rows and columns)		Kosovë
+njher	gheg	adv		njëherë	once		Kosovë
+ndonj	gheg	pron		ndonjë	any, some		Kosovë
+smur	gheg	adj		sëmurë	sick, ill, diseased, ailing		Kosovë
+fabrik	gheg	noun		fabrikë	factory, part of a combine		Kosovë
+karroc	gheg	noun		karrocë	carriage, chariot		Kosovë
+ankes	gheg	noun		ankesë	complaint, appeal, grievance		Kosovë
+kthes	gheg	noun		kthesë	turn, bend		Kosovë
+meqense	gheg	conj		meqenëse	since		Kosovë
+rru	gheg	verb		rroj	to stay alive, survive		Kosovë
+publiku	gheg	verb		publikoj	advertise, publicize, advertize		Kosovë
+diskutu	gheg	verb		diskutoj	debate (participate in a debate)		Kosovë
+ngacmu	gheg	verb		ngacmoj	to poke, bother, harass, provoke		Kosovë
+skadu	gheg	verb		skadoj	to expire		Kosovë
+vujt	gheg	verb		vuaj	to suffer, to feel pain		Kosovë
+jetojn	gheg	verb		jetoj	to live (to be alive)		Kosovë
+jetojm	gheg	verb		jetoj	to live (to be alive)		Kosovë
+punojn	gheg	verb		punoj	to work		Kosovë
+shofin	gheg	verb		shoh	to see		Kosovë
+fmive	gheg	noun		fëmijë	child, offspring, toddler		Kosovë
