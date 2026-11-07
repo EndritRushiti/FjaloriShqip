@@ -1230,9 +1230,9 @@ function storyCard(d: StoryData, timeline: boolean, side = ""): string {
     ${timeline ? `<p class="tl-year">${h(year)}</p>` : `<p class="src-kind">${bi(...KIND_LABEL[s.kind])}</p>`}
     <h3><a href="${storyUrl(s)}">${h(s.title)}</a></h3>
     <p class="src-author">${h(s.author)}${s.life ? ` <span>(${h(s.life)})</span>` : ""}</p>
-    <p class="src-about">${bi(h(s.about.sq), h(s.about.en))}</p>
+    <p class="src-about">${bi(s.about.sq, s.about.en)}</p>
     ${s.quote ? `<blockquote class="src-quote" lang="sq">${h(s.quote.text)}</blockquote>` : ""}
-    ${timeline && s.bio ? `<p class="src-bio">${bi(h(s.bio.sq), h(s.bio.en))}</p>` : ""}
+    ${timeline && s.bio ? `<p class="src-bio">${bi(s.bio.sq, s.bio.en)}</p>` : ""}
     ${words6.length ? `<ul class="src-words" aria-label="${h("Fjalë nga ky burim")}">${wordChips(words6)}</ul>` : ""}
     <div class="src-foot">
       <span class="src-count">${storyCount(d)}</span>
@@ -1337,8 +1337,8 @@ function sourceDetailPage(d: StoryData, prev?: StoryData, next?: StoryData): str
   const took = d.info
     ? `<section class="card prose src-took">
   <h2>${bi("Çfarë morëm prej tij", "What we took from it")}</h2>
-  <p>${bi(h(d.info.usedFor.sq), h(d.info.usedFor.en))}</p>
-  ${d.info.notUsed ? `<p class="muted">${bi(h(d.info.notUsed.sq), h(d.info.notUsed.en))}</p>` : ""}
+  <p>${bi(d.info.usedFor.sq, d.info.usedFor.en)}</p>
+  ${d.info.notUsed ? `<p class="muted">${bi(d.info.notUsed.sq, d.info.notUsed.en)}</p>` : ""}
 </section>`
     : "";
   const sayings = d.sayings.length
@@ -1389,9 +1389,9 @@ function sourceDetailPage(d: StoryData, prev?: StoryData, next?: StoryData): str
   <p class="kicker">${year ? `<span class="src-year">${h(year)}</span> ` : ""}${bi(...KIND_LABEL[s.kind])}</p>
   <h1>${h(s.title)}</h1>
   <p class="src-author">${h(s.author)}${s.life ? ` <span>(${h(s.life)})</span>` : ""}</p>
-  <p class="lead">${bi(h(s.about.sq), h(s.about.en))}</p>
+  <p class="lead">${bi(s.about.sq, s.about.en)}</p>
 </header>
-${s.bio ? `<section class="card src-bio-card"><h2>${bi("Autori", "The author")}</h2><p>${bi(h(s.bio.sq), h(s.bio.en))}</p></section>` : ""}
+${s.bio ? `<section class="card src-bio-card"><h2>${bi("Autori", "The author")}</h2><p>${bi(s.bio.sq, s.bio.en)}</p></section>` : ""}
 ${stats ? `<ul class="src-stats src-stats-detail">${stats}</ul>` : ""}
 ${s.quote ? `<section class="card src-quote-card"><blockquote class="src-quote" lang="sq">${h(s.quote.text)}</blockquote><p><b>${bi("Sot", "Today")}</b> — <span lang="sq">${h(s.quote.sq)}</span></p><p class="muted">${h(s.quote.en)}</p></section>` : ""}
 ${s.attested ? `<section class="src-section">
@@ -1401,7 +1401,7 @@ ${s.attested ? `<section class="src-section">
     .map((x) => `<tr><td lang="sq"><b>${h(x.old)}</b></td><td>${h(x.gloss)}</td><td>${byWord.has(x.word) ? `<a href="${wordUrl(x.word)}" lang="sq">${h(x.word)}</a>` : h(x.word)}</td></tr>`)
     .join("")}</tbody></table>
 </section>` : ""}
-${s.note ? `<section class="card card-warn"><p>${bi(h(s.note.sq), h(s.note.en))}</p></section>` : ""}
+${s.note ? `<section class="card card-warn"><p>${bi(s.note.sq, s.note.en)}</p></section>` : ""}
 ${took}
 ${sayings}
 ${forms}
@@ -1630,9 +1630,9 @@ ${pageHead(bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Fjalori
   <p class="notice" data-installed hidden>${icon.check(18)} ${bi("Aplikacioni është i instaluar në këtë pajisje.", "The app is installed on this device.")}</p>
   <div data-install-help>
     <h3>${bi("iPhone dhe iPad (Safari)", "iPhone and iPad (Safari)")}</h3>
-    <p>${bi("Prekni butonin <b>Shpërndaj</b> (katrori me shigjetë) dhe zgjidhni <b>Shto në ekranin bazë</b>.", "Tap the <b>Share</b> button (the square with an arrow) and choose <b>Add to Home Screen</b>.")}</p>
+    <p>${biHtml("Prekni butonin <b>Shpërndaj</b> (katrori me shigjetë) dhe zgjidhni <b>Shto në ekranin bazë</b>.", "Tap the <b>Share</b> button (the square with an arrow) and choose <b>Add to Home Screen</b>.")}</p>
     <h3>${bi("Android (Chrome)", "Android (Chrome)")}</h3>
-    <p>${bi("Hapni menynë <b>⋮</b> dhe zgjidhni <b>Instalo aplikacionin</b> ose <b>Shto në ekranin bazë</b>.", "Open the <b>⋮</b> menu and choose <b>Install app</b> or <b>Add to Home screen</b>.")}</p>
+    <p>${biHtml("Hapni menynë <b>⋮</b> dhe zgjidhni <b>Instalo aplikacionin</b> ose <b>Shto në ekranin bazë</b>.", "Open the <b>⋮</b> menu and choose <b>Install app</b> or <b>Add to Home screen</b>.")}</p>
     <h3>${bi("Kompjuter (Chrome, Edge)", "Computer (Chrome, Edge)")}</h3>
     <p>${bi("Klikoni ikonën e instalimit në fund të shiritit të adresës.", "Click the install icon at the end of the address bar.")}</p>
   </div>

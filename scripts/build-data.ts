@@ -1120,6 +1120,36 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
 
   console.log(`examples: ${addTatoebaExamples()} words have example sentences (shembuj/tatoeba.tsv)`);
 
+  // Albanian spelling has no stress or length marks: Wiktionary's tables mark stress (abazhúr, afrój) and some of
+  // its dialect forms carry macrons, tildes, Greek letters or notes. Stress and length marks are taken off, tilde
+  // nasals are written with the Gheg circumflex (degã → degâ), and a form in another script or with a note is
+  // dropped. Quotations from old books keep their marks: there the book wrote them so. "dhé" is standard spelling.
+  const toAlbanian = (s: string) =>
+    s.normalize("NFD").replace(/[́̀̄̆]/g, "").replace(/([aeiouy])̃/g, "$1̂").normalize("NFC");
+  const albanianForm = (s: string) => /^[a-zA-ZëËçÇâêîôûŷÂÊÎÔÛ' -]+$/.test(s);
+  let marked = 0, droppedForms = 0, droppedNotes = 0;
+  for (const w of words.values()) {
+    for (const e of w.entries) {
+      if (e.forms) {
+        e.forms = e.forms.map((f) => { const c = toAlbanian(f.form); if (c !== f.form) marked++; return { ...f, form: c }; }).filter((f) => albanianForm(f.form));
+      }
+      for (const s of e.senses) if (s.examples) {
+        const before = s.examples.length;
+        s.examples = s.examples.filter((x) => !/^(Near-)?[Ss]ynonyms?:|^Antonyms?:/.test(x.text));
+        droppedNotes += before - s.examples.length;
+        if (!s.examples.length) delete s.examples;
+      }
+    }
+    if (w.dialects) {
+      const seen = new Set<string>();
+      w.dialects = w.dialects
+        .map((d) => { const c = toAlbanian(d.form); if (c !== d.form) marked++; return { ...d, form: c }; })
+        .filter((d) => { const ok = albanianForm(d.form) && d.form !== w.word && !seen.has(d.form + "|" + d.dialect); if (!ok) droppedForms++; seen.add(d.form + "|" + d.dialect); return ok; });
+      if (!w.dialects.length) delete w.dialects;
+    }
+  }
+  console.log(`spelling: ${marked} forms without stress marks, ${droppedForms} forms in another script or with notes dropped, ${droppedNotes} synonym notes taken out of the examples`);
+
   const list = [...words.values()].sort((a, b) => compareSq(a.word, b.word));
   fs.mkdirSync(OUT, { recursive: true });
   fs.writeFileSync(path.join(OUT, "fjalori.json"), JSON.stringify(list));
