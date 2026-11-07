@@ -690,4 +690,57 @@
       });
     }
   }
+  // ── /burimet/: the timeline line fills as the page scrolls, cards slide in, numbers count up ──
+  (function () {
+    var tl = document.querySelector("[data-tl]");
+    var counters = document.querySelectorAll(".src-stats [data-count]");
+    if (!tl && !counters.length) return;
+    var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (still || !("IntersectionObserver" in window)) return;
+    if (tl) {
+      var items = tl.querySelectorAll(".tl-item");
+      var seen = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (!e.isIntersecting) return;
+          e.target.classList.remove("tl-hidden");
+          e.target.classList.add("tl-in");
+          seen.unobserve(e.target);
+        });
+      }, { rootMargin: "0px 0px -12% 0px" });
+      // only cards still below the screen are hidden, so nothing visible blinks away
+      Array.prototype.forEach.call(items, function (it) {
+        if (it.getBoundingClientRect().top > window.innerHeight * 0.88) { it.classList.add("tl-hidden"); seen.observe(it); }
+      });
+      var fill = tl.querySelector(".tl-fill");
+      var ticking = false;
+      var draw = function () {
+        ticking = false;
+        var r = tl.getBoundingClientRect();
+        var p = (window.innerHeight * 0.65 - r.top) / r.height;
+        fill.style.setProperty("--tl-p", String(Math.max(0, Math.min(1, p))));
+      };
+      if (fill) {
+        window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(draw); } }, { passive: true });
+        window.addEventListener("resize", draw);
+        draw();
+      }
+    }
+    if (counters.length) {
+      var fmt = function (n) { return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, "."); };
+      var count = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (!e.isIntersecting) return;
+          count.unobserve(e.target);
+          var el = e.target, end = +el.getAttribute("data-count"), t0 = performance.now(), dur = 1200;
+          var step = function (now) {
+            var k = Math.min(1, (now - t0) / dur);
+            el.textContent = fmt(Math.round(end * (1 - Math.pow(1 - k, 3))));
+            if (k < 1) requestAnimationFrame(step);
+          };
+          requestAnimationFrame(step);
+        });
+      });
+      Array.prototype.forEach.call(counters, function (c) { count.observe(c); });
+    }
+  })();
 })();

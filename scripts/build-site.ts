@@ -7,6 +7,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { Dialect, Entry, Sense, Word } from "../src/data/model.js";
 import { ALPHABET, compareSq, DIALECTS, firstLetter, foldKey, POS_EN, POS_SQ } from "../src/data/model.js";
+import { SOURCE_STORIES, type SourceKind, type SourceStory } from "../src/data/burimet-histori.js";
 import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
@@ -1005,12 +1006,12 @@ function homePage(): string {
 const UI_STATS = "Fjalori sot";
 
 // ── static info pages ────────────────────────────────────────────────────────
-function sourcesPage(): string {
-  // one entry per source, in the order they matter to the dictionary
-  type Ref = { title: string; author: string; link: string; licence: string; licenceUrl: string; sq: string; en: string };
+type SourceRef = { title: string; author: string; link: string; licence: string; licenceUrl: string; sq: string; en: string };
+/** The licence list: one entry per source, in the order they matter to the dictionary. */
+function sourceRefs(): SourceRef[] {
   const CC_BY_SA = "https://creativecommons.org/licenses/by-sa/4.0/";
   const CC0 = "https://creativecommons.org/publicdomain/zero/1.0/";
-  const refs: Ref[] = [
+  const refs: SourceRef[] = [
     { title: "Wiktionary", author: "Wikimedia Foundation dhe kontribuesit e Wiktionary (përpunuar nga kaikki.org)", link: "https://en.wiktionary.org/wiki/Category:Albanian_language", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
       sq: "Fjalët, kuptimet në anglisht, format e lakimit e zgjedhimit, shqiptimi, shembujt dhe format dialektore, edhe fjalë nga 18 botime të tjera gjuhësore.", en: "Headwords, English meanings, inflection tables, pronunciation, examples and dialect forms; also words from 18 other language editions." },
     { title: "Wikifjalor", author: "Wikimedia Foundation dhe kontribuesit e Wikifjalorit", link: "https://sq.wiktionary.org/", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
@@ -1111,6 +1112,150 @@ function sourcesPage(): string {
     { title: "Puna e autorit", author: "Endrit Rushiti, me ndihmën e inteligjencës artificiale (Claude, Anthropic)", link: "https://github.com/EndritRushiti/FjaloriShqip", licence: "CC BY-SA 4.0", licenceUrl: CC_BY_SA,
       sq: "Përshkrimet shqip të fjalëve, fjalë dhe kuptime të shtuara e të korrigjuara, kuptime të përafërta të nxjerra nga fjalë të tjera dhe lidhjet ndërmjet fjalëve.", en: "The Albanian descriptions, added and corrected words and meanings, approximate meanings worked out from other words, and the links between words." },
   ];
+  return refs;
+}
+
+// ── the sources: timeline (/burimet/) and one page per source (/burimet/<slug>/) ──
+type Saying = { text: string; dialect: string; region: string; std: string; meaning: string; source: string; riddle: boolean };
+type StoryData = {
+  story: SourceStory;
+  ref?: SourceRef;
+  info?: (typeof SOURCES)[SourceId];
+  heads: Word[];
+  forms: { form: string; dialect: Dialect; word: string }[];
+  sayings: Saying[];
+};
+const KIND_LABEL: Record<SourceKind, [string, string]> = {
+  book: ["Libër", "Book"],
+  study: ["Studim dhe fjalor i sotëm", "Study and dictionary of today"],
+  digital: ["Të dhëna të hapura", "Open data"],
+  ours: ["Folësit dhe puna jonë", "Speakers and our own work"],
+};
+const ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX", "XXI"];
+const storyUrl = (s: SourceStory) => url(`/burimet/${s.slug}/`);
+let storyCache: StoryData[] | undefined;
+function storyData(): StoryData[] {
+  if (storyCache) return storyCache;
+  const refs = new Map(sourceRefs().map((r) => [r.title, r]));
+  const headsBy = new Map<string, Word[]>();
+  const formsBy = new Map<string, StoryData["forms"]>();
+  for (const w of words) {
+    for (const s of w.sources ?? []) (headsBy.get(s) ?? headsBy.set(s, []).get(s)!).push(w);
+    for (const d of w.dialects ?? []) if (d.source) (formsBy.get(d.source) ?? formsBy.set(d.source, []).get(d.source)!).push({ form: d.form, dialect: d.dialect, word: w.word });
+  }
+  const sayings: Saying[] = [];
+  const sayingsFile = path.join(ROOT, "thenie", "thenie.tsv");
+  if (fs.existsSync(sayingsFile))
+    for (const line of fs.readFileSync(sayingsFile, "utf8").split(/\r?\n/)) {
+      if (!line || line.startsWith("#")) continue;
+      const c = line.split("\t");
+      if (c[8] !== "po") continue; // only sayings the editor has reviewed
+      sayings.push({ text: c[1], dialect: c[2], region: c[3], std: c[4], meaning: c[5], source: c[6] ?? "", riddle: c[9] === "gjëegjëzë" });
+    }
+  const byUse = (a: Word, b: Word) => (b.frequency ?? 0) - (a.frequency ?? 0) || compareSq(a.word, b.word);
+  storyCache = SOURCE_STORIES.map((story) => {
+    const seen = new Set<string>();
+    const heads = story.ids.flatMap((id) => headsBy.get(id) ?? []).filter((w) => !seen.has(w.word) && seen.add(w.word)).sort(byUse);
+    const fseen = new Set<string>();
+    const forms = story.ids
+      .flatMap((id) => formsBy.get(id) ?? [])
+      .filter((f) => !fseen.has(f.form + "|" + f.word) && fseen.add(f.form + "|" + f.word))
+      .sort((a, b) => compareSq(a.form, b.form));
+    return {
+      story,
+      ref: refs.get(story.ref),
+      info: SOURCES[story.ids[0]],
+      heads,
+      forms,
+      sayings: sayings.filter((s) => story.ids.some((id) => s.source === id || s.source.startsWith(id + "-"))),
+    };
+  });
+  return storyCache;
+}
+/** A few words that came from the source: dialect forms of the most used words first, else its most used words. */
+function sampleWords(d: StoryData, n: number): { form: string; word: string; dialect?: Dialect }[] {
+  const out: { form: string; word: string; dialect?: Dialect }[] = [];
+  const used = new Set<string>();
+  const freq = (w: string) => byWord.get(w)?.frequency ?? 0;
+  // a form that is itself a standard word (jap, na) shows nothing of the source; very short forms neither
+  const isStandard = (x: string) => (byWord.get(x)?.frequency ?? 0) >= 50 || (!!byWord.get(x)?.description && !(byWord.get(x)?.dialects ?? []).length);
+  for (const f of [...d.forms].sort((a, b) => freq(b.word) - freq(a.word) || compareSq(a.form, b.form))) {
+    if (out.length >= n) break;
+    if (used.has(f.word) || used.has(f.form) || f.form === f.word || f.form.length < 3 || /[^\p{L}̂ -]/u.test(f.form) || isStandard(f.form)) continue;
+    used.add(f.word).add(f.form);
+    out.push(f);
+  }
+  // otherwise the words that came mainly from this source: fewest other sources first
+  const others = (w: Word) => (w.sources ?? []).filter((x) => x !== "ai" && x !== "editor").length;
+  for (const w of [...d.heads].sort((a, b) => others(a) - others(b) || freq(b.word) - freq(a.word))) {
+    if (out.length >= n) break;
+    if (used.has(w.word) || !w.description || w.word.length < 4) continue;
+    used.add(w.word);
+    out.push({ form: w.word, word: w.word });
+  }
+  return out;
+}
+function dialectCounts(d: StoryData): [Dialect, number][] {
+  const c = new Map<Dialect, number>();
+  for (const f of d.forms) c.set(f.dialect, (c.get(f.dialect) ?? 0) + 1);
+  return DIALECT_ORDER.filter((x) => c.get(x)).map((x) => [x, c.get(x)!]);
+}
+const dialectName = (x: Dialect) => bi(DIALECT_INFO[x].sq, DIALECT_INFO[x].en);
+function wordChips(list: { form: string; word: string; dialect?: Dialect }[]): string {
+  return list
+    .map((x) => `<li><a href="${wordUrl(x.word)}" lang="sq">${x.dialect ? `<span class="dialect-dot ${x.dialect}" aria-hidden="true"></span>` : ""}<b>${h(x.form)}</b>${x.form !== x.word ? `<span class="src-std">${h(x.word)}</span>` : ""}</a></li>`)
+    .join("");
+}
+function storyCount(d: StoryData): string {
+  const parts: string[] = [];
+  if (d.forms.length) parts.push(bi(`${num(d.forms.length)} forma dialektore`, `${numEn(d.forms.length)} dialect forms`));
+  if (d.heads.length) parts.push(bi(`${num(d.heads.length)} fjalë`, `${numEn(d.heads.length)} words`));
+  if (d.sayings.length) parts.push(bi(`${num(d.sayings.length)} thënie`, `${numEn(d.sayings.length)} sayings`));
+  return parts.join(" · ");
+}
+function storyCard(d: StoryData, timeline: boolean, side = ""): string {
+  const s = d.story;
+  const words6 = sampleWords(d, timeline ? 6 : 4);
+  const year = s.yearLabel ?? (s.year ? String(s.year) : "");
+  const inner = `
+    ${timeline ? `<p class="tl-year">${h(year)}</p>` : `<p class="src-kind">${bi(...KIND_LABEL[s.kind])}</p>`}
+    <h3><a href="${storyUrl(s)}">${h(s.title)}</a></h3>
+    <p class="src-author">${h(s.author)}${s.life ? ` <span>(${h(s.life)})</span>` : ""}</p>
+    <p class="src-about">${bi(h(s.about.sq), h(s.about.en))}</p>
+    ${timeline && s.bio ? `<p class="src-bio">${bi(h(s.bio.sq), h(s.bio.en))}</p>` : ""}
+    ${words6.length ? `<ul class="src-words" aria-label="${h("Fjalë nga ky burim")}">${wordChips(words6)}</ul>` : ""}
+    <div class="src-foot">
+      <span class="src-count">${storyCount(d)}</span>
+      <a class="btn btn-ghost btn-sm src-more" href="${storyUrl(s)}">${bi("Eksploro më shumë", "Explore more")} ${icon.arrowRight(14)}</a>
+    </div>`;
+  return timeline
+    ? `<li class="tl-item${side}" data-year="${h(year)}"><span class="tl-dot" aria-hidden="true"></span><article class="tl-card">${inner}</article></li>`
+    : `<li class="src-card">${inner}</li>`;
+}
+
+function sourcesPage(): string {
+  const refs = sourceRefs();
+  const all = storyData();
+  const books = all.filter((d) => d.story.kind === "book").sort((a, b) => (a.story.year ?? 0) - (b.story.year ?? 0));
+  let century = 0;
+  const items = books
+    .map((d, i) => {
+      const c = Math.floor(((d.story.year ?? 0) - 1) / 100) + 1;
+      const era = c !== century ? `<li class="tl-era" aria-hidden="true"><span>${bi(`Shekulli ${ROMAN[c]}`, `${ROMAN[c]} century`)}</span></li>` : "";
+      century = c;
+      return era + storyCard(d, true, i % 2 ? " tl-right" : " tl-left");
+    })
+    .join("\n");
+  const group = (kind: SourceKind, sq: string, en: string, leadSq: string, leadEn: string) => {
+    const list = all.filter((d) => d.story.kind === kind);
+    return `<section class="src-group">
+  <h2>${bi(sq, en)}</h2>
+  <p class="muted">${bi(leadSq, leadEn)}</p>
+  <ul class="src-grid">${list.map((d) => storyCard(d, false)).join("\n")}</ul>
+</section>`;
+  };
+  const formsFromBooks = books.reduce((n, d) => n + d.forms.length, 0);
+  const first = books[0]?.story.year ?? 0;
   const list = refs
     .map((r) => `<li class="ref">
   <div class="ref-main"><cite>${h(r.title)}</cite> <span class="ref-author">— ${h(r.author)}</span></div>
@@ -1121,10 +1266,30 @@ function sourcesPage(): string {
   const body = `
 ${pageHead(
   t("sources"),
-  bi("Fjalori ndërtohet nga burime me licencë të hapur dhe nga libra në domen publik, nga një libër i vetëm merren vetëm fjalët dhe faktet për to. Këtu janë të gjitha, një herë secili.", "The dictionary is built from openly licensed sources and public-domain books; from one book only the words and facts about them are taken. Here they all are, each one once."),
-  `${icon.shield(16)} ${bi("Burimet dhe licencat", "Sources and licences")}`,
+  bi(
+    "Çdo fjalë në këtë fjalor ka një histori. Këtu janë librat, studimet dhe të dhënat nga erdhën, nga fjalori i parë i shqipes më 1635 deri te korpuset e sotme. Nga çdo burim merren vetëm fjalët dhe faktet për to, përshkrimet janë tonat.",
+    "Every word in this dictionary has a story. Here are the books, studies and data it came from, from the first Albanian dictionary in 1635 to the corpora of today. From each source only the words and facts about them are taken; the descriptions are our own.",
+  ),
+  `${icon.book(16)} ${bi("Historia e fjalëve", "The story of the words")}`,
 )}
-<section class="card refs-card">
+<ul class="src-stats" aria-label="${h("Burimet në numra")}">
+  <li><b>${first}</b><span>${bi("viti i librit më të vjetër", "year of the oldest book")}</span></li>
+  <li><b data-count="${books.length}">${books.length}</b><span>${bi("libra në vijën kohore", "books on the timeline")}</span></li>
+  <li><b data-count="${all.length}">${all.length}</b><span>${bi("burime me faqen e vet", "sources with their own page")}</span></li>
+  <li><b data-count="${formsFromBooks}">${num(formsFromBooks)}</b><span>${bi("forma dialektore nga librat", "dialect forms from the books")}</span></li>
+</ul>
+<section class="tl-section" aria-labelledby="tl-title">
+  <h2 id="tl-title">${bi(`Nga ${first} deri sot`, `From ${first} to today`)}</h2>
+  <ol class="tl" data-tl>
+    <li class="tl-rail" aria-hidden="true"><span class="tl-fill"></span></li>
+${items}
+  </ol>
+</section>
+${group("study", "Studime dhe fjalorë të sotëm", "Studies and dictionaries of today", "Doktoratura, revista dhe fjalorë të krahinave, nga ku kemi marrë vetëm fjalët.", "Doctorates, journals and regional dictionaries, from which we took only the words.")}
+${group("digital", "Të dhëna të hapura dhe korpuse", "Open data and corpora", "Fjalorë të lirë dhe miliona fjalë nga uebi, që tregojnë si e shkruajnë njerëzit shqipen sot.", "Free dictionaries and millions of words from the web, which show how people write Albanian today.")}
+${group("ours", "Folësit dhe puna jonë", "Speakers and our own work", "Fjalët që na dhanë folësit dhe format që i ndërtuam vetë, secila e shënuar si e tillë.", "The words speakers gave us and the forms we built ourselves, each marked as such.")}
+<section class="card refs-card" id="licencat">
+  <h2>${bi("Të gjitha burimet dhe licencat", "All sources and licences")}</h2>
   <ol class="refs">
 ${list}
   </ol>
@@ -1140,7 +1305,107 @@ ${list}
     "No definitions, examples or structure are copied from copyrighted dictionaries, such as those of the Academy of Sciences. Words themselves belong to no one: every description and every link between words in this dictionary is our own work. If you believe something here infringes your rights, write to us from the About page.",
   )}</p>
 </section>`;
-  return layout({ title: "Burimet — FjaloriShqip", description: "Burimet dhe licencat e Fjalorit të hapur të gjuhës shqipe.", body, active: "sources", canonical: "/burimet/" });
+  return layout({ title: "Burimet — FjaloriShqip", description: "Historia e burimeve të Fjalorit të hapur të gjuhës shqipe, nga fjalori i Frang Bardhit më 1635 deri sot, me licencat e tyre.", body, active: "sources", canonical: "/burimet/" });
+}
+
+const FORMS_SHOWN = 3000;
+const HEADS_SHOWN = 150;
+function sourceDetailPage(d: StoryData, prev?: StoryData, next?: StoryData): string {
+  const s = d.story;
+  const year = s.yearLabel ?? (s.year ? String(s.year) : "");
+  const counts = dialectCounts(d);
+  const stats = [
+    d.heads.length ? `<li><b>${num(d.heads.length)}</b><span>${bi("fjalë në fjalor", "words in the dictionary")}</span></li>` : "",
+    d.forms.length ? `<li><b>${num(d.forms.length)}</b><span>${bi("forma dialektore", "dialect forms")}</span></li>` : "",
+    ...counts.map(([x, n]) => `<li class="by-${x}"><b>${num(n)}</b><span><span class="dialect-dot ${x}" aria-hidden="true"></span>${dialectName(x)}</span></li>`),
+    d.sayings.length ? `<li><b>${num(d.sayings.length)}</b><span>${bi("thënie dhe gjëegjëza", "sayings and riddles")}</span></li>` : "",
+  ].join("");
+  const took = d.info
+    ? `<section class="card prose src-took">
+  <h2>${bi("Çfarë morëm prej tij", "What we took from it")}</h2>
+  <p>${bi(h(d.info.usedFor.sq), h(d.info.usedFor.en))}</p>
+  ${d.info.notUsed ? `<p class="muted">${bi(h(d.info.notUsed.sq), h(d.info.notUsed.en))}</p>` : ""}
+</section>`
+    : "";
+  const sayings = d.sayings.length
+    ? `<section class="src-section">
+  <h2>${bi("Thënie nga ky libër", "Sayings from this book")}</h2>
+  <ul class="src-sayings">${d.sayings
+    .map((x) => `<li class="card">
+    <p class="say-text" lang="sq"><span class="dialect-dot ${h(x.dialect)}" aria-hidden="true"></span>${h(x.text)}</p>
+    ${x.std && x.std !== x.text ? `<p class="say-std" lang="sq">${h(x.std)}</p>` : ""}
+    <p class="say-meaning muted">${x.riddle ? bi("Përgjigjja", "Answer") + " — " : ""}${h(x.meaning)}</p>
+  </li>`)
+    .join("")}</ul>
+</section>`
+    : "";
+  let letter = "";
+  const formsShown = d.forms.slice(0, FORMS_SHOWN);
+  const formsHtmlList = formsShown
+    .map((f) => {
+      const l = firstLetter(f.form);
+      const head = l !== letter ? `</ul><h3 class="src-letter">${h(l.toUpperCase())}</h3><ul class="src-forms">` : "";
+      letter = l;
+      return `${head}<li><a href="${wordUrl(f.word)}" lang="sq"><span class="dialect-dot ${f.dialect}" aria-hidden="true"></span><b>${h(f.form)}</b>${f.form !== f.word ? `<span class="src-std">${h(f.word)}</span>` : ""}</a></li>`;
+    })
+    .join("");
+  const forms = d.forms.length
+    ? `<section class="src-section">
+  <h2>${bi("Format dialektore nga ky burim", "Dialect forms from this source")}</h2>
+  <p class="muted">${bi("Çdo formë të çon te fjala standarde përkatëse.", "Each form leads to its standard word.")}${d.forms.length > FORMS_SHOWN ? " " + bi(`Shfaqen ${num(FORMS_SHOWN)} nga ${num(d.forms.length)}.`, `Showing ${numEn(FORMS_SHOWN)} of ${numEn(d.forms.length)}.`) : ""}</p>
+  <div class="src-forms-wrap"><ul class="src-forms">${formsHtmlList}</ul></div>
+</section>`.replace(/<ul class="src-forms"><\/ul>/g, "")
+    : "";
+  const headsShown = d.heads.filter((w) => w.description).slice(0, HEADS_SHOWN);
+  const heads = headsShown.length && d.heads.length > d.forms.length
+    ? `<section class="src-section">
+  <h2>${d.heads.length > HEADS_SHOWN ? bi("Disa nga fjalët", "Some of the words") : bi("Fjalët", "The words")}</h2>
+  <ul class="src-heads">${headsShown
+    .map((w) => `<li><a href="${wordUrl(w.word)}" lang="sq">${h(w.word)}</a> <span class="muted">${h(metaText(w.description?.text ?? "", 90))}</span></li>`)
+    .join("")}</ul>
+</section>`
+    : "";
+  const nav = (x: StoryData | undefined, dir: "prev" | "next") =>
+    x
+      ? `<a class="src-nav-${dir}" href="${storyUrl(x.story)}">${dir === "prev" ? icon.arrowLeft(14) : ""}<span><small>${x.story.yearLabel ?? x.story.year ?? bi(...KIND_LABEL[x.story.kind])}</small>${h(x.story.title)}</span>${dir === "next" ? icon.arrowRight(14) : ""}</a>`
+      : "<span></span>";
+  const body = `
+<p class="src-back"><a href="${url("/burimet/")}">${icon.arrowLeft(14)} ${bi("Të gjitha burimet", "All sources")}</a></p>
+<header class="page-head src-head">
+  <p class="kicker">${year ? `<span class="src-year">${h(year)}</span> ` : ""}${bi(...KIND_LABEL[s.kind])}</p>
+  <h1>${h(s.title)}</h1>
+  <p class="src-author">${h(s.author)}${s.life ? ` <span>(${h(s.life)})</span>` : ""}</p>
+  <p class="lead">${bi(h(s.about.sq), h(s.about.en))}</p>
+</header>
+${s.bio ? `<section class="card src-bio-card"><h2>${bi("Autori", "The author")}</h2><p>${bi(h(s.bio.sq), h(s.bio.en))}</p></section>` : ""}
+${stats ? `<ul class="src-stats src-stats-detail">${stats}</ul>` : ""}
+${took}
+${sayings}
+${forms}
+${heads}
+${d.ref ? `<section class="card src-link"><h2>${bi("Burimi", "The source")}</h2><p><cite>${h(d.ref.title)}</cite> — ${h(d.ref.author)}</p><p class="ref-meta"><a href="${d.ref.link}" rel="noopener">${h(d.ref.link.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a> · <a href="${d.ref.licenceUrl}" rel="license noopener">${h(d.ref.licence)}</a></p></section>` : ""}
+<nav class="src-nav" aria-label="${h("Burimet e tjera")}">${nav(prev, "prev")}${nav(next, "next")}</nav>`;
+  const structured =
+    s.kind === "book" ? [{ "@type": "Book", name: s.title, author: s.author.split(/, | e /).map((name) => ({ "@type": "Person", name })), datePublished: s.year ? String(s.year) : undefined, inLanguage: "sq" }] : [];
+  return layout({
+    title: `${s.title} — Burimet — FjaloriShqip`,
+    description: metaText(`${s.title}${year ? ` (${year})` : ""}, ${s.author}. ${s.about.sq}`),
+    body,
+    active: "sources",
+    canonical: `/burimet/${s.slug}/`,
+    structured,
+  });
+}
+function sourceDetailPages(): string[] {
+  const all = storyData();
+  const order = [
+    ...all.filter((d) => d.story.kind === "book").sort((a, b) => (a.story.year ?? 0) - (b.story.year ?? 0)),
+    ...all.filter((d) => d.story.kind !== "book"),
+  ];
+  return order.map((d, i) => {
+    write(`burimet/${d.story.slug}/index.html`, sourceDetailPage(d, order[i - 1], order[i + 1]));
+    return `/burimet/${d.story.slug}/`;
+  });
 }
 
 function apiPage(): string {
@@ -1531,6 +1796,8 @@ function apiWord(w: Word): object {
 
   write("index.html", homePage());
   write("burimet/index.html", sourcesPage());
+  const sourcePages = sourceDetailPages();
+  console.log(`source pages: ${sourcePages.length}`);
   write("api/index.html", apiPage());
   write("rreth/index.html", aboutPage());
   write("aplikacioni/index.html", appPage());
@@ -1656,7 +1923,7 @@ function apiWord(w: Word): object {
 
   // ── search engines: sitemaps and robots.txt ──
   // every page that should be found: home, info pages, letter pages and all word pages
-  const pages = ["/", "/burimet/", "/api/", "/rreth/", "/aplikacioni/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
+  const pages = ["/", "/burimet/", ...SOURCE_STORIES.map((x) => `/burimet/${x.slug}/`), "/api/", "/rreth/", "/aplikacioni/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
   for (const l of ALPHABET) {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
