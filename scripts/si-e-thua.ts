@@ -50,7 +50,24 @@ async function main() {
   const done = new Set(lines(TSV).filter((l) => l && !l.startsWith("#")).map((l) => { const c = l.split("\t"); return `${fold(c[4])}|${c[1]}|${fold(c[0])}`; }));
   const seenRefused = new Set(lines(REFUSED).map((l) => l.split("\t").slice(0, 3).join("\t")));
   const rows: string[] = [], refused: string[] = [];
+  // the same form as the standard word ("grua" for grua): not a new form, but it tells the map that the word
+  // is said so in those places. Kept in njejte/njejte.tsv, which only the word maps read.
+  const SAME = "njejte/njejte.tsv";
+  const sameDone = new Set(lines(SAME).filter((l) => l && !l.startsWith("#")).map((l) => { const c = l.split("\t"); return `${c[2]}|${c[1]}|${c[3]}`; }));
+  const sameRows: string[] = [];
   for (const r of ready) {
+    if (fold(r.form) !== fold(r.word) || !byWord.has(r.word)) continue;
+    for (const place of r.regions.length ? r.regions : [""]) {
+      const key = `${r.word}|${r.dialect}|${place}`;
+      if (sameDone.has(key)) continue;
+      sameDone.add(key);
+      sameRows.push([r.word, r.dialect, r.word, place, "si-e-thua"].join("\t"));
+    }
+  }
+  if (sameRows.length) fs.appendFileSync(SAME, `${sameRows.join("\n")}\n`);
+  console.log(`same as the standard word: ${sameRows.length}`);
+  for (const r of ready) {
+    if (fold(r.form) === fold(r.word)) continue;
     if (done.has(`${fold(r.word)}|${r.dialect}|${fold(r.form)}`)) continue;
     const w = byWord.get(r.word);
     const v = w ? check(r.word, r.form, r.count, k) : ({ ok: false, reason: "forma" } as const);

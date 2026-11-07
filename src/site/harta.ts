@@ -70,6 +70,42 @@ export const PLACES: Record<string, { lat: number; lon: number; name: string; di
   "San Costantino Albanese": { lat: 40.04, lon: 16.31, name: "San Costantino Albanese", dialect: "arberesh" },
   "Greci": { lat: 41.25, lon: 15.17, name: "Greci", dialect: "arberesh" },
   "Andros": { lat: 37.85, lon: 24.85, name: "Andros", dialect: "arvanitika" },
+  // the places offered by the "Si e thua ti?" box (public/app.js), so speakers' answers get a pin too
+  "Has": { lat: 42.18, lon: 20.45, name: "Has", dialect: "gheg" },
+  "Tropojë": { lat: 42.4, lon: 20.15, name: "Tropojë", dialect: "gheg" },
+  "Kukës": { lat: 42.08, lon: 20.42, name: "Kukës", dialect: "gheg" },
+  "Durrës": { lat: 41.32, lon: 19.45, name: "Durrës", dialect: "gheg" },
+  "Prishtinë": { lat: 42.66, lon: 21.17, name: "Prishtinë", dialect: "gheg" },
+  "Drenicë": { lat: 42.68, lon: 20.83, name: "Drenicë", dialect: "gheg" },
+  "Rrafshi i Dukagjinit": { lat: 42.55, lon: 20.35, name: "Rrafshi i Dukagjinit", dialect: "gheg" },
+  "Anamoravë": { lat: 42.45, lon: 21.45, name: "Anamoravë", dialect: "gheg" },
+  "Mitrovicë": { lat: 42.89, lon: 20.87, name: "Mitrovicë", dialect: "gheg" },
+  "Preshevë": { lat: 42.31, lon: 21.65, name: "Preshevë", dialect: "gheg" },
+  "Shkup": { lat: 42.0, lon: 21.43, name: "Shkup", dialect: "gheg" },
+  "Strugë": { lat: 41.18, lon: 20.68, name: "Strugë", dialect: "gheg" },
+  "Tuz": { lat: 42.37, lon: 19.33, name: "Tuz", dialect: "gheg" },
+  "Plavë e Guci": { lat: 42.6, lon: 19.94, name: "Plavë e Guci", dialect: "gheg" },
+  "Devoll": { lat: 40.6, lon: 20.95, name: "Devoll", dialect: "tosk" },
+  "Pogradec": { lat: 40.9, lon: 20.65, name: "Pogradec", dialect: "tosk" },
+  "Kolonjë": { lat: 40.33, lon: 20.67, name: "Kolonjë", dialect: "tosk" },
+  "Skrapar": { lat: 40.55, lon: 20.27, name: "Skrapar", dialect: "tosk" },
+  "Fier": { lat: 40.72, lon: 19.56, name: "Fier", dialect: "tosk" },
+  "Vlorë": { lat: 40.47, lon: 19.49, name: "Vlorë", dialect: "tosk" },
+  "Labëri": { lat: 40.2, lon: 19.75, name: "Labëri", dialect: "tosk" },
+  "Sarandë": { lat: 39.87, lon: 20.0, name: "Sarandë", dialect: "tosk" },
+  "Ohër e Prespë": { lat: 41.05, lon: 20.85, name: "Ohër e Prespë", dialect: "tosk" },
+  "Kalabri": { lat: 39.5, lon: 16.3, name: "Kalabri", dialect: "arberesh" },
+  "Sicili": { lat: 37.95, lon: 13.3, name: "Sicili", dialect: "arberesh" },
+  "Pulia": { lat: 40.5, lon: 17.5, name: "Pulia", dialect: "arberesh" },
+  "Basilicata": { lat: 40.1, lon: 16.3, name: "Basilicata", dialect: "arberesh" },
+  "Campania": { lat: 41.2, lon: 15.2, name: "Campania", dialect: "arberesh" },
+  "Abruzzo": { lat: 42.4, lon: 14.0, name: "Abruzzo", dialect: "arberesh" },
+  "Atikë": { lat: 38.05, lon: 23.75, name: "Atikë", dialect: "arvanitika" },
+  "Beoti": { lat: 38.35, lon: 23.2, name: "Beoti", dialect: "arvanitika" },
+  "Peloponez": { lat: 37.6, lon: 22.8, name: "Peloponez", dialect: "arvanitika" },
+  "Evia": { lat: 38.25, lon: 24.15, name: "Evia", dialect: "arvanitika" },
+  // Thrace lies east of the map: listed under the map, without a pin
+  "Trakë": { lat: 41.1, lon: 26.2, name: "Trakë", dialect: "arvanitika" },
 };
 
 /** Where each dialect is spoken, drawn roughly (the borders between dialects are not lines). */
@@ -124,6 +160,7 @@ export function wordMapSvg(forms: MapForm[], land: string, label: string, same?:
       if (!pl) continue;
       const key = pl.name;
       const [x, y] = project(pl.lat, pl.lon);
+      if (x < 0 || x > MAP_W || y < 0 || y > MAP_H) continue;
       const e = at.get(key) ?? at.set(key, { x, y, name: pl.name, dialect: f.dialect, forms: [] }).get(key)!;
       if (!e.forms.includes(f.form)) e.forms.push(f.form);
     }

@@ -477,7 +477,7 @@
   // ── word pages: "Raporto ose sugjero" popup ──
   // "Si e thua ti?": the visitor's own form of the word, with dialect and region (POST /si-e-thua)
   var SI_E_THUA = {
-    gheg: { sq: "Gegërisht", en: "Gheg", places: ["Malësi e Madhe", "Shkodër", "Lezhë", "Mirditë", "Pukë", "Has", "Tropojë", "Kukës", "Dibër", "Mat", "Krujë", "Tiranë", "Durrës", "Elbasan", "Prishtinë", "Drenicë", "Dukagjin", "Anamoravë", "Mitrovicë", "Preshevë", "Shkup", "Tetovë", "Gostivar", "Kërçovë", "Strugë", "Ulqin", "Tuz", "Plavë e Guci"] },
+    gheg: { sq: "Gegërisht", en: "Gheg", places: ["Malësi e Madhe", "Shkodër", "Lezhë", "Mirditë", "Pukë", "Has", "Tropojë", "Kukës", "Dibër", "Mat", "Krujë", "Tiranë", "Durrës", "Elbasan", "Prishtinë", "Drenicë", "Rrafshi i Dukagjinit", "Anamoravë", "Mitrovicë", "Preshevë", "Shkup", "Tetovë", "Gostivar", "Kërçovë", "Strugë", "Ulqin", "Tuz", "Plavë e Guci"] },
     tosk: { sq: "Toskërisht", en: "Tosk", places: ["Korçë", "Devoll", "Pogradec", "Kolonjë", "Përmet", "Skrapar", "Berat", "Myzeqe", "Fier", "Vlorë", "Labëri", "Gjirokastër", "Sarandë", "Çamëri", "Ohër e Prespë"] },
     arberesh: { sq: "Arbërisht", en: "Arbëresh", places: ["Kalabri", "Sicili", "Molise", "Pulia", "Basilicata", "Campania", "Abruzzo"] },
     arvanitika: { sq: "Arvanitisht", en: "Arvanitika", places: ["Atikë", "Beoti", "Peloponez", "Evia", "Andros", "Trakë"] }
@@ -690,6 +690,17 @@
       });
     }
   }
+  // the button on a word's map opens the "Si e thua ti?" box, where the visitor gives their form and their place
+  document.querySelectorAll("[data-sithua-open]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var toggle = document.querySelector(".report .report-btn");
+      if (!toggle) return;
+      if (toggle.getAttribute("aria-expanded") !== "true") toggle.click();
+      toggle.scrollIntoView({ block: "center", behavior: "smooth" });
+      setTimeout(function () { var i = document.querySelector(".report .sithua-form"); if (i) i.focus({ preventScroll: true }); }, 350);
+    });
+  });
+
   // ── /burimet/: the timeline line fills as the page scrolls, cards slide in, numbers count up ──
   (function () {
     var tl = document.querySelector("[data-tl]");

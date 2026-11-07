@@ -27,7 +27,7 @@ jobs:
       - run: npx tsx scripts/si-e-thua.ts
       - name: Save what was accepted or refused
         run: |
-          git add dialekte/si-e-thua.tsv korrigjime/si-e-thua-refuzuar.tsv
+          git add dialekte/si-e-thua.tsv korrigjime/si-e-thua-refuzuar.tsv njejte/njejte.tsv
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

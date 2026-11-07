@@ -840,6 +840,10 @@ function mapCard(w: Word): string {
     }</figcaption>
   </figure>
   ${places.length ? `<ul class="harta-places">${places.map((p) => `<li><span class="dialect-dot ${p.dialect}" aria-hidden="true"></span><span class="pl">${h(p.name)}</span> ${p.forms.slice(0, 6).map(formLink).join(", ")}</li>`).join("")}</ul>` : ""}
+  <div class="harta-add">
+    <p>${bi("Kjo fjalë thuhet ndryshe në vendin tuaj, ose e thoni njëlloj? Na tregoni dhe vendi juaj do të shfaqet në hartë.", "Is this word said differently where you are from, or just the same? Tell us and your place will appear on the map.")}</p>
+    <button type="button" class="btn btn-primary btn-sm" data-sithua-open>${icon.map(14)} ${bi("Si e thoni në vendin tuaj?", "How do you say it where you are from?")}</button>
+  </div>
   <p class="muted harta-note">${bi(
     "Zonat e dialekteve janë të përafërta, sepse kufijtë ndërmjet tyre nuk janë vija. Vendet vijnë nga librat, studimet dhe folësit që përmenden te faqja «Burimet».",
     "The dialect areas are approximate, because the borders between dialects are not lines. The places come from the books, studies and speakers named on the Sources page.",
