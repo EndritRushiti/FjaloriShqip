@@ -1,4 +1,4 @@
-# Old Tosk and Gheg forms from printed Albanian books of about 1860 to 1960, read on the Internet Archive.
+# Old Tosk, Gheg and Arbëresh forms from printed Albanian books of about 1860 to 1960, read on the Internet Archive (Arbëresh of Calabria from Gavril Dara, Kënka e sprasme e Balës, 1906).
 # Only the words are taken.
 # Columns: form<TAB>dialect<TAB>word class<TAB>gender<TAB>standard word<TAB>English meaning<TAB>page<TAB>region
 munt	tosk	verb		mund	can, to be able to; to have the opportunity, power or ability		
@@ -1060,3 +1060,38 @@ ngrohurë	tosk	verb		ngroh	to warm, heat
 radhiturë	tosk	verb		radhit	to arrange, to line up		
 shterurë	tosk	verb		shter	to dry up, run dry		
 vakurë	tosk	verb		vak	to warm		
+zhoti	arberesh	noun		zot	lord, master; God (Zot)		Kalabri
+zhotit	arberesh	noun		zot	lord, master; God (Zot)		Kalabri
+zhot	arberesh	noun		zot	lord, master; God (Zot)		Kalabri
+zhonja	arberesh	noun		zonjë	lady in a wealthy family with servants		Kalabri
+zhonjës	arberesh	noun		zonjë	lady in a wealthy family with servants		Kalabri
+zhonjën	arberesh	noun		zonjë	lady in a wealthy family with servants		Kalabri
+ljuftës	arberesh	noun		luftë	war, fight		Kalabri
+ljuftën	arberesh	noun		luftë	war, fight		Kalabri
+mbljodhi	arberesh	verb		mbledh	to gather, gather in or up		Kalabri
+mbljodhën	arberesh	verb		mbledh	to gather, gather in or up		Kalabri
+kljofshin	arberesh	verb		jam	to be		Kalabri
+kuitofshin	arberesh	verb		kujtoj	to recall, remember		Kalabri
+kuidës	arberesh	noun		kujdes	care		Kalabri
+hëljm	arberesh	noun		helm	poison; venom		Kalabri
+hëljmet	arberesh	noun		helm	poison; venom		Kalabri
+ushtra	arberesh	noun		ushtri	army		Kalabri
+ushtrën	arberesh	noun		ushtri	army		Kalabri
+zhiarmi	arberesh	noun		zjarr	fire		Kalabri
+këntoi	arberesh	verb		këndoj	to sing		Kalabri
+zhëzh	arberesh	adj		zi	black (of colour)		Kalabri
+zhëzha	arberesh	adj		zi	black (of colour)		Kalabri
+buzh	arberesh	noun		buzë	lip		Kalabri
+maljët	arberesh	noun		mal	mount		Kalabri
+maljëvet	arberesh	noun		mal	mount		Kalabri
+përzhien	arberesh	verb		përziej	mix, mix in		Kalabri
+përzhier	arberesh	verb		përziej	mix, mix in		Kalabri
+kjëtu	arberesh	adv		këtu	here, on this side		Kalabri
+vëlëzhër	arberesh	noun		vëlla	brother		Kalabri
+kusheriu	arberesh	noun		kushëri	cousin, first cousin		Kalabri
+kljisha	arberesh	noun		kishë	church		Kalabri
+kljishën	arberesh	noun		kishë	church		Kalabri
+gkëljuha	arberesh	noun		gjuhë	tongue (organ)		Kalabri
+gjëljbër	arberesh	adj		gjelbër	green		Kalabri
+kopiljëvet	arberesh	noun		kopil	smartass, clever but cunning, rascal		Kalabri
+njërëzhit	arberesh	noun		njeri	man		Kalabri
