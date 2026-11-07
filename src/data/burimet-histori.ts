@@ -96,8 +96,8 @@ export const SOURCE_STORIES: SourceStory[] = [
   },
   {
     slug: "letersia-gege", ref: "Letërsia gege: Lahuta e Malcis, Kanuni, Cuneus Prophetarum", ids: ["letersia-gege"], kind: "book", year: 1685, yearLabel: "1685–1937",
-    title: "Letërsia gege", author: "Pjetër Bogdani, Shtjefën Gjeçovi, Gjergj Fishta",
-    about: { sq: "Tri vepra të mëdha të gegërishtes, nga «Çeta e profetëve» e Bogdanit (1685) te Kanuni i mbledhur nga Gjeçovi dhe «Lahuta e Malcís» e Fishtës (1937).", en: "Three great works of Gheg, from Bogdani's “Band of the Prophets” (1685) to the Kanun gathered by Gjeçovi and Fishta's “Highland Lute” (1937)." },
+    title: "Letërsia gege", author: "Pjetër Bogdani, Shtjefën Gjeçovi, Gjergj Fishta, Ndre Mjeda e të tjerë",
+    about: { sq: "Veprat e mëdha të gegërishtes, nga «Çeta e profetëve» e Bogdanit (1685) te Kanuni i mbledhur nga Gjeçovi, «Lahuta e Malcís» e Fishtës dhe këngët e kreshnikëve të mbledhura nga Palaj e Kurti (1937), bashkë me Mjedën dhe Koliqin.", en: "The great works of Gheg, from Bogdani's “Band of the Prophets” (1685) to the Kanun gathered by Gjeçovi, Fishta's “Highland Lute” and the Kreshnik songs gathered by Palaj and Kurti (1937), together with Mjeda and Koliqi." },
   },
   {
     slug: "voskopojari-1802", ref: "Dhanil Voskopojari, Eisagogiki didaskalia (1802)", ids: ["voskopojari-1802"], kind: "book", year: 1802,
