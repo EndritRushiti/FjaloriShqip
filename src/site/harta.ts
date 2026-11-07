@@ -82,12 +82,16 @@ const AREAS: Record<Dialect, [number, number][][]> = {
     [41.06, 19.45], [41.08, 20.1], [41.05, 20.58], [40.88, 20.75], [40.6, 21.05], [40.35, 20.95], [39.9, 20.45], [39.45, 20.75],
     [39.15, 20.65], [39.25, 20.3], [39.75, 20.0], [40.1, 19.75], [40.45, 19.42], [40.75, 19.35],
   ]],
+  // Attica, Boeotia, southern Euboea, Corinthia, the Argolid and the Saronic islands; Andros is drawn apart
   arvanitika: [[
-    [38.45, 22.85], [38.5, 23.6], [38.25, 24.05], [37.7, 24.1], [37.3, 23.5], [37.25, 22.95], [37.6, 22.6], [38.1, 22.55],
+    [38.5, 22.7], [38.58, 23.4], [38.42, 23.8], [38.38, 24.28], [38.08, 24.62], [37.92, 24.35], [37.68, 24.08], [37.2, 23.55],
+    [37.15, 23.0], [37.45, 22.55], [37.92, 22.38], [38.25, 22.5],
   ]],
   // the Arbëresh live in villages spread over southern Italy: drawn as their main groups
   arberesh: [],
 };
+/** Where a dialect's forms are written when the books give no place for them. */
+const AREA_LABEL: Record<Dialect, [number, number]> = { gheg: [42.15, 20.35], tosk: [40.35, 20.15], arberesh: [39.6, 16.0], arvanitika: [37.85, 23.35] };
 const ARBERESH_GROUPS: [number, number][] = [[37.99, 13.28], [39.55, 16.25], [38.88, 16.49], [39.3, 16.95], [40.05, 16.31], [40.45, 17.5], [41.25, 15.17], [41.8, 14.98], [42.43, 14.0]];
 
 export type MapForm = { form: string; dialect: Dialect; places: string[] };
@@ -99,11 +103,19 @@ const pathOf = (ring: [number, number][]) => "M" + ring.map(([la, lo]) => projec
  * The map for one word: the areas of the dialects it has forms in, and a pin for every known place,
  * with the forms said there. `land` is the address of public/harta.svg.
  */
-export function wordMapSvg(forms: MapForm[], land: string, label: string): string {
+export function wordMapSvg(forms: MapForm[], land: string, label: string, same?: { dialects: Dialect[]; word: string }): string {
   const dialects = new Set(forms.map((f) => f.dialect));
+  const sameAs = new Set(same?.dialects ?? []);
   const areas: string[] = [];
-  for (const d of ["gheg", "tosk", "arvanitika"] as Dialect[]) if (dialects.has(d)) areas.push(...AREAS[d].map((r) => `<path class="area ${d}" d="${pathOf(r)}"/>`));
-  if (dialects.has("arberesh")) for (const [la, lo] of ARBERESH_GROUPS) { const [x, y] = project(la, lo); areas.push(`<circle class="area arberesh" cx="${x}" cy="${y}" r="13"/>`); }
+  const area = (d: Dialect, cls: string) => {
+    if (d === "arberesh") for (const [la, lo] of ARBERESH_GROUPS) { const [x, y] = project(la, lo); areas.push(`<circle class="${cls}" cx="${x}" cy="${y}" r="13"/>`); }
+    else areas.push(...AREAS[d].map((r) => `<path class="${cls}" d="${pathOf(r)}"/>`));
+    if (d === "arvanitika") { const [x, y] = project(37.85, 24.85); areas.push(`<circle class="${cls}" cx="${x}" cy="${y}" r="9"/>`); }
+  };
+  for (const d of ["gheg", "tosk", "arberesh", "arvanitika"] as Dialect[]) {
+    if (dialects.has(d)) area(d, `area ${d}`);
+    else if (sameAs.has(d)) area(d, `area ${d} same`);
+  }
   // one pin per place, holding all the forms said there
   const at = new Map<string, { x: number; y: number; name: string; dialect: Dialect; forms: string[] }>();
   for (const f of forms)
@@ -116,21 +128,41 @@ export function wordMapSvg(forms: MapForm[], land: string, label: string): strin
       if (!e.forms.includes(f.form)) e.forms.push(f.form);
     }
   const pins = [...at.values()];
-  // labels only where they do not run into another label
-  const placed: [number, number][] = [];
+  // a dialect with forms but no known place: write its forms inside its area, so no area is left empty
+  const unplaced: string[] = [];
+  for (const d of ["gheg", "tosk", "arberesh", "arvanitika"] as Dialect[]) {
+    if (!dialects.has(d) || pins.some((p) => p.dialect === d)) continue;
+    const list = [...new Set(forms.filter((f) => f.dialect === d).map((f) => f.form))].slice(0, 2);
+    const [x, y] = project(...AREA_LABEL[d]);
+    unplaced.push(`<text class="area-label ${d}" x="${x}" y="${y}" text-anchor="middle">${esc(list.join(", "))}</text>`);
+  }
+  // where the books give no other form, the word is said as in the standard: write it there, marked as such
+  for (const d of sameAs) {
+    if (dialects.has(d) || !same) continue;
+    const [x, y] = project(...AREA_LABEL[d]);
+    unplaced.push(`<text class="area-label ${d} same" x="${x}" y="${y}" text-anchor="middle">${esc(same.word)}</text>`);
+  }
+  // labels only where they do not run into another label: on the right of the pin, else on the left
+  const boxes: [number, number, number, number][] = pins.map((p) => [p.x - 6, p.y - 6, p.x + 6, p.y + 6]);
+  const hits = (b: [number, number, number, number]) => b[0] < 2 || b[2] > MAP_W - 2 || boxes.some((o) => b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]);
   const labels: string[] = [];
   for (const p of [...pins].sort((a, b) => b.forms.length - a.forms.length)) {
-    if (placed.some(([x, y]) => Math.abs(x - p.x) < 70 && Math.abs(y - p.y) < 16)) continue;
-    placed.push([p.x, p.y]);
-    const left = p.x > MAP_W - 110;
-    labels.push(`<text class="pin-label" x="${left ? p.x - 9 : p.x + 9}" y="${p.y + 4}"${left ? ' text-anchor="end"' : ""}>${esc(p.forms.slice(0, 2).join(", "))}</text>`);
+    const text = p.forms.slice(0, 2).join(", ");
+    const w = text.length * 6.6 + 4;
+    const right: [number, number, number, number] = [p.x + 8, p.y - 8, p.x + 8 + w, p.y + 6];
+    const left: [number, number, number, number] = [p.x - 8 - w, p.y - 8, p.x - 8, p.y + 6];
+    const box = !hits(right) ? right : !hits(left) ? left : null;
+    if (!box) continue;
+    boxes.push(box);
+    const onLeft = box === left;
+    labels.push(`<text class="pin-label" x="${onLeft ? p.x - 9 : p.x + 9}" y="${p.y + 4}"${onLeft ? ' text-anchor="end"' : ""}>${esc(text)}</text>`);
   }
   const dots = pins.map((p) => `<g class="pin ${p.dialect}"><circle cx="${p.x}" cy="${p.y}" r="5.5"/><title>${esc(p.name)}: ${esc(p.forms.join(", "))}</title></g>`).join("");
   return `<svg class="harta-svg" viewBox="0 0 ${MAP_W} ${MAP_H}" role="img" aria-label="${esc(label)}">
 <rect class="sea" width="${MAP_W}" height="${MAP_H}"/>
 <use class="land" href="${land}#toka"/><use class="land-sq" href="${land}#shqip"/>
 ${areas.join("")}
-${dots}${labels.join("")}
+${dots}${labels.join("")}${unplaced.join("")}
 </svg>`;
 }
 /** The places of all forms, in map order (north to south), for the list under the map. */

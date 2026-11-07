@@ -778,6 +778,8 @@ const placeOf = new Map<string, string>();
 
 
 // ── the map on word pages: where the forms of a word are said (src/site/harta.ts) ──
+/** Sources that are dated books (src/data/burimet-histori.ts): a word found in one is an old word. */
+const DATED_BOOKS = new Set<string>(SOURCE_STORIES.filter((x) => x.kind === "book").flatMap((x) => x.ids));
 /** For each standard word: its dialect forms with the places the books and speakers give. */
 const mapFormsOf = new Map<string, MapForm[]>();
 {
@@ -799,6 +801,21 @@ const mapFormsOf = new Map<string, MapForm[]>();
     }
   }
 }
+// forms a source records exactly like the standard word (njejte/njejte.tsv): the map marks those places too
+{
+  const f = path.join(process.cwd(), "njejte", "njejte.tsv");
+  if (fs.existsSync(f))
+    for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+      if (!line || line.startsWith("#")) continue;
+      const [form, dialect, std, place] = line.split("\t");
+      if (!byWord.has(std) || !(DIALECTS as string[]).includes(dialect)) continue;
+      const list = mapFormsOf.get(std) ?? mapFormsOf.set(std, []).get(std)!;
+      const e = list.find((x) => x.form === form && x.dialect === dialect);
+      const places = place && PLACES[place] ? [place] : [];
+      if (e) { for (const p of places) if (!e.places.includes(p)) e.places.push(p); }
+      else list.push({ form, dialect: dialect as Dialect, places });
+    }
+}
 function mapCard(w: Word): string {
   const fam = family(w);
   const main = fam?.main ?? w;
@@ -807,12 +824,20 @@ function mapCard(w: Word): string {
   if (!forms.length) return "";
   const places = placeList(forms);
   const dialects = DIALECT_ORDER.filter((d) => forms.some((x) => x.dialect === d));
+  // dialects we hold no form for: nothing is drawn there, the legend only asks
+  const missing = DIALECT_ORDER.filter((d) => !dialects.includes(d));
+  const same: Dialect[] = []; // only forms a source records are drawn; identical forms are rows in dialekte/ like any other
+  const unknown = missing;
   const formLink = (x: string) => (byWord.has(x) && x !== w.word ? `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>` : `<b lang="sq">${h(x)}</b>`);
   return `<section class="card harta-card">
   <h2>${icon.map(18)} ${bi("Ku thuhet", "Where it is said")}</h2>
   <figure class="harta">
-    ${wordMapSvg(forms, asset("harta.svg"), `Harta e formave të fjalës «${main.word}» / Map of the forms of «${main.word}»`)}
-    <figcaption class="harta-legend">${dialects.map((d) => `<span><span class="dialect-dot ${d}" aria-hidden="true"></span>${t(d)}</span>`).join("")}</figcaption>
+    ${wordMapSvg(forms, asset("harta.svg"), `Harta e formave të fjalës «${main.word}» / Map of the forms of «${main.word}»`, { dialects: same, word: main.word })}
+    <figcaption class="harta-legend">${dialects.map((d) => `<span><span class="dialect-dot ${d}" aria-hidden="true"></span>${t(d)}</span>`).join("")}${
+      same.length ? `<span class="harta-same">${same.map((d) => t(d)).join(", ")}: ${bi(`si në standard, «${h(main.word)}», sepse burimet tona nuk japin formë tjetër`, `as in the standard, «${h(main.word)}», since our sources give no other form`)}</span>` : ""
+    }${
+      unknown.length ? `<span class="harta-missing">${unknown.map((d) => t(d)).join(", ")}: ${bi("ende pa të dhëna, na tregoni si e thoni", "no data yet, tell us how you say it")}</span>` : ""
+    }</figcaption>
   </figure>
   ${places.length ? `<ul class="harta-places">${places.map((p) => `<li><span class="dialect-dot ${p.dialect}" aria-hidden="true"></span><span class="pl">${h(p.name)}</span> ${p.forms.slice(0, 6).map(formLink).join(", ")}</li>`).join("")}</ul>` : ""}
   <p class="muted harta-note">${bi(

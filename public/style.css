@@ -783,3 +783,12 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .harta-places .pl { font-weight: 600; margin-right: 4px; }
 .harta-places a, .harta-places b { font-family: var(--serif); }
 .harta-note { margin: 10px 0 0; font-size: 0.85rem; }
+.harta-svg .area-label { font: italic 600 12px var(--serif); paint-order: stroke; stroke: var(--harta-land); stroke-width: 3.5px; stroke-linejoin: round; }
+.harta-svg .area-label.gheg { fill: var(--gheg); }
+.harta-svg .area-label.tosk { fill: var(--tosk); }
+.harta-svg .area-label.arberesh { fill: var(--arberesh); }
+.harta-svg .area-label.arvanitika { fill: var(--arvanitika); }
+.harta-missing { color: var(--muted); font-style: italic; }
+.harta-svg .area.same { fill-opacity: 0.1; stroke-dasharray: 2 4; }
+.harta-svg .area-label.same { font-style: normal; opacity: 0.85; }
+.harta-same { color: var(--muted); }
