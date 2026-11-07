@@ -23,7 +23,7 @@ export const STOP = 0.95;
  * A deploy may only upload while this month's Class A operations, plus its own uploads, stay under this share.
  * It leaves 20% for the Worker's own writes (counters, sign-ups, reports) and for a fix later in the month.
  */
-export const UPLOAD_BUDGET = 0.9; // one deploy only (November 2026, approved by the editor); back to 0.8 right after
+export const UPLOAD_BUDGET = 0.8;
 
 /** Whether `planned` more uploads fit in this month's budget, given `used` Class A operations so far. */
 export function uploadAllowed(used: number, planned: number): boolean {
