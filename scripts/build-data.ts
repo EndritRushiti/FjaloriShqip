@@ -289,7 +289,7 @@ function applyVariants(): { linked: number; removed: number; missing: string[] }
       words.delete(form);
       removed++;
     } else {
-      const k: Dialect | "alternative" = kind === "gheg" || kind === "tosk" ? kind : "alternative";
+      const k: Dialect | "alternative" = kind === "gheg" || kind === "tosk" || kind === "arberesh" || kind === "arvanitika" ? kind : "alternative";
       w.variantOf = [{ word: head, kind: k, source: "editor" }];
       if (k !== "alternative") addDialect(main, { form, dialect: k, source: "editor" });
       linked++;

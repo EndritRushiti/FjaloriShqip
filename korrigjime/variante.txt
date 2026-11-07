@@ -1,6 +1,6 @@
 # Trajta të tjera të fjalëve: gege, toske, drejtshkrime të tjera, ose gabime drejtshkrimi.
 # Other forms of words: Gheg, Tosk, other accepted spellings, or misspellings.
-#   fjala | fjala standarde | gheg / tosk / alternative / gabim
+#   fjala | fjala standarde | gheg / tosk / arberesh / arvanitika / alternative / gabim
 # gheg, tosk, alternative: fjala mbetet dhe lidhet me fjalën standarde / the word stays, linked to the standard word.
 # gabim: fjala hiqet si fjalë më vete dhe gjendet në kërkim si formë e fjalës standarde.
 # gabim (misspelling): the headword is removed and found in search as a form of the standard word.
@@ -4420,3 +4420,20 @@ haberdar | lajmëtar | alternative
 haberdis | lajmëroj | alternative
 # ── Mann 1948 ──
 gjenaral | gjeneral | alternative
+# Wiktionary's dialect words that it links to a standard form (checked 2026-11-07)
+stoh | ftoh | arberesh
+shtalp | shtalb | arberesh
+pataksem | pataks | arberesh
+dafan | dafinë | arberesh
+gëluhë | gjuhë | arberesh
+gjufë | gjuhë | arberesh
+monosaqe | manushaqe | arberesh
+malanguni | melankoli | arberesh
+plihur | bollgur | tosk
+cmatonj | cmatos | tosk
+ckalloj | skalloj | tosk
+ngallis | ngallit | tosk
+cinxur | cinxër | tosk
+çapënj | çapit | tosk
+çafë | çaf | tosk
+vërri | verr | gheg
