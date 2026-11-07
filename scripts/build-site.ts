@@ -1078,6 +1078,12 @@ function sourceRefs(): SourceRef[] {
       sq: "Forma gege të folura në Kosovë, të shënuara nga fjalimi i 212 folësve të të gjitha moshave. Një pjesë vjen nga korpusi UD Gheg GPS (CC BY-SA 4.0). Janë marrë vetëm fjalë të veçuara.", en: "Gheg forms spoken in Kosovo, written down from the speech of 212 speakers of all ages. Some come from the UD Gheg GPS treebank (CC BY-SA 4.0). Only single words are taken." },
     { title: "Arvanitika Living Dictionary", author: "Living Dictionaries", link: "https://livingdictionaries.app/arvanitika", licence: "Vetëm fjalët", licenceUrl: "https://livingdictionaries.app/arvanitika",
       sq: "Fjalë arvanitase të regjistruara nga folësit në Greqi. Prej tij kemi marrë vetëm fjalë vendëse, jo përkufizimet dhe jo huazimet.", en: "Arvanitika words recorded from speakers in Greece. We take only native words from it, not its definitions and not the loans." },
+    { title: "Pal Engjëlli, Formula e pagëzimit (1462)", author: "Pal Engjëlli; dorëshkrimi në Biblioteca Medicea Laurenziana, Firence", link: "https://sq.wikipedia.org/wiki/Formula_e_pag%C3%ABzimit", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Fjalia e vjetër dhe fjalët e saj, të lidhura me fjalët e sotme.", en: "The old sentence and its words, linked to today's words." },
+    { title: "Arnold von Harff, Die Pilgerfahrt des Ritters Arnold von Harff (botimi 1860)", author: "Arnold von Harff; botuar nga Eberhard von Groote, Këln 1860", link: "https://archive.org/details/diepilgerfahrtd00harfgoog", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Fjalët shqipe që shënoi udhëtari, siç janë shtypur në botimin e vitit 1860, të lidhura me fjalët e sotme.", en: "The Albanian words the traveller noted, as printed in the 1860 edition, linked to today's words." },
+    { title: "Gjon Buzuku, Meshari (1555)", author: "Gjon Buzuku; kopja e vetme në Bibliotekën e Vatikanit", link: "https://en.wikipedia.org/wiki/Meshari", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      sq: "Vetëm në vijën kohore, ende pa fjalë të marra.", en: "On the timeline only, no words taken yet." },
     { title: "Frang Bardhi, Dictionarium latino-epiroticum (1635)", author: "Frang Bardhi", link: "https://www.digitale-sammlungen.de/view/bsb10589074", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
       sq: "Forma të vjetra gege, secila e lidhur me fjalën standarde.", en: "Old Gheg forms, each linked to its standard word." },
     { title: "Karl Reinhold, Noctes Pelasgicae (1855)", author: "Karl Reinhold", link: "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10589078-5", licence: "Domain publik", licenceUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -1175,6 +1181,7 @@ function storyData(): StoryData[] {
 /** A few words that came from the source: dialect forms of the most used words first, else its most used words. */
 function sampleWords(d: StoryData, n: number): { form: string; word: string; dialect?: Dialect }[] {
   const out: { form: string; word: string; dialect?: Dialect }[] = [];
+  if (d.story.attested) return d.story.attested.slice(0, n).map((x) => ({ form: x.old, word: x.word }));
   const used = new Set<string>();
   const freq = (w: string) => byWord.get(w)?.frequency ?? 0;
   // a form that is itself a standard word (jap, na) shows nothing of the source; very short forms neither
@@ -1211,6 +1218,8 @@ function storyCount(d: StoryData): string {
   if (d.forms.length) parts.push(bi(`${num(d.forms.length)} forma dialektore`, `${numEn(d.forms.length)} dialect forms`));
   if (d.heads.length) parts.push(bi(`${num(d.heads.length)} fjalë`, `${numEn(d.heads.length)} words`));
   if (d.sayings.length) parts.push(bi(`${num(d.sayings.length)} thënie`, `${numEn(d.sayings.length)} sayings`));
+  if (d.story.attested) parts.push(bi(`${num(d.story.attested.length)} fjalë të shënuara`, `${numEn(d.story.attested.length)} recorded words`));
+  if (d.story.note && !parts.length) parts.push(bi("Ende pa fjalë", "No words yet"));
   return parts.join(" · ");
 }
 function storyCard(d: StoryData, timeline: boolean, side = ""): string {
@@ -1222,6 +1231,7 @@ function storyCard(d: StoryData, timeline: boolean, side = ""): string {
     <h3><a href="${storyUrl(s)}">${h(s.title)}</a></h3>
     <p class="src-author">${h(s.author)}${s.life ? ` <span>(${h(s.life)})</span>` : ""}</p>
     <p class="src-about">${bi(h(s.about.sq), h(s.about.en))}</p>
+    ${s.quote ? `<blockquote class="src-quote" lang="sq">${h(s.quote.text)}</blockquote>` : ""}
     ${timeline && s.bio ? `<p class="src-bio">${bi(h(s.bio.sq), h(s.bio.en))}</p>` : ""}
     ${words6.length ? `<ul class="src-words" aria-label="${h("Fjalë nga ky burim")}">${wordChips(words6)}</ul>` : ""}
     <div class="src-foot">
@@ -1273,13 +1283,17 @@ ${pageHead(
   `${icon.book(16)} ${bi("Historia e fjalëve", "The story of the words")}`,
 )}
 <ul class="src-stats" aria-label="${h("Burimet në numra")}">
-  <li><b>${first}</b><span>${bi("viti i librit më të vjetër", "year of the oldest book")}</span></li>
-  <li><b data-count="${books.length}">${books.length}</b><span>${bi("libra në vijën kohore", "books on the timeline")}</span></li>
+  <li><b>${first}</b><span>${bi("viti i shkrimit më të vjetër shqip", "year of the oldest Albanian writing")}</span></li>
+  <li><b data-count="${books.length}">${books.length}</b><span>${bi("shkrime e libra në vijën kohore", "writings and books on the timeline")}</span></li>
   <li><b data-count="${all.length}">${all.length}</b><span>${bi("burime me faqen e vet", "sources with their own page")}</span></li>
   <li><b data-count="${formsFromBooks}">${num(formsFromBooks)}</b><span>${bi("forma dialektore nga librat", "dialect forms from the books")}</span></li>
 </ul>
 <section class="tl-section" aria-labelledby="tl-title">
   <h2 id="tl-title">${bi(`Nga ${first} deri sot`, `From ${first} to today`)}</h2>
+  <p class="muted tl-note">${bi(
+    "Vija kohore tregon librat nga të cilët kanë ardhur fjalët e këtij fjalori, jo të gjithë librat e shkruar ndonjëherë shqip. Gjuha shqipe është shumë më e vjetër se shkrimi i saj, dhe libra të tjerë të vjetër do të shtohen kur të marrim fjalë prej tyre.",
+    "The timeline shows the books the words of this dictionary came from, not every book ever written in Albanian. The Albanian language is much older than its writing, and other old books will be added when we take words from them.",
+  )}</p>
   <ol class="tl" data-tl>
     <li class="tl-rail" aria-hidden="true"><span class="tl-fill"></span></li>
 ${items}
@@ -1379,6 +1393,15 @@ function sourceDetailPage(d: StoryData, prev?: StoryData, next?: StoryData): str
 </header>
 ${s.bio ? `<section class="card src-bio-card"><h2>${bi("Autori", "The author")}</h2><p>${bi(h(s.bio.sq), h(s.bio.en))}</p></section>` : ""}
 ${stats ? `<ul class="src-stats src-stats-detail">${stats}</ul>` : ""}
+${s.quote ? `<section class="card src-quote-card"><blockquote class="src-quote" lang="sq">${h(s.quote.text)}</blockquote><p><b>${bi("Sot", "Today")}</b> — <span lang="sq">${h(s.quote.sq)}</span></p><p class="muted">${h(s.quote.en)}</p></section>` : ""}
+${s.attested ? `<section class="src-section">
+  <h2>${bi("Fjalët siç u shkruan", "The words as they were written")}</h2>
+  <p class="muted">${bi("Shkrimi i vjetër, kuptimi i dhënë në origjinal dhe fjala e sotme. Çdo fjalë të çon te faqja e saj.", "The old spelling, the meaning given in the original and today's word. Each word leads to its page.")}</p>
+  <table class="src-attested"><thead><tr><th>${bi("Si u shkrua", "As written")}</th><th>${bi("Kuptimi në origjinal", "Meaning in the original")}</th><th>${bi("Fjala sot", "Today's word")}</th></tr></thead><tbody>${s.attested
+    .map((x) => `<tr><td lang="sq"><b>${h(x.old)}</b></td><td>${h(x.gloss)}</td><td>${byWord.has(x.word) ? `<a href="${wordUrl(x.word)}" lang="sq">${h(x.word)}</a>` : h(x.word)}</td></tr>`)
+    .join("")}</tbody></table>
+</section>` : ""}
+${s.note ? `<section class="card card-warn"><p>${bi(h(s.note.sq), h(s.note.en))}</p></section>` : ""}
 ${took}
 ${sayings}
 ${forms}
@@ -1386,7 +1409,7 @@ ${heads}
 ${d.ref ? `<section class="card src-link"><h2>${bi("Burimi", "The source")}</h2><p><cite>${h(d.ref.title)}</cite> — ${h(d.ref.author)}</p><p class="ref-meta"><a href="${d.ref.link}" rel="noopener">${h(d.ref.link.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a> · <a href="${d.ref.licenceUrl}" rel="license noopener">${h(d.ref.licence)}</a></p></section>` : ""}
 <nav class="src-nav" aria-label="${h("Burimet e tjera")}">${nav(prev, "prev")}${nav(next, "next")}</nav>`;
   const structured =
-    s.kind === "book" ? [{ "@type": "Book", name: s.title, author: s.author.split(/, | e /).map((name) => ({ "@type": "Person", name })), datePublished: s.year ? String(s.year) : undefined, inLanguage: "sq" }] : [];
+    s.kind === "book" && !s.attested ? [{ "@type": "Book", name: s.title, author: s.author.split(/, | e /).map((name) => ({ "@type": "Person", name })), datePublished: s.year ? String(s.year) : undefined, inLanguage: "sq" }] : [];
   return layout({
     title: `${s.title} — Burimet — FjaloriShqip`,
     description: metaText(`${s.title}${year ? ` (${year})` : ""}, ${s.author}. ${s.about.sq}`),

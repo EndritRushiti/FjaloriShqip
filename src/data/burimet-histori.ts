@@ -26,10 +26,68 @@ export interface SourceStory {
   about: { sq: string; en: string };
   /** a short biography of the author, only when certain */
   bio?: { sq: string; en: string };
+  /** an old text quoted as written, with today's wording */
+  quote?: { text: string; sq: string; en: string };
+  /** words as they were written, with the meaning given there and today's word */
+  attested?: { old: string; gloss: string; word: string }[];
+  /** a note shown on the page (e.g. why no words were taken yet) */
+  note?: { sq: string; en: string };
 }
 
 export const SOURCE_STORIES: SourceStory[] = [
   // ── books, in time order ──
+  // ── the oldest written Albanian ──
+  {
+    slug: "formula-e-pagezimit-1462", ref: "Pal Engjëlli, Formula e pagëzimit (1462)", ids: [], kind: "book", year: 1462,
+    title: "Formula e pagëzimit", author: "Pal Engjëlli",
+    about: { sq: "Fjalia më e vjetër e njohur e shkruar shqip, në një letër latinisht të vitit 1462, që prindërit të mund t'i pagëzonin vetë fëmijët kur nuk kishte prift.", en: "The oldest known sentence written in Albanian, in a Latin letter of 1462, so that parents could baptise their children themselves when there was no priest." },
+    bio: { sq: "Kryepeshkop i Durrësit dhe bashkëpunëtor i Skënderbeut.", en: "Archbishop of Durrës and a companion of Skanderbeg." },
+    quote: { text: "Un'te paghesont' pr'emenit t'Atit e t'Birit e t'Spertit Senit.", sq: "Unë të pagëzoj në emër të Atit, të Birit e të Shpirtit të Shenjtë.", en: "I baptise you in the name of the Father, the Son and the Holy Spirit." },
+    attested: [
+      { old: "paghesont", gloss: "pagëzoj", word: "pagëzoj" },
+      { old: "emenit", gloss: "emër", word: "emër" },
+      { old: "Atit", gloss: "at", word: "at" },
+      { old: "Birit", gloss: "bir", word: "bir" },
+      { old: "Spertit", gloss: "shpirt", word: "shpirt" },
+      { old: "Senit", gloss: "shenjt", word: "shenjtë" },
+    ],
+  },
+  {
+    slug: "harff-1496", ref: "Arnold von Harff, Die Pilgerfahrt des Ritters Arnold von Harff (botimi 1860)", ids: [], kind: "book", year: 1496, yearLabel: "1496–1499",
+    title: "Fjalorthi i Arnold von Harffit", author: "Arnold von Harff",
+    about: { sq: "Lista më e vjetër e njohur e fjalëve shqipe. Një udhëtar gjerman i shënoi në Durrës, me shkronjat e veta dhe me kuptimin gjermanisht, gjatë udhëtimit të tij të viteve 1496–1499.", en: "The oldest known list of Albanian words. A German traveller wrote them down in Durrës, in his own letters and with the German meaning, during his journey of 1496–1499." },
+    bio: { sq: "Kalorës nga Këlni që udhëtoi drejt Tokës së Shenjtë dhe shënoi fjalë nga gjuhët që dëgjoi rrugës. Shkruan se shqiptarët e Durrësit nuk kishin shkronja të veta.", en: "A knight from Cologne who travelled to the Holy Land and noted words of the languages he heard on the way. He writes that the Albanians of Durrës had no letters of their own." },
+    attested: [
+      { old: "boicke", gloss: "broyt (bukë)", word: "bukë" },
+      { old: "oie", gloss: "wasser (ujë)", word: "ujë" },
+      { old: "vene", gloss: "wijn (verë)", word: "verë" },
+      { old: "mische", gloss: "fleysch (mish)", word: "mish" },
+      { old: "poylle", gloss: "henne (pulë)", word: "pulë" },
+      { old: "pyske", gloss: "vyssche (peshk)", word: "peshk" },
+      { old: "foeije", gloss: "eyer (vezë)", word: "vezë" },
+      { old: "oitter", gloss: "essich (uthull)", word: "uthull" },
+      { old: "fijet", gloss: "slaeffen (fle)", word: "fle" },
+      { old: "megarune", gloss: "essen (me ngrënë)", word: "ha" },
+      { old: "pijne", gloss: "drincken (pi)", word: "pi" },
+      { old: "myr", gloss: "goyt (mirë)", word: "mirë" },
+      { old: "myreprama", gloss: "guden nacht (mirëmbrëma)", word: "mirëmbrëma" },
+      { old: "geneyre", gloss: "eyn man (njeri)", word: "njeri" },
+      { old: "growa", gloss: "eyn frauwe (grua)", word: "grua" },
+      { old: "nea", gloss: "eyn (një)", word: "një" },
+      { old: "dua", gloss: "tzwey (dy)", word: "dy" },
+      { old: "trij", gloss: "drij (tre)", word: "tre" },
+      { old: "quater", gloss: "vier (katër)", word: "katër" },
+      { old: "pessa", gloss: "vunff (pesë)", word: "pesë" },
+      { old: "jast", gloss: "sees (gjashtë)", word: "gjashtë" },
+    ],
+  },
+  {
+    slug: "buzuku-1555", ref: "Gjon Buzuku, Meshari (1555)", ids: [], kind: "book", year: 1555,
+    title: "Meshari", author: "Gjon Buzuku",
+    about: { sq: "Libri i parë i shtypur në gjuhën shqipe, një meshar katolik i përkthyer në gegërisht. Kopja e vetme e njohur ruhet në Bibliotekën e Vatikanit.", en: "The first book printed in Albanian, a Catholic missal translated into Gheg. The only known copy is kept in the Vatican Library." },
+    bio: { sq: "Prift katolik nga Veriu i Shqipërisë. Për jetën e tij dihet pak, përveç asaj që shkruan vetë në fund të librit.", en: "A Catholic priest from northern Albania. Little is known of his life beyond what he writes at the end of the book." },
+    note: { sq: "Teksti i plotë i Mesharit ende nuk është i lirë në internet, prandaj nuk kemi marrë ende fjalë prej tij. Do t'i shtojmë kur të kemi një tekst që lejohet të përdoret.", en: "The full text of the Missal is not yet freely available online, so we have not taken words from it yet. We will add them when we have a text that may be used." },
+  },
   {
     slug: "bardhi-1635", ref: "Frang Bardhi, Dictionarium latino-epiroticum (1635)", ids: ["bardhi-1635"], kind: "book", year: 1635,
     title: "Dictionarium latino-epiroticum", author: "Frang Bardhi", life: "1606–1643",
