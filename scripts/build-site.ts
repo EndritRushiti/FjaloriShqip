@@ -12,6 +12,7 @@ import { SOURCES, type SourceId } from "../src/data/sources.js";
 import { bi, escapeHtml as h, t } from "../src/site/i18n.js";
 import { icon } from "../src/site/icons.js";
 import { HEAD_SCRIPT } from "../src/site/security.js";
+import { type MapForm, PLACES, placeList, wordMapSvg } from "../src/site/harta.js";
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
@@ -539,6 +540,7 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
     </header>
     ${unverified}
     ${sameMeaningCard(w)}
+    ${mapCard(w)}
     ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
     ${examplesCard(w)}
@@ -772,6 +774,81 @@ const placeOf = new Map<string, string>();
       if (place && !placeOf.has(cols[0])) placeOf.set(cols[0], place);
     }
   }
+}
+
+
+// ── the map on word pages: where the forms of a word are said (src/site/harta.ts) ──
+/** Sources that are dated books (src/data/burimet-histori.ts): a word found in one is an old word. */
+const DATED_BOOKS = new Set<string>(SOURCE_STORIES.filter((x) => x.kind === "book").flatMap((x) => x.ids));
+/** For each standard word: its dialect forms with the places the books and speakers give. */
+const mapFormsOf = new Map<string, MapForm[]>();
+{
+  const FIXED: Record<string, string> = { "jungg-1895.tsv": "Shkodër", "bashkimi-1908.tsv": "Shkodër", "busetti-1911.tsv": "Shkodër", "korpus-i-folur.tsv": "Kosovë" };
+  const dir = path.join(process.cwd(), "dialekte");
+  for (const file of fs.readdirSync(dir).filter((x) => x.endsWith(".tsv"))) {
+    for (const line of fs.readFileSync(path.join(dir, file), "utf8").split(/\r?\n/)) {
+      if (!line || line.startsWith("#")) continue;
+      const c = line.split("\t");
+      const [form, dialect, , , std] = c;
+      if (!form || !std || !byWord.has(std) || !(DIALECTS as string[]).includes(dialect)) continue;
+      const raw = FIXED[file] ?? (c[7] ?? "").trim();
+      // a cell may name several places: "Tetovë, Gostivar, Kërçovë" is one entry, "Pukë; Mirditë" two
+      const places = PLACES[raw] ? [raw] : raw.split(/[;,]\s*/).filter((p) => PLACES[p]);
+      const list = mapFormsOf.get(std) ?? mapFormsOf.set(std, []).get(std)!;
+      const e = list.find((x) => x.form === form && x.dialect === dialect);
+      if (e) { for (const p of places) if (!e.places.includes(p)) e.places.push(p); }
+      else list.push({ form, dialect: dialect as Dialect, places });
+    }
+  }
+}
+// forms a source records exactly like the standard word (njejte/njejte.tsv): the map marks those places too
+{
+  const f = path.join(process.cwd(), "njejte", "njejte.tsv");
+  if (fs.existsSync(f))
+    for (const line of fs.readFileSync(f, "utf8").split(/\r?\n/)) {
+      if (!line || line.startsWith("#")) continue;
+      const [form, dialect, std, place] = line.split("\t");
+      if (!byWord.has(std) || !(DIALECTS as string[]).includes(dialect)) continue;
+      const list = mapFormsOf.get(std) ?? mapFormsOf.set(std, []).get(std)!;
+      const e = list.find((x) => x.form === form && x.dialect === dialect);
+      const places = place && PLACES[place] ? [place] : [];
+      if (e) { for (const p of places) if (!e.places.includes(p)) e.places.push(p); }
+      else list.push({ form, dialect: dialect as Dialect, places });
+    }
+}
+function mapCard(w: Word): string {
+  const fam = family(w);
+  const main = fam?.main ?? w;
+  const forms: MapForm[] = [...(mapFormsOf.get(main.word) ?? [])];
+  for (const d of main.dialects ?? []) if (!forms.some((x) => x.form === d.form && x.dialect === d.dialect)) forms.push({ form: d.form, dialect: d.dialect, places: [] });
+  if (!forms.length) return "";
+  const places = placeList(forms);
+  const dialects = DIALECT_ORDER.filter((d) => forms.some((x) => x.dialect === d));
+  // dialects we hold no form for: nothing is drawn there, the legend only asks
+  const missing = DIALECT_ORDER.filter((d) => !dialects.includes(d));
+  const same: Dialect[] = []; // only forms a source records are drawn; identical forms are rows in dialekte/ like any other
+  const unknown = missing;
+  const formLink = (x: string) => (byWord.has(x) && x !== w.word ? `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>` : `<b lang="sq">${h(x)}</b>`);
+  return `<section class="card harta-card">
+  <h2>${icon.map(18)} ${bi("Ku thuhet", "Where it is said")}</h2>
+  <figure class="harta">
+    ${wordMapSvg(forms, asset("harta.svg"), `Harta e formave të fjalës «${main.word}» / Map of the forms of «${main.word}»`, { dialects: same, word: main.word })}
+    <figcaption class="harta-legend">${dialects.map((d) => `<span><span class="dialect-dot ${d}" aria-hidden="true"></span>${t(d)}</span>`).join("")}${
+      same.length ? `<span class="harta-same">${same.map((d) => t(d)).join(", ")}: ${bi(`si në standard, «${h(main.word)}», sepse burimet tona nuk japin formë tjetër`, `as in the standard, «${h(main.word)}», since our sources give no other form`)}</span>` : ""
+    }${
+      unknown.length ? `<span class="harta-missing">${unknown.map((d) => t(d)).join(", ")}: ${bi("ende pa të dhëna, na tregoni si e thoni", "no data yet, tell us how you say it")}</span>` : ""
+    }</figcaption>
+  </figure>
+  ${places.length ? `<ul class="harta-places">${places.map((p) => `<li><span class="dialect-dot ${p.dialect}" aria-hidden="true"></span><span class="pl">${h(p.name)}</span> ${p.forms.slice(0, 6).map(formLink).join(", ")}</li>`).join("")}</ul>` : ""}
+  <div class="harta-add">
+    <p>${bi("Kjo fjalë thuhet ndryshe në vendin tuaj, ose e thoni njëlloj? Na tregoni dhe vendi juaj do të shfaqet në hartë.", "Is this word said differently where you are from, or just the same? Tell us and your place will appear on the map.")}</p>
+    <button type="button" class="btn btn-primary btn-sm" data-sithua-open>${icon.map(14)} ${bi("Si e thoni në vendin tuaj?", "How do you say it where you are from?")}</button>
+  </div>
+  <p class="muted harta-note">${bi(
+    "Zonat e dialekteve janë të përafërta, sepse kufijtë ndërmjet tyre nuk janë vija. Vendet vijnë nga librat, studimet dhe folësit që përmenden te faqja «Burimet».",
+    "The dialect areas are approximate, because the borders between dialects are not lines. The places come from the books, studies and speakers named on the Sources page.",
+  )}</p>
+</section>`;
 }
 
 function sameMeaningCard(w: Word): string {
