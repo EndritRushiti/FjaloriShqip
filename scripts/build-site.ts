@@ -532,15 +532,14 @@ ${breadcrumbs([[t("home"), url("/")], [`${t("letter")} ${h(letter.toUpperCase())
       <p class="word-sub">${pos.map((p) => `<span class="pos-pill">${bi(POS_SQ[p], POS_EN[p])}</span>`).join("")}${loanLabel(w)}${(w.dialectOnly ?? []).map((d) => `<span class="word-label dialect-label"><span class="dialect-dot ${d}"></span>${bi(`Fjalë ${({ arberesh: "arbëreshe", arvanitika: "arvanitase", gheg: "gege", tosk: "toske" } as Record<string, string>)[d]}`, `${({ arberesh: "Arbëresh", arvanitika: "Arvanitika", gheg: "Gheg", tosk: "Tosk" } as Record<string, string>)[d]} word`)}</span>`).join("")}${(w.labels ?? []).filter((l) => !(w.dialectOnly && /^(Arbëresh|Arvanitika)$/.test(l))).map((l) => `<span class="word-label">${bi(TAG_SQ[l] ?? l, l)}</span>`).join("")}${ipa.length ? `<span class="ipa">${h(ipa[0])}</span>` : ""}</p>
       ${albanianInstead(w)}
       <div class="word-meanings">
-      ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}
+      ${w.description ? `<p class="word-desc" lang="sq"><span class="lang-badge sq">SQ</span> ${h(w.description.text)}</p>` : ""}${bookLine(w)}
       ${firstGloss ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span>${approx ? `<span class="approx">≈ ${bi("i përafërt", "approximate")}</span>` : ""} ${enSummary(w, firstGloss)}</p>` : mainWord ? `<p class="word-summary" lang="en"><span class="lang-badge">EN</span> ${h(mainGloss.replace(/[“”]/g, ""))} <span class="muted small">(${bi("si", "as")} <a href="${wordUrl(mainWord.word)}" lang="sq">${h(mainWord.word)}</a>)</span></p>` : `<p class="word-summary no-english" data-ui="en" lang="en"><span class="lang-badge">EN</span> <i>No English meaning yet — the Albanian description is below.</i></p>`}
       </div>
       ${variant}${alsoNote}${partsNote(w)}
       ${reportBox(w)}
     </header>
     ${unverified}
-    ${sameMeaningCard(w)}
-    ${mapCard(w)}
+    ${sameMeaningCard(w)}${mapCard(w)}
     ${w.unverified && !approx ? "" : w.entries.filter((e) => !w.unverified || e.senses.length).map(entryHtml).join("")}
     ${borrowed}
     ${examplesCard(w)}
@@ -776,6 +775,35 @@ const placeOf = new Map<string, string>();
   }
 }
 
+
+// ── "Në librat e vjetër": the dated books a word or its dialect forms come from (src/data/burimet-histori.ts) ──
+const BOOK_OF = new Map<string, SourceStory>();
+for (const st of SOURCE_STORIES) if (st.kind === "book" && st.year) for (const id of st.ids) BOOK_OF.set(id, st);
+/** A short name for a book: the author's surname and the year (Meyer 1891); groups of books by their title. */
+function bookName(st: SourceStory): string {
+  const year = st.yearLabel ?? String(st.year);
+  if (/,| e /.test(st.author) || /^(Shoqnia|Libra)/.test(st.author) || /^Libra/.test(st.title)) {
+    const short: Record<string, string> = { "letersia-gege": "Letërsia gege", "libra-te-vjeter": "Libra të vjetër", "bashkimi-1908": "Bashkimi", "bufli-rocchi-2021": "Bufli e Rocchi" };
+    return `${short[st.slug] ?? st.title} ${year}`;
+  }
+  return `${st.author.split(" ").pop()} ${year}`;
+}
+/** Under the description: the books, with their year, that the word or one of its forms was taken from. Never a "year of the word". */
+function bookLine(w: Word): string {
+  const found = new Map<string, { st: SourceStory; forms: Set<string> }>();
+  const add = (id: string, form?: string) => {
+    const st = BOOK_OF.get(id);
+    if (!st) return;
+    const e = found.get(st.slug) ?? found.set(st.slug, { st, forms: new Set() }).get(st.slug)!;
+    if (form && form !== w.word) e.forms.add(form);
+  };
+  for (const id of w.sources ?? []) add(id);
+  for (const d of w.dialects ?? []) if (d.source) add(d.source, d.form);
+  if (!found.size) return "";
+  const list = [...found.values()].sort((a, b) => (a.st.year ?? 0) - (b.st.year ?? 0)).slice(0, 6);
+  const items = list.map(({ st, forms }) => `<a href="${url(`/burimet/${st.slug}/`)}">${h(bookName(st))}</a>${forms.size ? ` (<i lang="sq">${h([...forms].slice(0, 2).join(", "))}</i>)` : ""}`);
+  return `<p class="book-line">${icon.book(14)} <b>${bi("Në librat e vjetër", "In old books")}:</b> ${items.join(" · ")}${found.size > 6 ? ` · ${bi(`e ${found.size - 6} të tjerë`, `and ${found.size - 6} more`)}` : ""}</p>`;
+}
 
 // ── the map on word pages: where the forms of a word are said (src/site/harta.ts) ──
 /** Sources that are dated books (src/data/burimet-histori.ts): a word found in one is an old word. */

@@ -794,3 +794,7 @@ a.syn-chip:hover { border-color: var(--accent); background: var(--accent-soft); 
 .harta-same { color: var(--muted); }
 .harta-add { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; margin-top: 14px; padding: 12px 16px; border-radius: var(--radius-sm); background: var(--accent-soft); }
 .harta-add p { margin: 0; flex: 1 1 280px; font-size: 0.95rem; }
+.book-line { margin: 8px 0 0; font-size: 0.9rem; color: var(--muted); }
+.book-line svg { vertical-align: -2px; }
+.book-line a { color: var(--text); }
+.book-line a:hover { color: var(--accent); }
