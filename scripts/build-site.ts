@@ -17,6 +17,7 @@ import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
 import { lev, onMap, standardReading } from "./lib/inflected-form.js";
+import { relatedMeaning } from "./lib/related-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
 const ROOT = process.cwd();
@@ -748,7 +749,15 @@ function formedFrom(w: string): string | undefined {
   return d.base;
 }
 const parentOf = new Map<string, string>();
-for (const w of words) if (!w.unverified) { const p = formedFrom(w.word); if (p) parentOf.set(w.word, p); }
+// only words that still share the meaning: aspirator ("vacuum cleaner") is not in the family of aspiroj ("aim")
+const ROOT_DEBUG: string[] = [];
+for (const w of words) if (!w.unverified) {
+  const p = formedFrom(w.word);
+  if (!p) continue;
+  if (relatedMeaning(w, byWord.get(p)!)) parentOf.set(w.word, p);
+  else if (process.env.ROOT_DEBUG) ROOT_DEBUG.push(`${w.word} ← ${p}`);
+}
+if (process.env.ROOT_DEBUG) { fs.writeFileSync(process.env.ROOT_DEBUG, [String(parentOf.size), ...[...parentOf].map((x) => x.join(" ← ")), "---CUT", ...ROOT_DEBUG].join("\n")); process.exit(0); }
 const rootWord = (w: string) => { let r = w; for (let i = 0; i < 4 && parentOf.has(r); i++) r = parentOf.get(r)!; return r; };
 const byRoot = new Map<string, string[]>();
 for (const w of words) if (!w.unverified) push(byRoot, rootWord(w.word), w.word);
