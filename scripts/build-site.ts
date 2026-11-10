@@ -16,6 +16,7 @@ import { type MapForm, PLACES, placeList, wordMapSvg } from "../src/site/harta.j
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
+import { lev, onMap, standardReading } from "./lib/inflected-form.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
 const ROOT = process.cwd();
@@ -847,15 +848,20 @@ const mapFormsOf = new Map<string, MapForm[]>();
 function mapCard(w: Word): string {
   const fam = family(w);
   const main = fam?.main ?? w;
-  const forms: MapForm[] = [...(mapFormsOf.get(main.word) ?? [])];
-  for (const d of main.dialects ?? []) if (!forms.some((x) => x.form === d.form && x.dialect === d.dialect)) forms.push({ form: d.form, dialect: d.dialect, places: [] });
+  // the map shows the word as each dialect says it (Gheg des for vdes): never an inflected form (vdekuna, vdig)
+  // or another word with the same meaning (kath for mjegull)
+  const forms: MapForm[] = (mapFormsOf.get(main.word) ?? []).filter((x) => onMap(x.form, main));
+  for (const d of main.dialects ?? []) if (onMap(d.form, main) && !forms.some((x) => x.form === d.form && x.dialect === d.dialect)) forms.push({ form: d.form, dialect: d.dialect, places: [] });
   if (!forms.length) return "";
+  // the form nearest the standard word first: it is the one written in the dialect's area
+  const near = (f: string) => lev(standardReading(f, main), main.word);
+  forms.sort((a, b) => near(a.form) - near(b.form));
   const places = placeList(forms);
   const dialects = DIALECT_ORDER.filter((d) => forms.some((x) => x.dialect === d));
-  // dialects we hold no form for: nothing is drawn there, the legend only asks
-  const missing = DIALECT_ORDER.filter((d) => !dialects.includes(d));
-  const same: Dialect[] = []; // only forms a source records are drawn; identical forms are rows in dialekte/ like any other
-  const unknown = missing;
+  // the standard language is built on Tosk: with no other Tosk form, the south shows the standard word
+  const same: Dialect[] = dialects.includes("tosk") ? [] : ["tosk"];
+  // other dialects we hold no form for: nothing is drawn there, the legend only asks
+  const unknown = DIALECT_ORDER.filter((d) => !dialects.includes(d) && !same.includes(d));
   const formLink = (x: string) => (byWord.has(x) && x !== w.word ? `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>` : `<b lang="sq">${h(x)}</b>`);
   return `<section class="card harta-card">
   <h2>${icon.map(18)} ${bi("Ku thuhet", "Where it is said")}</h2>
