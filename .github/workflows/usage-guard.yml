@@ -1,8 +1,8 @@
 # Daily check that the site stays inside Cloudflare's free R2 allowance (scripts/usage-guard.ts).
-#   under 80%  → the Worker is (re)deployed normally, so the site comes back online after a new month
+#   under 80%  → the Worker is (re)deployed normally, so the site comes back online in the next billing period (from the 10th)
 #   80% – 95%  → this run fails, so GitHub sends an email
 #   95% of Class A (uploads/writes) → the site stays online (visitors only read); the Worker is deployed with its own
-#                 writes turned off (R2_WRITES=off) and deploys are blocked until next month; the run fails
+#                 writes turned off (R2_WRITES=off) and deploys are blocked until the next billing period (the 10th); the run fails
 #   95% or more of reads or storage → a small offline Worker is put in front of the site (it reads nothing from R2), and the run fails
 # Uses the same secrets as deploy-cloudflare.yml; the API token also needs "Account Analytics: Read".
 name: Cloudflare usage guard
@@ -29,7 +29,7 @@ jobs:
           check-latest: true
           cache: npm
       - run: npm ci
-      - name: Check this month's usage
+      - name: Check this billing period's usage (from the 10th)
         id: guard
         run: |
           code=0
@@ -46,7 +46,7 @@ jobs:
           curl -s -o /dev/null -w "offline Worker removal: %{http_code}\n" -X DELETE \
             -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
             "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/fjalorishqip-offline?force=true"
-          # Class A used up: the Worker answers without writing to R2 until next month
+          # Class A used up: the Worker answers without writing to R2 until the next billing period (the 10th)
           writes=on; if [ "${{ steps.guard.outputs.code }}" = 4 ]; then writes=off; fi
           # the contact form's binding comes from a secret, as in deploy-cloudflare.yml (without it the form would stop working)
           if [ -n "$CONTACT_EMAIL" ]; then
@@ -59,9 +59,9 @@ jobs:
         if: steps.guard.outputs.code != '0'
         run: |
           case "${{ steps.guard.outputs.code }}" in
-            1) echo "::error::Over 80% of a free R2 allowance this month (see the summary)." ;;
-            2) echo "::error::Over 95% of the free R2 reads or storage: the site is OFFLINE until next month." ;;
-            4) echo "::error::Over 95% of the free R2 uploads (Class A): deploys and the Worker's writes are paused until next month; the site stays online." ;;
+            1) echo "::error::Over 80% of a free R2 allowance this billing period (see the summary)." ;;
+            2) echo "::error::Over 95% of the free R2 reads or storage: the site is OFFLINE until the next billing period (the 10th)." ;;
+            4) echo "::error::Over 95% of the free R2 uploads (Class A): deploys and the Worker's writes are paused until the next billing period (the 10th); the site stays online." ;;
             *) echo "::error::Could not read the usage from Cloudflare (check the API token permissions)." ;;
           esac
           exit 1

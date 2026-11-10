@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { classify, FREE, STOP, UPLOAD_BUDGET, uploadAllowed, WARN, worstShare } from "../scripts/usage-guard.js";
+import { classify, FREE, HARD_CAP, periodStart, STOP, UPLOAD_BUDGET, uploadAllowed, WARN, worstShare } from "../scripts/usage-guard.js";
 
 describe("upload budget", () => {
   it("lets a deploy upload only while the month stays under the budget", () => {
@@ -8,6 +8,21 @@ describe("upload budget", () => {
     expect(uploadAllowed(limit - 94_000, 94_000)).toBe(true);
     expect(uploadAllowed(limit - 94_000, 94_001)).toBe(false); // one site-wide change too many
     expect(uploadAllowed(limit, 0)).toBe(true); // nothing to upload is always fine
+  });
+
+  it("never lets a deploy pass the hard cap, even with a raised budget", () => {
+    expect(uploadAllowed(FREE.classA * HARD_CAP - 10, 10, 0.99)).toBe(true);
+    expect(uploadAllowed(FREE.classA * HARD_CAP - 10, 11, 0.99)).toBe(false);
+    expect(HARD_CAP).toBeLessThan(1);
+  });
+});
+
+describe("billing period", () => {
+  it("counts from Cloudflare's billing day (the 10th), not the 1st of the month", () => {
+    expect(periodStart(new Date("2026-11-10T00:00:00Z")).toISOString()).toBe("2026-11-10T00:00:00.000Z");
+    expect(periodStart(new Date("2026-11-09T23:59:00Z")).toISOString()).toBe("2026-10-10T00:00:00.000Z");
+    expect(periodStart(new Date("2026-11-01T12:00:00Z")).toISOString()).toBe("2026-10-10T00:00:00.000Z"); // the bug: this was Nov 1
+    expect(periodStart(new Date("2027-01-05T08:00:00Z")).toISOString()).toBe("2026-12-10T00:00:00.000Z");
   });
 });
 

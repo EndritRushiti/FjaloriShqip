@@ -1,5 +1,9 @@
 /**
- * Checks this month's R2 usage against the free allowance, so the site never runs into paid usage.
+ * Checks this billing period's R2 usage against the free allowance, so the site never runs into paid usage.
+ *
+ * The period is Cloudflare's billing cycle, NOT the calendar month: the account is billed from the 10th to the 9th
+ * (invoice IN-88218296, Oct 10–Nov 9 2026). Counting from the 1st missed October 10–31, and that cycle went over the
+ * free 1,000,000 Class A operations ($4.50). Set R2_BILLING_DAY if Cloudflare ever moves the cycle.
  *
  *   npx tsx scripts/usage-guard.ts
  *   npx tsx scripts/usage-guard.ts --budget 12345   can a deploy upload 12,345 more files this month? (exit 0 or 5)
@@ -15,19 +19,30 @@
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";
 
-/** Cloudflare's free R2 allowance per month (Standard storage class). */
+/** Cloudflare's free R2 allowance per billing period (Standard storage class). */
 export const FREE = { classA: 1_000_000, classB: 10_000_000, storageBytes: 10 * 1e9 };
 export const WARN = 0.8;
 export const STOP = 0.95;
 /**
- * A deploy may only upload while this month's Class A operations, plus its own uploads, stay under this share.
- * It leaves 20% for the Worker's own writes (counters, sign-ups, reports) and for a fix later in the month.
+ * A deploy may only upload while this period's Class A operations, plus its own uploads, stay under this share.
+ * It leaves 25% for the Worker's own writes (counters, sign-ups, reports), for the analytics running a few hours
+ * behind, and for a fix later in the period.
  */
-export const UPLOAD_BUDGET = 0.8;
+export const UPLOAD_BUDGET = 0.75;
+/** A ceiling no deploy may pass, even if UPLOAD_BUDGET is raised by hand for one deploy. */
+export const HARD_CAP = 0.9;
 
-/** Whether `planned` more uploads fit in this month's budget, given `used` Class A operations so far. */
-export function uploadAllowed(used: number, planned: number): boolean {
-  return used + planned <= FREE.classA * UPLOAD_BUDGET;
+/** Whether `planned` more uploads fit in this period's budget, given `used` Class A operations so far. */
+export function uploadAllowed(used: number, planned: number, budget = UPLOAD_BUDGET): boolean {
+  return used + planned <= FREE.classA * Math.min(budget, HARD_CAP);
+}
+
+/** The day of the month the Cloudflare billing cycle starts (the invoice says Oct 10–Nov 9). */
+export const BILLING_DAY = Number(process.env.R2_BILLING_DAY ?? 10);
+/** Start of the current billing period (UTC midnight of the last billing day on or before `now`). */
+export function periodStart(now: Date, day = BILLING_DAY): Date {
+  const y = now.getUTCFullYear(), m = now.getUTCMonth();
+  return now.getUTCDate() >= day ? new Date(Date.UTC(y, m, day)) : new Date(Date.UTC(y, m - 1, day));
 }
 
 // R2 pricing: which operations are billed as Class A or Class B (the rest, like deletes, are free)
@@ -91,7 +106,7 @@ interface GraphqlResult {
 }
 
 export async function fetchUsage(account: string, token: string, now = new Date()): Promise<Usage> {
-  const start = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1)).toISOString();
+  const start = periodStart(now).toISOString();
   const res = await fetch("https://api.cloudflare.com/client/v4/graphql", {
     method: "POST",
     headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
@@ -122,7 +137,7 @@ async function main() {
     const planned = Number(process.argv[i + 1]);
     if (!Number.isFinite(planned) || planned < 0) throw new Error("--budget needs the number of files to upload");
     const ok = uploadAllowed(u.classA, planned);
-    const line = `Uploads this month: ${u.classA.toLocaleString("en")} used + ${planned.toLocaleString("en")} for this deploy = ${pct(u.classA + planned, FREE.classA)} of the free ${FREE.classA.toLocaleString("en")} (limit for deploys: ${UPLOAD_BUDGET * 100}%) → ${ok ? "OK" : "TOO MANY, nothing uploaded"}`;
+    const line = `Uploads this billing period (since the ${BILLING_DAY}th): ${u.classA.toLocaleString("en")} used + ${planned.toLocaleString("en")} for this deploy = ${pct(u.classA + planned, FREE.classA)} of the free ${FREE.classA.toLocaleString("en")} (limit for deploys: ${Math.min(UPLOAD_BUDGET, HARD_CAP) * 100}%) → ${ok ? "OK" : "TOO MANY, nothing uploaded"}`;
     console.log(line);
     if (process.env.GITHUB_STEP_SUMMARY) fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, line + "\n");
     process.exitCode = ok ? 0 : 5;
@@ -130,9 +145,9 @@ async function main() {
   }
   const status = decide(u);
   const report = [
-    `## R2 usage this month: ${status}`,
+    `## R2 usage this billing period (since the ${BILLING_DAY}th): ${status}`,
     "",
-    "| | Used | Free each month | Share |",
+    "| | Used | Free each period | Share |",
     "|---|---|---|---|",
     `| Class A (uploads, lists) | ${u.classA.toLocaleString("en")} | ${FREE.classA.toLocaleString("en")} | ${pct(u.classA, FREE.classA)} |`,
     `| Class B (reads) | ${u.classB.toLocaleString("en")} | ${FREE.classB.toLocaleString("en")} | ${pct(u.classB, FREE.classB)} |`,

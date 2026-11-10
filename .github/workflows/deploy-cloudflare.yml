@@ -39,13 +39,13 @@ jobs:
           check-latest: true
           cache: npm
       - run: npm ci
-      - name: Check this month's free R2 usage (deploys stop at 95%)
+      - name: Check this billing period's free R2 usage (deploys stop at 95%)
         env:
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
         run: |
           code=0
           npx tsx scripts/usage-guard.ts || code=$?
-          if [ "$code" = 2 ]; then echo "::error::Over 95% of the free R2 reads or storage this month: deploy blocked until next month."; exit 1; fi
+          if [ "$code" = 2 ]; then echo "::error::Over 95% of the free R2 reads or storage this billing period: deploy blocked until the next billing period (the 10th)."; exit 1; fi
           if [ "$code" = 4 ]; then
             # uploads used up: no file goes to R2, but the zone rules and the Worker (with its R2 writes off) still
             # update, since neither touches R2; no cache purge (that would make Cloudflare read every page again)
@@ -56,11 +56,11 @@ jobs:
             else
               npx --yes wrangler@4 deploy --var "R2_WRITES:off"
             fi
-            echo "::error::Over 95% of the free R2 uploads this month: rules and Worker updated, no files uploaded until next month."
+            echo "::error::Over 95% of the free R2 uploads this billing period: rules and Worker updated, no files uploaded until the next billing period (the 10th)."
             exit 1
           fi
           if [ "$code" = 3 ]; then echo "::error::Could not read the usage from Cloudflare (check the API token permissions)."; exit 1; fi
-          if [ "$code" = 1 ]; then echo "::warning::Over 80% of a free R2 allowance this month."; fi
+          if [ "$code" = 1 ]; then echo "::warning::Over 80% of a free R2 allowance this billing period."; fi
       - run: npm test
       - run: npm run sources
       - run: npm run data
@@ -81,7 +81,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq rclone
           # Upload budget: count exactly which files would be uploaded (a dry run only lists the bucket, about one
-          # call per 1,000 files) and upload nothing if this month's uploads would then pass 80% of the free allowance
+          # call per 1,000 files) and upload nothing if this billing period's uploads would then pass 75% of the free allowance
           # (scripts/usage-guard.ts --budget). A text change in the page layout touches every page (~94,000 files).
           rclone sync dist r2:fjalorishqip --checksum --no-unicode-normalization --fast-list --checkers 64 --dry-run \
             --log-level NOTICE --log-file dryrun.log || { echo "::error::Could not compare with the bucket."; exit 1; }
@@ -89,8 +89,8 @@ jobs:
           echo "Files to upload: $planned"
           code=0
           npx tsx scripts/usage-guard.ts --budget "$planned" || code=$?
-          if [ "$code" = 5 ]; then echo "::error::This deploy would upload $planned files and pass 80% of this month's free uploads: nothing was uploaded. Deploy again next month, or make the change smaller."; exit 1; fi
-          if [ "$code" != 0 ]; then echo "::error::Could not check this month's uploads: nothing was uploaded."; exit 1; fi
+          if [ "$code" = 5 ]; then echo "::error::This deploy would upload $planned files and pass 75% of this billing period's free uploads: nothing was uploaded. Deploy again in the next billing period (from the 10th), or make the change smaller."; exit 1; fi
+          if [ "$code" != 0 ]; then echo "::error::Could not check this billing period's uploads: nothing was uploaded."; exit 1; fi
           # --checksum: only files whose content changed are uploaded; files no longer built are removed afterwards
           # --no-unicode-normalization: names are compared exactly, so a page stored with decomposed letters (e + ̈) is replaced by the composed one (ë) that browsers ask for
           rclone sync dist r2:fjalorishqip --checksum --no-unicode-normalization --fast-list --transfers 32 --checkers 64 --stats-one-line --stats 30s \
