@@ -6,7 +6,7 @@
  * free 1,000,000 Class A operations ($4.50). Set R2_BILLING_DAY if Cloudflare ever moves the cycle.
  *
  *   npx tsx scripts/usage-guard.ts
- *   npx tsx scripts/usage-guard.ts --budget 12345   can a deploy upload 12,345 more files this month? (exit 0 or 5)
+ *   npx tsx scripts/usage-guard.ts --budget 12345   can a deploy upload 12,345 more files this billing period? (exit 0 or 5)
  *
  * Needs CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN (the token needs "Account Analytics: Read").
  * Exit code: 0 = fine, 1 = warning (≥ WARN of an allowance used), 2 = stop (≥ STOP of reads or storage used),
@@ -14,7 +14,7 @@
  * 5 = with --budget: this deploy's uploads would take Class A over UPLOAD_BUDGET.
  * The workflow .github/workflows/usage-guard.yml takes the site offline on exit code 2 only: visitors only read, so
  * when just the Class A allowance (uploads, writes) is used up, the site stays online while deploys and the Worker's
- * own writes (reports, notification sign-ups, open counter) stop until the next month.
+ * own writes (reports, notification sign-ups, open counter) stop until the next period starts on the 10th.
  */
 import fs from "node:fs";
 import { pathToFileURL } from "node:url";

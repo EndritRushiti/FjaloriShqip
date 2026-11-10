@@ -35,7 +35,7 @@ export interface Env {
   /** Contact form: the send_email binding and its destination (both added at deploy from a GitHub secret). */
   CONTACT?: EmailSender;
   CONTACT_TO?: string;
-  /** "off" when the month's free R2 writes (Class A) are used up: reports, sign-ups and the open counter stop writing (usage-guard.yml). */
+  /** "off" when the billing period's (from the 10th) free R2 writes (Class A) are used up: reports, sign-ups and the open counter stop writing (usage-guard.yml). */
   R2_WRITES?: string;
   /** Reports and suggestions from the word pages (a private bucket; src/worker/report.ts). */
   REPORTS?: ReportBucket & PushBucket;
@@ -182,7 +182,7 @@ export default {
    * morning and evening hour the next batch of daily notifications (src/worker/push.ts).
    */
   async scheduled(event: { cron?: string }, env: Env): Promise<void> {
-    // the month's free R2 writes are used up: no R2 calls at all until the next month (usage-guard.yml)
+    // this billing period's free R2 writes are used up: no R2 calls at all until the next period starts on the 10th (usage-guard.yml)
     if (env.R2_WRITES === "off") return;
     if (event.cron === WEEKLY_CRON) await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO, new Date(), await weeklyStats(env.REPORTS));
     else await sendBatch(env.REPORTS);
