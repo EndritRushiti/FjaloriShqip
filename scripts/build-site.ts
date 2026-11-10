@@ -247,7 +247,6 @@ ${(opts.structured ?? []).map(jsonLd).join("\n")}
         <li><a href="${url("/")}">${t("home")}</a></li>
         <li><a href="${url("/shkronja/a/")}">${bi("Shfleto sipas shkronjës", "Browse by letter")}</a></li>
         <li><a href="#" class="random-word">${t("randomWord")}</a></li>
-        <li><a href="${url("/aplikacioni/")}">${bi("Aplikacioni dhe njoftimet", "App and notifications")}</a></li>
       </ul>
     </div>
     <div>
@@ -1055,7 +1054,6 @@ function homePage(): string {
     ${featureTile(icon.layers(24), bi("Zgjedhimi dhe lakimi", "Conjugation and declension"), bi("Të gjitha kohët e foljeve dhe rasat e emrave.", "Every verb tense and every noun case."), url("/fjala/punoj/"))}
     ${featureTile(icon.map(24), bi("Dialektet", "Dialects"), bi("Fjalët gege, toske, arbëreshe e arvanitase dhe fjalët e vjetra, të ruajtura e të lidhura me fjalën standarde.", "Gheg, Tosk, Arbëresh and Arvanitika words and old words, kept and linked to the standard word."), url("/fjala/n%C3%ABn%C3%AB/"))}
     ${featureTile(icon.code(24), bi("API falas", "Free API"), bi("JSON statik për aplikacionet tuaja, pa çelës.", "Static JSON for your apps, no key needed."), url("/api/"))}
-    ${featureTile(icon.bell(24), bi("Aplikacioni dhe njoftimet", "App and notifications"), bi("Instaloni fjalorin në telefon dhe merrni fjalën e ditës çdo mëngjes.", "Install the dictionary on your phone and get the word of the day every morning."), url("/aplikacioni/"))}
   </div>
 </section>
 
@@ -1701,10 +1699,6 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
       "<b>The contact form</b> sends your message to the author by email, so the author can reply; the dictionary does not keep it.",
     )}</li>
     <li>${biHtml(
-      "<b>Njoftimet ditore</b>, nëse i aktivizoni, ruajnë vetëm adresën që shfletuesi juaj krijon për njoftimet. Kur i çaktivizoni, fshihet.",
-      "<b>Daily notifications</b>, if you turn them on, keep only the address your browser creates for notifications. When you turn them off, it is deleted.",
-    )}</li>
-    <li>${biHtml(
       "<b>PayPal.</b> Butoni i mbështetjes ju çon te faqja e PayPal-it, pagesa dhe të dhënat e saj mbeten te PayPal-i.",
       "<b>PayPal.</b> The support button takes you to PayPal's site; the payment and its details stay with PayPal.",
     )}</li>
@@ -1943,7 +1937,7 @@ function apiWord(w: Word): object {
   console.log(`source pages: ${sourcePages.length}`);
   write("api/index.html", apiPage());
   write("rreth/index.html", aboutPage());
-  write("aplikacioni/index.html", appPage());
+  // the app and notifications page is not offered for now (appPage is kept for later)
   write("kerko/index.html", searchPage());
   write("404.html", notFoundPage());
   movedPages();
@@ -2066,7 +2060,7 @@ function apiWord(w: Word): object {
 
   // ── search engines: sitemaps and robots.txt ──
   // every page that should be found: home, info pages, letter pages and all word pages
-  const pages = ["/", "/burimet/", ...SOURCE_STORIES.map((x) => `/burimet/${x.slug}/`), "/api/", "/rreth/", "/aplikacioni/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
+  const pages = ["/", "/burimet/", ...SOURCE_STORIES.map((x) => `/burimet/${x.slug}/`), "/api/", "/rreth/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
   for (const l of ALPHABET) {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);
@@ -2144,7 +2138,6 @@ function apiWord(w: Word): object {
         description: "Fjalori i hapur i gjuhës shqipe: çdo fjalë shqipe në çdo dialekt, me përshkrimin në shqip, dhe fjala e ditës.",
         shortcuts: [
           { name: "Kërko", url: url("/kerko/") },
-          { name: "Aplikacioni dhe njoftimet", url: url("/aplikacioni/") },
         ],
         icons: [
           { src: url("/icon-192.png"), sizes: "192x192", type: "image/png", purpose: "any" },
