@@ -16,6 +16,13 @@ describe("cloudflare setup rules", () => {
     for (const list of Object.values(await rules())) for (const rule of list) expect(rule.expression).toContain('http.host eq "fjalorishqip.org"');
   });
 
+  it("drops a query on pages so it cannot bypass the cache, but not on the Worker's addresses or versioned files", async () => {
+    const rule = (await rules()).http_request_transform[0];
+    expect(rule.action_parameters).toEqual({ uri: { query: { value: "" } } });
+    for (const p of ["/kontakt", "/raporto", "/si-e-thua", "/njoftime", "/hap"]) expect(rule.expression).toContain(`"${p}"`);
+    expect(rule.expression).toContain('not http.request.uri.query contains "v="');
+  });
+
   it("sends the page CSP with the hash of the inline head script", async () => {
     const headers = (await rules()).http_response_headers_transform[0].action_parameters.headers as Record<string, { value: string }>;
     expect(headers["Content-Security-Policy"].value).toMatch(/script-src 'self' 'sha256-[A-Za-z0-9+/=]+'/);

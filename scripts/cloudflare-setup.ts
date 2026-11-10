@@ -50,6 +50,15 @@ export async function rules(): Promise<Record<string, Rule[]>> {
   return {
     http_request_transform: [
       {
+        // the bucket ignores a query anyway, but Cloudflare's cache does not: /?x=1, /?x=2 … would each be a new read
+        // from R2. Without the query every address is one cached copy. The Worker's addresses keep theirs
+        // (/hap?burim=app), and so do versioned files (style.css?v=…); the search page reads ?q= in the browser.
+        description: "FjaloriShqip: drop the query on pages and files, so it cannot bypass the cache",
+        expression: `(${onHost} and http.request.uri.query ne "" and not ${versioned} and not ${path} in {"/kontakt" "/raporto" "/si-e-thua" "/njoftime" "/hap"})`,
+        action: "rewrite",
+        action_parameters: { uri: { query: { value: "" } } },
+      },
+      {
         description: "FjaloriShqip: a folder → its index.html in the bucket",
         expression: `(${onHost} and ends_with(${path}, "/"))`,
         action: "rewrite",

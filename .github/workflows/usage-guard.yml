@@ -1,4 +1,6 @@
-# Daily check that the site stays inside Cloudflare's free R2 allowance (scripts/usage-guard.ts).
+# Hourly check that the site stays inside Cloudflare's free R2 allowance (scripts/usage-guard.ts). Every hour it acts at once
+# when an allowance reaches 95% (offline page, or the Worker's writes off); warnings, the email of a failed run and the
+# normal Worker redeploy happen only in the 06:00 UTC run (or a run started by hand), so there is no hourly email.
 #   under 80%  → the Worker is (re)deployed normally, so the site comes back online in the next billing period (from the 10th)
 #   80% – 95%  → this run fails, so GitHub sends an email
 #   95% of Class A (uploads/writes) → the site stays online (visitors only read); the Worker is deployed with its own
@@ -8,7 +10,7 @@
 name: Cloudflare usage guard
 on:
   schedule:
-    - cron: "0 6 * * *" # every day
+    - cron: "0 * * * *" # every hour (a sudden flood of requests is caught within the hour)
   workflow_dispatch:
 permissions:
   contents: read
@@ -35,11 +37,13 @@ jobs:
           code=0
           npx tsx scripts/usage-guard.ts || code=$?
           echo "code=$code" >> "$GITHUB_OUTPUT"
+          # the daily run: 06:00 UTC, or started by hand
+          if [ "$GITHUB_EVENT_NAME" != schedule ] || [ "$(date -u +%H)" = 06 ]; then echo "daily=1" >> "$GITHUB_OUTPUT"; else echo "daily=0" >> "$GITHUB_OUTPUT"; fi
       - name: Take the site offline (95% of a free allowance used)
         if: steps.guard.outputs.code == '2'
         run: npx --yes wrangler@4 deploy --env offline
       - name: Keep the site online (remove the offline Worker if it is there)
-        if: steps.guard.outputs.code == '0' || steps.guard.outputs.code == '1' || steps.guard.outputs.code == '4'
+        if: steps.guard.outputs.code == '4' || (steps.guard.outputs.daily == '1' && (steps.guard.outputs.code == '0' || steps.guard.outputs.code == '1'))
         env:
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
         run: |
@@ -56,7 +60,8 @@ jobs:
             npx --yes wrangler@4 deploy --var "R2_WRITES:$writes"
           fi
       - name: Report
-        if: steps.guard.outputs.code != '0'
+        # the daily run reports every problem; the hourly runs only the urgent ones (offline, writes off)
+        if: steps.guard.outputs.code != '0' && (steps.guard.outputs.daily == '1' || steps.guard.outputs.code == '2' || steps.guard.outputs.code == '4')
         run: |
           case "${{ steps.guard.outputs.code }}" in
             1) echo "::error::Over 80% of a free R2 allowance this billing period (see the summary)." ;;
