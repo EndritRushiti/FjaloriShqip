@@ -16,7 +16,7 @@ import { type MapForm, PLACES, placeList, wordMapSvg } from "../src/site/harta.j
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
-import { lev, onMap, plainOfInflected, standardReading } from "./lib/inflected-form.js";
+import { inflectedForm, lev, onMap, plainOfInflected, standardReading } from "./lib/inflected-form.js";
 import { relatedMeaning } from "./lib/related-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -930,12 +930,21 @@ function sameMeaningCard(w: Word): string {
   if (fam) {
     rows.push(row(bi("Fjala kryesore", "Main word"), chip(fam.main.word, " main"), " main-row"));
     if (fam.others.length) rows.push(row(bi("Fjalë të tjera me të njëjtin kuptim", "Other words with the same meaning"), fam.others.map((x) => chip(x)).join("")));
+    // the place (or old writer) a dialect book gives for the form: dinok (Krujë), agjnoj (Budi)
+    const place = (x: string) => (placeOf.has(x) ? `<small>${h(placeOf.get(x)!)}</small>` : "");
+    const placed = (x: string) => chip(x, "", false).replace(/<\/(a|span)>$/, `${place(x)}</$1>`);
+    // each dialect's row holds the ways it says the word (des for vdes); its inflected forms (vdekuna, vdig) come after
+    const inflected: [string, Dialect][] = [];
     for (const d of DIALECT_ORDER) {
-      const forms = [...fam.dialects].filter(([, ds]) => ds.includes(d)).map(([f]) => f);
-      // the place (or old writer) a dialect book gives for the form: dinok (Krujë), agjnoj (Budi)
-      const place = (x: string) => (placeOf.has(x) ? `<small>${h(placeOf.get(x)!)}</small>` : "");
-      if (forms.length) rows.push(row(`<span class="dialect-dot ${d}"></span>${t(d)}`, forms.slice(0, 12).map((x) => chip(x, "", false).replace(/<\/(a|span)>$/, `${place(x)}</$1>`)).join("")));
+      const all = [...fam.dialects].filter(([, ds]) => ds.includes(d)).map(([f]) => f);
+      // an inflected form of the main word or of another word of the family (ngordhun of ngordh)
+      const kin = [fam.main, ...fam.others.map((o) => byWord.get(o)).filter((o): o is Word => !!o)];
+      const forms = all.filter((x) => !kin.some((k) => inflectedForm(x, k)));
+      for (const x of all) if (!forms.includes(x)) inflected.push([x, d]);
+      if (forms.length) rows.push(row(`<span class="dialect-dot ${d}"></span>${t(d)}`, forms.slice(0, 12).map(placed).join("")));
     }
+    if (inflected.length)
+      rows.push(row(bi("Forma të fjalës në dialekte", "Forms of the word in the dialects"), inflected.slice(0, 12).map(([x, d]) => chip(x, "", false).replace(/<\/(a|span)>$/, `<small><span class="dialect-dot ${d}" aria-hidden="true"></span> ${t(d)}${placeOf.has(x) ? ` · ${h(placeOf.get(x)!)}` : ""}</small></$1>`)).join("")));
     if (fam.other.length) rows.push(row(bi("Për kuptimet e tjera", "For its other meanings"), fam.other.slice(0, 4).map((x) => chip(x, " also")).join("")));
   }
   if (root.length) rows.push(row(bi("Fjalë nga e njëjta rrënjë", "Words from the same root"), root.map((x) => chip(x, " also")).join("")));
@@ -1876,7 +1885,7 @@ function movedPages(): void {
     const target = wordUrl(main);
     write(
       `fjala/${slug(form)}/index.html`,
-      `<!doctype html><html lang="sq"><head><meta charset="utf-8"><title>${h(form)}: ${h(main)}</title><link rel="canonical" href="${SITE_URL}${target}"><meta http-equiv="refresh" content="0;url=${target}"></head><body><p><a href="${target}">${h(main)}</a></p></body></html>`,
+      `<!doctype html><html lang="sq"><head><meta charset="utf-8"><title>${h(form)}: ${h(main)}</title><meta name="description" content="«${h(form)}» është një formë e fjalës «${h(main)}»."><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="canonical" href="${SITE_URL}${target}"><meta http-equiv="refresh" content="0;url=${target}"></head><body><p><a href="${target}">${h(main)}</a></p></body></html>`,
     );
     n++;
   }
