@@ -16,7 +16,7 @@ import { type MapForm, PLACES, placeList, wordMapSvg } from "../src/site/harta.j
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
-import { lev, onMap, standardReading } from "./lib/inflected-form.js";
+import { lev, onMap, plainOfInflected, standardReading } from "./lib/inflected-form.js";
 import { relatedMeaning } from "./lib/related-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -860,6 +860,14 @@ function mapCard(w: Word): string {
   // or another word with the same meaning (kath for mjegull)
   const forms: MapForm[] = (mapFormsOf.get(main.word) ?? []).filter((x) => onMap(x.form, main));
   for (const d of main.dialects ?? []) if (onMap(d.form, main) && !forms.some((x) => x.form === d.form && x.dialect === d.dialect)) forms.push({ form: d.form, dialect: d.dialect, places: [] });
+  // an inflected form that shows the plain word with a regular sound change (Kosovo kapuqi → kapuq): the plain form
+  for (const x of mapFormsOf.get(main.word) ?? []) {
+    const plain = onMap(x.form, main) ? undefined : plainOfInflected(x.form, main);
+    if (!plain) continue;
+    const e = forms.find((y) => y.form === plain && y.dialect === x.dialect);
+    if (e) { for (const p of x.places) if (!e.places.includes(p)) e.places.push(p); }
+    else forms.push({ form: plain, dialect: x.dialect, places: [...x.places] });
+  }
   if (!forms.length) return "";
   // the form nearest the standard word first: it is the one written in the dialect's area
   const near = (f: string) => lev(standardReading(f, main), main.word);

@@ -40,3 +40,13 @@ describe("onMap", () => {
     expect(onMap("kath", word("mjegull", "noun", ["mjegulla"]))).toBe(false);
   });
 });
+
+describe("plainOfInflected", () => {
+  it("finds the plain Gheg word in a case form, when only regular sound changes differ", async () => {
+    const { plainOfInflected } = await import("../scripts/lib/inflected-form.js");
+    const kapuc = word("kapuç", "noun", ["kapuça", "kapuçi", "kapuçin", "kapuçat"]);
+    expect(plainOfInflected("kapuqi", kapuc)).toBe("kapuq");
+    expect(plainOfInflected("kapuqin", kapuc)).toBe("kapuq");
+    expect(plainOfInflected("kath", kapuc)).toBeUndefined();
+  });
+});

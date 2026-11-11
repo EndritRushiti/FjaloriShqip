@@ -86,3 +86,24 @@ export function sameWord(form: string, w: Word): boolean {
 export function onMap(form: string, w: Word): boolean {
   return sameWord(form, w) && !inflectedForm(form, w);
 }
+
+/** Gheg sounds read the standard way: Kosovo q for ç and gj for xh (kapuq = kapuç), nasal vowels plain. */
+const ghegToStandard = (x: string) =>
+  [x, x.replace(/q/g, "ç"), x.replace(/gj/g, "xh"), x.replace(/q/g, "ç").replace(/gj/g, "xh")];
+/**
+ * The plain word hidden in an inflected form, when that is certain: the form minus a case ending
+ * (kapuqi, kapuqin → kapuq) is the standard word with only the regular Gheg sound changes (ç → q, xh → gj,
+ * nasal vowels). The map then shows the plain form in the place the source names. Nothing is guessed beyond that.
+ */
+export function plainOfInflected(form: string, w: Word): string | undefined {
+  if (!w.entries.some((e) => e.pos === "noun") || !inflectedForm(form, w)) return undefined;
+  const plain = form.toLowerCase().normalize("NFC").replace(/[âáà]/g, "a").replace(/[êéè]/g, "e").replace(/[îí]/g, "i").replace(/[ôó]/g, "o").replace(/[ûú]/g, "u").replace(/ŷ/g, "y");
+  const word = w.word.toLowerCase();
+  for (const end of ["it", "in", "in", "un", "ja", "në", "ën", "i", "u", "a"]) {
+    if (!plain.endsWith(end)) continue;
+    const base = form.slice(0, form.length - end.length);
+    const read = plain.slice(0, plain.length - end.length);
+    if (read.length >= 3 && ghegToStandard(read).includes(word)) return base;
+  }
+  return undefined;
+}
