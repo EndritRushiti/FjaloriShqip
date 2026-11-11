@@ -79,7 +79,13 @@ jobs:
           RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
           RCLONE_CONFIG_R2_NO_CHECK_BUCKET: "true"
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq rclone
+          # rclone from Ubuntu's packages; if apt fails (it did on 11 Nov 2026, exit code 100, while GitHub moved its
+          # runners to a new Ubuntu), the official build is downloaded instead
+          if ! (sudo apt-get update -qq && sudo apt-get install -y -qq rclone); then
+            curl -fsSL -o rclone.zip https://downloads.rclone.org/v1.68.2/rclone-v1.68.2-linux-amd64.zip
+            unzip -q rclone.zip && sudo install -m 755 rclone-v1.68.2-linux-amd64/rclone /usr/local/bin/rclone
+          fi
+          rclone version | head -1
           # Upload budget: count exactly which files would be uploaded (a dry run only lists the bucket, about one
           # call per 1,000 files) and upload nothing if this billing period's uploads would then pass 75% of the free allowance
           # (scripts/usage-guard.ts --budget). A text change in the page layout touches every page (~94,000 files).
