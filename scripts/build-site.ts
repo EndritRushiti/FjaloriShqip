@@ -16,7 +16,7 @@ import { type MapForm, PLACES, placeList, wordMapSvg } from "../src/site/harta.j
 import { FORM_TAG_SQ, formsHtml } from "../src/site/tables.js";
 import { addDays, calendar, type DailyDay, dayOf, hash, shuffled, todayInAlbania } from "./lib/daily.js";
 import { deriveMeaning } from "./lib/derive-meaning.js";
-import { inflectedForm, lev, onMap, plainOfInflected, standardReading } from "./lib/inflected-form.js";
+import { inflectedForm, lev, onMap, plainOfInflected, sameWord, standardReading } from "./lib/inflected-form.js";
 import { relatedMeaning } from "./lib/related-meaning.js";
 import { HIDDEN_TAGS, LANGUAGE_SQ, TAG_SQ } from "./lib/labels.js";
 
@@ -855,7 +855,9 @@ const mapFormsOf = new Map<string, MapForm[]>();
 }
 function mapCard(w: Word): string {
   const fam = family(w);
-  const main = fam?.main ?? w;
+  // the map is about this page's word: the family's main word only when it is the same word spelled another way
+  // (nênvizoj → nënvizoj), never a word with the same meaning (domosdoshmëri is not kusht)
+  const main = fam && fam.main !== w && sameWord(w.word, fam.main) ? fam.main : w;
   // the map shows the word as each dialect says it (Gheg des for vdes): never an inflected form (vdekuna, vdig)
   // or another word with the same meaning (kath for mjegull)
   const forms: MapForm[] = (mapFormsOf.get(main.word) ?? []).filter((x) => onMap(x.form, main));
@@ -868,6 +870,14 @@ function mapCard(w: Word): string {
     if (e) { for (const p of x.places) if (!e.places.includes(p)) e.places.push(p); }
     else forms.push({ form: plain, dialect: x.dialect, places: [...x.places] });
   }
+  // a dialect word's own page (lângcinë, or nênvizoj for nënvizoj): the word itself, in its dialect, where the books place it
+  // the family card's dialect forms that are this same word (nênvizoj on the page of nënvizoj)
+  for (const [form, ds] of fam?.dialects ?? [])
+    if (onMap(form, main)) for (const d of ds) if (!forms.some((y) => y.form === form && y.dialect === d)) forms.push({ form, dialect: d, places: placeOf.has(form) && PLACES[placeOf.get(form)!] ? [placeOf.get(form)!] : [] });
+  for (const x of main === w ? [w] : [main, w])
+    for (const d of x.dialectOnly ?? [])
+      if ((x === main || onMap(x.word, main)) && !forms.some((y) => y.form === x.word && y.dialect === d))
+        forms.push({ form: x.word, dialect: d, places: placeOf.has(x.word) && PLACES[placeOf.get(x.word)!] ? [placeOf.get(x.word)!] : [] });
   if (!forms.length) return "";
   // the form nearest the standard word first: it is the one written in the dialect's area
   const near = (f: string) => lev(standardReading(f, main), main.word);
@@ -875,7 +885,8 @@ function mapCard(w: Word): string {
   const places = placeList(forms);
   const dialects = DIALECT_ORDER.filter((d) => forms.some((x) => x.dialect === d));
   // the standard language is built on Tosk: with no other Tosk form, the south shows the standard word
-  const same: Dialect[] = dialects.includes("tosk") ? [] : ["tosk"];
+  // (not for a word that only a dialect has: it has no standard form to show)
+  const same: Dialect[] = dialects.includes("tosk") || main.dialectOnly?.length ? [] : ["tosk"];
   // other dialects we hold no form for: nothing is drawn there, the legend only asks
   const unknown = DIALECT_ORDER.filter((d) => !dialects.includes(d) && !same.includes(d));
   const formLink = (x: string) => (byWord.has(x) && x !== w.word ? `<a href="${wordUrl(x)}" lang="sq">${h(x)}</a>` : `<b lang="sq">${h(x)}</b>`);

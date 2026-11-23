@@ -1127,6 +1127,9 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
   const toAlbanian = (s: string) =>
     s.normalize("NFD").replace(/[́̀̄̆]/g, "").replace(/([aeiouy])̃/g, "$1̂").normalize("NFC");
   const albanianForm = (s: string) => /^[a-zA-ZëËçÇâêîôûŷÂÊÎÔÛ' -]+$/.test(s);
+  // a grammar note read as a form ("present infinitive me u fry" for fryhem): not a word
+  // whole words only, with ë and ç counted as letters (pastërmoj is a word, not "past")
+  const note = (s: string) => /(?<!\p{L})(infinitive|participle|present|past|plural|singular|imperative|aorist|feminine|masculine)(?!\p{L})/iu.test(s);
   let marked = 0, droppedForms = 0, droppedNotes = 0;
   for (const w of words.values()) {
     for (const e of w.entries) {
@@ -1144,7 +1147,7 @@ function addHunspell(d: Deduper, dic: Set<string>): number {
       const seen = new Set<string>();
       w.dialects = w.dialects
         .map((d) => { const c = toAlbanian(d.form); if (c !== d.form) marked++; return { ...d, form: c }; })
-        .filter((d) => { const ok = albanianForm(d.form) && d.form !== w.word && !seen.has(d.form + "|" + d.dialect); if (!ok) droppedForms++; seen.add(d.form + "|" + d.dialect); return ok; });
+        .filter((d) => { const ok = albanianForm(d.form) && !note(d.form) && d.form !== w.word && !seen.has(d.form + "|" + d.dialect); if (!ok) droppedForms++; seen.add(d.form + "|" + d.dialect); return ok; });
       if (!w.dialects.length) delete w.dialects;
     }
   }
