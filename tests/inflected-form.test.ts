@@ -50,3 +50,25 @@ describe("plainOfInflected", () => {
     expect(plainOfInflected("kath", kapuc)).toBeUndefined();
   });
 });
+
+describe("onMap: second pass", () => {
+  const verb = (w: string) => word(w, "verb", []);
+  const noun = (w: string) => word(w, "noun", []);
+  it("keeps Gheg n for standard r and other dialect spellings of the word", async () => {
+    const { onMap } = await import("../scripts/lib/inflected-form.js");
+    expect(onMap("tanë", noun("tërë"))).toBe(true);
+    expect(onMap("vorfën", noun("varfër"))).toBe(true);
+    expect(onMap("jatër", noun("tjetër"))).toBe(true);
+  });
+  it("leaves out participles, personal endings and definite forms without a table", async () => {
+    const { onMap } = await import("../scripts/lib/inflected-form.js");
+    expect(onMap("prapshtue", verb("mbrapshtoj"))).toBe(false);
+    expect(onMap("thjeshtonjnë", verb("thjeshtëzoj"))).toBe(false);
+    expect(onMap("shtatzënsia", noun("shtatzëni"))).toBe(false);
+  });
+  it("leaves out a different word that only looks close", async () => {
+    const { onMap } = await import("../scripts/lib/inflected-form.js");
+    expect(onMap("përtim", noun("përtesë"))).toBe(false);
+    expect(onMap("njelm", noun("gjelbë"))).toBe(false);
+  });
+});

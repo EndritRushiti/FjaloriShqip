@@ -857,7 +857,9 @@ function mapCard(w: Word): string {
   const fam = family(w);
   // the map is about this page's word: the family's main word only when it is the same word spelled another way
   // (nênvizoj → nënvizoj), never a word with the same meaning (domosdoshmëri is not kusht)
-  const main = fam && fam.main !== w && sameWord(w.word, fam.main) ? fam.main : w;
+  // a page that is a recorded form of a word (ushtrojshim, «Formë gege e fjalës ushtroj») shows that word's map
+  const formOf = w.variantOf?.length ? byWord.get(w.variantOf[0].word) : undefined;
+  const main = formOf ?? (fam && fam.main !== w && sameWord(w.word, fam.main) ? fam.main : w);
   // the map shows the word as each dialect says it (Gheg des for vdes): never an inflected form (vdekuna, vdig)
   // or another word with the same meaning (kath for mjegull)
   const forms: MapForm[] = (mapFormsOf.get(main.word) ?? []).filter((x) => onMap(x.form, main));
@@ -1735,6 +1737,28 @@ ${SUPPORT_URL ? `<section class="card prose support-card" id="mbeshtet">
     "Faqja shërbehet nga Cloudflare, që për siguri përpunon përkohësisht adresën IP të çdo vizitori, si çdo faqe në internet. Për çdo pyetje, na shkruani nga formulari më sipër.",
     "The site is served by Cloudflare, which briefly processes every visitor's IP address for security, as for any website. For any question, write to us using the form above.",
   )}</p>
+</section>
+
+<section class="card prose" id="kushtet">
+  <h2>${icon.book(20)} ${bi("Kushtet e përdorimit", "Terms of use")}</h2>
+  <ul>
+    <li>${bi(
+      "Fjalori jepet falas dhe ashtu siç është. Bëjmë çmos që çdo fjalë të jetë e saktë, por nuk japim garanci, prandaj për përdorime zyrtare ose ligjore kontrolloni edhe një burim tjetër.",
+      "The dictionary is free and given as it is. We do our best for every word to be right, but give no guarantee, so for official or legal use check another source too.",
+    )}</li>
+    <li>${bi(
+      "Përmbajtja mund të ripërdoret lirisht sipas licencës CC BY-SA 4.0, duke përmendur FjaloriShqip dhe duke e ndarë me të njëjtën licencë. Disa fjalë vijnë nga burime me licencë tjetër, që shënohet te faqja e fjalës.",
+      "The content may be reused freely under the CC BY-SA 4.0 licence, by naming FjaloriShqip and sharing under the same licence. Some words come from sources with another licence, which is named on the word's page.",
+    )}</li>
+    <li>${bi(
+      "API-ja është falas dhe pa çelës, pa garanci se do të jetë gjithmonë e arritshme. Ju lutemi mos e ngarkoni me shumë kërkesa njëherësh.",
+      "The API is free and needs no key, with no guarantee that it will always be available. Please do not load it with many requests at once.",
+    )}</li>
+    <li>${bi(
+      "Nëse gjeni një gabim, na e tregoni te faqja e fjalës, me «Si e thua ti?» dhe pastaj «Ka një gabim në këtë fjalë?», ose me formularin e kontaktit më sipër.",
+      "If you find a mistake, tell us on the word's page, with «How do you say it?» and then «Is there a mistake in this word?», or with the contact form above.",
+    )}</li>
+  </ul>
 </section>`;
   return layout({
     title: "Rreth nesh — FjaloriShqip | About this Albanian dictionary",
@@ -1834,8 +1858,20 @@ function dialectRows(d: Dialect): { form: string; standard: string[]; own: boole
     .sort((a, b) => compareSq(a.form, b.form));
 }
 
-function dialectPage(d: Dialect, rows: ReturnType<typeof dialectRows>): string {
+/** A dialect with more forms than this is split into one page per letter (the Gheg list was 6 MB in one page, Arbëresh 0.6 MB). */
+const DIALECT_PAGE_MAX = 1000;
+/** The letters of each dialect that has letter pages (filled when the pages are written, read by the sitemap). */
+const dialectLetters = new Map<Dialect, string[]>();
+/** The address of a dialect's letter page: the first letter is the dialect's own page. */
+const dialectLetterPath = (d: Dialect, l: string, first: string) => (l === first ? `/dialekt/${DIALECT_INFO[d].slug}/` : `/dialekt/${DIALECT_INFO[d].slug}/${encodeURIComponent(l)}/`);
+function dialectPage(d: Dialect, all: ReturnType<typeof dialectRows>, letter?: string, letters: string[] = []): string {
   const info = DIALECT_INFO[d];
+  const rows = letter ? all.filter((r) => firstLetter(r.form) === letter) : all;
+  const first = letters[0] ?? "";
+  const nav = letter
+    ? `<nav class="letters" aria-label="${h("Alfabeti")}">${letters.map((l) => `<a href="${url(dialectLetterPath(d, l, first))}"${l === letter ? ' aria-current="page"' : ""}><span class="l">${h(l === "#" ? "#" : l.charAt(0).toUpperCase() + l.slice(1))}</span></a>`).join("")}</nav>`
+    : "";
+  const L = letter && letter !== "#" ? letter.charAt(0).toUpperCase() + letter.slice(1) : "";
   const formLink = (f: string) => (byWord.has(f) ? `<a href="${wordUrl(f)}" lang="sq">${h(f)}</a>` : `<span lang="sq">${h(f)}</span>`);
   const meaningOf = (f: string) => {
     const w = byWord.get(f);
@@ -1858,11 +1894,12 @@ function dialectPage(d: Dialect, rows: ReturnType<typeof dialectRows>): string {
 ${pageHead(
   `<span class="dialect-dot ${d}"></span>${t(d)}`,
   bi(
-    `${info.whereSq}. ${num(rows.length)} forma, pranë fjalës standarde, ose fjalë që përdoren vetëm në këtë dialekt.`,
-    `${info.whereEn}. ${num(rows.length)} forms: next to the standard word, or words used only in this dialect.`,
+    `${info.whereSq}. ${num(all.length)} forma, pranë fjalës standarde, ose fjalë që përdoren vetëm në këtë dialekt.${letter ? ` Këtu ${L ? `ato që nisin me ${L}` : "ato që nisin me shenja të tjera"}, ${num(rows.length)}.` : ""}`,
+    `${info.whereEn}. ${num(all.length)} forms: next to the standard word, or words used only in this dialect.${letter ? ` Here ${L ? `those starting with ${L}` : "those starting with other signs"}, ${num(rows.length)}.` : ""}`,
   ),
   bi("Fjalët sipas dialektit", "Words by dialect"),
 )}
+${nav}
 <div class="dialect-tools">
   <input type="search" class="dialect-filter" data-filter-list="dialect-list" placeholder="${h(`Kërko në ${info.sq.toLowerCase()}…`)}" data-placeholder-en="${h(`Search ${info.en}…`)}" aria-label="${h(`Kërko në ${info.sq.toLowerCase()} / Search ${info.en}`)}" autocomplete="off" spellcheck="false">
   <span class="dialect-count muted" data-count-for="dialect-list">${num(rows.length)}</span>
@@ -1876,10 +1913,10 @@ ${items}
   <p class="try">${others}</p>
 </section>`;
   return layout({
-    title: `${info.sq} — fjalët dhe format | FjaloriShqip`,
-    description: `${info.sq} (${info.en}), ${num(rows.length)} forma dialektore pranë fjalës standarde. ${info.whereSq}.`,
+    title: `${info.sq}${letter && letter !== first ? ` — ${L || "#"}` : ""} — fjalët dhe format | FjaloriShqip`,
+    description: `${info.sq} (${info.en}), ${num(all.length)} forma dialektore pranë fjalës standarde${letter ? `, këtu ${num(rows.length)} ${L ? `me ${L}` : "të tjera"}` : ""}. ${info.whereSq}.`,
     body,
-    canonical: `/dialekt/${info.slug}/`,
+    canonical: letter ? dialectLetterPath(d, letter, first) : `/dialekt/${info.slug}/`,
   });
 }
 
@@ -1971,10 +2008,17 @@ function apiWord(w: Word): object {
   movedPages();
   // one page per dialect (forms next to the standard word), and the same data for the API
   const dialectData: Record<string, { form: string; standard: string[]; own: boolean }[]> = {};
+  dialectLetters.clear();
   for (const d of DIALECT_ORDER) {
     const rows = dialectRows(d);
     dialectData[d] = rows;
-    write(`dialekt/${DIALECT_INFO[d].slug}/index.html`, dialectPage(d, rows));
+    if (rows.length <= DIALECT_PAGE_MAX) { write(`dialekt/${DIALECT_INFO[d].slug}/index.html`, dialectPage(d, rows)); continue; }
+    // a long list: one page per letter, the first letter on the dialect's own address
+    const present = new Set(rows.map((r) => firstLetter(r.form)));
+    const letters = [...ALPHABET, "#"].filter((l) => present.has(l));
+    dialectLetters.set(d, letters);
+    // folders with the letters themselves (ç, ë), as on the letter pages; the links encode them
+    for (const l of letters) write(`dialekt/${DIALECT_INFO[d].slug}/${l === letters[0] ? "" : `${l}/`}index.html`, dialectPage(d, rows, l, letters));
   }
   write("api/v1/dialekte.json", JSON.stringify(dialectData));
   const letterCount = letterPages();
@@ -2088,7 +2132,7 @@ function apiWord(w: Word): object {
 
   // ── search engines: sitemaps and robots.txt ──
   // every page that should be found: home, info pages, letter pages and all word pages
-  const pages = ["/", "/burimet/", ...SOURCE_STORIES.map((x) => `/burimet/${x.slug}/`), "/api/", "/rreth/", ...DIALECT_ORDER.map((d) => `/dialekt/${DIALECT_INFO[d].slug}/`)];
+  const pages = ["/", "/burimet/", ...SOURCE_STORIES.map((x) => `/burimet/${x.slug}/`), "/api/", "/rreth/", ...DIALECT_ORDER.flatMap((d) => { const ls = dialectLetters.get(d); return ls ? ls.map((l) => dialectLetterPath(d, l, ls[0])) : [`/dialekt/${DIALECT_INFO[d].slug}/`]; })];
   for (const l of ALPHABET) {
     const n = Math.max(1, Math.ceil((letterCounts.get(l) ?? 0) / PAGE_SIZE));
     for (let p = 1; p <= n; p++) pages.push(`/shkronja/${encodeURIComponent(l)}/${p === 1 ? "" : `${p}/`}`);

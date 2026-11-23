@@ -53,10 +53,18 @@ export function inflectedForm(form: string, w: Word): boolean {
     // longer than the word, but not the Gheg first person (punonj for punoj), which is the word itself
     if (s.length > w.word.length - 1 && !/nj$/.test(s) && s !== w.word && stems(stem).concat(stems(stemU)).some((x) => s.startsWith(x) && s.length > x.length + 1)) return true;
   }
+  // a verb in -oj or -uaj: its participle (prapshtue, inkurajue, gropuem → -uar) or a personal ending
+  // (thjeshtonjnë, etiketojke, kërkojshin) is never the word itself, even when the start is spelled otherwise
+  if (verb && /(oj|uaj)$/.test(w.word)) {
+    if (/uar(a|ë|i|it|in|at|ve|ja|me|mi)?$/.test(s) || /ue(m|me|mi|mit|mja|n|t|ne)$/.test(form.toLowerCase())) return true;
+    if (/[ou]n?j(në|ke|ja|je|sha|she|shim|shin|shit|sh|më|ni|na|n|m)$/.test(s)) return true;
+  }
   // a verb not in -j with a participle or past ending (nxjerruna for nxjerr)
   if (verb && !/j$/.test(w.word))
     for (const stem of stems(w.word)) if (s.startsWith(stem) && /^(un|una|unat|unë|ur|ura|urat|urë|ëm|ët|ën|i|ni|nin|shin|ja|je|te|a|e|ë|sh|shë|in|im)$/.test(s.slice(stem.length))) return true;
   // a noun with a case or plural ending on it (bukt for bukë, Gheg dhelpnin for dhelpërinë, munsit for mundësisë)
+  // a noun in -i with its definite ending (shtatzënsia, knaçsia, përjetsis for shtatzëni, kënaqësi, përjetësi)
+  if (w.entries.some((e) => e.pos === "noun") && /i$/.test(w.word) && /i(a|ja|në|së|s|t|n)$/.test(s) && lev(s.replace(/i(a|ja|në|së|s|t|n)$/, "i"), w.word) <= 2) return true;
   if (w.entries.some((e) => e.pos === "noun" || e.pos === "adj")) {
     const ending = /^(t|n|i|a|e|es|en|ja|ia|ija|në|s|së|ve|it|in|nin|sit|sija|at|ët|ën|të|ri|ra|rat|et|e|itë|ënë)$/;
     for (const stem of stems(w.word.replace(/ë$/, ""))) if (s.startsWith(stem) && s.length > stem.length && ending.test(s.slice(stem.length)) && !spellings(w).includes(s)) return true;
@@ -76,11 +84,16 @@ export function inflectedForm(form: string, w: Word): boolean {
 /**
  * Whether a dialect form is the same word, said the dialect's way (Gheg des for vdes, grue for grua, naltë for
  * lartë), and not another word with the same meaning (kath for mjegull): read the standard way, it differs from the
- * word or one of its spellings in at most half its letters.
+ * word or one of its spellings in at most 40% of its letters. Gheg n for standard r (tanë for tërë, vorfën for
+ * varfër) counts as the same letter.
  */
 export function sameWord(form: string, w: Word): boolean {
   const s = standardReading(form, w);
-  return spellings(w).some((x) => lev(s, x) <= Math.max(1, Math.floor(x.length / 2)));
+  const rhotic = s.replace(/n/g, "r");
+  return spellings(w).some((x) => {
+    const limit = Math.max(1, Math.floor(x.length * 0.4));
+    return lev(s, x) <= limit || lev(rhotic, x.replace(/n/g, "r")) <= limit;
+  });
 }
 /** What the word map shows: the word as each dialect says it, never an inflected form or another word. */
 export function onMap(form: string, w: Word): boolean {
