@@ -1,9 +1,8 @@
 /**
  * Checks this billing period's R2 usage against the free allowance, so the site never runs into paid usage.
  *
- * The period is Cloudflare's billing cycle, NOT the calendar month: the account is billed from the 10th to the 9th
- * (invoice IN-88218296, Oct 10–Nov 9 2026). Counting from the 1st missed October 10–31, and that cycle went over the
- * free 1,000,000 Class A operations ($4.50). Set R2_BILLING_DAY if Cloudflare ever moves the cycle.
+ * The period is Cloudflare's billing cycle, NOT the calendar month: the account is billed from the 10th to the 9th.
+ * Counting from the 1st would miss the first days of the cycle. Set R2_BILLING_DAY if Cloudflare ever moves the cycle.
  *
  *   npx tsx scripts/usage-guard.ts
  *   npx tsx scripts/usage-guard.ts --budget 12345   can a deploy upload 12,345 more files this billing period? (exit 0 or 5)
@@ -37,7 +36,7 @@ export function uploadAllowed(used: number, planned: number, budget = UPLOAD_BUD
   return used + planned <= FREE.classA * Math.min(budget, HARD_CAP);
 }
 
-/** The day of the month the Cloudflare billing cycle starts (the invoice says Oct 10–Nov 9). */
+/** The day of the month the Cloudflare billing cycle starts. */
 export const BILLING_DAY = Number(process.env.R2_BILLING_DAY ?? 10);
 /** Start of the current billing period (UTC midnight of the last billing day on or before `now`). */
 export function periodStart(now: Date, day = BILLING_DAY): Date {
