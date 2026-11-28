@@ -35,8 +35,17 @@ const NOINDEX = process.env.NOINDEX === "1"; // test hosting: keep out of search
 
 const words: Word[] = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "fjalori.json"), "utf8"));
 const stats = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "stats.json"), "utf8"));
+// a meaning with ";" reads as notes: English meanings take a comma ("to graduate, to absolve"), Albanian ones a
+// full stop and a capital letter. data/fjalori.json keeps its own punctuation; the pages and the API show this.
+for (const w of words)
+  for (const e of w.entries)
+    for (const s of e.senses)
+      if (s.gloss.includes(";"))
+        s.gloss = s.lang === "en"
+          ? s.gloss.replace(/\s*;\s*/g, ", ").replace(/,\s*$/, "")
+          : s.gloss.replace(/\s*;\s*(\S)/g, (_, c: string) => `. ${c.toUpperCase()}`).replace(/\s*;\s*$/, "");
 const byWord = new Map(words.map((w) => [w.word, w]));
-const position = new Map(words.map((w, i) => [w.word, i])); // words are in Albanian alphabetical order
+const position =new Map(words.map((w, i) => [w.word, i])); // words are in Albanian alphabetical order
 const letterCounts = new Map(ALPHABET.map((l) => [l, 0]));
 for (const w of words) letterCounts.set(firstLetter(w.word), (letterCounts.get(firstLetter(w.word)) ?? 0) + 1);
 
@@ -154,10 +163,31 @@ const num = (n: number) => n.toLocaleString("de-DE");
 /** Numbers in English text: 24,537 */
 const numEn = (n: number) => n.toLocaleString("en-US");
 
+/**
+ * How the pages read, whatever the data and the code write:
+ * - quotation marks are "…", not «…» (the descriptions and the code use «» to mark a word, and keep doing so: the
+ *   main word of a form is read from «…»). In the text and the attributes they become &quot;, inside a <script>
+ *   (the structured data) \", so the JSON stays valid.
+ * - no ";" in the text: "a; b" becomes "a. B". Scripts, styles, code examples (<pre>, <code>) and entities such
+ *   as &amp; are left as they are.
+ */
+export function tidyPage(html: string): string {
+  return html
+    .split(/(<script\b[\s\S]*?<\/script>|<style\b[\s\S]*?<\/style>|<pre\b[\s\S]*?<\/pre>|<code\b[\s\S]*?<\/code>|<[^>]+>)/)
+    .map((part, i) => {
+      if (i % 2) return part.startsWith("<script") ? part.replace(/[«»]/g, '\\"') : part.replace(/[«»]/g, "&quot;");
+      return part
+        .replace(/[«»]/g, "&quot;")
+        .replace(/(?<!&#?[a-z0-9]+)\s*;\s+(\S)/gi, (_, c: string) => `. ${c.toUpperCase()}`)
+        .replace(/(?<!&#?[a-z0-9]+)\s*;\s*$/gi, ".")
+        .replace(/\.\. /g, ". ");
+    })
+    .join("");
+}
 function write(rel: string, content: string): void {
   const file = path.join(DIST, rel);
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, content);
+  fs.writeFileSync(file, rel.endsWith(".html") ? tidyPage(content) : content);
 }
 
 // ── layout ───────────────────────────────────────────────────────────────────
@@ -360,7 +390,7 @@ function usageHtml(n?: number): string {
 function enSummary(w: Word, first: string): string {
   const clean = (g: string) => g.replace(/[“”]/g, "");
   const more = [...new Set(w.entries.flatMap((e) => e.senses).filter((s) => s.lang === "en" && s.source !== "auto").map((s) => clean(s.gloss)))].slice(0, 3);
-  const all = more.length > 1 ? more.join("; ") : clean(first);
+  const all = more.length > 1 ? more.join(", ") : clean(first);
   return all === clean(first) ? h(all) : `<span data-ui="sq">${h(clean(first))}</span><span data-ui="en">${h(all)}</span>`;
 }
 

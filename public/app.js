@@ -14,7 +14,8 @@
     return s.toLowerCase().replace(/ë/g, "e").replace(/ç/g, "c").replace(/[âäà]/g, "a").replace(/[êé]/g, "e").replace(/[îí]/g, "i").replace(/[ôó]/g, "o").replace(/[ûú]/g, "u").replace(/[^a-z]/g, "");
   }
   function wordUrl(w) { return BASE + "/fjala/" + encodeURIComponent(w.replace(/ /g, "_")) + "/"; }
-  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  // «…» in the data is shown as "…", as on the built pages (scripts/build-site.ts plainQuotes)
+  function esc(s) { return String(s).replace(/[&<>"«»]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "«": "&quot;", "»": "&quot;" }[c]; }); }
 
   // reports and suggestions (POST /raporto → the author's weekly list); this browser remembers what it sent
   var openedAt = Date.now();
