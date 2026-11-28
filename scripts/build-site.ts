@@ -2061,6 +2061,25 @@ function apiWord(w: Word): object {
   }
   for (const [c, shard] of shards) write(`api/v1/format/${c}.json`, JSON.stringify(shard));
 
+  /**
+   * The Gheg form shown next to a word on the home page: only the same word said the Gheg way (no inflected form,
+   * no other word with the same meaning), from the most trusted source; none if no source is trusted enough.
+   * A form is shown only when two sources give it, or Wiktionary or our own editing does; the most sources first,
+   * then the most trusted. Dictionaries and grammars read by hand come first, then literature and the spoken corpus, then forms counted
+   * in web text; forms made by rule (rregull-gege) and visitors' answers are not shown here.
+   */
+  const GHEG_TRUST = ["editor", "kristoforidhi-1904", "gazulli-1942", "jungg-1895", "bashkimi-1908", "mann-1948", "busetti-1911", "ndreca-1972", "en-wiktionary", "letersia-gege", "studime-dialektore", "korpus-i-folur", "korpus-dialektor", "rossi-1875", "hahn-1854", "weigand-1914", "bardhi-1635", "libra-te-vjeter", "folesit", "korpus-gege", "hplt"];
+  const bestGheg = (w: Word): string | null => {
+    const ok = (w.dialects ?? []).filter((d) => d.dialect === "gheg" && d.form !== w.word && GHEG_TRUST.includes(d.source ?? "") && onMap(d.form, w));
+    // how many sources give each form: an old book's own spelling (qak for plak, ort for orë) stands alone,
+    // the form people know is given by several sources
+    const sources = new Map<string, Set<string>>();
+    for (const d of ok) sources.set(d.form, (sources.get(d.form) ?? new Set()).add(d.source ?? ""));
+    const best = (f: string) => Math.min(...[...sources.get(f)!].map((s) => GHEG_TRUST.indexOf(s)));
+    const shown = [...sources.keys()].filter((f) => sources.get(f)!.size >= 2 || sources.get(f)!.has("editor") || sources.get(f)!.has("en-wiktionary"));
+    shown.sort((a, b) => sources.get(b)!.size - sources.get(a)!.size || best(a) - best(b) || lev(standardReading(a, w), w.word) - lev(standardReading(b, w), w.word));
+    return shown[0] ?? null;
+  };
   // featured words for word of the day / hour: common word classes with an English meaning
   // Word of the day / hour: common, Albanian (not borrowed) words with a real meaning,
   // no dialectal, archaic or rare words (the home page should show words people know)
@@ -2082,7 +2101,7 @@ function apiWord(w: Word): object {
     .map((w) => {
       const e = w.entries.find((x) => x.senses.some((s) => s.lang === "en"))!;
       const ex = e.senses.flatMap((s) => s.examples ?? [])[0];
-      const gheg = w.dialects?.find((d) => d.dialect === "gheg")?.form ?? null;
+      const gheg = bestGheg(w);
       return [w.word, POS_SQ[e.pos], POS_EN[e.pos], e.senses.find((s) => s.lang === "en")!.gloss.slice(0, 120), gheg, ex ? ex.text : null, ex?.english ?? null, e.ipa?.[0] ?? null, w.description?.text ?? null];
     });
   write("api/v1/te-zgjedhura.json", JSON.stringify(featured));
