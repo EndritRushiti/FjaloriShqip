@@ -4,3 +4,6 @@ node_modules/
 /data/
 *.log
 brag-output*/
+permendje/java.txt
+# never commit account exports such as 2FA recovery codes
+cloudflare-*.txt

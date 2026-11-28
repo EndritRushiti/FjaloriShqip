@@ -184,7 +184,12 @@ export default {
   async scheduled(event: { cron?: string }, env: Env): Promise<void> {
     // this billing period's free R2 writes are used up: no R2 calls at all until the next period starts on the 10th (usage-guard.yml)
     if (env.R2_WRITES === "off") return;
-    if (event.cron === WEEKLY_CRON) await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO, new Date(), await weeklyStats(env.REPORTS));
+    if (event.cron === WEEKLY_CRON) {
+      // the week's mentions, written by Sunday's job (scripts/permendje.ts, .github/workflows/permendje.yml)
+      const mentions = (await (await env.REPORTS?.get("permendje/java.txt"))?.text()) ?? "";
+      const extra = [await weeklyStats(env.REPORTS), mentions.trim()].filter(Boolean).join("\n\n");
+      await sendWeekly(env.REPORTS, env.CONTACT, env.CONTACT_TO, new Date(), extra);
+    }
     else await sendBatch(env.REPORTS);
   },
 };
