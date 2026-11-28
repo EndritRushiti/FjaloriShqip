@@ -1,18 +1,107 @@
+<div align="center">
+
 # FjaloriShqip
 
-**Fjalori i hapur i gjuhës shqipe — the open dictionary of the Albanian language.**
+**Fjalori i hapur i gjuhës shqipe · The open dictionary of the Albanian language**
 
-A free, open-source Albanian dictionary whose aim is to **keep every Albanian word, in every dialect**, so that none is lost: the standard language, Gheg, Tosk, Arbëresh (Italy), Arvanitika (Greece) and old words found only in books written over the centuries, back to Buzuku (1555). Every word has its own **description in Albanian**, written by the project; English meanings are an extra help. Built from **openly licensed sources and public-domain books**, with a free JSON API.
+[fjalorishqip.org](https://fjalorishqip.org) · [API](https://fjalorishqip.org/api/) · [Burimet / Sources](https://fjalorishqip.org/burimet/)
 
-- **Every dialect**: Gheg, Tosk, Arbëresh and Arvanitika words and old words, each linked to its standard word
-- **Albanian descriptions** for every word; English meanings, examples, pronunciation (IPA), etymology as a help
-- **Search** in Albanian (works without ë/ç, finds inflected forms: *punova → punoj*) or in English
+![Fjalë](https://img.shields.io/badge/fjal%C3%AB-130%2C000%2B-c8102e) ![Dialekte](https://img.shields.io/badge/dialekte-geg%C3%AB%20%C2%B7%20tosk%C3%AB%20%C2%B7%20arb%C3%ABreshe%20%C2%B7%20arvanitase-6b5b95) ![API](https://img.shields.io/badge/API-JSON%20falas%2C%20pa%20%C3%A7el%C3%ABs-2e7d32) ![Të dhënat](https://img.shields.io/badge/t%C3%AB%20dh%C3%ABnat-CC%20BY--SA%204.0-blue) ![Kodi](https://img.shields.io/badge/kodi-MIT-lightgrey)
+
+**[Shqip](#shqip) · [English](#english) · [API](#api)**
+
+</div>
+
+---
+
+## Shqip
+
+**FjaloriShqip** është një fjalor falas dhe i hapur që synon të ruajë **çdo fjalë shqipe, në çdo dialekt**, që asnjë të mos humbasë. Përfshin gjuhën standarde, gegërishten, toskërishten, arbërishten e Italisë, arvanitishten e Greqisë dhe fjalët e vjetra që gjenden vetëm në libra, deri te Buzuku (1555).
+
+- **Mbi 130 000 fjalë**, secila me **përshkrimin e vet në shqip**, të shkruar nga projekti
+- **Mbi 33 000 forma dialektore**, secila e lidhur me fjalën standarde
+- **Harta e fjalës** tregon ku thuhet çdo formë, sipas burimeve
+- **Zgjedhimi dhe lakimi** i plotë i foljeve dhe emrave
+- **Kërkimi** gjen fjalën edhe pa ë e ç, edhe nga një formë e saj (*punova → punoj*)
+- **Librat e vjetër**, me vitin, ku është shkruar fjala ose një formë e saj
+- **API falas në JSON**, pa çelës dhe pa llogari
+- Anglishtja jepet vetëm si ndihmë
+
+### Si ta përdorni
+
+- **Në faqe:** [fjalorishqip.org](https://fjalorishqip.org)
+- **Në projektin tuaj:** me [API-në](#api) falas. Lejohet përdorimi edhe tregtar, sipas licencës CC BY-SA 4.0, duke përmendur FjaloriShqip.
+- **Keni gjetur një gabim?** Te faqja e fjalës, «Si e thua ti?» dhe pastaj «Ka një gabim në këtë fjalë?», ose [formulari i kontaktit](https://fjalorishqip.org/rreth/#kontakt).
+- **E thoni ndryshe në vendin tuaj?** Shtojeni me «Si e thua ti?». Format që i japin disa folës shtohen në fjalor.
+
+Nëse e përdorni FjaloriShqip në një projekt, na tregoni. Do të na gëzonte ta përmendim.
+
+---
+
+## English
+
+**FjaloriShqip** is a free and open dictionary whose aim is to keep **every Albanian word, in every dialect**, so that none is lost: the standard language, Gheg, Tosk, Arbëresh (Italy), Arvanitika (Greece) and old words found only in books, back to Buzuku (1555).
+
+- **Over 130,000 words**, each with **its own description in Albanian**, written by the project
+- **Over 33,000 dialect forms**, each linked to its standard word
+- **A word map** showing where each form is said, according to the sources
 - **Full verb conjugations and noun declensions**
-- **Word of the day** and **word of the hour**
-- **Static JSON API**: no key, no sign-up
-- **References page** (`/burimet/`) listing every source, its licence and retrieval date; every word page links to its sources
+- **Search** that works without ë and ç and finds a word from any of its forms (*punova → punoj*), in Albanian or English
+- **Old books**, with their year, in which a word or one of its forms was written
+- **A free JSON API**, no key and no sign-up
+- The interface is Albanian first, English second. English meanings are a help, not the goal: this is not an Albanian–English dictionary.
 
-Interface: Albanian first, English second (switch in the header).
+### How to use it
+
+- **On the web:** [fjalorishqip.org](https://fjalorishqip.org)
+- **In your project:** through the free [API](#api). Commercial use is allowed under CC BY-SA 4.0, with credit to FjaloriShqip.
+- **Found a mistake?** On the word's page, «Si e thua ti?» and then «Ka një gabim në këtë fjalë?», or the [contact form](https://fjalorishqip.org/rreth/#kontakt).
+
+If you use FjaloriShqip in a project, let us know. We would be glad to mention it.
+
+---
+
+## API
+
+Static JSON files. No key, no account, CORS open to every site (`Access-Control-Allow-Origin: *`). Documentation in Albanian and English: [fjalorishqip.org/api](https://fjalorishqip.org/api/).
+
+| Endpoint | Përmbajtja · Content |
+|---|---|
+| `GET /api/v1/fjala/{fjala}.json` | Një fjalë me të gjitha të dhënat · One word with all its data: Albanian description, meanings, forms, dialect forms, examples, sources, licence |
+| `GET /api/v1/fjalet.json` | Të gjitha fjalët · Every headword |
+| `GET /api/v1/kerko.json` | Treguesi i kërkimit · Search index `[word, folded key, word class, short meaning, …]` |
+| `GET /api/v1/format/{shkronja}.json` | Forma → fjala · Inflected or dialect form → headword, by first letter |
+| `GET /api/v1/dialekte.json` | Format gege, toske, arbëreshe, arvanitase me fjalën standarde · Dialect forms with their standard word |
+| `GET /api/v1/statistika.json` | Numrat dhe data e të dhënave · Counts and data date |
+
+In the address, the word is written as it is (with ë and ç, URL-encoded), and a space becomes `_`.
+
+```bash
+curl https://fjalorishqip.org/api/v1/fjala/k%C3%ABmb%C3%AB.json
+```
+
+```js
+// JavaScript (browser or Node.js 18+)
+const word = "këmbë";
+const res = await fetch(`https://fjalorishqip.org/api/v1/fjala/${encodeURIComponent(word.replace(/ /g, "_"))}.json`);
+const w = await res.json();
+console.log(w.description.text);                                   // "Gjymtyra e trupit me të cilën ecim. …"
+console.log(w.dialects.filter((d) => d.dialect === "gheg").map((d) => d.form)); // ["kâmbë", "kambë", …]
+```
+
+```python
+# Python
+import requests, urllib.parse
+word = "këmbë"
+w = requests.get("https://fjalorishqip.org/api/v1/fjala/" + urllib.parse.quote(word.replace(" ", "_")) + ".json").json()
+print(w["description"]["text"])
+```
+
+Finding the headword of any form (*kambën*, *punova*): read `/api/v1/format/{first letter}.json`, then the word's own file.
+
+Please cache what you use and do not send many requests at once. The data is the same for everyone and changes about once a week.
+
+---
 
 ## Data and licences
 
@@ -27,52 +116,21 @@ Interface: Albanian first, English second (switch in the header).
 | [Albanet](https://github.com/omwn/omw-data/tree/main/wns/als) (Albanian WordNet) | CC BY 3.0 | words and same-meaning groups (not its definitions) |
 | [MaCoCu Albanian web corpus](http://hdl.handle.net/11356/1804) | CC0 | word counts only (confirms new words are in use) |
 | [Tatoeba](https://tatoeba.org/) | CC BY 2.0 FR | example sentences with English translation, reviewed one by one (author of each in `shembuj/tatoeba.tsv`) |
-| [HPLT v2](https://hplt-project.org/datasets/v2.0) Albanian web corpus | CC0 | word counts only (confirms words and regular Gheg forms are in use) |
+| [HPLT](https://hplt-project.org/) Albanian web corpus | CC0 | word counts only (confirms words and regular Gheg forms are in use) |
 | [EuroVoc](https://op.europa.eu/en/web/eu-vocabularies/eurovoc) (Albanian) | free reuse with acknowledgement (Decision 2011/833/EU) | about 100 single-word terms, described by us |
-| Public-domain books: Hahn 1854, Dozon 1879, Meyer 1891, Rossi 1875, Jungg 1895, Kristoforidhi 1904, Gazulli 1942 (scans on archive.org) | public domain | old, regional and dialect words, converted to today's spelling; meanings translated, descriptions our own |
+| Public-domain books: Bardhi 1635, Hahn 1854, Rossi 1875, Dozon 1879, Meyer 1891, Jungg 1895, Kristoforidhi 1904, Gazulli 1942 and others (scans on archive.org) | public domain | old, regional and dialect words, converted to today's spelling; meanings translated, descriptions our own |
 | Stuart E. Mann, *An Historical Albanian-English Dictionary* (1948) | words and facts only | old, regional and dialect words with word class, dialect and standard word; its definitions, examples and etymologies are not copied |
+
+The full list, with every source's licence and date, is on [fjalorishqip.org/burimet](https://fjalorishqip.org/burimet/).
 
 **Never copied:** definitions, examples or structure from copyrighted dictionaries, such as the Academy's *Fjalori i gjuhës shqipe* (FGJSSH). Every Albanian description is written by the project. About 33,000 Wikifjalor pages copy the FGJSSH layout and are excluded completely. See [DATA-LICENSE.md](DATA-LICENSE.md).
 
 - Code: **MIT** ([LICENSE](LICENSE))
 - Data: **CC BY-SA 4.0**; the unverified Hunspell words: **GPL-2.0-or-later**
 
-### Extra words from the spell-checking list
+---
 
-`scripts/lib/hunspell-lemmas.ts` finds base words in the Hunspell list, which mostly spells out
-inflected forms (*punoj, punon, punova…*). A word counts as a base word unless suffix rules explain it
-as a form of another listed word. A new word is only added when it, or one of its forms, appears in
-Albanian Wikipedia. Measured on the words we already know, about 92% of these are real base words.
-
-Word counts are made occasionally on a developer machine; the 160 MB dump is not needed for the build:
-
-```bash
-# word counts (into derived/)
-bzip2 -dc sources/sqwiki-latest-pages-articles.xml.bz2 | npx tsx scripts/word-frequency.ts wikipedia
-unzip -p sources/MaCoCu-sq-1.0.xml.zip | npx tsx scripts/word-frequency.ts macocu
-# Albanian parts of Wiktionary (English: ~3 GB download, streamed)
-curl -sL https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz | gzip -dc | npx tsx scripts/extract-wiktionary.ts en
-curl -sL https://kaikki.org/dictionary/downloads/fr/fr-extract.jsonl.gz | gzip -dc | npx tsx scripts/extract-wiktionary.ts fr
-# Albanet + Princeton WordNet
-npx tsx scripts/extract-albanet.ts
-```
-
-Every new word goes through `scripts/lib/dedupe.ts`. It is rejected when it is an existing headword, a known
-inflected or dialect form, the same word written without ë/ç, or an inflected form of a known word.
-
-## API
-
-All endpoints are static JSON files:
-
-| Endpoint | Content |
-|---|---|
-| `GET /api/v1/fjala/{word}.json` | one word: meanings, forms, dialect forms, sources |
-| `GET /api/v1/fjalet.json` | all headwords |
-| `GET /api/v1/kerko.json` | search index `[word, folded key, part of speech, short meaning]` |
-| `GET /api/v1/format/{letter}.json` | inflected/dialect form → headword |
-| `GET /api/v1/statistika.json` | counts and data version |
-
-## Running it locally
+## For developers
 
 Requires Node.js 22+.
 
@@ -80,30 +138,17 @@ Requires Node.js 22+.
 npm install
 npm run sources   # download the open sources into ./sources (once; ~80 MB)
 npm run data      # merge them into data/fjalori.json
-npm run build     # generate the website + API into ./dist
+npm run build     # generate the website and the API into ./dist
 npm run serve     # preview at http://localhost:4321
 npm test
 ```
 
-## Hosting (free)
+Every new word goes through `scripts/lib/dedupe.ts`. It is rejected when it is an existing headword, a known inflected or dialect form, the same word written without ë/ç, or an inflected form of a known word. `scripts/quality-check.ts` checks the whole dictionary before every deploy.
 
-**Cloudflare (R2 + Worker).** `.github/workflows/deploy-cloudflare.yml` builds everything on every push to `main` (and every Monday), uploads only the changed files of `dist/` to the R2 bucket `fjalorishqip`, and deploys the Worker in `src/worker/` (config: `wrangler.toml`), which serves the files. R2 has no limit on the number of files, so the site can keep growing. The workflow needs four repository secrets, listed at the top of the file. The site is public and indexed; setting `NOINDEX` to "1" (in `wrangler.toml` and the workflow) would keep it out of search engines again.
+---
 
-The site is served at **https://fjalorishqip.org** (registered at GoDaddy, DNS on Cloudflare); `www.fjalorishqip.org` redirects there.
+## Disclaimer · Shënim
 
-**Staying free.** `.github/workflows/usage-guard.yml` checks the month's R2 usage every day: at 80% of a free allowance the run fails (GitHub sends an email); at 95% of the free reads or storage a small offline Worker is put in front of the site (it reads nothing from R2); at 95% of the free uploads (Class A) the site stays online but deploys and the Worker's own writes (reports, notification sign-ups, the app open counter) pause until the next month. Pages link `style.css` and `app.js` without a version in the address, so a change to them uploads two files, not every page. The Worker itself is on the free plan, which errors instead of billing when its daily request limit is reached.
+FjaloriShqip is not the official dictionary of the Academy of Sciences of Albania. For the official standard, see the Academy's publications.
 
-`.github/workflows/ci.yml` type-checks and tests every push.
-
-The only cost is the domain (~€10–15 per year).
-
-## Roadmap
-
-1. ✅ Dictionary from open sources, static API, references page
-2. ⏳ Word suggestions and voting by visitors (no accounts), reviewed by the maintainer
-3. ⏳ More Gheg sources, once their licences are confirmed
-4. ⏳ Later: Albanian names, history and culture sections; the Fjale Shqipe research tools
-
-## Disclaimer
-
-This is not the official dictionary of the Academy of Sciences of Albania. For the official standard, see the Academy's publications.
+FjaloriShqip nuk është fjalori zyrtar i Akademisë së Shkencave të Shqipërisë. Për normën zyrtare, shihni botimet e Akademisë.
