@@ -1,1 +1,5 @@
 # Google Alerts RSS feeds for "fjalorishqip.org", one per line (scripts/permendje.ts reads them every day).
+# "fjalorishqip.org"
+https://www.google.com/alerts/feeds/04739319519310441712/641895787883755054
+# "fjalorishqip" -site:fjalorishqip.org (also #fjalorishqip on social networks)
+https://www.google.com/alerts/feeds/04739319519310441712/4773204259746118301
