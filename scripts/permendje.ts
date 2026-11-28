@@ -1,7 +1,12 @@
 /**
- * The Sunday job (.github/workflows/permendje.yml): looks for the places that mention or use FjaloriShqip and
- * keeps them in permendje/permendje.json, with permendje/README.md as the list to read. The week's new places are
- * written to permendje/java.txt, which the Monday email puts on top (src/worker/report.ts reads it from R2).
+ * The daily job (.github/workflows/permendje.yml): looks for the places that mention or use FjaloriShqip and
+ * keeps them in permendje/permendje.json, with permendje/README.md as the list to read. The places found in the
+ * last 7 days are written to permendje/java.txt, which the Monday email puts on top (src/worker/index.ts reads it
+ * from R2).
+ *
+ * Google Alerts: Google's own search for "fjalorishqip.org", delivered as an RSS feed (permendje/google-alerts.txt
+ * holds the feed's address). Reading that feed is what it is made for; Google's search pages themselves may not be
+ * read by a program. Posts on social networks that Google finds come in this way.
  *
  * Only sources that allow automated access, each asked once a week with the client name below:
  *   Wikipedia (several languages)   pages that link to fjalorishqip.org            (MediaWiki API)
@@ -25,7 +30,7 @@ const DIR = "permendje";
 const DATA = `${DIR}/permendje.json`;
 const WIKIS = ["sq", "en", "it", "el", "de", "fr", "mk", "sr", "tr", "simple"];
 
-export type Kind = "wikipedia" | "github" | "social" | "hackernews" | "vizita" | "api";
+export type Kind = "social" | "web" | "wikipedia" | "github" | "hackernews" | "vizita" | "api";
 export interface Mention {
   url: string;
   title: string;
@@ -38,9 +43,10 @@ export interface Mention {
   count?: number;
 }
 export const KIND_SQ: Record<Kind, string> = {
+  social: "Rrjete sociale",
+  web: "Faqe në internet",
   wikipedia: "Wikipedia",
   github: "GitHub",
-  social: "Rrjete sociale",
   hackernews: "Hacker News",
   vizita: "Faqe që na sjellin vizitorë",
   api: "Përdorues të API-së",
@@ -119,6 +125,43 @@ async function social(): Promise<Omit<Mention, "firstSeen" | "lastSeen">[]> {
   };
   for (const p of lemmy.posts ?? []) out.push({ url: p.post.ap_id, title: p.post.name, kind: "social", where: "Lemmy" });
   for (const c of lemmy.comments ?? []) if (c.comment.content.includes(HOST)) out.push({ url: c.comment.ap_id, title: c.comment.content.replace(/\s+/g, " ").slice(0, 100), kind: "social", where: "Lemmy" });
+  return out;
+}
+
+/** Social networks: a link from Google Alerts to one of these is a post, not a website. */
+const SOCIAL = /(^|\.)(facebook|fb|instagram|x|twitter|tiktok|linkedin|youtube|reddit|threads|pinterest|bsky|mastodon\.[a-z]+|t)\.(com|net|app|me|social)$/;
+
+/** Google Alerts' RSS feed: each entry links through google.com/url?url=…, the real address is taken out. */
+export function alertEntries(xml: string): { url: string; title: string }[] {
+  const out: { url: string; title: string }[] = [];
+  for (const e of xml.match(/<entry>[\s\S]*?<\/entry>/g) ?? []) {
+    const href = (e.match(/<link[^>]*href="([^"]+)"/) || [])[1]?.replace(/&amp;/g, "&");
+    if (!href) continue;
+    let url = href;
+    try { url = new URL(href).searchParams.get("url") ?? href; } catch { /* keep the link as it is */ }
+    const title = ((e.match(/<title[^>]*>([\s\S]*?)<\/title>/) || [])[1] ?? url)
+      .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, "&")
+      .replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+    out.push({ url, title });
+  }
+  return out;
+}
+
+async function googleAlerts(): Promise<Omit<Mention, "firstSeen" | "lastSeen">[]> {
+  const file = `${DIR}/google-alerts.txt`;
+  const feeds = fs.existsSync(file) ? fs.readFileSync(file, "utf8").split(/\r?\n/).map((l) => l.trim()).filter((l) => l.startsWith("https://")) : [];
+  if (!feeds.length) throw new Error(`no feed in ${file}`);
+  const out: Omit<Mention, "firstSeen" | "lastSeen">[] = [];
+  for (const feed of feeds) {
+    const r = await fetch(feed, { headers: { "User-Agent": UA } });
+    if (!r.ok) throw new Error(`${r.status} Google Alerts`);
+    for (const { url, title } of alertEntries(await r.text())) {
+      let host = "";
+      try { host = new URL(url).hostname.replace(/^www\.|^m\./, ""); } catch { continue; }
+      if (host.endsWith(HOST)) continue;
+      out.push({ url, title, kind: SOCIAL.test(host) ? "social" : "web", where: `Google: ${host}` });
+    }
+  }
   return out;
 }
 
@@ -203,9 +246,9 @@ export function readme(all: Mention[], failed: string[], today: string): string 
   const parts = [
     "# Ku përmendet FjaloriShqip",
     "",
-    `Përditësuar më ${today}, çdo të diel nga \`scripts/permendje.ts\`. ${all.length} vende gjithsej. Më të rejat sipër.`,
+    `Përditësuar më ${today}, çdo ditë nga \`scripts/permendje.ts\`. ${all.length} vende gjithsej. Më të rejat sipër.`,
     "",
-    "Burimet: Wikipedia, GitHub, Bluesky, Lemmy, Hacker News dhe Cloudflare (faqet që na sjellin vizitorë, kush thërret API-në). Për pjesën tjetër të internetit shihni raportin «Links» te Google Search Console.",
+    "Burimet: Google Alerts (përfshi postimet në rrjete sociale që gjen Google), Wikipedia, GitHub, Bluesky, Lemmy, Hacker News dhe Cloudflare (faqet që na sjellin vizitorë, kush thërret API-në). Për pjesën tjetër të internetit shihni raportin «Links» te Google Search Console.",
   ];
   if (failed.length) parts.push("", `Këtë javë nuk u arrit: ${failed.join(", ")}.`);
   for (const k of Object.keys(KIND_SQ) as Kind[]) {
@@ -216,8 +259,11 @@ export function readme(all: Mention[], failed: string[], today: string): string 
 }
 
 /** The Monday email's part: only what is new this week, and the week's sources of visitors and API calls. */
-export function weekText(fresh: Mention[], all: Mention[], failed: string[], today: string): string {
-  const seenNow = all.filter((m) => m.lastSeen === today && (m.kind === "vizita" || m.kind === "api"));
+export function weekText(all: Mention[], failed: string[], today: string): string {
+  // the job runs every day: the email shows what was found in the last 7 days
+  const weekAgo = new Date(new Date(`${today}T00:00:00Z`).getTime() - 6 * 86400000).toISOString().slice(0, 10);
+  const fresh = all.filter((m) => m.firstSeen >= weekAgo && m.kind !== "vizita" && m.kind !== "api");
+  const seenNow = all.filter((m) => m.lastSeen >= weekAgo && (m.kind === "vizita" || m.kind === "api"));
   const lines = [`== Përmendjet e javës (${fresh.length} vende të reja) ==`, ""];
   if (fresh.length) lines.push(...fresh.map((m) => `• [${KIND_SQ[m.kind]}] ${m.title} — ${m.url.startsWith("api:") ? m.where : m.url}`));
   else lines.push("Asnjë vend i ri këtë javë.");
@@ -234,6 +280,7 @@ async function main() {
   const found: Omit<Mention, "firstSeen" | "lastSeen">[] = [];
   const failed: string[] = [];
   const sources: [string, () => Promise<Omit<Mention, "firstSeen" | "lastSeen">[]>][] = [
+    ["Google Alerts", googleAlerts],
     ["Wikipedia", wikipedia],
     ["GitHub", github],
     ["Hacker News", hackernews],
@@ -255,8 +302,8 @@ async function main() {
   fs.mkdirSync(DIR, { recursive: true });
   fs.writeFileSync(DATA, JSON.stringify(all, null, 1) + "\n");
   fs.writeFileSync(`${DIR}/README.md`, readme(all, failed, today));
-  fs.writeFileSync(`${DIR}/java.txt`, weekText(fresh, all, failed, today) + "\n");
-  console.log(`new this week: ${fresh.length}, all: ${all.length}`);
+  fs.writeFileSync(`${DIR}/java.txt`, weekText(all, failed, today) + "\n");
+  console.log(`new today: ${fresh.length}, all: ${all.length}`);
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) {

@@ -1,11 +1,11 @@
-# Every Sunday: where FjaloriShqip is mentioned or used (scripts/permendje.ts). The full list is kept in
-# permendje/README.md; the week's new places go to the private reports bucket, and Monday's email puts them on top
-# (src/worker/index.ts). One small file is uploaded a week. The commit has [skip ci], so nothing is deployed.
+# Every day: where FjaloriShqip is mentioned or used (scripts/permendje.ts). The full list is kept in
+# permendje/README.md; the last 7 days' new places go to the private reports bucket, and Monday's email puts them on top
+# (src/worker/index.ts). One small file is uploaded a day (about 30 of the free 1,000,000 uploads a billing period). The commit has [skip ci], so nothing is deployed.
 name: Permendjet
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 19 * * 0"
+    - cron: "0 19 * * *" # every day, so no post in the Google Alerts feed is missed
 permissions:
   contents: write
 concurrency:

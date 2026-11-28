@@ -1,0 +1,1 @@
+# Google Alerts RSS feeds for "fjalorishqip.org", one per line (scripts/permendje.ts reads them every day).
